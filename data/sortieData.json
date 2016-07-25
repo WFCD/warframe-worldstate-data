@@ -1,0 +1,3417 @@
+{
+  "endStates" : [
+    {
+      "bossName" : "Captain Vor",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Vay Hek",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Sargas Ruk",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Kela de Thaym",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Survival",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Lech Kril",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Tyl Regor",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Jackal",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Alad V",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Ambulas",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Hyena Pack",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Rescue",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Sabotage",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Nef Anyo",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Raptor",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Phorid",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hive",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Lephantis",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Spy",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hive",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName" : "Mutalist Alad V",
+      "regions" : [
+        {
+          "name" : "0",
+          "missions" : []
+        },
+        {
+          "name" : "Mercury",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Venus",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Earth",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Mars",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Jupiter",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Saturn",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Uranus",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Neptune",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Pluto",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Ceres",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Eris",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hive",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Sedna",
+          "missions" : [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "Europa",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
+          ]
+        },
+        {
+          "name" : "14",
+          "missions" : []
+        },
+        {
+          "name" : "15",
+          "missions" : []
+        },
+        {
+          "name" : "Phobos",
+          "missions" : [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        }
+      ]
+    }
+  ],
+  "modifiers" : [
+    "+ Enemy armor/shield",
+    "Environmental hazard",
+    "Enemy damage resistance",
+    "Energy reduction",
+    "Eximus stronghold",
+    "Weapon restriction"
+  ]
+}

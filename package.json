@@ -1,0 +1,29 @@
+{
+  "name": "warframe-worldstate-data",
+  "version": "0.0.1",
+  "description": "Warframe data for use with warframe-worldstate-parser",
+  "main": "exports.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliasfalse/warframe-worldstate-data.git"
+  },
+  "keywords": [
+    "warframe-worldstate",
+    "javascript",
+    "warframe"
+  ],
+  "author": "aliasfalse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliasfalse/warframe-worldstate-data/issues"
+  },
+  "homepage": "https://github.com/aliasfalse/warframe-worldstate-data#readme"
+}

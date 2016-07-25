@@ -1,0 +1,39 @@
+{
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "Any Mode"
+    },
+    "PVPMODE_DEATHMATCH": {
+      "value": "Annihilation"
+    },
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "Team Annihilation"
+    },
+    "PVPMODE_NONE": {
+      "value": "None"
+    },
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "Capture the Cephalon"
+    },
+    "PVPMODE_SPEEDBALL": {
+      "value": "Lunaro"
+    }    
+  },
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "week"
+    },
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "week_root"
+    },
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "day"
+    },
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "day_root"
+    },
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "modified round"
+    }
+  }
+}

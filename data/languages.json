@@ -1,0 +1,399 @@
+{
+  "/lotus/language/g1quests/kelaeventtitle": {
+    "value": "Operation: Rathuum"
+  }
+  , "/lotus/language/g1quests/kelaeventbonustitle": {
+    "value": "ENDLESS RATHUUM"
+  }
+  , "/lotus/language/g1quests/kelaeventtitleb": {
+    "value": "KELA DE THAYM'S COURT"
+  }
+  , "/lotus/language/g1quests/kelaeventgoala": {
+    "value": "Judgement Points Earned"
+  }
+  , "/lotus/language/g1quests/kelaeventgoalb": {
+    "value": "Kela Defeated"
+  }
+  , "/lotus/language/g1quests/kelaeventgoalc": {
+    "value": "Executioners Defeated"
+  }
+  , "/lotus/language/items/kelaeventbadgename": {
+    "value": "RATHUUM BADGE"
+    , "desc": "Awarded to those who stood against Kela De Thaym and her Executioners."
+  }
+  , "/lotus/language/sigils/kelaeventsigilname": {
+    "value": "RATHUUM SIGIL"
+    , "desc": "A sigil commemorating the liberation of defectors from the Grineer."
+  }
+  , "/lotus/language/items/furaxwraithname": {
+    "value": "FURAX WRAITH"
+    , "desc": "These Wraith gauntlets have been augmented for power."
+  }
+  , "/lotus/language/items/kelaeventdogtagname": {
+    "value": "RATHUUM PRISONER COORDINATES"
+    , "desc": "To be delivered to Steel Meridian or chosen Syndicate in the relay."
+  }
+  , "/lotus/language/items/orokinreactor": {
+    "value": "OROKIN REACTOR"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengegamemodewins": {
+    "value": "Win a timed match"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengegamemodecomplete": {
+    "value": "Finish a match"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengeotherchallengecompleteany": {
+    "value": "Finish a challenge"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengeweeklystandardset": {
+    "value": "the standard set of weekly challenges"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsmeleeeasy": {
+    "value": "Kill enemies with melee"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsmeleemedium": {
+    "value": "Kill enemies with melee"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsmeleehard": {
+    "value": "Kill enemies with melee"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillstargetinaireasy": {
+    "value": "Kill enemies in the air"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillstargetinairmedium": {
+    "value": "Kill enemies in the air"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillstargetinairhard": {
+    "value": "Kill enemies in the air"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengematchcompleteeasy": {
+    "value": "Win a timed match"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengematchcompletemedium": {
+    "value": "Win a timed match"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengematchcompletehard": {
+    "value": "Win a timed match"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillssecondaryeasy": {
+    "value": "Kill enemies with a secondary"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillssecondarymedium": {
+    "value": "Kill enemies with a secondary"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillssecondaryhard": {
+    "value": "Kill enemies with a secondary"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillswhileinaireasy": {
+    "value": "Kill enemies while in the air"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillswhileinairmedium": {
+    "value": "Kill enemies while in the air"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillswhileinairhard": {
+    "value": "Kill enemies while in the air"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillswhileslidingeasy": {
+    "value": "Kill enemies while sliding"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillswhileslidingmedium": {
+    "value": "Kill enemies while sliding"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillswhileslidinghard": {
+    "value": "Kill enemies while sliding"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedaffectorsupereverything": {
+    "value": "Kill enemies while sliding"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengeflagreturneasy": {
+    "value": "Return the Cephalon"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengeflagreturnmedium": {
+    "value": "Return the Cephalon"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengeflagreturnhard": {
+    "value": "Return the Cephalon"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspowereasy": {
+    "value": "Kill enemies fast"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspowermedium": {
+    "value": "Kill enemies fast"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspowerhard": {
+    "value": "Kill enemies fast"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakstopped_easy": {
+    "value": "Stop a kill Streak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakstopped_medium": {
+    "value": "Stop a kill Streak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakstopped_hard": {
+    "value": "Stop a kill Streak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakeasy": {
+    "value": "Get a kill streak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakmedium": {
+    "value": "Get a kill streak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakhard": {
+    "value": "Get a kill streak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsprimaryeasy": {
+    "value": "Get kills with your primary"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsprimarymedium": {
+    "value": "Get kills with your primary"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsprimaryhard": {
+    "value": "Get kills with your primary"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakdomination_easy": {
+    "value": "Dominate with your kill streaks"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakdomination_medium": {
+    "value": "Dominate with your kill streaks"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakdomination_hard": {
+    "value": "Dominate with your kill streaks"
+  }
+  , "/lotus/language/game/burstcasteracolyte": {
+    "value": "Angst"
+  }
+  , "/lotus/language/game/rogueacolyte": {
+    "value": "Mania"
+  }
+  , "/lotus/language/game/controlacolyte": {
+    "value": "Torment"
+  }
+  , "/lotus/language/game/duellistacolyte": {
+    "value": "Violence"
+  }
+  , "/lotus/language/game/heavyacolyte": {
+    "value": "Malice"
+  }
+  , "/lotus/language/game/areacasteracolyte": {
+    "value": "Misery"
+  }
+  , "/lotus/types/enemies/acolytes/strikeracolyteagent": {
+    "value": "Angst"
+  }
+  , "/lotus/types/enemies/acolytes/rogueacolyteagent": {
+    "value": "Mania"
+  }
+  , "/lotus/types/enemies/acolytes/controlacolyteagent": {
+    "value": "Torment"
+  }
+  , "/lotus/types/enemies/acolytes/duellistacolyteagent": {
+    "value": "Violence"
+  }
+  , "/lotus/types/enemies/acolytes/heavyacolyteagent": {
+    "value": "Malice"
+  }
+  , "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
+    "value": "Misery"
+  }
+  , "/lotus/storeitems/types/items/syndicatedogtags/kelaeventdogtag": {
+    "value": "Grineer Defector's Location"
+  }
+  , "/lotus/storeitems/types/items/miscitems/orokinreactor": {
+    "value": "Orokin Reactor"
+  }
+  , "/lotus/storeitems/weapons/tenno/melee/fist/furaxwraith": {
+    "value": "Furax Wraith"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsheadshotseasy": {
+    "value": "Kill your enemies with headshots"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsheadshotsmedium": {
+    "value": "Kill your enemies with headshots"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsheadshotshard": {
+    "value": "Kill your enemies with headshots"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedaffectorsuperenergy": {
+    "value": "Keep your energy at maximum"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengeflagcaptureeasy": {
+    "value": "Win a match"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengeflagcapturemedium": {
+    "value": "Win a match"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengeflagcapturehard": {
+    "value": "Win a match"
+  }
+  , "/lotus/language/g1quests/fomorianrevengebattlename": {
+    "value": "Balor Fomorian"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsmultieasy": {
+    "value": "Get a multi-enemy killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsmultimedium": {
+    "value": "Get a multi-enemy killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsmultihard": {
+    "value": "Get a multi-enemy killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakstoppedeasy": {
+    "value": "Stop a killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakstoppedhard": {
+    "value": "Stop a killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakstoppedmedium": {
+    "value": "Stop a killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakdominationeasy": {
+    "value": "Get a dominating killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakdominationmedium": {
+    "value": "Get a dominating killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreakdominationhard": {
+    "value": "Get a dominating killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedaffectorsuperpistoldamage": {
+    "value": "Get a pistol damage boost"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedaffectorsuperpowerdamage": {
+    "value": "Get a kill with an ability"
+  }
+  , "/lotus/language/menu/corpusinvasiongeneric": {
+    "value": "Corpus Siege"
+  }
+  , "/lotus/language/menu/infestedinvasionboss": {
+    "value": "PHORID Manifestation"
+  }
+  , "/lotus/language/menu/infestedinvasiongeneric": {
+    "value": "Infested Outbreak"
+  }
+  , "/lotus/language/menu/grineerinvasiongeneric": {
+    "value": "Grineer Offensive"
+  }
+  , "/lotus/language/menu/grineerinvasionleader": {
+    "value": "Grineer Faction"
+  }
+  , "/lotus/language/menu/infestedinvasionending": {
+    "value": "INFESTATION Subsiding"
+  }
+  , "/lotus/types/game/solarrails/basicsolarrail": {
+    "value": "SOLAR RAIL - TOWER CLASS"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreak_easy": {
+    "value": "Get a killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreak_medium": {
+    "value": "Get a killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillsstreak_hard": {
+    "value": "Get a killstreak"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspaybackeasy": {
+    "value": "Get revenge"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspaybackmedium": {
+    "value": "Get revenge"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspaybackhard": {
+    "value": "Get revenge"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspayback_easy": {
+    "value": "Get revenge"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspayback_medium": {
+    "value": "Get revenge"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillspayback_hard": {
+    "value": "Get revenge"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedaffectorsupermeleedamage": {
+    "value": "Do lots of melee damage"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillscomboeasy": {
+    "value": "Get an enemy kill combo"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillscombomedium": {
+    "value": "Get an enemy kill combo"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengekillscombohard": {
+    "value": "Get an enemy kill combo"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballgoalseasy": {
+    "value": "Score goals"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballgoalsmedium": {
+    "value": "Score goals"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballgoalshard": {
+    "value": "Score goals"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballinterceptionseasy": {
+    "value": "Intercept passes from an enemy"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballinterceptionsmedium": {
+    "value": "Intercept passes from an enemy"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballinterceptionshard": {
+    "value": "Intercept passes from an enemy"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballcatcheseasy": {
+    "value": "Catch the Lunaro"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballcatchesmedium": {
+    "value": "Catch the Lunaro"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballcatcheshard": {
+    "value": "Catch the Lunaro"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballstealseasy" : {
+    "value": "Steal the Lunaro"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballstealsmedium" : {
+    "value": "Steal the Lunaro"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballstealshard" : {
+    "value": "Steal the Lunaro"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballcheckseasy" : {
+    "value" : "Check another player"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballchecksmedium" : {
+    "value" : "Check another player"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballcheckshard" : {
+    "value" : "Check another player"
+  }
+  , "/lotus/types/game/library/targets/research1target" : {
+    "value" : "Lancer"
+  }
+  , "/lotus/types/game/library/targets/research2target" : {
+    "value" : "Anti Moa"
+  }
+  , "/lotus/types/game/library/targets/research3target" : {
+    "value" : "Arid Eviscerator"
+  }
+  , "/lotus/types/game/library/targets/research4target" : {
+    "value" : "Corrupted Ancient"
+  }
+  , "/lotus/types/game/library/targets/research5target" : {
+    "value" : "Crewman"
+  }
+  , "/lotus/types/game/library/targets/research6target" : {
+    "value" : "Runner"
+  }
+  , "/lotus/types/game/library/targets/research7target" : {
+    "value" : "Guardsman"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballpasseseasy":{    
+    "value" : "Make a successful Lunaro pass"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballpassesmedium":{
+    "value" : "Make a successful Lunaro pass"
+  }
+  , "/lotus/pvpchallengetypes/pvptimedchallengespeedballpasseshard":{
+    "value" : "Make a successful Lunaro pass"
+  }
+}
