@@ -21,7 +21,7 @@ var erpoMission = erpo.type;
 ## Available data and formatting
 
 JSON | Data Accessor | Description
--|-|- 
+--- |--- | --- 
 `conclaveData.json` | `conclave` | Stores conclave data for modes and categories
 `eventsData.json` | `events` | Stores event strings. May be deprecated when languages.json is more complete.
 `factionsData.json`|`factions`|Stores faction strings for identifying each faction
