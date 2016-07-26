@@ -6,6 +6,7 @@ var languages  = require('./data/languages.json');
 var missionTypes = require('./data/missionTypes.json');
 var operationTypes = require('./data/operationTypes.json');
 var persistentEnemy = require('./data/persistentEnemyData.json');
+var relics = require('./data/relics.json');
 var solNodes = require('./data/solNodes.json');
 var sortie = require('./data/sortieData.json');
 var syndicates = require('./data/syndicatesData.json');
@@ -22,6 +23,7 @@ module.exports = {
   missionTypes,
   operationTypes,
   persistentEnemy,
+  relics,
   solNodes,
   sortie,
   syndicates,
