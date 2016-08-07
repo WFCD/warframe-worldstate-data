@@ -1269,6 +1269,9 @@
   , "/lotus/storeitems/powersuits/volt/voltprime": {
     "value": "Volt Prime"
   }
+  , "/lotus/powersuits/ranger/ranger" : {
+    "value" : "Ivara"
+  }
   , "/lotus/storeitems/quests/theorionblade/orionbladeitem": {
     "value": "Dark Dagger"
   }
@@ -11576,5 +11579,8 @@
   },
   "/lotus/storeitems/types/recipes/helmets/chromaaltbhelmetblueprint": {
     "value": "Amaru Chroma Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/weapons/ceramicdaggerblueprint" : {
+    "value": "Ceramic Dagger Blueprint"
   }
 }
