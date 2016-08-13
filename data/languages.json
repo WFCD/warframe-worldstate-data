@@ -1269,8 +1269,8 @@
   , "/lotus/storeitems/powersuits/volt/voltprime": {
     "value": "Volt Prime"
   }
-  , "/lotus/powersuits/ranger/ranger" : {
-    "value" : "Ivara"
+  , "/lotus/powersuits/ranger/ranger": {
+    "value": "Ivara"
   }
   , "/lotus/storeitems/quests/theorionblade/orionbladeitem": {
     "value": "Dark Dagger"
@@ -11338,7 +11338,7 @@
     "value": "Dagger Axe Scindo Skin"
   }
   , "/lotus/types/items/miscitems/alertium": {
-    "value": "Nitain"
+    "value": "Nitain Extract"
   }
   , "/lotus/types/items/miscitems/actuator": {
     "value": "Actuators"
@@ -11571,16 +11571,64 @@
   , "/lotus/storeitems/types/recipes/helmets/statlessv2vaubanalthelmetblueprint": {
     "value": "VAUBAN GAMBIT HELMET Blueprint"
   }
-  , "/Lotus/StoreItems/Types/Recipes/Helmets/StatlessV2VoltAltHelmetBlueprint": {
+  , "/lotus/storeitems/types/recipes/helmets/statlessv2voltalthelmetblueprint": {
     "value": "VOLT PULSE HELMET Blueprint"
   }
   , "/lotus/storeitems/types/recipes/helmets/statlessvoltalthelmetblueprint": {
     "value": "VOLT STORM HELMET Blueprint"
-  },
-  "/lotus/storeitems/types/recipes/helmets/chromaaltbhelmetblueprint": {
+  }
+  , "/lotus/storeitems/types/recipes/helmets/chromaaltbhelmetblueprint": {
     "value": "Amaru Chroma Helmet Blueprint"
-  },
-  "/lotus/storeitems/types/recipes/weapons/ceramicdaggerblueprint" : {
+  }
+  , "/lotus/storeitems/types/recipes/weapons/ceramicdaggerblueprint": {
     "value": "Ceramic Dagger Blueprint"
+  }
+  , "/lotus/storeitems/types/recipes/components/orokinreactorblueprint": {
+    "value": "Orokin Reactor Blueprint"
+  }
+  , "/lotus/storeitems/types/recipes/helmets/valkyrbastethelmetblueprint": {
+    "value": "Valkyr Bastet Helmet Blueprint"
+  }
+  , "/lotus/types/keys/orokincapturekeya": {
+    "value": "Orokin Void Tier I Capture Key"
+  }
+  , "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
+    "value": "Baro KiTeer Sekhara"
+  }
+  , "/lotus/types/storeitems/packages/threedaycreditpack": {
+    "value": "3 Day Credit Booster"
+  }
+  , "/lotus/storeitems/types/sentinels/sentinelpowersuits/prismashadepowersuit": {
+    "value": "Prisma Shade"
+  }
+  , "/lotus/storeitems/types/recipes/weapons/plasmaswordblueprint": {
+    "value": "Plasma Sword Blueprint"
+  }
+  , "/lotus/storeitems/types/recipes/weapons/jawblueprint": {
+    "value": "Jaw Sword Blueprint"
+  }
+  , "/lotus/storeitems/upgrades/skins/sentinels/wings/prismajetwings": {
+    "value": "Prisma Jet Sentinel Wings"
+  }
+  , "/lotus/storeitems/upgrades/skins/sentinels/tails/prismafishtail": {
+    "value": "Prisma Koi Sentinel Tail"
+  }
+  , "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwolegleftarmor": {
+    "value": "Left Prisma Edo Knee Plates"
+  }
+  , "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwolegrightarmor": {
+    "value": "Right Prisma Edo Knee Plates"
+  }
+  , "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwochestarmor": {
+    "value": "Prisma Edo Chest Plate"
+  }
+  , "/lotus/types/storeitems/packages/threedayaffinitypack": {
+    "value": "3 Day Affinity Booster"
+  }
+  , "/lotus/types/storeitems/packages/threedayresourcepack": {
+    "value": "3 Day Resource Booster"
+  },
+  "/lotus/types/keys/orokinkeya" : {
+    "value" : "Tower I Exterminate"
   }
 }
