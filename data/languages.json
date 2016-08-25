@@ -3216,6 +3216,9 @@
   "/lotus/storeitems/types/recipes/helmets/miragealtbhelmetblueprint": {
     "value": "Mirage Trivelin Helmet Blueprint"
   },
+  "/lotus/storeitems/types/recipes/helmets/nekrosaraknidhelmetblueprint":{
+    "value": "Nekros Raknis Helmet Blueprint"
+  },
   "/lotus/storeitems/types/recipes/helmets/nekrosshroudhelmetblueprint": {
     "value": "Nekros Shroud Helmet Blueprint"
   },
@@ -3224,6 +3227,9 @@
   },
   "/lotus/storeitems/types/recipes/helmets/novaquantumhelmetblueprint": {
     "value": "Nova Quantum Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/helmets/novaslipstreamhelmetblueprint" : {
+    "value" : "Nova Slipstream Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/oberonaltbhelmetblueprint": {
     "value": "Markhor Oberon Helmet Blueprint"
@@ -3236,6 +3242,9 @@
   },
   "/lotus/storeitems/types/recipes/helmets/rangeralthelmetblueprint": {
     "value" : "Ivara Loxley Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/helmets/piratealtbhelmetblueprint" : {
+    "value" : "Hydroid Ketos Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/sandmanalthelmetblueprint": {
     "value": "Inaros Anubis Helmet Blueprint"
@@ -5510,6 +5519,9 @@
   },
   "/lotus/storeitems/upgrades/mods/fusers/uncommonmodfuser": {
     "value": "Uncommon Fusion Core"
+  },
+  "/lotus/storeitems/upgrades/mods/fusionbundles/rarefusionbundle" :{
+    "value" : "80 Endo"
   },
   "/lotus/storeitems/upgrades/mods/fusionbundles/rarelvl1fusionbundle": {
     "value": "30 Endo"
@@ -10521,6 +10533,12 @@
   "/lotus/types/keys/orokinkeya": {
     "value": "Tower I Exterminate"
   },
+  "/lotus/types/recipes/components/orokincatalystblueprint" : {
+    "value": "Orokin Catalyst Blueprint"
+  },
+  "/lotus/types/recipes/components/orokinreactorblueprint" : {
+    "value": "Orokin Reactor Blueprint"
+  },
   "/lotus/types/storeitems/avatarimages/avatarimageitem1": {
     "value": "Excalibur Profile Icon"
   },
@@ -11766,11 +11784,17 @@
   "/lotus/upgrades/skins/scarves/kazinfestedscarf": {
     "value": "Apoxys Syandana"
   },
+  "/lotus/upgrades/skins/scarves/energyscarf":{
+    "value":"Asa Syandana"
+  },
   "/lotus/weapons/cephalon/melee/hammer/cephhammerweapon": {
     "value": "Helicor"
   },
   "/lotus/weapons/corpus/pistols/crpelectromag/crpelectromag": {
     "value": "Staticor"
+  },
+  "/lotus/weapons/grineer/melee/grineerjetpoweredpolearm/grineerjetpolearm" : {
+    "value": "Jat Kittag"
   },
   "/lotus/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
     "value": "Twin Khomaks"
