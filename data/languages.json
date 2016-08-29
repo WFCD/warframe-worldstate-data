@@ -8370,6 +8370,9 @@
   "/lotus/storeitems/upgrades/skins/liset/lisetskinvoidtrader": {
     "value": "Liset Prisma Skin"
   },
+  "/lotus/storeitems/upgrades/skins/liset/gyroscope/lisetgyroscopeskinprimetrader" : {
+    "value" : "Xiphos Prisma Skin"
+  },
   "/lotus/storeitems/upgrades/skins/loki/lokiagileanims": {
     "value": "Loki Agile Animation Set"
   },
@@ -8742,6 +8745,9 @@
   "/lotus/storeitems/upgrades/skins/scarves/infestedfinsscarf": {
     "value": "Iliac Syandana"
   },
+  "/lotus/storeitems/upgrades/skins/scarves/kazbarocape":{
+    "value" : "Ki`Teer Diax Syandana"
+  },
   "/lotus/storeitems/upgrades/skins/scarves/noruprimescarf": {
     "value": "Noru Prime Syandana"
   },
@@ -8822,6 +8828,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sentinels/masks/primesentinelmask": {
     "value": "Unda Prime Sentinel Mask"
+  },
+  "/lotus/storeitems/upgrades/skins/sentinels/masks/prismamechheadmask":{
+    "value" : "Prisma Mech Head Sentinel Mask"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/parrotcarrierskin": {
     "value": "Para Carrier"
@@ -9808,7 +9817,7 @@
     "value": " Centaur"
   },
   "/lotus/storeitems/weapons/tenno/archwing/melee/voidtraderarchsword/vtarchswordweapon": {
-    "value": " Prisma Veritux"
+    "value": "Prisma Veritux"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/archwingheavypistols/archheavypistols": {
     "value": " Dual Decurion"
@@ -11603,6 +11612,9 @@
   },
   "/lotus/types/storeitems/packages/stalkerpack": {
     "value": "What Stalker?"
+  },
+  "/lotus/types/storeitems/packages/stalkertwobundle" : {
+    "value" : "Hunhow`s Gift Pack"
   },
   "/lotus/types/storeitems/packages/stealtharchwingbundle": {
     "value": "Itzal Raider Pack"
