@@ -200,6 +200,9 @@
   "/lotus/language/alerts/darvorescuetitle": {
     "value": "Ties That Bind"
   },
+  "/lotus/language/alerts/savedarvotitle" : {
+    "value": "Corpus Bust"
+  },
   "/lotus/language/alerts/defensedesc1": {
     "value": "Freighter Ambush"
   },
@@ -10548,6 +10551,9 @@
   "/lotus/types/recipes/components/orokinreactorblueprint" : {
     "value": "Orokin Reactor Blueprint"
   },
+  "/lotus/types/recipes/components/formablueprint":{
+    "value":"Forma Blueprint"
+  },
   "/lotus/types/storeitems/avatarimages/avatarimageitem1": {
     "value": "Excalibur Profile Icon"
   },
@@ -11813,6 +11819,9 @@
   },
   "/lotus/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
     "value": "Twin Khomaks"
+  },
+  "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas":{
+    "value": "Twin Grakata"
   },
   "/lotus/weapons/infested/pistols/infproximitystars/infproximitystars": {
     "value": "Pox"
