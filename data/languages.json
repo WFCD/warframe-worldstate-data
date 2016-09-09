@@ -8583,6 +8583,12 @@
   "/lotus/storeitems/upgrades/skins/nvidia/nvidiabratonskin": {
     "value": "Nvidia Braton"
   },
+  "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroa" : {
+    "value" : "Ki`Teer Earpiece"
+  },
+  "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebarob" : {
+    "value" : "Ki`Teer Solo Earpiece"
+  },
   "/lotus/storeitems/upgrades/skins/paladin/oberonalternateskin": {
     "value": "Oberon Immortal Skin"
   },
@@ -8837,6 +8843,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sentinels/masks/prismamechheadmask":{
     "value" : "Prisma Mech Head Sentinel Mask"
+  },
+  "/lotus/storeitems/upgrades/skins/sentinels/masks/baropetmask" : {
+    "value" : "Ki`Teer Sentinel Mask"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/parrotcarrierskin": {
     "value": "Para Carrier"
