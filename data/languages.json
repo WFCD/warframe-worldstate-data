@@ -765,6 +765,9 @@
   "/lotus/powersuits/ranger/ranger": {
     "value": "Ivara"
   },
+  "/lotus/powersuits/yinyang/yinyang":{
+    "value": "Equinox"
+  },
   "/lotus/pvpchallengetypes/pvptimedaffectorsuperenergy": {
     "value": "Keep your energy at maximum"
   },
@@ -3217,7 +3220,7 @@
     "value": "Loki Enigma Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/mesaaltbhelmetblueprint": {
-    "value": "Mea Ovis Helmet Blueprint"
+    "value": "Mesa Ovis Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/miragealtbhelmetblueprint": {
     "value": "Mirage Trivelin Helmet Blueprint"
@@ -3344,6 +3347,9 @@
   },
   "/lotus/storeitems/types/recipes/helmets/vaubanhelmetsoldierblueprint": {
     "value": "Vauban Armistice Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/helmets/wukongalthelmetblueprint": {
+    "value" : "Wukong Dasheng Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/zephyrcierzohelmetblueprint": {
     "value": "Zephyr Cierzo Helmet Blueprint"
@@ -10539,6 +10545,9 @@
   "/lotus/types/items/miscitems/vayhekcoordinatefragmentd": {
     "value": "Omega Beacon"
   },
+  "/lotus/types/items/miscitems/voidteardrop": {
+    "value": "Void Traces"
+  },
   "/lotus/types/items/research/biocomponent": {
     "value": "Mutagen Mass"
   },
@@ -11334,6 +11343,9 @@
   "/lotus/types/storeitems/creditbundles/creditbundlec": {
     "value": "High Roller Credit Bundle"
   },
+  "/lotus/types/storeitems/packages/acolytenogglebundle":{
+    "value":"Acolyte Noggle Pack"
+  },
   "/lotus/types/storeitems/packages/alternatearrowskinsbundle": {
     "value": "Adventus Arrow Collection"
   },
@@ -11366,6 +11378,9 @@
   },
   "/lotus/types/storeitems/packages/consumablespack": {
     "value": "Survival Kit"
+  },
+  "/lotus/types/storeitems/packages/consoletennogenabundle":{
+    "value" : "TennoGen Mega Bundle"
   },
   "/lotus/types/storeitems/packages/corpusdazzlecamocestraskinpack": {
     "value": "Shock Camo Cestra"
@@ -11792,6 +11807,9 @@
   },
   "/lotus/upgrades/skins/decree/bansheedeluxesuit": {
     "value": "Banshee Soprana Skin"
+  },
+  "/lotus/upgrades/skins/fairy/fairyalthelmet":{
+    "value" : "Titania Aurai Helmet"
   },
   "/lotus/upgrades/skins/liset/gyroscope/lisetgyroscopeskinifrit": {
     "value": "Xiphos Ifrit Skin"
