@@ -695,6 +695,9 @@
   "/lotus/language/g1quests/kelaeventtitleb": {
     "value": "KELA DE THAYM'S COURT"
   },
+  "/lotus/language/g1quests/projectnightwatchtacalerttitle":{
+    "value": "Long Shadow Tactical Alert"
+  },
   "/lotus/language/game/areacasteracolyte": {
     "value": "Misery"
   },
@@ -3205,7 +3208,7 @@
     "value": "Chroma Drac Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/excaliburmordredhelmetblueprint":{
-    "value":"Excalibur Mordred Hemlet Blueprint"
+    "value":"Excalibur Mordred Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/harlequinalthelmetblueprint": {
     "value": "Mirage Harlequin Helmet Blueprint"
@@ -3616,7 +3619,7 @@
     "value": "Vauban Chassis"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/trapperhelmetblueprint": {
-    "value": "Vauban Helmet Blueprint"
+    "value": "Vauban Neuroptics Blueprint"
   },
   "/lotus/storeitems/types/recipes/warframerecipes/trapperhelmetcomponent": {
     "value": "Vauban Neuroptics"
@@ -5109,6 +5112,9 @@
   "/lotus/storeitems/upgrades/focus/warrior/weaponaimbonusshotgunfocus": {
     "value": "Shotgun Master"
   },
+  "/lotus/storeitems/upgrades/mods/archwing/expert/archwingsuitabilitystrengthmodexpert":{
+    "value": "Primed Morphic Transformer"
+  },
   "/lotus/storeitems/upgrades/mods/archwing/melee/archwingeventfirestatusmeleemod": {
     "value": "Searing Steel"
   },
@@ -6002,6 +6008,9 @@
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weapontoxindamagemodexpert": {
     "value": "Pathogen Rounds"
+  },
+  "/lotus/storeitems/upgrades/mods/pistol/expert/primedweaponcritdamagemod":{
+    "value": "Primed Target Cracker"
   },
   "/lotus/storeitems/upgrades/mods/pistol/intermediate/weapondamageamountmodintermediate": {
     "value": "Hornet Strike"
@@ -8388,6 +8397,9 @@
   "/lotus/storeitems/upgrades/skins/liset/lisetskinkotora": {
     "value": "Liset Kotara Skin"
   },
+  "/lotus/storeitems/upgrades/skins/liset/lisetinsectskinprimetrader":{
+    "value": "Mantis Prisma Skin"
+  },
   "/lotus/storeitems/upgrades/skins/liset/lisetskinvoidtrader": {
     "value": "Liset Prisma Skin"
   },
@@ -10569,6 +10581,12 @@
   "/lotus/types/items/shipdecos/grineerchampionsheavybobblehead": {
     "value": "Executioner Dhurnam - Noggle Statue"
   },
+  "/lotus/types/items/shipdecos/nezhabobblehead":{
+    "value":"Nezha - Noggle Statue"
+  },
+  "/lotus/types/items/shipdecos/wukongbobblehead":{
+    "value":"Wukong - Noggle Statue"
+  },
   "/lotus/types/keys/orokincapturekeya": {
     "value": "Orokin Void Tier I Capture Key"
   },
@@ -11412,6 +11430,12 @@
   "/lotus/types/storeitems/packages/demolitionarchwingbundle": {
     "value": "Elytron Ultimatum Bundle"
   },
+  "/lotus/types/storeitems/packages/djinndeluxearmorpack":{
+    "value":"Gazal Armor Pack"
+  },
+  "/lotus/types/storeitems/packages/djinndeluxecompletebundle":{
+    "value": "Gazal Complete Collection"
+  },
   "/lotus/types/storeitems/packages/doubleaffinitypack": {
     "value": "Double Affinity Weekend Pack"
   },
@@ -11565,6 +11589,9 @@
   "/lotus/types/storeitems/packages/nemesisnyxbundle": {
     "value": "Nemesis Complete Bundle"
   },
+  "/lotus/types/storeitems/packages/nightwatchweaponskinbundle":{
+    "value":"Nightwatch Skin Bundle"
+  },
   "/lotus/types/storeitems/packages/novadeluxeskinbundle": {
     "value": "Nova Asuri Bundle"
   },
@@ -11573,6 +11600,9 @@
   },
   "/lotus/types/storeitems/packages/operatorsuitsbundle": {
     "value": "Operator Suit Bundle"
+  },
+  "/lotus/types/storeitems/packages/operatorsuitdbundle":{
+    "value": "Manduka Operator Suit Bundle"
   },
   "/lotus/types/storeitems/packages/orbiterdisplaybundle": {
     "value": "Display Pack"
@@ -11844,6 +11874,9 @@
   "/lotus/upgrades/skins/scarves/energyscarf":{
     "value":"Asa Syandana"
   },
+  "/lotus/upgrades/skins/sentinels/persiandjinnskin":{
+    "value":"Djinn Gazal Skin"
+  },
   "/lotus/weapons/cephalon/melee/hammer/cephhammerweapon": {
     "value": "Helicor"
   },
@@ -11876,6 +11909,9 @@
   },
   "/lotus/weapons/tenno/melee/gunblade/gunbladeautomatic/tnogunbladeautomatic": {
     "value": "Sarpa"
+  },
+  "/lotus/weapons/tenno/melee/persianmachete/djinnmachete":{
+    "value":"Gazal Machete"
   },
   "/lotus/weapons/tenno/melee/swords/darksword/darksworddaggerhybridweapon": {
     "value": "Dark Split Sword"
