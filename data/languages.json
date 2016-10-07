@@ -7560,6 +7560,12 @@
   "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwolegrightarmor": {
     "value": "Right Prisma Edo Knee Plates"
   },
+  "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwoarmleftarmor":{
+    "value": "Left Prisma Edo Shoulder Armor"
+  },
+  "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwoarmrightarmor":{
+    "value": "Right Prisma Edo Shoulder Armor"
+  },
   "/lotus/storeitems/upgrades/skins/armor/vteos/vteosalarmor": {
     "value": "Left Eos Prime Shoulder Plates"
   },
@@ -7724,6 +7730,9 @@
   },
   "/lotus/storeitems/upgrades/skins/camo/vulkarcamo": {
     "value": "Desert-camo Vulkar"
+  },
+  "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorvoidtradera":{
+    "value": "Ki`Teer Kavat Armor"
   },
   "/lotus/storeitems/upgrades/skins/clan/aggressioneventcorpusbadgeitem": {
     "value": "Gradivus: Sacrifice Emblem"
@@ -8405,6 +8414,9 @@
   },
   "/lotus/storeitems/upgrades/skins/liset/gyroscope/lisetgyroscopeskinprimetrader" : {
     "value" : "Xiphos Prisma Skin"
+  },
+  "lotus/storeitems/upgrades/skins/liset/lisetblueskyskinprimetrader":{
+    "value": "Scimitar Prisma Skin"
   },
   "/lotus/storeitems/upgrades/skins/loki/lokiagileanims": {
     "value": "Loki Agile Animation Set"
@@ -9497,6 +9509,12 @@
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/vtexcaliburskin": {
     "value": "Excalibur Prisma Skin"
+  },
+  "/lotus/storeitems/upgrades/skins/voidtrader/vtredeemerskin":{
+    "value": "Elixis Redeemer Skin"
+  },
+  "/lotus/storeitems/upgrades/skins/voidtrader/vtquanta":{
+    "value": "Quanta Aufeis Skin"
   },
   "/lotus/storeitems/upgrades/skins/volt/unlockvoltagile": {
     "value": "Volt Agile Animation Set"
@@ -11334,6 +11352,15 @@
   "/lotus/types/storeitems/avatarimages/imagezephyrtengudark": {
     "value": "Zephyr Tengu Profile Icon"
   },
+  "/lotus/types/storeitems/boosters/affinitybooster3daystoreitem":{
+    "value": "3 Day Affinity Booster"
+  },
+  "/lotus/types/storeitems/boosters/creditbooster3daystoreitem":{
+    "value": "3 Day Credit Booster"
+  },
+  "/lotus/types/storeitems/boosters/resourceamount3daystoreitem":{
+    "value": "3 Day Resource (Amount) Booster"
+  },
   "/lotus/types/storeitems/boosters/affinityboosterstoreitem": {
     "value": "Affinity Booster"
   },
@@ -11347,7 +11374,7 @@
     "value": "Mod Drop Chance Booster"
   },
   "/lotus/types/storeitems/boosters/resourceamountboosterstoreitem": {
-    "value": "Resource Booster"
+    "value": "Resource (Amount) Booster"
   },
   "/lotus/types/storeitems/boosters/resourcedropchanceboosterstoreitem": {
     "value": "Resource Drop Chance Booster"
