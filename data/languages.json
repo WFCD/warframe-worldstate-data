@@ -3195,6 +3195,9 @@
   "/lotus/storeitems/types/recipes/helmets/animaalthelmetblueprint" : {
     "value": "Solstice Equinox Helmet Blueprint"
   },
+  "/lotus/storeitems/types/recipes/helmets/brawleralthelmetblueprint":{
+    "value": "Atlas Tartarus Helmet Blueprint"
+  },
   "/lotus/storeitems/types/recipes/helmets/brawleralttwohelmetblueprint": {
     "value": "Atlas Shikoro Helmet Blueprint"
   },
@@ -11671,13 +11674,13 @@
     "value": "XB1 Prestige Pack VI"
   },
   "/lotus/types/storeitems/packages/prestigepacktwo": {
-    "value": "Prestige Pack II"
+    "value": "Prestige Pack Ii"
   },
   "/lotus/types/storeitems/packages/primeaccess2storeitem": {
-    "value": "Nekros Prime Access Pack"
+    "value": "Saryn Prime Access Pack"
   },
   "/lotus/types/storeitems/packages/primeaccessory2storeitem": {
-    "value": "Nekros Prime Accessories Pack"
+    "value": "Saryn Prime Accessories Pack"
   },
   "/lotus/types/storeitems/packages/primeaccessorystoreitem": {
     "value": "Vauban Prime Accessories Pack"
