@@ -698,6 +698,12 @@
   "/lotus/language/g1quests/projectnightwatchtacalerttitle":{
     "value": "Long Shadow Tactical Alert"
   },
+  "/lotus/language/g1quests/projectindextitle":{
+    "value":"Project Index"
+  },
+  "/lotus/language/g1quests/projectindexendlesstitle":{
+    "value":"Project Index: Endurance"
+  },
   "/lotus/language/game/areacasteracolyte": {
     "value": "Misery"
   },
@@ -6354,6 +6360,15 @@
   "/lotus/storeitems/upgrades/mods/rifle/expert/bowexplosionchancemodexpert": {
     "value": "Thunderbolt"
   },
+  "/lotus/storeitems/upgrades/mods/rifle/expert/primedweaponfactiondamagecorpus":{
+    "value":"Primed Bane of Corpus"
+  },
+  "/lotus/storeitems/upgrades/mods/rifle/expert/primedweaponfactiondamagegrineer":{
+    "value":"Primed Bane of Grineer"
+  },
+  "/lotus/storeitems/upgrades/mods/rifle/expert/primedweaponfactiondamageinfested": {
+    "value":"Primed Bane of Infested"
+  },
   "/lotus/storeitems/upgrades/mods/rifle/expert/sniperreloaddamagemodexpert": {
     "value": "Primed Charged Chamber"
   },
@@ -7733,6 +7748,9 @@
   },
   "/lotus/storeitems/upgrades/skins/camo/vulkarcamo": {
     "value": "Desert-camo Vulkar"
+  },
+  "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorhalloweena": {
+    "value": "Day of the Dead Kavat Armor"
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorvoidtradera":{
     "value": "Ki`Teer Kavat Armor"
@@ -9512,6 +9530,9 @@
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/vtexcaliburskin": {
     "value": "Excalibur Prisma Skin"
+  },
+  "/lotus/storeitems/upgrades/skins/voidtrader/vthalloweendarksword": {
+    "value": "Dark Sword Day of the Dead Skin"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/vtredeemerskin":{
     "value": "Elixis Redeemer Skin"
@@ -11505,6 +11526,9 @@
   "/lotus/types/storeitems/packages/glyphsbundlea": {
     "value": "Adau Glyph Pack"
   },
+  "/lotus/types/storeitems/packages/glyphsbundleb": {
+    "value":"Emblematic Glyph Pack"
+  },
   "/lotus/types/storeitems/packages/grineercamoskinpack": {
     "value": "Grineer Desert Tactics Pack"
   },
@@ -11530,7 +11554,7 @@
     "value": "Day Of The Dead Weapon Skin Pack"
   },
   "/lotus/types/storeitems/packages/halloweenskinpackii": {
-    "value": "Day Of The Dead Weapon Skin Pack Ii"
+    "value": "Day Of The Dead Weapon Skin Pack II"
   },
   "/lotus/types/storeitems/packages/halloweenvastoskinpack": {
     "value": "Vasto Day Of The Dead Skin"
@@ -11546,6 +11570,12 @@
   },
   "/lotus/types/storeitems/packages/immortalskinpack": {
     "value": "Immortal Skin Bundle"
+  },
+  "/lotus/types/storeitems/packages/infembolistarmourbundle": {
+    "value":"Embolist Armour Bundle"
+  },
+  "/lotus/types/storeitems/packages/infembolistcompletebundle": {
+    "value":"Embolist Collection"
   },
   "/lotus/types/storeitems/packages/infestedfinsarmorpack": {
     "value": "Iliac Armor Bundle"
@@ -11673,8 +11703,11 @@
   "/lotus/types/storeitems/packages/prestigepacksix": {
     "value": "XB1 Prestige Pack VI"
   },
+  "/lotus/types/storeitems/packages/prestigepackseven":{
+    "value": "Prestige Pack VII"
+  },
   "/lotus/types/storeitems/packages/prestigepacktwo": {
-    "value": "Prestige Pack Ii"
+    "value": "Prestige Pack II"
   },
   "/lotus/types/storeitems/packages/primeaccess2storeitem": {
     "value": "Saryn Prime Access Pack"
@@ -11927,6 +11960,9 @@
   },
   "/lotus/weapons/infested/pistols/infproximitystars/infproximitystars": {
     "value": "Pox"
+  },
+    "/lotus/weapons/infested/melee/infembolistscythe/infestedscythe": {
+      "value":"Caustacyst"
   },
   "/lotus/weapons/tenno/archwing/melee/archswordhook/archhookswordweapon": {
     "value": "Agkuza Arch-melee"
