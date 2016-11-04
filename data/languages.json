@@ -1,4 +1,7 @@
 {
+  "ProjectIndex" :{
+    "value": "Index Points"
+  },
   "/lotus/characters/tenno/accessory/scarves/grnbannerscarf/grnbannerscarfitem": {
     "value": "Vanquished Banner"
   },
@@ -703,6 +706,12 @@
   },
   "/lotus/language/g1quests/projectindexendlesstitle":{
     "value":"Project Index: Endurance"
+  },
+  "/lotus/language/g1quests/projectindexendlessgoal":{
+    "value":"Index Points"
+  },
+  "/lotus/language/g1quests/tacalerthalloweentitle": {
+	"value":"Hallowed Nightmares Tactical Alert"
   },
   "/lotus/language/game/areacasteracolyte": {
     "value": "Misery"
@@ -2454,6 +2463,9 @@
   "/lotus/storeitems/types/items/miscitems/tellurium": {
     "value": "Tellurium"
   },
+  "/lotus/storeitems/types/items/miscitems/utilityunlocker" :{
+    "value": "Exilus Adapter"
+  },
   "/lotus/storeitems/types/items/miscitems/vayhekcoordinatefragmenta": {
     "value": "Delta Beacon"
   },
@@ -3218,6 +3230,9 @@
   },
   "/lotus/storeitems/types/recipes/helmets/excaliburmordredhelmetblueprint":{
     "value":"Excalibur Mordred Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/helmets/fairyalthelmetblueprint" : {
+    "value": "Titania Aurai Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/harlequinalthelmetblueprint": {
     "value": "Mirage Harlequin Helmet Blueprint"
@@ -6412,7 +6427,7 @@
     "value": "Speed Trigger"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/weaponfreezedamagemodexpert": {
-    "value": "Cryo Rounds"
+    "value": "Primed Cryo Rounds"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/weaponimpactdamagemodexpert": {
     "value": "Rupture"
@@ -8649,6 +8664,18 @@
   "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebarob" : {
     "value" : "Ki`Teer Solo Earpiece"
   },
+  "/lotus/storeitems/upgrades/skins/voidtrader/baroarrow": {
+    "value": "Ki`Teer Arrow"
+  },
+  "/lotus/storeitems/upgrades/skins/kubrows/armor/kubrowarmorbaro":{
+    "value": "Ki`Teer Kubrow Armor"
+  },
+  "/lotus/storeitems/types/items/shipdecos/pedistalprime":{
+    "value": "Pedastal Prime"
+  },
+  "/lotus/storeitems/types/restoratives/consumable/barofireworkscrate":{
+    "value": "Ki`Teer Fireworks"
+  },
   "/lotus/storeitems/upgrades/skins/paladin/oberonalternateskin": {
     "value": "Oberon Immortal Skin"
   },
@@ -9077,6 +9104,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sigils/eventsigilfalseprofit": {
     "value": "False Profit Sigil"
+  },
+  "/lotus/storeitems/upgrades/skins/sigils/eventsigilindex":{
+    "value": "Index Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/firesigil": {
     "value": "Flaming Sigil"
@@ -11828,6 +11858,206 @@
   },
   "/lotus/types/storeitems/packages/winterbundle": {
     "value": "Winter Bundle"
+  },"/lotus/storeitems/upgrades/skins/sigils/dotd2016sigil": {
+  "value":"Day of the Dead (2016) Sigil"
+  },
+  "/lotus/upgrades/skins/halloween/halloweensimulor": {
+    "value":"Day of the Dead Simulor"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenstradavar": {
+    "value":"Day of the Dead Stradavar"
+  },
+  "/lotus/upgrades/skins/halloween/halloweengrakata": {
+    "value":"Day of the Dead Grakata"
+  },
+  "/lotus/upgrades/skins/halloween/halloweensarpa": {
+    "value":"Day of the Dead Sarpa"
+  },
+  "/lotus/upgrades/skins/halloween/halloweensonicor": {
+    "value":"Day of the Dead Sarpa"
+  },
+  "/lotus/upgrades/skins/halloween/halloweentonkor": {
+    "value":"Day of the Dead Tonkor"
+  },
+  "/lotus/upgrades/skins/halloween/halloweendarkdagger": {
+    "value":"Day of the Dead Dark Dagger"
+  },
+  "/lotus/upgrades/skins/scarves/halloweenerosioncape": {
+    "value":"Day of the Dead Abrasys Syandana"
+  },
+  "/lotus/upgrades/skins/scarves/halloweenkyropterascarf": {
+    "value":"Day of the Dead Kyroptera Syandana"
+  },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/halloweencrpcircc": {
+    "value":"Day of the Dead Porta Chest Armor"
+  },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/halloweencrpcircl": {
+    "value":"Day of the Dead Porta Leg Plates"
+  },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/halloweencrpcirca": {
+    "value":"Day of the Dead Porta Armor"
+  },
+  "/lotus/types/storeitems/avatarimages/avatarimagehalloween2016a": {
+    "value":"Day of the Dead Avatar"
+  },
+  "/lotus/types/storeitems/avatarimages/avatarimagehalloween2016b": {
+    "value":"Day of the Dead Avatar"
+  },
+  "/lotus/types/storeitems/avatarimages/avatarimagehalloween2016c": {
+    "value":"Day of the Dead Avatar"
+  },
+  "/lotus/types/storeitems/avatarimages/avatarimagehalloween2016d": {
+    "value":"Day of the Dead Avatar"
+  },
+  "/lotus/upgrades/skins/armor/halloween2014wings/halloween2014armarmor": {
+    "value":"Naeberus Wings"
+  },
+  "/lotus/types/storeitems/packages/halloweenskinpackd": {
+    "value":"Day of the Dead Weapon Skin Pack IV"
+  },
+  "/lotus/types/storeitems/packages/halloweenscarfbundleb": {
+    "value":"Day of the Dead Threads II"
+  },
+  "/lotus/upgrades/skins/festivities/pumpkinhead": {
+    "value":"Dullahan Mask"
+  },
+  "/lotus/types/storeitems/packages/halloweenglyphbundle": {
+    "value":"Day of the Dead Calavera Glyph Pack"
+  },
+  "/lotus/types/storeitems/packages/halloweenskinpackc": {
+    "value":"Day of the Dead Weapon Skin Pack III"
+  },
+  "/lotus/types/storeitems/packages/halloweenscarfbundle": {
+    "value":"Day of the Dead Threads"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenbraton": {
+    "value":"Day of the Dead Braton Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweengorgon": {
+    "value":"Day of the Dead Gorgon Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenparis": {
+    "value":"Day of the Dead Paris Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweensoma": {
+    "value":"Day of the Dead Soma Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweendualzoren": {
+    "value":"Day of the Dead Dual Zoren Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenlato": {
+    "value":"Day of the Dead Lato Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenscindo": {
+    "value":"Day of the Dead Scindo Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweentwingremlins": {
+    "value":"Day of the Dead Twin Gremlins Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenglaive": {
+    "value":"Day of the Dead Glaive Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenorthos": {
+    "value":"Day of the Dead Orthos Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweensobek": {
+    "value":"Day of the Dead Sobek Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenregoraxeshield": {
+    "value":"Day of the Dead Ack & Brunt Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweendragonnikana": {
+    "value":"Day of the Dead Dragon Nikana Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenkunai": {
+    "value":"Day of the Dead Kunai Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenskana": {
+    "value":"Day of the Dead Skana Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenangstrum": {
+    "value":"Day of the Dead Angstrum Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweengalatine": {
+    "value":"Day of the Dead Galatine Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweennikana": {
+    "value":"Day of the Dead Nikana Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenarchsword": {
+    "value":"Day of the Dead Veritux Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenboltor": {
+    "value":"Day of the Dead Boltor Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenimperator": {
+    "value":"Day of the Dead Imperator Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenopticor": {
+    "value":"Day of the Dead Opticor Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenamprex": {
+    "value":"Day of the Dead Amprex Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweengrinlok": {
+    "value":"Day of the Dead Grinlok Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenbuzlok": {
+    "value":"Day of the Dead Buzlok Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenjatkittag": {
+    "value":"Day of the Dead Jat Kittag Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweennukor": {
+    "value":"Day of the Dead Nukor Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenglaxion": {
+    "value":"Day of the Dead Glaxion Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenkronen": {
+    "value":"Day of the Dead Kronen Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenvasto": {
+    "value":"Day of the Dead Vasto Skin"
+  },
+  "/lotus/types/storeitems/packages/halloweenshipskinbundle": {
+    "value":"Day of the Dead Skin Rides"
+  },
+  "/lotus/upgrades/skins/liset/lisetinsectskinhalloween": {
+    "value":"Day of the Dead Mantis Skin"
+  },
+  "/lotus/upgrades/skins/liset/lisetskinhalloween": {
+    "value":"Day of the Dead Liset Skin"
+  },
+  "/lotus/upgrades/skins/scarves/halloweenfireflyscarf": {
+    "value":"Day of the Dead Igaro Synandana"
+  },
+  "/lotus/upgrades/skins/scarves/halloweengrnbannerscarf": {
+    "value":"Day of the Dead Vanquished Banner"
+  },
+  "/lotus/upgrades/skins/halloween/halloweendaikyu": {
+    "value":"Day of the Dead Daiku Skin Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweensilvaandaegis": {
+    "value":"Day of the Dead Silva & Aegis Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenspira": {
+    "value":"Day of the Dead Spira Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweentwingrakatas": {
+    "value":"Day of the Dead Twin Grakata Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweendarksplitsword": {
+    "value":"Day of the Dead Dark Split Sword Skin"
+  },
+  "/lotus/types/storeitems/packages/halloweencrpcircarmorpack": {
+    "value":"Day of the Dead Porta Armor Pack"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenaklato":{
+    "value": "Day of the Dead AkLato Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweenmarelok" :{
+    "value": "Day of the Dead Marelok Skin"
   },
   "/lotus/types/storeitems/slotitems/kubrowslotitem": {
     "value": "Stasis Slot"
