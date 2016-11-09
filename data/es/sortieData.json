@@ -1865,7 +1865,7 @@
       ]
     },
     {
-      "bossName":"Ambulas",
+      "bossName":"Ámbulas",
       "regions":[
         {
           "name":"0",
@@ -2098,7 +2098,7 @@
       ]
     },
     {
-      "bossName":"Hyena Pack",
+      "bossName":"Manada de hienas",
       "regions":[
         {
           "name":"0",
@@ -3263,7 +3263,7 @@
       ]
     },
     {
-      "bossName":"Mutalist Alad V",
+      "bossName":"Alad V mutalítico",
       "regions":[
         {
           "name":"0",
@@ -3497,11 +3497,11 @@
     }
   ],
   "modifiers":[
-    "+ Enemy armor\/shield",
+    "+ armadura\/escudo enemigo",
     "Environmental hazard",
-    "Enemy damage resistance",
-    "Energy reduction",
+    "Resistencia al daño enemiga",
+    "Reducción de energía",
     "Eximus stronghold",
-    "Weapon restriction"
+    "Restricción de arma"
   ]
 }
