@@ -12263,5 +12263,14 @@
     },
     "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmourc" : {
         "value" : "Ki`Teer Chest Plate"
+    },
+    "/lotus/types/recipes/weapons/weaponparts/snipetronvandalbarrel": {
+        "value" : "Snipetron Vandal Barrel"
+    },
+    "/lotus/types/recipes/weapons/weaponparts/latronwraithbarrel":{
+        "value" : "Latron Wraith Barrel"
+    }, 
+    "/lotus/types/storeitems/avatarimages/avatarimagegrineerqueensved" :{
+        "value" : "Grineer Queens Avatar"
     }
 }
