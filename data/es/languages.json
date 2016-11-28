@@ -12,22 +12,22 @@
     "value":"Aura"
   },
   "/lotus/language/alerts/alertrewardcategoryblueprint":{
-    "value":"Blueprint"
+    "value":"Plano"
   },
   "/lotus/language/alerts/alertrewardcategoryitem":{
-    "value":"Item"
+    "value":"Componente"
   },
   "/lotus/language/alerts/alertrewardcategorymod":{
     "value":"Mod"
   },
   "/lotus/language/alerts/alertrewardcategoryresource":{
-    "value":"Resource"
+    "value":"Recurso"
   },
   "/lotus/language/alerts/alertrewardcategorystance":{
-    "value":"Stance Mod"
+    "value":"Mod de guardia"
   },
   "/lotus/language/alerts/assassinationdesc1":{
-    "value":"Enemy VIP Located"
+    "value":"Enemigo VIP localizado"
   },
   "/lotus/language/alerts/assassinationdesc2":{
     "value":"Enemy Ship Commander Located"
@@ -4990,7 +4990,7 @@
     "value":"Ice"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerinfesteditema":{
-    "value":"Infested"
+    "value":"Infestados"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickeritem":{
     "value":"Classic"
@@ -12184,7 +12184,7 @@
     "value":"Ice"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerinfesteditema":{
-    "value":"Infested"
+    "value":"Infestados"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickeritem":{
     "value":"Classic"
@@ -12332,6 +12332,84 @@
   },
   "/lotus/upgrades/skins/liset/gyroscope/lisetgyroscopegrineerqueens":{
     "value":"Kuva Xiphos Skin"
+  },
+  "/lotus/upgrades/skins/voidtrader/vtexcaliburskin":{
+    "value":"Excalibur Prisma Skin"
+  },
+  "/lotus/upgrades/skins/ninja/ashalternateskin":{
+    "value":"Ash Immortal Skin"
+  },
+  "/lotus/upgrades/skins/decree/bansheealternateskin":{
+    "value":"Banshee Immortal Skin"
+  },
+  "/lotus/upgrades/skins/ember/emberalternateskin":{
+    "value":"Ember Immortal Skin"
+  },
+  "/lotus/upgrades/skins/excalibur/excaliburalternateskin":{
+    "value":"Excalibur Immortal Skin"
+  },
+  "/lotus/upgrades/skins/excalibur/excaliburprotosuit":{
+    "value":"Excalibur Protoskin"
+  },
+  "/lotus/upgrades/skins/frost/frostalternateskin":{
+    "value":"Frost Immortal Skin"
+  },
+  "/lotus/upgrades/skins/loki/lokialternateskin":{
+    "value":"Loki Immortal Skin"
+  },
+  "/lotus/upgrades/skins/mag/magalternateskin":{
+    "value":"Mag Immortal Skin"
+  },
+  "/lotus/upgrades/skins/necro/nekrosalternateskin":{
+    "value":"Nekros Immortal Skin"
+  },
+  "/lotus/upgrades/skins/antimatter/novaalternateskin":{
+    "value":"Nova Immortal Skin"
+  },
+  "/lotus/upgrades/skins/jade/nyxalternateskin":{
+    "value":"Nyx Immortal Skin"
+  },
+  "/lotus/upgrades/skins/jade/nyxnemesissuit":{
+    "value":"Nyx Nemesis Skin"
+  },
+  "/lotus/upgrades/skins/paladin/oberonalternateskin":{
+    "value":"Oberon Immortal Skin"
+  },
+  "/lotus/upgrades/skins/rhino/rhinoalternateskin":{
+    "value":"Rhino Immortal Skin"
+  },
+  "/lotus/upgrades/skins/asp/sarynalternateskin":{
+    "value":"Saryn Immortal Skin"
+  },
+  "/lotus/upgrades/skins/trinity/trinityalternateskin":{
+    "value":"Trinity Immortal Skin"
+  },
+  "/lotus/upgrades/skins/berserker/valkyralternateskin":{
+    "value":"Valkyr Immortal Skin"
+  },
+  "/lotus/upgrades/skins/trapper/vaubanalternateskin":{
+    "value":"Vauban Immortal Skin"
+  },
+  "/lotus/upgrades/skins/volt/voltalternateskin":{
+    "value":"Volt Immortal Skin"
+  },
+  "/lotus/upgrades/skins/loki/lokideluxesuit":{
+    "value":"Loki Knave Skin"
+  },
+  "/lotus/upgrades/skins/saryn/saryndeluxesuit":{
+    "value":"Saryn Orphid Skin"
+  },
+  "/lotus/upgrades/skins/antimatter/novadeluxesuit":{
+    "value":"Nova Asuri Skin"
+  },
+  "/lotus/upgrades/skins/trinity/trinitydeluxesuit":{
+    "value":"Trinity Strega Skin"
+  },
+  "/lotus/upgrades/skins/berserker/berserkerdeluxesuit":{
+    "value":"Valkyr Gersemi Skin"
+  },
+  "/lotus/upgrades/skins/rhino/rhinodeluxesuit":{
+    "value":"Rhino Palatine Skin"
   },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithbarrel":{
     "value":"Strun Wraith Barrel"
