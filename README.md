@@ -1,4 +1,7 @@
 # warframe-worldstate-data
+
+[![Supported by Warframe Community Developers](https://github.com/Warframe-Community-Developers/banner/blob/master/banner.png)](https://github.com/Warframe-Community-Developers "Supported by Warframe Community Developers")
+
 A repository of Warframe data for use with warframe-worldstate-parser
 
 ## Installation
