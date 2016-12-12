@@ -1199,6 +1199,46 @@
     "enemy":"Corrupted",
     "type":"Ancient Retribution"
   },
+  "SolNode741":{
+    "value":"Koro (Kuva Fortress)",
+    "enemy":"Grineer",
+    "type":"Assault"
+  },
+  "SolNode742":{
+    "value":"Nabuk (Kuva Fortress)",
+    "enemy":"Grineer",
+    "type":"Capture"
+  },
+  "SolNode743":{
+    "value":"Rotuma (Kuva Fortress)",
+    "enemy":"Grineer",
+    "type":"Mobile Defense"
+  },
+  "SolNode744":{
+    "value":"Taveuni (Kuva Fortress)",
+    "enemy":"Grineer",
+    "type":"Survival"
+  },
+  "SolNode745":{
+    "value":"Tamu (Kuva Fortress)",
+    "enemy":"Grineer",
+    "type":"Defense"
+  },
+  "SolNode746":{
+    "value":"Dakata (Kuva Fortress)",
+    "enemy":"Grineer",
+    "type":"Extermination"
+  },
+  "SolNode747":{
+    "value":"Pago (Kuva Fortress)",
+    "enemy":"Grineer",
+    "type":"Spy"
+  },
+  "SolNode748":{
+    "value":"GArus (Kuva Fortress)",
+    "enemy":"Grineer",
+    "type":"Rescue"
+  },
   "SolNode901":{
     "value":"Caduceus",
     "enemy":"Sentient",
@@ -1239,40 +1279,40 @@
     "enemy":"Corpus",
     "type":"Mobile Defense (Archwing)"
   },
-  "SolNodeLua1":{
+  "SolNode300":{
     "value":"Plato (Lua)",
-    "enemy":"Crossfire",
+    "enemy":"Grineer",
     "type":"Exterminate"
   },
-  "SolNodeLua2":{
-    "value":"Tycho (Lua)",
-    "enemy":"Corpus",
-    "type":"Survival"
-  },
-  "SolNodeLua3":{
+  "SolNode301":{
     "value":"Grimaldi (Lua)",
     "enemy":"Grineer",
     "type":"Mobile Defense"
   },
-  "SolNodeLua4":{
+  "SolNode302":{
+    "value":"Tycho (Lua)",
+    "enemy":"Corpus",
+    "type":"Survival"
+  },
+  "SolNodeLua304":{
+    "value":"Copernicus (Lua)",
+    "enemy":"Grineer",
+    "type":"Mobile Defense"
+  },
+  "SolNode305":{
+    "value":"Stöfler (Lua)",
+    "enemy":"Corpus",
+    "type":"Survival"
+  },
+  "SolNode306":{
     "value":"Pavlov (Lua)",
-    "enemy":"Crossfire",
+    "enemy":"Corpus",
     "type":"Spy"
   },
-  "SolNodeLua5":{
+  "SolNode307":{
     "value":"Zeipel (Lua)",
     "enemy":"Corpus",
     "type":"Rescue"
-  },
-  "SolNodeLua6":{
-    "value":"Stöfler (Lua)",
-    "enemy":"Grineer",
-    "type":"Defense"
-  },
-  "SolNodeLua7":{
-    "value":"Copernicus (Lua)",
-    "enemy":"Corpus",
-    "type":"Capture"
   },
   "SettlementNode1":{
     "value":"Roche (Phobos)",
