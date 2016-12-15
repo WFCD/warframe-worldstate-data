@@ -12,22 +12,22 @@
     "value":"Aura"
   },
   "/lotus/language/alerts/alertrewardcategoryblueprint":{
-    "value":"Blueprint"
+    "value":"Plano"
   },
   "/lotus/language/alerts/alertrewardcategoryitem":{
-    "value":"Item"
+    "value":"Componente"
   },
   "/lotus/language/alerts/alertrewardcategorymod":{
     "value":"Mod"
   },
   "/lotus/language/alerts/alertrewardcategoryresource":{
-    "value":"Resource"
+    "value":"Recurso"
   },
   "/lotus/language/alerts/alertrewardcategorystance":{
-    "value":"Stance Mod"
+    "value":"Mod de guardia"
   },
   "/lotus/language/alerts/assassinationdesc1":{
-    "value":"Enemy VIP Located"
+    "value":"Enemigo VIP localizado"
   },
   "/lotus/language/alerts/assassinationdesc2":{
     "value":"Enemy Ship Commander Located"
@@ -4990,7 +4990,7 @@
     "value":"Ice"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerinfesteditema":{
-    "value":"Infested"
+    "value":"Infestados"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickeritem":{
     "value":"Classic"
@@ -11841,6 +11841,9 @@
   "/lotus/types/storeitems/packages/prismaexcaliburpack":{
     "value":"Prisma Excalibur Bundle"
   },
+  "/lotus/types/storeitems/packages/primevaultc":{
+    "value":"Prime Unvaulted: Fire & Ice Packs"
+  },
   "/lotus/types/storeitems/packages/rhinowreckpack":{
     "value":"Wrecking Rhino Pack"
   },
@@ -11996,6 +11999,9 @@
   },
   "/lotus/types/storeitems/avatarimages/avatarimagehalloween2016d":{
     "value":"Day of the Dead Avatar"
+  },
+  "/lotus/types/storeitems/avatarimages/avatarimageteshinved":{
+    "value":"Teshin Glyph"
   },
   "/lotus/upgrades/skins/armor/halloween2014wings/halloween2014armarmor":{
     "value":"Naeberus Wings"
@@ -12187,7 +12193,7 @@
     "value":"Ice"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerinfesteditema":{
-    "value":"Infested"
+    "value":"Infestados"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickeritem":{
     "value":"Classic"
@@ -12318,6 +12324,9 @@
   "/lotus/types/storeitems/packages/kuvamegabundle":{
     "value":"Continuity Complete Collection"
   },
+  "/lotus/types/storeitems/packages/kuvaarmorpack":{
+    "value":"Kuva Armor Pack"
+  },
   "/lotus/upgrades/skins/liset/lisetinsectskingrineerqueens":{
     "value":"Kuva Mantis Skin"
   },
@@ -12437,5 +12446,62 @@
   },
   "/lotus/types/storeitems/avatarimages/avatarimagegrineerqueensved":{
     "value":"Grineer Queens Avatar"
+  },
+  "/lotus/upgrades/skins/frost/frostxmasskin":{
+    "value":"Festive Frost Skin"
+  },
+  "/lotus/upgrades/skins/harlequin/miragexmasskin":{
+    "value":"Mirage Winter Skin"
+  },
+  "/lotus/upgrades/skins/festivities/xmasglaxion":{
+    "value":"Festive Glaxion Skin"
+  },
+  "/lotus/upgrades/skins/festivities/xmassonicor":{
+    "value":"Festive Sonicor Skin"
+  },
+  "/lotus/upgrades/skins/festivities/jingleknuckles":{
+    "value":"Ringers"
+  },
+  "/lotus/upgrades/skins/kubrows/collars/kubrowcollarxmas":{
+    "value":"Little Helper Hat"
+  },
+  "/lotus/types/game/kubrowpet/patterns/kubrowpetpatternxmasc":{
+    "value":"Arklut Gene-Masking Kit"
+  },
+  "/lotus/upgrades/skins/promo/seasonal/candycanescytheskin":{
+    "value":"Spearmint Scythe"
+  },
+  "/lotus/upgrades/skins/scarves/holidayturtleneckscarf":{
+    "value":"Festive Imperator Syandana"
+  },
+  "/lotus/types/items/shipchristmasifier":{
+    "value":"Christmas Decorations"
+  },
+  "/lotus/upgrades/skins/fairy/solsticefairyskin":{
+    "value":"Titania Solstice Skin"
+  },
+  "/lotus/upgrades/skins/hammer/solsticeheliocor":{
+    "value":"Heliocor Solstice Skin"
+  },
+  "/lotus/upgrades/skins/archer/wintersolsticesalix":{
+    "value":"Solstice Salix Syandana"
+  },
+  "/lotus/types/storeitems/packages/solsticesetthreearmorpack":{
+    "value":"Solstice Daedalus Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/kubrowcolorpacksolstice":{
+    "value":"Solstice Gene-Masking Kit"
+  },
+  "/lotus/types/storeitems/packages/kavatcolorpacksolstice":{
+    "value":"Winter Gene-Masking Kit"
+  },
+  "/lotus/types/storeitems/packages/winterglyphbundle":{
+    "value":"Solstice Glyph Pack"
+  },
+  "/lotus/types/storeitems/packages/kavatcolorpackxmas":{
+    "value":"Argyl Gene-Masking Kit"
+  },
+  "/lotus/types/storeitems/packages/winter2016bundle":{
+    "value":"Winter Solstice Skin Bundle"
   }
 }
