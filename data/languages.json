@@ -12521,5 +12521,14 @@
     },
     "/lotus/characters/tenno/accessory/scarves/u17intermscarf/u17intermscarfitem" : {
       "value" : "Udyat Syandana"
-    }
+    },
+    "/lotus/weapons/grineer/longguns/grnflamespear/grnflamespear":{
+		"value":"Javlok"
+	},"/lotus/upgrades/skins/scarves/grnstrapsscarf":{
+		"value":"Laddak Cloak"
+	},"/lotus/upgrades/skins/meleedangles/esgrnsugatrameleedangle":{
+		"value":"Boloket Sugatra"
+	},"/lotus/types/storeitems/packages/kavatcolorpackhyekka":{
+		"value":"Hyekka Kavat Gene-Masking Kit"
+	}
 }
