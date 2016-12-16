@@ -12514,21 +12514,33 @@
         "value": "Solstice Daedalus Chest Plate"
     },
     "/lotus/storeitems/upgrades/skins/scarves/solsticebarocape" : {
-      "value":"Solstice Ki`Teer Syandana"
+        "value":"Solstice Ki`Teer Syandana"
     },
     "/lotus/storeitems/upgrades/skins/liset/lisetblueskyskinprimetrader" : {
-      "value" : "Prisma Liset Skin"
+        "value" : "Prisma Scimitar Skin"
     },
     "/lotus/characters/tenno/accessory/scarves/u17intermscarf/u17intermscarfitem" : {
-      "value" : "Udyat Syandana"
+        "value" : "Udyat Syandana"
     },
     "/lotus/weapons/grineer/longguns/grnflamespear/grnflamespear":{
-		"value":"Javlok"
-	},"/lotus/upgrades/skins/scarves/grnstrapsscarf":{
-		"value":"Laddak Cloak"
-	},"/lotus/upgrades/skins/meleedangles/esgrnsugatrameleedangle":{
-		"value":"Boloket Sugatra"
-	},"/lotus/types/storeitems/packages/kavatcolorpackhyekka":{
-		"value":"Hyekka Kavat Gene-Masking Kit"
-	}
+        "value":"Javlok"
+    },"/lotus/upgrades/skins/scarves/grnstrapsscarf":{
+	"value":"Laddak Cloak"
+    },"/lotus/upgrades/skins/meleedangles/esgrnsugatrameleedangle":{
+	"value":"Boloket Sugatra"
+    },"/lotus/types/storeitems/packages/kavatcolorpackhyekka":{
+	"value":"Hyekka Kavat Gene-Masking Kit"
+    },
+    "/lotus/upgrades/mods/fusionbundles/alertfusionbundlelarge":{
+	"value":"150 Endo"
+    },
+    "/lotus/types/recipes/helmets/statlessv2nyxalthelmetblueprint":{
+	"value":"Vespa Nyx Helmet Blueprint"
+    },
+    "/lotus/upgrades/mods/aura/infestationspeedreductionauramod":{
+	"value":"Infested Impedence"
+    },
+    "/lotus/upgrades/mods/fusionbundles/alertfusionbundlemedium":{
+	"value":"100 Endo"
+    }
 }
