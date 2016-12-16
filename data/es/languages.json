@@ -12,22 +12,22 @@
     "value":"Aura"
   },
   "/lotus/language/alerts/alertrewardcategoryblueprint":{
-    "value":"Blueprint"
+    "value":"Plano"
   },
   "/lotus/language/alerts/alertrewardcategoryitem":{
-    "value":"Item"
+    "value":"Componente"
   },
   "/lotus/language/alerts/alertrewardcategorymod":{
     "value":"Mod"
   },
   "/lotus/language/alerts/alertrewardcategoryresource":{
-    "value":"Resource"
+    "value":"Recurso"
   },
   "/lotus/language/alerts/alertrewardcategorystance":{
-    "value":"Stance Mod"
+    "value":"Mod de guardia"
   },
   "/lotus/language/alerts/assassinationdesc1":{
-    "value":"Enemy VIP Located"
+    "value":"Enemigo VIP localizado"
   },
   "/lotus/language/alerts/assassinationdesc2":{
     "value":"Enemy Ship Commander Located"
@@ -4990,7 +4990,7 @@
     "value":"Ice"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerinfesteditema":{
-    "value":"Infested"
+    "value":"Infestados"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickeritem":{
     "value":"Classic"
@@ -12193,7 +12193,7 @@
     "value":"Ice"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerinfesteditema":{
-    "value":"Infested"
+    "value":"Infestados"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickeritem":{
     "value":"Classic"
@@ -12517,7 +12517,7 @@
     "value":"Solstice Ki`Teer Syandana"
   },
   "/lotus/storeitems/upgrades/skins/liset/lisetblueskyskinprimetrader":{
-    "value":"Prisma Liset Skin"
+    "value":"Prisma Scimitar Skin"
   },
   "/lotus/characters/tenno/accessory/scarves/u17intermscarf/u17intermscarfitem":{
     "value":"Udyat Syandana"
@@ -12533,5 +12533,17 @@
   },
   "/lotus/types/storeitems/packages/kavatcolorpackhyekka":{
     "value":"Hyekka Kavat Gene-Masking Kit"
+  },
+  "/lotus/upgrades/mods/fusionbundles/alertfusionbundlelarge":{
+    "value":"150 Endo"
+  },
+  "/lotus/types/recipes/helmets/statlessv2nyxalthelmetblueprint":{
+    "value":"Vespa Nyx Helmet Blueprint"
+  },
+  "/lotus/upgrades/mods/aura/infestationspeedreductionauramod":{
+    "value":"Infested Impedence"
+  },
+  "/lotus/upgrades/mods/fusionbundles/alertfusionbundlemedium":{
+    "value":"100 Endo"
   }
 }
