@@ -1574,55 +1574,75 @@
     "enemy":"Corpus",
     "type":"Arena"
   },
-  "PvpNopde0":{
+  "PvpNode0":{
     "value":"Conclave Capture the Cephalon",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde1":{
+  "PvpNode1":{
     "value":"Conclave",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde3":{
+  "PvpNode2":{
+    "value":"Conclave",
+    "enemy":"Tenno",
+    "type":"Conclave"
+  },
+  "PvpNode3":{
     "value":"Conclave Capture the Cephalon",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde4":{
+  "PvpNode4":{
     "value":"Conclave",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde5":{
+  "PvpNode5":{
     "value":"Conclave",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde6":{
+  "PvpNode6":{
     "value":"Conclave",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde7":{
+  "PvpNode7":{
     "value":"Conclave",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde8":{
+  "PvpNode8":{
     "value":"Conclave",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde9":{
+  "PvpNode9":{
     "value":"Conclave Team Domination",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
-  "PvpNopde10":{
+  "PvpNode10":{
     "value":"Conclave Domination",
-    "enemy":"Sentient",
-    "type":"Ancient Retribution"
+    "enemy":"Tenno",
+    "type":"Conclave"
+  },
+  "PvpNode11":{
+    "value":"Conclave Domination",
+    "enemy":"Tenno",
+    "type":"Conclave"
+  },
+  "PvpNode12":{
+    "value":"Conclave Domination",
+    "enemy":"Tenno",
+    "type":"Conclave"
+  },
+  "PvpNode13":{
+    "value":"Tactical Alert: Snoball Fight!",
+    "enemy":"Tenno",
+    "type":"Conclave"
   },
   "ClanNode0":{
     "value":"Romula (Venus)",
