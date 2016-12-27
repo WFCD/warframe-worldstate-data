@@ -12545,5 +12545,62 @@
   },
   "/lotus/upgrades/mods/fusionbundles/alertfusionbundlemedium":{
     "value":"100 Endo"
+  },
+  "/lotus/types/items/miscitems/utilityunlocker":{
+    "value":"Exilus Adapter"
+  },
+  "/lotus/types/recipes/weapons/weaponparts/deravandalreceiver":{
+    "value":"Dera Vandal Receiver"
+  },
+  "/lotus/types/recipes/weapons/karakwraithblueprint":{
+    "value":"Karak Wraith Blueprint"
+  },
+  "/lotus/upgrades/mods/aura/playerlootradarauramod":{
+    "value":"Loot Radar"
+  },
+  "/lotus/types/recipes/helmets/statlessnyxalthelmetblueprint":{
+    "value":"Menticide Nyx Helmet Blueprint"
+  },
+  "/lotus/upgrades/mods/fusionbundles/alertfusionbundlesmall":{
+    "value":"80 Endo"
+  },
+  "/lotus/upgrades/skins/scarves/flamescarf":{
+    "value":"Pyra Synadana"
+  },
+  "/lotus/types/recipes/helmets/statlesslokialthelmetblueprint":{
+    "value":"Essence Loki Helmet Blueprint"
+  },
+  "/lotus/types/recipes/weapons/weaponparts/karakwraithreceiver":{
+    "value":"Karak Wraith Receiver"
+  },
+  "/lotus/types/recipes/weapons/weaponparts/strunwraithstock":{
+    "value":"Strun Wraith Stock"
+  },
+  "/lotus/weapons/infested/melee/infwfaccompanyingsparring/infestedkogake":{
+    "value":"Hirudo"
+  },
+  "/lotus/types/storeitems/packages/nidusbundle":{
+    "value":"Nidus Bundle"
+  },
+  "/lotus/types/storeitems/packages/indexteamcnogglebundle":{
+    "value":"Anyocorp Reclamation Unit Pack"
+  },
+  "/lotus/types/storeitems/packages/indexteamdnogglebundle":{
+    "value":"Anyocorp Trading Group Noggle Pack"
+  },
+  "/lotus/types/storeitems/packages/indexteamanogglebundle":{
+    "value":"Anyocorp Claims Investigation Noggle PAck"
+  },
+  "/lotus/types/storeitems/packages/indexteambnogglebundle":{
+    "value":"Anyocorp Investor Relations Noggle Pack"
+  },
+  "/lotus/upgrades/skins/scarves/infscarfribcage":{
+    "value":"Thorac Syandana"
+  },
+  "/lotus/types/storeitems/packages/winterglyphbundleb":{
+    "value":"Winter Glyph Pack"
+  },
+  "/lotus/weapons/infested/longguns/infwfaccompanyingpri/infestedburstrifle":{
+    "value":"Hema"
   }
 }
