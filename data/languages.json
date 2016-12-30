@@ -5812,7 +5812,7 @@
         "value": "Reflex Coil"
     },
     "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleedamagemodexpert": {
-        "value": "Pressure Point"
+        "value": "Primed Pressure Point"
     },
     "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagecorpusexpert": {
         "value": "Smite Corpus"
@@ -6073,16 +6073,16 @@
         "value": "Barrel Diffusion"
     },
     "/lotus/storeitems/upgrades/mods/pistol/expert/weaponfireratemodexpert": {
-        "value": "Gunslinger"
+        "value": "Primed Gunslinger"
     },
     "/lotus/storeitems/upgrades/mods/pistol/expert/weaponfreezedamagemodexpert": {
-        "value": "Deep Freeze"
+        "value": "Primed Deep Freeze"
     },
     "/lotus/storeitems/upgrades/mods/pistol/expert/weaponimpactdamagemodexpert": {
-        "value": "Concussion Rounds"
+        "value": "Primed Concussion Rounds"
     },
     "/lotus/storeitems/upgrades/mods/pistol/expert/weaponnoisereductionmodexpert": {
-        "value": "Suppress"
+        "value": "Primed Suppress"
     },
     "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolconvertammomodexpert": {
         "value": "Primed Pistol Ammo Mutation"
@@ -6532,7 +6532,7 @@
         "value": "Primed Fast Hands"
     },
     "/lotus/storeitems/upgrades/mods/rifle/expert/weaponrifleconvertammomodexpert": {
-        "value": "Rifle Ammo Mutation"
+        "value": "Primed Rifle Ammo Mutation"
     },
     "/lotus/storeitems/upgrades/mods/rifle/expert/weaponslashdamagemodexpert": {
         "value": "Sawtooth Clip"
@@ -6877,7 +6877,7 @@
         "value": "Tactical Pump"
     },
     "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunconvertammomodexpert": {
-        "value": "Shotgun Ammo Mutation"
+        "value": "Primed Shotgun Ammo Mutation"
     },
     "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorpusexpert": {
         "value": "Cleanse Corpus"
@@ -7532,6 +7532,9 @@
     },
     "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmoura": {
         "value": "Ki`Teer Shoulder Plates"
+    },
+    "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmourl":{
+      "value":"Ki`Teer Leg Plates"
     },
     "/lotus/storeitems/upgrades/skins/armor/corpusfencer/crpfncalarmor": {
         "value": "Dendra Shoulder Guard"
