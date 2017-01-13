@@ -1,14 +1,14 @@
 {
   "GAMEPLAY_KILL_XP_AMOUNT":{
-    "value":"Afinidad de asesinato de la misión"
+    "value":"Mission Kill XP"
   },
   "GAMEPLAY_PICKUP_AMOUNT":{
-    "value":"Cantidad de hallazgo de recursos"
+    "value":"Resource Drop Amount"
   },
   "GAMEPLAY_MONEY_REWARD_AMOUNT":{
-    "value":"Probabilidad de hallazgo de créditos"
+    "value":"Credit Drop chance"
   },
   "GAMEPLAY_MONEY_PICKUP_AMOUNT":{
-    "value":"Cantidad de hallazgo de créditos"
+    "value":"Credit Drop amount"
   }
 }
