@@ -1,7 +1,7 @@
 {
   "endStates":[
     {
-      "bossName":"Capitán Vor",
+      "bossName":"Captain Vor",
       "regions":[
         {
           "name":"0",
@@ -10,7 +10,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -40,7 +40,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -55,7 +55,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -70,22 +70,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -100,7 +85,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -115,7 +100,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -130,7 +130,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -217,7 +217,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -277,7 +277,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -303,7 +303,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -333,7 +333,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -348,7 +348,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -363,22 +363,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -393,7 +378,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -408,7 +393,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -423,7 +423,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -510,7 +510,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -555,7 +555,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -581,7 +581,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -611,7 +611,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -626,7 +626,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -641,22 +641,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -671,7 +656,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -686,7 +671,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -701,7 +701,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -788,7 +788,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -833,7 +833,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -859,7 +859,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -889,7 +889,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -904,7 +904,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -919,22 +919,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -949,7 +934,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -964,7 +949,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -979,7 +979,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1066,7 +1066,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1111,7 +1111,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -1137,7 +1137,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1167,7 +1167,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1182,7 +1182,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1197,22 +1197,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1227,7 +1212,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1242,7 +1227,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1257,7 +1257,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1344,7 +1344,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1389,7 +1389,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -1415,7 +1415,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1445,7 +1445,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1460,7 +1460,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1475,22 +1475,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1505,7 +1490,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1520,7 +1505,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1535,7 +1535,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1622,7 +1622,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1667,7 +1667,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -1684,7 +1684,7 @@
       ]
     },
     {
-      "bossName":"Chacal",
+      "bossName":"Jackal",
       "regions":[
         {
           "name":"0",
@@ -1693,7 +1693,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1723,7 +1723,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1738,7 +1738,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1753,7 +1753,7 @@
           ]
         },
         {
-          "name":"Júpiter",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1768,7 +1768,7 @@
           ]
         },
         {
-          "name":"Saturno",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1783,7 +1783,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Uranus",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1798,7 +1798,7 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1813,7 +1813,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -1900,7 +1900,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -1945,7 +1945,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -1971,7 +1971,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2001,7 +2001,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2016,7 +2016,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2031,22 +2031,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2061,7 +2046,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2076,7 +2061,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2091,7 +2091,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2178,7 +2178,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2223,7 +2223,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -2240,7 +2240,7 @@
       ]
     },
     {
-      "bossName":"Ámbulas",
+      "bossName":"Ambulas",
       "regions":[
         {
           "name":"0",
@@ -2249,7 +2249,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2279,7 +2279,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2294,7 +2294,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Exterminate",
@@ -2309,22 +2309,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2339,7 +2324,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2354,7 +2339,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2369,7 +2369,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2456,7 +2456,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2501,7 +2501,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -2518,7 +2518,7 @@
       ]
     },
     {
-      "bossName":"Manada de hienas",
+      "bossName":"Hyena Pack",
       "regions":[
         {
           "name":"0",
@@ -2527,7 +2527,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2557,7 +2557,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2572,7 +2572,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2587,7 +2587,7 @@
           ]
         },
         {
-          "name":"Júpiter",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2602,7 +2602,7 @@
           ]
         },
         {
-          "name":"Saturno",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2617,7 +2617,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Uranus",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2632,7 +2632,7 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Spy",
@@ -2647,7 +2647,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2734,7 +2734,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2779,7 +2779,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -2805,7 +2805,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2835,7 +2835,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2850,7 +2850,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2865,22 +2865,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2895,7 +2880,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -2910,7 +2895,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -2925,7 +2925,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3012,7 +3012,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3057,7 +3057,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -3083,7 +3083,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3113,7 +3113,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3128,7 +3128,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3143,22 +3143,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3173,7 +3158,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3188,7 +3173,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3203,7 +3203,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3290,7 +3290,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3335,7 +3335,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -3361,7 +3361,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3391,7 +3391,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3406,7 +3406,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3421,22 +3421,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3451,7 +3436,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3466,7 +3451,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3481,7 +3481,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3521,7 +3521,7 @@
             "Defense",
             "Mobile Defense",
             "Interception",
-            "Colmena",
+            "Hive",
             "Assassination"
           ]
         },
@@ -3568,7 +3568,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3613,7 +3613,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -3639,7 +3639,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3669,7 +3669,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3684,7 +3684,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3699,7 +3699,7 @@
           ]
         },
         {
-          "name":"Júpiter",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3714,7 +3714,7 @@
           ]
         },
         {
-          "name":"Saturno",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3729,7 +3729,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Uranus",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3744,7 +3744,7 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3759,7 +3759,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3812,7 +3812,7 @@
             "Sabotage",
             "Spy",
             "Defense",
-            "Colmena",
+            "Hive",
             "Interception",
             "Spy",
             "Assassination"
@@ -3846,7 +3846,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3891,7 +3891,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -3908,7 +3908,7 @@
       ]
     },
     {
-      "bossName":"Alad V mutalítico",
+      "bossName":"Mutalist Alad V",
       "regions":[
         {
           "name":"0",
@@ -3917,7 +3917,7 @@
           ]
         },
         {
-          "name":"Mercurio",
+          "name":"Mercury",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3947,7 +3947,7 @@
           ]
         },
         {
-          "name":"La Tierra",
+          "name":"Earth",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -3962,7 +3962,7 @@
           ]
         },
         {
-          "name":"Marte",
+          "name":"Mars",
           "missions":[
             "Exterminate",
             "Survival",
@@ -3977,22 +3977,7 @@
           ]
         },
         {
-          "name":"Júpiter",
-          "missions":[
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name":"Saturno",
+          "name":"Jupiter",
           "missions":[
             "Exterminate",
             "Survival",
@@ -4007,7 +3992,7 @@
           ]
         },
         {
-          "name":"Urano",
+          "name":"Saturn",
           "missions":[
             "Exterminate",
             "Survival",
@@ -4022,7 +4007,22 @@
           ]
         },
         {
-          "name":"Neptuno",
+          "name":"Uranus",
+          "missions":[
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name":"Neptune",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -4037,7 +4037,7 @@
           ]
         },
         {
-          "name":"Plutón",
+          "name":"Pluto",
           "missions":[
             "Exterminate",
             "Survival",
@@ -4077,7 +4077,7 @@
             "Defense",
             "Mobile Defense",
             "Interception",
-            "Colmena",
+            "Hive",
             "Assassination"
           ]
         },
@@ -4124,7 +4124,7 @@
           ]
         },
         {
-          "name":"Fobos",
+          "name":"Phobos",
           "missions":[
             "Exterminate",
             "Excavation",
@@ -4169,7 +4169,7 @@
           ]
         },
         {
-          "name":"Fortaleza Kuva",
+          "name":"Kuva Fortress",
           "missions":[
             "Defense",
             "Defense",
@@ -4187,11 +4187,11 @@
     }
   ],
   "modifiers":[
-    "+ armadura/escudo enemigo",
-    "Peligro ambiental",
-    "Resistencia al daño enemiga",
-    "Reducción de energía",
-    "Fortaleza éximus",
-    "Restricción de arma"
+    "+ Enemy armor/shield",
+    "Environmental hazard",
+    "Enemy damage resistance",
+    "Energy reduction",
+    "Eximus stronghold",
+    "Weapon restriction"
   ]
 }
