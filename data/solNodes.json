@@ -1291,12 +1291,12 @@
   }
   , "SolNode302" : {
     "value" : "Tycho (Lua)",
-	"enemy" : "Corpus",
+    "enemy" : "Corpus",
     "type" : "Survival"
   }
-  , "SolNodeLua304" : {
+  , "SolNode304" : {
     "value" : "Copernicus (Lua)",
-	"enemy": "Grineer",
+    "enemy": "Grineer",
     "type" : "Mobile Defense"
   }
   , "SolNode305" : {
