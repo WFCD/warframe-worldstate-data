@@ -1,26 +1,26 @@
 {
   "tags":{
     "KelaEvent":{
-      "value":"Operation: Rathuum"
+      "value":"Operación: Rathuum"
     },
     "KelaEventB":{
-      "value":"Operation: Rathuum pt. 2"
+      "value":"Operación: Rathuum parte 2"
     },
     "KelaEventBonus":{
-      "value":"Endless Rathuum"
+      "value":"Rathuum sin fin"
     }
   },
   "scoreVariables":{
     "KelaEvent":{
       "value":{
-        "value":"100 Judgement Points"
+        "value":"100 puntos de juicio"
       }
     }
   },
   "scoreMaxTags":{
     "KelaEventMax":{
       "value":{
-        "value":"100 Judgement Points"
+        "value":"100 puntos de juicio"
       }
     }
   }
