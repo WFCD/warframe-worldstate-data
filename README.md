@@ -6,7 +6,7 @@ A repository of Warframe data for use with warframe-worldstate-parser
 
 ## Installation
 ```
-npm i --S warframe-worldstate-data@latest
+npm i -S warframe-worldstate-data@latest
 ```
 
 ## Usage
