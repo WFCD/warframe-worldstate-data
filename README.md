@@ -1,12 +1,12 @@
 # Warframe Worldstate Data
 
-[![Supported by Warframe Community Developers](https://github.com/Warframe-Community-Developers/banner/blob/master/banner.png)](https://github.com/Warframe-Community-Developers "Supported by Warframe Community Developers")
+[![Supported by Warframe Community Developers](https://raw.githubusercontent.com/Warframe-Community-Developers/banner/master/banner.png)](https://github.com/Warframe-Community-Developers "Supported by Warframe Community Developers")
 
 A repository of Warframe data for use with warframe-worldstate-parser
 
 ## Installation
 ```
-npm install --save warframe-worldstate-data@latest
+npm i --S warframe-worldstate-data@latest
 ```
 
 ## Usage
