@@ -1,10 +1,7 @@
-#Python 3.4
+#!/usr/bin/env python3
 import json, os
 
-script_dir = os.path.dirname(__file__)
-script_dir += "" if script_dir == "" else os.path.sep
-
-data_dir = script_dir + ".." + os.path.sep + "data" + os.path.sep
+data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
 
 with open(os.path.join(data_dir, "languages.json")) as f:
     data = json.load(f)
