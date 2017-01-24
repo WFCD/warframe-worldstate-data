@@ -11794,7 +11794,7 @@
         "value": "Immortal Skin Bundle"
     },
     "/lotus/types/storeitems/packages/indexteamanogglebundle": {
-        "value": "Anyocorp Claims Investigation Noggle PAck"
+        "value": "Anyocorp Claims Investigation Noggle Pack"
     },
     "/lotus/types/storeitems/packages/indexteambnogglebundle": {
         "value": "Anyocorp Investor Relations Noggle Pack"
@@ -12611,5 +12611,20 @@
     },
     "ProjectIndex": {
         "value": "Index Points"
+    },
+    "/lotus/types/storeitems/packages/frostdeluxeskinbundle": {
+        "value": "Frost Harka Bundle"
+    },
+    "/lotus/upgrades/skins/frost/frostdeluxesuit": {
+        "value": "Frost Harka Skin"
+    },
+    "/lotus/types/storeItems/packages/crpindextwoitempack":{
+        "value": "Quaro Collection"
+    },
+    "/lotus/types/storeitems/packages/crpindextwoarmorpack": {
+        "value": "Quaro Armor Collection"
+    },
+    "/lotus/weapons/corpus/melee/crptonfa/crptonfa": {
+        "value": "Ohma"
     }
 }
