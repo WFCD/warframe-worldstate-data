@@ -16,7 +16,13 @@
     "SORTIE_MODIFIER_COLD": "Enemy Elemental Enhancement: Cold",
     "SORTIE_MODIFIER_TOXIN": "Enemy Elemental Enhancement: Toxin",
     "SORTIE_MODIFIER_HAZARD_RADIATION" : "Environmental Effect: Radiation Hazard",
-    "SORTIE_MODIFIER_ARMOR": "Augmented Enemy Armor"
+    "SORTIE_MODIFIER_ARMOR": "Augmented Enemy Armor",
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "Pistol Only",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Shotgun Only",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "Sniper Only",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Assault Rifle Only",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Melee Only",
+    "SORTIE_MODIFIER_BOW_ONLY": "Bow Only"
   },
   "bosses": {
     "SORTIE_BOSS_HYENA": {
