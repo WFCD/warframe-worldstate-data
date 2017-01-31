@@ -15,15 +15,16 @@
     "SORTIE_MODIFIER_BLAST": "Enemy Elemental Enhancement: Blast",
     "SORTIE_MODIFIER_FREEZE": "Enemy Elemental Enhancement: Cold",
     "SORTIE_MODIFIER_TOXIN": "Enemy Elemental Enhancement: Toxin",
-    "SORTIE_MODIFIER_HAZARD_RADIATION" : "Environmental Effect: Radiation Hazard",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC" : "Environmental Effect: Electromagnetic Anomalies",
+    "SORTIE_MODIFIER_HAZARD_RADIATION" : "Environmental Hazard: Radiation Pockets",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC" : "Environmental Hazard: Electromagnetic Anomalies",
+    "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
     "SORTIE_MODIFIER_ARMOR": "Augmented Enemy Armor",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "Pistol Only",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Shotgun Only",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "Sniper Only",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "Assault Rifle Only",
-    "SORTIE_MODIFIER_MELEE_ONLY": "Melee Only",
-    "SORTIE_MODIFIER_BOW_ONLY": "Bow Only"
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "Weapon Restriction: Pistol Only",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Weapon Restriction: Shotgun Only",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "Weapon Restriction: Sniper Only",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Weapon Restriction: Assault Rifle Only",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Weapon Restriction: Melee Only",
+    "SORTIE_MODIFIER_BOW_ONLY": "Weapon Restriction: Bow Only"
   },
   "bosses": {
     "SORTIE_BOSS_HYENA": {
