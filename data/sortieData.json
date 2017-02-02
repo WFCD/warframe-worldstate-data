@@ -19,6 +19,7 @@
     "SORTIE_MODIFIER_HAZARD_MAGNETIC" : "Environmental Hazard: Electromagnetic Anomalies",
     "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
     "SORTIE_MODIFIER_ARMOR": "Augmented Enemy Armor",
+    "SORTIE_MODIFIER_SHIELDS": "Enhanced Enemy Shields",
     "SORTIE_MODIFIER_SECONDARY_ONLY": "Weapon Restriction: Pistol Only",
     "SORTIE_MODIFIER_SHOTGUN_ONLY": "Weapon Restriction: Shotgun Only",
     "SORTIE_MODIFIER_SNIPER_ONLY": "Weapon Restriction: Sniper Only",
@@ -71,7 +72,7 @@
       "name": "Jackal",
       "faction": "Corpus"
     },
-    "SORTIE_BOSS_ANYO": {
+    "SORTIE_BOSS_NEF": {
       "name": "Nef Anyo",
       "faction": "Corpus"
     },
