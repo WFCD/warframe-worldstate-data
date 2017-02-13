@@ -10826,10 +10826,16 @@
     }, 
     "/lotus/types/recipes/weapons/weaponparts/latronwraithbarrel": {
         "value": "Latron Wraith Barrel"
-    }, 
+    },
+    "/lotus/types/recipes/weapons/weaponparts/latronwraithreceiver" : {
+        "value":"Latron Wraith Receiver"
+    },
     "/lotus/types/recipes/weapons/weaponparts/snipetronvandalbarrel": {
         "value": "Snipetron Vandal Barrel"
-    }, 
+    },
+    "/lotus/types/recipes/weapons/snipetronvandalblueprint" : {
+        "value" : "Snipetron Vandal Blueprint"
+    },
     "/lotus/types/recipes/weapons/weaponparts/strunwraithbarrel": {
         "value": "Strun Wraith Barrel"
     }, 
