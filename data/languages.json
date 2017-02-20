@@ -3377,15 +3377,18 @@
     }, 
     "/lotus/storeitems/types/recipes/helmets/sandmanalthelmetblueprint": {
         "value": "Inaros Anubis Helmet Blueprint"
-    }, 
+    },
+    "/lotus/storeitems/types/recipes/helmets/sandmanaltbhelmetblueprint": {
+        "value":"Inaros Canopic Helmet Blueprint"
+    },
     "/lotus/storeitems/types/recipes/helmets/statlessashalthelmetblueprint": {
-        "value": "ASH SCORPION HELMET Blueprint"
+        "value": "Ash Scorpion Helmet Blueprint"
     }, 
     "/lotus/storeitems/types/recipes/helmets/statlessbansheealthelmetblueprint": {
-        "value": "REVERB Banshee HELMET Blueprint"
+        "value": "Reverb Banshee Helmet Blueprint"
     }, 
     "/lotus/storeitems/types/recipes/helmets/statlessemberalthelmetblueprint": {
-        "value": "PHOENIX Ember HELMET Blueprint"
+        "value": "Ember Phoenix Helmet Blueprint"
     }, 
     "/lotus/storeitems/types/recipes/helmets/statlessexcaliburalthelmetblueprint": {
         "value": "EXCALIBUR AVALON HELMET Blueprint"
