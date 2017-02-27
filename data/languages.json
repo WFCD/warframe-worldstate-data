@@ -9922,7 +9922,7 @@
         "value": "Atomos"
     }, 
     "/lotus/storeitems/weapons/grineer/pistols/voidtraderbrakk/vtbrakk": {
-        "value": "[Placeholder]"
+        "value": "Mara Brakk"
     }, 
     "/lotus/storeitems/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
         "value": "Wraith Twin Vipers"
@@ -10817,7 +10817,10 @@
     }, 
     "/lotus/types/recipes/helmets/statlessv2nyxalthelmetblueprint": {
         "value": "Vespa Nyx Helmet Blueprint"
-    }, 
+    },
+    "/lotus/types/recipes/weapons/deravandalblueprint": {
+        "value": "Dera Vandal Blueprint"
+    },
     "/lotus/types/recipes/weapons/karakwraithblueprint": {
         "value": "Karak Wraith Blueprint"
     },
@@ -10850,7 +10853,16 @@
     }, 
     "/lotus/types/recipes/weapons/weaponparts/strunwraithstock": {
         "value": "Strun Wraith Stock"
-    }, 
+    },
+    "/lotus/types/recipes/weapons/weaponparts/twinviperswraithbarrel": {
+        "value": "Wraith Twin Vipers Barrel"
+    },
+    "/lotus/types/recipes/weapons/weaponparts/twinviperswraithlink": {
+        "value": "Wraith Twin Vipers Link"
+    },
+    "/lotus/types/recipes/weapons/weaponparts/twinviperswraithreceiver": {
+        "value": "Wraith Twin Vipers Receiver"
+    },
     "/lotus/types/storeitems/avatarimages/avatarimagegrineerqueensved": {
         "value": "Grineer Queens Avatar"
     }, 
