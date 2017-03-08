@@ -10827,6 +10827,12 @@
     "/lotus/types/recipes/weapons/karakwraithblueprint": {
         "value": "Karak Wraith Blueprint"
     },
+    "/lotus/types/recipes/weapons/grineercombatknifeprint" : {
+        "value" : "Sheev Blueprint"
+    },
+    "/lotus/types/recipes/weapons/snipetronvandalblueprint" : {
+        "value" : "Snipetron Vandal Blueprint"
+    },
     "/lotus/types/recipes/weapons/weaponparts/deravandalbarrel": {
         "value": "Dera Vandal Barrel"
     }, 
@@ -10836,23 +10842,38 @@
     "/lotus/types/recipes/weapons/weaponparts/deravandalstock": {
         "value": "Dera Vandal Stock"
     },
+    "/lotus/types/recipes/weapons/weaponparts/grineercombatknifehandle" : {
+        "value": "Sheev Handle"
+    },
+    "/lotus/types/recipes/weapons/weaponparts/grineercombatknifeheatsink" : {
+        "value": "Sheev Heatsink"
+    },
     "/lotus/types/recipes/weapons/weaponparts/grineercombatknifehilt" : {
-        "value": "Sheef Hilt"
+        "value": "Sheev Hilt"
     },
     "/lotus/types/recipes/weapons/weaponparts/karakwraithreceiver": {
         "value": "Karak Wraith Receiver"
-    }, 
+    },
+    "/lotus/types/recipes/weapons/weaponparts/karakwraithstock": {
+        "value": "Karak Wraith Stock"
+    },
     "/lotus/types/recipes/weapons/weaponparts/latronwraithbarrel": {
         "value": "Latron Wraith Barrel"
     },
     "/lotus/types/recipes/weapons/weaponparts/latronwraithreceiver" : {
         "value":"Latron Wraith Receiver"
     },
+    "/lotus/types/recipes/weapons/weaponparts/latronwraithstock" : {
+        "value":"Latron Wraith Stock"
+    },
     "/lotus/types/recipes/weapons/weaponparts/snipetronvandalbarrel": {
         "value": "Snipetron Vandal Barrel"
     },
-    "/lotus/types/recipes/weapons/snipetronvandalblueprint" : {
-        "value" : "Snipetron Vandal Blueprint"
+    "/lotus/types/recipes/weapons/weaponparts/snipetronvandalreceiver": {
+        "value": "Snipetron Vandal Receiver"
+    },
+    "/lotus/types/recipes/weapons/weaponparts/snipetronvandalstock": {
+        "value": "Snipetron Vandal Stock"
     },
     "/lotus/types/recipes/weapons/weaponparts/strunwraithbarrel": {
         "value": "Strun Wraith Barrel"
