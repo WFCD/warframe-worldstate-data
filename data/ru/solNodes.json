@@ -821,7 +821,7 @@
     "type":"Оборона"
   },
   "SolNode165":{
-    "value":"Sporid (Eris)",
+    "value":"Спорид (Эрида)",
     "enemy":"Зараженные",
     "type":"Саботаж Улья"
   },
@@ -871,7 +871,7 @@
     "type":"Возмездие Древних"
   },
   "SolNode175":{
-    "value":"Naeglar (Eris)",
+    "value":"Наеглар (Эрида)",
     "enemy":"Зараженные",
     "type":"Улей"
   },
@@ -1170,7 +1170,7 @@
     "type":"Зачистка"
   },
   "SolNode408":{
-    "value":"Belenus (Void)",
+    "value":"Беленус (Бездна)",
     "enemy":"Порабощенные",
     "type":"Возмездие Древних"
   },
@@ -1645,8 +1645,8 @@
     "type":"Конклав"
   },
   "PvpNode14":{
-    "value":"Conclave: Quick Steel",
-    "enemy":"Tenno",
+    "value":"Конклав: Быстрая сталь",
+    "enemy":"Тэнно",
     "type":"Конклав"
   },
   "ClanNode0":{
@@ -1780,7 +1780,7 @@
     "type":"Темный сектор раскопки"
   },
   "/Lotus/Types/Keys/SortieBossKeyPhorid":{
-    "value":"Sortie Boss: Phorid",
+    "value":"Босс Вылазки: Форид",
     "enemy":"Зараженные",
     "type":"Убийсво"
   }
