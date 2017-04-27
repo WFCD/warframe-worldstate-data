@@ -2416,7 +2416,7 @@
     "value":"Shrug"
   },
   "/lotus/storeitems/types/items/miscitems/alloyplate":{
-    "value":"Alloy Plate"
+    "value":"Placas de aleación"
   },
   "/lotus/storeitems/types/items/miscitems/alphacorruptorresource":{
     "value":"Alpha Corruptor"
@@ -2425,7 +2425,7 @@
     "value":"Orokin Archive"
   },
   "/lotus/storeitems/types/items/miscitems/argoncrystal":{
-    "value":"Argon Crystal"
+    "value":"Cristal de argón"
   },
   "/lotus/storeitems/types/items/miscitems/beacon":{
     "value":"Proof Fragment"
@@ -2437,13 +2437,13 @@
     "value":"Lephantis Nav Coordinate"
   },
   "/lotus/storeitems/types/items/miscitems/circuits":{
-    "value":"Circuits"
+    "value":"Circuitos"
   },
   "/lotus/storeitems/types/items/miscitems/controlmodule":{
-    "value":"Control Module"
+    "value":"Módulo de control"
   },
   "/lotus/storeitems/types/items/miscitems/cryotic":{
-    "value":"Cryotic"
+    "value":"Criótica"
   },
   "/lotus/storeitems/types/items/miscitems/dangerroomkey":{
     "value":"Simulacrum Access Key"
@@ -2452,19 +2452,19 @@
     "value":"Tethra Data Fragments"
   },
   "/lotus/storeitems/types/items/miscitems/ferrite":{
-    "value":"Ferrite"
+    "value":"Ferrita"
   },
   "/lotus/storeitems/types/items/miscitems/forma":{
     "value":"Forma"
   },
   "/lotus/storeitems/types/items/miscitems/gallium":{
-    "value":"Gallium"
+    "value":"Galio"
   },
   "/lotus/storeitems/types/items/miscitems/heknavcode":{
-    "value":"Vay Hek Nav Coordinate"
+    "value":"Coordenadas de navegación de Vay Hek"
   },
   "/lotus/storeitems/types/items/miscitems/infestedaladcoordinate":{
-    "value":"Mutalist Alad V Nav Coordinate"
+    "value":"Coordenadas de navegación de Alad V mutalítico"
   },
   "/lotus/storeitems/types/items/miscitems/juggernautparta":{
     "value":"Pulsating Tubercles"
@@ -2521,31 +2521,31 @@
     "value":"Oxium"
   },
   "/lotus/storeitems/types/items/miscitems/plastids":{
-    "value":"Plastids"
+    "value":"Plástidos"
   },
   "/lotus/storeitems/types/items/miscitems/polymerbundle":{
-    "value":"Polymer Bundle"
+    "value":"Paquetes de polímeros"
   },
   "/lotus/storeitems/types/items/miscitems/polymerbundle240tutorialquest":{
-    "value":"Polymer Bundle"
+    "value":"Paquetes de polímeros"
   },
   "/lotus/storeitems/types/items/miscitems/polymerbundleraidtutorial":{
-    "value":"Polymer Bundle"
+    "value":"Paquetes de polímeros"
   },
   "/lotus/storeitems/types/items/miscitems/primebucks":{
-    "value":"Orokin Ducats"
+    "value":"Ducados orokin"
   },
   "/lotus/storeitems/types/items/miscitems/rubedo":{
     "value":"Rubedo"
   },
   "/lotus/storeitems/types/items/miscitems/salvage":{
-    "value":"Salvage"
+    "value":"Restos"
   },
   "/lotus/storeitems/types/items/miscitems/salvage450tutorialquest":{
-    "value":"Salvage"
+    "value":"Restos"
   },
   "/lotus/storeitems/types/items/miscitems/salvageraidtutorial":{
-    "value":"Salvage"
+    "value":"Restos"
   },
   "/lotus/storeitems/types/items/miscitems/stablecorruptorresource":{
     "value":"Stable Corruptor"
@@ -2554,19 +2554,19 @@
     "value":"Telurio"
   },
   "/lotus/storeitems/types/items/miscitems/utilityunlocker":{
-    "value":"Exilus Adapter"
+    "value":"Adaptador Exilus"
   },
   "/lotus/storeitems/types/items/miscitems/vayhekcoordinatefragmenta":{
-    "value":"Delta Beacon"
+    "value":"Baliza delta"
   },
   "/lotus/storeitems/types/items/miscitems/vayhekcoordinatefragmentb":{
-    "value":"Gamma Beacon"
+    "value":"Baliza gamma"
   },
   "/lotus/storeitems/types/items/miscitems/vayhekcoordinatefragmentc":{
-    "value":"Kappa Beacon"
+    "value":"Baliza kappa"
   },
   "/lotus/storeitems/types/items/miscitems/vayhekcoordinatefragmentd":{
-    "value":"Omega Beacon"
+    "value":"Baliza omega"
   },
   "/lotus/storeitems/types/items/plants/miscitems/commondayplantitem":{
     "value":"Sunlight Threshcone Extract"
@@ -2815,10 +2815,10 @@
     "value":"Ceres Nav Segment"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/clanfeatureitem":{
-    "value":"Clan Segment"
+    "value":"Segmento de clan"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/earthnavigationfeatureitem":{
-    "value":"Earth Nav Segment"
+    "value":"Segmento de navegación de La Tierra"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/erisnavigationfeatureitem":{
     "value":"Eris Nav Segment"
@@ -2848,7 +2848,7 @@
     "value":"Galleon Nav Coordinates"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/modsfeatureitem":{
-    "value":"Mods Segment"
+    "value":"Segmento de mods"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/modsfusionfeatureitem":{
     "value":"Mod Fusion Segment"
@@ -2857,22 +2857,22 @@
     "value":"Mod Transmute Segment"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/neptunenavigationfeatureitem":{
-    "value":"Neptune Nav Segment"
+    "value":"Segmento de navegación de Neptuno"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/phobosnavigationfeatureitem":{
-    "value":"Phobos Nav Segment"
+    "value":"Segmento de navegación de Fobos"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/plutonavigationfeatureitem":{
-    "value":"Pluto Nav Segment"
+    "value":"Segmento de navegación de Plutón"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/saturnnavigationfeatureitem":{
-    "value":"Saturn Nav Segment"
+    "value":"Segmento de navegación de Saturno"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/sednanavigationfeatureitem":{
-    "value":"Sedna Nav Segment"
+    "value":"Segmento de navegación de Sedna"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/socialmenufeatureitem":{
-    "value":"Comms Segment"
+    "value":"Segmento de comunicaciones"
   },
   "/lotus/storeitems/types/items/shipfeatureitems/solarchartfeatureitem":{
     "value":"Solar Chart Segment"
@@ -2905,7 +2905,7 @@
     "value":"Grineer Defector's Location"
   },
   "/lotus/storeitems/types/items/syndicatedogtags/newlokadogtag":{
-    "value":"Seed"
+    "value":"Semilla"
   },
   "/lotus/storeitems/types/items/syndicatedogtags/newlokararedogtag":{
     "value":"Flawless Seed"
@@ -2941,7 +2941,7 @@
     "value":"Defender Insignia"
   },
   "/lotus/storeitems/types/keys/archwingquest/archwingquestkeychain":{
-    "value":"The Archwing"
+    "value":"El archwing"
   },
   "/lotus/storeitems/types/keys/archwingquest/missionfour":{
     "value":"Find Corpus Intelligence About The Balor Fomorians"
@@ -10663,7 +10663,7 @@
     "value":"Extracto de nitain"
   },
   "/lotus/types/items/miscitems/alloyplate":{
-    "value":"Alloy Plate"
+    "value":"Placas de aleación"
   },
   "/lotus/types/items/miscitems/alphacorruptorresource":{
     "value":"Alpha Corruptor"
@@ -10672,7 +10672,7 @@
     "value":"Orokin Archive"
   },
   "/lotus/types/items/miscitems/argoncrystal":{
-    "value":"Argon Crystal"
+    "value":"Cristal de argón"
   },
   "/lotus/types/items/miscitems/beacon":{
     "value":"Proof Fragment"
@@ -10684,13 +10684,13 @@
     "value":"Lephantis Nav Coordinate"
   },
   "/lotus/types/items/miscitems/circuits":{
-    "value":"Circuits"
+    "value":"Circuitos"
   },
   "/lotus/types/items/miscitems/controlmodule":{
-    "value":"Control Module"
+    "value":"Módulo de control"
   },
   "/lotus/types/items/miscitems/cryotic":{
-    "value":"Cryotic"
+    "value":"Criótica"
   },
   "/lotus/types/items/miscitems/dangerroomkey":{
     "value":"Simulacrum Access Key"
@@ -10702,19 +10702,19 @@
     "value":"Synthula"
   },
   "/lotus/types/items/miscitems/ferrite":{
-    "value":"Ferrite"
+    "value":"Ferrita"
   },
   "/lotus/types/items/miscitems/forma":{
     "value":"Forma"
   },
   "/lotus/types/items/miscitems/gallium":{
-    "value":"Gallium"
+    "value":"Galio"
   },
   "/lotus/types/items/miscitems/heknavcode":{
     "value":"Vay Hek Nav Coordinate [Obsolete??]"
   },
   "/lotus/types/items/miscitems/infestedaladcoordinate":{
-    "value":"Mutalist Alad V Nav Coordinate"
+    "value":"Coordenadas de navegación de Alad V mutalítico"
   },
   "/lotus/types/items/miscitems/juggernautparta":{
     "value":"Pulsating Tubercles"
@@ -10771,19 +10771,19 @@
     "value":"Oxium"
   },
   "/lotus/types/items/miscitems/plastids":{
-    "value":"Plastids"
+    "value":"Plástidos"
   },
   "/lotus/types/items/miscitems/polymerbundle":{
-    "value":"Polymer Bundle"
+    "value":"Paquetes de polímeros"
   },
   "/lotus/types/items/miscitems/primebucks":{
-    "value":"Orokin Ducats"
+    "value":"Ducados orokin"
   },
   "/lotus/types/items/miscitems/rubedo":{
     "value":"Rubedo"
   },
   "/lotus/types/items/miscitems/salvage":{
-    "value":"Salvage"
+    "value":"Restos"
   },
   "/lotus/types/items/miscitems/stablecorruptorresource":{
     "value":"Stable Corruptor"
@@ -10792,19 +10792,19 @@
     "value":"Telurio"
   },
   "/lotus/types/items/miscitems/utilityunlocker":{
-    "value":"Exilus Adapter"
+    "value":"Adaptador Exilus"
   },
   "/lotus/types/items/miscitems/vayhekcoordinatefragmenta":{
-    "value":"Delta Beacon"
+    "value":"Baliza delta"
   },
   "/lotus/types/items/miscitems/vayhekcoordinatefragmentb":{
-    "value":"Gamma Beacon"
+    "value":"Baliza gamma"
   },
   "/lotus/types/items/miscitems/vayhekcoordinatefragmentc":{
-    "value":"Kappa Beacon"
+    "value":"Baliza kappa"
   },
   "/lotus/types/items/miscitems/vayhekcoordinatefragmentd":{
-    "value":"Omega Beacon"
+    "value":"Baliza omega"
   },
   "/lotus/types/items/miscitems/voidteardrop":{
     "value":"Void Traces"
