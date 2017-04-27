@@ -1267,7 +1267,7 @@
   "SolNode906":{
     "value":"Pandora (Saturno)",
     "enemy":"Grineer",
-    "type":"Persecución (Archwing)"
+    "type":"Estampida (Archwing)"
   },
   "SolNode907":{
     "value":"Caelus (Urano)",
@@ -1362,7 +1362,7 @@
   "SettlementNode10":{
     "value":"Kepler (Fobos)",
     "enemy":"Corpus",
-    "type":"Carrera (Archwing)"
+    "type":"Persecución (Archwing)"
   },
   "SettlementNode11":{
     "value":"Gulliver (Fobos)",
@@ -1460,7 +1460,7 @@
     "type":"Retribución antigua"
   },
   "EventNode2":{
-    "value":"Operation Gate Crash",
+    "value":"Operación Colapso del portal",
     "enemy":"Consciente",
     "type":"Retribución antigua"
   },
@@ -1495,7 +1495,7 @@
     "type":"Retribución antigua"
   },
   "EventNode9":{
-    "value":"Operation Gate Crash Pt. 2",
+    "value":"Operación Colapso del portal parte 2",
     "enemy":"Consciente",
     "type":"Retribución antigua"
   },
@@ -1510,7 +1510,7 @@
     "type":"Retribución antigua"
   },
   "EventNode12":{
-    "value":"Operation Cryotic Front",
+    "value":"Operación Frente criótico",
     "enemy":"Consciente",
     "type":"Retribución antigua"
   },
@@ -1520,22 +1520,22 @@
     "type":"Retribución antigua"
   },
   "EventNode14":{
-    "value":"Gate Crash",
+    "value":"Colapso del portal",
     "enemy":"Consciente",
     "type":"Retribución antigua"
   },
   "EventNode15":{
-    "value":"Operation Cryotic Front",
+    "value":"Operación Frente criótico",
     "enemy":"Consciente",
     "type":"Retribución antigua"
   },
   "EventNode16":{
-    "value":"Operation Cryotic Front",
+    "value":"Operación Frente criótico",
     "enemy":"Consciente",
     "type":"Retribución antigua"
   },
   "EventNode17":{
-    "value":"Operation Cryotic Front",
+    "value":"Operación Frente criótico",
     "enemy":"Consciente",
     "type":"Retribución antigua"
   },
@@ -1570,12 +1570,12 @@
     "type":"Arena"
   },
   "EventNode763":{
-    "value":"The Index Endurance",
+    "value":"El índice resistencia",
     "enemy":"Corpus",
     "type":"Arena"
   },
   "PvpNode0":{
-    "value":"Conclave Capture the Cephalon",
+    "value":"Cónclave Captura el céfalon",
     "enemy":"Tenno",
     "type":"Cónclave"
   },
@@ -1590,7 +1590,7 @@
     "type":"Cónclave"
   },
   "PvpNode3":{
-    "value":"Conclave Capture the Cephalon",
+    "value":"Cónclave Captura el céfalon",
     "enemy":"Tenno",
     "type":"Cónclave"
   },
@@ -1625,17 +1625,17 @@
     "type":"Cónclave"
   },
   "PvpNode10":{
-    "value":"Conclave Domination",
+    "value":"Cónclave dominación",
     "enemy":"Tenno",
     "type":"Cónclave"
   },
   "PvpNode11":{
-    "value":"Conclave Domination",
+    "value":"Cónclave dominación",
     "enemy":"Tenno",
     "type":"Cónclave"
   },
   "PvpNode12":{
-    "value":"Conclave Domination",
+    "value":"Cónclave dominación",
     "enemy":"Tenno",
     "type":"Cónclave"
   },
