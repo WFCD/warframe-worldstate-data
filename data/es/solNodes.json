@@ -1295,7 +1295,7 @@
     "type":"Supervivencia"
   },
   "SolNode304":{
-    "value":"Copernicus (Lua)",
+    "value":"Copérnico (Lua)",
     "enemy":"Grineer",
     "type":"Defensa móvil"
   },
@@ -1362,7 +1362,7 @@
   "SettlementNode10":{
     "value":"Kepler (Fobos)",
     "enemy":"Corpus",
-    "type":"Rush (Archwing)"
+    "type":"Carrera (Archwing)"
   },
   "SettlementNode11":{
     "value":"Gulliver (Fobos)",
@@ -1780,7 +1780,7 @@
     "type":"Sector oscuro excavación"
   },
   "/Lotus/Types/Keys/SortieBossKeyPhorid":{
-    "value":"Sortie Boss: Phorid",
+    "value":"Jefe de incursión: Phorid",
     "enemy":"Infestados",
     "type":"Asesinato"
   }
