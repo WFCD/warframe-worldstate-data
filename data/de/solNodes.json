@@ -7,12 +7,12 @@
   "SolNode1":{
     "value":"Galatea (Neptune)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode2":{
     "value":"Aphrodite (Venus)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode3":{
     "value":"Cordelia (Uranus)",
@@ -22,7 +22,7 @@
   "SolNode4":{
     "value":"Acheron (Pluto)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode5":{
     "value":"Perdita (Uranus)",
@@ -32,7 +32,7 @@
   "SolNode6":{
     "value":"Despina (Neptune)",
     "enemy":"Corpus",
-    "type":"Excavation"
+    "type":"Ausgrabung"
   },
   "SolNode7":{
     "value":"Epimetheus (Saturn)",
@@ -47,7 +47,7 @@
   "SolNode9":{
     "value":"Rosalind (Uranus)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode10":{
     "value":"Thebe (Jupiter)",
@@ -62,7 +62,7 @@
   "SolNode12":{
     "value":"Elion (Mercury)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode13":{
     "value":"Bianca (Uranus)",
@@ -71,28 +71,28 @@
   },
   "SolNode14":{
     "value":"Ultor (Mars)",
-    "enemy":"Crossfire",
-    "type":"Exterminate"
+    "enemy":"Kreuzfeuer",
+    "type":"Auslöschung"
   },
   "SolNode15":{
     "value":"Pacific (Earth)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode16":{
     "value":"Augustus (Mars)",
-    "enemy":"Crossfire",
-    "type":"Rescue"
+    "enemy":"Kreuzfeuer",
+    "type":"Rettung"
   },
   "SolNode17":{
     "value":"Proteus (Neptune)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode18":{
     "value":"Rhea (Saturn)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode19":{
     "value":"Enceladus (Saturn)",
@@ -102,37 +102,37 @@
   "SolNode20":{
     "value":"Telesto (Saturn)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode21":{
     "value":"Narcissus (Pluto)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode22":{
     "value":"Tessera (Venus)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode23":{
     "value":"Cytherean (Venus)",
     "enemy":"Corpus",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode24":{
     "value":"Oro (Earth)",
     "enemy":"Grineer",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode25":{
     "value":"Callisto (Jupiter)",
     "enemy":"Corpus",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode26":{
     "value":"Lith (Earth)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode27":{
     "value":"E Prime (Earth)",
@@ -152,17 +152,17 @@
   "SolNode30":{
     "value":"Olympus (Mars)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode31":{
     "value":"Anthe (Saturn)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode32":{
     "value":"Tethys (Saturn)",
     "enemy":"Grineer",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode33":{
     "value":"Ariel (Uranus)",
@@ -172,7 +172,7 @@
   "SolNode34":{
     "value":"Sycorax (Uranus)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode35":{
     "value":"Arcadia (Mars)",
@@ -182,7 +182,7 @@
   "SolNode36":{
     "value":"Martialis (Mars)",
     "enemy":"Grineer",
-    "type":"Excavation"
+    "type":"Ausgrabung"
   },
   "SolNode37":{
     "value":"Pallene (Saturn)",
@@ -192,12 +192,12 @@
   "SolNode38":{
     "value":"Minthe (Pluto)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode39":{
     "value":"Everest (Earth)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode40":{
     "value":"Prospero (Uranus)",
@@ -206,18 +206,18 @@
   },
   "SolNode41":{
     "value":"Arval (Mars)",
-    "enemy":"Crossfire",
-    "type":"Ancient Retribution"
+    "enemy":"Kreuzfeuer",
+    "type":"Spionage"
   },
   "SolNode42":{
     "value":"Helene (Saturn)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode43":{
     "value":"Cerberus (Pluto)",
     "enemy":"Corpus",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode44":{
     "value":"Mimas (Saturn)",
@@ -227,12 +227,12 @@
   "SolNode45":{
     "value":"Ara (Mars)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode46":{
     "value":"Spear (Mars)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode47":{
     "value":"Janus (Saturn)",
@@ -242,22 +242,22 @@
   "SolNode48":{
     "value":"Regna (Pluto)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode49":{
     "value":"Larissa (Neptune)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode50":{
     "value":"Numa (Saturn)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode51":{
     "value":"Hades (Pluto)",
     "enemy":"Corpus",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode52":{
     "value":"Portia (Uranus)",
@@ -267,7 +267,7 @@
   "SolNode53":{
     "value":"Themisto (Jupiter)",
     "enemy":"Corpus",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode54":{
     "value":"Silvanus (Mars)",
@@ -292,17 +292,17 @@
   "SolNode58":{
     "value":"Hellas (Mars)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode59":{
     "value":"Eurasia (Earth)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode60":{
     "value":"Caliban (Uranus)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode61":{
     "value":"Ishtar (Venus)",
@@ -312,17 +312,17 @@
   "SolNode62":{
     "value":"Neso (Neptune)",
     "enemy":"Corpus",
-    "type":"Proteus"
+    "type":"Auslöschung"
   },
   "SolNode63":{
     "value":"Mantle (Earth)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode64":{
     "value":"Umbriel (Uranus)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode65":{
     "value":"Gradivus (Mars)",
@@ -332,57 +332,57 @@
   "SolNode66":{
     "value":"Unda (Venus)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode67":{
     "value":"Dione (Saturn)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode68":{
     "value":"Vallis (Mars)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode69":{
     "value":"Ophelia (Uranus)",
     "enemy":"Grineer",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode70":{
     "value":"Cassini (Saturn)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode71":{
     "value":"Vesper (Venus)",
     "enemy":"Corpus",
-    "type":"Ancient Retribution"
+    "type":"Spionage"
   },
   "SolNode72":{
     "value":"Outer Terminus (Pluto)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode73":{
     "value":"Ananke (Jupiter)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode74":{
     "value":"Carme (Jupiter)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode75":{
     "value":"Cervantes (Earth)",
     "enemy":"Grineer",
-    "type":"Excavation"
+    "type":"Ausgrabung"
   },
   "SolNode76":{
     "value":"Hydra (Pluto)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode77":{
     "value":"Cupid (Uranus)",
@@ -392,12 +392,12 @@
   "SolNode78":{
     "value":"Triton (Neptune)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode79":{
     "value":"Cambria (Earth)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode80":{
     "value":"Phoebe (Saturn)",
@@ -407,7 +407,7 @@
   "SolNode81":{
     "value":"Palus (Pluto)",
     "enemy":"Corpus",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode82":{
     "value":"Calypso (Saturn)",
@@ -417,7 +417,7 @@
   "SolNode83":{
     "value":"Cressida (Uranus)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode84":{
     "value":"Nereid (Neptune)",
@@ -427,7 +427,7 @@
   "SolNode85":{
     "value":"Gaia (Earth)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode86":{
     "value":"Aegaeon (Saturn)",
@@ -442,12 +442,12 @@
   "SolNode88":{
     "value":"Adrastea (Jupiter)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode89":{
     "value":"Mariana (Earth)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode90":{
     "value":"Miranda",
@@ -467,12 +467,12 @@
   "SolNode93":{
     "value":"Keeler (Saturn)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode94":{
     "value":"Apollodorus (Mercury)",
     "enemy":"Grineer",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode95":{
     "value":"Thalassa (Neptune)",
@@ -482,7 +482,7 @@
   "SolNode96":{
     "value":"Titan (Saturn)",
     "enemy":"Grineer",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode97":{
     "value":"Amalthea (Jupiter)",
@@ -492,7 +492,7 @@
   "SolNode98":{
     "value":"Desdemona (Uranus)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode99":{
     "value":"War (Mars)",
@@ -502,22 +502,22 @@
   "SolNode100":{
     "value":"Elara (Jupiter)",
     "enemy":"Corpus",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode101":{
     "value":"Kiliken (Venus)",
     "enemy":"Corpus",
-    "type":"Excavation"
+    "type":"Ausgrabung"
   },
   "SolNode102":{
     "value":"Oceanum (Pluto)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode103":{
     "value":"Terminus (Mercury)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode104":{
     "value":"Fossa (Venus)",
@@ -527,17 +527,17 @@
   "SolNode105":{
     "value":"Titania (Uranus)",
     "enemy":"Grineer",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode106":{
     "value":"Alator (Mars)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode107":{
     "value":"Venera (Venus)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode108":{
     "value":"Tolstoj (Mercury)",
@@ -547,7 +547,7 @@
   "SolNode109":{
     "value":"Linea (Venus)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode110":{
     "value":"Hyperion (Saturn)",
@@ -567,12 +567,12 @@
   "SolNode113":{
     "value":"Ares (Mars)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Sabotage"
   },
   "SolNode114":{
     "value":"Puck (Uranus)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode115":{
     "value":"Quirinus (Mars)",
@@ -592,12 +592,12 @@
   "SolNode118":{
     "value":"Laomedeia (Neptune)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode119":{
     "value":"Caloris (Mercury)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode120":{
     "value":"Halimede (Neptune)",
@@ -607,17 +607,17 @@
   "SolNode121":{
     "value":"Carpo (Jupiter)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode122":{
     "value":"Stephano (Uranus)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode123":{
     "value":"V Prime (Venus)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode124":{
     "value":"Trinculo (Uranus)",
@@ -627,22 +627,22 @@
   "SolNode125":{
     "value":"Io (Jupiter)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode126":{
     "value":"Metis (Jupiter)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode127":{
     "value":"Psamathe (Neptune)",
     "enemy":"Corpus",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode128":{
     "value":"E Gate (Venus)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode129":{
     "value":"SolNode129",
@@ -652,17 +652,17 @@
   "SolNode130":{
     "value":"Lares (Mercury)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode131":{
     "value":"Pallas (Ceres)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode132":{
     "value":"Bode (Ceres)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode133":{
     "value":"Vedic (Ceres)",
@@ -687,7 +687,7 @@
   "SolNode137":{
     "value":"Nuovo (Ceres)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode138":{
     "value":"Ludi (Ceres)",
@@ -697,12 +697,12 @@
   "SolNode139":{
     "value":"Lex (Ceres)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode140":{
     "value":"Kiste (Ceres)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode141":{
     "value":"Ker (Ceres)",
@@ -722,7 +722,7 @@
   "SolNode144":{
     "value":"Exta (Ceres)",
     "enemy":"Grineer",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode145":{
     "value":"Egeria (Ceres)",
@@ -732,12 +732,12 @@
   "SolNode146":{
     "value":"Draco (Ceres)",
     "enemy":"Grineer",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode147":{
     "value":"Cinxia (Ceres)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode148":{
     "value":"Cerium (Ceres)"
@@ -745,7 +745,7 @@
   "SolNode149":{
     "value":"Casta (Ceres)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode150":{
     "value":"Albedo (Ceres)",
@@ -754,136 +754,136 @@
   },
   "SolNode151":{
     "value":"Acanth (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode152":{
     "value":"Ascar (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode153":{
     "value":"Brugia (Eris)",
-    "enemy":"Infested",
-    "type":"Rescue"
+    "enemy":"Befallene",
+    "type":"Rettung"
   },
   "SolNode154":{
     "value":"Candiru (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode155":{
     "value":"Cosis (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode156":{
     "value":"Cyath (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode157":{
     "value":"Giardia (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode158":{
     "value":"Gnathos (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode159":{
     "value":"Lepis (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode160":{
     "value":"Histo (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode161":{
     "value":"Hymeno (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode162":{
     "value":"Isos (Eris)",
-    "enemy":"Infested",
-    "type":"Capture"
+    "enemy":"Befallene",
+    "type":"Gefangennahme"
   },
   "SolNode163":{
     "value":"Ixodes (Eris)"
   },
   "SolNode164":{
     "value":"Kala-azar (Eris)",
-    "enemy":"Infested",
-    "type":"Defense"
+    "enemy":"Befallene",
+    "type":"Verteidigung"
   },
   "SolNode165":{
-    "value":"Naeglar (Eris)",
-    "enemy":"Infested",
+    "value":"Sporid (Eris)",
+    "enemy":"Befallene",
     "type":"Hive Sabotage"
   },
   "SolNode166":{
     "value":"Nimus (Eris)",
-    "enemy":"Infested",
-    "type":"Survival"
+    "enemy":"Befallene",
+    "type":"Überleben"
   },
   "SolNode167":{
     "value":"Oestrus (Eris)",
-    "enemy":"Infested",
-    "type":"Mobile Defense"
+    "enemy":"Befallene",
+    "type":"Mobile Verteidigung"
   },
   "SolNode168":{
     "value":"Phalan (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode169":{
     "value":"Psoro (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode170":{
     "value":"Ranova (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode171":{
     "value":"Saxis (Eris)",
-    "enemy":"Infested",
-    "type":"Exterminate"
+    "enemy":"Befallene",
+    "type":"Auslöschung"
   },
   "SolNode172":{
     "value":"Xini (Eris)",
-    "enemy":"Infested",
-    "type":"Interception"
+    "enemy":"Befallene",
+    "type":"Abfangen"
   },
   "SolNode173":{
     "value":"Solium (Eris)",
-    "enemy":"Infested",
-    "type":"Mobile Defense"
+    "enemy":"Befallene",
+    "type":"Mobile Verteidigung"
   },
   "SolNode174":{
     "value":"Sparga (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode175":{
-    "value":"Sporid (Eris)",
-    "enemy":"Infested",
-    "type":"Ancient Retribution"
+    "value":"Naeglar (Eris)",
+    "enemy":"Befallene",
+    "type":"Hive"
   },
   "SolNode176":{
     "value":"Viver (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Ancient Retribution"
   },
   "SolNode177":{
     "value":"Kappa (Sedna)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode178":{
     "value":"Hyosube (Sedna)",
@@ -903,7 +903,7 @@
   "SolNode181":{
     "value":"Adaro (Sedna)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode182":{
     "value":"Camenae (Sedna)",
@@ -918,7 +918,7 @@
   "SolNode184":{
     "value":"Rusalka (Sedna)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode185":{
     "value":"Berehynia (Sedna)",
@@ -943,7 +943,7 @@
   "SolNode189":{
     "value":"Naga (Sedna)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode190":{
     "value":"Nakki (Sedna)",
@@ -958,12 +958,12 @@
   "SolNode192":{
     "value":"Tikoloshe (Sedna)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode193":{
     "value":"Merrow (Sedna)",
     "enemy":"Grineer",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode194":{
     "value":"Ponaturi (Sedna)",
@@ -973,12 +973,12 @@
   "SolNode195":{
     "value":"Hydron (Sedna)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode196":{
     "value":"Charybdis (Sedna)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode197":{
     "value":"Graeae (Sedna)",
@@ -1013,17 +1013,17 @@
   "SolNode203":{
     "value":"Abaddon (Europa)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode204":{
     "value":"Armaros (Europa)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode205":{
     "value":"Baal (Europa)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode206":{
     "value":"Eligor (Europa)"
@@ -1041,22 +1041,22 @@
   "SolNode209":{
     "value":"Morax (Europa)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode210":{
     "value":"Naamah (Europa)",
     "enemy":"Corpus",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "SolNode211":{
     "value":"Ose (Europa)",
     "enemy":"Corpus",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode212":{
     "value":"Paimon (Europa)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode213":{
     "value":"Shax (Europa)"
@@ -1069,12 +1069,12 @@
   "SolNode215":{
     "value":"Valac (Europa)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode216":{
     "value":"Valefor (Europa)",
     "enemy":"Corpus",
-    "type":"Excavation"
+    "type":"Ausgrabung"
   },
   "SolNode217":{
     "value":"Orias (Europa)",
@@ -1109,94 +1109,94 @@
   "SolNode223":{
     "value":"Boethius (Mercury)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode224":{
     "value":"Odin (Mercury)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Abfangen"
   },
   "SolNode225":{
     "value":"Suisei (Mercury)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode226":{
     "value":"Pantheon (Mercury)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode227":{
     "value":"Verdi (Mercury)"
   },
   "SolNode400":{
     "value":"Teshub (Void)",
-    "enemy":"Corrupted",
-    "type":"Exterminate"
+    "enemy":"Korrumpierte",
+    "type":"Auslöschung"
   },
   "SolNode401":{
     "value":"Hepit (Void)",
-    "enemy":"Corrupted",
-    "type":"Capture"
+    "enemy":"Korrumpierte",
+    "type":"Gefangennahme"
   },
   "SolNode402":{
     "value":"Taranis (Void)",
-    "enemy":"Corrupted",
-    "type":"Defense"
+    "enemy":"Korrumpierte",
+    "type":"Verteidigung"
   },
   "SolNode403":{
     "value":"Tiwaz (Void)",
-    "enemy":"Corrupted",
-    "type":"Mobile Defense"
+    "enemy":"Korrumpierte",
+    "type":"Mobile Verteidigung"
   },
   "SolNode404":{
     "value":"Striborg (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Korrumpierte",
     "type":"Orokin Sabotage"
   },
   "SolNode405":{
     "value":"Ani (Void)",
-    "enemy":"Corrupted",
-    "type":"Survival"
+    "enemy":"Korrumpierte",
+    "type":"Überleben"
   },
   "SolNode406":{
     "value":"Ukko (Void)",
-    "enemy":"Corrupted",
-    "type":"Capture"
+    "enemy":"Korrumpierte",
+    "type":"Gefangennahme"
   },
   "SolNode407":{
     "value":"Oxomoco (Void)",
-    "enemy":"Corrupted",
-    "type":"Exterminate"
+    "enemy":"Korrumpierte",
+    "type":"Auslöschung"
   },
   "SolNode408":{
-    "value":"SolNode408 (Void)",
-    "enemy":"Corrupted",
+    "value":"Belenus (Void)",
+    "enemy":"Korrumpierte",
     "type":"Ancient Retribution"
   },
   "SolNode409":{
     "value":"Mot (Void)",
-    "enemy":"Corrupted",
-    "type":"Survival"
+    "enemy":"Korrumpierte",
+    "type":"Überleben"
   },
   "SolNode410":{
     "value":"Aten (Void)",
-    "enemy":"Corrupted",
-    "type":"Mobile Defense"
+    "enemy":"Korrumpierte",
+    "type":"Mobile Verteidigung"
   },
   "SolNode411":{
     "value":"SolNode411 (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Korrumpierte",
     "type":"Ancient Retribution"
   },
   "SolNode412":{
     "value":"Mithra (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Korrumpierte",
     "type":"Ancient Retribution"
   },
   "SolNode413":{
     "value":"SolNode413 (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Korrumpierte",
     "type":"Ancient Retribution"
   },
   "SolNode741":{
@@ -1207,22 +1207,22 @@
   "SolNode742":{
     "value":"Nabuk (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SolNode743":{
     "value":"Rotuma (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode744":{
     "value":"Taveuni (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode745":{
     "value":"Tamu (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SolNode746":{
     "value":"Dakata (Kuva Fortress)",
@@ -1232,12 +1232,12 @@
   "SolNode747":{
     "value":"Pago (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode748":{
     "value":"Garus (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SolNode901":{
     "value":"Caduceus",
@@ -1252,7 +1252,7 @@
   "SolNode903":{
     "value":"Erpo (Earth)",
     "enemy":"Grineer",
-    "type":"Mobile Defense (Archwing)"
+    "type":"Mobile Verteidigung (Archwing)"
   },
   "SolNode904":{
     "value":"Syrtis (Mars)",
@@ -1272,62 +1272,62 @@
   "SolNode907":{
     "value":"Caelus (Uranus)",
     "enemy":"Grineer",
-    "type":"Interception (Archwing)"
+    "type":"Abfangen (Archwing)"
   },
   "SolNode908":{
     "value":"Salacia (Neptune)",
     "enemy":"Corpus",
-    "type":"Mobile Defense (Archwing)"
+    "type":"Mobile Verteidigung (Archwing)"
   },
   "SolNode300":{
     "value":"Plato (Lua)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SolNode301":{
     "value":"Grimaldi (Lua)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode302":{
     "value":"Tycho (Lua)",
     "enemy":"Corpus",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode304":{
     "value":"Copernicus (Lua)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SolNode305":{
     "value":"Stöfler (Lua)",
     "enemy":"Corpus",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SolNode306":{
     "value":"Pavlov (Lua)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SolNode307":{
     "value":"Zeipel (Lua)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SettlementNode1":{
     "value":"Roche (Phobos)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Auslöschung"
   },
   "SettlementNode2":{
     "value":"Skyresh (Phobos)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Gefangennahme"
   },
   "SettlementNode3":{
     "value":"Stickney (Phobos)",
     "enemy":"Corpus",
-    "type":"Survival"
+    "type":"Überleben"
   },
   "SettlementNode4":{
     "value":"Drunlo (Phobos)",
@@ -1367,12 +1367,12 @@
   "SettlementNode11":{
     "value":"Gulliver (Phobos)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Verteidigung"
   },
   "SettlementNode12":{
     "value":"Monolith (Phobos)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Rettung"
   },
   "SettlementNode13":{
     "value":"D'Arrest (Phobos)",
@@ -1382,12 +1382,12 @@
   "SettlementNode14":{
     "value":"Shklovsky (Phobos)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Spionage"
   },
   "SettlementNode15":{
     "value":"Sharpless (Phobos)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobile Verteidigung"
   },
   "SettlementNode16":{
     "value":"Wendell (Phobos)",
@@ -1412,7 +1412,7 @@
   "SettlementNode20":{
     "value":"Iliad (Phobos)",
     "enemy":"Corpus",
-    "type":"Assassination"
+    "type":"Attentat"
   },
   "MercuryHUB":{
     "value":"Larunda Relay (Mercury)",
@@ -1436,7 +1436,7 @@
   },
   "ErisHUB":{
     "value":"Kuiper Relay (Eris)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Relay"
   },
   "EuropaHUB":{
@@ -1644,134 +1644,144 @@
     "enemy":"Tenno",
     "type":"Conclave"
   },
+  "PvpNode14":{
+    "value":"Conclave: Quick Steel",
+    "enemy":"Tenno",
+    "type":"Conclave"
+  },
   "ClanNode0":{
     "value":"Romula (Venus)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode1":{
     "value":"Malva (Venus)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode2":{
     "value":"Coba (Earth)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode3":{
     "value":"Tikal (Earth)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Dark Sector Excavation"
   },
   "ClanNode4":{
     "value":"Sinai (Jupiter)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode5":{
     "value":"Cameria (Jupiter)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode6":{
     "value":"Larzac (Europa)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode7":{
     "value":"Cholistan (Europa)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Dark Sector Excavation"
   },
   "ClanNode8":{
     "value":"Kadesh (Mars)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode9":{
     "value":"Wahiba (Mars)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode10":{
     "value":"Memphis (Phobos)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode11":{
     "value":"Zeugma (Phobos)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode12":{
     "value":"Caracol (Saturn)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode13":{
     "value":"Piscinas (Saturn)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode14":{
     "value":"Amarna (Sedna)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode15":{
     "value":"Sangeru (Sedna)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode16":{
     "value":"Ur (Uranus)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode17":{
     "value":"Assur (Uranus)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Dark Sector Sabotage"
   },
   "ClanNode18":{
     "value":"Akkad (Eris)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode19":{
     "value":"Zabala (Eris)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode20":{
     "value":"Yursa (Neptune)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode21":{
     "value":"Kelashin (Neptune)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode22":{
     "value":"Seimeni (Ceres)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode23":{
     "value":"Gabii (Ceres)",
-    "enemy":"Infested",
-    "type":"Dark Sector Survival"
+    "enemy":"Befallene",
+    "type":"Dark Sector Überleben"
   },
   "ClanNode24":{
     "value":"Sechura (Pluto)",
-    "enemy":"Infested",
-    "type":"Dark Sector Defense"
+    "enemy":"Befallene",
+    "type":"Dark Sector Verteidigung"
   },
   "ClanNode25":{
     "value":"Hieracon (Pluto)",
-    "enemy":"Infested",
+    "enemy":"Befallene",
     "type":"Dark Sector Excavation"
+  },
+  "/Lotus/Types/Keys/SortieBossKeyPhorid":{
+    "value":"Sortie Boss: Phorid",
+    "enemy":"Befallene",
+    "type":"Attentat"
   }
 }
