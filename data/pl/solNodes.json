@@ -12,10 +12,10 @@
   "SolNode2":{
     "value":"Aphrodite (Venus)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode3":{
-    "value":"Cordelia (Uranus)",
+    "value":"Cordelia (Uran)",
     "enemy":"Świadomi",
     "type":"Ancient Retribution"
   },
@@ -47,12 +47,12 @@
   "SolNode9":{
     "value":"Rosalind (uran)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode10":{
     "value":"Thebe (Jupiter)",
     "enemy":"Corpus",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode11":{
     "value":"Tharsis (Mars)",
@@ -60,12 +60,12 @@
     "type":"Hijack"
   },
   "SolNode12":{
-    "value":"Elion (Mercury)",
+    "value":"Elion (Merkury)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode13":{
-    "value":"Bianca (Uranus)",
+    "value":"Bianca (Uran)",
     "enemy":"Grineer",
     "type":"Ancient Retribution"
   },
@@ -137,12 +137,12 @@
   "SolNode27":{
     "value":"E Prime (Earth)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode28":{
     "value":"M Prime (Mercury)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode29":{
     "value":"Oberon (Uranus)",
@@ -152,7 +152,7 @@
   "SolNode30":{
     "value":"Olympus (Mars)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode31":{
     "value":"Anthe (Saturn)",
@@ -167,7 +167,7 @@
   "SolNode33":{
     "value":"Ariel (Uranus)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode34":{
     "value":"Sycorax (Uranus)",
@@ -190,9 +190,9 @@
     "type":"Ancient Retribution"
   },
   "SolNode38":{
-    "value":"Minthe (Pluto)",
+    "value":"Mintho (Pluton)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode39":{
     "value":"Everest (Earth)",
@@ -200,14 +200,14 @@
     "type":"Eksterminacja"
   },
   "SolNode40":{
-    "value":"Prospero (Uranus)",
+    "value":"Prospero (uran)",
     "enemy":"Grineer",
     "type":"Ancient Retribution"
   },
   "SolNode41":{
     "value":"Arval (Mars)",
     "enemy":"Crossfire",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode42":{
     "value":"Helene (Saturn)",
@@ -247,7 +247,7 @@
   "SolNode49":{
     "value":"Larissa (Neptune)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode50":{
     "value":"Numa (Saturn)",
@@ -282,12 +282,12 @@
   "SolNode56":{
     "value":"Cypress (Pluto)",
     "enemy":"Corpus",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode57":{
     "value":"Sao (Neptune)",
     "enemy":"Corpus",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode58":{
     "value":"Hellas (Mars)",
@@ -297,7 +297,7 @@
   "SolNode59":{
     "value":"Eurasia (Earth)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode60":{
     "value":"Caliban (Uranus)",
@@ -307,7 +307,7 @@
   "SolNode61":{
     "value":"Ishtar (Venus)",
     "enemy":"Corpus",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode62":{
     "value":"Neso (Neptune)",
@@ -327,22 +327,22 @@
   "SolNode65":{
     "value":"Gradivus (Mars)",
     "enemy":"Corpus",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode66":{
     "value":"Unda (Venus)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode67":{
     "value":"Dione (Saturn)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode68":{
     "value":"Vallis (Mars)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode69":{
     "value":"Ophelia (Uranus)",
@@ -357,7 +357,7 @@
   "SolNode71":{
     "value":"Vesper (Venus)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode72":{
     "value":"Outer Terminus (Pluto)",
@@ -372,7 +372,7 @@
   "SolNode74":{
     "value":"Carme (Jupiter)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode75":{
     "value":"Cervantes (Earth)",
@@ -397,7 +397,7 @@
   "SolNode79":{
     "value":"Cambria (Earth)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode80":{
     "value":"Phoebe (Saturn)",
@@ -412,12 +412,12 @@
   "SolNode82":{
     "value":"Calypso (Saturn)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode83":{
     "value":"Cressida (Uranus)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode84":{
     "value":"Nereid (Neptune)",
@@ -442,7 +442,7 @@
   "SolNode88":{
     "value":"Adrastea (Jupiter)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode89":{
     "value":"Mariana (Earth)",
@@ -467,7 +467,7 @@
   "SolNode93":{
     "value":"Keeler (Saturn)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode94":{
     "value":"Apollodorus (Mercury)",
@@ -487,7 +487,7 @@
   "SolNode97":{
     "value":"Amalthea (Jupiter)",
     "enemy":"Corpus",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode98":{
     "value":"Desdemona (Uranus)",
@@ -512,7 +512,7 @@
   "SolNode102":{
     "value":"Oceanum (Pluto)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode103":{
     "value":"Terminus (Mercury)",
@@ -567,7 +567,7 @@
   "SolNode113":{
     "value":"Ares (Mars)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode114":{
     "value":"Puck (Uranus)",
@@ -592,7 +592,7 @@
   "SolNode118":{
     "value":"Laomedeia (Neptune)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode119":{
     "value":"Caloris (Mercury)",
@@ -662,7 +662,7 @@
   "SolNode132":{
     "value":"Bode (Ceres)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode133":{
     "value":"Vedic (Ceres)",
@@ -677,7 +677,7 @@
   "SolNode135":{
     "value":"Thon (Ceres)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode136":{
     "value":"Olla (Ceres)",
@@ -702,12 +702,12 @@
   "SolNode140":{
     "value":"Kiste (Ceres)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode141":{
     "value":"Ker (Ceres)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode142":{
     "value":"Hapke (Ceres)",
@@ -833,7 +833,7 @@
   "SolNode167":{
     "value":"Oestrus (Eris)",
     "enemy":"Plaga",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode168":{
     "value":"Phalan (Eris)",
@@ -863,7 +863,7 @@
   "SolNode173":{
     "value":"Solium (Eris)",
     "enemy":"Plaga",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode174":{
     "value":"Sparga (Eris)",
@@ -883,7 +883,7 @@
   "SolNode177":{
     "value":"Kappa (Sedna)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode178":{
     "value":"Hyosube (Sedna)",
@@ -928,7 +928,7 @@
   "SolNode186":{
     "value":"Phithale (Sedna)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode187":{
     "value":"Selkie (Sedna)",
@@ -938,7 +938,7 @@
   "SolNode188":{
     "value":"Kelpie (Sedna)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode189":{
     "value":"Naga (Sedna)",
@@ -958,7 +958,7 @@
   "SolNode192":{
     "value":"Tikoloshe (Sedna)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode193":{
     "value":"Merrow (Sedna)",
@@ -978,7 +978,7 @@
   "SolNode196":{
     "value":"Charybdis (Sedna)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode197":{
     "value":"Graeae (Sedna)",
@@ -1023,7 +1023,7 @@
   "SolNode205":{
     "value":"Baal (Europa)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode206":{
     "value":"Eligor (Europa)"
@@ -1069,7 +1069,7 @@
   "SolNode215":{
     "value":"Valac (Europa)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode216":{
     "value":"Valefor (Europa)",
@@ -1094,7 +1094,7 @@
   "SolNode220":{
     "value":"Kokabiel (Europa)",
     "enemy":"Corpus",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode221":{
     "value":"Neruda (Mercury)",
@@ -1119,7 +1119,7 @@
   "SolNode225":{
     "value":"Suisei (Mercury)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode226":{
     "value":"Pantheon (Mercury)",
@@ -1147,7 +1147,7 @@
   "SolNode403":{
     "value":"Tiwaz (Void)",
     "enemy":"Skarzony",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode404":{
     "value":"Striborg (Void)",
@@ -1182,7 +1182,7 @@
   "SolNode410":{
     "value":"Aten (Void)",
     "enemy":"Skarzony",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode411":{
     "value":"SolNode411 (Void)",
@@ -1212,7 +1212,7 @@
   "SolNode743":{
     "value":"Rotuma (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode744":{
     "value":"Taveuni (Kuva Fortress)",
@@ -1232,7 +1232,7 @@
   "SolNode747":{
     "value":"Pago (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode748":{
     "value":"Garus (Kuva Fortress)",
@@ -1287,7 +1287,7 @@
   "SolNode301":{
     "value":"Grimaldi (Lua)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode302":{
     "value":"Tycho (Lua)",
@@ -1297,7 +1297,7 @@
   "SolNode304":{
     "value":"Copernicus (Lua)",
     "enemy":"Grineer",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SolNode305":{
     "value":"Stöfler (Lua)",
@@ -1307,7 +1307,7 @@
   "SolNode306":{
     "value":"Pavlov (Lua)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SolNode307":{
     "value":"Zeipel (Lua)",
@@ -1382,12 +1382,12 @@
   "SettlementNode14":{
     "value":"Shklovsky (Phobos)",
     "enemy":"Corpus",
-    "type":"Spy"
+    "type":"Infiltracja"
   },
   "SettlementNode15":{
     "value":"Sharpless (Phobos)",
     "enemy":"Corpus",
-    "type":"Mobile Defense"
+    "type":"Mobilna obrona"
   },
   "SettlementNode16":{
     "value":"Wendell (Phobos)",
