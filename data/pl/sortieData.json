@@ -19,13 +19,13 @@
     "SORTIE_MODIFIER_HAZARD_RADIATION":"Zagrożenia Środowiskowe: Promieniowanie",
     "SORTIE_MODIFIER_HAZARD_MAGNETIC":"Zagrożenia środowiskowe: Anomalie elektromagnetyczne",
     "SORTIE_MODIFIER_HAZARD_FOG":"Environmental Hazard: Dense Fog",
-    "SORTIE_MODIFIER_HAZARD_FIRE":"Environmental Hazard: Fire",
+    "SORTIE_MODIFIER_HAZARD_FIRE":"Zagrożenia środowiskowe: ogień",
     "SORTIE_MODIFIER_HAZARD_ICE":"Environmental Effect: Cryogenic Leakage",
     "SORTIE_MODIFIER_HAZARD_COLD":"Environmental Effect: Cryogenic Leakage",
     "SORTIE_MODIFIER_ARMOR":"Augmented Enemy Armor",
     "SORTIE_MODIFIER_SHIELDS":"Enhanced Enemy Shields",
-    "SORTIE_MODIFIER_SECONDARY_ONLY":"Weapon Restriction: Pistol Only",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY":"Weapon Restriction: Shotgun Only",
+    "SORTIE_MODIFIER_SECONDARY_ONLY":"Restrykcja broni: tylko Pistolet",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY":"Restrykcja broni: Tylko Strzelba",
     "SORTIE_MODIFIER_SNIPER_ONLY":"Weapon Restriction: Sniper Only",
     "SORTIE_MODIFIER_RIFLE_ONLY":"Weapon Restriction: Assault Rifle Only",
     "SORTIE_MODIFIER_MELEE_ONLY":"Weapon Restriction: Melee Only",
@@ -122,7 +122,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -137,7 +137,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -212,13 +212,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -287,7 +287,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -314,7 +314,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -329,7 +329,7 @@
           "name":"16",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -344,7 +344,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -359,7 +359,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -415,7 +415,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -430,7 +430,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -505,13 +505,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -580,7 +580,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -607,7 +607,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -622,7 +622,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -637,7 +637,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -693,7 +693,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -708,7 +708,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -783,13 +783,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -858,7 +858,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -885,7 +885,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Defense",
@@ -900,7 +900,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -915,7 +915,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -971,7 +971,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -986,7 +986,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1061,13 +1061,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -1136,7 +1136,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1163,7 +1163,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1178,7 +1178,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1193,7 +1193,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1249,7 +1249,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1264,7 +1264,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1339,13 +1339,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -1414,7 +1414,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1441,7 +1441,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1456,7 +1456,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1471,7 +1471,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1527,7 +1527,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1542,7 +1542,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1617,13 +1617,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -1692,7 +1692,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1719,7 +1719,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1734,7 +1734,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1749,7 +1749,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1805,7 +1805,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1820,7 +1820,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1835,7 +1835,7 @@
           "name":"Mars",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1895,13 +1895,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -1970,7 +1970,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -1997,7 +1997,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2012,7 +2012,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2027,7 +2027,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2083,7 +2083,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2098,7 +2098,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2179,7 +2179,7 @@
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -2248,7 +2248,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2275,7 +2275,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2290,7 +2290,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2305,7 +2305,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2361,7 +2361,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2376,7 +2376,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2451,13 +2451,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -2526,7 +2526,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2553,7 +2553,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2568,7 +2568,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2583,7 +2583,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2639,7 +2639,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2654,7 +2654,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2744,7 +2744,7 @@
           "name":"Pluto",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2804,7 +2804,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2831,7 +2831,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2846,7 +2846,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2861,7 +2861,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2917,7 +2917,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -2932,7 +2932,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3007,13 +3007,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -3082,7 +3082,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3109,7 +3109,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3124,7 +3124,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3139,7 +3139,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3195,7 +3195,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3210,7 +3210,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3285,7 +3285,7 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3360,7 +3360,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3387,7 +3387,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3402,7 +3402,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3473,7 +3473,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3488,7 +3488,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3569,7 +3569,7 @@
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -3638,7 +3638,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3665,7 +3665,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3680,7 +3680,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3695,7 +3695,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3751,7 +3751,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3766,7 +3766,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3841,7 +3841,7 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3916,7 +3916,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3943,7 +3943,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3958,7 +3958,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -3973,7 +3973,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -4029,7 +4029,7 @@
           "name":"Venus",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -4044,7 +4044,7 @@
           "name":"Earth",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -4119,13 +4119,13 @@
           "name":"Neptune",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
             "Defense",
             "Mobile Defense",
-            "Excavation",
+            "Wydobycie",
             "Spy",
             "Assassination"
           ]
@@ -4194,7 +4194,7 @@
           "name":"Europa",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -4221,7 +4221,7 @@
           "name":"Phobos",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -4236,7 +4236,7 @@
           "name":"17",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
@@ -4251,7 +4251,7 @@
           "name":"Lua",
           "missions":[
             "Eksterminacja",
-            "Excavation",
+            "Wydobycie",
             "Rescue",
             "Sabotage",
             "Spy",
