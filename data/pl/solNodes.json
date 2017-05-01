@@ -32,20 +32,20 @@
   "SolNode6":{
     "value":"Despina (Neptun)",
     "enemy":"Corpus",
-    "type":"Excavation"
+    "type":"Wydobycie"
   },
   "SolNode7":{
-    "value":"Epimetheus (Saturn)",
+    "value":"Epimeteusz (Saturn)",
     "enemy":"Grineer",
     "type":"Ancient Retribution"
   },
   "SolNode8":{
-    "value":"Nix (Pluto)",
+    "value":"Nix (Pluton)",
     "enemy":"Corpus",
     "type":"Ancient Retribution"
   },
   "SolNode9":{
-    "value":"Rosalind (Uranus)",
+    "value":"Rosalind (uran)",
     "enemy":"Grineer",
     "type":"Spy"
   },
@@ -70,7 +70,7 @@
     "type":"Ancient Retribution"
   },
   "SolNode14":{
-    "value":"Ultor (Mars)",
+    "value":"Tuningowany (Mars)",
     "enemy":"Crossfire",
     "type":"Eksterminacja"
   },
@@ -182,7 +182,7 @@
   "SolNode36":{
     "value":"Martialis (Mars)",
     "enemy":"Grineer",
-    "type":"Excavation"
+    "type":"Wydobycie"
   },
   "SolNode37":{
     "value":"Pallene (Saturn)",
@@ -377,7 +377,7 @@
   "SolNode75":{
     "value":"Cervantes (Earth)",
     "enemy":"Grineer",
-    "type":"Excavation"
+    "type":"Wydobycie"
   },
   "SolNode76":{
     "value":"Hydra (Pluto)",
@@ -507,7 +507,7 @@
   "SolNode101":{
     "value":"Kiliken (Venus)",
     "enemy":"Corpus",
-    "type":"Excavation"
+    "type":"Wydobycie"
   },
   "SolNode102":{
     "value":"Oceanum (Pluto)",
@@ -1074,7 +1074,7 @@
   "SolNode216":{
     "value":"Valefor (Europa)",
     "enemy":"Corpus",
-    "type":"Excavation"
+    "type":"Wydobycie"
   },
   "SolNode217":{
     "value":"Orias (Europa)",
