@@ -1,10 +1,10 @@
 {
   "modifierTypes":{
-    "SORTIE_MODIFIER_LOW_ENERGY":"Energy Reduction",
-    "SORTIE_MODIFIER_IMPACT":"Enemy Physical Enhancement: Impact",
-    "SORTIE_MODIFIER_SLASH":"Enemy Physical Enhancement: Slash",
-    "SORTIE_MODIFIER_PUNCTURE":"Enemy Physical Enhancement: Puncture",
-    "SORTIE_MODIFIER_EXIMUS":"Eximus Stronghold",
+    "SORTIE_MODIFIER_LOW_ENERGY":"能量減少",
+    "SORTIE_MODIFIER_IMPACT":"敵人的物理抗性︰衝擊",
+    "SORTIE_MODIFIER_SLASH":"敵人的物理抗性︰切割",
+    "SORTIE_MODIFIER_PUNCTURE":"敵人的物理抗性︰穿刺",
+    "SORTIE_MODIFIER_EXIMUS":"卓越者",
     "SORTIE_MODIFIER_MAGNETIC":"Enemy Elemental Enhancement: Magnetic",
     "SORTIE_MODIFIER_CORROSIVE":"Enemy Elemental Enhancement: Corrosive",
     "SORTIE_MODIFIER_VIRAL":"Enemy Elemental Enhancement: Viral",
@@ -19,17 +19,17 @@
     "SORTIE_MODIFIER_HAZARD_RADIATION":"Environmental Hazard: Radiation Pockets",
     "SORTIE_MODIFIER_HAZARD_MAGNETIC":"Environmental Hazard: Electromagnetic Anomalies",
     "SORTIE_MODIFIER_HAZARD_FOG":"Environmental Hazard: Dense Fog",
-    "SORTIE_MODIFIER_HAZARD_FIRE":"Environmental Hazard: Fire",
-    "SORTIE_MODIFIER_HAZARD_ICE":"Environmental Effect: Cryogenic Leakage",
-    "SORTIE_MODIFIER_HAZARD_COLD":"Environmental Effect: Cryogenic Leakage",
-    "SORTIE_MODIFIER_ARMOR":"Augmented Enemy Armor",
-    "SORTIE_MODIFIER_SHIELDS":"Enhanced Enemy Shields",
-    "SORTIE_MODIFIER_SECONDARY_ONLY":"Weapon Restriction: Pistol Only",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY":"Weapon Restriction: Shotgun Only",
-    "SORTIE_MODIFIER_SNIPER_ONLY":"Weapon Restriction: Sniper Only",
-    "SORTIE_MODIFIER_RIFLE_ONLY":"Weapon Restriction: Assault Rifle Only",
-    "SORTIE_MODIFIER_MELEE_ONLY":"Weapon Restriction: Melee Only",
-    "SORTIE_MODIFIER_BOW_ONLY":"Weapon Restriction: Bow Only"
+    "SORTIE_MODIFIER_HAZARD_FIRE":"環境危害︰火災",
+    "SORTIE_MODIFIER_HAZARD_ICE":"環境影響︰ 低溫外洩",
+    "SORTIE_MODIFIER_HAZARD_COLD":"環境影響︰ 低溫外洩",
+    "SORTIE_MODIFIER_ARMOR":"敵人護甲強化",
+    "SORTIE_MODIFIER_SHIELDS":"敵人護盾強化",
+    "SORTIE_MODIFIER_SECONDARY_ONLY":"武器限定：手槍",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY":"武器限定：霞彈槍",
+    "SORTIE_MODIFIER_SNIPER_ONLY":"武器限定：狙擊槍",
+    "SORTIE_MODIFIER_RIFLE_ONLY":"武器限定：突擊步槍",
+    "SORTIE_MODIFIER_MELEE_ONLY":"武器限定：進戰",
+    "SORTIE_MODIFIER_BOW_ONLY":"武器限定：弓箭"
   },
   "bosses":{
     "SORTIE_BOSS_HYENA":{
@@ -37,7 +37,7 @@
       "faction":"Corpus"
     },
     "SORTIE_BOSS_KELA":{
-      "name":"Kela De Thaym",
+      "name":"Kela de Thaym",
       "faction":"Grineer"
     },
     "SORTIE_BOSS_VOR":{
@@ -45,11 +45,11 @@
       "faction":"Grineer"
     },
     "SORTIE_BOSS_RUK":{
-      "name":"General Sargus Ruk",
+      "name":"Sargus Ruk 將軍",
       "faction":"Grineer"
     },
     "SORTIE_BOSS_HEK":{
-      "name":"Councilor Vay Hek",
+      "name":"Vay Hek 議員",
       "faction":"Grineer"
     },
     "SORTIE_BOSS_KRIL":{
@@ -82,15 +82,15 @@
     },
     "SORTIE_BOSS_PHORID":{
       "name":"Phorid",
-      "faction":"Infestation"
+      "faction":"感染者"
     },
     "SORTIE_BOSS_LEPHANTIS":{
       "name":"Lephantis",
-      "faction":"Infestation"
+      "faction":"感染者"
     },
     "SORTIE_BOSS_INFALAD":{
       "name":"異融者 Alad V",
-      "faction":"Infestation"
+      "faction":"感染者"
     }
   },
   "endStates":[
