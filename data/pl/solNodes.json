@@ -75,29 +75,29 @@
     "type":"Eksterminacja"
   },
   "SolNode15":{
-    "value":"Pacific (Earth)",
+    "value":"Pacyfik (Ziemia)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode16":{
     "value":"Augustus (Mars)",
     "enemy":"Crossfire",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode17":{
-    "value":"Proteus (Neptune)",
+    "value":"Proteus (Neptun)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode18":{
     "value":"Rhea (Saturn)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode19":{
     "value":"Enceladus (Saturn)",
     "enemy":"Grineer",
-    "type":"Sabotage"
+    "type":"Sabotaż"
   },
   "SolNode20":{
     "value":"Telesto (Saturn)",
@@ -112,12 +112,12 @@
   "SolNode22":{
     "value":"Tessera (Venus)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode23":{
     "value":"Cytherean (Venus)",
     "enemy":"Corpus",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode24":{
     "value":"Oro (Earth)",
@@ -127,12 +127,12 @@
   "SolNode25":{
     "value":"Callisto (Jupiter)",
     "enemy":"Corpus",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode26":{
-    "value":"Lith (Earth)",
+    "value":"Lith (ziemi)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode27":{
     "value":"E Prime (Earth)",
@@ -157,7 +157,7 @@
   "SolNode31":{
     "value":"Anthe (Saturn)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode32":{
     "value":"Tethys (Saturn)",
@@ -212,12 +212,12 @@
   "SolNode42":{
     "value":"Helene (Saturn)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode43":{
     "value":"Cerberus (Pluto)",
     "enemy":"Corpus",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode44":{
     "value":"Mimas (Saturn)",
@@ -232,7 +232,7 @@
   "SolNode46":{
     "value":"Spear (Mars)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode47":{
     "value":"Janus (Saturn)",
@@ -242,7 +242,7 @@
   "SolNode48":{
     "value":"Regna (Pluto)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode49":{
     "value":"Larissa (Neptune)",
@@ -252,7 +252,7 @@
   "SolNode50":{
     "value":"Numa (Saturn)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode51":{
     "value":"Hades (Pluto)",
@@ -302,7 +302,7 @@
   "SolNode60":{
     "value":"Caliban (Uranus)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode61":{
     "value":"Ishtar (Venus)",
@@ -322,7 +322,7 @@
   "SolNode64":{
     "value":"Umbriel (Uranus)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode65":{
     "value":"Gradivus (Mars)",
@@ -362,7 +362,7 @@
   "SolNode72":{
     "value":"Outer Terminus (Pluto)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode73":{
     "value":"Ananke (Jupiter)",
@@ -392,7 +392,7 @@
   "SolNode78":{
     "value":"Triton (Neptune)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode79":{
     "value":"Cambria (Earth)",
@@ -427,7 +427,7 @@
   "SolNode85":{
     "value":"Gaia (Earth)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode86":{
     "value":"Aegaeon (Saturn)",
@@ -532,7 +532,7 @@
   "SolNode106":{
     "value":"Alator (Mars)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode107":{
     "value":"Venera (Venus)",
@@ -547,7 +547,7 @@
   "SolNode109":{
     "value":"Linea (Venus)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode110":{
     "value":"Hyperion (Saturn)",
@@ -597,7 +597,7 @@
   "SolNode119":{
     "value":"Caloris (Mercury)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode120":{
     "value":"Halimede (Neptune)",
@@ -612,7 +612,7 @@
   "SolNode122":{
     "value":"Stephano (Uranus)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode123":{
     "value":"V Prime (Venus)",
@@ -627,12 +627,12 @@
   "SolNode125":{
     "value":"Io (Jupiter)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode126":{
     "value":"Metis (Jupiter)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode127":{
     "value":"Psamathe (Neptune)",
@@ -652,7 +652,7 @@
   "SolNode130":{
     "value":"Lares (Mercury)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode131":{
     "value":"Pallas (Ceres)",
@@ -687,7 +687,7 @@
   "SolNode137":{
     "value":"Nuovo (Ceres)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode138":{
     "value":"Ludi (Ceres)",
@@ -737,7 +737,7 @@
   "SolNode147":{
     "value":"Cinxia (Ceres)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode148":{
     "value":"Cerium (Ceres)"
@@ -745,7 +745,7 @@
   "SolNode149":{
     "value":"Casta (Ceres)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode150":{
     "value":"Albedo (Ceres)",
@@ -765,7 +765,7 @@
   "SolNode153":{
     "value":"Brugia (Eris)",
     "enemy":"Plaga",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode154":{
     "value":"Candiru (Eris)",
@@ -818,7 +818,7 @@
   "SolNode164":{
     "value":"Kala-azar (Eris)",
     "enemy":"Plaga",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode165":{
     "value":"Sporid (Eris)",
@@ -858,7 +858,7 @@
   "SolNode172":{
     "value":"Xini (Eris)",
     "enemy":"Plaga",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode173":{
     "value":"Solium (Eris)",
@@ -923,7 +923,7 @@
   "SolNode185":{
     "value":"Berehynia (Sedna)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode186":{
     "value":"Phithale (Sedna)",
@@ -943,7 +943,7 @@
   "SolNode189":{
     "value":"Naga (Sedna)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode190":{
     "value":"Nakki (Sedna)",
@@ -973,7 +973,7 @@
   "SolNode195":{
     "value":"Hydron (Sedna)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode196":{
     "value":"Charybdis (Sedna)",
@@ -1051,12 +1051,12 @@
   "SolNode211":{
     "value":"Ose (Europa)",
     "enemy":"Corpus",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode212":{
     "value":"Paimon (Europa)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode213":{
     "value":"Shax (Europa)"
@@ -1114,7 +1114,7 @@
   "SolNode224":{
     "value":"Odin (Mercury)",
     "enemy":"Grineer",
-    "type":"Interception"
+    "type":"Przechwycenie"
   },
   "SolNode225":{
     "value":"Suisei (Mercury)",
@@ -1142,7 +1142,7 @@
   "SolNode402":{
     "value":"Taranis (Void)",
     "enemy":"Skarzony",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode403":{
     "value":"Tiwaz (Void)",
@@ -1222,7 +1222,7 @@
   "SolNode745":{
     "value":"Tamu (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SolNode746":{
     "value":"Dakata (Kuva Fortress)",
@@ -1237,7 +1237,7 @@
   "SolNode748":{
     "value":"Garus (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SolNode901":{
     "value":"Caduceus",
@@ -1312,7 +1312,7 @@
   "SolNode307":{
     "value":"Zeipel (Lua)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SettlementNode1":{
     "value":"Roche (Phobos)",
@@ -1367,12 +1367,12 @@
   "SettlementNode11":{
     "value":"Gulliver (Phobos)",
     "enemy":"Corpus",
-    "type":"Defense"
+    "type":"Obrona"
   },
   "SettlementNode12":{
     "value":"Monolith (Phobos)",
     "enemy":"Corpus",
-    "type":"Rescue"
+    "type":"Ratunek"
   },
   "SettlementNode13":{
     "value":"D'Arrest (Phobos)",
