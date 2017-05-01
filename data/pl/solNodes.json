@@ -22,15 +22,15 @@
   "SolNode4":{
     "value":"Acheron (Pluto)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode5":{
-    "value":"Perdita (Uranus)",
+    "value":"Perdyta (uran)",
     "enemy":"Grineer",
     "type":"Ancient Retribution"
   },
   "SolNode6":{
-    "value":"Despina (Neptune)",
+    "value":"Despina (Neptun)",
     "enemy":"Corpus",
     "type":"Excavation"
   },
@@ -72,7 +72,7 @@
   "SolNode14":{
     "value":"Ultor (Mars)",
     "enemy":"Crossfire",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode15":{
     "value":"Pacific (Earth)",
@@ -102,12 +102,12 @@
   "SolNode20":{
     "value":"Telesto (Saturn)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode21":{
     "value":"Narcissus (Pluto)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode22":{
     "value":"Tessera (Venus)",
@@ -172,7 +172,7 @@
   "SolNode34":{
     "value":"Sycorax (Uranus)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode35":{
     "value":"Arcadia (Mars)",
@@ -197,7 +197,7 @@
   "SolNode39":{
     "value":"Everest (Earth)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode40":{
     "value":"Prospero (Uranus)",
@@ -292,7 +292,7 @@
   "SolNode58":{
     "value":"Hellas (Mars)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode59":{
     "value":"Eurasia (Earth)",
@@ -312,7 +312,7 @@
   "SolNode62":{
     "value":"Neso (Neptune)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode63":{
     "value":"Mantle (Earth)",
@@ -447,7 +447,7 @@
   "SolNode89":{
     "value":"Mariana (Earth)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode90":{
     "value":"Miranda",
@@ -572,7 +572,7 @@
   "SolNode114":{
     "value":"Puck (Uranus)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode115":{
     "value":"Quirinus (Mars)",
@@ -607,7 +607,7 @@
   "SolNode121":{
     "value":"Carpo (Jupiter)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode122":{
     "value":"Stephano (Uranus)",
@@ -642,7 +642,7 @@
   "SolNode128":{
     "value":"E Gate (Venus)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode129":{
     "value":"SolNode129",
@@ -657,7 +657,7 @@
   "SolNode131":{
     "value":"Pallas (Ceres)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode132":{
     "value":"Bode (Ceres)",
@@ -853,7 +853,7 @@
   "SolNode171":{
     "value":"Saxis (Eris)",
     "enemy":"Plaga",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode172":{
     "value":"Xini (Eris)",
@@ -903,7 +903,7 @@
   "SolNode181":{
     "value":"Adaro (Sedna)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode182":{
     "value":"Camenae (Sedna)",
@@ -1018,7 +1018,7 @@
   "SolNode204":{
     "value":"Armaros (Europa)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode205":{
     "value":"Baal (Europa)",
@@ -1041,7 +1041,7 @@
   "SolNode209":{
     "value":"Morax (Europa)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode210":{
     "value":"Naamah (Europa)",
@@ -1109,7 +1109,7 @@
   "SolNode223":{
     "value":"Boethius (Mercury)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode224":{
     "value":"Odin (Mercury)",
@@ -1124,7 +1124,7 @@
   "SolNode226":{
     "value":"Pantheon (Mercury)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode227":{
     "value":"Verdi (Mercury)"
@@ -1132,7 +1132,7 @@
   "SolNode400":{
     "value":"Teshub (Void)",
     "enemy":"Skarzony",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode401":{
     "value":"Hepit (Void)",
@@ -1167,7 +1167,7 @@
   "SolNode407":{
     "value":"Oxomoco (Void)",
     "enemy":"Skarzony",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode408":{
     "value":"Belenus (Void)",
@@ -1282,7 +1282,7 @@
   "SolNode300":{
     "value":"Plato (Lua)",
     "enemy":"Grineer",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SolNode301":{
     "value":"Grimaldi (Lua)",
@@ -1317,7 +1317,7 @@
   "SettlementNode1":{
     "value":"Roche (Phobos)",
     "enemy":"Corpus",
-    "type":"Exterminate"
+    "type":"Eksterminacja"
   },
   "SettlementNode2":{
     "value":"Skyresh (Phobos)",
