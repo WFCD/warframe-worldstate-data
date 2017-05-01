@@ -5,9 +5,9 @@
     "type":"Ancient Retribution"
   },
   "SolNode1":{
-    "value":"Galatea (Neptune)",
+    "value":"Galatea (Neptun)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode2":{
     "value":"Aphrodite (Venus)",
@@ -227,7 +227,7 @@
   "SolNode45":{
     "value":"Ara (Mars)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode46":{
     "value":"Spear (Mars)",
@@ -317,7 +317,7 @@
   "SolNode63":{
     "value":"Mantle (Earth)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode64":{
     "value":"Umbriel (Uranus)",
@@ -352,7 +352,7 @@
   "SolNode70":{
     "value":"Cassini (Saturn)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode71":{
     "value":"Vesper (Venus)",
@@ -367,7 +367,7 @@
   "SolNode73":{
     "value":"Ananke (Jupiter)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode74":{
     "value":"Carme (Jupiter)",
@@ -382,7 +382,7 @@
   "SolNode76":{
     "value":"Hydra (Pluto)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode77":{
     "value":"Cupid (Uranus)",
@@ -492,7 +492,7 @@
   "SolNode98":{
     "value":"Desdemona (Uranus)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode99":{
     "value":"War (Mars)",
@@ -517,7 +517,7 @@
   "SolNode103":{
     "value":"Terminus (Mercury)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode104":{
     "value":"Fossa (Venus)",
@@ -537,7 +537,7 @@
   "SolNode107":{
     "value":"Venera (Venus)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode108":{
     "value":"Tolstoj (Mercury)",
@@ -617,7 +617,7 @@
   "SolNode123":{
     "value":"V Prime (Venus)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode124":{
     "value":"Trinculo (Uranus)",
@@ -697,7 +697,7 @@
   "SolNode139":{
     "value":"Lex (Ceres)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode140":{
     "value":"Kiste (Ceres)",
@@ -810,7 +810,7 @@
   "SolNode162":{
     "value":"Isos (Eris)",
     "enemy":"Plaga",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode163":{
     "value":"Ixodes (Eris)"
@@ -918,7 +918,7 @@
   "SolNode184":{
     "value":"Rusalka (Sedna)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode185":{
     "value":"Berehynia (Sedna)",
@@ -1013,7 +1013,7 @@
   "SolNode203":{
     "value":"Abaddon (Europa)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode204":{
     "value":"Armaros (Europa)",
@@ -1131,72 +1131,72 @@
   },
   "SolNode400":{
     "value":"Teshub (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Exterminate"
   },
   "SolNode401":{
     "value":"Hepit (Void)",
-    "enemy":"Corrupted",
-    "type":"Capture"
+    "enemy":"Skarzony",
+    "type":"Pojmanie"
   },
   "SolNode402":{
     "value":"Taranis (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Defense"
   },
   "SolNode403":{
     "value":"Tiwaz (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Mobile Defense"
   },
   "SolNode404":{
     "value":"Striborg (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Orokin Sabotage"
   },
   "SolNode405":{
     "value":"Ani (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Survival"
   },
   "SolNode406":{
     "value":"Ukko (Void)",
-    "enemy":"Corrupted",
-    "type":"Capture"
+    "enemy":"Skarzony",
+    "type":"Pojmanie"
   },
   "SolNode407":{
     "value":"Oxomoco (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Exterminate"
   },
   "SolNode408":{
     "value":"Belenus (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Ancient Retribution"
   },
   "SolNode409":{
     "value":"Mot (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Survival"
   },
   "SolNode410":{
     "value":"Aten (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Mobile Defense"
   },
   "SolNode411":{
     "value":"SolNode411 (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Ancient Retribution"
   },
   "SolNode412":{
     "value":"Mithra (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Ancient Retribution"
   },
   "SolNode413":{
     "value":"SolNode413 (Void)",
-    "enemy":"Corrupted",
+    "enemy":"Skarzony",
     "type":"Ancient Retribution"
   },
   "SolNode741":{
@@ -1207,7 +1207,7 @@
   "SolNode742":{
     "value":"Nabuk (Kuva Fortress)",
     "enemy":"Grineer",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SolNode743":{
     "value":"Rotuma (Kuva Fortress)",
@@ -1322,7 +1322,7 @@
   "SettlementNode2":{
     "value":"Skyresh (Phobos)",
     "enemy":"Corpus",
-    "type":"Capture"
+    "type":"Pojmanie"
   },
   "SettlementNode3":{
     "value":"Stickney (Phobos)",
