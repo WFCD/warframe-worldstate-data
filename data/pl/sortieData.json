@@ -82,15 +82,15 @@
     },
     "SORTIE_BOSS_PHORID":{
       "name":"Phorid",
-      "faction":"Infestation"
+      "faction":"Plaga"
     },
     "SORTIE_BOSS_LEPHANTIS":{
       "name":"Lephantis",
-      "faction":"Infestation"
+      "faction":"Plaga"
     },
     "SORTIE_BOSS_INFALAD":{
       "name":"Mutalist Alad V",
-      "faction":"Infestation"
+      "faction":"Plaga"
     }
   },
   "endStates":[
@@ -108,12 +108,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -123,12 +123,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
+            "Ratunek",
+            "Sabotaż",
+            "Infiltracja",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -138,12 +138,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -153,12 +153,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -168,12 +168,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -183,12 +183,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -198,12 +198,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -213,10 +213,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -228,12 +228,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -243,12 +243,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -258,12 +258,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -273,12 +273,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -288,12 +288,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -315,12 +315,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -330,12 +330,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -345,12 +345,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -360,12 +360,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -373,15 +373,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -401,12 +401,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -416,12 +416,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -431,12 +431,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -446,12 +446,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -461,12 +461,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -476,12 +476,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -491,12 +491,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -506,10 +506,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -521,12 +521,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -536,12 +536,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -551,12 +551,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -566,12 +566,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -581,12 +581,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -608,12 +608,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -623,12 +623,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -638,12 +638,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -651,15 +651,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -679,12 +679,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -694,12 +694,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -709,12 +709,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -724,12 +724,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -739,12 +739,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -754,12 +754,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -769,12 +769,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -784,10 +784,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -799,12 +799,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -814,13 +814,13 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
-            "Defense",
+            "Przechwycenie",
+            "Obrona",
             "Assassination"
           ]
         },
@@ -829,12 +829,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -844,12 +844,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -859,12 +859,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -886,12 +886,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -901,12 +901,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -916,12 +916,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -929,15 +929,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -960,9 +960,9 @@
             "Survival",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -972,12 +972,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -987,12 +987,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1002,12 +1002,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1017,12 +1017,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1032,12 +1032,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1047,12 +1047,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1062,10 +1062,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -1077,12 +1077,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1092,12 +1092,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -1107,12 +1107,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1122,12 +1122,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1137,12 +1137,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -1164,12 +1164,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1179,12 +1179,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1194,12 +1194,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1207,15 +1207,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -1235,12 +1235,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1250,12 +1250,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -1265,12 +1265,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1280,12 +1280,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1295,12 +1295,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1310,12 +1310,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1325,12 +1325,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1340,10 +1340,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -1355,12 +1355,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1370,12 +1370,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -1385,12 +1385,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1400,12 +1400,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1415,12 +1415,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -1442,12 +1442,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1457,12 +1457,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1472,12 +1472,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1485,15 +1485,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -1513,12 +1513,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1528,12 +1528,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -1543,12 +1543,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1558,12 +1558,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1573,12 +1573,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1588,12 +1588,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1603,12 +1603,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1618,10 +1618,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -1633,12 +1633,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1648,12 +1648,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -1663,12 +1663,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1678,12 +1678,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1693,12 +1693,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -1720,12 +1720,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1735,12 +1735,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1750,12 +1750,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1763,15 +1763,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -1791,12 +1791,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1806,12 +1806,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -1821,12 +1821,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -1836,12 +1836,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1851,12 +1851,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1866,12 +1866,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1881,12 +1881,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1896,10 +1896,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -1911,12 +1911,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1926,12 +1926,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -1941,12 +1941,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1956,12 +1956,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -1971,12 +1971,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -1998,12 +1998,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2013,12 +2013,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2028,12 +2028,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2041,15 +2041,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -2069,12 +2069,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2084,12 +2084,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -2099,12 +2099,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2114,12 +2114,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2129,12 +2129,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2144,12 +2144,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2159,12 +2159,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2174,10 +2174,10 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -2189,12 +2189,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2204,12 +2204,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -2219,12 +2219,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2234,12 +2234,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2249,12 +2249,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -2276,12 +2276,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2291,12 +2291,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2306,12 +2306,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2319,15 +2319,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -2347,12 +2347,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2362,12 +2362,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -2377,12 +2377,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2392,12 +2392,12 @@
           "missions":[
             "Eksterminacja",
             "Eksterminacja",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2407,12 +2407,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2422,12 +2422,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2437,12 +2437,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2452,10 +2452,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -2467,12 +2467,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2482,12 +2482,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -2497,12 +2497,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2512,12 +2512,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2527,12 +2527,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -2554,12 +2554,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2569,12 +2569,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2584,12 +2584,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2597,15 +2597,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -2625,12 +2625,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2640,12 +2640,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Rescue",
+            "Ratunek",
             "Spy",
             "Assassination"
           ]
@@ -2655,12 +2655,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2670,12 +2670,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
             "Sabotage",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2685,12 +2685,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2700,12 +2700,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2715,12 +2715,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2730,12 +2730,12 @@
           "missions":[
             "Eksterminacja",
             "Spy",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2745,12 +2745,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2760,12 +2760,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -2775,12 +2775,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2790,12 +2790,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2805,12 +2805,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -2832,12 +2832,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2847,12 +2847,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2862,12 +2862,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2875,15 +2875,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -2903,12 +2903,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2918,12 +2918,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2933,12 +2933,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -2948,12 +2948,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2963,12 +2963,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2978,12 +2978,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -2993,12 +2993,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3008,10 +3008,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -3023,12 +3023,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3038,12 +3038,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -3053,12 +3053,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3068,12 +3068,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3083,12 +3083,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -3110,12 +3110,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3125,12 +3125,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3140,12 +3140,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3153,15 +3153,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -3181,12 +3181,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3196,12 +3196,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -3211,12 +3211,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3226,12 +3226,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3241,12 +3241,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3256,12 +3256,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3271,12 +3271,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3286,12 +3286,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3301,12 +3301,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3316,12 +3316,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -3331,12 +3331,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3346,12 +3346,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3361,12 +3361,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -3388,12 +3388,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3403,12 +3403,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3418,12 +3418,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3431,15 +3431,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -3459,12 +3459,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3474,12 +3474,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -3489,12 +3489,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3504,12 +3504,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3519,12 +3519,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3534,12 +3534,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3549,12 +3549,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3564,10 +3564,10 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -3579,12 +3579,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3594,12 +3594,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -3609,12 +3609,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hive",
             "Assassination"
           ]
@@ -3624,12 +3624,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3639,12 +3639,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -3666,12 +3666,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3681,12 +3681,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3696,12 +3696,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3709,15 +3709,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -3737,12 +3737,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3752,12 +3752,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -3767,12 +3767,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3782,12 +3782,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3797,12 +3797,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3812,12 +3812,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3827,12 +3827,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3842,10 +3842,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Spy",
             "Spy",
@@ -3857,12 +3857,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3872,12 +3872,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -3887,10 +3887,10 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Spy",
             "Mobile Defense",
@@ -3902,12 +3902,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Hive",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -3917,12 +3917,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -3944,12 +3944,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3959,12 +3959,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3974,12 +3974,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -3987,15 +3987,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
@@ -4015,12 +4015,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -4030,12 +4030,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Defense",
+            "Obrona",
             "Spy",
             "Assassination"
           ]
@@ -4045,12 +4045,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -4060,12 +4060,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Interception",
+            "Przechwycenie",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -4075,12 +4075,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -4090,12 +4090,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -4105,12 +4105,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -4120,10 +4120,10 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Wydobycie",
             "Spy",
@@ -4135,12 +4135,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -4150,12 +4150,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -4165,10 +4165,10 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
             "Survival",
             "Hive",
@@ -4180,12 +4180,12 @@
           "missions":[
             "Eksterminacja",
             "Survival",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Spy",
             "Assassination"
           ]
@@ -4195,12 +4195,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Hijack",
             "Assassination"
           ]
@@ -4222,12 +4222,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -4237,12 +4237,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -4252,12 +4252,12 @@
           "missions":[
             "Eksterminacja",
             "Wydobycie",
-            "Rescue",
+            "Ratunek",
             "Sabotage",
             "Spy",
-            "Defense",
+            "Obrona",
             "Mobile Defense",
-            "Interception",
+            "Przechwycenie",
             "Eksterminacja",
             "Assassination"
           ]
@@ -4265,15 +4265,15 @@
         {
           "name":"Kuva Fortress",
           "missions":[
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Eksterminacja",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
+            "Obrona",
             "Assassination"
           ]
         }
