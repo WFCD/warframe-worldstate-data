@@ -1202,7 +1202,7 @@
   "SolNode741":{
     "value":"Koro (Forteresse Kuva)",
     "enemy":"Grineer",
-    "type":"Assaut"
+    "type":"Invasion"
   },
   "SolNode742":{
     "value":"Nabuk (Forteresse Kuva)",
@@ -1780,7 +1780,7 @@
     "type":"Excavation Dark Sector"
   },
   "/Lotus/Types/Keys/SortieBossKeyPhorid":{
-    "value":"Sortie Boss: Phorid",
+    "value":"Boss de la sortie: Phorid",
     "enemy":"Infesté",
     "type":"Assassinat"
   }
