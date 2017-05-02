@@ -1,19 +1,19 @@
 {
   "modifierTypes":{
-    "SORTIE_MODIFIER_LOW_ENERGY":"Energy Reduction",
+    "SORTIE_MODIFIER_LOW_ENERGY":"Réduction d'énergie",
     "SORTIE_MODIFIER_IMPACT":"Enemy Physical Enhancement: Impact",
     "SORTIE_MODIFIER_SLASH":"Enemy Physical Enhancement: Slash",
     "SORTIE_MODIFIER_PUNCTURE":"Enemy Physical Enhancement: Puncture",
     "SORTIE_MODIFIER_EXIMUS":"Eximus Stronghold",
-    "SORTIE_MODIFIER_MAGNETIC":"Enemy Elemental Enhancement: Magnetic",
-    "SORTIE_MODIFIER_CORROSIVE":"Enemy Elemental Enhancement: Corrosive",
-    "SORTIE_MODIFIER_VIRAL":"Enemy Elemental Enhancement: Viral",
-    "SORTIE_MODIFIER_ELECTRICITY":"Enemy Elemental Enhancement: Electricity",
-    "SORTIE_MODIFIER_RADIATION":"Enemy Elemental Enhancement: Radiation",
-    "SORTIE_MODIFIER_GAS":"Enemy Elemental Enhancement: Gas",
-    "SORTIE_MODIFIER_FIRE":"Enemy Elemental Enhancement: Heat",
-    "SORTIE_MODIFIER_EXPLOSION":"Enemy Elemental Enhancement: Blast",
-    "SORTIE_MODIFIER_FREEZE":"Enemy Elemental Enhancement: Cold",
+    "SORTIE_MODIFIER_MAGNETIC":"Amélioration élémentaire des ennemis: Magnétique",
+    "SORTIE_MODIFIER_CORROSIVE":"Amélioration élémentaire des ennemis: Corrosif",
+    "SORTIE_MODIFIER_VIRAL":"Amélioration élémentaire des ennemis: Viral",
+    "SORTIE_MODIFIER_ELECTRICITY":"Amélioration élémentaire des ennemis: Électrique",
+    "SORTIE_MODIFIER_RADIATION":"Amélioration élémentaire des ennemis: Radiation",
+    "SORTIE_MODIFIER_GAS":"Amélioration élémentaire des ennemis: Gaz",
+    "SORTIE_MODIFIER_FIRE":"Amélioration élémentaire des ennemis: Feu",
+    "SORTIE_MODIFIER_EXPLOSION":"Amélioration élémentaire des ennemis: Explosif",
+    "SORTIE_MODIFIER_FREEZE":"Amélioration élémentaire des ennemis: Froid",
     "SORTIE_MODIFIER_TOXIN":"Enemy Elemental Enhancement: Toxin",
     "SORTIE_MODIFIER_POISON":"Enemy Elemental Enhancement: Toxin",
     "SORTIE_MODIFIER_HAZARD_RADIATION":"Environmental Hazard: Radiation Pockets",
@@ -23,7 +23,7 @@
     "SORTIE_MODIFIER_HAZARD_ICE":"Environmental Effect: Cryogenic Leakage",
     "SORTIE_MODIFIER_HAZARD_COLD":"Environmental Effect: Cryogenic Leakage",
     "SORTIE_MODIFIER_ARMOR":"Augmented Enemy Armor",
-    "SORTIE_MODIFIER_SHIELDS":"Enhanced Enemy Shields",
+    "SORTIE_MODIFIER_SHIELDS":"Boucliers ennemis augmentés",
     "SORTIE_MODIFIER_SECONDARY_ONLY":"Weapon Restriction: Pistol Only",
     "SORTIE_MODIFIER_SHOTGUN_ONLY":"Weapon Restriction: Shotgun Only",
     "SORTIE_MODIFIER_SNIPER_ONLY":"Weapon Restriction: Sniper Only",
@@ -45,11 +45,11 @@
       "faction":"Grineer"
     },
     "SORTIE_BOSS_RUK":{
-      "name":"General Sargus Ruk",
+      "name":"Général Sargus Ruk",
       "faction":"Grineer"
     },
     "SORTIE_BOSS_HEK":{
-      "name":"Councilor Vay Hek",
+      "name":"Conseiller Vay Hek",
       "faction":"Grineer"
     },
     "SORTIE_BOSS_KRIL":{
