@@ -16,12 +16,12 @@
     "SORTIE_MODIFIER_FREEZE":"Amélioration élémentaire des ennemis: Froid",
     "SORTIE_MODIFIER_TOXIN":"Amélioration élémentaire des ennemis: Poison",
     "SORTIE_MODIFIER_POISON":"Amélioration élémentaire des ennemis: Poison",
-    "SORTIE_MODIFIER_HAZARD_RADIATION":"Environmental Hazard: Radiation Pockets",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC":"Environmental Hazard: Electromagnetic Anomalies",
-    "SORTIE_MODIFIER_HAZARD_FOG":"Environmental Hazard: Dense Fog",
-    "SORTIE_MODIFIER_HAZARD_FIRE":"Environmental Hazard: Fire",
-    "SORTIE_MODIFIER_HAZARD_ICE":"Environmental Effect: Cryogenic Leakage",
-    "SORTIE_MODIFIER_HAZARD_COLD":"Environmental Effect: Cryogenic Leakage",
+    "SORTIE_MODIFIER_HAZARD_RADIATION":"Danger environnemental: Radiation",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC":"Danger environnemental: Anomalie électromagnétique",
+    "SORTIE_MODIFIER_HAZARD_FOG":"Danger environnemental: Brouillard dense",
+    "SORTIE_MODIFIER_HAZARD_FIRE":"Danger environnemental: Feu",
+    "SORTIE_MODIFIER_HAZARD_ICE":"Danger environnemental: Fuite Cryogénique",
+    "SORTIE_MODIFIER_HAZARD_COLD":"Danger environnemental: Froid Extrême",
     "SORTIE_MODIFIER_ARMOR":"Armure ennemie augmentée",
     "SORTIE_MODIFIER_SHIELDS":"Boucliers ennemis augmentés",
     "SORTIE_MODIFIER_SECONDARY_ONLY":"Restriction d’arme : Pistolet uniquement",
@@ -82,15 +82,15 @@
     },
     "SORTIE_BOSS_PHORID":{
       "name":"Phorid",
-      "faction":"Infestation"
+      "faction":"Infesté"
     },
     "SORTIE_BOSS_LEPHANTIS":{
       "name":"Lephantis",
-      "faction":"Infestation"
+      "faction":"Infesté"
     },
     "SORTIE_BOSS_INFALAD":{
       "name":"Alad V Mutaliste",
-      "faction":"Infestation"
+      "faction":"Infesté"
     }
   },
   "endStates":[
