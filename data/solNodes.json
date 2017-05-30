@@ -137,7 +137,7 @@
   , "SolNode27": {
     "value": "E Prime (Earth)",
     "enemy": "Grineer",
-    "type" : "Sabotage"
+    "type" : "Exterminate"
   }
   , "SolNode28": {
     "value": "M Prime (Mercury)",
@@ -182,7 +182,7 @@
   , "SolNode36": {
     "value": "Martialis (Mars)",
     "enemy": "Grineer",
-    "type" : "Excavation"
+    "type" : "Rescue"
   }
   , "SolNode37": {
     "value": "Pallene (Saturn)",
@@ -197,7 +197,7 @@
   , "SolNode39": {
     "value": "Everest (Earth)",
     "enemy": "Grineer",
-    "type" : "Exterminate"
+    "type" : "Excavation"
   }
   , "SolNode40": {
     "value": "Prospero (Uranus)",
@@ -377,7 +377,7 @@
   , "SolNode75": {
     "value": "Cervantes (Earth)",
     "enemy": "Grineer",
-    "type" : "Excavation"
+    "type" : "Sabotage"
   }
   , "SolNode76": {
     "value": "Hydra (Pluto)",
@@ -612,7 +612,7 @@
   , "SolNode122": {
     "value": "Stephano (Uranus)",
     "enemy": "Grineer",
-    "type" : "Interception"
+    "type" : "Defense"
   }
   , "SolNode123": {
     "value": "V Prime (Venus)",
@@ -1192,7 +1192,7 @@
   , "SolNode412" : {
     "value" : "Mithra (Void)",
     "enemy": "Corrupted",
-    "type" : "Ancient Retribution"
+    "type" : "Interception"
   }
   , "SolNode413" : {
     "value" : "SolNode413 (Void)",
