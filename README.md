@@ -5,8 +5,15 @@
 A repository of Warframe data for use with warframe-worldstate-parser
 
 ## Installation
-```
+
+**Published version:**
+```bash
 npm i -S warframe-worldstate-data@latest
+```
+
+**Recommended version:**
+```bash
+npm i -S git://github.com/wfcd/warframe-worldstate-data.git
 ```
 
 ## Usage
