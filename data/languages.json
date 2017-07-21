@@ -2520,6 +2520,9 @@
     "/lotus/storeitems/types/items/miscitems/oxiumalloy": {
         "value": "Oxium"
     },
+    "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
+        "value": "Inaros Tomb Scene"
+    },
     "/lotus/storeitems/types/items/miscitems/plastids": {
         "value": "Plastids"
     },
@@ -3383,6 +3386,9 @@
     },
     "/lotus/storeitems/types/recipes/helmets/piratealthelmetblueprint": {
         "value": "Triton Hydroid Helmet Blueprint"
+    },
+    "/lotus/storeitems/types/recipes/helmets/priestalthelmetblueprint": {
+        "value": "Suffragan Harrow Helmet Blueprint"
     },
     "/lotus/storeitems/types/recipes/helmets/rangeralthelmetblueprint": {
         "value": "Ivara Loxley Helmet Blueprint"
@@ -8790,6 +8796,9 @@
     "/lotus/storeitems/upgrades/skins/nvidia/nvidiabratonskin": {
         "value": "Nvidia Braton"
     },
+    "/lotus/storeitems/upgrades/skins/operator/accessories/baromouthpiecea": {
+        "value": "Ki'Teer Atmos Mask"
+    },
     "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroa": {
         "value": "Ki'Teer Earpiece"
     },
@@ -9587,6 +9596,9 @@
     },
     "/lotus/storeitems/upgrades/skins/spectres/spectrecustomization": {
         "value": "Helmet Or Syandana"
+    },
+    "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticetwingrakatas": {
+        "value": "Twin Grakata Towsun Skin"
     },
     "/lotus/storeitems/upgrades/skins/tengu/tenguagileanims": {
         "value": "Zephyr Agile Animation Set"
