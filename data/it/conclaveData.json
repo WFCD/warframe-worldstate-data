@@ -1,39 +1,39 @@
 {
-  "modes":{
-    "PVPMODE_ALL":{
-      "value":"Any Mode"
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "Tutte le Modalità"
     },
-    "PVPMODE_DEATHMATCH":{
-      "value":"Annihilation"
+    "PVPMODE_DEATHMATCH": {
+      "value": "Annientamento"
     },
-    "PVPMODE_TEAMDEATHMATCH":{
-      "value":"Team Annihilation"
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "Annientamento a Squadre"
     },
-    "PVPMODE_NONE":{
-      "value":"None"
+    "PVPMODE_NONE": {
+      "value": "Nessuna"
     },
-    "PVPMODE_CAPTURETHEFLAG":{
-      "value":"Capture the Cephalon"
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "Cattura Cephalon"
     },
-    "PVPMODE_SPEEDBALL":{
-      "value":"Lunaro"
-    }
+    "PVPMODE_SPEEDBALL": {
+      "value": "Lunaro"
+    }    
   },
-  "categories":{
-    "PVPChallengeTypeCategory_WEEKLY":{
-      "value":"week"
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "settimana"
     },
-    "PVPChallengeTypeCategory_WEEKLY_ROOT":{
-      "value":"week_root"
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "missione settimanale"
     },
-    "PVPChallengeTypeCategory_DAILY":{
-      "value":"day"
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "giorno"
     },
-    "PVPChallengeTypeCategory_DAILY_ROOT":{
-      "value":"day_root"
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "sfida giornaliera"
     },
-    "PVPChallengeTypeCategory_MODEAFFECTOR":{
-      "value":"modified round"
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "round modificato"
     }
   }
 }
