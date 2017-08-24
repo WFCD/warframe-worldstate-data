@@ -1,14 +1,14 @@
 [
   {
     "regex":"ash(\\sprime)?",
-    "name":"Ash (Prime)",
+    "name":"Ash (prime)",
     "url":"https://youtu.be/wOakp4nbIzw",
     "mr":"0",
     "health":"150/450",
     "shield":"100/300",
     "armor":"65",
     "power":"100/150",
-    "speed":"1.15",
+    "speed":"1,15",
     "conclave":"90",
     "polarities":[
       "2x <:madurai:319586146499690496>"
@@ -23,7 +23,7 @@
     "prime_health":"",
     "prime_shield":"125/375",
     "prime_armor":"150",
-    "prime_speed":"1.2",
+    "prime_speed":"1,2",
     "prime_power":"",
     "prime_conclave":"",
     "prime_polarities":[
@@ -80,7 +80,7 @@
     "prime_health":"",
     "prime_shield":"",
     "prime_armor":"65",
-    "prime_speed":"1.15",
+    "prime_speed":"1,15",
     "prime_power":"175/262.5",
     "prime_conclave":"",
     "prime_polarities":[
@@ -153,7 +153,7 @@
     "shield":"100/300",
     "armor":"100",
     "power":"150/225",
-    "speed":"1.15",
+    "speed":"1,15",
     "conclave":"60",
     "polarities":[
       "1x <:vazarin:319586146269003778>",
@@ -308,7 +308,7 @@
     "shield":"100/300",
     "armor":"65",
     "power":"175/262.5",
-    "speed":"1.15",
+    "speed":"1,15",
     "conclave":"0",
     "polarities":[
       "1x <:vazarin:319586146269003778>",
@@ -330,7 +330,7 @@
     "shield":"75/225",
     "armor":"65",
     "power":"150/225",
-    "speed":"1.15",
+    "speed":"1,15",
     "conclave":"80",
     "polarities":[
       "2x <:madurai:319586146499690496>"
@@ -440,7 +440,7 @@
     "shield":"80*/240",
     "armor":"65",
     "power":"150/225",
-    "speed":"1.2",
+    "speed":"1,2",
     "conclave":"0",
     "polarities":[
       "1x <:vazarin:319586146269003778>",
@@ -497,7 +497,7 @@
     "shield":"75/225",
     "armor":"175",
     "power":"150/225",
-    "speed":"1.15",
+    "speed":"1,15",
     "conclave":"60",
     "polarities":[
       "1x <:vazarin:319586146269003778>",
@@ -541,7 +541,7 @@
     "shield":"75/225",
     "armor":"65",
     "power":"150/225",
-    "speed":"1.2",
+    "speed":"1,2",
     "conclave":"80",
     "polarities":[
       "1x <:madurai:319586146499690496>"
@@ -903,7 +903,7 @@
     "shield":"150/450",
     "armor":"15",
     "power":"100/150",
-    "speed":"1.15",
+    "speed":"1,15",
     "conclave":"60",
     "polarities":[
       "1x <:madurai:319586146499690496>",
