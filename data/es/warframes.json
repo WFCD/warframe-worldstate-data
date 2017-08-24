@@ -41,7 +41,7 @@
     "shield":"100/300",
     "armor":"450",
     "power":"150/225",
-    "speed":"0.9",
+    "speed":"0,9",
     "conclave":"40",
     "polarities":[
       "1x <:naramon:319586146478850048>",
@@ -57,14 +57,14 @@
   },
   {
     "regex":"banshee(\\sprime)?",
-    "name":"Banshee (Prime)",
+    "name":"Banshee (prime)",
     "url":"https://youtu.be/pJz7ZB0RLhY",
     "mr":"0",
     "health":"100/300",
     "shield":"100/300",
     "armor":"15",
     "power":"150/225",
-    "speed":"1.1",
+    "speed":"1,1",
     "conclave":"60",
     "polarities":[
       "2x <:madurai:319586146499690496>"
@@ -81,7 +81,7 @@
     "prime_shield":"",
     "prime_armor":"65",
     "prime_speed":"1,15",
-    "prime_power":"175/262.5",
+    "prime_power":"175/262,5",
     "prime_conclave":"",
     "prime_polarities":[
       "1x <:naramon:319586146478850048>",
@@ -120,7 +120,7 @@
     "shield":"100/300",
     "armor":"100",
     "power":"150/225",
-    "speed":"1.1",
+    "speed":"1,1",
     "conclave":"120",
     "polarities":[
       "2x <:naramon:319586146478850048>"
@@ -175,7 +175,7 @@
     "shield":"100/300",
     "armor":"225",
     "power":"100/150",
-    "speed":"1.0",
+    "speed":"1,0",
     "conclave":"70",
     "polarities":[
       "1x <:vazarin:319586146269003778>",
@@ -243,7 +243,7 @@
     "shield":"150/450",
     "armor":"150",
     "power":"100/150",
-    "speed":"1.0",
+    "speed":"1,0",
     "conclave":"0",
     "polarities":[
       
@@ -307,7 +307,7 @@
     "health":"75/225",
     "shield":"100/300",
     "armor":"65",
-    "power":"175/262.5",
+    "power":"175/262,5",
     "speed":"1,15",
     "conclave":"0",
     "polarities":[
@@ -367,7 +367,7 @@
     "prime_health":"",
     "prime_shield":"",
     "prime_armor":"",
-    "prime_power":"175/262.5",
+    "prime_power":"175/262,5",
     "prime_speed":"",
     "prime_conclave":"",
     "prime_polarities":[
@@ -419,7 +419,7 @@
     "shield":"75/225",
     "armor":"65",
     "power":"100/150",
-    "speed":"1.1",
+    "speed":"1,1",
     "conclave":"50",
     "polarities":[
       "2x <:naramon:319586146478850048>"
@@ -462,7 +462,7 @@
     "shield":"90/270",
     "armor":"65",
     "power":"100/150",
-    "speed":"1.1",
+    "speed":"1,1",
     "conclave":"70",
     "polarities":[
       "1x <:vazarin:319586146269003778>",
@@ -556,7 +556,7 @@
     "prime_health":"",
     "prime_shield":"100/300",
     "prime_armor":"",
-    "prime_power":"175/262.5",
+    "prime_power":"175/262,5",
     "prime_speed":"",
     "prime_conclave":"",
     "prime_polarities":[
@@ -573,7 +573,7 @@
     "shield":"100/300",
     "armor":"15",
     "power":"150/225",
-    "speed":"1.1",
+    "speed":"1,1",
     "conclave":"50",
     "polarities":[
       "1x <:madurai:319586146499690496>",
@@ -766,7 +766,7 @@
     "prime_shield":"150/450",
     "prime_armor":"",
     "prime_power":"",
-    "prime_speed":"1.1",
+    "prime_speed":"1,1",
     "prime_conclave":"",
     "prime_polarities":[
       "2x <:vazarin:319586146269003778>",
@@ -784,7 +784,7 @@
     "shield":"50/150",
     "armor":"600",
     "power":"100/150",
-    "speed":"1.1",
+    "speed":"1,1",
     "conclave":"90",
     "polarities":[
       "2x <:madurai:319586146499690496>"
