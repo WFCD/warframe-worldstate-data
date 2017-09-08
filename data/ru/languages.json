@@ -29,24 +29,6 @@
   "/lotus/language/alerts/assassinationdesc1":{
     "value":"Вражеский ВИП обнаружен"
   },
-  "/lotus/language/alerts/assassinationdesc10":{
-    "value":"Вражеский офицер разведки обнаружен"
-  },
-  "/lotus/language/alerts/assassinationdesc11":{
-    "value":"Элитный боец обнаружен"
-  },
-  "/lotus/language/alerts/assassinationdesc12":{
-    "value":"Вражеский посол обнаружен"
-  },
-  "/lotus/language/alerts/assassinationdesc13":{
-    "value":"Вражеский робот архетип обнаружен"
-  },
-  "/lotus/language/alerts/assassinationdesc14":{
-    "value":"Вражеский офицер обнаружен"
-  },
-  "/lotus/language/alerts/assassinationdesc15":{
-    "value":"Вражеский снайпер обнаружен"
-  },
   "/lotus/language/alerts/assassinationdesc2":{
     "value":"Вражеский командир корабля обнаружен"
   },
@@ -71,26 +53,26 @@
   "/lotus/language/alerts/assassinationdesc9":{
     "value":"Вражеский оперативник обнаружен"
   },
+  "/lotus/language/alerts/assassinationdesc10":{
+    "value":"Вражеский офицер разведки обнаружен"
+  },
+  "/lotus/language/alerts/assassinationdesc11":{
+    "value":"Элитный боец обнаружен"
+  },
+  "/lotus/language/alerts/assassinationdesc12":{
+    "value":"Вражеский посол обнаружен"
+  },
+  "/lotus/language/alerts/assassinationdesc13":{
+    "value":"Вражеский робот архетип обнаружен"
+  },
+  "/lotus/language/alerts/assassinationdesc14":{
+    "value":"Вражеский офицер обнаружен"
+  },
+  "/lotus/language/alerts/assassinationdesc15":{
+    "value":"Вражеский снайпер обнаружен"
+  },
   "/lotus/language/alerts/capturedesc1":{
     "value":"Беглец обнаружен"
-  },
-  "/lotus/language/alerts/capturedesc10":{
-    "value":"Вражеский ученый обнаружен"
-  },
-  "/lotus/language/alerts/capturedesc11":{
-    "value":"Вражеский торговец оружием обнаружен"
-  },
-  "/lotus/language/alerts/capturedesc12":{
-    "value":"Вражеский заговорщик обнаружен"
-  },
-  "/lotus/language/alerts/capturedesc13":{
-    "value":"Охотник за реликвиями обнаружен"
-  },
-  "/lotus/language/alerts/capturedesc14":{
-    "value":"Вражеский курьер обнаружен"
-  },
-  "/lotus/language/alerts/capturedesc15":{
-    "value":"Захватить и допросить вражеского оперативника"
   },
   "/lotus/language/alerts/capturedesc2":{
     "value":"Вражеский оперативник обнаружен"
@@ -116,11 +98,53 @@
   "/lotus/language/alerts/capturedesc9":{
     "value":"Директор исследовательского объекта обнаружен"
   },
+  "/lotus/language/alerts/capturedesc10":{
+    "value":"Вражеский ученый обнаружен"
+  },
+  "/lotus/language/alerts/capturedesc11":{
+    "value":"Вражеский торговец оружием обнаружен"
+  },
+  "/lotus/language/alerts/capturedesc12":{
+    "value":"Вражеский заговорщик обнаружен"
+  },
+  "/lotus/language/alerts/capturedesc13":{
+    "value":"Охотник за реликвиями обнаружен"
+  },
+  "/lotus/language/alerts/capturedesc14":{
+    "value":"Вражеский курьер обнаружен"
+  },
+  "/lotus/language/alerts/capturedesc15":{
+    "value":"Захватить и допросить вражеского оперативника"
+  },
   "/lotus/language/alerts/corpuslootship":{
     "value":"Казначейский корабль корпуса обнаружен"
   },
   "/lotus/language/alerts/counterinteldesc1":{
     "value":"Обнаружена уязвимость сети"
+  },
+  "/lotus/language/alerts/counterinteldesc2":{
+    "value":"Вражеская станция коммуникации обнаружена"
+  },
+  "/lotus/language/alerts/counterinteldesc3":{
+    "value":"Перенаправить вражеский корабль"
+  },
+  "/lotus/language/alerts/counterinteldesc4":{
+    "value":"Передать поврежденные данные в ядро компьютера"
+  },
+  "/lotus/language/alerts/counterinteldesc5":{
+    "value":"Загрузить программу-жучок на вражеские спутники"
+  },
+  "/lotus/language/alerts/counterinteldesc6":{
+    "value":"Перенастроить навигационную систему вражеского корабля"
+  },
+  "/lotus/language/alerts/counterinteldesc7":{
+    "value":"Перенастроить оружейную систему вражеского корабля"
+  },
+  "/lotus/language/alerts/counterinteldesc8":{
+    "value":"Перенастроить систему прицеливания вражеского корабля"
+  },
+  "/lotus/language/alerts/counterinteldesc9":{
+    "value":"Перенастроить коммуникационную систему вражеского корабля"
   },
   "/lotus/language/alerts/counterinteldesc10":{
     "value":"Вражеский коммуникационный спутник уязвим"
@@ -152,9 +176,6 @@
   "/lotus/language/alerts/counterinteldesc19":{
     "value":"Повредить сетевые протоколы корабля"
   },
-  "/lotus/language/alerts/counterinteldesc2":{
-    "value":"Вражеская станция коммуникации обнаружена"
-  },
   "/lotus/language/alerts/counterinteldesc20":{
     "value":"Повредить сетевые протоколы объекта"
   },
@@ -173,27 +194,6 @@
   "/lotus/language/alerts/counterinteldesc25":{
     "value":"Повредить данные роботического архетипа"
   },
-  "/lotus/language/alerts/counterinteldesc3":{
-    "value":"Перенаправить вражеский корабль"
-  },
-  "/lotus/language/alerts/counterinteldesc4":{
-    "value":"Передать поврежденные данные в ядро компьютера"
-  },
-  "/lotus/language/alerts/counterinteldesc5":{
-    "value":"Загрузить программу-жучок на вражеские спутники"
-  },
-  "/lotus/language/alerts/counterinteldesc6":{
-    "value":"Перенастроить навигационную систему вражеского корабля"
-  },
-  "/lotus/language/alerts/counterinteldesc7":{
-    "value":"Перенастроить оружейную систему вражеского корабля"
-  },
-  "/lotus/language/alerts/counterinteldesc8":{
-    "value":"Перенастроить систему прицеливания вражеского корабля"
-  },
-  "/lotus/language/alerts/counterinteldesc9":{
-    "value":"Перенастроить коммуникационную систему вражеского корабля"
-  },
   "/lotus/language/alerts/darvomobiledefensedesc":{
     "value":"После досаждения не тем людям, независимый \"торговец\" Дарво должен был уйти в подполье. Теперь ему нужна ваша помощь поставить его бизнес на ноги."
   },
@@ -205,6 +205,30 @@
   },
   "/lotus/language/alerts/defensedesc1":{
     "value":"Засада для грузового судна"
+  },
+  "/lotus/language/alerts/defensedesc2":{
+    "value":"Засада исследовательского объекта"
+  },
+  "/lotus/language/alerts/defensedesc3":{
+    "value":"Засада горнорудной фабрики"
+  },
+  "/lotus/language/alerts/defensedesc4":{
+    "value":"Защитить ядро данных во время передачи"
+  },
+  "/lotus/language/alerts/defensedesc5":{
+    "value":"Варфрейм под угрозой"
+  },
+  "/lotus/language/alerts/defensedesc6":{
+    "value":"Вражеский осведомитель скомпрометирован"
+  },
+  "/lotus/language/alerts/defensedesc7":{
+    "value":"Оперативник Тенно скомпрометирован"
+  },
+  "/lotus/language/alerts/defensedesc8":{
+    "value":"Обезопасить груз корабля"
+  },
+  "/lotus/language/alerts/defensedesc9":{
+    "value":"Продержатся до прибытия подмоги"
   },
   "/lotus/language/alerts/defensedesc10":{
     "value":"Защитить вражескую научную лабораторию"
@@ -239,56 +263,14 @@
   "/lotus/language/alerts/defensedesc19":{
     "value":"Защитить важные данные"
   },
-  "/lotus/language/alerts/defensedesc2":{
-    "value":"Засада исследовательского объекта"
-  },
   "/lotus/language/alerts/defensedesc20":{
     "value":"Обезопасить ядро компьютера"
   },
   "/lotus/language/alerts/defensedesc21":{
     "value":"Анализ исследований под угрозой"
   },
-  "/lotus/language/alerts/defensedesc3":{
-    "value":"Засада горнорудной фабрики"
-  },
-  "/lotus/language/alerts/defensedesc4":{
-    "value":"Защитить ядро данных во время передачи"
-  },
-  "/lotus/language/alerts/defensedesc5":{
-    "value":"Варфрейм под угрозой"
-  },
-  "/lotus/language/alerts/defensedesc6":{
-    "value":"Вражеский осведомитель скомпрометирован"
-  },
-  "/lotus/language/alerts/defensedesc7":{
-    "value":"Оперативник Тенно скомпрометирован"
-  },
-  "/lotus/language/alerts/defensedesc8":{
-    "value":"Обезопасить груз корабля"
-  },
-  "/lotus/language/alerts/defensedesc9":{
-    "value":"Продержатся до прибытия подмоги"
-  },
   "/lotus/language/alerts/exterminationdesc1":{
     "value":"Сигнал бедствия Тенно"
-  },
-  "/lotus/language/alerts/exterminationdesc10":{
-    "value":"Отряд по поиску артефактов обнаружен"
-  },
-  "/lotus/language/alerts/exterminationdesc11":{
-    "value":"Ударные силы противника обнаружены"
-  },
-  "/lotus/language/alerts/exterminationdesc12":{
-    "value":"Зачистить и обезопасить вражеский корабль"
-  },
-  "/lotus/language/alerts/exterminationdesc13":{
-    "value":"Поразить вражескую засаду"
-  },
-  "/lotus/language/alerts/exterminationdesc14":{
-    "value":"Очистить сопротивление"
-  },
-  "/lotus/language/alerts/exterminationdesc15":{
-    "value":"Обезопасить зону раскопок"
   },
   "/lotus/language/alerts/exterminationdesc2":{
     "value":"Неизвестный сигнал бедствия обнаружен"
@@ -314,6 +296,24 @@
   "/lotus/language/alerts/exterminationdesc9":{
     "value":"Вражеский разведчик обнаружен"
   },
+  "/lotus/language/alerts/exterminationdesc10":{
+    "value":"Отряд по поиску артефактов обнаружен"
+  },
+  "/lotus/language/alerts/exterminationdesc11":{
+    "value":"Ударные силы противника обнаружены"
+  },
+  "/lotus/language/alerts/exterminationdesc12":{
+    "value":"Зачистить и обезопасить вражеский корабль"
+  },
+  "/lotus/language/alerts/exterminationdesc13":{
+    "value":"Поразить вражескую засаду"
+  },
+  "/lotus/language/alerts/exterminationdesc14":{
+    "value":"Очистить сопротивление"
+  },
+  "/lotus/language/alerts/exterminationdesc15":{
+    "value":"Обезопасить зону раскопок"
+  },
   "/lotus/language/alerts/grineerlootship":{
     "value":"Казначейский корабль Гринир обнаружен"
   },
@@ -322,6 +322,30 @@
   },
   "/lotus/language/alerts/inteldesc1":{
     "value":"Объект исследования обнаружен"
+  },
+  "/lotus/language/alerts/inteldesc2":{
+    "value":"Объект исследования артефактов обнаружен"
+  },
+  "/lotus/language/alerts/inteldesc3":{
+    "value":"Объект исследования оружия обнаружен"
+  },
+  "/lotus/language/alerts/inteldesc4":{
+    "value":"Горнодельная исследовательская станция обнаружена"
+  },
+  "/lotus/language/alerts/inteldesc5":{
+    "value":"Судно разведки обнаружено"
+  },
+  "/lotus/language/alerts/inteldesc6":{
+    "value":"Вражеский корабль обнаружен"
+  },
+  "/lotus/language/alerts/inteldesc7":{
+    "value":"Прототип оружия обнаружен"
+  },
+  "/lotus/language/alerts/inteldesc8":{
+    "value":"Исследования оружия обнаружены"
+  },
+  "/lotus/language/alerts/inteldesc9":{
+    "value":"Заполучить бортовые журналы корабля"
   },
   "/lotus/language/alerts/inteldesc10":{
     "value":"Заполучить журналы охраны"
@@ -353,9 +377,6 @@
   "/lotus/language/alerts/inteldesc19":{
     "value":"Исследовать заброшенный корабль"
   },
-  "/lotus/language/alerts/inteldesc2":{
-    "value":"Объект исследования артефактов обнаружен"
-  },
   "/lotus/language/alerts/inteldesc20":{
     "value":"Исследовать скрытую базу"
   },
@@ -385,9 +406,6 @@
   },
   "/lotus/language/alerts/inteldesc29":{
     "value":"Вражеская база обнаружена"
-  },
-  "/lotus/language/alerts/inteldesc3":{
-    "value":"Объект исследования оружия обнаружен"
   },
   "/lotus/language/alerts/inteldesc30":{
     "value":"Вражеский объект на астероиде обнаружен"
@@ -419,9 +437,6 @@
   "/lotus/language/alerts/inteldesc39":{
     "value":"Вражеский производственный объект обнаружен"
   },
-  "/lotus/language/alerts/inteldesc4":{
-    "value":"Горнодельная исследовательская станция обнаружена"
-  },
   "/lotus/language/alerts/inteldesc40":{
     "value":"Объект исследования клонирования обнаружен"
   },
@@ -446,21 +461,6 @@
   "/lotus/language/alerts/inteldesc47":{
     "value":"Расследовать аванпост врага"
   },
-  "/lotus/language/alerts/inteldesc5":{
-    "value":"Судно разведки обнаружено"
-  },
-  "/lotus/language/alerts/inteldesc6":{
-    "value":"Вражеский корабль обнаружен"
-  },
-  "/lotus/language/alerts/inteldesc7":{
-    "value":"Прототип оружия обнаружен"
-  },
-  "/lotus/language/alerts/inteldesc8":{
-    "value":"Исследования оружия обнаружены"
-  },
-  "/lotus/language/alerts/inteldesc9":{
-    "value":"Заполучить бортовые журналы корабля"
-  },
   "/lotus/language/alerts/lotusgiftdesc":{
     "value":"Подарок от Лотос"
   },
@@ -472,6 +472,30 @@
   },
   "/lotus/language/alerts/raiddesc1":{
     "value":"Оружейное Депо обнаружено"
+  },
+  "/lotus/language/alerts/raiddesc2":{
+    "value":"Артефактное Депо обнаружено"
+  },
+  "/lotus/language/alerts/raiddesc3":{
+    "value":"Депо рубедо обнаружено"
+  },
+  "/lotus/language/alerts/raiddesc4":{
+    "value":"Горнодобывающая станция обнаружена"
+  },
+  "/lotus/language/alerts/raiddesc5":{
+    "value":"Вражеское разведывательное судно обнаружено"
+  },
+  "/lotus/language/alerts/raiddesc6":{
+    "value":"Склад снабжения обнаружен"
+  },
+  "/lotus/language/alerts/raiddesc7":{
+    "value":"Оружейное депо обнаружено"
+  },
+  "/lotus/language/alerts/raiddesc8":{
+    "value":"Вражеское судно снабжения обнаружено"
+  },
+  "/lotus/language/alerts/raiddesc9":{
+    "value":"Корабль черного рынка обнаружен"
   },
   "/lotus/language/alerts/raiddesc10":{
     "value":"Корабль торговца обнаружен"
@@ -503,9 +527,6 @@
   "/lotus/language/alerts/raiddesc19":{
     "value":"Скрытая база обнаружена"
   },
-  "/lotus/language/alerts/raiddesc2":{
-    "value":"Артефактное Депо обнаружено"
-  },
   "/lotus/language/alerts/raiddesc20":{
     "value":"Подпольная база на астероиде обнаружена"
   },
@@ -518,44 +539,8 @@
   "/lotus/language/alerts/raiddesc23":{
     "value":"Объект оружейного тестирования обнаружен"
   },
-  "/lotus/language/alerts/raiddesc3":{
-    "value":"Депо рубедо обнаружено"
-  },
-  "/lotus/language/alerts/raiddesc4":{
-    "value":"Горнодобывающая станция обнаружена"
-  },
-  "/lotus/language/alerts/raiddesc5":{
-    "value":"Вражеское разведывательное судно обнаружено"
-  },
-  "/lotus/language/alerts/raiddesc6":{
-    "value":"Склад снабжения обнаружен"
-  },
-  "/lotus/language/alerts/raiddesc7":{
-    "value":"Оружейное депо обнаружено"
-  },
-  "/lotus/language/alerts/raiddesc8":{
-    "value":"Вражеское судно снабжения обнаружено"
-  },
-  "/lotus/language/alerts/raiddesc9":{
-    "value":"Корабль черного рынка обнаружен"
-  },
   "/lotus/language/alerts/rescuedesc1":{
     "value":"Ситуация с заложником"
-  },
-  "/lotus/language/alerts/rescuedesc10":{
-    "value":"Исследователь оружия обнаружены"
-  },
-  "/lotus/language/alerts/rescuedesc11":{
-    "value":"Сигнал бедствия обнаружен"
-  },
-  "/lotus/language/alerts/rescuedesc12":{
-    "value":"Иностранный эмиссар обнаружен"
-  },
-  "/lotus/language/alerts/rescuedesc13":{
-    "value":"Торговец оружием с черного рынка обнаружен"
-  },
-  "/lotus/language/alerts/rescuedesc14":{
-    "value":"Похищенный гражданский"
   },
   "/lotus/language/alerts/rescuedesc2":{
     "value":"Вражеский осведомитель обнаружен"
@@ -581,8 +566,47 @@
   "/lotus/language/alerts/rescuedesc9":{
     "value":"Вражеский посланник обнаружен"
   },
+  "/lotus/language/alerts/rescuedesc10":{
+    "value":"Исследователь оружия обнаружены"
+  },
+  "/lotus/language/alerts/rescuedesc11":{
+    "value":"Сигнал бедствия обнаружен"
+  },
+  "/lotus/language/alerts/rescuedesc12":{
+    "value":"Иностранный эмиссар обнаружен"
+  },
+  "/lotus/language/alerts/rescuedesc13":{
+    "value":"Торговец оружием с черного рынка обнаружен"
+  },
+  "/lotus/language/alerts/rescuedesc14":{
+    "value":"Похищенный гражданский"
+  },
   "/lotus/language/alerts/sabotagedesc1":{
     "value":"Вражеский транспорт найден"
+  },
+  "/lotus/language/alerts/sabotagedesc2":{
+    "value":"Вражеский объект найден"
+  },
+  "/lotus/language/alerts/sabotagedesc3":{
+    "value":"Оружие депо найдено"
+  },
+  "/lotus/language/alerts/sabotagedesc4":{
+    "value":"Обезвредить вражеский корабль"
+  },
+  "/lotus/language/alerts/sabotagedesc5":{
+    "value":"Уничтожить вражеский транспорт"
+  },
+  "/lotus/language/alerts/sabotagedesc6":{
+    "value":"Уничтожить вражеский объект"
+  },
+  "/lotus/language/alerts/sabotagedesc7":{
+    "value":"Уничтожить коммуникационную станцию"
+  },
+  "/lotus/language/alerts/sabotagedesc8":{
+    "value":"Отключить щиты противника"
+  },
+  "/lotus/language/alerts/sabotagedesc9":{
+    "value":"Деактивировать турели"
   },
   "/lotus/language/alerts/sabotagedesc10":{
     "value":"Спутник коммуникации противника обнаружен"
@@ -614,9 +638,6 @@
   "/lotus/language/alerts/sabotagedesc19":{
     "value":"Отключить вражеские спутники"
   },
-  "/lotus/language/alerts/sabotagedesc2":{
-    "value":"Вражеский объект найден"
-  },
   "/lotus/language/alerts/sabotagedesc20":{
     "value":"Отключить навигационный маяк"
   },
@@ -646,27 +667,6 @@
   },
   "/lotus/language/alerts/sabotagedesc29":{
     "value":"Уничтожать тайник боеприпасов"
-  },
-  "/lotus/language/alerts/sabotagedesc3":{
-    "value":"Оружие депо найдено"
-  },
-  "/lotus/language/alerts/sabotagedesc4":{
-    "value":"Обезвредить вражеский корабль"
-  },
-  "/lotus/language/alerts/sabotagedesc5":{
-    "value":"Уничтожить вражеский транспорт"
-  },
-  "/lotus/language/alerts/sabotagedesc6":{
-    "value":"Уничтожить вражеский объект"
-  },
-  "/lotus/language/alerts/sabotagedesc7":{
-    "value":"Уничтожить коммуникационную станцию"
-  },
-  "/lotus/language/alerts/sabotagedesc8":{
-    "value":"Отключить щиты противника"
-  },
-  "/lotus/language/alerts/sabotagedesc9":{
-    "value":"Деактивировать турели"
   },
   "/lotus/language/alerts/savedarvotitle":{
     "value":"Банкротство Корпуса"
@@ -2778,6 +2778,9 @@
   "/lotus/storeitems/types/items/shipdecos/oberonbobblehead":{
     "value":"Кукла Оберон"
   },
+  "/lotus/storeitems/types/items/shipdecos/orbiterpictureframebaro":{
+    "value":"Display - Argyle"
+  },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime":{
     "value":"Пьедестал Прайм"
   },
@@ -3225,6 +3228,9 @@
   "/lotus/storeitems/types/keys/vorsprize/vorsprizequestkeychain":{
     "value":"Приз Вора"
   },
+  "/lotus/storeitems/types/pickups/credits/500credits":{
+    "value":"Награда 500 кредитов"
+  },
   "/lotus/storeitems/types/pickups/credits/1000credits":{
     "value":"Награда 1000 кредитов"
   },
@@ -3245,9 +3251,6 @@
   },
   "/lotus/storeitems/types/pickups/credits/5000credits":{
     "value":"Награда 5000 кредитов"
-  },
-  "/lotus/storeitems/types/pickups/credits/500credits":{
-    "value":"Награда 500 кредитов"
   },
   "/lotus/storeitems/types/recipes/archwingrecipes/demolitionarchwing/demolitionarchwingchassiscomponent":{
     "value":"Упряжь Элитрона"
@@ -3390,17 +3393,17 @@
   "/lotus/storeitems/types/recipes/helmets/priestalthelmetblueprint":{
     "value":"Suffragan Harrow Helmet Blueprint"
   },
-  "/lotus/storeitems/types/recipes/helmets/rangeralthelmetblueprint":{
-    "value":"Чертеж шлемы Ивары Локсли"
-  },
   "/lotus/storeitems/types/recipes/helmets/rangeraltbhelmetblueprint":{
     "value":"Чертеж шлема Ивары Зирастра"
   },
-  "/lotus/storeitems/types/recipes/helmets/sandmanalthelmetblueprint":{
-    "value":"Чертеж шлема Инароса Анубис"
+  "/lotus/storeitems/types/recipes/helmets/rangeralthelmetblueprint":{
+    "value":"Чертеж шлемы Ивары Локсли"
   },
   "/lotus/storeitems/types/recipes/helmets/sandmanaltbhelmetblueprint":{
     "value":"Чертеж шлема Инароса Канопик"
+  },
+  "/lotus/storeitems/types/recipes/helmets/sandmanalthelmetblueprint":{
+    "value":"Чертеж шлема Инароса Анубис"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessashalthelmetblueprint":{
     "value":"Чертеж шлема Эша Скорпион"
@@ -4479,6 +4482,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagebansheereverbdark":{
     "value":"Иконка профиля: Банши Реверб"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/imagebarokiteer":{
+    "value":"Ki'Teer Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imagechromaamarubright":{
     "value":"Иконка профиля: Хрома Амару"
   },
@@ -5043,6 +5049,9 @@
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickeritemd":{
     "value":"Color Picker D"
   },
+  "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerkiteeritema":{
+    "value":"Baro Ki'Teer Colors"
+  },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerlotus":{
     "value":"Лотос"
   },
@@ -5547,9 +5556,6 @@
   "/lotus/storeitems/upgrades/mods/fusers/commonmodfuser":{
     "value":"Common Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl10modfuser":{
-    "value":"Ancient Fusion Core"
-  },
   "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl1modfuser":{
     "value":"Ancient Fusion Core"
   },
@@ -5577,10 +5583,10 @@
   "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl9modfuser":{
     "value":"Ancient Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacycommonmodfuser":{
+  "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl10modfuser":{
     "value":"Ancient Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl10modfuser":{
+  "/lotus/storeitems/upgrades/mods/fusers/legacycommonmodfuser":{
     "value":"Ancient Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl1modfuser":{
@@ -5610,10 +5616,10 @@
   "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl9modfuser":{
     "value":"Ancient Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyraremodfuser":{
+  "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl10modfuser":{
     "value":"Ancient Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl10modfuser":{
+  "/lotus/storeitems/upgrades/mods/fusers/legacyraremodfuser":{
     "value":"Ancient Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl1modfuser":{
@@ -5641,6 +5647,9 @@
     "value":"Ancient Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl9modfuser":{
+    "value":"Ancient Fusion Core"
+  },
+  "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl10modfuser":{
     "value":"Ancient Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonmodfuser":{
@@ -8958,6 +8967,9 @@
   "/lotus/storeitems/upgrades/skins/scarves/barocape":{
     "value":"Ki'Teer Syandana"
   },
+  "/lotus/storeitems/upgrades/skins/scarves/barocape2scarf":{
+    "value":"Ki'Teer Razza Synadana"
+  },
   "/lotus/storeitems/upgrades/skins/scarves/brassandgoldscarf":{
     "value":"Ormolu Kyroptera Syandana"
   },
@@ -9854,6 +9866,9 @@
   },
   "/lotus/storeitems/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher":{
     "value":"Angstrum"
+  },
+  "/lotus/storeitems/weapons/corpus/pistols/crphandrl/prismaangstrum":{
+    "value":"Prisma Angstrum"
   },
   "/lotus/storeitems/weapons/grineer/grineerpistol/grineerakimbopistol":{
     "value":"Twin Gremlins"
@@ -10887,14 +10902,14 @@
   "/lotus/types/recipes/weapons/deravandalblueprint":{
     "value":"Dera Vandal Blueprint"
   },
+  "/lotus/types/recipes/weapons/grineercombatknifeprint":{
+    "value":"Sheev Blueprint"
+  },
   "/lotus/types/recipes/weapons/karakwraithblueprint":{
     "value":"Karak Wraith Blueprint"
   },
   "/lotus/types/recipes/weapons/latronwraithblueprint":{
     "value":"Latron Wraith Blueprint"
-  },
-  "/lotus/types/recipes/weapons/grineercombatknifeprint":{
-    "value":"Sheev Blueprint"
   },
   "/lotus/types/recipes/weapons/snipetronvandalblueprint":{
     "value":"Snipetron Vandal Blueprint"
@@ -10920,14 +10935,14 @@
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifehilt":{
     "value":"Sheev Hilt"
   },
+  "/lotus/types/recipes/weapons/weaponparts/karakwraithbarrel":{
+    "value":"Karak Wraith Barrel"
+  },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithreceiver":{
     "value":"Karak Wraith Receiver"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithstock":{
     "value":"Karak Wraith Stock"
-  },
-  "/lotus/types/recipes/weapons/weaponparts/karakwraithbarrel":{
-    "value":"Karak Wraith Barrel"
   },
   "/lotus/types/recipes/weapons/weaponparts/latronwraithbarrel":{
     "value":"Latron Wraith Barrel"
@@ -10950,11 +10965,11 @@
   "/lotus/types/recipes/weapons/weaponparts/strunwraithbarrel":{
     "value":"Strun Wraith Barrel"
   },
-  "/lotus/types/recipes/weapons/weaponparts/strunwraithstock":{
-    "value":"Strun Wraith Stock"
-  },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithreceiver":{
     "value":"Strun Wraith Receiver"
+  },
+  "/lotus/types/recipes/weapons/weaponparts/strunwraithstock":{
+    "value":"Strun Wraith Stock"
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithbarrel":{
     "value":"Wraith Twin Vipers Barrel"
@@ -11799,6 +11814,9 @@
   "/lotus/types/storeitems/packages/colorpackb":{
     "value":"Color Pack: Beta"
   },
+  "/lotus/types/storeitems/packages/comicglyphsbundlea":{
+    "value":"Halftone Glyph Pack"
+  },
   "/lotus/types/storeitems/packages/consoletennogenabundle":{
     "value":"TennoGen Mega Bundle"
   },
@@ -11813,6 +11831,12 @@
   },
   "/lotus/types/storeitems/packages/corpusdazzlecamosniperskinpack":{
     "value":"Shock Camo Lanka"
+  },
+  "/lotus/types/storeitems/packages/corpushigharmorbundle":{
+    "value":"Arca Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/corpusweaponbundlea":{
+    "value":"Arca Bundle"
   },
   "/lotus/types/storeitems/packages/crpcircarmorpack":{
     "value":"Porta Armor Bundle"
@@ -12129,6 +12153,9 @@
   "/lotus/types/storeitems/packages/prestigepacktwo":{
     "value":"Prestige Pack II"
   },
+  "/lotus/types/storeitems/packages/priestbundle":{
+    "value":"Harrow Collection"
+  },
   "/lotus/types/storeitems/packages/primeaccess2storeitem":{
     "value":"Saryn Prime Access Pack"
   },
@@ -12213,6 +12240,9 @@
   "/lotus/types/storeitems/packages/titaniabundle":{
     "value":"Silver Grove Bundle"
   },
+  "/lotus/types/storeitems/packages/tnguandaobundle":{
+    "value":"Guandao Collection"
+  },
   "/lotus/types/storeitems/packages/translatorpack":{
     "value":"Dead Silence Pack"
   },
@@ -12221,6 +12251,9 @@
   },
   "/lotus/types/storeitems/packages/trinitydeluxeskinbundle":{
     "value":"Trinity Strega Bundle"
+  },
+  "/lotus/types/storeitems/packages/twitchprimestoreitem":{
+    "value":"Free Prime with Twitch Prime"
   },
   "/lotus/types/storeitems/packages/update10megapack":{
     "value":"Update 10 Mega Bundle"
@@ -12243,11 +12276,11 @@
   "/lotus/types/storeitems/packages/voidskinpack":{
     "value":"[Placeholder]"
   },
-  "/lotus/types/storeitems/packages/vulkardealpack":{
-    "value":"Vulkar Deal Pack"
-  },
   "/lotus/types/storeitems/packages/vteosarmourbundle":{
     "value":"Eos Prime Armor Set"
+  },
+  "/lotus/types/storeitems/packages/vulkardealpack":{
+    "value":"Vulkar Deal Pack"
   },
   "/lotus/types/storeitems/packages/warframepack":{
     "value":"Ultimate Warframe Pack"
@@ -12413,6 +12446,9 @@
   },
   "/lotus/upgrades/skins/decree/bansheedeluxesuit":{
     "value":"Banshee Soprana Skin"
+  },
+  "/lotus/upgrades/skins/dragon/chromadeluxeskin":{
+    "value":"Chroma Dynasty Skin"
   },
   "/lotus/upgrades/skins/ember/emberalternateskin":{
     "value":"Ember Immortal Skin"
@@ -12717,6 +12753,9 @@
   "/lotus/upgrades/skins/scarves/kazinfestedscarf":{
     "value":"Apoxys Syandana"
   },
+  "/lotus/upgrades/skins/scarves/tnguandaoscarf":{
+    "value":"Mozi Syandana"
+  },
   "/lotus/upgrades/skins/sentinels/persiandjinnskin":{
     "value":"Djinn Gazal Skin"
   },
@@ -12741,14 +12780,26 @@
   "/lotus/weapons/cephalon/primary/cephprimary/cephprimary":{
     "value":"Simulor"
   },
+  "/lotus/weapons/corpus/bow/longbow/crpbow":{
+    "value":"Lenz"
+  },
+  "/lotus/weapons/corpus/longguns/crpshotgun/crpshotgun":{
+    "value":"Arca Plasmor"
+  },
+  "/lotus/weapons/corpus/longguns/spears/railgun/corpusrailgun":{
+    "value":"Ferrox"
+  },
   "/lotus/weapons/corpus/melee/crptonfa/crptonfa":{
     "value":"Ohma"
+  },
+  "/lotus/weapons/corpus/melee/hammer/corpushammerweapon":{
+    "value":"Arca Titron"
   },
   "/lotus/weapons/corpus/pistols/crpelectromag/crpelectromag":{
     "value":"Staticor"
   },
-  "/lotus/weapons/corpus/longguns/spears/railgun/corpusrailgun":{
-    "value":"Ferrox"
+  "/lotus/weapons/corpus/pistols/sniperpistol/crpscopegun":{
+    "value":"Arca Scisco"
   },
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas":{
     "value":"Twin Grakata"
@@ -12764,6 +12815,9 @@
   },
   "/lotus/weapons/grineer/melee/grineerjetpoweredpolearm/grineerjetpolearm":{
     "value":"Jat Kittag"
+  },
+  "/lotus/weapons/grineer/melee/grnkusarigama/grnkusarigamaweapon":{
+    "value":"Jat Kusar"
   },
   "/lotus/weapons/grineer/pistols/grndwuniques/grntwinkohmaks":{
     "value":"Twin Khomaks"
@@ -12801,19 +12855,19 @@
   "/lotus/weapons/tenno/melee/persianmachete/djinnmachete":{
     "value":"Gazal Machete"
   },
+  "/lotus/weapons/tenno/melee/polearms/tnguandaopolearm/tnguandaopolearmweapon":{
+    "value":"Guandao"
+  },
   "/lotus/weapons/tenno/melee/swords/darksword/darksworddaggerhybridweapon":{
     "value":"Dark Split Sword"
   },
   "/lotus/weapons/tenno/pistols/tnbardpistol/tnbardpistolgun":{
     "value":"Pandero"
   },
+  "/lotus/weapons/tenno/pistols/tnguandopistol/tnguandopistolgun":{
+    "value":"Zakti"
+  },
   "ProjectIndex":{
     "value":"Очки Индекса"
-  },
-  "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerkiteeritema":{
-    "value":"Baro Ki'Teer Colors"
-  },
-  "/lotus/storeitems/types/storeitems/avatarimages/imagebarokiteer":{
-    "value":"Ki'Teer Glyph"
   }
 }
