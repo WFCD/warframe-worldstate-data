@@ -29,24 +29,6 @@
   "/lotus/language/alerts/assassinationdesc1":{
     "value":"Enemy VIP Located"
   },
-  "/lotus/language/alerts/assassinationdesc10":{
-    "value":"Enemy Intelligence Officer Located"
-  },
-  "/lotus/language/alerts/assassinationdesc11":{
-    "value":"Elite Troop Located"
-  },
-  "/lotus/language/alerts/assassinationdesc12":{
-    "value":"Enemy Ambassador Located"
-  },
-  "/lotus/language/alerts/assassinationdesc13":{
-    "value":"Enemy Robotic Archetype Located"
-  },
-  "/lotus/language/alerts/assassinationdesc14":{
-    "value":"Enemy Officer Located"
-  },
-  "/lotus/language/alerts/assassinationdesc15":{
-    "value":"Enemy Sniper Located"
-  },
   "/lotus/language/alerts/assassinationdesc2":{
     "value":"Enemy Ship Commander Located"
   },
@@ -71,26 +53,26 @@
   "/lotus/language/alerts/assassinationdesc9":{
     "value":"Enemy Operative Located"
   },
+  "/lotus/language/alerts/assassinationdesc10":{
+    "value":"Enemy Intelligence Officer Located"
+  },
+  "/lotus/language/alerts/assassinationdesc11":{
+    "value":"Elite Troop Located"
+  },
+  "/lotus/language/alerts/assassinationdesc12":{
+    "value":"Enemy Ambassador Located"
+  },
+  "/lotus/language/alerts/assassinationdesc13":{
+    "value":"Enemy Robotic Archetype Located"
+  },
+  "/lotus/language/alerts/assassinationdesc14":{
+    "value":"Enemy Officer Located"
+  },
+  "/lotus/language/alerts/assassinationdesc15":{
+    "value":"Enemy Sniper Located"
+  },
   "/lotus/language/alerts/capturedesc1":{
     "value":"Fugitive Located"
-  },
-  "/lotus/language/alerts/capturedesc10":{
-    "value":"Enemy Research Scientist Located"
-  },
-  "/lotus/language/alerts/capturedesc11":{
-    "value":"Enemy Weapons Trader Located"
-  },
-  "/lotus/language/alerts/capturedesc12":{
-    "value":"Enemy Conspirator Located"
-  },
-  "/lotus/language/alerts/capturedesc13":{
-    "value":"Relic Hunter Located"
-  },
-  "/lotus/language/alerts/capturedesc14":{
-    "value":"Enemy Courier Located"
-  },
-  "/lotus/language/alerts/capturedesc15":{
-    "value":"Capture And Interrogate Enemy Operative"
   },
   "/lotus/language/alerts/capturedesc2":{
     "value":"Enemy Operative Located"
@@ -116,11 +98,53 @@
   "/lotus/language/alerts/capturedesc9":{
     "value":"Research Facility Director Located"
   },
+  "/lotus/language/alerts/capturedesc10":{
+    "value":"Enemy Research Scientist Located"
+  },
+  "/lotus/language/alerts/capturedesc11":{
+    "value":"Enemy Weapons Trader Located"
+  },
+  "/lotus/language/alerts/capturedesc12":{
+    "value":"Enemy Conspirator Located"
+  },
+  "/lotus/language/alerts/capturedesc13":{
+    "value":"Relic Hunter Located"
+  },
+  "/lotus/language/alerts/capturedesc14":{
+    "value":"Enemy Courier Located"
+  },
+  "/lotus/language/alerts/capturedesc15":{
+    "value":"Capture And Interrogate Enemy Operative"
+  },
   "/lotus/language/alerts/corpuslootship":{
     "value":"Corpus Treasury Ship Located"
   },
   "/lotus/language/alerts/counterinteldesc1":{
     "value":"Network Vulnerability Detected"
+  },
+  "/lotus/language/alerts/counterinteldesc2":{
+    "value":"Enemy Comm Station Vulnerable"
+  },
+  "/lotus/language/alerts/counterinteldesc3":{
+    "value":"Redirect Enemy Vessel"
+  },
+  "/lotus/language/alerts/counterinteldesc4":{
+    "value":"Transmit Corrupt Data To Computer Core"
+  },
+  "/lotus/language/alerts/counterinteldesc5":{
+    "value":"Upload Counter Intel To Enemy Satellites"
+  },
+  "/lotus/language/alerts/counterinteldesc6":{
+    "value":"Reconfigure Enemy Ship's Navigation System"
+  },
+  "/lotus/language/alerts/counterinteldesc7":{
+    "value":"Reconfigure Enemy Ship's Weapons System"
+  },
+  "/lotus/language/alerts/counterinteldesc8":{
+    "value":"Reconfigure Enemy Ship's Targeting System"
+  },
+  "/lotus/language/alerts/counterinteldesc9":{
+    "value":"Reconfigure Enemy Ship's Comm System"
   },
   "/lotus/language/alerts/counterinteldesc10":{
     "value":"Enemy Comm Satellite Vulnerable"
@@ -152,9 +176,6 @@
   "/lotus/language/alerts/counterinteldesc19":{
     "value":"Corrupt The Ship's Network Protocols"
   },
-  "/lotus/language/alerts/counterinteldesc2":{
-    "value":"Enemy Comm Station Vulnerable"
-  },
   "/lotus/language/alerts/counterinteldesc20":{
     "value":"Corrupt The Facility's Network Protocols"
   },
@@ -173,27 +194,6 @@
   "/lotus/language/alerts/counterinteldesc25":{
     "value":"Corrupt Robotic Archetype Data"
   },
-  "/lotus/language/alerts/counterinteldesc3":{
-    "value":"Redirect Enemy Vessel"
-  },
-  "/lotus/language/alerts/counterinteldesc4":{
-    "value":"Transmit Corrupt Data To Computer Core"
-  },
-  "/lotus/language/alerts/counterinteldesc5":{
-    "value":"Upload Counter Intel To Enemy Satellites"
-  },
-  "/lotus/language/alerts/counterinteldesc6":{
-    "value":"Reconfigure Enemy Ship's Navigation System"
-  },
-  "/lotus/language/alerts/counterinteldesc7":{
-    "value":"Reconfigure Enemy Ship's Weapons System"
-  },
-  "/lotus/language/alerts/counterinteldesc8":{
-    "value":"Reconfigure Enemy Ship's Targeting System"
-  },
-  "/lotus/language/alerts/counterinteldesc9":{
-    "value":"Reconfigure Enemy Ship's Comm System"
-  },
   "/lotus/language/alerts/darvomobiledefensedesc":{
     "value":"After provoking the wrong people, the independent 'merchant' Darvo had to go into hiding. Now he needs your help so that he can get his business back on track."
   },
@@ -205,6 +205,30 @@
   },
   "/lotus/language/alerts/defensedesc1":{
     "value":"Freighter Ambush"
+  },
+  "/lotus/language/alerts/defensedesc2":{
+    "value":"Research Facility Ambush"
+  },
+  "/lotus/language/alerts/defensedesc3":{
+    "value":"Mining Facility Ambush"
+  },
+  "/lotus/language/alerts/defensedesc4":{
+    "value":"Defend Data Core During Transmission"
+  },
+  "/lotus/language/alerts/defensedesc5":{
+    "value":"Warframe Compromised"
+  },
+  "/lotus/language/alerts/defensedesc6":{
+    "value":"Enemy Informant Compromised"
+  },
+  "/lotus/language/alerts/defensedesc7":{
+    "value":"Tenno Operative Compromised"
+  },
+  "/lotus/language/alerts/defensedesc8":{
+    "value":"Secure Ship Cargo"
+  },
+  "/lotus/language/alerts/defensedesc9":{
+    "value":"Hold Out For Reinforcements"
   },
   "/lotus/language/alerts/defensedesc10":{
     "value":"Defend Enemy Science Lab"
@@ -239,56 +263,14 @@
   "/lotus/language/alerts/defensedesc19":{
     "value":"Protect Sensitive Data"
   },
-  "/lotus/language/alerts/defensedesc2":{
-    "value":"Research Facility Ambush"
-  },
   "/lotus/language/alerts/defensedesc20":{
     "value":"Secure The Computer Core"
   },
   "/lotus/language/alerts/defensedesc21":{
     "value":"Research Analysis Compromised"
   },
-  "/lotus/language/alerts/defensedesc3":{
-    "value":"Mining Facility Ambush"
-  },
-  "/lotus/language/alerts/defensedesc4":{
-    "value":"Defend Data Core During Transmission"
-  },
-  "/lotus/language/alerts/defensedesc5":{
-    "value":"Warframe Compromised"
-  },
-  "/lotus/language/alerts/defensedesc6":{
-    "value":"Enemy Informant Compromised"
-  },
-  "/lotus/language/alerts/defensedesc7":{
-    "value":"Tenno Operative Compromised"
-  },
-  "/lotus/language/alerts/defensedesc8":{
-    "value":"Secure Ship Cargo"
-  },
-  "/lotus/language/alerts/defensedesc9":{
-    "value":"Hold Out For Reinforcements"
-  },
   "/lotus/language/alerts/exterminationdesc1":{
     "value":"Tenno Distress Signal"
-  },
-  "/lotus/language/alerts/exterminationdesc10":{
-    "value":"Artifact Recovery Troops Located"
-  },
-  "/lotus/language/alerts/exterminationdesc11":{
-    "value":"Enemy Shock Troops Located"
-  },
-  "/lotus/language/alerts/exterminationdesc12":{
-    "value":"Clear And Secure Enemy Vessel"
-  },
-  "/lotus/language/alerts/exterminationdesc13":{
-    "value":"Defeat Enemy Ambush"
-  },
-  "/lotus/language/alerts/exterminationdesc14":{
-    "value":"Clear Resistance"
-  },
-  "/lotus/language/alerts/exterminationdesc15":{
-    "value":"Secure Excavation Site"
   },
   "/lotus/language/alerts/exterminationdesc2":{
     "value":"Unknown Distress Signal Located"
@@ -314,6 +296,24 @@
   "/lotus/language/alerts/exterminationdesc9":{
     "value":"Enemy Recon Unit Located"
   },
+  "/lotus/language/alerts/exterminationdesc10":{
+    "value":"Artifact Recovery Troops Located"
+  },
+  "/lotus/language/alerts/exterminationdesc11":{
+    "value":"Enemy Shock Troops Located"
+  },
+  "/lotus/language/alerts/exterminationdesc12":{
+    "value":"Clear And Secure Enemy Vessel"
+  },
+  "/lotus/language/alerts/exterminationdesc13":{
+    "value":"Defeat Enemy Ambush"
+  },
+  "/lotus/language/alerts/exterminationdesc14":{
+    "value":"Clear Resistance"
+  },
+  "/lotus/language/alerts/exterminationdesc15":{
+    "value":"Secure Excavation Site"
+  },
   "/lotus/language/alerts/grineerlootship":{
     "value":"Grineer Treasury Ship Located"
   },
@@ -322,6 +322,30 @@
   },
   "/lotus/language/alerts/inteldesc1":{
     "value":"Research Facility Discovered"
+  },
+  "/lotus/language/alerts/inteldesc2":{
+    "value":"Artifact Research Facility Discovered"
+  },
+  "/lotus/language/alerts/inteldesc3":{
+    "value":"Weapons Research Facility Discovered"
+  },
+  "/lotus/language/alerts/inteldesc4":{
+    "value":"Mining Research Station Discovered"
+  },
+  "/lotus/language/alerts/inteldesc5":{
+    "value":"Intelligence Vessel Discovered"
+  },
+  "/lotus/language/alerts/inteldesc6":{
+    "value":"Enemy Ship Located"
+  },
+  "/lotus/language/alerts/inteldesc7":{
+    "value":"Weapon Prototype Located"
+  },
+  "/lotus/language/alerts/inteldesc8":{
+    "value":"Weapons Research Located"
+  },
+  "/lotus/language/alerts/inteldesc9":{
+    "value":"Acquire Ship's Logs"
   },
   "/lotus/language/alerts/inteldesc10":{
     "value":"Acquire Security Logs"
@@ -353,9 +377,6 @@
   "/lotus/language/alerts/inteldesc19":{
     "value":"Investigate The Derelict Ship"
   },
-  "/lotus/language/alerts/inteldesc2":{
-    "value":"Artifact Research Facility Discovered"
-  },
   "/lotus/language/alerts/inteldesc20":{
     "value":"Explore Hidden Base"
   },
@@ -385,9 +406,6 @@
   },
   "/lotus/language/alerts/inteldesc29":{
     "value":"Enemy Base Located"
-  },
-  "/lotus/language/alerts/inteldesc3":{
-    "value":"Weapons Research Facility Discovered"
   },
   "/lotus/language/alerts/inteldesc30":{
     "value":"Enemy Asteroid Facility Located"
@@ -419,9 +437,6 @@
   "/lotus/language/alerts/inteldesc39":{
     "value":"Enemy Manufacturing Facility Located"
   },
-  "/lotus/language/alerts/inteldesc4":{
-    "value":"Mining Research Station Discovered"
-  },
   "/lotus/language/alerts/inteldesc40":{
     "value":"Cloning Research Facility Located"
   },
@@ -446,21 +461,6 @@
   "/lotus/language/alerts/inteldesc47":{
     "value":"Investigate Enemy Outpost"
   },
-  "/lotus/language/alerts/inteldesc5":{
-    "value":"Intelligence Vessel Discovered"
-  },
-  "/lotus/language/alerts/inteldesc6":{
-    "value":"Enemy Ship Located"
-  },
-  "/lotus/language/alerts/inteldesc7":{
-    "value":"Weapon Prototype Located"
-  },
-  "/lotus/language/alerts/inteldesc8":{
-    "value":"Weapons Research Located"
-  },
-  "/lotus/language/alerts/inteldesc9":{
-    "value":"Acquire Ship's Logs"
-  },
   "/lotus/language/alerts/lotusgiftdesc":{
     "value":"Gift From The Lotus"
   },
@@ -472,6 +472,30 @@
   },
   "/lotus/language/alerts/raiddesc1":{
     "value":"Weapons Depot Discovered"
+  },
+  "/lotus/language/alerts/raiddesc2":{
+    "value":"Artifact Depot Discovered"
+  },
+  "/lotus/language/alerts/raiddesc3":{
+    "value":"Rubedo Depot Discovered"
+  },
+  "/lotus/language/alerts/raiddesc4":{
+    "value":"Mining Station Discovered"
+  },
+  "/lotus/language/alerts/raiddesc5":{
+    "value":"Enemy Intelligence Vessel Discovered"
+  },
+  "/lotus/language/alerts/raiddesc6":{
+    "value":"Supply Depot Located"
+  },
+  "/lotus/language/alerts/raiddesc7":{
+    "value":"Armory Depot Discovered"
+  },
+  "/lotus/language/alerts/raiddesc8":{
+    "value":"Enemy Supply Vessel Discovered"
+  },
+  "/lotus/language/alerts/raiddesc9":{
+    "value":"Blackmarket Ship Discovered"
   },
   "/lotus/language/alerts/raiddesc10":{
     "value":"Merchant Ship Discovered"
@@ -503,9 +527,6 @@
   "/lotus/language/alerts/raiddesc19":{
     "value":"Hidden Base Discovered"
   },
-  "/lotus/language/alerts/raiddesc2":{
-    "value":"Artifact Depot Discovered"
-  },
   "/lotus/language/alerts/raiddesc20":{
     "value":"Clandestine Asteroid Base Discovered"
   },
@@ -518,44 +539,8 @@
   "/lotus/language/alerts/raiddesc23":{
     "value":"Weapons Testing Facility Discovered"
   },
-  "/lotus/language/alerts/raiddesc3":{
-    "value":"Rubedo Depot Discovered"
-  },
-  "/lotus/language/alerts/raiddesc4":{
-    "value":"Mining Station Discovered"
-  },
-  "/lotus/language/alerts/raiddesc5":{
-    "value":"Enemy Intelligence Vessel Discovered"
-  },
-  "/lotus/language/alerts/raiddesc6":{
-    "value":"Supply Depot Located"
-  },
-  "/lotus/language/alerts/raiddesc7":{
-    "value":"Armory Depot Discovered"
-  },
-  "/lotus/language/alerts/raiddesc8":{
-    "value":"Enemy Supply Vessel Discovered"
-  },
-  "/lotus/language/alerts/raiddesc9":{
-    "value":"Blackmarket Ship Discovered"
-  },
   "/lotus/language/alerts/rescuedesc1":{
     "value":"Hostage Situation"
-  },
-  "/lotus/language/alerts/rescuedesc10":{
-    "value":"Weapons Researcher Located"
-  },
-  "/lotus/language/alerts/rescuedesc11":{
-    "value":"Distress Signal Located"
-  },
-  "/lotus/language/alerts/rescuedesc12":{
-    "value":"Foreign Emissary Located"
-  },
-  "/lotus/language/alerts/rescuedesc13":{
-    "value":"Blackmarket Weapons Dealer Located"
-  },
-  "/lotus/language/alerts/rescuedesc14":{
-    "value":"Abducted Civilian"
   },
   "/lotus/language/alerts/rescuedesc2":{
     "value":"Enemy Informant Located"
@@ -581,8 +566,47 @@
   "/lotus/language/alerts/rescuedesc9":{
     "value":"Enemy Envoy Located"
   },
+  "/lotus/language/alerts/rescuedesc10":{
+    "value":"Weapons Researcher Located"
+  },
+  "/lotus/language/alerts/rescuedesc11":{
+    "value":"Distress Signal Located"
+  },
+  "/lotus/language/alerts/rescuedesc12":{
+    "value":"Foreign Emissary Located"
+  },
+  "/lotus/language/alerts/rescuedesc13":{
+    "value":"Blackmarket Weapons Dealer Located"
+  },
+  "/lotus/language/alerts/rescuedesc14":{
+    "value":"Abducted Civilian"
+  },
   "/lotus/language/alerts/sabotagedesc1":{
     "value":"Enemy Transport Found"
+  },
+  "/lotus/language/alerts/sabotagedesc2":{
+    "value":"Enemy Facility Found"
+  },
+  "/lotus/language/alerts/sabotagedesc3":{
+    "value":"Weapons Depot Found"
+  },
+  "/lotus/language/alerts/sabotagedesc4":{
+    "value":"Disable Enemy Warship"
+  },
+  "/lotus/language/alerts/sabotagedesc5":{
+    "value":"Destroy Enemy Transport"
+  },
+  "/lotus/language/alerts/sabotagedesc6":{
+    "value":"Destroy Enemy Facility"
+  },
+  "/lotus/language/alerts/sabotagedesc7":{
+    "value":"Destroy Comm Station"
+  },
+  "/lotus/language/alerts/sabotagedesc8":{
+    "value":"Deactivate Enemy Shields"
+  },
+  "/lotus/language/alerts/sabotagedesc9":{
+    "value":"Deactivate Turrets"
   },
   "/lotus/language/alerts/sabotagedesc10":{
     "value":"Enemy Comm Satellite Located"
@@ -614,9 +638,6 @@
   "/lotus/language/alerts/sabotagedesc19":{
     "value":"Disable Enemy Satellites"
   },
-  "/lotus/language/alerts/sabotagedesc2":{
-    "value":"Enemy Facility Found"
-  },
   "/lotus/language/alerts/sabotagedesc20":{
     "value":"Disable Navigation Beacon"
   },
@@ -646,27 +667,6 @@
   },
   "/lotus/language/alerts/sabotagedesc29":{
     "value":"Destroy Ammo Cache"
-  },
-  "/lotus/language/alerts/sabotagedesc3":{
-    "value":"Weapons Depot Found"
-  },
-  "/lotus/language/alerts/sabotagedesc4":{
-    "value":"Disable Enemy Warship"
-  },
-  "/lotus/language/alerts/sabotagedesc5":{
-    "value":"Destroy Enemy Transport"
-  },
-  "/lotus/language/alerts/sabotagedesc6":{
-    "value":"Destroy Enemy Facility"
-  },
-  "/lotus/language/alerts/sabotagedesc7":{
-    "value":"Destroy Comm Station"
-  },
-  "/lotus/language/alerts/sabotagedesc8":{
-    "value":"Deactivate Enemy Shields"
-  },
-  "/lotus/language/alerts/sabotagedesc9":{
-    "value":"Deactivate Turrets"
   },
   "/lotus/language/alerts/savedarvotitle":{
     "value":"Corpus Bust"
@@ -2778,6 +2778,9 @@
   "/lotus/storeitems/types/items/shipdecos/oberonbobblehead":{
     "value":"Noggle Statue - Oberon"
   },
+  "/lotus/storeitems/types/items/shipdecos/orbiterpictureframebaro":{
+    "value":"Display - Argyle"
+  },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime":{
     "value":"Pedestal Prime"
   },
@@ -3225,6 +3228,9 @@
   "/lotus/storeitems/types/keys/vorsprize/vorsprizequestkeychain":{
     "value":"Vors Prize"
   },
+  "/lotus/storeitems/types/pickups/credits/500credits":{
+    "value":"500 Credits Cache"
+  },
   "/lotus/storeitems/types/pickups/credits/1000credits":{
     "value":"1000 Credits Cache"
   },
@@ -3245,9 +3251,6 @@
   },
   "/lotus/storeitems/types/pickups/credits/5000credits":{
     "value":"5000 Credits Cache"
-  },
-  "/lotus/storeitems/types/pickups/credits/500credits":{
-    "value":"500 Credits Cache"
   },
   "/lotus/storeitems/types/recipes/archwingrecipes/demolitionarchwing/demolitionarchwingchassiscomponent":{
     "value":"Elytron Harness"
@@ -3390,17 +3393,17 @@
   "/lotus/storeitems/types/recipes/helmets/priestalthelmetblueprint":{
     "value":"Suffragan Harrow Helmet Blueprint"
   },
-  "/lotus/storeitems/types/recipes/helmets/rangeralthelmetblueprint":{
-    "value":"Ivara Loxley Helmet Blueprint"
-  },
   "/lotus/storeitems/types/recipes/helmets/rangeraltbhelmetblueprint":{
     "value":"Ivara Zirastra Helmet Blueprint"
   },
-  "/lotus/storeitems/types/recipes/helmets/sandmanalthelmetblueprint":{
-    "value":"Inaros Anubis Helmet Blueprint"
+  "/lotus/storeitems/types/recipes/helmets/rangeralthelmetblueprint":{
+    "value":"Ivara Loxley Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/sandmanaltbhelmetblueprint":{
     "value":"Inaros Canopic Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/helmets/sandmanalthelmetblueprint":{
+    "value":"Inaros Anubis Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/statlessashalthelmetblueprint":{
     "value":"Ash Scorpion Helmet Blueprint"
@@ -4479,6 +4482,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagebansheereverbdark":{
     "value":"Banshee Reverb Profile Icon"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/imagebarokiteer":{
+    "value":"Ki'Teer Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imagechromaamarubright":{
     "value":"Chroma Amaru Profile Icon"
   },
@@ -5043,6 +5049,9 @@
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickeritemd":{
     "value":"Color Picker D"
   },
+  "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerkiteeritema":{
+    "value":"Baro Ki'Teer Colors"
+  },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerlotus":{
     "value":"Lotus"
   },
@@ -5547,9 +5556,6 @@
   "/lotus/storeitems/upgrades/mods/fusers/commonmodfuser":{
     "value":"Common Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl10modfuser":{
-    "value":"Ancient Fusion Core"
-  },
   "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl1modfuser":{
     "value":"Ancient Fusion Core"
   },
@@ -5577,10 +5583,10 @@
   "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl9modfuser":{
     "value":"Ancient Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacycommonmodfuser":{
+  "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl10modfuser":{
     "value":"Ancient Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl10modfuser":{
+  "/lotus/storeitems/upgrades/mods/fusers/legacycommonmodfuser":{
     "value":"Ancient Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl1modfuser":{
@@ -5610,10 +5616,10 @@
   "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl9modfuser":{
     "value":"Ancient Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyraremodfuser":{
+  "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl10modfuser":{
     "value":"Ancient Fusion Core"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl10modfuser":{
+  "/lotus/storeitems/upgrades/mods/fusers/legacyraremodfuser":{
     "value":"Ancient Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl1modfuser":{
@@ -5641,6 +5647,9 @@
     "value":"Ancient Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl9modfuser":{
+    "value":"Ancient Fusion Core"
+  },
+  "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl10modfuser":{
     "value":"Ancient Fusion Core"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonmodfuser":{
@@ -8958,6 +8967,9 @@
   "/lotus/storeitems/upgrades/skins/scarves/barocape":{
     "value":"Ki'Teer Syandana"
   },
+  "/lotus/storeitems/upgrades/skins/scarves/barocape2scarf":{
+    "value":"Ki'Teer Razza Synadana"
+  },
   "/lotus/storeitems/upgrades/skins/scarves/brassandgoldscarf":{
     "value":"Ormolu Kyroptera Syandana"
   },
@@ -9854,6 +9866,9 @@
   },
   "/lotus/storeitems/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher":{
     "value":"Angstrum"
+  },
+  "/lotus/storeitems/weapons/corpus/pistols/crphandrl/prismaangstrum":{
+    "value":"Prisma Angstrum"
   },
   "/lotus/storeitems/weapons/grineer/grineerpistol/grineerakimbopistol":{
     "value":"Twin Gremlins"
@@ -10887,14 +10902,14 @@
   "/lotus/types/recipes/weapons/deravandalblueprint":{
     "value":"Dera Vandal Blueprint"
   },
+  "/lotus/types/recipes/weapons/grineercombatknifeprint":{
+    "value":"Sheev Blueprint"
+  },
   "/lotus/types/recipes/weapons/karakwraithblueprint":{
     "value":"Karak Wraith Blaupause"
   },
   "/lotus/types/recipes/weapons/latronwraithblueprint":{
     "value":"Latron Wraith Blueprint"
-  },
-  "/lotus/types/recipes/weapons/grineercombatknifeprint":{
-    "value":"Sheev Blueprint"
   },
   "/lotus/types/recipes/weapons/snipetronvandalblueprint":{
     "value":"Snipetron Vandal Blueprint"
@@ -10920,14 +10935,14 @@
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifehilt":{
     "value":"Sheev Hilt"
   },
+  "/lotus/types/recipes/weapons/weaponparts/karakwraithbarrel":{
+    "value":"Karak Wraith Lauf"
+  },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithreceiver":{
     "value":"Karak Wraith Gehäuse"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithstock":{
     "value":"Karak Wraith Schaft"
-  },
-  "/lotus/types/recipes/weapons/weaponparts/karakwraithbarrel":{
-    "value":"Karak Wraith Lauf"
   },
   "/lotus/types/recipes/weapons/weaponparts/latronwraithbarrel":{
     "value":"Latron Wraith Barrel"
@@ -10950,11 +10965,11 @@
   "/lotus/types/recipes/weapons/weaponparts/strunwraithbarrel":{
     "value":"Strun Wraith Barrel"
   },
-  "/lotus/types/recipes/weapons/weaponparts/strunwraithstock":{
-    "value":"Strun Wraith Stock"
-  },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithreceiver":{
     "value":"Strun Wraith Receiver"
+  },
+  "/lotus/types/recipes/weapons/weaponparts/strunwraithstock":{
+    "value":"Strun Wraith Stock"
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithbarrel":{
     "value":"Wraith Twin Vipers Barrel"
@@ -11799,6 +11814,9 @@
   "/lotus/types/storeitems/packages/colorpackb":{
     "value":"Color Pack: Beta"
   },
+  "/lotus/types/storeitems/packages/comicglyphsbundlea":{
+    "value":"Halftone Glyph Pack"
+  },
   "/lotus/types/storeitems/packages/consoletennogenabundle":{
     "value":"TennoGen Mega Bundle"
   },
@@ -11813,6 +11831,12 @@
   },
   "/lotus/types/storeitems/packages/corpusdazzlecamosniperskinpack":{
     "value":"Shock Camo Lanka"
+  },
+  "/lotus/types/storeitems/packages/corpushigharmorbundle":{
+    "value":"Arca Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/corpusweaponbundlea":{
+    "value":"Arca Bundle"
   },
   "/lotus/types/storeitems/packages/crpcircarmorpack":{
     "value":"Porta Armor Bundle"
@@ -12129,6 +12153,9 @@
   "/lotus/types/storeitems/packages/prestigepacktwo":{
     "value":"Prestige Pack II"
   },
+  "/lotus/types/storeitems/packages/priestbundle":{
+    "value":"Harrow Collection"
+  },
   "/lotus/types/storeitems/packages/primeaccess2storeitem":{
     "value":"Saryn Prime Access Pack"
   },
@@ -12213,6 +12240,9 @@
   "/lotus/types/storeitems/packages/titaniabundle":{
     "value":"Silver Grove Bundle"
   },
+  "/lotus/types/storeitems/packages/tnguandaobundle":{
+    "value":"Guandao Collection"
+  },
   "/lotus/types/storeitems/packages/translatorpack":{
     "value":"Dead Silence Pack"
   },
@@ -12221,6 +12251,9 @@
   },
   "/lotus/types/storeitems/packages/trinitydeluxeskinbundle":{
     "value":"Trinity Strega Bundle"
+  },
+  "/lotus/types/storeitems/packages/twitchprimestoreitem":{
+    "value":"Free Prime with Twitch Prime"
   },
   "/lotus/types/storeitems/packages/update10megapack":{
     "value":"Update 10 Mega Bundle"
@@ -12243,11 +12276,11 @@
   "/lotus/types/storeitems/packages/voidskinpack":{
     "value":"[Placeholder]"
   },
-  "/lotus/types/storeitems/packages/vulkardealpack":{
-    "value":"Vulkar Deal Pack"
-  },
   "/lotus/types/storeitems/packages/vteosarmourbundle":{
     "value":"Eos Prime Armor Set"
+  },
+  "/lotus/types/storeitems/packages/vulkardealpack":{
+    "value":"Vulkar Deal Pack"
   },
   "/lotus/types/storeitems/packages/warframepack":{
     "value":"Ultimate Warframe Pack"
@@ -12413,6 +12446,9 @@
   },
   "/lotus/upgrades/skins/decree/bansheedeluxesuit":{
     "value":"Banshee Soprana Skin"
+  },
+  "/lotus/upgrades/skins/dragon/chromadeluxeskin":{
+    "value":"Chroma Dynasty Skin"
   },
   "/lotus/upgrades/skins/ember/emberalternateskin":{
     "value":"Ember Immortal Skin"
@@ -12717,6 +12753,9 @@
   "/lotus/upgrades/skins/scarves/kazinfestedscarf":{
     "value":"Apoxys Syandana"
   },
+  "/lotus/upgrades/skins/scarves/tnguandaoscarf":{
+    "value":"Mozi Syandana"
+  },
   "/lotus/upgrades/skins/sentinels/persiandjinnskin":{
     "value":"Djinn Gazal Skin"
   },
@@ -12741,14 +12780,26 @@
   "/lotus/weapons/cephalon/primary/cephprimary/cephprimary":{
     "value":"Simulor"
   },
+  "/lotus/weapons/corpus/bow/longbow/crpbow":{
+    "value":"Lenz"
+  },
+  "/lotus/weapons/corpus/longguns/crpshotgun/crpshotgun":{
+    "value":"Arca Plasmor"
+  },
+  "/lotus/weapons/corpus/longguns/spears/railgun/corpusrailgun":{
+    "value":"Ferrox"
+  },
   "/lotus/weapons/corpus/melee/crptonfa/crptonfa":{
     "value":"Ohma"
+  },
+  "/lotus/weapons/corpus/melee/hammer/corpushammerweapon":{
+    "value":"Arca Titron"
   },
   "/lotus/weapons/corpus/pistols/crpelectromag/crpelectromag":{
     "value":"Staticor"
   },
-  "/lotus/weapons/corpus/longguns/spears/railgun/corpusrailgun":{
-    "value":"Ferrox"
+  "/lotus/weapons/corpus/pistols/sniperpistol/crpscopegun":{
+    "value":"Arca Scisco"
   },
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas":{
     "value":"Twin Grakata"
@@ -12764,6 +12815,9 @@
   },
   "/lotus/weapons/grineer/melee/grineerjetpoweredpolearm/grineerjetpolearm":{
     "value":"Jat Kittag"
+  },
+  "/lotus/weapons/grineer/melee/grnkusarigama/grnkusarigamaweapon":{
+    "value":"Jat Kusar"
   },
   "/lotus/weapons/grineer/pistols/grndwuniques/grntwinkohmaks":{
     "value":"Twin Khomaks"
@@ -12801,19 +12855,19 @@
   "/lotus/weapons/tenno/melee/persianmachete/djinnmachete":{
     "value":"Gazal Machete"
   },
+  "/lotus/weapons/tenno/melee/polearms/tnguandaopolearm/tnguandaopolearmweapon":{
+    "value":"Guandao"
+  },
   "/lotus/weapons/tenno/melee/swords/darksword/darksworddaggerhybridweapon":{
     "value":"Dark Split Sword"
   },
   "/lotus/weapons/tenno/pistols/tnbardpistol/tnbardpistolgun":{
     "value":"Pandero"
   },
+  "/lotus/weapons/tenno/pistols/tnguandopistol/tnguandopistolgun":{
+    "value":"Zakti"
+  },
   "ProjectIndex":{
     "value":"Index Points"
-  },
-  "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerkiteeritema":{
-    "value":"Baro Ki'Teer Colors"
-  },
-  "/lotus/storeitems/types/storeitems/avatarimages/imagebarokiteer":{
-    "value":"Ki'Teer Glyph"
   }
 }
