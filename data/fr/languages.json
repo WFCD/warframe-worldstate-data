@@ -723,7 +723,7 @@
     "value":"Misery"
   },
   "/lotus/language/game/burstcasteracolyte":{
-    "value":"Angst"
+    "value":"Angoisse"
   },
   "/lotus/language/game/controlacolyte":{
     "value":"Torment"
@@ -735,7 +735,7 @@
     "value":"Malice"
   },
   "/lotus/language/game/rogueacolyte":{
-    "value":"Mania"
+    "value":"Folie"
   },
   "/lotus/language/items/furaxwraithname":{
     "desc":"These Wraith gauntlets have been augmented for power.",
@@ -1348,7 +1348,7 @@
     "value":"Void Lure"
   },
   "/lotus/storeitems/powersuits/all/repelabilitycard":{
-    "value":"Repel"
+    "value":"Répulsion"
   },
   "/lotus/storeitems/powersuits/all/returnabilitycard":{
     "value":"Deja Vu"
@@ -1402,7 +1402,7 @@
     "value":" Odonata Prime"
   },
   "/lotus/storeitems/powersuits/archwing/standardjetpack/emppushabilitycard":{
-    "value":"Repel"
+    "value":"Répulsion"
   },
   "/lotus/storeitems/powersuits/archwing/standardjetpack/fireshieldabilitycard":{
     "value":"Energy Shell"
@@ -2929,7 +2929,7 @@
     "value":"Executive Quittance"
   },
   "/lotus/storeitems/types/items/syndicatedogtags/redveildogtag":{
-    "value":"Mark"
+    "value":"Marque"
   },
   "/lotus/storeitems/types/items/syndicatedogtags/redveilraredogtag":{
     "value":"Exalted Mark"
@@ -5020,7 +5020,7 @@
     "value":"Eximus"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerfireitema":{
-    "value":"Fire"
+    "value":"Feu"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickergammaitema":{
     "value":"Gamma"
@@ -5740,7 +5740,7 @@
     "value":"Molten Impact"
   },
   "/lotus/storeitems/upgrades/mods/melee/beginner/weaponfireratemodbeginner":{
-    "value":"Fury"
+    "value":"Furie"
   },
   "/lotus/storeitems/upgrades/mods/melee/beginner/weaponfreezedamagemodbeginner":{
     "value":"North Wind"
@@ -5938,7 +5938,7 @@
     "value":"Molten Impact"
   },
   "/lotus/storeitems/upgrades/mods/melee/weaponfireratemod":{
-    "value":"Fury"
+    "value":"Furie"
   },
   "/lotus/storeitems/upgrades/mods/melee/weaponfreezedamagemod":{
     "value":"North Wind"
@@ -6076,7 +6076,7 @@
     "value":"Tainted Clip"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/electeventpistolmod":{
-    "value":"Jolt"
+    "value":"Secousse"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/fireeventpistolmod":{
     "value":"Scorch"
@@ -6214,10 +6214,10 @@
     "value":"Pummel"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponeventpuncturedamagemod":{
-    "value":"Bore"
+    "value":"Perceur"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponeventslashdamagemod":{
-    "value":"Maim"
+    "value":"Mutilation"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponfiredamagemod":{
     "value":"Heated Charge"
@@ -6571,7 +6571,7 @@
     "value":"Firestorm"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/weaponnoisereductionmodexpert":{
-    "value":"Hush"
+    "value":"Chut"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/weaponpuncturedepthmodexpert":{
     "value":"Metal Auger"
@@ -6616,7 +6616,7 @@
     "value":"Firestorm"
   },
   "/lotus/storeitems/upgrades/mods/rifle/intermediate/weaponnoisereductionmodintermediate":{
-    "value":"Hush"
+    "value":"Chut"
   },
   "/lotus/storeitems/upgrades/mods/rifle/intermediate/weaponrecoilreductionmodintermediate":{
     "value":"Stabilizer"
@@ -6700,7 +6700,7 @@
     "value":"Firestorm"
   },
   "/lotus/storeitems/upgrades/mods/rifle/weaponnoisereductionmod":{
-    "value":"Hush"
+    "value":"Chut"
   },
   "/lotus/storeitems/upgrades/mods/rifle/weaponproctimemod":{
     "value":"Continuous Misery"
@@ -6739,7 +6739,7 @@
     "value":"Savagery"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowcritmod":{
-    "value":"Bite"
+    "value":"Morsure"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowfinishermod":{
     "value":"Ferocity"
@@ -6757,7 +6757,7 @@
     "value":"Loyal Companion"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowmeleedamagemod":{
-    "value":"Maul"
+    "value":"Mise en Pièces"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowpackleadermod":{
     "value":"Pack Leader"
@@ -7246,7 +7246,7 @@
     "value":"Equilibrium"
   },
   "/lotus/storeitems/upgrades/mods/warframe/avatarpowermaxmod":{
-    "value":"Flow"
+    "value":"Flux"
   },
   "/lotus/storeitems/upgrades/mods/warframe/avatarpowertohealthondeathmod":{
     "value":"Quick Thinking"
@@ -7270,7 +7270,7 @@
     "value":"Maglev"
   },
   "/lotus/storeitems/upgrades/mods/warframe/avatarsprintspeedmod":{
-    "value":"Rush"
+    "value":"Course"
   },
   "/lotus/storeitems/upgrades/mods/warframe/avatarstaminacostmultipliermod":{
     "value":"Acrobat"
@@ -7342,7 +7342,7 @@
     "value":"Equilibrium"
   },
   "/lotus/storeitems/upgrades/mods/warframe/beginner/avatarpowermaxmodbeginner":{
-    "value":"Flow"
+    "value":"Flux"
   },
   "/lotus/storeitems/upgrades/mods/warframe/beginner/avatarpowertohealthondeathmodbeginner":{
     "value":"Quick Thinking"
@@ -7357,7 +7357,7 @@
     "value":"Maglev"
   },
   "/lotus/storeitems/upgrades/mods/warframe/beginner/avatarsprintspeedmodbeginner":{
-    "value":"Rush"
+    "value":"Course"
   },
   "/lotus/storeitems/upgrades/mods/warframe/beginner/avatarstaminacostmultipliermodbeginner":{
     "value":"Acrobat"
@@ -7483,7 +7483,7 @@
     "value":"Maglev"
   },
   "/lotus/storeitems/upgrades/mods/warframe/expert/avatarsprintspeedmodexpert":{
-    "value":"Rush"
+    "value":"Course"
   },
   "/lotus/storeitems/upgrades/mods/warframe/expert/avatarstaminacostmultipliermodexpert":{
     "value":"Acrobat"
@@ -10645,10 +10645,10 @@
     "value":"Malice"
   },
   "/lotus/types/enemies/acolytes/rogueacolyteagent":{
-    "value":"Mania"
+    "value":"Folie"
   },
   "/lotus/types/enemies/acolytes/strikeracolyteagent":{
-    "value":"Angst"
+    "value":"Angoisse"
   },
   "/lotus/types/game/catbrowpet/catbrowgeneticsignature":{
     "value":"Kavat Genetic Code"
@@ -12328,7 +12328,7 @@
     "value":"Eximus"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerfireitema":{
-    "value":"Fire"
+    "value":"Feu"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickergammaitema":{
     "value":"Gamma"
@@ -12364,7 +12364,7 @@
     "value":"Orokin"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerps4itema":{
-    "value":"Psiv"
+    "value":"Classique"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerrwbitem":{
     "value":"Red/white/blue"
