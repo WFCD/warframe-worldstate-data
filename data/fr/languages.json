@@ -285,7 +285,7 @@
     "value":"Enemy Task Force Located"
   },
   "/lotus/language/alerts/exterminationdesc6":{
-    "value":"Elite Troops Located"
+    "value":"Troupe d'élite localisée"
   },
   "/lotus/language/alerts/exterminationdesc7":{
     "value":"Defeat Enemy Defense Forces"
@@ -315,7 +315,7 @@
     "value":"Secure Excavation Site"
   },
   "/lotus/language/alerts/grineerlootship":{
-    "value":"Grineer Treasury Ship Located"
+    "value":"Vaisseau trésorier grineer localisé"
   },
   "/lotus/language/alerts/infestedepidemiceventa":{
     "value":"Mutalist Incursion"
@@ -336,7 +336,7 @@
     "value":"Intelligence Vessel Discovered"
   },
   "/lotus/language/alerts/inteldesc6":{
-    "value":"Enemy Ship Located"
+    "value":"Vaisseau ennemi localisé"
   },
   "/lotus/language/alerts/inteldesc7":{
     "value":"Weapon Prototype Located"
@@ -462,7 +462,7 @@
     "value":"Investigate Enemy Outpost"
   },
   "/lotus/language/alerts/lotusgiftdesc":{
-    "value":"Gift From The Lotus"
+    "value":"Cadeau du lotus"
   },
   "/lotus/language/alerts/nightmarealertdesc":{
     "value":"Nightmare Mod Located"
@@ -1192,7 +1192,7 @@
     "value":"Mk1-braton"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/grineermarinerocketlauncher":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/heliosbosscrategun":{
     "value":"Kraken"
@@ -1216,7 +1216,7 @@
     "value":"Mk1-braton"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/kubrowminibossrocketlauncher":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/kubrowminibosssniper":{
     "value":"Kraken"
@@ -1225,22 +1225,22 @@
     "value":"Mk1-braton"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/rocketlaseri":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/rocketlaserii":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/rocketlaseriii":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/rocketlauncheri":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/rocketlauncherii":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/rocketlauncheriii":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/sniperlaseri":{
     "value":"Kraken"
@@ -1285,10 +1285,10 @@
     "value":"Burst Laser"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/twodimrocketlauncheri":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/twodimrocketlauncherii":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/levels/minigames/sentinel/weapons/bullethell/twodimsniperriflei":{
     "value":"Kraken"
@@ -1711,7 +1711,7 @@
     "value":"Mag Prime"
   },
   "/lotus/storeitems/powersuits/mag/pullabilitycard":{
-    "value":"Pull"
+    "value":"Attraction"
   },
   "/lotus/storeitems/powersuits/mag/pullaugmentcard":{
     "value":"Greedy Pull"
@@ -1867,7 +1867,7 @@
     "value":"Iron Shrapnel"
   },
   "/lotus/storeitems/powersuits/rhino/radialblastabilitycard":{
-    "value":"Roar"
+    "value":"Rugissement"
   },
   "/lotus/storeitems/powersuits/rhino/radialblastaugmentcard":{
     "value":"Piercing Roar"
@@ -1900,7 +1900,7 @@
     "value":"Saryn"
   },
   "/lotus/storeitems/powersuits/saryn/shedabilitycard":{
-    "value":"Molt"
+    "value":"Mue"
   },
   "/lotus/storeitems/powersuits/saryn/shedaugmentcard":{
     "value":"Regenerative Molt"
@@ -1966,7 +1966,7 @@
     "value":"Vampire Leech"
   },
   "/lotus/storeitems/powersuits/trinity/linkabilitycard":{
-    "value":"Link"
+    "value":"Lien"
   },
   "/lotus/storeitems/powersuits/trinity/linkaugmentcard":{
     "value":"Abating Link"
@@ -2077,19 +2077,19 @@
     "value":"Latron"
   },
   "/lotus/storeitems/types/enemies/tennoreplicants/gunslingerpistolslotusweapon":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/types/friendly/pets/kubrowpetprecepts/kubrowchargeprecept":{
-    "value":"Hunt"
+    "value":"Chasser"
   },
   "/lotus/storeitems/types/friendly/pets/kubrowpetprecepts/kubrowcloakprecept":{
     "value":"Stalk"
   },
   "/lotus/storeitems/types/friendly/pets/kubrowpetprecepts/kubrowdigprecept":{
-    "value":"Dig"
+    "value":"Creuse"
   },
   "/lotus/storeitems/types/friendly/pets/kubrowpetprecepts/kubrowfearprecept":{
-    "value":"Howl"
+    "value":"Grognement"
   },
   "/lotus/storeitems/types/friendly/pets/kubrowpetprecepts/kubrowsanctuary":{
     "value":"Shelter"
@@ -2341,10 +2341,10 @@
     "value":"Helmet Or Syandana"
   },
   "/lotus/storeitems/types/game/lotusweapon":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/types/game/lotusweapon2d":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/types/game/playerflightjetpackitem":{
     "value":"Archwing"
@@ -2377,7 +2377,7 @@
     "value":"Agree"
   },
   "/lotus/storeitems/types/items/emotes/bowemote":{
-    "value":"Bow"
+    "value":"Arc"
   },
   "/lotus/storeitems/types/items/emotes/bragemote":{
     "value":"Boast"
@@ -2392,7 +2392,7 @@
     "value":"Disagree"
   },
   "/lotus/storeitems/types/items/emotes/farewellemote":{
-    "value":"Wave"
+    "value":"Vague"
   },
   "/lotus/storeitems/types/items/emotes/followemote":{
     "value":"Follow"
@@ -2911,7 +2911,7 @@
     "value":"Grineer Defector's Location"
   },
   "/lotus/storeitems/types/items/syndicatedogtags/newlokadogtag":{
-    "value":"Seed"
+    "value":"Graine"
   },
   "/lotus/storeitems/types/items/syndicatedogtags/newlokararedogtag":{
     "value":"Flawless Seed"
@@ -5032,7 +5032,7 @@
     "value":"Halloween"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickericeitema":{
-    "value":"Ice"
+    "value":"Glace"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerinfesteditema":{
     "value":"Infesté"
@@ -5077,7 +5077,7 @@
     "value":"Smoke Colors"
   },
   "/lotus/storeitems/types/weapon/lotuscustomaimweapon":{
-    "value":"Any"
+    "value":"Tout"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/armourondamage":{
     "value":"Arcane Guardian"
@@ -12340,7 +12340,7 @@
     "value":"Halloween"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickericeitema":{
-    "value":"Ice"
+    "value":"Glace"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerinfesteditema":{
     "value":"Infesté"
