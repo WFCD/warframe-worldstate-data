@@ -12,22 +12,22 @@
     "value":"Aura"
   },
   "/lotus/language/alerts/alertrewardcategoryblueprint":{
-    "value":"Blueprint"
+    "value":"Schema"
   },
   "/lotus/language/alerts/alertrewardcategoryitem":{
-    "value":"Item"
+    "value":"Oggetto"
   },
   "/lotus/language/alerts/alertrewardcategorymod":{
     "value":"Mod"
   },
   "/lotus/language/alerts/alertrewardcategoryresource":{
-    "value":"Resource"
+    "value":"Risorsa"
   },
   "/lotus/language/alerts/alertrewardcategorystance":{
-    "value":"Stance Mod"
+    "value":"Mod Stile"
   },
   "/lotus/language/alerts/assassinationdesc1":{
-    "value":"Enemy VIP Located"
+    "value":"Nemico VIP Localizzato"
   },
   "/lotus/language/alerts/assassinationdesc2":{
     "value":"Enemy Ship Commander Located"
@@ -102,25 +102,25 @@
     "value":"Enemy Research Scientist Located"
   },
   "/lotus/language/alerts/capturedesc11":{
-    "value":"Enemy Weapons Trader Located"
+    "value":"Commerciante di armi nemico localizzato"
   },
   "/lotus/language/alerts/capturedesc12":{
     "value":"Enemy Conspirator Located"
   },
   "/lotus/language/alerts/capturedesc13":{
-    "value":"Relic Hunter Located"
+    "value":"Cacciatore di reliquie localizzato"
   },
   "/lotus/language/alerts/capturedesc14":{
     "value":"Enemy Courier Located"
   },
   "/lotus/language/alerts/capturedesc15":{
-    "value":"Capture And Interrogate Enemy Operative"
+    "value":"Cattura e interroga l'operativo nemico"
   },
   "/lotus/language/alerts/corpuslootship":{
-    "value":"Corpus Treasury Ship Located"
+    "value":"Nave del tesoro corpus localizzata"
   },
   "/lotus/language/alerts/counterinteldesc1":{
-    "value":"Network Vulnerability Detected"
+    "value":"Vulnerabilita della rete rilevata"
   },
   "/lotus/language/alerts/counterinteldesc2":{
     "value":"Enemy Comm Station Vulnerable"
@@ -129,16 +129,16 @@
     "value":"Redirect Enemy Vessel"
   },
   "/lotus/language/alerts/counterinteldesc4":{
-    "value":"Transmit Corrupt Data To Computer Core"
+    "value":"Trasmettere i dati corrotti nel computer"
   },
   "/lotus/language/alerts/counterinteldesc5":{
-    "value":"Upload Counter Intel To Enemy Satellites"
+    "value":"Caricare il contatore intel nei satelliti nemici"
   },
   "/lotus/language/alerts/counterinteldesc6":{
-    "value":"Reconfigure Enemy Ship's Navigation System"
+    "value":"Riconfigurare il sistema della navigazione nemica"
   },
   "/lotus/language/alerts/counterinteldesc7":{
-    "value":"Reconfigure Enemy Ship's Weapons System"
+    "value":"Riconfigurare il sistema delle armi nemiche"
   },
   "/lotus/language/alerts/counterinteldesc8":{
     "value":"Reconfigure Enemy Ship's Targeting System"
