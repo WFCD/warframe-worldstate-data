@@ -1,7 +1,7 @@
 {
   "modes":{
     "PVPMODE_ALL":{
-      "value":"Any Mode"
+      "value":"Qualsiasi modalita"
     },
     "PVPMODE_DEATHMATCH":{
       "value":"Annihilation"
@@ -13,7 +13,7 @@
       "value":"None"
     },
     "PVPMODE_CAPTURETHEFLAG":{
-      "value":"Capture the Cephalon"
+      "value":"Cattura il Cephalon"
     },
     "PVPMODE_SPEEDBALL":{
       "value":"Lunaro"
@@ -21,13 +21,13 @@
   },
   "categories":{
     "PVPChallengeTypeCategory_WEEKLY":{
-      "value":"week"
+      "value":"settimana"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT":{
       "value":"week_root"
     },
     "PVPChallengeTypeCategory_DAILY":{
-      "value":"day"
+      "value":"giorno"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT":{
       "value":"day_root"
