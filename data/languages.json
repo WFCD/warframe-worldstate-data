@@ -10698,6 +10698,21 @@
   "/lotus/types/game/solarrails/basicsolarrail": {
     "value": "SOLAR RAIL - TOWER CLASS"
   },
+  "/lotus/types/gameplay/eidolon/jobs/attritionbountylib": {
+    "value": "Weaken the Grineer Foothold"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/sabotagebountysab": {
+    "value": "Sabotage Bounty"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/assassinatebountyass": {
+    "value": "Assassinate the Commander"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/reclamationbountycap": {
+    "value": "Capture the Grineer Agent"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/attritionbountyext": {
+    "value": "Cull the Enemy"
+  },
   "/lotus/types/items/miscitems/actuator": {
     "value": "Actuators"
   },
