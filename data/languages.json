@@ -813,6 +813,9 @@
   "/lotus/powersuits/frost/frost": {
     "value": "Frost"
   },
+  "/lotus/powersuits/glass/glass": {
+    "value": "Gara"
+  },
   "/lotus/powersuits/harlequin/harlequin": {
     "value": "Mirage"
   },
@@ -10701,20 +10704,35 @@
   "/lotus/types/game/solarrails/basicsolarrail": {
     "value": "SOLAR RAIL - TOWER CLASS"
   },
+  "/lotus/types/gameplay/eidolon/jobs/assassinatebountyass": {
+    "value": "Assassinate the Commander"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/attritionbountyext": {
+    "value": "Cull the Enemy"
+  },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountylib": {
     "value": "Weaken the Grineer Foothold"
   },
-  "/lotus/types/gameplay/eidolon/jobs/sabotagebountysab": {
-    "value": "Sabotage Bounty"
+  "/lotus/types/gameplay/eidolon/jobs/attritionbountysab":{
+    "value": "Sabotage the Enemy Supply Lines"
   },
-  "/lotus/types/gameplay/eidolon/jobs/assassinatebountyass": {
-    "value": "Assassinate the Commander"
+  "/lotus/types/gameplay/eidolon/jobs/capturebountycapone":{
+    "value": "Capture the Grineer Commander"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/capturebountycaptwo":{
+    "value": "Spy Catcher"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/reclamationbountycache": {
+    "value": "Find the Hidden Artifact"
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountycap": {
     "value": "Capture the Grineer Agent"
   },
-  "/lotus/types/gameplay/eidolon/jobs/attritionbountyext": {
-    "value": "Cull the Enemy"
+  "/lotus/types/gameplay/eidolon/jobs/rescuebountyresc": {
+    "value": "Search and Rescue"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/sabotagebountysab": {
+    "value": "Sabotage Bounty"
   },
   "/lotus/types/items/miscitems/actuator": {
     "value": "Actuators"
@@ -11919,6 +11937,9 @@
   "/lotus/types/storeitems/packages/frostpack": {
     "value": "Stay Frosty Pack"
   },
+  "/lotus/types/storeitems/packages/glassbundle": {
+    "value": "Gara Collection"
+  },
   "/lotus/types/storeitems/packages/glyphsbundlea": {
     "value": "Adau Glyph Pack"
   },
@@ -12093,6 +12114,9 @@
   "/lotus/types/storeitems/packages/lunaroarmorcpack": {
     "value": "Riv Elite-Guard Armor Pack"
   },
+  "/lotus/types/storeitems/packages/magdeluxeskinbundle": {
+    "value": "Mag Pneuma Collection"
+  },
   "/lotus/types/storeitems/packages/males2helmetpack": {
     "value": "Male Helmet Pack"
   },
@@ -12120,6 +12144,15 @@
   "/lotus/types/storeitems/packages/oberondeluxeskinbundle": {
     "value": "Oberon Feyarch Bundle"
   },
+  "/lotus/types/storeitems/packages/operatorarmourbundlemage":{
+    "value": "Vahd Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/operatorarmourbundlemonk":{
+    "value": "Ceno Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/operatorarmourbundleseer":{
+    "value": "Zauba Armor Bundle"
+  },
   "/lotus/types/storeitems/packages/operatorsuitdbundle": {
     "value": "Manduka Operator Suit Bundle"
   },
@@ -12134,6 +12167,12 @@
   },
   "/lotus/types/storeitems/packages/orokinsabotagemodpack": {
     "value": "Gate Crash Mod Pack"
+  },
+  "/lotus/types/storeitems/packages/ostronshipdecopacka": {
+    "value": "Reclamator Pack"
+  },
+  "/lotus/types/storeitems/packages/ostronshipdecopackb": {
+    "value": "Artisan Pack"
   },
   "/lotus/types/storeitems/packages/paladindeluxeskinbundle": {
     "value": "Oberon Feyarch Bundle"
@@ -12504,6 +12543,9 @@
   "/lotus/upgrades/skins/frost/frostxmasskin": {
     "value": "Festive Frost Skin"
   },
+  "/Lotus/Upgrades/Skins/Glass/GlassAltHelmet": {
+    "value": "Gara Virago Helmet"
+  },
   "/lotus/upgrades/skins/halloween/halloweenaklato": {
     "value": "Day of the Dead AkLato Skin"
   },
@@ -12771,6 +12813,12 @@
   "/lotus/upgrades/skins/scarves/kazinfestedscarf": {
     "value": "Apoxys Syandana"
   },
+  "/lotus/upgrades/skins/scarves/magdeluxescarf": {
+    "value": "Vasa Syandana"
+  },
+  "/lotus/upgrades/skins/scarves/tnglasssyandana": {
+    "value": "Hyalus Syandana"
+  },
   "/lotus/upgrades/skins/scarves/tnguandaoscarf": {
     "value": "Mozi Syandana"
   },
@@ -12828,11 +12876,17 @@
   "/lotus/weapons/grineer/longguns/grnflamespear/grnflamespear": {
     "value": "Javlok"
   },
+  "/lotus/weapons/grineer/longguns/laseraimrifle/laseraimrifle": {
+    "value": "Argonak"
+  },
   "/lotus/weapons/grineer/melee/grineerhalberd/grnhalberd": {
     "value": "Kesheg"
   },
   "/lotus/weapons/grineer/melee/grineerjetpoweredpolearm/grineerjetpolearm": {
     "value": "Jat Kittag"
+  },
+  "/lotus/weapons/grineer/melee/grnegyptswd/grnegyptswdweapon": {
+    "value": "Krohkur"
   },
   "/lotus/weapons/grineer/melee/grnkusarigama/grnkusarigamaweapon": {
     "value": "Jat Kusar"
@@ -12867,8 +12921,14 @@
   "/lotus/weapons/tenno/longguns/tnbardrifle/tnbardrifle": {
     "value": "Tenora"
   },
+  "/lotus/weapons/tenno/longguns/tnglassshotgun/tnglassshotgungun": {
+    "value": "Astilla"
+  },
   "/lotus/weapons/tenno/melee/gunblade/gunbladeautomatic/tnogunbladeautomatic": {
     "value": "Sarpa"
+  },
+  "/lotus/weapons/tenno/melee/hammer/glasshammer/glasshammer": {
+    "value": "Volnus"
   },
   "/lotus/weapons/tenno/melee/persianmachete/djinnmachete": {
     "value": "Gazal Machete"
@@ -12879,11 +12939,17 @@
   "/lotus/weapons/tenno/melee/swords/darksword/darksworddaggerhybridweapon": {
     "value": "Dark Split Sword"
   },
+  "/lotus/weapons/tenno/melee/tonfa/tonfacontestwinner/tennotonfa": {
+    "value": "Kronen"
+  },
   "/lotus/weapons/tenno/pistols/tnbardpistol/tnbardpistolgun": {
     "value": "Pandero"
   },
   "/lotus/weapons/tenno/pistols/tnguandopistol/tnguandopistolgun": {
     "value": "Zakti"
+  },
+  "/lotus/weapons/tenno/throwingweapons/glasskunai/glasskunaiweapon": {
+    "value": "Fusilai"
   },
   "ProjectIndex": {
     "value": "Index Points"
