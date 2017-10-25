@@ -10707,6 +10707,9 @@
   "/lotus/types/gameplay/eidolon/jobs/assassinatebountyass": {
     "value": "Assassinate the Commander"
   },
+  "/lotus/types/gameplay/eidolon/jobs/assassinatebountycap": {
+     "value": "Capture the New Grineer Commander"
+  },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountyext": {
     "value": "Cull the Enemy"
   },
@@ -10727,6 +10730,9 @@
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountycap": {
     "value": "Capture the Grineer Agent"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/reclamationbountytheft": {
+     "value": "Reclaim the Stolen Artifact"
   },
   "/lotus/types/gameplay/eidolon/jobs/rescuebountyresc": {
     "value": "Search and Rescue"
