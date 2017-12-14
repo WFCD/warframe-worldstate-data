@@ -737,6 +737,12 @@
   "/lotus/language/game/rogueacolyte": {
     "value": "Mania"
   },
+  "/lotus/language/infestedplainsevent/infestedplainsbountydesc": {
+      "value": "Steal Vay Hek's Thrax Toxin, mix it, and poison the Infested Boil growing in the center of the plains."
+  },
+  "/lotus/language/infestedplainsevent/infestedplainsbountyname": {
+    "value": "Plague Star"
+  },
   "/lotus/language/items/furaxwraithname": {
     "desc": "These Wraith gauntlets have been augmented for power.",
     "value": "FURAX WRAITH"
@@ -4419,6 +4425,9 @@
   "/lotus/storeitems/types/ship/voidtraderresourcedrone": {
     "value": "Prisma Niroda Extractor"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/avatarimagebaroicon": {
+    "value": "Ki'Teer Tribute Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageitem1": {
     "value": "Excalibur Profile Icon"
   },
@@ -5824,76 +5833,76 @@
     "value": "Rending Strike"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponarmorpiercingdamagemodexpert": {
-    "value": "Sundering Strike"
+    "value": "Primed Sundering Strike"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponcritchancemodexpert": {
-    "value": "True Steel"
+    "value": "Primed True Steel"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponcritdamagemodexpert": {
-    "value": "Organ Shatter"
+    "value": "Primed Organ Shatter"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponcritfireratebonusmodexpert": {
-    "value": "Berserker"
+    "value": "Primed Berserker"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponelectricitydamagemodexpert": {
-    "value": "Shocking Touch"
+    "value": "Primed Shocking Touch"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponfiredamagemodexpert": {
-    "value": "Molten Impact"
+    "value": "Primed Molten Impact"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponfireratemodexpert": {
     "value": "Primed Fury"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponfreezedamagemodexpert": {
-    "value": "North Wind"
+    "value": "Primed North Wind"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponglaivepowerthrowmodexpert": {
-    "value": "Power Throw"
+    "value": "Primed Power Throw"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponglaivereflectiondecreasemodexpert": {
-    "value": "Quick Return"
+    "value": "Primed Quick Return"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponglaivereflectionincreasemodexpert": {
-    "value": "Rebound"
+    "value": "Primed Rebound"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponglaivespeedmodexpert": {
-    "value": "Whirlwind"
+    "value": "Primed Whirlwind"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponimpactdamagemodexpert": {
     "value": "Primed Heavy Trauma"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleechannelingefficiencymodexpert": {
-    "value": "Reflex Coil"
+    "value": "Primed Reflex Coil"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleedamagemodexpert": {
     "value": "Primed Pressure Point"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagecorpusexpert": {
-    "value": "Smite Corpus"
+    "value": "Primed Smite Corpus"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagegrineerexpert": {
-    "value": "Smite Grineer"
+    "value": "Primed Smite Grineer"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamageinfestedexpert": {
-    "value": "Smite Infested"
+    "value": "Primed Smite Infested"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefinisherdamagemodexpert": {
-    "value": "Finishing Touch"
+    "value": "Primed Finishing Touch"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleerangeincmodexpert": {
     "value": "Primed Reach"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponpowerdamagemodexpert": {
-    "value": "Energy Channel"
+    "value": "Primed Energy Channel"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponslashdamagemodexpert": {
-    "value": "Jagged Edge"
+    "value": "Primed Jagged Edge"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponstunchancemodexpert": {
-    "value": "Melee Prowess"
+    "value": "Primed Melee Prowess"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weapontoxindamagemodexpert": {
-    "value": "Fever Strike"
+    "value": "Primed Fever Strike"
   },
   "/lotus/storeitems/upgrades/mods/melee/intermediate/weaponglaivereflectiondecreasemodintermediate": {
     "value": "Quick Return"
@@ -6407,6 +6416,18 @@
   },
   "/lotus/storeitems/upgrades/mods/pvpmods/warframe/wallclingmod": {
     "value": "Covert Recon"
+  },
+  "/lotus/storeitems/upgrades/mods/randomized/lotusmeleerandommodrare": {
+    "value": "Melee Riven Mod"
+  },
+  "/lotus/storeitems/upgrades/mods/randomized/lotuspistolrandommodrare": {
+    "value": "Pistol Riven Mod"
+  },
+  "/lotus/storeitems/upgrades/mods/randomized/lotusriflerandommodrare": {
+    "value": "Rifle Riven Mod"
+  },
+  "/lotus/storeitems/upgrades/mods/randomized/lotusshotgunrandommodrare": {
+    "value": "Shotgun Riven Mod"
   },
   "/lotus/storeitems/upgrades/mods/rifle/beginner/weaponammomaxmodbeginner": {
     "value": "Ammo Drum"
@@ -8832,6 +8853,9 @@
   "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebarob": {
     "value": "Ki'Teer Solo Earpiece"
   },
+  "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroc": {
+    "value": "Ki'Teer Atmos Earpiece"
+  },
   "/lotus/storeitems/upgrades/skins/paladin/oberonalternateskin": {
     "value": "Oberon Immortal Skin"
   },
@@ -10692,6 +10716,9 @@
   "/lotus/types/game/library/targets/research7target": {
     "value": "Guardsman"
   },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierdtablecrewards": {
+    "value": "Augur Message, Kuva x100, Naramon Lens, 300 Endo, Neo H1 Relic, Cetus Wisp, Vigilante Pursuit, Sinking Talon, Gladiator Finesse"
+  },
   "/lotus/types/game/notepacks/bardcorpuspacka": {
     "value": "Alpha Instruments"
   },
@@ -10714,10 +10741,10 @@
     "value": "Assassinate the Commander"
   },
   "/lotus/types/gameplay/eidolon/jobs/assassinatebountycap": {
-     "value": "Capture the New Grineer Commander"
+    "value": "Capture the New Grineer Commander"
   },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountycap": {
-     "value": "Capture Their Leader"
+    "value": "Capture Their Leader"
   },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountyext": {
     "value": "Cull the Enemy"
@@ -10725,14 +10752,17 @@
   "/lotus/types/gameplay/eidolon/jobs/attritionbountylib": {
     "value": "Weaken the Grineer Foothold"
   },
-  "/lotus/types/gameplay/eidolon/jobs/attritionbountysab":{
+  "/lotus/types/gameplay/eidolon/jobs/attritionbountysab": {
     "value": "Sabotage the Enemy Supply Lines"
   },
-  "/lotus/types/gameplay/eidolon/jobs/capturebountycapone":{
+  "/lotus/types/gameplay/eidolon/jobs/capturebountycapone": {
     "value": "Capture the Grineer Commander"
   },
-  "/lotus/types/gameplay/eidolon/jobs/capturebountycaptwo":{
+  "/lotus/types/gameplay/eidolon/jobs/capturebountycaptwo": {
     "value": "Spy Catcher"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/events/infestedplainsbounty": {
+    "value": "Plague Star"  
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountycache": {
     "value": "Find the Hidden Artifact"
@@ -10741,7 +10771,7 @@
     "value": "Capture the Grineer Agent"
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountytheft": {
-     "value": "Reclaim the Stolen Artifact"
+    "value": "Reclaim the Stolen Artifact"
   },
   "/lotus/types/gameplay/eidolon/jobs/rescuebountyresc": {
     "value": "Search and Rescue"
@@ -10749,6 +10779,7 @@
   "/lotus/types/gameplay/eidolon/jobs/sabotagebountysab": {
     "value": "Sabotage Bounty"
   },
+  
   "/lotus/types/items/miscitems/actuator": {
     "value": "Actuators"
   },
@@ -10954,6 +10985,9 @@
     "value": "Dera Vandal Blueprint"
   },
   "/lotus/types/recipes/weapons/grineercombatknifeprint": {
+    "value": "Sheev Blueprint"
+  },
+  "/lotus/types/recipes/weapons/grineercombatknifesortieblueprint": {
     "value": "Sheev Blueprint"
   },
   "/lotus/types/recipes/weapons/karakwraithblueprint": {
@@ -12159,13 +12193,13 @@
   "/lotus/types/storeitems/packages/oberondeluxeskinbundle": {
     "value": "Oberon Feyarch Bundle"
   },
-  "/lotus/types/storeitems/packages/operatorarmourbundlemage":{
+  "/lotus/types/storeitems/packages/operatorarmourbundlemage": {
     "value": "Vahd Armor Bundle"
   },
-  "/lotus/types/storeitems/packages/operatorarmourbundlemonk":{
+  "/lotus/types/storeitems/packages/operatorarmourbundlemonk": {
     "value": "Ceno Armor Bundle"
   },
-  "/lotus/types/storeitems/packages/operatorarmourbundleseer":{
+  "/lotus/types/storeitems/packages/operatorarmourbundleseer": {
     "value": "Zauba Armor Bundle"
   },
   "/lotus/types/storeitems/packages/operatorsuitdbundle": {
