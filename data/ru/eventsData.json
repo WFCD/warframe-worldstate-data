@@ -1,0 +1,27 @@
+{
+  "tags": {
+    "KelaEvent": {
+      "value": "Операция: Ратуум"
+    },
+    "KelaEventB": {
+      "value": "Операция: Ратуум часть 2"
+    },
+    "KelaEventBonus": {
+      "value": "Бесконечный Ратуум"
+    }
+  },
+  "scoreVariables": {
+    "KelaEvent": {
+      "value": {
+        "value": "100 Очков Правосудия"
+      }
+    }
+  },
+  "scoreMaxTags": {
+    "KelaEventMax": {
+      "value": {
+        "value": "100 Очков Правосудия"
+      }
+    }
+  }
+}

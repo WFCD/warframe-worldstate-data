@@ -1,0 +1,1787 @@
+{
+  "SolNode0": {
+    "value": "SolNode0",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "SolNode1": {
+    "value": "Galatea (Нептун)",
+    "enemy": "Корпус",
+    "type": "Захват"
+  },
+  "SolNode2": {
+    "value": "Aphrodite (Венера)",
+    "enemy": "Корпус",
+    "type": "М. Оборона"
+  },
+  "SolNode3": {
+    "value": "Cordelia (Уран)",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "SolNode4": {
+    "value": "Acheron (Плутон)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "SolNode5": {
+    "value": "Perdita (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode6": {
+    "value": "Despina (Нептун)",
+    "enemy": "Корпус",
+    "type": "Раскопки"
+  },
+  "SolNode7": {
+    "value": "Epimetheus (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode8": {
+    "value": "Nix (Плутон)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode9": {
+    "value": "Rosalind (Уран)",
+    "enemy": "Гринир",
+    "type": "Шпионаж"
+  },
+  "SolNode10": {
+    "value": "Thebe (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Диверсия"
+  },
+  "SolNode11": {
+    "value": "Tharsis (Марс)",
+    "enemy": "Корпус",
+    "type": "Налёт"
+  },
+  "SolNode12": {
+    "value": "Elion (Меркурий)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode13": {
+    "value": "Bianca (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode14": {
+    "value": "Ultor (Марс)",
+    "enemy": "Война Зачистка",
+    "type": "Зачистка"
+  },
+  "SolNode15": {
+    "value": "Pacific (Земля)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode16": {
+    "value": "Augustus (Марс)",
+    "enemy": "Война",
+    "type": "Спасение"
+  },
+  "SolNode17": {
+    "value": "Proteus (Нептун)",
+    "enemy": "Корпус",
+    "type": "Оборона"
+  },
+  "SolNode18": {
+    "value": "Rhea (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Перехват"
+  },
+  "SolNode19": {
+    "value": "Enceladus (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode20": {
+    "value": "Telesto (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode21": {
+    "value": "Narcissus (Плутон)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "SolNode22": {
+    "value": "Tessera (Венера)",
+    "enemy": "Корпус",
+    "type": "Оборона"
+  },
+  "SolNode23": {
+    "value": "Cytherean (Венера)",
+    "enemy": "Корпус",
+    "type": "Перехват"
+  },
+  "SolNode24": {
+    "value": "Oro (Земля)",
+    "enemy": "Гринир",
+    "type": "Убийство"
+  },
+  "SolNode25": {
+    "value": "Callisto (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Перехват"
+  },
+  "SolNode26": {
+    "value": "Lith (Земля)",
+    "enemy": "Гринир",
+    "type": "Оборона"
+  },
+  "SolNode27": {
+    "value": "E Prime (Земля)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode28": {
+    "value": "M Prime (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode29": {
+    "value": "Oberon (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode30": {
+    "value": "Olympus (Марс)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode31": {
+    "value": "Anthe (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode32": {
+    "value": "Tethys (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Убийство"
+  },
+  "SolNode33": {
+    "value": "Ariel (Уран)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode34": {
+    "value": "Sycorax (Уран)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode35": {
+    "value": "Arcadia (Марс)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode36": {
+    "value": "Martialis (Марс)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode37": {
+    "value": "Pallene (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode38": {
+    "value": "Minthe (Плутон)",
+    "enemy": "Корпус",
+    "type": "М. Оборона"
+  },
+  "SolNode39": {
+    "value": "Everest (Земля)",
+    "enemy": "Гринир",
+    "type": "Раскопки"
+  },
+  "SolNode40": {
+    "value": "Prospero (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode41": {
+    "value": "Arval (Марс)",
+    "enemy": "Война Зачистка",
+    "type": "Шпионаж"
+  },
+  "SolNode42": {
+    "value": "Helene (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Оборона"
+  },
+  "SolNode43": {
+    "value": "Cerberus (Плутон)",
+    "enemy": "Корпус",
+    "type": "Перехват"
+  },
+  "SolNode44": {
+    "value": "Mimas (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode45": {
+    "value": "Ara (Марс)",
+    "enemy": "Гринир",
+    "type": "Захват"
+  },
+  "SolNode46": {
+    "value": "Spear (Марс)",
+    "enemy": "Гринир",
+    "type": "Оборона"
+  },
+  "SolNode47": {
+    "value": "Janus (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode48": {
+    "value": "Regna (Плутон)",
+    "enemy": "Корпус",
+    "type": "Спасение"
+  },
+  "SolNode49": {
+    "value": "Larissa (Нептун)",
+    "enemy": "Корпус",
+    "type": "М. Оборона"
+  },
+  "SolNode50": {
+    "value": "Numa (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode51": {
+    "value": "Hades (Плутон)",
+    "enemy": "Корпус",
+    "type": "Убийство"
+  },
+  "SolNode52": {
+    "value": "Portia (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode53": {
+    "value": "Themisto (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Убийство"
+  },
+  "SolNode54": {
+    "value": "Silvanus (Марс)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode55": {
+    "value": "Methone (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode56": {
+    "value": "Cypress (Плутон)",
+    "enemy": "Корпус",
+    "type": "Диверсия"
+  },
+  "SolNode57": {
+    "value": "Sao (Нептун)",
+    "enemy": "Корпус",
+    "type": "Диверсия"
+  },
+  "SolNode58": {
+    "value": "Hellas (Марс)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode59": {
+    "value": "Eurasia (Земля)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode60": {
+    "value": "Caliban (Уран)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode61": {
+    "value": "Ishtar (Венера)",
+    "enemy": "Корпус",
+    "type": "Диверсия"
+  },
+  "SolNode62": {
+    "value": "Neso (Нептун)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "SolNode63": {
+    "value": "Mantle (Земля)",
+    "enemy": "Гринир",
+    "type": "Захват"
+  },
+  "SolNode64": {
+    "value": "Umbriel (Уран)",
+    "enemy": "Гринир",
+    "type": "Перехват"
+  },
+  "SolNode65": {
+    "value": "Gradivus (Марс)",
+    "enemy": "Корпус",
+    "type": "Диверсия"
+  },
+  "SolNode66": {
+    "value": "Unda (Венера)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SolNode67": {
+    "value": "Dione (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Шпионаж"
+  },
+  "SolNode68": {
+    "value": "Vallis (Марс)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode69": {
+    "value": "Ophelia (Уран)",
+    "enemy": "Гринир",
+    "type": "Выживание"
+  },
+  "SolNode70": {
+    "value": "Cassini (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Захват"
+  },
+  "SolNode71": {
+    "value": "Vesper (Венера)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SolNode72": {
+    "value": "Outer Terminus (Плутон)",
+    "enemy": "Корпус",
+    "type": "Оборона"
+  },
+  "SolNode73": {
+    "value": "Ananke (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Захват"
+  },
+  "SolNode74": {
+    "value": "Carme (Юпитер)",
+    "enemy": "Корпус",
+    "type": "М. Оборона"
+  },
+  "SolNode75": {
+    "value": "Cervantes (Земля)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode76": {
+    "value": "Hydra (Плутон)",
+    "enemy": "Корпус",
+    "type": "Захват"
+  },
+  "SolNode77": {
+    "value": "Cupid (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode78": {
+    "value": "Triton (Нептун)",
+    "enemy": "Корпус",
+    "type": "Спасение"
+  },
+  "SolNode79": {
+    "value": "Cambria (Земля)",
+    "enemy": "Гринир",
+    "type": "Шпионаж"
+  },
+  "SolNode80": {
+    "value": "Phoebe (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode81": {
+    "value": "Palus (Плутон)",
+    "enemy": "Корпус",
+    "type": "Выживание"
+  },
+  "SolNode82": {
+    "value": "Calypso (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode83": {
+    "value": "Cressida (Уран)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode84": {
+    "value": "Nereid (Нептун)",
+    "enemy": "Корпус",
+    "type": "Налёт"
+  },
+  "SolNode85": {
+    "value": "Gaia (Земля)",
+    "enemy": "Гринир",
+    "type": "Перехват"
+  },
+  "SolNode86": {
+    "value": "Aegaeon (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode87": {
+    "value": "Ganymede (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode88": {
+    "value": "Adrastea (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SolNode89": {
+    "value": "Mariana (Земля)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode90": {
+    "value": "Miranda",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "SolNode91": {
+    "value": "Iapetus (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode92": {
+    "value": "Charon (Плутон)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode93": {
+    "value": "Keeler (Сатурн)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode94": {
+    "value": "Apollodorus (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Выживание"
+  },
+  "SolNode95": {
+    "value": "Thalassa (Нептун)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode96": {
+    "value": "Titan (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Выживание"
+  },
+  "SolNode97": {
+    "value": "Amalthea (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SolNode98": {
+    "value": "Desdemona (Уран)",
+    "enemy": "Гринир",
+    "type": "Захват"
+  },
+  "SolNode99": {
+    "value": "War (Марс)",
+    "enemy": "Гринир",
+    "type": "Убийство"
+  },
+  "SolNode100": {
+    "value": "Elara (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Выживание"
+  },
+  "SolNode101": {
+    "value": "Kiliken (Венера)",
+    "enemy": "Корпус",
+    "type": "Раскопки"
+  },
+  "SolNode102": {
+    "value": "Oceanum (Плутон)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SolNode103": {
+    "value": "Terminus (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Захват"
+  },
+  "SolNode104": {
+    "value": "Fossa (Венера)",
+    "enemy": "Корпус",
+    "type": "Убийство"
+  },
+  "SolNode105": {
+    "value": "Titania (Уран)",
+    "enemy": "Гринир",
+    "type": "Убийство"
+  },
+  "SolNode106": {
+    "value": "Alator (Марс)",
+    "enemy": "Гринир",
+    "type": "Перехват"
+  },
+  "SolNode107": {
+    "value": "Venera (Венера)",
+    "enemy": "Корпус",
+    "type": "Захват"
+  },
+  "SolNode108": {
+    "value": "Tolstoj (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Убийство"
+  },
+  "SolNode109": {
+    "value": "Linea (Венера)",
+    "enemy": "Корпус",
+    "type": "Спасение"
+  },
+  "SolNode110": {
+    "value": "Hyperion (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode111": {
+    "value": "Juliet (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode112": {
+    "value": "Setebos (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode113": {
+    "value": "Ares (Марс)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode114": {
+    "value": "Puck (Уран)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode115": {
+    "value": "Quirinus (Марс)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode116": {
+    "value": "Mab (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode117": {
+    "value": "Naiad (Нептун)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode118": {
+    "value": "Laomedeia (Нептун)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SolNode119": {
+    "value": "Caloris (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode120": {
+    "value": "Halimede (Нептун)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode121": {
+    "value": "Carpo (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "SolNode122": {
+    "value": "Stephano (Уран)",
+    "enemy": "Гринир",
+    "type": "Оборона"
+  },
+  "SolNode123": {
+    "value": "V Prime (Венера)",
+    "enemy": "Корпус",
+    "type": "Захват"
+  },
+  "SolNode124": {
+    "value": "Trinculo (Уран)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode125": {
+    "value": "Io (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Оборона"
+  },
+  "SolNode126": {
+    "value": "Metis (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Спасение"
+  },
+  "SolNode127": {
+    "value": "Psamathe (Нептун)",
+    "enemy": "Корпус",
+    "type": "Убийство"
+  },
+  "SolNode128": {
+    "value": "E Gate (Венера)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "SolNode129": {
+    "value": "SolNode129",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "SolNode130": {
+    "value": "Lares (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Оборона"
+  },
+  "SolNode131": {
+    "value": "Pallas (Церера)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode132": {
+    "value": "Bode (Церера)",
+    "enemy": "Гринир",
+    "type": "Шпионаж"
+  },
+  "SolNode133": {
+    "value": "Vedic (Церера)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode134": {
+    "value": "Varro (Церера)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode135": {
+    "value": "Thon (Церера)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode136": {
+    "value": "Olla (Церера)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode137": {
+    "value": "Nuovo (Церера)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode138": {
+    "value": "Ludi (Церера)",
+    "enemy": "Гринир",
+    "type": "Налёт"
+  },
+  "SolNode139": {
+    "value": "Lex (Церера)",
+    "enemy": "Гринир",
+    "type": "Захват"
+  },
+  "SolNode140": {
+    "value": "Kiste (Церера)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode141": {
+    "value": "Ker (Церера)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode142": {
+    "value": "Hapke (Церера)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode143": {
+    "value": "Gefion (Церера)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode144": {
+    "value": "Exta (Церера)",
+    "enemy": "Гринир",
+    "type": "Убийство"
+  },
+  "SolNode145": {
+    "value": "Egeria (Церера)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode146": {
+    "value": "Draco (Церера)",
+    "enemy": "Гринир",
+    "type": "Выживание"
+  },
+  "SolNode147": {
+    "value": "Cinxia (Церера)",
+    "enemy": "Гринир",
+    "type": "Перехват"
+  },
+  "SolNode148": {
+    "value": "Cerium (Церера)"
+  },
+  "SolNode149": {
+    "value": "Casta (Церера)",
+    "enemy": "Гринир",
+    "type": "Оборона"
+  },
+  "SolNode150": {
+    "value": "Albedo (Церера)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode151": {
+    "value": "Acanth (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode152": {
+    "value": "Ascar (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode153": {
+    "value": "Brugia (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Спасение"
+  },
+  "SolNode154": {
+    "value": "Candiru (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode155": {
+    "value": "Cosis (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode156": {
+    "value": "Cyath (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode157": {
+    "value": "Giardia (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode158": {
+    "value": "Gnathos (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode159": {
+    "value": "Lepis (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode160": {
+    "value": "Histo (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode161": {
+    "value": "Hymeno (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode162": {
+    "value": "Isos (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Захват"
+  },
+  "SolNode163": {
+    "value": "Ixodes (Эрида)"
+  },
+  "SolNode164": {
+    "value": "Kala-azar (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Оборона"
+  },
+  "SolNode165": {
+    "value": "Sporid (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Улей"
+  },
+  "SolNode166": {
+    "value": "Nimus (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Выживание"
+  },
+  "SolNode167": {
+    "value": "Oestrus (Эрида)",
+    "enemy": "Заражённые",
+    "type": "М. Оборона"
+  },
+  "SolNode168": {
+    "value": "Phalan (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode169": {
+    "value": "Psoro (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode170": {
+    "value": "Ranova (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode171": {
+    "value": "Saxis (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Зачистка"
+  },
+  "SolNode172": {
+    "value": "Xini (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Перехват"
+  },
+  "SolNode173": {
+    "value": "Solium (Эрида)",
+    "enemy": "Заражённые",
+    "type": "М. Оборона"
+  },
+  "SolNode174": {
+    "value": "Sparga (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode175": {
+    "value": "Naeglar (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Улей"
+  },
+  "SolNode176": {
+    "value": "Viver (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode177": {
+    "value": "Kappa (Седна)",
+    "enemy": "Гринир",
+    "type": "Шпионаж"
+  },
+  "SolNode178": {
+    "value": "Hyosube (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode179": {
+    "value": "Jengu (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode180": {
+    "value": "Undine (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode181": {
+    "value": "Adaro (Седна)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode182": {
+    "value": "Camenae (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode183": {
+    "value": "Vodyanoi (Седна)",
+    "enemy": "Гринир",
+    "type": "Арена"
+  },
+  "SolNode184": {
+    "value": "Rusalka (Седна)",
+    "enemy": "Гринир",
+    "type": "Захват"
+  },
+  "SolNode185": {
+    "value": "Berehynia (Седна)",
+    "enemy": "Гринир",
+    "type": "Перехват"
+  },
+  "SolNode186": {
+    "value": "Phithale (Седна)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode187": {
+    "value": "Selkie (Седна)",
+    "enemy": "Гринир",
+    "type": "Выживание"
+  },
+  "SolNode188": {
+    "value": "Kelpie (Седна)",
+    "enemy": "Гринир",
+    "type": "Диверсия"
+  },
+  "SolNode189": {
+    "value": "Naga (Седна)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode190": {
+    "value": "Nakki (Седна)",
+    "enemy": "Гринир",
+    "type": "Арена"
+  },
+  "SolNode191": {
+    "value": "Marid (Седна)",
+    "enemy": "Гринир",
+    "type": "Налёт"
+  },
+  "SolNode192": {
+    "value": "Tikoloshe (Седна)",
+    "enemy": "Гринир",
+    "type": "Шпионаж"
+  },
+  "SolNode193": {
+    "value": "Merrow (Седна)",
+    "enemy": "Гринир",
+    "type": "Убийство"
+  },
+  "SolNode194": {
+    "value": "Ponaturi (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode195": {
+    "value": "Hydron (Седна)",
+    "enemy": "Гринир",
+    "type": "Оборона"
+  },
+  "SolNode196": {
+    "value": "Charybdis (Седна)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode197": {
+    "value": "Graeae (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode198": {
+    "value": "Scylla (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode199": {
+    "value": "Yam (Седна)",
+    "enemy": "Гринир",
+    "type": "Арена"
+  },
+  "SolNode200": {
+    "value": "Veles (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode201": {
+    "value": "Tiamat (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode202": {
+    "value": "Yemaja (Седна)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode203": {
+    "value": "Abaddon (Европа)",
+    "enemy": "Корпус",
+    "type": "Захват"
+  },
+  "SolNode204": {
+    "value": "Armaros (Европа)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "SolNode205": {
+    "value": "Baal (Европа)",
+    "enemy": "Корпус",
+    "type": "М. Оборона"
+  },
+  "SolNode206": {
+    "value": "Eligor (Европа)"
+  },
+  "SolNode207": {
+    "value": "Gamygyn (Европа)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode208": {
+    "value": "Lillith (Европа)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode209": {
+    "value": "Morax (Европа)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "SolNode210": {
+    "value": "Naamah (Европа)",
+    "enemy": "Корпус",
+    "type": "Убийство"
+  },
+  "SolNode211": {
+    "value": "Ose (Европа)",
+    "enemy": "Корпус",
+    "type": "Перехват"
+  },
+  "SolNode212": {
+    "value": "Paimon (Европа)",
+    "enemy": "Корпус",
+    "type": "Оборона"
+  },
+  "SolNode213": {
+    "value": "Shax (Европа)"
+  },
+  "SolNode214": {
+    "value": "Sorath (Европа)",
+    "enemy": "Корпус",
+    "type": "Налёт"
+  },
+  "SolNode215": {
+    "value": "Valac (Европа)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SolNode216": {
+    "value": "Valefor (Европа)",
+    "enemy": "Корпус",
+    "type": "Раскопки"
+  },
+  "SolNode217": {
+    "value": "Orias (Европа)",
+    "enemy": "Корпус",
+    "type": "Спасение"
+  },
+  "SolNode218": {
+    "value": "Zagan (Европа)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode219": {
+    "value": "Beleth (Европа)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SolNode220": {
+    "value": "Kokabiel (Европа)",
+    "enemy": "Корпус",
+    "type": "Диверсия"
+  },
+  "SolNode221": {
+    "value": "Neruda (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode222": {
+    "value": "Eminescu (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Возмездие Древних"
+  },
+  "SolNode223": {
+    "value": "Boethius (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode224": {
+    "value": "Odin (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Перехват"
+  },
+  "SolNode225": {
+    "value": "Suisei (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Шпионаж"
+  },
+  "SolNode226": {
+    "value": "Pantheon (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode227": {
+    "value": "Verdi (Меркурий)"
+  },
+  "SolNode400": {
+    "value": "Teshub (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Зачистка"
+  },
+  "SolNode401": {
+    "value": "Hepit (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Захват"
+  },
+  "SolNode402": {
+    "value": "Taranis (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Оборона"
+  },
+  "SolNode403": {
+    "value": "Tiwaz (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "М. Оборона"
+  },
+  "SolNode404": {
+    "value": "Striborg (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Диверсия"
+  },
+  "SolNode405": {
+    "value": "Ani (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Выживание"
+  },
+  "SolNode406": {
+    "value": "Ukko (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Захват"
+  },
+  "SolNode407": {
+    "value": "Oxomoco (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Зачистка"
+  },
+  "SolNode408": {
+    "value": "Belenus (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Оборона"
+  },
+  "SolNode409": {
+    "value": "Mot (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Выживание"
+  },
+  "SolNode410": {
+    "value": "Aten (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "М. Оборона"
+  },
+  "SolNode411": {
+    "value": "SolNode411 (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode412": {
+    "value": "Mithra (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Перехват"
+  },
+  "SolNode413": {
+    "value": "SolNode413 (Бездна)",
+    "enemy": "Порабощённые",
+    "type": "Возмездие Древних"
+  },
+  "SolNode741": {
+    "value": "Koro (Крепость Кувы)",
+    "enemy": "Гринир",
+    "type": "Штурм"
+  },
+  "SolNode742": {
+    "value": "Nabuk (Крепость Кувы)",
+    "enemy": "Гринир",
+    "type": "Захват"
+  },
+  "SolNode743": {
+    "value": "Rotuma (Крепость Кувы)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode744": {
+    "value": "Taveuni (Крепость Кувы)",
+    "enemy": "Гринир",
+    "type": "Выживание"
+  },
+  "SolNode745": {
+    "value": "Tamu (Крепость Кувы)",
+    "enemy": "Гринир",
+    "type": "Оборона"
+  },
+  "SolNode746": {
+    "value": "Dakata (Крепость Кувы)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode747": {
+    "value": "Pago (Крепость Кувы)",
+    "enemy": "Гринир",
+    "type": "Шпионаж"
+  },
+  "SolNode748": {
+    "value": "Garus (Крепость Кувы)",
+    "enemy": "Гринир",
+    "type": "Спасение"
+  },
+  "SolNode901": {
+    "value": "Caduceus",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "SolNode902": {
+    "value": "Montes (Венера)",
+    "enemy": "Корпус",
+    "type": "Зачистка (Арчвинг)"
+  },
+  "SolNode903": {
+    "value": "Erpo (Земля)",
+    "enemy": "Гринир",
+    "type": "М. Оборона (Арчвинг)"
+  },
+  "SolNode904": {
+    "value": "Syrtis (Марс)",
+    "enemy": "Гринир",
+    "type": "Зачистка (Арчвинг)"
+  },
+  "SolNode905": {
+    "value": "Galilea (Юпитер)",
+    "enemy": "Корпус",
+    "type": "Диверсия (Арчвинг)"
+  },
+  "SolNode906": {
+    "value": "Pandora (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Погоня (Арчвинг)"
+  },
+  "SolNode907": {
+    "value": "Caelus (Уран)",
+    "enemy": "Гринир",
+    "type": "Перехват (Арчвинг)"
+  },
+  "SolNode908": {
+    "value": "Salacia (Нептун)",
+    "enemy": "Корпус",
+    "type": "М. Оборона (Арчвинг)"
+  },
+  "SolNode300": {
+    "value": "Plato (Луа)",
+    "enemy": "Гринир",
+    "type": "Зачистка"
+  },
+  "SolNode301": {
+    "value": "Grimaldi (Луа)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode302": {
+    "value": "Tycho (Луа)",
+    "enemy": "Корпус",
+    "type": "Выживание"
+  },
+  "SolNode304": {
+    "value": "Copernicus (Луа)",
+    "enemy": "Гринир",
+    "type": "М. Оборона"
+  },
+  "SolNode305": {
+    "value": "Stöfler (Луа)",
+    "enemy": "Корпус",
+    "type": "Выживание"
+  },
+  "SolNode306": {
+    "value": "Pavlov (Луа)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SolNode307": {
+    "value": "Zeipel (Луа)",
+    "enemy": "Корпус",
+    "type": "Спасение"
+  },
+  "SettlementNode1": {
+    "value": "Roche (Фобос)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "SettlementNode2": {
+    "value": "Skyresh (Фобос)",
+    "enemy": "Корпус",
+    "type": "Захват"
+  },
+  "SettlementNode3": {
+    "value": "Stickney (Фобос)",
+    "enemy": "Корпус",
+    "type": "Выживание"
+  },
+  "SettlementNode4": {
+    "value": "Drunlo (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode5": {
+    "value": "Grildrig (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode6": {
+    "value": "Limtoc (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode7": {
+    "value": "Hall (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode8": {
+    "value": "Reldresal (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode9": {
+    "value": "Clustril (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode10": {
+    "value": "Kepler (Фобос)",
+    "enemy": "Корпус",
+    "type": "Прорыв (Арчвинг)"
+  },
+  "SettlementNode11": {
+    "value": "Gulliver (Фобос)",
+    "enemy": "Корпус",
+    "type": "Оборона"
+  },
+  "SettlementNode12": {
+    "value": "Monolith (Фобос)",
+    "enemy": "Корпус",
+    "type": "Спасение"
+  },
+  "SettlementNode13": {
+    "value": "D'Arrest (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode14": {
+    "value": "Shklovsky (Фобос)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
+  "SettlementNode15": {
+    "value": "Sharpless (Фобос)",
+    "enemy": "Корпус",
+    "type": "М. Оборона"
+  },
+  "SettlementNode16": {
+    "value": "Wendell (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode17": {
+    "value": "Flimnap (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode18": {
+    "value": "Opik (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode19": {
+    "value": "Todd (Фобос)",
+    "enemy": "Корпус",
+    "type": "Возмездие Древних"
+  },
+  "SettlementNode20": {
+    "value": "Iliad (Фобос)",
+    "enemy": "Корпус",
+    "type": "Убийство"
+  },
+  "MercuryHUB": {
+    "value": "Реле Larunda (Меркурий)",
+    "enemy": "Гринир",
+    "type": "Реле"
+  },
+  "VenusHUB": {
+    "value": "Реле Vesper (Венера)",
+    "enemy": "Корпус",
+    "type": "Реле"
+  },
+  "EarthHUB": {
+    "value": "Реле Strata (Земля)",
+    "enemy": "Гринир",
+    "type": "Реле"
+  },
+  "SaturnHUB": {
+    "value": "Реле Kronia (Сатурн)",
+    "enemy": "Гринир",
+    "type": "Реле"
+  },
+  "ErisHUB": {
+    "value": "Реле Kuiper (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Реле"
+  },
+  "EuropaHUB": {
+    "value": "Реле Leonov (Европа)",
+    "enemy": "Корпус",
+    "type": "Реле"
+  },
+  "PlutoHUB": {
+    "value": "Реле Orcus (Плутон)",
+    "enemy": "Корпус",
+    "type": "Реле"
+  },
+  "EventNode0": {
+    "value": "Balor",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode1": {
+    "value": "Tethra",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode2": {
+    "value": "Операция: Незваные гости",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode3": {
+    "value": "Elatha",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode4": {
+    "value": "Bres",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode5": {
+    "value": "Birog",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode6": {
+    "value": "Подводная лаборатория Тил Регора",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode7": {
+    "value": "Buarainech",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode8": {
+    "value": "Corb",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode9": {
+    "value": "Операция: Незваные гости часть 2",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode10": {
+    "value": "Lugh",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode11": {
+    "value": "Nemed",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode12": {
+    "value": "Операция: Криотик Фронт",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode13": {
+    "value": "Зыбучие пески",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode14": {
+    "value": "Незваные гости",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode15": {
+    "value": "Операция: Криотик Фронт",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode16": {
+    "value": "Операция: Криотик Фронт",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode17": {
+    "value": "Операция: Криотик Фронт",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode18": {
+    "value": "Операция: Блэкаут часть 1",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode19": {
+    "value": "Операция: Блэкаут часть 1",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode20": {
+    "value": "Подводная лаборатория Тил Регора",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode22": {
+    "value": "Подводная лаборатория Тил Регора",
+    "enemy": "Владеющие Разумом",
+    "type": "Возмездие Древних"
+  },
+  "EventNode761": {
+    "value": "Индекс",
+    "enemy": "Корпус",
+    "type": "Арена"
+  },
+  "EventNode762": {
+    "value": "Индекс часть 2",
+    "enemy": "Корпус",
+    "type": "Арена"
+  },
+  "EventNode763": {
+    "value": "Индекс: Выносливость",
+    "enemy": "Корпус",
+    "type": "Арена"
+  },
+  "PvpNode0": {
+    "value": "Конклав: Захват Цефалона",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode1": {
+    "value": "Конклав",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode2": {
+    "value": "Конклав",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode3": {
+    "value": "Конклав: Захват Цефалона",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode4": {
+    "value": "Конклав",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode5": {
+    "value": "Конклав",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode6": {
+    "value": "Конклав",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode7": {
+    "value": "Конклав",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode8": {
+    "value": "Конклав",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode9": {
+    "value": "Конклав: Командное Истребление",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode10": {
+    "value": "Конклав: Истребление",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode11": {
+    "value": "Конклав: Истребление",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode12": {
+    "value": "Конклав: Истребление",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode13": {
+    "value": "Тактическая тревога: Битва снежками!",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "PvpNode14": {
+    "value": "Конклав: Быстрая Сталь",
+    "enemy": "Тэнно",
+    "type": "Конклав"
+  },
+  "ClanNode0": {
+    "value": "Romula (Венера)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode1": {
+    "value": "Malva (Венера)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode2": {
+    "value": "Coba (Земля)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode3": {
+    "value": "Tikal (Земля)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Раскопки"
+  },
+  "ClanNode4": {
+    "value": "Sinai (Юпитер)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode5": {
+    "value": "Cameria (Юпитер)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode6": {
+    "value": "Larzac (Европа)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode7": {
+    "value": "Cholistan (Европа)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Раскопки"
+  },
+  "ClanNode8": {
+    "value": "Kadesh (Марс)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode9": {
+    "value": "Wahiba (Марс)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode10": {
+    "value": "Memphis (Фобос)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode11": {
+    "value": "Zeugma (Фобос)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode12": {
+    "value": "Caracol (Сатурн)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode13": {
+    "value": "Piscinas (Сатурн)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode14": {
+    "value": "Amarna (Седна)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode15": {
+    "value": "Sangeru (Седна)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode16": {
+    "value": "Ur (Уран)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode17": {
+    "value": "Assur (Уран)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Диверсия"
+  },
+  "ClanNode18": {
+    "value": "Akkad (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode19": {
+    "value": "Zabala (Эрида)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode20": {
+    "value": "Yursa (Нептун)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode21": {
+    "value": "Kelashin (Нептун)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode22": {
+    "value": "Seimeni (Церера)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode23": {
+    "value": "Gabii (Церера)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Выживание"
+  },
+  "ClanNode24": {
+    "value": "Sechura (Плутон)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Оборона"
+  },
+  "ClanNode25": {
+    "value": "Hieracon (Плутон)",
+    "enemy": "Заражённые",
+    "type": "Темный Сектор: Раскопки"
+  },
+  "/Lotus/Types/Keys/SortieBossKeyPhorid": {
+    "value": "Босс Вылазки: Форид",
+    "enemy": "Заражённые",
+    "type": "Убийство"
+  }
+}

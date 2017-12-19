@@ -1,0 +1,1787 @@
+{
+  "SolNode0": {
+    "value": "SolNode0",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode1": {
+    "value": "Galatea (해왕성)",
+    "enemy": "코퍼스",
+    "type": "생포"
+  },
+  "SolNode2": {
+    "value": "Aphrodite (금성)",
+    "enemy": "코퍼스",
+    "type": "모바일 방어"
+  },
+  "SolNode3": {
+    "value": "Cordelia (천왕성)",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode4": {
+    "value": "Acheron (명왕성)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "SolNode5": {
+    "value": "Perdita (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode6": {
+    "value": "Despina (해왕성)",
+    "enemy": "코퍼스",
+    "type": "발굴"
+  },
+  "SolNode7": {
+    "value": "Epimetheus (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode8": {
+    "value": "Nix (명왕성)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode9": {
+    "value": "Rosalind (천왕성)",
+    "enemy": "그리니어",
+    "type": "첩보활동"
+  },
+  "SolNode10": {
+    "value": "Thebe (목성)",
+    "enemy": "코퍼스",
+    "type": "파괴공작"
+  },
+  "SolNode11": {
+    "value": "Tharsis (화성)",
+    "enemy": "코퍼스",
+    "type": "탈취"
+  },
+  "SolNode12": {
+    "value": "Elion (수성)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode13": {
+    "value": "Bianca (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode14": {
+    "value": "Ultor (화성)",
+    "enemy": "크로스파이어",
+    "type": "섬멸"
+  },
+  "SolNode15": {
+    "value": "Pacific (지구)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode16": {
+    "value": "Augustus (화성)",
+    "enemy": "크로스파이어",
+    "type": "구출"
+  },
+  "SolNode17": {
+    "value": "Proteus (해왕성)",
+    "enemy": "코퍼스",
+    "type": "방어"
+  },
+  "SolNode18": {
+    "value": "Rhea (토성)",
+    "enemy": "그리니어",
+    "type": "감청"
+  },
+  "SolNode19": {
+    "value": "Enceladus (토성)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode20": {
+    "value": "Telesto (토성)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode21": {
+    "value": "Narcissus (명왕성)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "SolNode22": {
+    "value": "Tessera (금성)",
+    "enemy": "코퍼스",
+    "type": "방어"
+  },
+  "SolNode23": {
+    "value": "Cytherean (금성)",
+    "enemy": "코퍼스",
+    "type": "감청"
+  },
+  "SolNode24": {
+    "value": "Oro (지구)",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "SolNode25": {
+    "value": "Callisto (목성)",
+    "enemy": "코퍼스",
+    "type": "감청"
+  },
+  "SolNode26": {
+    "value": "Lith (지구)",
+    "enemy": "그리니어",
+    "type": "방어"
+  },
+  "SolNode27": {
+    "value": "E Prime (지구)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode28": {
+    "value": "M Prime (수성)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode29": {
+    "value": "Oberon (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode30": {
+    "value": "Olympus (화성)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode31": {
+    "value": "Anthe (토성)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode32": {
+    "value": "Tethys (토성)",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "SolNode33": {
+    "value": "Ariel (천왕성)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode34": {
+    "value": "Sycorax (천왕성)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode35": {
+    "value": "Arcadia (화성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode36": {
+    "value": "Martialis (화성)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode37": {
+    "value": "Pallene (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode38": {
+    "value": "Minthe (명왕성)",
+    "enemy": "코퍼스",
+    "type": "모바일 방어"
+  },
+  "SolNode39": {
+    "value": "Everest (지구)",
+    "enemy": "그리니어",
+    "type": "발굴"
+  },
+  "SolNode40": {
+    "value": "Prospero (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode41": {
+    "value": "Arval (화성)",
+    "enemy": "크로스파이어",
+    "type": "첩보활동"
+  },
+  "SolNode42": {
+    "value": "Helene (토성)",
+    "enemy": "그리니어",
+    "type": "방어"
+  },
+  "SolNode43": {
+    "value": "Cerberus (명왕성)",
+    "enemy": "코퍼스",
+    "type": "감청"
+  },
+  "SolNode44": {
+    "value": "Mimas (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode45": {
+    "value": "Ara (화성)",
+    "enemy": "그리니어",
+    "type": "생포"
+  },
+  "SolNode46": {
+    "value": "Spear (화성)",
+    "enemy": "그리니어",
+    "type": "방어"
+  },
+  "SolNode47": {
+    "value": "Janus (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode48": {
+    "value": "Regna (명왕성)",
+    "enemy": "코퍼스",
+    "type": "구출"
+  },
+  "SolNode49": {
+    "value": "Larissa (해왕성)",
+    "enemy": "코퍼스",
+    "type": "모바일 방어"
+  },
+  "SolNode50": {
+    "value": "Numa (토성)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode51": {
+    "value": "Hades (명왕성)",
+    "enemy": "코퍼스",
+    "type": "암살"
+  },
+  "SolNode52": {
+    "value": "Portia (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode53": {
+    "value": "Themisto (목성)",
+    "enemy": "코퍼스",
+    "type": "암살"
+  },
+  "SolNode54": {
+    "value": "Silvanus (화성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode55": {
+    "value": "Methone (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode56": {
+    "value": "Cypress (명왕성)",
+    "enemy": "코퍼스",
+    "type": "파괴공작"
+  },
+  "SolNode57": {
+    "value": "Sao (해왕성)",
+    "enemy": "코퍼스",
+    "type": "파괴공작"
+  },
+  "SolNode58": {
+    "value": "Hellas (화성)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode59": {
+    "value": "Eurasia (지구)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode60": {
+    "value": "Caliban (천왕성)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode61": {
+    "value": "Ishtar (금성)",
+    "enemy": "코퍼스",
+    "type": "파괴공작"
+  },
+  "SolNode62": {
+    "value": "Neso (해왕성)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "SolNode63": {
+    "value": "Mantle (지구)",
+    "enemy": "그리니어",
+    "type": "생포"
+  },
+  "SolNode64": {
+    "value": "Umbriel (천왕성)",
+    "enemy": "그리니어",
+    "type": "감청"
+  },
+  "SolNode65": {
+    "value": "Gradivus (화성)",
+    "enemy": "코퍼스",
+    "type": "파괴공작"
+  },
+  "SolNode66": {
+    "value": "Unda (금성)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SolNode67": {
+    "value": "Dione (토성)",
+    "enemy": "그리니어",
+    "type": "첩보활동"
+  },
+  "SolNode68": {
+    "value": "Vallis (화성)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode69": {
+    "value": "Ophelia (천왕성)",
+    "enemy": "그리니어",
+    "type": "생존"
+  },
+  "SolNode70": {
+    "value": "Cassini (토성)",
+    "enemy": "그리니어",
+    "type": "생포"
+  },
+  "SolNode71": {
+    "value": "Vesper (금성)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SolNode72": {
+    "value": "Outer Terminus (명왕성)",
+    "enemy": "코퍼스",
+    "type": "방어"
+  },
+  "SolNode73": {
+    "value": "Ananke (목성)",
+    "enemy": "코퍼스",
+    "type": "생포"
+  },
+  "SolNode74": {
+    "value": "Carme (목성)",
+    "enemy": "코퍼스",
+    "type": "모바일 방어"
+  },
+  "SolNode75": {
+    "value": "Cervantes (지구)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode76": {
+    "value": "Hydra (명왕성)",
+    "enemy": "코퍼스",
+    "type": "생포"
+  },
+  "SolNode77": {
+    "value": "Cupid (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode78": {
+    "value": "Triton (해왕성)",
+    "enemy": "코퍼스",
+    "type": "구출"
+  },
+  "SolNode79": {
+    "value": "Cambria (지구)",
+    "enemy": "그리니어",
+    "type": "첩보활동"
+  },
+  "SolNode80": {
+    "value": "Phoebe (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode81": {
+    "value": "Palus (명왕성)",
+    "enemy": "코퍼스",
+    "type": "생존"
+  },
+  "SolNode82": {
+    "value": "Calypso (토성)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode83": {
+    "value": "Cressida (천왕성)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode84": {
+    "value": "Nereid (해왕성)",
+    "enemy": "코퍼스",
+    "type": "탈취"
+  },
+  "SolNode85": {
+    "value": "Gaia (지구)",
+    "enemy": "그리니어",
+    "type": "감청"
+  },
+  "SolNode86": {
+    "value": "Aegaeon (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode87": {
+    "value": "Ganymede (목성)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode88": {
+    "value": "Adrastea (목성)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SolNode89": {
+    "value": "Mariana (지구)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode90": {
+    "value": "Miranda",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode91": {
+    "value": "Iapetus (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode92": {
+    "value": "Charon (명왕성)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode93": {
+    "value": "Keeler (토성)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode94": {
+    "value": "Apollodorus (수성)",
+    "enemy": "그리니어",
+    "type": "생존"
+  },
+  "SolNode95": {
+    "value": "Thalassa (해왕성)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode96": {
+    "value": "Titan (토성)",
+    "enemy": "그리니어",
+    "type": "생존"
+  },
+  "SolNode97": {
+    "value": "Amalthea (목성)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SolNode98": {
+    "value": "Desdemona (천왕성)",
+    "enemy": "그리니어",
+    "type": "생포"
+  },
+  "SolNode99": {
+    "value": "War (화성)",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "SolNode100": {
+    "value": "Elara (목성)",
+    "enemy": "코퍼스",
+    "type": "생존"
+  },
+  "SolNode101": {
+    "value": "Kiliken (금성)",
+    "enemy": "코퍼스",
+    "type": "발굴"
+  },
+  "SolNode102": {
+    "value": "Oceanum (명왕성)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SolNode103": {
+    "value": "Terminus (수성)",
+    "enemy": "그리니어",
+    "type": "생포"
+  },
+  "SolNode104": {
+    "value": "Fossa (금성)",
+    "enemy": "코퍼스",
+    "type": "암살"
+  },
+  "SolNode105": {
+    "value": "Titania (천왕성)",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "SolNode106": {
+    "value": "Alator (화성)",
+    "enemy": "그리니어",
+    "type": "감청"
+  },
+  "SolNode107": {
+    "value": "Venera (금성)",
+    "enemy": "코퍼스",
+    "type": "생포"
+  },
+  "SolNode108": {
+    "value": "Tolstoj (수성)",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "SolNode109": {
+    "value": "Linea (금성)",
+    "enemy": "코퍼스",
+    "type": "구출"
+  },
+  "SolNode110": {
+    "value": "Hyperion (토성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode111": {
+    "value": "Juliet (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode112": {
+    "value": "Setebos (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode113": {
+    "value": "Ares (화성)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode114": {
+    "value": "Puck (천왕성)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode115": {
+    "value": "Quirinus (화성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode116": {
+    "value": "Mab (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode117": {
+    "value": "Naiad (해왕성)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode118": {
+    "value": "Laomedeia (해왕성)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SolNode119": {
+    "value": "Caloris (수성)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode120": {
+    "value": "Halimede (해왕성)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode121": {
+    "value": "Carpo (목성)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "SolNode122": {
+    "value": "Stephano (천왕성)",
+    "enemy": "그리니어",
+    "type": "방어"
+  },
+  "SolNode123": {
+    "value": "V Prime (금성)",
+    "enemy": "코퍼스",
+    "type": "생포"
+  },
+  "SolNode124": {
+    "value": "Trinculo (천왕성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode125": {
+    "value": "Io (목성)",
+    "enemy": "코퍼스",
+    "type": "방어"
+  },
+  "SolNode126": {
+    "value": "Metis (목성)",
+    "enemy": "코퍼스",
+    "type": "구출"
+  },
+  "SolNode127": {
+    "value": "Psamathe (해왕성)",
+    "enemy": "코퍼스",
+    "type": "암살"
+  },
+  "SolNode128": {
+    "value": "E Gate (금성)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "SolNode129": {
+    "value": "SolNode129",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode130": {
+    "value": "Lares (수성)",
+    "enemy": "그리니어",
+    "type": "방어"
+  },
+  "SolNode131": {
+    "value": "Pallas (세레스)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode132": {
+    "value": "Bode (세레스)",
+    "enemy": "그리니어",
+    "type": "첩보활동"
+  },
+  "SolNode133": {
+    "value": "Vedic (세레스)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode134": {
+    "value": "Varro (세레스)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode135": {
+    "value": "Thon (세레스)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode136": {
+    "value": "Olla (세레스)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode137": {
+    "value": "Nuovo (세레스)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode138": {
+    "value": "Ludi (세레스)",
+    "enemy": "그리니어",
+    "type": "탈취"
+  },
+  "SolNode139": {
+    "value": "Lex (세레스)",
+    "enemy": "그리니어",
+    "type": "생포"
+  },
+  "SolNode140": {
+    "value": "Kiste (세레스)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode141": {
+    "value": "Ker (세레스)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode142": {
+    "value": "Hapke (세레스)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode143": {
+    "value": "Gefion (세레스)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode144": {
+    "value": "Exta (세레스)",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "SolNode145": {
+    "value": "Egeria (세레스)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode146": {
+    "value": "Draco (세레스)",
+    "enemy": "그리니어",
+    "type": "생존"
+  },
+  "SolNode147": {
+    "value": "Cinxia (세레스)",
+    "enemy": "그리니어",
+    "type": "감청"
+  },
+  "SolNode148": {
+    "value": "Cerium (세레스)"
+  },
+  "SolNode149": {
+    "value": "Casta (세레스)",
+    "enemy": "그리니어",
+    "type": "방어"
+  },
+  "SolNode150": {
+    "value": "Albedo (세레스)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode151": {
+    "value": "Acanth (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode152": {
+    "value": "Ascar (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode153": {
+    "value": "Brugia (에리스)",
+    "enemy": "인페스티드",
+    "type": "구출"
+  },
+  "SolNode154": {
+    "value": "Candiru (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode155": {
+    "value": "Cosis (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode156": {
+    "value": "Cyath (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode157": {
+    "value": "Giardia (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode158": {
+    "value": "Gnathos (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode159": {
+    "value": "Lepis (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode160": {
+    "value": "Histo (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode161": {
+    "value": "Hymeno (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode162": {
+    "value": "Isos (에리스)",
+    "enemy": "인페스티드",
+    "type": "생포"
+  },
+  "SolNode163": {
+    "value": "Ixodes (에리스)"
+  },
+  "SolNode164": {
+    "value": "Kala-azar (에리스)",
+    "enemy": "인페스티드",
+    "type": "방어"
+  },
+  "SolNode165": {
+    "value": "Sporid (에리스)",
+    "enemy": "인페스티드",
+    "type": "하이브 파괴공작"
+  },
+  "SolNode166": {
+    "value": "Nimus (에리스)",
+    "enemy": "인페스티드",
+    "type": "생존"
+  },
+  "SolNode167": {
+    "value": "Oestrus (에리스)",
+    "enemy": "인페스티드",
+    "type": "모바일 방어"
+  },
+  "SolNode168": {
+    "value": "Phalan (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode169": {
+    "value": "Psoro (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode170": {
+    "value": "Ranova (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode171": {
+    "value": "Saxis (에리스)",
+    "enemy": "인페스티드",
+    "type": "섬멸"
+  },
+  "SolNode172": {
+    "value": "Xini (에리스)",
+    "enemy": "인페스티드",
+    "type": "감청"
+  },
+  "SolNode173": {
+    "value": "Solium (에리스)",
+    "enemy": "인페스티드",
+    "type": "모바일 방어"
+  },
+  "SolNode174": {
+    "value": "Sparga (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode175": {
+    "value": "Naeglar (에리스)",
+    "enemy": "인페스티드",
+    "type": "하이브"
+  },
+  "SolNode176": {
+    "value": "Viver (에리스)",
+    "enemy": "인페스티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode177": {
+    "value": "Kappa (세드나)",
+    "enemy": "그리니어",
+    "type": "첩보활동"
+  },
+  "SolNode178": {
+    "value": "Hyosube (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode179": {
+    "value": "Jengu (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode180": {
+    "value": "Undine (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode181": {
+    "value": "Adaro (세드나)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode182": {
+    "value": "Camenae (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode183": {
+    "value": "Vodyanoi (세드나)",
+    "enemy": "그리니어",
+    "type": "아레나"
+  },
+  "SolNode184": {
+    "value": "Rusalka (세드나)",
+    "enemy": "그리니어",
+    "type": "생포"
+  },
+  "SolNode185": {
+    "value": "Berehynia (세드나)",
+    "enemy": "그리니어",
+    "type": "감청"
+  },
+  "SolNode186": {
+    "value": "Phithale (세드나)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode187": {
+    "value": "Selkie (세드나)",
+    "enemy": "그리니어",
+    "type": "생존"
+  },
+  "SolNode188": {
+    "value": "Kelpie (세드나)",
+    "enemy": "그리니어",
+    "type": "파괴공작"
+  },
+  "SolNode189": {
+    "value": "Naga (세드나)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode190": {
+    "value": "Nakki (세드나)",
+    "enemy": "그리니어",
+    "type": "아레나"
+  },
+  "SolNode191": {
+    "value": "Marid (세드나)",
+    "enemy": "그리니어",
+    "type": "탈취"
+  },
+  "SolNode192": {
+    "value": "Tikoloshe (세드나)",
+    "enemy": "그리니어",
+    "type": "첩보활동"
+  },
+  "SolNode193": {
+    "value": "Merrow (세드나)",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "SolNode194": {
+    "value": "Ponaturi (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode195": {
+    "value": "Hydron (세드나)",
+    "enemy": "그리니어",
+    "type": "방어"
+  },
+  "SolNode196": {
+    "value": "Charybdis (세드나)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode197": {
+    "value": "Graeae (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode198": {
+    "value": "Scylla (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode199": {
+    "value": "Yam (세드나)",
+    "enemy": "그리니어",
+    "type": "아레나"
+  },
+  "SolNode200": {
+    "value": "Veles (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode201": {
+    "value": "Tiamat (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode202": {
+    "value": "Yemaja (세드나)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode203": {
+    "value": "Abaddon (유로파)",
+    "enemy": "코퍼스",
+    "type": "생포"
+  },
+  "SolNode204": {
+    "value": "Armaros (유로파)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "SolNode205": {
+    "value": "Baal (유로파)",
+    "enemy": "코퍼스",
+    "type": "모바일 방어"
+  },
+  "SolNode206": {
+    "value": "Eligor (유로파)"
+  },
+  "SolNode207": {
+    "value": "Gamygyn (유로파)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode208": {
+    "value": "Lillith (유로파)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode209": {
+    "value": "Morax (유로파)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "SolNode210": {
+    "value": "Naamah (유로파)",
+    "enemy": "코퍼스",
+    "type": "암살"
+  },
+  "SolNode211": {
+    "value": "Ose (유로파)",
+    "enemy": "코퍼스",
+    "type": "감청"
+  },
+  "SolNode212": {
+    "value": "Paimon (유로파)",
+    "enemy": "코퍼스",
+    "type": "방어"
+  },
+  "SolNode213": {
+    "value": "Shax (유로파)"
+  },
+  "SolNode214": {
+    "value": "Sorath (유로파)",
+    "enemy": "코퍼스",
+    "type": "탈취"
+  },
+  "SolNode215": {
+    "value": "Valac (유로파)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SolNode216": {
+    "value": "Valefor (유로파)",
+    "enemy": "코퍼스",
+    "type": "발굴"
+  },
+  "SolNode217": {
+    "value": "Orias (유로파)",
+    "enemy": "코퍼스",
+    "type": "구출"
+  },
+  "SolNode218": {
+    "value": "Zagan (유로파)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode219": {
+    "value": "Beleth (유로파)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode220": {
+    "value": "Kokabiel (유로파)",
+    "enemy": "코퍼스",
+    "type": "파괴공작"
+  },
+  "SolNode221": {
+    "value": "Neruda (수성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode222": {
+    "value": "Eminescu (수성)",
+    "enemy": "그리니어",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode223": {
+    "value": "Boethius (수성)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode224": {
+    "value": "Odin (수성)",
+    "enemy": "그리니어",
+    "type": "감청"
+  },
+  "SolNode225": {
+    "value": "Suisei (수성)",
+    "enemy": "그리니어",
+    "type": "첩보활동"
+  },
+  "SolNode226": {
+    "value": "Pantheon (수성)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode227": {
+    "value": "Verdi (수성)"
+  },
+  "SolNode400": {
+    "value": "Teshub (보이드)",
+    "enemy": "커럽티드",
+    "type": "섬멸"
+  },
+  "SolNode401": {
+    "value": "Hepit (보이드)",
+    "enemy": "커럽티드",
+    "type": "생포"
+  },
+  "SolNode402": {
+    "value": "Taranis (보이드)",
+    "enemy": "커럽티드",
+    "type": "방어"
+  },
+  "SolNode403": {
+    "value": "Tiwaz (보이드)",
+    "enemy": "커럽티드",
+    "type": "모바일 방어"
+  },
+  "SolNode404": {
+    "value": "Striborg (보이드)",
+    "enemy": "커럽티드",
+    "type": "오로킨 파괴공작"
+  },
+  "SolNode405": {
+    "value": "Ani (보이드)",
+    "enemy": "커럽티드",
+    "type": "생존"
+  },
+  "SolNode406": {
+    "value": "Ukko (보이드)",
+    "enemy": "커럽티드",
+    "type": "생포"
+  },
+  "SolNode407": {
+    "value": "Oxomoco (보이드)",
+    "enemy": "커럽티드",
+    "type": "섬멸"
+  },
+  "SolNode408": {
+    "value": "Belenus (보이드)",
+    "enemy": "커럽티드",
+    "type": "방어"
+  },
+  "SolNode409": {
+    "value": "Mot (보이드)",
+    "enemy": "커럽티드",
+    "type": "생존"
+  },
+  "SolNode410": {
+    "value": "Aten (보이드)",
+    "enemy": "커럽티드",
+    "type": "모바일 방어"
+  },
+  "SolNode411": {
+    "value": "SolNode411 (보이드)",
+    "enemy": "커럽티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode412": {
+    "value": "Mithra (보이드)",
+    "enemy": "커럽티드",
+    "type": "감청"
+  },
+  "SolNode413": {
+    "value": "SolNode413 (보이드)",
+    "enemy": "커럽티드",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode741": {
+    "value": "Koro (쿠바 요새)",
+    "enemy": "그리니어",
+    "type": "맹공"
+  },
+  "SolNode742": {
+    "value": "Nabuk (쿠바 요새)",
+    "enemy": "그리니어",
+    "type": "생포"
+  },
+  "SolNode743": {
+    "value": "Rotuma (쿠바 요새)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode744": {
+    "value": "Taveuni (쿠바 요새)",
+    "enemy": "그리니어",
+    "type": "생존"
+  },
+  "SolNode745": {
+    "value": "Tamu (쿠바 요새)",
+    "enemy": "그리니어",
+    "type": "방어"
+  },
+  "SolNode746": {
+    "value": "Dakata (쿠바 요새)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode747": {
+    "value": "Pago (쿠바 요새)",
+    "enemy": "그리니어",
+    "type": "첩보활동"
+  },
+  "SolNode748": {
+    "value": "Garus (쿠바 요새)",
+    "enemy": "그리니어",
+    "type": "구출"
+  },
+  "SolNode901": {
+    "value": "Caduceus",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SolNode902": {
+    "value": "Montes (금성)",
+    "enemy": "코퍼스",
+    "type": "섬멸 (아크윙)"
+  },
+  "SolNode903": {
+    "value": "Erpo (지구)",
+    "enemy": "그리니어",
+    "type": "모바일 방어 (아크윙)"
+  },
+  "SolNode904": {
+    "value": "Syrtis (화성)",
+    "enemy": "그리니어",
+    "type": "섬멸 (아크윙)"
+  },
+  "SolNode905": {
+    "value": "Galilea (목성)",
+    "enemy": "코퍼스",
+    "type": "파괴공작 (아크윙)"
+  },
+  "SolNode906": {
+    "value": "Pandora (토성)",
+    "enemy": "그리니어",
+    "type": "추적 (아크윙)"
+  },
+  "SolNode907": {
+    "value": "Caelus (천왕성)",
+    "enemy": "그리니어",
+    "type": "감청 (아크윙)"
+  },
+  "SolNode908": {
+    "value": "Salacia (해왕성)",
+    "enemy": "코퍼스",
+    "type": "모바일 방어 (아크윙)"
+  },
+  "SolNode300": {
+    "value": "Plato (루아)",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "SolNode301": {
+    "value": "Grimaldi (루아)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode302": {
+    "value": "Tycho (루아)",
+    "enemy": "코퍼스",
+    "type": "생존"
+  },
+  "SolNode304": {
+    "value": "Copernicus (루아)",
+    "enemy": "그리니어",
+    "type": "모바일 방어"
+  },
+  "SolNode305": {
+    "value": "Stöfler (루아)",
+    "enemy": "코퍼스",
+    "type": "생존"
+  },
+  "SolNode306": {
+    "value": "Pavlov (루아)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SolNode307": {
+    "value": "Zeipel (루아)",
+    "enemy": "코퍼스",
+    "type": "구출"
+  },
+  "SettlementNode1": {
+    "value": "Roche (포보스)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "SettlementNode2": {
+    "value": "Skyresh (포보스)",
+    "enemy": "코퍼스",
+    "type": "생포"
+  },
+  "SettlementNode3": {
+    "value": "Stickney (포보스)",
+    "enemy": "코퍼스",
+    "type": "생존"
+  },
+  "SettlementNode4": {
+    "value": "Drunlo (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode5": {
+    "value": "Grildrig (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode6": {
+    "value": "Limtoc (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode7": {
+    "value": "Hall (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode8": {
+    "value": "Reldresal (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode9": {
+    "value": "Clustril (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode10": {
+    "value": "Kepler (포보스)",
+    "enemy": "코퍼스",
+    "type": "돌진 (아크윙)"
+  },
+  "SettlementNode11": {
+    "value": "Gulliver (포보스)",
+    "enemy": "코퍼스",
+    "type": "방어"
+  },
+  "SettlementNode12": {
+    "value": "Monolith (포보스)",
+    "enemy": "코퍼스",
+    "type": "구출"
+  },
+  "SettlementNode13": {
+    "value": "D'Arrest (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode14": {
+    "value": "Shklovsky (포보스)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
+  "SettlementNode15": {
+    "value": "Sharpless (포보스)",
+    "enemy": "코퍼스",
+    "type": "모바일 방어"
+  },
+  "SettlementNode16": {
+    "value": "Wendell (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode17": {
+    "value": "Flimnap (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode18": {
+    "value": "Opik (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode19": {
+    "value": "Todd (포보스)",
+    "enemy": "코퍼스",
+    "type": "에인션트 레트리뷰션"
+  },
+  "SettlementNode20": {
+    "value": "Iliad (포보스)",
+    "enemy": "코퍼스",
+    "type": "암살"
+  },
+  "MercuryHUB": {
+    "value": "Larunda 릴레이 (수성)",
+    "enemy": "그리니어",
+    "type": "릴레이"
+  },
+  "VenusHUB": {
+    "value": "Vesper 릴레이 (금성)",
+    "enemy": "코퍼스",
+    "type": "릴레이"
+  },
+  "EarthHUB": {
+    "value": "Strata 릴레이 (지구)",
+    "enemy": "그리니어",
+    "type": "릴레이"
+  },
+  "SaturnHUB": {
+    "value": "Kronia 릴레이 (토성)",
+    "enemy": "그리니어",
+    "type": "릴레이"
+  },
+  "ErisHUB": {
+    "value": "Kuiper 릴레이 (에리스)",
+    "enemy": "인페스티드",
+    "type": "릴레이"
+  },
+  "EuropaHUB": {
+    "value": "Leonov 릴레이 (유로파)",
+    "enemy": "코퍼스",
+    "type": "릴레이"
+  },
+  "PlutoHUB": {
+    "value": "Orcus 릴레이 (명왕성)",
+    "enemy": "코퍼스",
+    "type": "릴레이"
+  },
+  "EventNode0": {
+    "value": "Balor",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode1": {
+    "value": "Tethra",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode2": {
+    "value": "오퍼레이션 게이트 크래쉬",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode3": {
+    "value": "Elatha",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode4": {
+    "value": "Bres",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode5": {
+    "value": "Birog",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode6": {
+    "value": "틸 레거 수중 연구소",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode7": {
+    "value": "Buarainech",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode8": {
+    "value": "Corb",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode9": {
+    "value": "오퍼레이션 게이트 크래쉬 파트 2",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode10": {
+    "value": "Lugh",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode11": {
+    "value": "Nemed",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode12": {
+    "value": "오퍼레이션: 크라이오틱 프론트",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode13": {
+    "value": "쉬프팅 샌드",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode14": {
+    "value": "게이트 크래쉬",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode15": {
+    "value": "오퍼레이션: 크라이오틱 프론트",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode16": {
+    "value": "오퍼레이션: 크라이오틱 프론트",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode17": {
+    "value": "오퍼레이션: 크라이오틱 프론트",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode18": {
+    "value": "오퍼레이션: 블랙아웃 파트 1",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode19": {
+    "value": "오퍼레이션: 블랙아웃 파트 1",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode20": {
+    "value": "틸 레거 수중 연구소",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode22": {
+    "value": "틸 레거 수중 연구소",
+    "enemy": "센티언트",
+    "type": "에인션트 레트리뷰션"
+  },
+  "EventNode761": {
+    "value": "더 인덱스",
+    "enemy": "코퍼스",
+    "type": "아레나"
+  },
+  "EventNode762": {
+    "value": "더 인덱스 파트 2",
+    "enemy": "코퍼스",
+    "type": "아레나"
+  },
+  "EventNode763": {
+    "value": "더 인덱스: 인내",
+    "enemy": "코퍼스",
+    "type": "아레나"
+  },
+  "PvpNode0": {
+    "value": "콘클레이브 세팔론 쟁탈전",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode1": {
+    "value": "콘클레이브",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode2": {
+    "value": "콘클레이브",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode3": {
+    "value": "콘클레이브 세팔론 쟁탈전",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode4": {
+    "value": "콘클레이브",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode5": {
+    "value": "콘클레이브",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode6": {
+    "value": "콘클레이브",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode7": {
+    "value": "콘클레이브",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode8": {
+    "value": "콘클레이브",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode9": {
+    "value": "콘클레이브 팀 절멸전",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode10": {
+    "value": "콘클레이브 절멸전",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode11": {
+    "value": "콘클레이브 절멸전",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode12": {
+    "value": "콘클레이브 절멸전",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode13": {
+    "value": "택티컬 얼럿: 눈싸움!",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "PvpNode14": {
+    "value": "콘클레이브: 퀵 스틸",
+    "enemy": "텐노",
+    "type": "콘클레이브"
+  },
+  "ClanNode0": {
+    "value": "Romula (금성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode1": {
+    "value": "Malva (금성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode2": {
+    "value": "Coba (지구)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode3": {
+    "value": "Tikal (지구)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 발굴"
+  },
+  "ClanNode4": {
+    "value": "Sinai (목성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode5": {
+    "value": "Cameria (목성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode6": {
+    "value": "Larzac (유로파)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode7": {
+    "value": "Cholistan (유로파)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 발굴"
+  },
+  "ClanNode8": {
+    "value": "Kadesh (화성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode9": {
+    "value": "Wahiba (화성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode10": {
+    "value": "Memphis (포보스)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode11": {
+    "value": "Zeugma (포보스)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode12": {
+    "value": "Caracol (토성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode13": {
+    "value": "Piscinas (토성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode14": {
+    "value": "Amarna (세드나)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode15": {
+    "value": "Sangeru (세드나)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode16": {
+    "value": "Ur (천왕성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode17": {
+    "value": "Assur (천왕성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 파괴공작"
+  },
+  "ClanNode18": {
+    "value": "Akkad (에리스)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode19": {
+    "value": "Zabala (에리스)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode20": {
+    "value": "Yursa (해왕성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode21": {
+    "value": "Kelashin (해왕성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode22": {
+    "value": "Seimeni (세레스)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode23": {
+    "value": "Gabii (세레스)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 생존"
+  },
+  "ClanNode24": {
+    "value": "Sechura (명왕성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 방어"
+  },
+  "ClanNode25": {
+    "value": "Hieracon (명왕성)",
+    "enemy": "인페스티드",
+    "type": "다크 섹터 발굴"
+  },
+  "/Lotus/Types/Keys/SortieBossKeyPhorid": {
+    "value": "출격 보스: 포리드",
+    "enemy": "인페스티드",
+    "type": "암살"
+  }
+}

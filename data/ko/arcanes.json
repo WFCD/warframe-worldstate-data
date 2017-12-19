@@ -1,0 +1,272 @@
+[
+    {
+        "regex": "acceleration",
+        "name": "아케인 엑셀러레이션",
+        "effect": "치명타 시, 1% / 2% / 3% / 4% 확률로 1.5 / 3 / 4.5 / 6 초간 소총 연사력 5% / 10% / 15% / 20% 상승",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/9/96/Arcane_Acceleration_160.png/revision/latest/scale-to-width-down/75?cb=20150407090527",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Acceleration"
+    },
+    {
+        "regex": "aegis",
+        "name": "아케인 이지스",
+        "effect": "피해를 받을 시, 1.5% / 3% / 4.5% / 6% 확률로 5 / 10 / 15 / 20 초간 15 / 30 / 45 / 60 의 쉴드 회복",
+        "rarity": "레어",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/b/b6/Arcane_Aegis_160.png/revision/latest/scale-to-width-down/75?cb=20151102021019",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Aegis"
+    },
+    {
+        "regex": "agility",
+        "name": "아케인 어질리티",
+        "effect": "피해를 받을 시, 1% / 2% / 3% / 4% 확률로 2 / 4 / 6 / 8 초간 이동 속도 5% / 10% / 15% / 20% 상승",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/78/Arcane_Agility_160.png/revision/latest/scale-to-width-down/75?cb=20150414195529",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Agility"
+    },
+    {
+        "regex": "arachne",
+        "name": "아케인 아라크네",
+        "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
+        "rarity": "언커먼",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/c/c1/Arcane_Arachne_160.png/revision/latest/scale-to-width-down/75?cb=20151101102048",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Arachne"
+    },
+    {
+        "regex": "avenger",
+        "name": "아케인 어벤져",
+        "effect": "피해를 받을 시, 3.5% / 7% / 10.5% / 14% 확률로 2 / 4 / 6 / 8 초간 치명타 확률 7.5% / 15% / 22.5% / 30% 상승",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/8/88/Arcane_Avenger_160.png/revision/latest/scale-to-width-down/75?cb=20150508155706",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Avenger"
+    },
+    {
+        "regex": "awakening",
+        "name": "아케인 어웨이크닝",
+        "effect": "재장전 시 3% / 6% / 9% / 12% 확률로 4 / 8 / 12 / 16 초간 보조 무기 피해량 15% / 30% / 45% / 60% 상승",
+        "rarity": "커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/f/fa/Arcane_Awakening_160.png/revision/latest/scale-to-width-down/75?cb=20151031165006",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Awakening"
+    },
+    {
+        "regex": "barrier",
+        "name": "아케인 배리어",
+        "effect": "피해를 받을 시, 1% / 2% / 3% / 4% 확률로 쉴드 전체 회복",
+        "rarity": "레어",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/c/c7/Arcane_Barrier_LQ.png/revision/latest/scale-to-width-down/75?cb=20151031165652",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Barrier"
+    },
+    {
+        "regex": "consequence",
+        "name": "아케인 콘시퀀스",
+        "effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
+        "rarity": "언커먼",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/8/82/Arcane_Consequence_160.png/revision/latest/scale-to-width-down/75?cb=20151031215624",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Consequence"
+    },
+    {
+        "regex": "deflection",
+        "name": "아케인 디플렉션",
+        "effect": "10% / 20% / 30% / 40% 확률로 베기 상태 이상 저항",
+        "rarity": "레어",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/b/b1/Arcane_Deflection_160.png/revision/latest/scale-to-width-down/75?cb=20150414010409",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Deflection"
+    },
+    {
+        "regex": "energize",
+        "name": "아케인 에너자이즈",
+        "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
+        "rarity": "레어",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e3/Arcane_Energize_160.png/revision/latest/scale-to-width-down/75?cb=20151102150026",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Energize"
+    },
+    {
+        "regex": "eruption",
+        "name": "아케인 이럽션",
+        "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/2/2d/Arcane_Eruption_160.png/revision/latest/scale-to-width-down/75?cb=20150404083642",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Eruption"
+    },
+    {
+        "regex": "fury",
+        "name": "아케인 퓨리",
+        "effect": "On critical hit, 5% / 10% / 15% / 20% chance\n to give 10% / 20% / 30% / 40% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
+        "rarity": "언커먼",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/8/8d/Arcane_Fury_160.png/revision/latest/scale-to-width-down/75?cb=20151102161322",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Fury"
+    },
+    {
+        "regex": "grace",
+        "name": "아케인 그레이스",
+        "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
+        "rarity": "레어",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/44/Arcane_Grace_Icon.png/revision/latest/scale-to-width-down/75?cb=20150420152648",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Grace"
+    },
+    {
+        "regex": "guardian",
+        "name": "아케인 가디언",
+        "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 15% / 30% / 45% / 60% Armor\n for 5 / 10 / 15 / 20 seconds",
+        "rarity": "커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/8/80/Arcane_Guardian_160.png/revision/latest/scale-to-width-down/75?cb=20150413184813",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Guardian"
+    },
+    {
+        "regex": "healing",
+        "name": "아케인 힐링",
+        "effect": "10% / 20% / 30% / 40% 확률로 방사능 상태 이상 저항",
+        "rarity": "레어",
+        "location": "응보의 법칙",
+        "thumbnail": "http://warframe.wikia.com/wiki/Arcane_Healing",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
+    },
+    {
+        "regex": "ice",
+        "name": "아케인 아이스",
+        "effect": "10% / 20% / 30% / 40% 확률로 화염 상태 이상 저항",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/c/ca/Arcane_Ice_160.png/revision/latest/scale-to-width-down/75?cb=20150407090538",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Ice"
+    },
+    {
+        "regex": "momentum",
+        "name": "아케인 모멘텀",
+        "effect": "치명타 시, 1% / 2% / 4% / 4% 확률로 1.25 / 3 / 8 / 6 초간 저격총 연사력 5% / 50% / 75% / 100% 상승",
+        "rarity": "커먼",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/3/39/Arcane_Momentum_160.png/revision/latest/scale-to-width-down/75?cb=20151101104354",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Momentum"
+    },
+    {
+        "regex": "nullifier",
+        "name": "아케인 널리파이어",
+        "effect": "10% / 20% / 30% / 40% 확률로 자성 상태 이상 저항",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/6/6a/Arcane_Nullifier_160.png/revision/latest/scale-to-width-down/75?cb=20150413134726",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Nullifier"
+    },
+    {
+        "regex": "phantasm",
+        "name": "아케인 판타즘",
+        "effect": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/e/ed/Arcane_Phantasm_160.png/revision/latest/scale-to-width-down/75?cb=20150415041516",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Phantasm"
+    },
+    {
+        "regex": "precision",
+        "name": "아케인 프리시젼",
+        "effect": "On headshot, 10% / 20% / 30% / 40% chance\nto give 15% / 30% / 45% / 60% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
+        "rarity": "언커먼",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a9/Arcane_Precision_160.png/revision/latest/scale-to-width-down/75?cb=20151031073431",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Precision"
+    },
+    {
+        "regex": "pulse",
+        "name": "아케인 펄스",
+        "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals nearby Allies\n within 5 / 10 / 15 / 20 meters",
+        "rarity": "레어",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/e/e7/Arcane_Pulse_160.png/revision/latest/scale-to-width-down/75?cb=20150414010427",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Pulse"
+    },
+    {
+        "regex": "rage",
+        "name": "아케인 레이지",
+        "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 5% / 10% / 15% / 20% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/3/3b/Arcane_Rage_160.png/revision/latest/scale-to-width-down/75?cb=20150407090655",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Rage"
+    },
+    {
+        "regex": "resistance",
+        "name": "아케인 레지스턴스",
+        "effect": "10% / 20% / 30% / 40% 확률로 전기 상태 이상 저항",
+        "rarity": "레어",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e4/Arcane_Resistance_160.png/revision/latest/scale-to-width-down/75?cb=20150414071159",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Resistance"
+    },
+    {
+        "regex": "strike",
+        "name": "아케인 스트라이크",
+        "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 5% / 10% / 15% / 20% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
+        "rarity": "커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a0/Arcane_Strike_160.png/revision/latest/scale-to-width-down/75?cb=20150413191053",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Strike"
+    },
+    {
+        "regex": "tempo",
+        "name": "아케인 템포",
+        "effect": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
+        "rarity": "커먼",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/a/aa/Arcane_Tempo_160.png/revision/latest/scale-to-width-down/75?cb=20151102162933",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Tempo"
+    },
+    {
+        "regex": "trickery",
+        "name": "아케인 트리커리",
+        "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
+        "rarity": "커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/75/Arcane_Trickery_160.png/revision/latest/scale-to-width-down/75?cb=20150413185559",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Trickery"
+    },
+    {
+        "regex": "ultimatum",
+        "name": "아케인 얼티메이텀",
+        "effect": "On finisher, 25% / 50% / 75% / 100% chance\to give 15% / 30% / 45% / 60% Armor\nfor 10 / 20 / 30 / 40 seconds",
+        "rarity": "커먼",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/48/Arcane_Ultimatum_160.png/revision/latest/scale-to-width-down/75?cb=20151101031844",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Ultimatum"
+    },
+    {
+        "regex": "velocity",
+        "name": "아케인 벨로시티",
+        "effect": "치명타 시, 5% / 10% / 20% / 30% 확률로 1.5 / 3 / 4.5 / 6 초간 보조 무기 연사력 5% / 10% / 15% / 20% 상승",
+        "rarity": "커먼",
+        "location": "조르다스 평결",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e2/Arcane_Velocity_160.png/revision/latest/scale-to-width-down/75?cb=20151031164830",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Velocity"
+    },
+    {
+        "regex": "victory",
+        "name": "아케인 빅토리",
+        "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
+        "rarity": "레어",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/25/Arcane_Victory_160.png/revision/latest/scale-to-width-down/75?cb=20150414195605",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Victory"
+    },
+    {
+        "regex": "warmth",
+        "name": "아케인 웜스",
+        "effect": "10% / 20% / 30% / 40% 확률로 냉기 상태 이상 저항",
+        "rarity": "언커먼",
+        "location": "응보의 법칙",
+        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/2a/Arcane_Warmth_160.png/revision/latest/scale-to-width-down/75?cb=20150403122843",
+        "info": "http://warframe.wikia.com/wiki/Arcane_Warmth"
+    }
+]
