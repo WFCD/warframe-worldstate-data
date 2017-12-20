@@ -236,7 +236,7 @@
     {
         "regex": "ultimatum",
         "name": "아케인 얼티메이텀",
-        "effect": "On finisher, 25% / 50% / 75% / 100% chance\to give 15% / 30% / 45% / 60% Armor\nfor 10 / 20 / 30 / 40 seconds",
+        "effect": "마무리 일격 시, 25% / 50% / 75% / 100% 확률로 10 / 20 / 30 / 40 초간 방어력 15% / 30% / 45% / 60% 상승",
         "rarity": "커먼",
         "location": "조르다스 평결",
         "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/48/Arcane_Ultimatum_160.png/revision/latest/scale-to-width-down/75?cb=20151101031844",
@@ -254,7 +254,7 @@
     {
         "regex": "victory",
         "name": "아케인 빅토리",
-        "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
+        "effect": "헤드샷 시, 2% / 4% / 6% / 8% 확률로 2 / 4 / 6 / 8 초간 0.5% / 1.0% / 1.5% / 2.0% 체력 회복",
         "rarity": "레어",
         "location": "응보의 법칙",
         "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/25/Arcane_Victory_160.png/revision/latest/scale-to-width-down/75?cb=20150414195605",
