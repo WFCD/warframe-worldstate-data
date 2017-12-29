@@ -9162,6 +9162,9 @@
   "/lotus/storeitems/upgrades/skins/sentinels/tails/infestedtail": {
     "value": "쏘락스 센티넬 테일"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/KavatPetTail": {
+    "value": "Kavat Sentinel Tail"
+  },
   "/lotus/storeitems/upgrades/skins/sentinels/tails/orokintail": {
     "value": "서머스 프라임 센티넬 테일"
   },
@@ -10728,8 +10731,32 @@
   "/lotus/types/game/library/targets/research7target": {
     "value": "가드맨"
   },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieratablebrewards": {
+    "value": ""
+  },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieratablecrewards": {
+    "value": "Vitality, Plastids x200, 1500 Credits Cache, 50 Endo, Nistlepod x15, Gara Chassis Blueprint, Point Blank, Intensify, Gallium x2"
+  },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierbtablebrewards": {
+    "value": ""
+  },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierbtablecrewards": {
+    "value": "Point Strike, Circuits x300, 2500 Credits Cache, 100 Endo, Lith C2 Relic, Gara Systemes Blueprint, Enhanced Durability, Grim Fury, Orokin Cell x2"
+  },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierctablebrewards": {
+    "value": ""
+  },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierctablecrewards": {
+    "value": "Augur Pact, NAramon Lens, Zenurik Lens, 200 Endo, Meso G1 Relic, Gara Neuroptics Blueprint, Vigilante Fervor, Swirling Tiger, Gladiator Vice"
+  },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierdtablecrewards": {
     "value": "어거 메시지, 100 쿠바, 나라몬 렌즈, 300 엔도, 네오 H1 성유물, 시터스 위슾, 비질란테 퍼수잇, 싱킹 탈론, 글레디에이터 피네스"
+  },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tierdtablebrewards": {
+    "value": "Vigilante Vigor, Zenurik Lens, Vazarin Lens, 300 Endo, Neo M1 Relic, Cetus Wisp, Gladiator Resolve, Gemini Cross"
+  },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieretablearewards": {
+    "value": "Breath of the Eidolon x5, Axi V7 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Gauntlet, Carving Mantis, Eidolon Lens Blueprint"
   },
   "/lotus/types/game/notepacks/bardcorpuspacka": {
     "value": "알파 악기"
