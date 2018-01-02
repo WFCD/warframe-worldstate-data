@@ -173,7 +173,7 @@
     {
         "regex": "precision",
         "name": "아케인 프리시젼",
-        "effect": "On headshot, 10% / 20% / 30% / 40% chance\nto give 15% / 30% / 45% / 60% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
+        "effect": "헤드샷 시, 10% / 20% / 30% / 40% 확률로 2 / 4 / 6 / 8 초간 보조 무기 피해량 15% / 30% / 45% / 60% 상승",
         "rarity": "언커먼",
         "location": "조르다스 평결",
         "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a9/Arcane_Precision_160.png/revision/latest/scale-to-width-down/75?cb=20151031073431",
@@ -191,7 +191,7 @@
     {
         "regex": "rage",
         "name": "아케인 레이지",
-        "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 5% / 10% / 15% / 20% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
+        "effect": "헤드샷 시, 2.5% / 5% / 7.5% / 10% 확률로 4 / 8 / 12 / 16 초간 주 무기 피해량 5% / 10% / 15% / 20% 상승",
         "rarity": "언커먼",
         "location": "응보의 법칙",
         "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/3/3b/Arcane_Rage_160.png/revision/latest/scale-to-width-down/75?cb=20150407090655",
@@ -218,7 +218,7 @@
     {
         "regex": "tempo",
         "name": "아케인 템포",
-        "effect": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
+        "effect": "치명타 시, 2.5% / 5% / 7.5% / 10% 확률로 2 / 4 / 6 / 8 초간 산탄총 연사력 15% / 30% / 45% / 60% 증가",
         "rarity": "커먼",
         "location": "조르다스 평결",
         "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/a/aa/Arcane_Tempo_160.png/revision/latest/scale-to-width-down/75?cb=20151102162933",
@@ -227,7 +227,7 @@
     {
         "regex": "trickery",
         "name": "아케인 트리커리",
-        "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
+        "effect": "마무리 일격 시, 2.5% / 5% / 7.5% / 10% 확률로 5 / 10 / 15 / 20 초간 은신",
         "rarity": "커먼",
         "location": "응보의 법칙",
         "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/75/Arcane_Trickery_160.png/revision/latest/scale-to-width-down/75?cb=20150413185559",
