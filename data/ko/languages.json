@@ -895,16 +895,16 @@
     "value": "Get a pistol damage boost"
   },
   "/lotus/pvpchallengetypes/pvptimedaffectorsuperpowerdamage": {
-    "value": "Get a kill with an ability"
+    "value": "어빌리티로 처치하기"
   },
   "/lotus/pvpchallengetypes/pvptimedchallengeflagcaptureeasy": {
-    "value": "Win a match"
+    "value": "경기 승리하기"
   },
   "/lotus/pvpchallengetypes/pvptimedchallengeflagcapturehard": {
-    "value": "Win a match"
+    "value": "경기 승리하기"
   },
   "/lotus/pvpchallengetypes/pvptimedchallengeflagcapturemedium": {
-    "value": "Win a match"
+    "value": "경기 승리하기"
   },
   "/lotus/pvpchallengetypes/pvptimedchallengeflagreturneasy": {
     "value": "Return the Cephalon"
@@ -3112,52 +3112,52 @@
     "value": "타워 II 섬멸"
   },
   "/lotus/storeitems/types/keys/orokinkeyd": {
-    "value": "Tower Ii Survival"
+    "value": "타워 II 생존"
   },
   "/lotus/storeitems/types/keys/orokinkeye": {
-    "value": "Tower Iii Exterminate"
+    "value": "타워 III 섬멸"
   },
   "/lotus/storeitems/types/keys/orokinmobiledefensekeya": {
-    "value": "Tower I Mobile Defense"
+    "value": "타워 I 모바일 방어"
   },
   "/lotus/storeitems/types/keys/orokinmobiledefensekeyb": {
-    "value": "Tower Ii Mobile Defense"
+    "value": "타워 II 모바일 방어"
   },
   "/lotus/storeitems/types/keys/orokinmobiledefensekeyc": {
-    "value": "Tower Iii Mobile Defense"
+    "value": "타워 III 모바일 방어"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowercapturetier4key": {
-    "value": "Tower Iv Capture"
+    "value": "타워 IV 생포"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowerdefensetier4key": {
-    "value": "Tower Iv Defense"
+    "value": "타워 IV 방어"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowerexterminatetier4key": {
-    "value": "Tower Iv Exterminate"
+    "value": "타워 IV 섬멸"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowerinterceptiontier4key": {
-    "value": "Tower Iv Interception"
+    "value": "타워 IV 감청"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowermobiledefensetier4key": {
-    "value": "Tower Iv Mobile Defense"
+    "value": "타워 IV 모바일 방어"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowersabotagetier1key": {
-    "value": "Tower I Sabotage"
+    "value": "타워 I 파괴공작"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowersabotagetier2key": {
-    "value": "Tower Ii Sabotage"
+    "value": "타워 II 파괴공작"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowersabotagetier3key": {
-    "value": "Tower Iii Sabotage"
+    "value": "타워 III 파괴공작"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowersabotagetier4key": {
-    "value": "Tower Iv Sabotage"
+    "value": "타워 IV 파괴공작"
   },
   "/lotus/storeitems/types/keys/orokintowerkeys/orokintowersurvivaltier4key": {
-    "value": "Tower Iv Survival"
+    "value": "타워 IV 생존"
   },
   "/lotus/storeitems/types/keys/orokintowersurvivalt3key": {
-    "value": "Tower Iii Survival"
+    "value": "타워 III 생존"
   },
   "/lotus/storeitems/types/keys/raidkeys/raid01stage01keyitem": {
     "value": " 응보의 법칙"
@@ -10759,10 +10759,10 @@
     "value": "Vigilante Vigor, Zenurik Lens, Vazarin Lens, 300 Endo, Neo M1 Relic, Cetus Wisp, Gladiator Resolve, Gemini Cross"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieretablearewards": {
-    "value": "Breath of the Eidolon x5, Axi V7 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Gauntlet, Carving Mantis, Eidolon Lens Blueprint"
+    "value": "5 x 아이돌론의 숨결, 액시 V7 성유물, 2 x 시터스 위습, 300 x 쿠바, 퓨랙스 레이스 건틀렛, 카빙 맨티스, 아이돌론 렌즈 설계도"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieretablecrewards": {
-    "value": "Breath of the Eidolon x5, Axi V6 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Blueprint, Twirling Spire, Eidolon Lens Blueprint"
+    "value": "5 x 아이돌론의 숨결, 액시 V6 성유물, 2 x 시터스 위습, 300 x 쿠바, 퓨랙스 레이스 설계도, 트월링 스파이어, 아이돌론 렌즈 설계도"
   },
   "/lotus/types/game/notepacks/bardcorpuspacka": {
     "value": "알파 악기"
