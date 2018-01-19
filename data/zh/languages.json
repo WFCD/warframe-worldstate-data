@@ -10734,6 +10734,12 @@
   "/lotus/types/game/library/targets/research7target": {
     "value": "Guardsman"
   },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/ghoulbountytablearewards": {
+    "value": "100 Endo, Lith T1 Relic, Hunter Adrenaline, Encrypted Journal Fragment, Hunter Munitions, Stubba Blueprint, Hunter Track"
+  },
+  "/lotus/types/game/missiondecks/eidolonjobmissionrewards/ghoulbountytablebrewards": {
+    "value": "300 Endo, Neo S7 Relic, Hunter Recovery, Encrypted Journal Fragment, Hunter Synergy, Quartakk Blueprint, Hunter Command"
+  },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieratablearewards": {
     "value": "Redirection, Oxium x100, 1500 Credits Cache, 50 Endo, Iradite x15, Gara Chassis Blueprint, Point Blank, Streamline, Morphics x2"
   },
@@ -10820,6 +10826,12 @@
   },
   "/lotus/types/gameplay/eidolon/jobs/capturebountycaptwo": {
     "value": "Spy Catcher"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/events/ghoulalertbountyass": {
+    "value": "Eliminate A Ghoul Alpha"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/events/ghoulalertbountyhunt": {
+    "value": "Purge a Massive Ghoul Burial Site"
   },
   "/lotus/types/gameplay/eidolon/jobs/events/infestedplainsbounty": {
     "value": "Plague Star"
