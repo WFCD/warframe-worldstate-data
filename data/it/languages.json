@@ -11673,8 +11673,14 @@
   "/lotus/types/gameplay/eidolon/jobs/events/ghoulalertbountyass": {
     "value": "Eliminate A Ghoul Alpha"
   },
+  "/lotus/types/gameplay/eidolon/jobs/events/ghoulalertbountyext": {
+    "value": "Wipe out Ghoul Burial Grounds"
+  },
   "/lotus/types/gameplay/eidolon/jobs/events/ghoulalertbountyhunt": {
     "value": "Purge a Massive Ghoul Burial Site"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/events/ghoulalertbountyres": {
+    "value": "Rescue the Ghoul Defector"
   },
   "/lotus/types/gameplay/eidolon/jobs/events/infestedplainsbounty": {
     "value": "Plague Star"
