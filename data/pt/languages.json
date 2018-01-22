@@ -2367,8 +2367,845 @@
   "/lotus/storeitems/types/game/playerpowersuit": {
     "value": "Warframe"
   },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionabronze": {
+    "value": "LITH S1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionagold": {
+    "value": "LITH S1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionaplatinum": {
+    "value": "LITH S1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionasilver": {
+    "value": "LITH S1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionbbronze": {
+    "value": "LITH S2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionbgold": {
+    "value": "LITH S2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionbplatinum": {
+    "value": "LITH S2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionbsilver": {
+    "value": "LITH S2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectioncbronze": {
+    "value": "LITH F1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectioncgold": {
+    "value": "LITH F1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectioncplatinum": {
+    "value": "LITH F1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectioncsilver": {
+    "value": "LITH F1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectiondbronze": {
+    "value": "LITH V1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectiondgold": {
+    "value": "LITH V1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectiondplatinum": {
+    "value": "LITH V1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectiondsilver": {
+    "value": "LITH V1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionebronze": {
+    "value": "LITH F2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionegold": {
+    "value": "LITH F2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectioneplatinum": {
+    "value": "LITH F2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionesilver": {
+    "value": "LITH F2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionfbronze": {
+    "value": "LITH M1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionfgold": {
+    "value": "LITH M1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionfplatinum": {
+    "value": "LITH M1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionfsilver": {
+    "value": "LITH M1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectiongbronze": {
+    "value": "LITH A1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionggold": {
+    "value": "LITH A1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectiongplatinum": {
+    "value": "LITH A1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectiongsilver": {
+    "value": "LITH A1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionibronze": {
+    "value": "LITH S3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionigold": {
+    "value": "LITH S3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectioniplatinum": {
+    "value": "LITH S3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionisilver": {
+    "value": "LITH S3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionjbronze": {
+    "value": "LITH C1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionjgold": {
+    "value": "LITH C1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionjplatinum": {
+    "value": "LITH C1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionjsilver": {
+    "value": "LITH C1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionkbronze": {
+    "value": "LITH K1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionkgold": {
+    "value": "LITH K1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionkplatinum": {
+    "value": "LITH K1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionksilver": {
+    "value": "LITH K1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionlbronze": {
+    "value": "LITH N1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionlgold": {
+    "value": "LITH N1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionlplatinum": {
+    "value": "LITH N1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionlsilver": {
+    "value": "LITH N1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionmbronze": {
+    "value": "LITH V2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionmgold": {
+    "value": "LITH V2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionmplatinum": {
+    "value": "LITH V2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionmsilver": {
+    "value": "LITH V2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionnbronze": {
+    "value": "LITH S4 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionngold": {
+    "value": "LITH S4 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionnplatinum": {
+    "value": "LITH S4 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionnsilver": {
+    "value": "LITH S4 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionobronze": {
+    "value": "LITH S5 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionogold": {
+    "value": "LITH S5 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionoplatinum": {
+    "value": "LITH S5 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionosilver": {
+    "value": "LITH S5 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionqbronze": {
+    "value": "LITH G1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionqgold": {
+    "value": "LITH G1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionqplatinum": {
+    "value": "LITH G1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionqsilver": {
+    "value": "LITH G1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionrbronze": {
+    "value": "LITH N2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionrgold": {
+    "value": "LITH N2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionrplatinum": {
+    "value": "LITH N2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionrsilver": {
+    "value": "LITH N2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionsbronze": {
+    "value": "LITH V3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionsgold": {
+    "value": "LITH V3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionsplatinum": {
+    "value": "LITH V3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t1voidprojectionssilver": {
+    "value": "LITH V3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionabronze": {
+    "value": "MESO D1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionagold": {
+    "value": "MESO D1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionaplatinum": {
+    "value": "MESO D1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionasilver": {
+    "value": "MESO D1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionbbronze": {
+    "value": "MESO N1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionbgold": {
+    "value": "MESO N1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionbplatinum": {
+    "value": "MESO N1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionbsilver": {
+    "value": "MESO N1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectioncbronze": {
+    "value": "MESO C1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectioncgold": {
+    "value": "MESO C1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectioncplatinum": {
+    "value": "MESO C1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectioncsilver": {
+    "value": "MESO C1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiondbronze": {
+    "value": "MESO V2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiondgold": {
+    "value": "MESO V2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiondplatinum": {
+    "value": "MESO V2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiondsilver": {
+    "value": "MESO V2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionebronze": {
+    "value": "MESO N2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionegold": {
+    "value": "MESO N2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectioneplatinum": {
+    "value": "MESO N2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionesilver": {
+    "value": "MESO N2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionfbronze": {
+    "value": "MESO B1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionfgold": {
+    "value": "MESO B1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionfplatinum": {
+    "value": "MESO B1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionfsilver": {
+    "value": "MESO B1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiongbronze": {
+    "value": "MESO V1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionggold": {
+    "value": "MESO V1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiongplatinum": {
+    "value": "MESO V1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiongsilver": {
+    "value": "MESO V1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionibronze": {
+    "value": "MESO S1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionigold": {
+    "value": "MESO S1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectioniplatinum": {
+    "value": "MESO S1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionisilver": {
+    "value": "MESO S1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionjbronze": {
+    "value": "MESO S2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionjgold": {
+    "value": "MESO S2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionjplatinum": {
+    "value": "MESO S2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionjsilver": {
+    "value": "MESO S2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionkbronze": {
+    "value": "MESO F1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionkgold": {
+    "value": "MESO F1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionkplatinum": {
+    "value": "MESO F1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionksilver": {
+    "value": "MESO F1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionmbronze": {
+    "value": "MESO C2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionmgold": {
+    "value": "MESO C2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionmplatinum": {
+    "value": "MESO C2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionmsilver": {
+    "value": "MESO C2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionnbronze": {
+    "value": "MESO V3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionngold": {
+    "value": "MESO V3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionnplatinum": {
+    "value": "MESO V3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionnsilver": {
+    "value": "MESO V3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionobronze": {
+    "value": "MESO S3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionogold": {
+    "value": "MESO S3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionoplatinum": {
+    "value": "MESO S3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionosilver": {
+    "value": "MESO S3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionqbronze": {
+    "value": "MESO F2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionqgold": {
+    "value": "MESO F2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionqplatinum": {
+    "value": "MESO F2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionqsilver": {
+    "value": "MESO F2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionrbronze": {
+    "value": "MESO N3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionrgold": {
+    "value": "MESO N3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionrplatinum": {
+    "value": "MESO N3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionrsilver": {
+    "value": "MESO N3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionsbronze": {
+    "value": "MESO S4 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionsgold": {
+    "value": "MESO S4 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionsplatinum": {
+    "value": "MESO S4 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectionssilver": {
+    "value": "MESO S4 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiontbronze": {
+    "value": "MESO V4 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiontgold": {
+    "value": "MESO V4 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiontplatinum": {
+    "value": "MESO V4 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t2voidprojectiontsilver": {
+    "value": "MESO V4 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionabronze": {
+    "value": "NEO S1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionagold": {
+    "value": "NEO S1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionaplatinum": {
+    "value": "NEO S1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionasilver": {
+    "value": "NEO S1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionbbronze": {
+    "value": "NEO S2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionbgold": {
+    "value": "NEO S2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionbplatinum": {
+    "value": "NEO S2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionbsilver": {
+    "value": "NEO S2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectioncbronze": {
+    "value": "NEO N1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectioncgold": {
+    "value": "NEO N1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectioncplatinum": {
+    "value": "NEO N1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectioncsilver": {
+    "value": "NEO N1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiondbronze": {
+    "value": "NEO N2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiondgold": {
+    "value": "NEO N2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiondplatinum": {
+    "value": "NEO N2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiondsilver": {
+    "value": "NEO N2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionebronze": {
+    "value": "NEO V1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionegold": {
+    "value": "NEO V1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectioneplatinum": {
+    "value": "NEO V1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionesilver": {
+    "value": "NEO V1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionfbronze": {
+    "value": "NEO D1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionfgold": {
+    "value": "NEO D1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionfplatinum": {
+    "value": "NEO D1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionfsilver": {
+    "value": "NEO D1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiongbronze": {
+    "value": "NEO S3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionggold": {
+    "value": "NEO S3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiongplatinum": {
+    "value": "NEO S3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiongsilver": {
+    "value": "NEO S3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionibronze": {
+    "value": "NEO N3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionigold": {
+    "value": "NEO N3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectioniplatinum": {
+    "value": "NEO N3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionisilver": {
+    "value": "NEO N3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionjbronze": {
+    "value": "NEO V2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionjgold": {
+    "value": "NEO V2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionjplatinum": {
+    "value": "NEO V2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionjsilver": {
+    "value": "NEO V2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionkbronze": {
+    "value": "NEO V3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionkgold": {
+    "value": "NEO V3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionkplatinum": {
+    "value": "NEO V3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionksilver": {
+    "value": "NEO V3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionmbronze": {
+    "value": "NEO A1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionmgold": {
+    "value": "NEO A1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionmplatinum": {
+    "value": "NEO A1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionmsilver": {
+    "value": "NEO A1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionnbronze": {
+    "value": "NEO V4 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionngold": {
+    "value": "NEO V4 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionnplatinum": {
+    "value": "NEO V4 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionnsilver": {
+    "value": "NEO V4 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionobronze": {
+    "value": "NEO N4 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionogold": {
+    "value": "NEO N4 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionoplatinum": {
+    "value": "NEO N4 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionosilver": {
+    "value": "NEO N4 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionqbronze": {
+    "value": "NEO S5 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionqgold": {
+    "value": "NEO S5 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionqplatinum": {
+    "value": "NEO S5 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionqsilver": {
+    "value": "NEO S5 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionrbronze": {
+    "value": "NEO T1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionrgold": {
+    "value": "NEO T1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionrplatinum": {
+    "value": "NEO T1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionrsilver": {
+    "value": "NEO T1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionsbronze": {
+    "value": "NEO N5 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionsgold": {
+    "value": "NEO N5 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionsplatinum": {
+    "value": "NEO N5 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionssilver": {
+    "value": "NEO N5 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiontbronze": {
+    "value": "NEO B1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiontgold": {
+    "value": "NEO B1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiontplatinum": {
+    "value": "NEO B1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectiontsilver": {
+    "value": "NEO B1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionabronze": {
+    "value": "AXI S1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionagold": {
+    "value": "AXI S1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionaplatinum": {
+    "value": "AXI S1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionasilver": {
+    "value": "AXI S1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionbbronze": {
+    "value": "AXI V1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionbgold": {
+    "value": "AXI V1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionbplatinum": {
+    "value": "AXI V1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionbsilver": {
+    "value": "AXI V1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectioncbronze": {
+    "value": "AXI K1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectioncgold": {
+    "value": "AXI K1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectioncplatinum": {
+    "value": "AXI K1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectioncsilver": {
+    "value": "AXI K1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiondbronze": {
+    "value": "AXI N1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiondgold": {
+    "value": "AXI N1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiondplatinum": {
+    "value": "AXI N1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiondsilver": {
+    "value": "AXI N1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionebronze": {
+    "value": "AXI A1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionegold": {
+    "value": "AXI A1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectioneplatinum": {
+    "value": "AXI A1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionesilver": {
+    "value": "AXI A1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionfbronze": {
+    "value": "AXI V2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionfgold": {
+    "value": "AXI V2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionfplatinum": {
+    "value": "AXI V2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionfsilver": {
+    "value": "AXI V2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiongbronze": {
+    "value": "AXI N2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionggold": {
+    "value": "AXI N2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiongplatinum": {
+    "value": "AXI N2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiongsilver": {
+    "value": "AXI N2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionhbronze": {
+    "value": "AXI V3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionhgold": {
+    "value": "AXI V3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionhplatinum": {
+    "value": "AXI V3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionhsilver": {
+    "value": "AXI V3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionibronze": {
+    "value": "AXI N3 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionigold": {
+    "value": "AXI N3 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectioniplatinum": {
+    "value": "AXI N3 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionisilver": {
+    "value": "AXI N3 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionjbronze": {
+    "value": "AXI T1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionjgold": {
+    "value": "AXI T1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionjplatinum": {
+    "value": "AXI T1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionjsilver": {
+    "value": "AXI T1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionkbronze": {
+    "value": "AXI G1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionkgold": {
+    "value": "AXI G1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionkplatinum": {
+    "value": "AXI G1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionksilver": {
+    "value": "AXI G1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionmbronze": {
+    "value": "AXI V4 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionmgold": {
+    "value": "AXI V4 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionmplatinum": {
+    "value": "AXI V4 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionmsilver": {
+    "value": "AXI V4 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionnbronze": {
+    "value": "AXI V5 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionngold": {
+    "value": "AXI V5 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionnplatinum": {
+    "value": "AXI V5 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionnsilver": {
+    "value": "AXI V5 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionobronze": {
+    "value": "AXI C1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionogold": {
+    "value": "AXI C1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionoplatinum": {
+    "value": "AXI C1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionosilver": {
+    "value": "AXI C1 RELIC (Exceptional)"
+  },
   "/lotus/storeitems/types/game/projections/t4voidprojectionpbronze": {
-    "value": "Relíquia Axi A2"
+    "value": "AXI A2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionpgold": {
+    "value": "AXI A2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionpplatinum": {
+    "value": "AXI A2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionpsilver": {
+    "value": "AXI A2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionqbronze": {
+    "value": "AXI E1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionqgold": {
+    "value": "AXI E1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionqplatinum": {
+    "value": "AXI E1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionqsilver": {
+    "value": "AXI E1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionrbronze": {
+    "value": "AXI B1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionrgold": {
+    "value": "AXI B1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionrplatinum": {
+    "value": "AXI B1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionrsilver": {
+    "value": "AXI B1 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionsbronze": {
+    "value": "AXI E2 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionsgold": {
+    "value": "AXI E2 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionsplatinum": {
+    "value": "AXI E2 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionssilver": {
+    "value": "AXI E2 RELIC (Exceptional)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiontbronze": {
+    "value": "AXI H1 RELIC (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiontgold": {
+    "value": "AXI H1 RELIC (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiontplatinum": {
+    "value": "AXI H1 RELIC (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t4voidprojectiontsilver": {
+    "value": "AXI H1 RELIC (Exceptional)"
   },
   "/lotus/storeitems/types/game/solarrails/basicsolarrail": {
     "value": "Trilho Solar - Classe Torre"
