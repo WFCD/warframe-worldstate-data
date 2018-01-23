@@ -24,12 +24,12 @@
     "SORTIE_MODIFIER_HAZARD_COLD": "Environmental Effect: Extreme Cold",
     "SORTIE_MODIFIER_ARMOR": "Augmented Enemy Armor",
     "SORTIE_MODIFIER_SHIELDS": "Enhanced Enemy Shields",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "Weapon Restriction: Pistol Only",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Weapon Restriction: Shotgun Only",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "Weapon Restriction: Sniper Only",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "Weapon Restriction: Assault Rifle Only",
-    "SORTIE_MODIFIER_MELEE_ONLY": "Weapon Restriction: Melee Only",
-    "SORTIE_MODIFIER_BOW_ONLY": "Weapon Restriction: Bow Only"
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "무기 사용 제한: 보조 무기만 사용 가능",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "무기 사용 제한: 산탄총만 사용 가능",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "무기 사용 제한: 저격총만 사용 가능",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "무기 사용 제한: 돌격 소총만 사용 가능",
+    "SORTIE_MODIFIER_MELEE_ONLY": "무기 사용 제한: 근접 무기만 사용 가능",
+    "SORTIE_MODIFIER_BOW_ONLY": "무기 사용 제한: 활만 사용 가능"
   },
   "modifierDescriptions": {
     "SORTIE_MODIFIER_LOW_ENERGY": "Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
