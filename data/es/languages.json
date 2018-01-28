@@ -12936,6 +12936,12 @@
   "/lotus/types/storeitems/packages/grineerturbinesarmorpack": {
     "value": "Harkonar Armor Set"
   },
+  "/lotus/types/storeitems/packages/grineervharmourbundle": {
+    "value": "Maggor Armor Bundle"
+  },
+  "/Lotus/Types/StoreItems/Packages/GrineerVHItemsBundle": {
+    "value": "Maggor Assault Pack"
+  },
   "/lotus/types/storeitems/packages/grnsealabeventweaponpack": {
     "value": "Dera Vandal Vs. Karak Wraith"
   },
@@ -13107,6 +13113,9 @@
   "/lotus/types/storeitems/packages/memeglyphbundlea": {
     "value": "Memetica Glyph Pack"
   },
+  "/lotus/types/storeitems/packages/mesadeluxeskinbundle": {
+    "value": "Mesa Presidio Collection"
+  },
   "/lotus/types/storeitems/packages/nemesisnyxbundle": {
     "value": "Nemesis Complete Bundle"
   },
@@ -13277,6 +13286,12 @@
   },
   "/lotus/types/storeitems/packages/tnguandaobundle": {
     "value": "Guandao Collection"
+  },
+  "/lotus/types/storeitems/packages/tnhvarmourbundle": {
+    "value": "Syrinx Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/tnhvitemsbundle": {
+    "value": "Baza Collection"
   },
   "/lotus/types/storeitems/packages/translatorpack": {
     "value": "Dead Silence Pack"
@@ -13475,6 +13490,9 @@
   },
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "Kuva Kavat Armor"
+  },
+  "/lotus/upgrades/skins/cowgirl/mesadeluxeskin": {
+    "value": "Mesa Presidio Skin"
   },
   "/lotus/upgrades/skins/decree/bansheealternateskin": {
     "value": "Diseño inmortal de Banshee"
@@ -13770,6 +13788,9 @@
   "/lotus/upgrades/skins/scarves/grnstrapsscarf": {
     "value": "Laddak Cloak"
   },
+  "/Lotus/Upgrades/Skins/Scarves/GrnVhCape": {
+    "value": "Maggor Syandana"
+  },
   "/lotus/upgrades/skins/scarves/halloweenerosioncape": {
     "value": "Syandana Abrasys del día de los muertos"
   },
@@ -13848,6 +13869,9 @@
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas": {
     "value": "Twin Grakata"
   },
+  "/lotus/weapons/grineer/longguns/grnfourbarrelrifle/grnfourbarrelrifleweapon": {
+    "value": "Quartakk"
+  },
   "/lotus/weapons/grineer/longguns/grncannon/grncannonweapon": {
     "value": "Zarr"
   },
@@ -13874,6 +13898,9 @@
   },
   "/lotus/weapons/grineer/pistols/grnqueenguarddualpistol/grnqueenguarddualpistols": {
     "value": "Twin Rogga"
+  },
+  "/lotus/weapons/grineer/pistols/grnuzi/grnuziweapon": {
+    "value": "Stubba"
   },
   "/lotus/weapons/infested/longguns/infwfaccompanyingpri/infestedburstrifle": {
     "value": "Hema"
@@ -13902,6 +13929,12 @@
   "/lotus/weapons/tenno/longguns/tnglassshotgun/tnglassshotgungun": {
     "value": "Astilla"
   },
+  "/lotus/weapons/tenno/longguns/tnheavyshotgun/tnheavyshotgungun": {
+    "value": "Corinth"
+  },
+  "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
+    "value": "Baza"
+  },
   "/lotus/weapons/tenno/melee/gunblade/gunbladeautomatic/tnogunbladeautomatic": {
     "value": "Sarpa"
   },
@@ -13913,6 +13946,9 @@
   },
   "/lotus/weapons/tenno/melee/polearms/tnguandaopolearm/tnguandaopolearmweapon": {
     "value": "Guandao"
+  },
+  "/lotus/weapons/tenno/melee/polearms/tnhalberdpolearm/tnhalberdpolearmweapon": {
+    "value": "Cassowar"
   },
   "/lotus/weapons/tenno/melee/swords/darksword/darksworddaggerhybridweapon": {
     "value": "Dark Split Sword"
