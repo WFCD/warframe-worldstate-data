@@ -12936,6 +12936,12 @@
   "/lotus/types/storeitems/packages/grineerturbinesarmorpack": {
     "value": "하르코나르 아머 세트"
   },
+  "/lotus/types/storeitems/packages/grineervharmourbundle": {
+    "value": "Maggor Armor Bundle"
+  },
+  "/Lotus/Types/StoreItems/Packages/GrineerVHItemsBundle": {
+    "value": "Maggor Assault Pack"
+  },
   "/lotus/types/storeitems/packages/grnsealabeventweaponpack": {
     "value": "데라 반달 Vs. 카락 레이스"
   },
@@ -13107,6 +13113,9 @@
   "/lotus/types/storeitems/packages/memeglyphbundlea": {
     "value": "메메티카 글리프 팩"
   },
+  "/lotus/types/storeitems/packages/mesadeluxeskinbundle": {
+    "value": "Mesa Presidio Collection"
+  },
   "/lotus/types/storeitems/packages/nemesisnyxbundle": {
     "value": "네메시스 컴플리트 번들"
   },
@@ -13277,6 +13286,12 @@
   },
   "/lotus/types/storeitems/packages/tnguandaobundle": {
     "value": "관도 컬렉션"
+  },
+  "/lotus/types/storeitems/packages/tnhvarmourbundle": {
+    "value": "Syrinx Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/tnhvitemsbundle": {
+    "value": "Baza Collection"
   },
   "/lotus/types/storeitems/packages/translatorpack": {
     "value": "데드 사일런스 팩"
@@ -13475,6 +13490,9 @@
   },
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "쿠바 카밧 아머"
+  },
+  "/lotus/upgrades/skins/cowgirl/mesadeluxeskin": {
+    "value": "Mesa Presidio Skin"
   },
   "/lotus/upgrades/skins/decree/bansheealternateskin": {
     "value": "밴쉬 이모탈 스킨"
@@ -13770,6 +13788,9 @@
   "/lotus/upgrades/skins/scarves/grnstrapsscarf": {
     "value": "라닥 클록"
   },
+  "/Lotus/Upgrades/Skins/Scarves/GrnVhCape": {
+    "value": "Maggor Syandana"
+  },
   "/lotus/upgrades/skins/scarves/halloweenerosioncape": {
     "value": "죽은 자의 날 아브라시스 샨다나"
   },
@@ -13848,6 +13869,9 @@
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas": {
     "value": "트윈 그라카타"
   },
+  "/lotus/weapons/grineer/longguns/grnfourbarrelrifle/grnfourbarrelrifleweapon": {
+    "value": "Quartakk"
+  },
   "/lotus/weapons/grineer/longguns/grncannon/grncannonweapon": {
     "value": "자르"
   },
@@ -13874,6 +13898,9 @@
   },
   "/lotus/weapons/grineer/pistols/grnqueenguarddualpistol/grnqueenguarddualpistols": {
     "value": "트윈 로가"
+  },
+  "/lotus/weapons/grineer/pistols/grnuzi/grnuziweapon": {
+    "value": "Stubba"
   },
   "/lotus/weapons/infested/longguns/infwfaccompanyingpri/infestedburstrifle": {
     "value": "헤마"
@@ -13902,6 +13929,12 @@
   "/lotus/weapons/tenno/longguns/tnglassshotgun/tnglassshotgungun": {
     "value": "아스틸라"
   },
+  "/lotus/weapons/tenno/longguns/tnheavyshotgun/tnheavyshotgungun": {
+    "value": "Corinth"
+  },
+  "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
+    "value": "Baza"
+  },
   "/lotus/weapons/tenno/melee/gunblade/gunbladeautomatic/tnogunbladeautomatic": {
     "value": "사르파"
   },
@@ -13913,6 +13946,9 @@
   },
   "/lotus/weapons/tenno/melee/polearms/tnguandaopolearm/tnguandaopolearmweapon": {
     "value": "관도"
+  },
+  "/lotus/weapons/tenno/melee/polearms/tnhalberdpolearm/tnhalberdpolearmweapon": {
+    "value": "Cassowar"
   },
   "/lotus/weapons/tenno/melee/swords/darksword/darksworddaggerhybridweapon": {
     "value": "다크 스플릿 소드"
