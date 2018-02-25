@@ -2676,7 +2676,7 @@
 	},
 	{
 		"regex": "^endura$",
-		"name": "Endura",
+		"name": "엔듀라",
 		"url": "http://warframe.wikia.com/wiki/Endura",
 		"mr": 7,
 		"type": "근접 무기",
@@ -3606,7 +3606,7 @@
 	},
 	{
 		"regex": "^heliocor$",
-		"name": "Heliocor",
+		"name": "헬리오코어",
 		"url": "http://warframe.wikia.com/wiki/Heliocor",
 		"mr": 9,
 		"type": "근접 무기",
@@ -4149,7 +4149,7 @@
 	},
 	{
 		"regex": "^knux$",
-		"name": "Knux",
+		"name": "크눅스",
 		"url": "http://warframe.wikia.com/wiki/Knux",
 		"mr": 0,
 		"type": "아크윙-근접 무기",
@@ -4192,7 +4192,7 @@
 	},
 	{
 		"regex": "^kogake\\sprime$",
-		"name": "Kogake Prime",
+		"name": "코가케 프라임",
 		"url": "http://warframe.wikia.com/wiki/Kogake_Prime",
 		"mr": 10,
 		"type": "근접 무기",
@@ -4450,7 +4450,7 @@
 	},
 	{
 		"regex": "^lanzo$",
-		"name": "Lanzo",
+		"name": "랜조",
 		"url": "http://warframe.wikia.com/wiki/Lanzo",
 		"mr": 0,
 		"type": "Gear",
@@ -5331,7 +5331,7 @@
 	},
 	{
 		"regex": "^nikana\\sprime$",
-		"name": "Nikana Prime",
+		"name": "니카나 프라임",
 		"url": "http://warframe.wikia.com/wiki/Nikana_Prime",
 		"mr": 0,
 		"type": "근접 무기",
@@ -5356,7 +5356,7 @@
 	},
 	{
 		"regex": "^ninkondi$",
-		"name": "Ninkondi",
+		"name": "닌콘디",
 		"url": "http://warframe.wikia.com/wiki/Ninkondi",
 		"mr": 0,
 		"type": "근접 무기",
@@ -6322,7 +6322,7 @@
 	},
 	{
 		"regex": "^ballistica,\\srakta$",
-		"name": "Ballistica, Rakta",
+		"name": "락타 발리스티카",
 		"url": "http://warframe.wikia.com/wiki/Ballistica%2C_Rakta",
 		"mr": 6,
 		"type": "보조 무기",
@@ -6350,7 +6350,7 @@
 	},
 	{
 		"regex": "^cernos,\\srakta$",
-		"name": "Cernos, Rakta",
+		"name": "락타 세르노스",
 		"url": "http://warframe.wikia.com/wiki/Cernos%2C_Rakta",
 		"mr": 12,
 		"type": "주 무기",
@@ -6717,7 +6717,7 @@
 	},
 	{
 		"regex": "^scourge$",
-		"name": "Scourge",
+		"name": "스커지",
 		"url": "http://warframe.wikia.com/wiki/Scourge",
 		"mr": 6,
 		"type": "주 무기",
@@ -6741,7 +6741,7 @@
 	},
 	{
 		"regex": "^dual\\scestra,\\ssecura$",
-		"name": "Dual Cestra, Secura",
+		"name": "세큐라 듀얼 세스트라",
 		"url": "http://warframe.wikia.com/wiki/Dual_Cestra%2C_Secura",
 		"mr": 10,
 		"type": "보조 무기",
@@ -6768,7 +6768,7 @@
 	},
 	{
 		"regex": "^lecta,\\ssecura$",
-		"name": "Lecta, Secura",
+		"name": "세큐라 렉타",
 		"url": "http://warframe.wikia.com/wiki/Lecta%2C_Secura",
 		"mr": 8,
 		"type": "근접 무기",
@@ -7332,7 +7332,7 @@
 	},
 	{
 		"regex": "^spira$",
-		"name": "Spira",
+		"name": "스피라",
 		"url": "http://warframe.wikia.com/wiki/Spira",
 		"mr": 8,
 		"type": "보조 무기",
@@ -7359,7 +7359,7 @@
 	},
 	{
 		"regex": "^spira\\sprime$",
-		"name": "Spira Prime",
+		"name": "스피라 프라임",
 		"url": "http://warframe.wikia.com/wiki/Spira_Prime",
 		"mr": 10,
 		"type": "보조 무기",
@@ -7722,7 +7722,7 @@
 	},
 	{
 		"regex": "^sydon$",
-		"name": "Sydon",
+		"name": "사이돈",
 		"url": "http://warframe.wikia.com/wiki/Sydon",
 		"mr": 2,
 		"type": "근접 무기",
@@ -7772,7 +7772,7 @@
 	},
 	{
 		"regex": "^gammacor,\\ssynoid$",
-		"name": "Gammacor, Synoid",
+		"name": "사이노이드 감마코어",
 		"url": "http://warframe.wikia.com/wiki/Gammacor%2C_Synoid",
 		"mr": 6,
 		"type": "보조 무기",
@@ -7798,7 +7798,7 @@
 	},
 	{
 		"regex": "^heliocor,\\ssynoid$",
-		"name": "Heliocor, Synoid",
+		"name": "사이노이드 헬리오코어",
 		"url": "http://warframe.wikia.com/wiki/Heliocor%2C_Synoid",
 		"mr": 9,
 		"type": "근접 무기",
@@ -7823,7 +7823,7 @@
 	},
 	{
 		"regex": "^simulor,\\ssynoid$",
-		"name": "Simulor, Synoid",
+		"name": "사이노이드 시뮬러",
 		"url": "http://warframe.wikia.com/wiki/Simulor%2C_Synoid",
 		"mr": 12,
 		"type": "주 무기",
@@ -7849,7 +7849,7 @@
 	},
 	{
 		"regex": "^talons$",
-		"name": "Talons",
+		"name": "탈론즈",
 		"url": "http://warframe.wikia.com/wiki/Talons",
 		"mr": 8,
 		"type": "보조 무기",
@@ -8512,7 +8512,7 @@
 	},
 	{
 		"regex": "^hek,\\svaykor$",
-		"name": "Hek, Vaykor",
+		"name": "베이코어 헥",
 		"url": "http://warframe.wikia.com/wiki/Hek%2C_Vaykor",
 		"mr": 12,
 		"type": "주 무기",
@@ -8831,7 +8831,7 @@
 	},
 	{
 		"regex": "^vulkar\\swraith$",
-		"name": "Vulkar Wraith",
+		"name": "불카 레이스",
 		"url": "http://warframe.wikia.com/wiki/Vulkar_Wraith",
 		"mr": 7,
 		"type": "주 무기",
@@ -8857,7 +8857,7 @@
 	},
 	{
 		"regex": "^vulklok$",
-		"name": "Vulklok",
+		"name": "불클락",
 		"url": "http://warframe.wikia.com/wiki/Vulklok",
 		"mr": 0,
 		"type": "센티넬",
@@ -8882,7 +8882,7 @@
 	},
 	{
 		"regex": "^war$",
-		"name": "War",
+		"name": "워",
 		"url": "http://warframe.wikia.com/wiki/War",
 		"mr": 10,
 		"type": "근접 무기",
