@@ -1,6 +1,6 @@
 {
   "modifierTypes": {
-    "SORTIE_MODIFIER_LOW_ENERGY":"Energy Reduction",
+    "SORTIE_MODIFIER_LOW_ENERGY": "Energy Reduction",
     "SORTIE_MODIFIER_IMPACT": "Enemy Physical Enhancement: Impact",
     "SORTIE_MODIFIER_SLASH": "Enemy Physical Enhancement: Slash",
     "SORTIE_MODIFIER_PUNCTURE": "Enemy Physical Enhancement: Puncture",
@@ -16,9 +16,9 @@
     "SORTIE_MODIFIER_FREEZE": "Enemy Elemental Enhancement: Cold",
     "SORTIE_MODIFIER_TOXIN": "Enemy Elemental Enhancement: Toxin",
     "SORTIE_MODIFIER_POISON": "Enemy Elemental Enhancement: Toxin",
-    "SORTIE_MODIFIER_HAZARD_RADIATION" : "Environmental Hazard: Radiation Pockets",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC" : "Environmental Hazard: Electromagnetic Anomalies",
-    "SORTIE_MODIFIER_HAZARD_FOG" : "Environmental Hazard: Dense Fog",
+    "SORTIE_MODIFIER_HAZARD_RADIATION": "Environmental Hazard: Radiation Pockets",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Environmental Hazard: Electromagnetic Anomalies",
+    "SORTIE_MODIFIER_HAZARD_FOG": "Environmental Hazard: Dense Fog",
     "SORTIE_MODIFIER_HAZARD_FIRE": "Environmental Hazard: Fire",
     "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
     "SORTIE_MODIFIER_HAZARD_COLD": "Environmental Effect: Extreme Cold",
@@ -32,7 +32,7 @@
     "SORTIE_MODIFIER_BOW_ONLY": "Weapon Restriction: Bow Only"
   },
   "modifierDescriptions": {
-    "SORTIE_MODIFIER_LOW_ENERGY":"Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
+    "SORTIE_MODIFIER_LOW_ENERGY": "Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
     "SORTIE_MODIFIER_IMPACT": "Enemies can deal enhanced impact damage. Finishing damage is not resisted.",
     "SORTIE_MODIFIER_SLASH": "Enemies can deal enhanced slash damage. Finishing damage is not resisted.",
     "SORTIE_MODIFIER_PUNCTURE": "Enemies can deal enhanced puncture damage. Finishing damage is not resisted.",
@@ -48,9 +48,9 @@
     "SORTIE_MODIFIER_FREEZE": "Enemies deal increased Cold damage and also have increased Immunity to said damage type.",
     "SORTIE_MODIFIER_TOXIN": "Enemies deal increased Toxin damage and also have increased Immunity to said damage type.",
     "SORTIE_MODIFIER_POISON": "Enemies deal increased Toxin damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_HAZARD_RADIATION" : "Any damage received will impart radiation effects, and so will green clouds around the tileset.",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC" : "Reduced Gravity. Blue blobs that deal magnetic procs placed through out the tileset.",
-    "SORTIE_MODIFIER_HAZARD_FOG" : "Limited visibility in the tileset due to dense fog. Forced night cycle on planets like earth.",
+    "SORTIE_MODIFIER_HAZARD_RADIATION": "Any damage received will impart radiation effects, and so will green clouds around the tileset.",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Reduced Gravity. Blue blobs that deal magnetic procs placed through out the tileset.",
+    "SORTIE_MODIFIER_HAZARD_FOG": "Limited visibility in the tileset due to dense fog. Forced night cycle on planets like earth.",
     "SORTIE_MODIFIER_HAZARD_FIRE": "The tileset has a fire hazard. Warframe health is halved. Meltdown Iminent.",
     "SORTIE_MODIFIER_HAZARD_ICE": "Maximum Shield Capacity is halved. Ice patches that cause cold procs.",
     "SORTIE_MODIFIER_HAZARD_COLD": "Mobility is significantly reduced. Sprinting is disabled for this mode.",
@@ -104,10 +104,6 @@
       "name": "Ambulas",
       "faction": "Corpus"
     },
-    "SORTIE_BOSS_JACKAL": {
-      "name": "Jackal",
-      "faction": "Corpus"
-    },
     "SORTIE_BOSS_NEF": {
       "name": "Nef Anyo",
       "faction": "Corpus"
@@ -133,17 +129,17 @@
       "faction": "Corrupted"
     }
   },
-  "endStates" : [
+  "endStates": [
     {
-      "bossName" : "Captain Vor",
-      "regions" : [
+      "bossName": "Captain Vor",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -157,8 +153,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -172,8 +168,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -187,8 +183,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -202,23 +198,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -232,8 +213,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -247,8 +228,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -262,8 +258,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -277,8 +273,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -292,8 +288,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -307,8 +303,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -322,8 +318,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -337,16 +333,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -360,8 +356,8 @@
           ]
         },
         {
-          "name" : "16",
-          "missions" : [
+          "name": "16",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -375,8 +371,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -390,8 +386,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -405,8 +401,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -422,15 +418,15 @@
       ]
     },
     {
-      "bossName" : "Vay Hek",
-      "regions" : [
+      "bossName": "Vay Hek",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -444,8 +440,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -459,8 +455,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -474,8 +470,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -489,23 +485,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -519,8 +500,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -534,8 +515,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -549,8 +545,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -564,8 +560,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -579,8 +575,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -594,8 +590,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -609,8 +605,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -624,16 +620,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -647,8 +643,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -662,8 +658,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -677,8 +673,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -694,15 +690,15 @@
       ]
     },
     {
-      "bossName" : "Sargas Ruk",
-      "regions" : [
+      "bossName": "Sargas Ruk",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -716,8 +712,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -731,8 +727,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -746,8 +742,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -761,23 +757,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -791,8 +772,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -806,8 +787,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -821,8 +817,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -836,8 +832,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -851,8 +847,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -866,8 +862,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -881,8 +877,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -896,16 +892,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -919,23 +915,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
-            "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Exterminate",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Lua",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -949,8 +930,23 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -966,15 +962,15 @@
       ]
     },
     {
-      "bossName" : "Kela de Thaym",
-      "regions" : [
+      "bossName": "Kela de Thaym",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Survival",
@@ -988,8 +984,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1003,8 +999,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1018,8 +1014,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1033,23 +1029,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1063,8 +1044,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1078,8 +1059,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1093,8 +1089,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1108,8 +1104,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1123,8 +1119,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1138,8 +1134,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1153,8 +1149,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1168,16 +1164,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1191,8 +1187,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1206,8 +1202,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1221,8 +1217,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -1238,15 +1234,15 @@
       ]
     },
     {
-      "bossName" : "Lech Kril",
-      "regions" : [
+      "bossName": "Lech Kril",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1260,8 +1256,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1275,8 +1271,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1290,8 +1286,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1305,23 +1301,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1335,8 +1316,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1350,8 +1331,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1365,8 +1361,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1380,8 +1376,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1395,8 +1391,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1410,8 +1406,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1425,8 +1421,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1440,16 +1436,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1463,8 +1459,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1478,8 +1474,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1493,8 +1489,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -1510,15 +1506,15 @@
       ]
     },
     {
-      "bossName" : "Tyl Regor",
-      "regions" : [
+      "bossName": "Tyl Regor",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1532,8 +1528,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1547,8 +1543,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1562,8 +1558,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1577,23 +1573,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1607,8 +1588,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1622,8 +1603,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1637,8 +1633,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1652,8 +1648,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1667,8 +1663,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1682,8 +1678,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1697,8 +1693,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1712,16 +1708,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1735,8 +1731,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1750,8 +1746,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1765,8 +1761,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -1782,15 +1778,15 @@
       ]
     },
     {
-      "bossName" : "Jackal",
-      "regions" : [
+      "bossName": "Jackal",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1804,8 +1800,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1819,8 +1815,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1834,8 +1830,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1849,8 +1845,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1864,8 +1860,8 @@
           ]
         },
         {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1879,8 +1875,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1894,8 +1890,8 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1909,8 +1905,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1924,8 +1920,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1939,8 +1935,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1954,8 +1950,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -1969,8 +1965,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -1984,16 +1980,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2007,8 +2003,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2022,8 +2018,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2037,8 +2033,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -2054,15 +2050,15 @@
       ]
     },
     {
-      "bossName" : "Alad V",
-      "regions" : [
+      "bossName": "Alad V",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2076,8 +2072,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2091,8 +2087,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2106,8 +2102,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2121,23 +2117,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2151,8 +2132,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2166,8 +2147,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2181,8 +2177,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2196,8 +2192,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2211,8 +2207,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2226,8 +2222,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2241,8 +2237,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2256,16 +2252,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2279,8 +2275,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2294,8 +2290,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2309,8 +2305,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -2326,15 +2322,15 @@
       ]
     },
     {
-      "bossName" : "Ambulas",
-      "regions" : [
+      "bossName": "Ambulas",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2348,8 +2344,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2363,8 +2359,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2378,8 +2374,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Exterminate",
             "Rescue",
@@ -2393,8 +2389,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2408,8 +2404,8 @@
           ]
         },
         {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2423,8 +2419,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2438,8 +2434,8 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2453,8 +2449,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2468,8 +2464,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2483,8 +2479,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2498,8 +2494,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2513,8 +2509,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2528,16 +2524,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2551,8 +2547,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2566,8 +2562,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2581,8 +2577,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -2598,15 +2594,15 @@
       ]
     },
     {
-      "bossName" : "Hyena Pack",
-      "regions" : [
+      "bossName": "Hyena Pack",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2620,8 +2616,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2635,8 +2631,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2650,8 +2646,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2665,8 +2661,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2680,8 +2676,8 @@
           ]
         },
         {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2695,8 +2691,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2710,8 +2706,8 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Spy",
             "Rescue",
@@ -2725,8 +2721,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2740,8 +2736,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2755,8 +2751,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2770,8 +2766,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2785,8 +2781,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2800,16 +2796,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2823,8 +2819,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2838,8 +2834,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2853,8 +2849,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -2870,15 +2866,15 @@
       ]
     },
     {
-      "bossName" : "Nef Anyo",
-      "regions" : [
+      "bossName": "Nef Anyo",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2892,8 +2888,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2907,8 +2903,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2922,8 +2918,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2937,23 +2933,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2967,8 +2948,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -2982,8 +2963,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -2997,8 +2993,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3012,8 +3008,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3027,8 +3023,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3042,8 +3038,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3057,8 +3053,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3072,16 +3068,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3095,8 +3091,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3110,8 +3106,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3125,8 +3121,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -3142,15 +3138,15 @@
       ]
     },
     {
-      "bossName" : "Raptor",
-      "regions" : [
+      "bossName": "Raptor",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3164,8 +3160,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3179,8 +3175,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3194,8 +3190,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3209,23 +3205,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3239,8 +3220,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3254,8 +3235,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3269,8 +3265,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3284,8 +3280,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3299,8 +3295,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3314,8 +3310,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3329,8 +3325,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3344,16 +3340,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3367,8 +3363,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3382,8 +3378,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3397,8 +3393,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -3414,15 +3410,15 @@
       ]
     },
     {
-      "bossName" : "Phorid",
-      "regions" : [
+      "bossName": "Phorid",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3436,8 +3432,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3451,8 +3447,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3466,8 +3462,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3481,23 +3477,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3511,8 +3492,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3526,8 +3507,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3541,8 +3537,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3556,8 +3552,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3571,8 +3567,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3586,8 +3582,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3601,8 +3597,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3616,16 +3612,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3639,8 +3635,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3654,8 +3650,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3669,8 +3665,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -3686,15 +3682,15 @@
       ]
     },
     {
-      "bossName" : "Lephantis",
-      "regions" : [
+      "bossName": "Lephantis",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3708,8 +3704,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3723,8 +3719,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3738,8 +3734,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3753,8 +3749,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3768,8 +3764,8 @@
           ]
         },
         {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3783,8 +3779,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3798,8 +3794,8 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3813,8 +3809,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3828,8 +3824,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3843,8 +3839,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3858,8 +3854,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3873,8 +3869,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3888,16 +3884,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3911,8 +3907,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3926,8 +3922,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3941,8 +3937,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -3958,15 +3954,15 @@
       ]
     },
     {
-      "bossName" : "Mutalist Alad V",
-      "regions" : [
+      "bossName": "Mutalist Alad V",
+      "regions": [
         {
-          "name" : "0",
-          "missions" : []
+          "name": "0",
+          "missions": []
         },
         {
-          "name" : "Mercury",
-          "missions" : [
+          "name": "Mercury",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -3980,8 +3976,8 @@
           ]
         },
         {
-          "name" : "Venus",
-          "missions" : [
+          "name": "Venus",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -3995,8 +3991,8 @@
           ]
         },
         {
-          "name" : "Earth",
-          "missions" : [
+          "name": "Earth",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -4010,8 +4006,8 @@
           ]
         },
         {
-          "name" : "Mars",
-          "missions" : [
+          "name": "Mars",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -4025,23 +4021,8 @@
           ]
         },
         {
-          "name" : "Jupiter",
-          "missions" : [
-            "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
-          ]
-        },
-        {
-          "name" : "Saturn",
-          "missions" : [
+          "name": "Jupiter",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -4055,8 +4036,8 @@
           ]
         },
         {
-          "name" : "Uranus",
-          "missions" : [
+          "name": "Saturn",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -4070,8 +4051,23 @@
           ]
         },
         {
-          "name" : "Neptune",
-          "missions" : [
+          "name": "Uranus",
+          "missions": [
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
+          ]
+        },
+        {
+          "name": "Neptune",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -4085,8 +4081,8 @@
           ]
         },
         {
-          "name" : "Pluto",
-          "missions" : [
+          "name": "Pluto",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -4100,8 +4096,8 @@
           ]
         },
         {
-          "name" : "Ceres",
-          "missions" : [
+          "name": "Ceres",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -4115,8 +4111,8 @@
           ]
         },
         {
-          "name" : "Eris",
-          "missions" : [
+          "name": "Eris",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -4130,8 +4126,8 @@
           ]
         },
         {
-          "name" : "Sedna",
-          "missions" : [
+          "name": "Sedna",
+          "missions": [
             "Exterminate",
             "Survival",
             "Rescue",
@@ -4145,8 +4141,8 @@
           ]
         },
         {
-          "name" : "Europa",
-          "missions" : [
+          "name": "Europa",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -4160,16 +4156,16 @@
           ]
         },
         {
-          "name" : "14",
-          "missions" : []
+          "name": "14",
+          "missions": []
         },
         {
-          "name" : "15",
-          "missions" : []
+          "name": "15",
+          "missions": []
         },
         {
-          "name" : "Phobos",
-          "missions" : [
+          "name": "Phobos",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -4183,8 +4179,8 @@
           ]
         },
         {
-          "name" : "17",
-          "missions" : [
+          "name": "17",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -4198,8 +4194,8 @@
           ]
         },
         {
-          "name" : "Lua",
-          "missions" : [
+          "name": "Lua",
+          "missions": [
             "Exterminate",
             "Excavation",
             "Rescue",
@@ -4213,8 +4209,8 @@
           ]
         },
         {
-          "name" : "Kuva Fortress",
-          "missions" : [
+          "name": "Kuva Fortress",
+          "missions": [
             "Defense",
             "Defense",
             "Defense",
@@ -4230,7 +4226,7 @@
       ]
     }
   ],
-  "modifiers" : [
+  "modifiers": [
     "+ Enemy armor/shield",
     "Environmental hazard",
     "Enemy damage resistance",
