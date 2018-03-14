@@ -677,6 +677,9 @@
   "/lotus/language/alerts/survivaldesc1long": {
     "value": "Reabasteça seu suprimento de oxigênio matando inimigos, e aguarde por suprimentos de suporte à vida."
   },
+  "/lotus/language/g1quests/anniversary2017missiontitle": {
+    "value": "Gifts of the Lotus - Stolen!"
+  },
   "/lotus/language/g1quests/fomorianrevengebattlename": {
     "value": "Balor Fomorian"
   },
@@ -11915,6 +11918,18 @@
   },
   "/lotus/types/keys/orokinkeya": {
     "value": "Tower I Exterminate"
+  },
+  "/lotus/types/keys/tacalertkeyanniversary2017a": {
+    "value": "Enemy forces have obtained information on some of the Lotus' artifacts. Stop them before they get away!\n\nYou may only use Secondary weapons on this mission."
+  },
+  "/lotus/types/keys/tacalertkeyanniversary2017b": {
+    "value": "Enemy forces have obtained information on some of the Lotus' artifacts. Stop them before they get away!\n\nYou may only use Primary weapons on this mission."
+  },
+  "/lotus/types/keys/tacalertkeyanniversary2017c": {
+    "value": "Enemy forces have obtained information on some of the Lotus' artifacts. Stop them before they get away!\n\nYou may only use Melee weapons on this mission.!"
+  },
+  "/lotus/types/keys/tacalertkeyanniversary2018d": {
+    "value": "--"
   },
   "/lotus/types/recipes/components/formablueprint": {
     "value": "Diagrama de Forma"
