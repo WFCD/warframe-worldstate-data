@@ -24,7 +24,7 @@
         "jump": "50",
         "wall": "200",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^acrid$",
@@ -66,7 +66,7 @@
         "crit_mult": 2,
         "status_chance": 12,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/20/Afuris.png/revision/latest?cb=20170606011035",
         "speed": "12.5",
@@ -92,7 +92,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c2/ArchHookSword.png/revision/latest?cb=20160710175147",
         "speed": 1,
@@ -115,7 +115,7 @@
         "crit_mult": "2.4",
         "status_chance": "2.2",
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0e/Akbolto.png/revision/latest?cb=20130426075511",
         "speed": 10,
@@ -144,10 +144,10 @@
         "crit_mult": "2.8",
         "status_chance": 14,
         "polarities": [
-            "naramon",
-            "madurai",
-            "madurai",
-            "madurai"
+            "나라몬",
+            "마두라이",
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/88/MirageAkboltoPrime.png/revision/latest?cb=20171213095347",
         "speed": 7,
@@ -177,7 +177,7 @@
         "crit_mult": 2,
         "status_chance": 22,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a0/Dual_Broncos.png/revision/latest?cb=20130524143655",
         "speed": "8.33",
@@ -206,8 +206,8 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/DEPrimeDualBroncos.png/revision/latest?cb=20140306030523",
         "speed": "4.33",
@@ -235,7 +235,7 @@
         "crit_mult": 2,
         "status_chance": 28,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/89/TnoBladedPistols.png/revision/latest?cb=20150205211110",
         "speed": "8.33",
@@ -375,7 +375,7 @@
         "crit_mult": 3,
         "status_chance": 8,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/de/AkimboSomaPistols.png/revision/latest?cb=20150408223719",
         "speed": "12.5",
@@ -403,7 +403,7 @@
         "crit_mult": "1.8",
         "status_chance": 18,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ef/TennoUzi.png/revision/latest?cb=20140206061957",
         "speed": 10,
@@ -431,8 +431,8 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/PrimeAkstiletto.png/revision/latest?cb=20160520210650",
         "speed": "7.08",
@@ -488,7 +488,7 @@
         "crit_mult": 2,
         "status_chance": 14,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0c/Akzani.png/revision/latest?cb=20170403054851",
         "speed": 20,
@@ -516,7 +516,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f9/DEAmphis.png/revision/latest?cb=20140407035856",
         "speed": "1.25",
@@ -529,7 +529,7 @@
         "jump": "40electricity",
         "wall": "92",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^amprex$",
@@ -569,7 +569,7 @@
         "crit_mult": 2,
         "status_chance": "52.5",
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fe/CorpusHandRocket.png/revision/latest?cb=20170606150901",
         "ammo": 18,
@@ -592,7 +592,7 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/e7/ParisScythe.png/revision/latest?cb=20150605002310",
         "speed": "1.08",
@@ -631,7 +631,7 @@
         "jump": "60",
         "wall": "90",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^ankyros\\sprime$",
@@ -645,8 +645,8 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/87/PrimeAnkyros.png/revision/latest?cb=20160221144022",
         "speed": "1.25",
@@ -672,8 +672,8 @@
         "crit_mult": "1.6",
         "status_chance": 28,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1a/CrpShotgun.png/revision/latest?cb=20170907190538",
         "speed": "1.1",
@@ -699,8 +699,8 @@
         "crit_mult": "1.6",
         "status_chance": 26,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0f/CrpScopePistol.png/revision/latest?cb=20170907190537",
         "speed": "4.667",
@@ -727,8 +727,8 @@
         "crit_mult": 2,
         "status_chance": 38,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8d/CrpHammer.png/revision/latest?cb=20170907190535",
         "speed": "0.733",
@@ -740,7 +740,7 @@
         "jump": "360",
         "wall": "360",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^argonak$",
@@ -754,8 +754,8 @@
         "crit_mult": "1.5",
         "status_chance": 27,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a0/LaserAimRifle.png/revision/latest?cb=20171015014021",
         "speed": 6,
@@ -806,8 +806,8 @@
         "crit_mult": "1.9",
         "status_chance": 33,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5d/GlassShotgun.png/revision/latest?cb=20171018134541",
         "speed": "4.33",
@@ -835,7 +835,7 @@
         "crit_mult": "1.7",
         "status_chance": 21,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/77/GrnHeatGun.png/revision/latest?cb=20150512233115",
         "speed": 8,
@@ -873,7 +873,7 @@
         "jump": "90",
         "wall": "180",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^attica$",
@@ -887,7 +887,7 @@
         "crit_mult": 3,
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/df/TnoPrmryXbow.png/revision/latest?cb=20140410055409",
         "speed": "3.67",
@@ -916,8 +916,8 @@
         "crit_mult": 2,
         "status_chance": 16,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4b/SundialPistol.png/revision/latest?cb=20171031145315",
         "speed": 10,
@@ -972,9 +972,9 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "naramon",
-            "madurai",
-            "madurai"
+            "나라몬",
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/db/PrimeBallistica.png/revision/latest?cb=20170829215439",
         "speed": "3.33",
@@ -1004,7 +1004,7 @@
         "crit_mult": 3,
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fa/Baza.png/revision/latest?cb=20171124054156",
         "speed": "16.67",
@@ -1032,7 +1032,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/74/BoStaff.png/revision/latest?cb=20170210002058",
         "speed": 1,
@@ -1057,8 +1057,8 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "vazarin",
-            "madurai"
+            "바자린",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1b/PrimeBo.png/revision/latest?cb=20140612000225",
         "speed": "1.08",
@@ -1152,7 +1152,7 @@
         "jump": "170",
         "wall": "340",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^bolto$",
@@ -1166,7 +1166,7 @@
         "crit_mult": "2.4",
         "status_chance": "2.2",
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a0/Bolto.png/revision/latest?cb=20130426074708",
         "speed": "6.83",
@@ -1194,7 +1194,7 @@
         "crit_mult": "1.8",
         "status_chance": 14,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b5/Boltor.png/revision/latest?cb=20130213060423",
         "speed": "8.75",
@@ -1224,8 +1224,8 @@
         "crit_mult": 2,
         "status_chance": 32,
         "polarities": [
-            "vazarin",
-            "madurai"
+            "바자린",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/59/DEPrimeBoltor.png/revision/latest?cb=20140306030523",
         "speed": 10,
@@ -1253,8 +1253,8 @@
         "crit_mult": 2,
         "status_chance": 17,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b5/DEGrineerHandShotgun.png/revision/latest?cb=20140116153506",
         "speed": 5,
@@ -1338,7 +1338,7 @@
         "crit_mult": 2,
         "status_chance": 16,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/30/BratonVandal.png/revision/latest?cb=20161125232903",
         "speed": "7.5",
@@ -1366,7 +1366,7 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/18/GrnQueenSceptre.png/revision/latest?cb=20161112092829",
         "speed": "1.25",
@@ -1392,8 +1392,8 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b2/StalkerTwoSword.png/revision/latest?cb=20151204013307",
         "speed": 1,
@@ -1406,7 +1406,7 @@
         "jump": "180",
         "wall": "360",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^bronco$",
@@ -1503,7 +1503,7 @@
         "crit_mult": "1.6",
         "status_chance": 18,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a8/Burston.png/revision/latest?cb=20160820040926",
         "speed": "7.83",
@@ -1531,7 +1531,7 @@
         "crit_mult": "1.8",
         "status_chance": 30,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/83/PrimeBurston.png/revision/latest?cb=20161126000536",
         "speed": "13.64",
@@ -1588,8 +1588,8 @@
         "crit_mult": "1.4",
         "status_chance": 28,
         "polarities": [
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b3/Cassowar.png/revision/latest?cb=20171124054158",
         "speed": "1.17",
@@ -1615,8 +1615,8 @@
         "crit_mult": "1.5",
         "status_chance": 22,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/17/TaserStar.png/revision/latest?cb=20140226214533",
         "speed": "3.33",
@@ -1642,7 +1642,7 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/e1/EmbolistScythe.png/revision/latest?cb=20161021004947",
         "speed": 1,
@@ -1663,7 +1663,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2f/Archswordandshield.png/revision/latest?cb=20141024143732",
         "speed": "1.08",
@@ -1685,7 +1685,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/75/Cronus.png/revision/latest?cb=20130426080615",
         "speed": 1,
@@ -1697,7 +1697,7 @@
         "jump": "70",
         "wall": "105",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^cerata$",
@@ -1711,8 +1711,8 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/ca/PunctureGlaive.png/revision/latest?cb=20151028155311",
         "speed": 1,
@@ -1723,7 +1723,7 @@
         "jump": "88toxin",
         "wall": "132toxin",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^cernos$",
@@ -1737,7 +1737,7 @@
         "crit_mult": 2,
         "status_chance": 18,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ac/DECernos.png/revision/latest?cb=20140101053338",
         "ammo": 72,
@@ -1764,8 +1764,8 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/06/CernosPrime.png/revision/latest?cb=20161123020233",
         "ammo": 72,
@@ -1848,8 +1848,8 @@
         "crit_mult": "2.8",
         "status_chance": 12,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/32/TnHeavyShotgun.png/revision/latest?cb=20171221214433",
         "speed": "1.17",
@@ -1876,7 +1876,7 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/21/ArchLaunchGrenade.png/revision/latest?cb=20141024143734",
         "speed": 2,
@@ -1903,7 +1903,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/75/Cronus.png/revision/latest?cb=20130426080615",
         "speed": "0.917",
@@ -1916,7 +1916,7 @@
         "jump": "70",
         "wall": "140",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^cycron$",
@@ -1930,8 +1930,8 @@
         "crit_mult": "1.8",
         "status_chance": 30,
         "polarities": [
-            "naramon",
-            "naramon"
+            "나라몬",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/66/Cycron.png/revision/latest?cb=20170426223716",
         "speed": 12,
@@ -1984,7 +1984,7 @@
         "crit_mult": 2,
         "status_chance": 50,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/23/AsymmetricBow.png/revision/latest?cb=20150512232727",
         "ammo": 72,
@@ -2010,8 +2010,8 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/86/SwordPrime.png/revision/latest?cb=20130914111405",
         "speed": 1,
@@ -2024,7 +2024,7 @@
         "jump": "120",
         "wall": "240",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^dark\\sdagger$",
@@ -2061,7 +2061,7 @@
         "crit_mult": "2.5",
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/da/DarkSplitSwordDualIcon.png/revision/latest?cb=20180212164628",
         "speed": "1.17",
@@ -2084,7 +2084,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f1/DarkSwordDaggerHybrid.png/revision/latest?cb=20160609170238",
         "speed": "0.917",
@@ -2236,8 +2236,8 @@
         "crit_mult": "1.6",
         "status_chance": 16,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/25/Despair.png/revision/latest?cb=20170304062240",
         "speed": "3.33",
@@ -2266,7 +2266,7 @@
         "crit_mult": 2,
         "status_chance": 5,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5c/TnoRapier.png/revision/latest?cb=20160120124035",
         "speed": 1,
@@ -2279,7 +2279,7 @@
         "jump": "150",
         "wall": "300",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^deth\\smachine\\srifle$",
@@ -2346,7 +2346,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/e9/DexDakra.png/revision/latest?cb=20150423184455",
         "speed": "0.883",
@@ -2372,7 +2372,7 @@
         "crit_mult": 2,
         "status_chance": 28,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/33/DexFuris.png/revision/latest?cb=20170606011218",
         "speed": 20,
@@ -2428,8 +2428,8 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/DragonKatana.png/revision/latest?cb=20140415221134",
         "speed": 1,
@@ -2442,7 +2442,7 @@
         "jump": "170",
         "wall": "182",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^drakgoon$",
@@ -2485,8 +2485,8 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/20/Dread2.png/revision/latest?cb=20130929141831",
         "ammo": 72,
@@ -2513,7 +2513,7 @@
         "crit_mult": "1.6",
         "status_chance": 20,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4e/DualCorpusMinigun.png/revision/latest?cb=20140206061958",
         "speed": "12.5",
@@ -2541,7 +2541,7 @@
         "crit_mult": 3,
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/Dual_Cleavers.png/revision/latest?cb=20130803121949",
         "speed": "0.833",
@@ -2554,7 +2554,7 @@
         "jump": "70",
         "wall": "140",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^dual\\sdecurion$",
@@ -2619,7 +2619,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/DualHeat.png/revision/latest?cb=20130213060428",
         "speed": "0.917",
@@ -2645,7 +2645,7 @@
         "crit_mult": 3,
         "status_chance": 15,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/51/DualInfestedAxes.png/revision/latest?cb=20130914111400",
         "speed": "1.08",
@@ -2681,7 +2681,7 @@
         "jump": "84",
         "wall": "168",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^dual\\skamas\\sprime$",
@@ -2695,7 +2695,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5b/DualKamasPrime.png/revision/latest?cb=20151015150932",
         "speed": "1.17",
@@ -2708,7 +2708,7 @@
         "jump": "140",
         "wall": "280",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^dual\\sraza$",
@@ -2735,7 +2735,7 @@
         "jump": "96",
         "wall": "192",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^dual\\sskana$",
@@ -2762,7 +2762,7 @@
         "jump": "64",
         "wall": "128",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^dual\\stoxocyst$",
@@ -2804,7 +2804,7 @@
         "crit_mult": 3,
         "status_chance": 5,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/44/DualZoren.png/revision/latest?cb=20130811190125",
         "speed": "1.17",
@@ -2830,7 +2830,7 @@
         "crit_mult": "1.5",
         "status_chance": 41,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8c/InfestedPistol.png/revision/latest?cb=20140314172859",
         "speed": 8,
@@ -2855,7 +2855,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2a/Endura.png/revision/latest?cb=20170524214221",
         "speed": "0.917",
@@ -2868,7 +2868,7 @@
         "jump": "190",
         "wall": "380",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^ether\\sdaggers$",
@@ -2882,7 +2882,7 @@
         "crit_mult": "1.5",
         "status_chance": 15,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/08/EtherDaggers2.png/revision/latest?cb=20130412155450",
         "speed": "0.833",
@@ -2908,7 +2908,7 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/EtherScythe.png/revision/latest?cb=20130914111401",
         "speed": "1.08",
@@ -2960,9 +2960,9 @@
         "crit_mult": "2.5",
         "status_chance": 2,
         "polarities": [
-            "madurai",
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/23/EuphoraPrime.png/revision/latest?cb=20170301080132",
         "speed": "1.5",
@@ -2991,7 +2991,7 @@
         "crit_mult": "1.5",
         "status_chance": 8,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/23/DualDaggers.png/revision/latest?cb=20160221143944",
         "speed": "0.917",
@@ -3017,7 +3017,7 @@
         "crit_mult": "1.5",
         "status_chance": 5,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2b/PrimeFang.png/revision/latest?cb=20130713205727",
         "speed": 1,
@@ -3042,8 +3042,8 @@
         "crit_mult": "2.8",
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/Ferrox.png/revision/latest?cb=20170309230240",
         "ammo": 540,
@@ -3066,7 +3066,7 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/ArchRocketCrossbow.png/revision/latest?cb=20141219182154",
         "speed": 5,
@@ -3133,7 +3133,7 @@
         "jump": "230",
         "wall": "230",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^fragor\\sprime$",
@@ -3147,7 +3147,7 @@
         "crit_mult": "2.5",
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d7/PrimeFragor.png/revision/latest?cb=20160520210719",
         "speed": "0.8",
@@ -3160,7 +3160,7 @@
         "jump": "260",
         "wall": "260",
         "channeling": "1.8",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^furax$",
@@ -3187,7 +3187,7 @@
         "jump": "70",
         "wall": "105",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^furax\\swraith$",
@@ -3214,7 +3214,7 @@
         "jump": "70",
         "wall": "105",
         "channeling": "1.8",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^furis$",
@@ -3228,7 +3228,7 @@
         "crit_mult": 2,
         "status_chance": 12,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/Furis.png/revision/latest?cb=20170606011114",
         "speed": 10,
@@ -3257,7 +3257,7 @@
         "crit_mult": "1.7",
         "status_chance": 29,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6d/GlassKunai.png/revision/latest?cb=20171017224243",
         "speed": "2.83",
@@ -3285,7 +3285,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "speed": 1,
         "rate": 1,
@@ -3297,7 +3297,7 @@
         "jump": "250",
         "wall": "250",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^galatine\\sprime$",
@@ -3311,8 +3311,8 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0c/PrimeGalatine342.png/revision/latest?cb=20160820032103",
         "speed": 1,
@@ -3325,7 +3325,7 @@
         "jump": "330",
         "wall": "330",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^gammacor$",
@@ -3339,7 +3339,7 @@
         "crit_mult": "1.8",
         "status_chance": 20,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/24/Gammacor.png/revision/latest?cb=20141127182228",
         "speed": 12,
@@ -3364,7 +3364,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2b/DjinnMachete.png/revision/latest?cb=20180206084638",
         "speed": "1.08",
@@ -3390,8 +3390,8 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d4/DEGlaive.png/revision/latest?cb=20140407035856",
         "speed": 1,
@@ -3405,7 +3405,7 @@
         "jump": "90",
         "wall": "135",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^glaive\\sprime$",
@@ -3419,8 +3419,8 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/PrimeGlaive.png/revision/latest?cb=20140314174506",
         "speed": "1.25",
@@ -3434,7 +3434,7 @@
         "jump": "100",
         "wall": "150",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^glaxion$",
@@ -3570,7 +3570,7 @@
         "jump": "200",
         "wall": "200",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^grattler$",
@@ -3582,7 +3582,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/70/GrnAntiAirGun.png/revision/latest?cb=20150731174941",
         "speed": "6.25",
@@ -3609,7 +3609,7 @@
         "crit_mult": "2.5",
         "status_chance": 35,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8c/DEGrinlok.png/revision/latest?cb=20140214215111",
         "speed": "1.67",
@@ -3637,8 +3637,8 @@
         "crit_mult": "2.2",
         "status_chance": 4,
         "polarities": [
-            "vazarin",
-            "madurai"
+            "바자린",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/05/Guandao.png/revision/latest?cb=20170720170251",
         "speed": "0.833",
@@ -3677,7 +3677,7 @@
         "jump": "100",
         "wall": "200",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^halikar$",
@@ -3691,8 +3691,8 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/01/GrnBoomerang.png/revision/latest?cb=20141024143413",
         "speed": "1.17",
@@ -3706,7 +3706,7 @@
         "jump": "90",
         "wall": "135",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^harpak$",
@@ -3720,7 +3720,7 @@
         "crit_mult": "2.3",
         "status_chance": 17,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0d/GrnHarpoonGun.png/revision/latest?cb=20150731174941",
         "speed": 6,
@@ -3761,7 +3761,7 @@
         "jump": "140",
         "wall": "140",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^heat\\sdagger$",
@@ -3775,7 +3775,7 @@
         "crit_mult": "1.5",
         "status_chance": 5,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/HeatDagger.png/revision/latest?cb=20160221144237",
         "speed": "0.75",
@@ -3788,7 +3788,7 @@
         "jump": "90heat",
         "wall": "135",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^heat\\ssword$",
@@ -3802,7 +3802,7 @@
         "crit_mult": "1.5",
         "status_chance": 20,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c4/Heat.png/revision/latest?cb=20130426080625",
         "speed": "0.917",
@@ -3815,7 +3815,7 @@
         "jump": "88heat",
         "wall": "176",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^hek$",
@@ -3871,7 +3871,7 @@
         "jump": "280",
         "wall": "280",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^hema$",
@@ -3885,7 +3885,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5f/InfestedBurstRifle.png/revision/latest?cb=20161222143411",
         "speed": 6,
@@ -3910,8 +3910,8 @@
         "crit_mult": "1.6",
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/Hikou.png/revision/latest?cb=20171219142910",
         "speed": "6.67",
@@ -3940,8 +3940,8 @@
         "crit_mult": "1.8",
         "status_chance": 28,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b4/PrimeHikou.png/revision/latest?cb=20140923195818",
         "speed": "5.83",
@@ -3970,7 +3970,7 @@
         "crit_mult": "1.5",
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6d/Hind.png/revision/latest?cb=20130816203128",
         "speed": "6.25",
@@ -3997,7 +3997,7 @@
         "crit_mult": 3,
         "status_chance": 5,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2a/InfestedKogake.png/revision/latest?cb=20161222002135",
         "speed": 1,
@@ -4010,7 +4010,7 @@
         "jump": "110",
         "wall": "165",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^ignis$",
@@ -4072,7 +4072,7 @@
         "crit_mult": 2,
         "status_chance": 5,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4a/ArchwingMachinegun.png/revision/latest?cb=20141024143733",
         "speed": "16.7",
@@ -4124,8 +4124,8 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/01/GrnJetPwrPolearm.png/revision/latest?cb=20170406043411",
         "speed": 1,
@@ -4138,7 +4138,7 @@
         "jump": "260blast",
         "wall": "260",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^jat\\skusar$",
@@ -4152,8 +4152,8 @@
         "crit_mult": "2.5",
         "status_chance": 5,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b2/JatKusar.png/revision/latest?cb=20170728205719",
         "speed": "0.833",
@@ -4163,7 +4163,7 @@
         "jump": "160heat",
         "wall": "320heat",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^javlok$",
@@ -4177,8 +4177,8 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/GrnFlameSpear.png/revision/latest?cb=20161217014834",
         "ammo": 300,
@@ -4199,7 +4199,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/Jaw.png/revision/latest?cb=20130426080629",
         "speed": "0.917",
@@ -4225,8 +4225,8 @@
         "crit_mult": "1.5",
         "status_chance": 2,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f0/Kama.png/revision/latest?cb=20130914111402",
         "speed": "1.17",
@@ -4252,7 +4252,7 @@
         "crit_mult": "1.5",
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ea/GrineerM16Rifle.png/revision/latest?cb=20131231184734",
         "speed": "11.67",
@@ -4280,7 +4280,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c7/KarakWraith.png/revision/latest?cb=20150512233117",
         "speed": "11.67",
@@ -4308,7 +4308,7 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/80/KarystDagger.png/revision/latest?cb=20140818235505",
         "speed": "0.75",
@@ -4318,7 +4318,7 @@
         "jump": "100toxin",
         "wall": "150toxin",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^kaszas$",
@@ -4330,7 +4330,7 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/26/ArchScythe.png/revision/latest?cb=20151002090141",
         "speed": 1,
@@ -4352,7 +4352,7 @@
         "crit_mult": "2.5",
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/64/GrnHalberd.png/revision/latest?cb=20161113000420",
         "speed": "0.833",
@@ -4378,8 +4378,8 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/70/Kestrel.png/revision/latest?cb=20130607215549",
         "speed": "1.08",
@@ -4393,7 +4393,7 @@
         "jump": "70",
         "wall": "105",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^knell$",
@@ -4432,7 +4432,7 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/49/GrnArchHand.png/revision/latest?cb=20150820004111",
         "speed": 1,
@@ -4467,7 +4467,7 @@
         "jump": "70",
         "wall": "105",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^kogake\\sprime$",
@@ -4481,9 +4481,9 @@
         "crit_mult": "1.8",
         "status_chance": 34,
         "polarities": [
-            "madurai",
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4c/MirageKogakePrime.png/revision/latest?cb=20171213095337",
         "speed": "0.917",
@@ -4496,7 +4496,7 @@
         "jump": "140",
         "wall": "210",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^kohm$",
@@ -4510,7 +4510,7 @@
         "crit_mult": "2.3",
         "status_chance": 25,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b0/GrineerSparkGun.png/revision/latest?cb=20141211221301",
         "speed": "3.67",
@@ -4606,7 +4606,7 @@
         "jump": "140",
         "wall": "280",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^kronen$",
@@ -4633,7 +4633,7 @@
         "jump": "130",
         "wall": "260",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^kulstar$",
@@ -4647,7 +4647,7 @@
         "crit_mult": "2.3",
         "status_chance": 19,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f0/GrnTorpedoPistol.png/revision/latest?cb=20150731174942",
         "speed": 2,
@@ -4674,8 +4674,8 @@
         "crit_mult": "1.6",
         "status_chance": 8,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/35/Kunai2.png/revision/latest?cb=20170210002129",
         "speed": "3.33",
@@ -4704,7 +4704,7 @@
         "crit_mult": 2,
         "status_chance": 45,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/e8/StalkerMios.png/revision/latest?cb=20151204013306",
         "speed": "0.917",
@@ -4714,7 +4714,7 @@
         "jump": "160electricity",
         "wall": "320electricity",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^lanka$",
@@ -4827,8 +4827,8 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/LatoPrime.png/revision/latest?cb=20161029030340",
         "speed": "6.67",
@@ -4856,7 +4856,7 @@
         "crit_mult": "2.4",
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/59/DELatoVandal.png/revision/latest?cb=20140124173653",
         "speed": 5,
@@ -4884,7 +4884,7 @@
         "crit_mult": 2,
         "status_chance": 12,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6e/Latron.png/revision/latest?cb=20130426073836",
         "speed": "4.17",
@@ -4912,8 +4912,8 @@
         "crit_mult": "2.8",
         "status_chance": 26,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c1/DELatronPrime.png/revision/latest?cb=20140124171644",
         "speed": "4.17",
@@ -4941,7 +4941,7 @@
         "crit_mult": "2.8",
         "status_chance": 14,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/09/WraithLatron.png/revision/latest?cb=20140828170521",
         "speed": "5.42",
@@ -4979,7 +4979,7 @@
         "jump": "90electricity",
         "wall": "180",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^lenz$",
@@ -4994,8 +4994,8 @@
         "crit_mult": 2,
         "status_chance": 5,
         "polarities": [
-            "naramon",
-            "naramon"
+            "나라몬",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/89/Lenz.png/revision/latest?cb=20170803215404",
         "ammo": 6,
@@ -5019,7 +5019,7 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/10/InfTipedo.png/revision/latest?cb=20160304215549",
         "speed": 1,
@@ -5046,7 +5046,7 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6f/Lex.png/revision/latest?cb=20130426074737",
         "speed": "1.08",
@@ -5075,7 +5075,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9e/PrimeLex.png/revision/latest?cb=20140410055707",
         "speed": "2.08",
@@ -5103,7 +5103,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/74/BoStaff.png/revision/latest?cb=20170210002058",
         "speed": 1,
@@ -5169,7 +5169,7 @@
         "jump": "60",
         "wall": "90",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^mk1-furis$",
@@ -5183,7 +5183,7 @@
         "crit_mult": 2,
         "status_chance": 1,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/Furis.png/revision/latest?cb=20170606011114",
         "speed": "8.33",
@@ -5211,8 +5211,8 @@
         "crit_mult": 2,
         "status_chance": "2.5",
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/35/Kunai2.png/revision/latest?cb=20170210002129",
         "speed": "3.33",
@@ -5241,7 +5241,7 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7d/Paris.png/revision/latest?cb=20170210002054",
         "ammo": 72,
@@ -5268,7 +5268,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/26/Strun.png/revision/latest?cb=20161125225500",
         "speed": "2.08",
@@ -5322,8 +5322,8 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ef/DEWraithMachete.png/revision/latest?cb=20170127211343",
         "speed": "1.08",
@@ -5362,7 +5362,7 @@
         "jump": "160",
         "wall": "160",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^magnus$",
@@ -5376,7 +5376,7 @@
         "crit_mult": 2,
         "status_chance": 22,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/26/TennoMagnum.png/revision/latest?cb=20140123005414",
         "speed": "5.83",
@@ -5428,7 +5428,7 @@
         "crit_mult": "1.5",
         "status_chance": 30,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7e/GrineerLeverActionPistol.png/revision/latest?cb=20140227055729",
         "speed": 2,
@@ -5455,7 +5455,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6e/DEMios.png/revision/latest?cb=20151113025556",
         "speed": "1.08",
@@ -5468,7 +5468,7 @@
         "jump": "160",
         "wall": "320",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^mire$",
@@ -5495,7 +5495,7 @@
         "jump": "70toxin",
         "wall": "140",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^miter$",
@@ -5509,7 +5509,7 @@
         "crit_mult": 2,
         "status_chance": 50,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "speed": "2.5",
         "ammo": 72,
@@ -5537,7 +5537,7 @@
         "crit_mult": 2,
         "status_chance": 49,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/82/InfCernos.png/revision/latest?cb=20160304215549",
         "ammo": 72,
@@ -5564,7 +5564,7 @@
         "crit_mult": "1.5",
         "status_chance": 15,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/26/InfCrpShockSwarm.png/revision/latest?cb=20140620010138",
         "speed": 10,
@@ -5604,7 +5604,7 @@
         "jump": "100",
         "wall": "200",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^nami\\sskyla\\sprime$",
@@ -5618,9 +5618,9 @@
         "crit_mult": "1.5",
         "status_chance": 30,
         "polarities": [
-            "madurai",
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/68/PrimeNamiSkyla.png/revision/latest?cb=20170829215440",
         "speed": "1.33",
@@ -5633,7 +5633,7 @@
         "jump": "120",
         "wall": "240",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^nami\\ssolo$",
@@ -5647,7 +5647,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dd/DENamiSolo.png/revision/latest?cb=20140529190718",
         "speed": 1,
@@ -5673,8 +5673,8 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/e9/Katana.png/revision/latest?cb=20140410055706",
         "speed": "0.917",
@@ -5687,7 +5687,7 @@
         "jump": "90",
         "wall": "96",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^nikana\\sprime$",
@@ -5701,8 +5701,8 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/31/PrimeNikana.png/revision/latest?cb=20160205233131",
         "speed": "1.08",
@@ -5715,7 +5715,7 @@
         "jump": "190",
         "wall": "204",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^ninkondi$",
@@ -5739,7 +5739,7 @@
         "jump": "90electricity",
         "wall": "180",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^nukor$",
@@ -5791,7 +5791,7 @@
         "jump": "50electricity",
         "wall": "75",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^ogris$",
@@ -5839,7 +5839,7 @@
         "jump": "200electricity",
         "wall": "400electricity",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^okina$",
@@ -5853,7 +5853,7 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/49/TennoSais.png/revision/latest?cb=20160710174242",
         "speed": "1.08",
@@ -5866,7 +5866,7 @@
         "jump": "80",
         "wall": "160",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^onorix$",
@@ -5878,7 +5878,7 @@
         "crit_mult": "1.3",
         "status_chance": 5,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/Archaxe.png/revision/latest?cb=20141028221205",
         "speed": 1,
@@ -5900,7 +5900,7 @@
         "crit_mult": "2.5",
         "status_chance": 20,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/CrpBFG.png/revision/latest?cb=20141024143412",
         "ammo": 200,
@@ -5939,7 +5939,7 @@
         "jump": "100blast",
         "wall": "83",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^orthos\\sprime$",
@@ -5979,8 +5979,8 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6b/TeshinGlaive.png/revision/latest?cb=20161113000421",
         "speed": "0.75",
@@ -5993,7 +5993,7 @@
         "jump": "140",
         "wall": "210",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^pandero$",
@@ -6035,7 +6035,7 @@
         "crit_mult": "1.5",
         "status_chance": 12,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/28/Pangolin.png/revision/latest?cb=20130426080637",
         "speed": "0.917",
@@ -6048,7 +6048,7 @@
         "jump": "74",
         "wall": "148",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^panthera$",
@@ -6062,7 +6062,7 @@
         "crit_mult": 2,
         "status_chance": 24,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6f/TennoMiter.png/revision/latest?cb=20150115004023",
         "speed": 3,
@@ -6114,7 +6114,7 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7d/Paris.png/revision/latest?cb=20170210002054",
         "ammo": 72,
@@ -6141,8 +6141,8 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/75/PrimeBowM.png/revision/latest?cb=20130713213733",
         "ammo": 72,
@@ -6212,7 +6212,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/35/ArchLongRifle.png/revision/latest?cb=20151002090140",
         "speed": "18.75",
@@ -6239,7 +6239,7 @@
         "crit_mult": 2,
         "status_chance": 31,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9e/InfestedLongGunTwo.png/revision/latest?cb=20140206061957",
         "speed": 12,
@@ -6288,8 +6288,8 @@
         "crit_mult": 2,
         "status_chance": 35,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/bc/InfProximityStars.png/revision/latest?cb=20160819234428",
         "speed": "2.08",
@@ -6342,7 +6342,7 @@
         "crit_mult": "2.2",
         "status_chance": "59.5",
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5f/PrismaAngstrum.png/revision/latest?cb=20170908141430",
         "ammo": 18,
@@ -6391,7 +6391,7 @@
         "crit_mult": 3,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/57/PrismaDualCleavers.png/revision/latest?cb=20150710171818",
         "speed": 1,
@@ -6404,7 +6404,7 @@
         "jump": "70",
         "wall": "140",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^prisma\\sgorgon$",
@@ -6487,7 +6487,7 @@
         "jump": "50electricity",
         "wall": "75",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^prisma\\sskana$",
@@ -6514,7 +6514,7 @@
         "jump": "70",
         "wall": "140",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^prisma\\stetra$",
@@ -6554,7 +6554,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ed/PrismaVerituxFix.png/revision/latest?cb=20150123055945",
         "speed": 1,
@@ -6650,7 +6650,7 @@
         "crit_mult": "2.2",
         "status_chance": 16,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/75/CrpShockRifle.png/revision/latest?cb=20140731223522",
         "speed": 12,
@@ -6674,7 +6674,7 @@
         "crit_mult": "2.4",
         "status_chance": 30,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/91/QuantaVandal.png/revision/latest?cb=20150519212443",
         "speed": 12,
@@ -6729,8 +6729,8 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "vazarin",
-            "madurai"
+            "바자린",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2a/RVBallistica.png/revision/latest?cb=20141127183101",
         "ammo": 210,
@@ -6756,9 +6756,9 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "madurai",
-            "madurai",
-            "naramon"
+            "마두라이",
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9c/SyndicateRVCernos.png/revision/latest?cb=20150902215135",
         "ammo": 72,
@@ -6785,7 +6785,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/RVDarkDagger.png/revision/latest?cb=20160916030245",
         "speed": 1,
@@ -6795,7 +6795,7 @@
         "jump": "100",
         "wall": "150",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^rampart$",
@@ -6829,7 +6829,7 @@
         "crit_mult": 2,
         "status_chance": "7.5",
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8a/ArchHammer.png/revision/latest?cb=20141024143734",
         "speed": "0.917",
@@ -6864,7 +6864,7 @@
         "jump": "150",
         "wall": "150",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^redeemer$",
@@ -6891,7 +6891,7 @@
         "jump": "120",
         "wall": "240",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^ripkas$",
@@ -6905,7 +6905,7 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/38/GrnClaws.png/revision/latest?cb=20150320022623",
         "speed": "0.883",
@@ -6918,7 +6918,7 @@
         "jump": "110",
         "wall": "165",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^rubico$",
@@ -6960,9 +6960,9 @@
         "crit_mult": 2,
         "status_chance": 34,
         "polarities": [
-            "madurai",
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/ca/NLCastanas.png/revision/latest?cb=20141127182955",
         "speed": "3.33",
@@ -6988,7 +6988,7 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/15/NLMagistar.png/revision/latest?cb=20160916030244",
         "speed": 1,
@@ -7001,7 +7001,7 @@
         "jump": "240",
         "wall": "240",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^sancti\\stigris$",
@@ -7015,9 +7015,9 @@
         "crit_mult": "1.5",
         "status_chance": 28,
         "polarities": [
-            "vazarin",
-            "naramon",
-            "madurai"
+            "바자린",
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/SyndicateNLTigris.png/revision/latest?cb=20150902215134",
         "speed": 2,
@@ -7044,7 +7044,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c2/TnoGunbladeAuto.png/revision/latest?cb=20160819234433",
         "speed": 1,
@@ -7057,7 +7057,7 @@
         "jump": "140",
         "wall": "280",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^scindo$",
@@ -7084,7 +7084,7 @@
         "jump": "200",
         "wall": "200",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^scindo\\sprime$",
@@ -7098,7 +7098,7 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/38/PrimeScindo.png/revision/latest?cb=20140923195818",
         "speed": "0.967",
@@ -7111,7 +7111,7 @@
         "jump": "260",
         "wall": "260",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^scoliac$",
@@ -7125,7 +7125,7 @@
         "crit_mult": "1.5",
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/34/DEScoliac2.png/revision/latest?cb=20140407035857",
         "speed": "1.25",
@@ -7151,8 +7151,8 @@
         "crit_mult": "1.5",
         "status_chance": 30,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c8/PriestSpearGun.png/revision/latest?cb=20170629034316",
         "speed": "2.67",
@@ -7175,8 +7175,8 @@
         "crit_mult": "1.6",
         "status_chance": 28,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8f/PSDualCestra.png/revision/latest?cb=20141127182956",
         "speed": "12.5",
@@ -7204,7 +7204,7 @@
         "crit_mult": "1.5",
         "status_chance": 25,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0c/PSLecta.png/revision/latest?cb=20160916030244",
         "speed": "1.25",
@@ -7214,7 +7214,7 @@
         "jump": "150electricity",
         "wall": "300electricity",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^secura\\spenta$",
@@ -7229,9 +7229,9 @@
         "crit_mult": 2,
         "status_chance": 26,
         "polarities": [
-            "naramon",
-            "vazarin",
-            "madurai"
+            "나라몬",
+            "바자린",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/69/SyndicatePSPenta.png/revision/latest?cb=20150902215135",
         "speed": 2,
@@ -7287,7 +7287,7 @@
         "crit_mult": "1.5",
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9f/Corpuspolearm.png/revision/latest?cb=20140526165634",
         "speed": "0.917",
@@ -7297,7 +7297,7 @@
         "jump": "150",
         "wall": "125",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^shaku$",
@@ -7322,7 +7322,7 @@
         "jump": "110",
         "wall": "220",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^sheev$",
@@ -7336,7 +7336,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ed/GrineerCombatKnife.png/revision/latest?cb=20140918035807",
         "speed": "0.667",
@@ -7349,7 +7349,7 @@
         "jump": "90",
         "wall": "135",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^sibear$",
@@ -7363,7 +7363,7 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/78/IceHammer.png/revision/latest?cb=20160407005429",
         "speed": 1,
@@ -7373,7 +7373,7 @@
         "jump": "260",
         "wall": "260",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^sicarus$",
@@ -7387,7 +7387,7 @@
         "crit_mult": 2,
         "status_chance": 6,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/59/Sicarus.png/revision/latest?cb=20130426074741",
         "speed": "7.39",
@@ -7414,7 +7414,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d7/DESicarus_Prime.png/revision/latest?cb=20140124172933",
         "speed": "9.38",
@@ -7455,7 +7455,7 @@
         "jump": "120",
         "wall": "240",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^silva\\s&\\saegis$",
@@ -7479,7 +7479,7 @@
         "jump": "70heat",
         "wall": "140heat",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^silva\\s&\\saegis\\sprime$",
@@ -7493,9 +7493,9 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai",
-            "vazarin",
-            "vazarin"
+            "마두라이",
+            "바자린",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f7/SilvaAegisPrime.png/revision/latest?cb=20170530191856",
         "speed": "0.75",
@@ -7505,7 +7505,7 @@
         "jump": "240heat",
         "wall": "480heat",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^simulor$",
@@ -7516,8 +7516,8 @@
         "subtype": "소총",
         "riven_disposition": 1,
         "polarities": [
-            "vazarin",
-            "naramon"
+            "바자린",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9a/CephPrimary.png/revision/latest?cb=20150625220225",
         "speed": 2,
@@ -7556,7 +7556,7 @@
         "jump": "70",
         "wall": "140",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^skana\\sprime$",
@@ -7570,8 +7570,8 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/05/SkanaPrime.png/revision/latest?cb=20130426080650",
         "speed": 1,
@@ -7584,7 +7584,7 @@
         "jump": "84",
         "wall": "168",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^snipetron$",
@@ -7598,7 +7598,7 @@
         "crit_mult": "1.5",
         "status_chance": 12,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7a/Snipetron.png/revision/latest?cb=20130426074118",
         "speed": 2,
@@ -7626,7 +7626,7 @@
         "crit_mult": 2,
         "status_chance": 16,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/76/DESnipertronVandal.png/revision/latest?cb=20140116153507",
         "speed": 2,
@@ -7682,8 +7682,8 @@
         "crit_mult": 3,
         "status_chance": 7,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a5/U10DesignCouncilTennoAR.png/revision/latest?cb=20130914111405",
         "speed": 15,
@@ -7711,8 +7711,8 @@
         "crit_mult": 3,
         "status_chance": 10,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/PrimeSoma.png/revision/latest?cb=20141217030947",
         "speed": 15,
@@ -7739,7 +7739,7 @@
         "crit_chance": 0,
         "status_chance": 0,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a8/CrpAirPistolArray.png/revision/latest?cb=20151002090143",
         "speed": "1.25",
@@ -7793,8 +7793,8 @@
         "crit_mult": 2,
         "status_chance": 8,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c5/LiDagger.png/revision/latest?cb=20150924014336",
         "speed": "2.5",
@@ -7823,8 +7823,8 @@
         "crit_mult": 3,
         "status_chance": 14,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/02/PrimeLiDagger.png/revision/latest?cb=20160207121252",
         "speed": "3.33",
@@ -7853,7 +7853,7 @@
         "crit_mult": "2.2",
         "status_chance": 28,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/64/CrpElectroMag.png/revision/latest?cb=20160205013734",
         "speed": "3.5",
@@ -7903,8 +7903,8 @@
         "crit_mult": 2,
         "status_chance": 12,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8e/TennoTommyGun.png/revision/latest?cb=20160512010246",
         "speed": 10,
@@ -7931,7 +7931,7 @@
         "crit_mult": "1.5",
         "status_chance": 20,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/26/Strun.png/revision/latest?cb=20161125225500",
         "speed": "2.5",
@@ -7959,7 +7959,7 @@
         "crit_mult": "2.2",
         "status_chance": 40,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3b/WraithStrun.png/revision/latest?cb=20161125225323",
         "speed": "2.5",
@@ -8015,7 +8015,7 @@
         "crit_mult": "1.5",
         "status_chance": 0,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fc/GrineerCrossbowGooGun.png/revision/latest?cb=20140124172529",
         "speed": 4,
@@ -8068,8 +8068,8 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/15/SupraVandal.png/revision/latest?cb=20170504184740",
         "speed": "12.5",
@@ -8098,8 +8098,8 @@
         "crit_mult": "1.5",
         "status_chance": 14,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/25/DESentinelSweeper.png/revision/latest?cb=20140122154229",
         "speed": 1,
@@ -8126,7 +8126,7 @@
         "crit_mult": 2,
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/81/SentinelSweeperPrime.png/revision/latest?cb=20150707200907",
         "speed": 1,
@@ -8182,9 +8182,9 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "naramon",
-            "naramon",
-            "madurai"
+            "나라몬",
+            "나라몬",
+            "마두라이"
         ],
         "speed": "4.72",
         "ammo": 540,
@@ -8261,8 +8261,8 @@
         "crit_mult": 2,
         "status_chance": 28,
         "polarities": [
-            "vazarin",
-            "naramon"
+            "바자린",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3b/SynoidGammacor.png/revision/latest?cb=20141127183102",
         "speed": 12,
@@ -8300,7 +8300,7 @@
         "jump": "240",
         "wall": "240",
         "channeling": "1.8",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^synoid\\ssimulor$",
@@ -8311,9 +8311,9 @@
         "subtype": "소총",
         "riven_disposition": 1,
         "polarities": [
-            "madurai",
-            "vazarin",
-            "naramon"
+            "마두라이",
+            "바자린",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/09/SyndicateCSSimulor.png/revision/latest?cb=20150902215134",
         "speed": "2.67",
@@ -8339,8 +8339,8 @@
         "crit_mult": 2,
         "status_chance": 26,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c2/U18throwingknives.png/revision/latest?cb=20151204013310",
         "speed": "3.33",
@@ -8366,7 +8366,7 @@
         "crit_mult": 2,
         "status_chance": 10,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c1/BrawlerKnuckles.png/revision/latest?cb=20151002090142",
         "speed": "0.917",
@@ -8379,7 +8379,7 @@
         "jump": "45",
         "wall": "135",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^telos\\sakbolto$",
@@ -8393,8 +8393,8 @@
         "crit_mult": 2,
         "status_chance": 29,
         "polarities": [
-            "vazarin",
-            "naramon"
+            "바자린",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ec/AHAkbolto.png/revision/latest?cb=20141127181924",
         "speed": 10,
@@ -8435,7 +8435,7 @@
         "jump": "170",
         "wall": "340",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^telos\\sboltor$",
@@ -8449,8 +8449,8 @@
         "crit_mult": "2.4",
         "status_chance": 16,
         "polarities": [
-            "vazarin",
-            "madurai"
+            "바자린",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7c/SyndicateAHBoltor.png/revision/latest?cb=20150902215134",
         "speed": "9.33",
@@ -8589,8 +8589,8 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/PrimeTigris342.png/revision/latest?cb=20160820032128",
         "speed": 2,
@@ -8618,7 +8618,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/e5/Tipedo.png/revision/latest?cb=20150109200607",
         "speed": "1.33",
@@ -8644,7 +8644,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7b/FlowerPowerPolearm.png/revision/latest?cb=20150218211409",
         "speed": 1,
@@ -8739,7 +8739,7 @@
         "crit_mult": 2,
         "status_chance": 40,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/45/GrnDualFireAxe.png/revision/latest?cb=20151022005953",
         "speed": 1,
@@ -8762,7 +8762,7 @@
         "crit_mult": "2.7",
         "status_chance": 11,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f8/Akgrakata.png/revision/latest?cb=20150731174941",
         "speed": 20,
@@ -8790,7 +8790,7 @@
         "crit_mult": "1.5",
         "status_chance": 15,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/db/Gremlin.png/revision/latest?cb=20140314173236",
         "speed": 5,
@@ -8819,7 +8819,7 @@
         "crit_mult": 2,
         "status_chance": 23,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/de/DualKohmak.png/revision/latest?cb=20160502123410",
         "speed": "6.67",
@@ -8860,7 +8860,7 @@
         "jump": "140",
         "wall": "280",
         "channeling": "1.5",
-        "stancePolarity": "naramon"
+        "stancePolarity": "나라몬"
     },
     {
         "regex": "^twin\\srogga$",
@@ -8874,8 +8874,8 @@
         "crit_mult": 2,
         "status_chance": 33,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b0/GrnQueenGuardDualPistols.png/revision/latest?cb=20161113000420",
         "speed": "2.5",
@@ -8903,7 +8903,7 @@
         "crit_mult": "1.5",
         "status_chance": 11,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ed/Viper%2C_dual.png/revision/latest?cb=20130426075530",
         "speed": 25,
@@ -8931,7 +8931,7 @@
         "crit_mult": 2,
         "status_chance": 9,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a0/DEWraithTwinVipers.png/revision/latest?cb=20140124174609",
         "speed": 25,
@@ -8985,7 +8985,7 @@
         "crit_mult": "1.8",
         "status_chance": 8,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6b/Vasto.png/revision/latest?cb=20130803104340",
         "speed": 5,
@@ -9013,8 +9013,8 @@
         "crit_mult": "2.4",
         "status_chance": 22,
         "polarities": [
-            "madurai",
-            "madurai"
+            "마두라이",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f6/PrimeVasto.png/revision/latest?cb=20141217030947",
         "speed": "5.42",
@@ -9041,8 +9041,8 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "vazarin",
-            "madurai"
+            "바자린",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/df/SyndicateSMHek.png/revision/latest?cb=20150902215135",
         "speed": 3,
@@ -9070,8 +9070,8 @@
         "crit_mult": "1.5",
         "status_chance": 35,
         "polarities": [
-            "madurai",
-            "vazarin"
+            "마두라이",
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/SMMarelok.png/revision/latest?cb=20141127183101",
         "speed": 2,
@@ -9098,7 +9098,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7a/SMSydon.png/revision/latest?cb=20160916030245",
         "speed": "1.08",
@@ -9123,7 +9123,7 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/80/DEVectis.png/revision/latest?cb=20161125231122",
         "speed": "1.5",
@@ -9151,8 +9151,8 @@
         "crit_mult": 2,
         "status_chance": 30,
         "polarities": [
-            "madurai",
-            "naramon"
+            "마두라이",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/68/VectisPrime.png/revision/latest?cb=20161125231239",
         "speed": "2.67",
@@ -9215,7 +9215,7 @@
         "jump": "74",
         "wall": "111",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^venka\\sprime$",
@@ -9229,8 +9229,8 @@
         "crit_mult": "2.5",
         "status_chance": 15,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/12/VenkaPrime.png/revision/latest?cb=20161112234903",
         "speed": "1.05",
@@ -9243,7 +9243,7 @@
         "jump": "110",
         "wall": "165",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^veritux$",
@@ -9255,7 +9255,7 @@
         "crit_mult": "1.5",
         "status_chance": 10,
         "polarities": [
-            "vazarin"
+            "바자린"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/ArchSword.png/revision/latest?cb=20141024143613",
         "speed": "0.833",
@@ -9277,7 +9277,7 @@
         "crit_mult": "1.5",
         "status_chance": 11,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/99/Viper.png/revision/latest?cb=20130426074750",
         "speed": "14.38",
@@ -9305,7 +9305,7 @@
         "crit_mult": 2,
         "status_chance": 9,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/72/ViperWraith.png/revision/latest?cb=20180121144809",
         "speed": "14.38",
@@ -9333,7 +9333,7 @@
         "crit_mult": "1.6",
         "status_chance": 30,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/e8/GlassHammer.png/revision/latest?cb=20171017224241",
         "speed": "1.2",
@@ -9346,7 +9346,7 @@
         "jump": "200",
         "wall": "200",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^vulkar$",
@@ -9388,7 +9388,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b3/VulkarWraith.png/revision/latest?cb=20160209150222",
         "speed": 2,
@@ -9439,7 +9439,7 @@
         "crit_mult": 2,
         "status_chance": 20,
         "polarities": [
-            "naramon"
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/StalkerTwoGreatSword.png/revision/latest?cb=20151204013307",
         "speed": "0.917",
@@ -9452,7 +9452,7 @@
         "jump": "280",
         "wall": "280",
         "channeling": "1.5",
-        "stancePolarity": "vazarin"
+        "stancePolarity": "바자린"
     },
     {
         "regex": "^zakti$",
@@ -9466,8 +9466,8 @@
         "crit_mult": "1.5",
         "status_chance": 20,
         "polarities": [
-            "naramon",
-            "naramon"
+            "나라몬",
+            "나라몬"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/Zakti.png/revision/latest?cb=20170720170336",
         "speed": 5,
@@ -9495,7 +9495,7 @@
         "crit_mult": "2.5",
         "status_chance": 29,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4b/GrineerCannon.png/revision/latest?cb=20161117022350",
         "speed": "1.67",
@@ -9520,7 +9520,7 @@
         "crit_mult": 2,
         "status_chance": 25,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/90/SundialAxe.png/revision/latest?cb=20171031145300",
         "speed": "0.833",
@@ -9530,7 +9530,7 @@
         "jump": "260heat",
         "wall": "260heat",
         "channeling": "1.5",
-        "stancePolarity": "madurai"
+        "stancePolarity": "마두라이"
     },
     {
         "regex": "^zenith$",
@@ -9544,8 +9544,8 @@
         "crit_mult": 2,
         "status_chance": 34,
         "polarities": [
-            "naramon",
-            "madurai"
+            "나라몬",
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/10/SundialRifle.png/revision/latest?cb=20171031145242",
         "speed": "10.83",
@@ -9572,7 +9572,7 @@
         "crit_mult": 2,
         "status_chance": 35,
         "polarities": [
-            "madurai"
+            "마두라이"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/41/RepeatingCrossbow.png/revision/latest?cb=20160317010054",
         "speed": "4.17",
