@@ -246,7 +246,7 @@
         "projectile": "히트-스캔",
         "rate": "8.3",
         "damage": "60.0",
-        "trigger": "Burst",
+        "trigger": "점사",
         "impact": 9,
         "slash": 42,
         "puncture": 9
@@ -1486,7 +1486,7 @@
         "projectile": "투사체",
         "rate": "1.5",
         "damage": "7.0",
-        "trigger": "Burst",
+        "trigger": "점사",
         "impact": "0.7",
         "slash": "0.3",
         "puncture": 6
@@ -1966,7 +1966,7 @@
         "projectile": "히트스캔",
         "rate": "9.1",
         "damage": "200.0",
-        "trigger": "Burst",
+        "trigger": "점사",
         "impact": 66,
         "slash": 68,
         "puncture": 66
@@ -4576,7 +4576,7 @@
         "projectile": "히트-스캔",
         "rate": "4.4",
         "damage": "49.0",
-        "trigger": "Burst",
+        "trigger": "점사",
         "impact": "36.8",
         "slash": "6.1",
         "puncture": "6.1"
@@ -6374,7 +6374,7 @@
         "projectile": "투사체",
         "rate": "1.6",
         "damage": "10.0",
-        "trigger": "Burst",
+        "trigger": "점사",
         "impact": 1,
         "slash": "0.5",
         "puncture": "8.5"
