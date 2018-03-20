@@ -245,11 +245,11 @@
         "reload": "2.25",
         "projectile": "히트-스캔",
         "rate": "8.3",
-        "damage": "60.0",
-        "trigger": "점사",
-        "impact": 9,
-        "slash": 42,
-        "puncture": 9
+        "damage": "30.0",
+        "trigger": "Burst (2)",
+        "impact": "4.5",
+        "slash": 21,
+        "puncture": "4.5"
     },
     {
         "regex": "^aklato$",
@@ -1222,7 +1222,7 @@
         "riven_disposition": 2,
         "crit_chance": 12,
         "crit_mult": 2,
-        "status_chance": 32,
+        "status_chance": 34,
         "polarities": [
             "바자린",
             "마두라이"
@@ -3703,7 +3703,7 @@
         "slash": "4.5",
         "puncture": 36,
         "slide": "225",
-        "jump": "90",
+        "jump": "90undefined",
         "wall": "135",
         "channeling": "1.5",
         "stancePolarity": "나라몬"
@@ -5982,7 +5982,7 @@
             "나라몬",
             "마두라이"
         ],
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6b/TeshinGlaive.png/revision/latest?cb=20161113000421",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6b/TeshinGlaive.png/revision/latest?cb=20180314033633",
         "speed": "0.75",
         "rate": "0.8",
         "damage": "70.0",
