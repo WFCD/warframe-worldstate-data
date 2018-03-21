@@ -4639,7 +4639,7 @@
         "regex": "^kronen\\sprime$",
         "name": "Kronen Prime",
         "url": "http://warframe.wikia.com/wiki/Kronen_Prime",
-        "mr": 0,
+        "mr": 8,
         "type": "Melee",
         "subtype": "Tonfa",
         "riven_disposition": 5,
@@ -4647,7 +4647,8 @@
         "crit_mult": 2,
         "status_chance": 24,
         "polarities": [
-
+            "madurai",
+            "naramon"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f6/KronenPrime.png/revision/latest?cb=20180313200756",
         "speed": "1.17",
@@ -8580,7 +8581,7 @@
         "regex": "^tiberon\\sprime$",
         "name": "Tiberon Prime",
         "url": "http://warframe.wikia.com/wiki/Tiberon_Prime",
-        "mr": 0,
+        "mr": 14,
         "type": "Primary",
         "subtype": "Rifle",
         "riven_disposition": 5,
@@ -8588,7 +8589,9 @@
         "crit_mult": "3.4",
         "status_chance": 18,
         "polarities": [
-
+            "madurai",
+            "naramon",
+            "naramon"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/25/TiberonPrime.png/revision/latest?cb=20180313200757",
         "speed": "7.38",
