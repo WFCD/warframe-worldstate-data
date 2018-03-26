@@ -6540,9 +6540,9 @@
         "puncture": 5
     },
     {
-        "regex": "^machete$",
-        "name": "마체테",
-        "url": "http://warframe.wikia.com/wiki/Machete",
+        "regex": "^prisma\\smachete$",
+        "name": "Prisma Machete",
+        "url": "http://warframe.wikia.com/wiki/Prisma_Machete",
         "mr": 1,
         "type": "근접 무기",
         "subtype": "마체테",
