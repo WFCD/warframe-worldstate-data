@@ -246,7 +246,7 @@
         "projectile": "히트-스캔",
         "rate": "8.3",
         "damage": "30.0",
-        "trigger": "Burst (2)",
+        "trigger": "점사 (2)",
         "impact": "4.5",
         "slash": 21,
         "puncture": "4.5"
@@ -1601,7 +1601,7 @@
     },
     {
         "regex": "^carmine\\spenta$",
-        "name": "Carmine Penta",
+        "name": "카마인 펜타",
         "url": "http://warframe.wikia.com/wiki/Carmine_Penta",
         "mr": 6,
         "type": "주 무기",
@@ -1805,7 +1805,7 @@
     },
     {
         "regex": "^cernos\\sprime$",
-        "name": "Cernos Prime",
+        "name": "세르노스 프라임",
         "url": "http://warframe.wikia.com/wiki/Cernos_Prime",
         "mr": 12,
         "type": "주 무기",
@@ -1999,7 +1999,7 @@
     },
     {
         "regex": "^cyngas$",
-        "name": "Cyngas",
+        "name": "싱가스",
         "url": "http://warframe.wikia.com/wiki/Cyngas",
         "mr": 4,
         "type": "Arch-Gun",
@@ -2102,7 +2102,7 @@
     },
     {
         "regex": "^dark\\ssplit-sword\\s(dual\\sswords)$",
-        "name": "Dark Split-Sword (Dual Swords)",
+        "name": "다크 스플릿-소드 (쌍수 도검)",
         "url": "http://warframe.wikia.com/wiki/Dark_Split-Sword_(Dual_Swords)",
         "mr": 5,
         "type": "근접 무기",
@@ -2125,7 +2125,7 @@
     },
     {
         "regex": "^dark\\ssplit-sword\\s(heavy\\sblade)$",
-        "name": "Dark Split-Sword (Heavy Blade)",
+        "name": "다크 스플릿-소드(중 도검)",
         "url": "http://warframe.wikia.com/wiki/Dark_Split-Sword_(Heavy_Blade)",
         "mr": 5,
         "type": "근접 무기",
@@ -2195,7 +2195,7 @@
     },
     {
         "regex": "^deconstructor\\sprime$",
-        "name": "Deconstructor Prime",
+        "name": "디컨스트럭터 프라임",
         "url": "http://warframe.wikia.com/wiki/Deconstructor_Prime",
         "mr": 8,
         "type": "센티넬",
@@ -2307,7 +2307,7 @@
     },
     {
         "regex": "^destreza$",
-        "name": "Destreza",
+        "name": "데스트레자",
         "url": "http://warframe.wikia.com/wiki/Destreza",
         "mr": 7,
         "type": "근접 무기",
@@ -2462,7 +2462,7 @@
         "projectile": "히트-스캔",
         "rate": "4.2",
         "damage": "75.0",
-        "trigger": "Burst (2)",
+        "trigger": "점사 (2)",
         "impact": "22.5",
         "slash": "33.75",
         "puncture": "18.75"
@@ -2735,7 +2735,7 @@
     },
     {
         "regex": "^dual\\skamas\\sprime$",
-        "name": "Dual Kamas Prime",
+        "name": "듀얼 카마스 프라임",
         "url": "http://warframe.wikia.com/wiki/Dual_Kamas_Prime",
         "mr": 6,
         "type": "근접 무기",
@@ -2816,7 +2816,7 @@
     },
     {
         "regex": "^dual\\stoxocyst$",
-        "name": "Dual Toxocyst",
+        "name": "듀얼 톡소시스트",
         "url": "http://warframe.wikia.com/wiki/Dual_Toxocyst",
         "mr": 11,
         "type": "보조 무기",
@@ -2895,7 +2895,7 @@
     },
     {
         "regex": "^endura$",
-        "name": "Endura",
+        "name": "엔듀라",
         "url": "http://warframe.wikia.com/wiki/Endura",
         "mr": 7,
         "type": "근접 무기",
@@ -3000,7 +3000,7 @@
     },
     {
         "regex": "^euphona\\sprime$",
-        "name": "Euphona Prime",
+        "name": "유포나 프라임",
         "url": "http://warframe.wikia.com/wiki/Euphona_Prime",
         "mr": 14,
         "type": "보조 무기",
@@ -3187,7 +3187,7 @@
     },
     {
         "regex": "^fragor\\sprime$",
-        "name": "Fragor Prime",
+        "name": "프래거 프라임",
         "url": "http://warframe.wikia.com/wiki/Fragor_Prime",
         "mr": 7,
         "type": "근접 무기",
@@ -3351,7 +3351,7 @@
     },
     {
         "regex": "^galatine\\sprime$",
-        "name": "Galatine Prime",
+        "name": "갈라틴 프라임",
         "url": "http://warframe.wikia.com/wiki/Galatine_Prime",
         "mr": 13,
         "type": "근접 무기",
@@ -3624,7 +3624,7 @@
     },
     {
         "regex": "^grattler$",
-        "name": "Grattler",
+        "name": "그라틀러",
         "url": "http://warframe.wikia.com/wiki/Grattler",
         "mr": 0,
         "type": "Arch-Gun",
@@ -3704,7 +3704,7 @@
     },
     {
         "regex": "^gunsen$",
-        "name": "Gunsen",
+        "name": "군센",
         "url": "http://warframe.wikia.com/wiki/Gunsen",
         "mr": 10,
         "type": "근접 무기",
@@ -3760,7 +3760,7 @@
     },
     {
         "regex": "^harpak$",
-        "name": "Harpak",
+        "name": "하르팍",
         "url": "http://warframe.wikia.com/wiki/Harpak",
         "mr": 7,
         "type": "주 무기",
@@ -3898,7 +3898,7 @@
     },
     {
         "regex": "^heliocor$",
-        "name": "Heliocor",
+        "name": "헬리오코어",
         "url": "http://warframe.wikia.com/wiki/Heliocor",
         "mr": 9,
         "type": "근접 무기",
@@ -4090,7 +4090,7 @@
     },
     {
         "regex": "^ignis\\swraith$",
-        "name": "Ignis Wraith",
+        "name": "이그니스 레이스",
         "url": "http://warframe.wikia.com/wiki/Ignis_Wraith",
         "mr": 9,
         "type": "주 무기",
@@ -4373,7 +4373,7 @@
     },
     {
         "regex": "^kaszas$",
-        "name": "Kaszas",
+        "name": "카스자스",
         "url": "http://warframe.wikia.com/wiki/Kaszas",
         "mr": 0,
         "type": "아크윙-근접 무기",
@@ -4448,7 +4448,7 @@
     },
     {
         "regex": "^knell$",
-        "name": "Knell",
+        "name": "넬",
         "url": "http://warframe.wikia.com/wiki/Knell",
         "mr": 10,
         "type": "보조 무기",
@@ -4475,7 +4475,7 @@
     },
     {
         "regex": "^knux$",
-        "name": "Knux",
+        "name": "크눅스",
         "url": "http://warframe.wikia.com/wiki/Knux",
         "mr": 0,
         "type": "아크윙-근접 무기",
@@ -4522,7 +4522,7 @@
     },
     {
         "regex": "^kogake\\sprime$",
-        "name": "Kogake Prime",
+        "name": "코가케 프라임",
         "url": "http://warframe.wikia.com/wiki/Kogake_Prime",
         "mr": 10,
         "type": "근접 무기",
@@ -4688,7 +4688,7 @@
     },
     {
         "regex": "^kronen\\sprime$",
-        "name": "Kronen Prime",
+        "name": "크로넨 프라임",
         "url": "http://warframe.wikia.com/wiki/Kronen_Prime",
         "mr": 8,
         "type": "근접 무기",
@@ -4716,7 +4716,7 @@
     },
     {
         "regex": "^kulstar$",
-        "name": "Kulstar",
+        "name": "컬스타",
         "url": "http://warframe.wikia.com/wiki/Kulstar",
         "mr": 5,
         "type": "보조 무기",
@@ -4773,7 +4773,7 @@
     },
     {
         "regex": "^lacera$",
-        "name": "Lacera",
+        "name": "라세라",
         "url": "http://warframe.wikia.com/wiki/Lacera",
         "mr": 7,
         "type": "근접 무기",
@@ -4823,7 +4823,7 @@
     },
     {
         "regex": "^lanzo$",
-        "name": "Lanzo",
+        "name": "랜조",
         "url": "http://warframe.wikia.com/wiki/Lanzo",
         "mr": 0,
         "type": "Gear",
@@ -5088,7 +5088,7 @@
     },
     {
         "regex": "^lesion$",
-        "name": "Lesion",
+        "name": "리션",
         "url": "http://warframe.wikia.com/wiki/Lesion",
         "mr": 7,
         "type": "근접 무기",
@@ -5172,7 +5172,7 @@
     },
     {
         "regex": "^mk1-bo$",
-        "name": "MK1-Bo",
+        "name": "MK1-보",
         "url": "http://warframe.wikia.com/wiki/MK1-Bo",
         "mr": 0,
         "type": "근접 무기",
@@ -5197,7 +5197,7 @@
     },
     {
         "regex": "^mk1-braton$",
-        "name": "MK1-Braton",
+        "name": "MK1-브래튼",
         "url": "http://warframe.wikia.com/wiki/MK1-Braton",
         "mr": 0,
         "type": "주 무기",
@@ -5225,7 +5225,7 @@
     },
     {
         "regex": "^mk1-furax$",
-        "name": "MK1-Furax",
+        "name": "MK1-퓨랙스",
         "url": "http://warframe.wikia.com/wiki/MK1-Furax",
         "mr": 0,
         "type": "근접 무기",
@@ -5252,7 +5252,7 @@
     },
     {
         "regex": "^mk1-furis$",
-        "name": "MK1-Furis",
+        "name": "MK1-퓨리스",
         "url": "http://warframe.wikia.com/wiki/MK1-Furis",
         "mr": 0,
         "type": "보조 무기",
@@ -5280,7 +5280,7 @@
     },
     {
         "regex": "^mk1-kunai$",
-        "name": "MK1-Kunai",
+        "name": "MK1-쿠나이",
         "url": "http://warframe.wikia.com/wiki/MK1-Kunai",
         "mr": 0,
         "type": "보조 무기",
@@ -5310,7 +5310,7 @@
     },
     {
         "regex": "^mk1-paris$",
-        "name": "MK1-Paris",
+        "name": "MK1-패리스",
         "url": "http://warframe.wikia.com/wiki/MK1-Paris",
         "mr": 0,
         "type": "주 무기",
@@ -5337,7 +5337,7 @@
     },
     {
         "regex": "^mk1-strun$",
-        "name": "MK1-Strun",
+        "name": "MK1-스트런",
         "url": "http://warframe.wikia.com/wiki/MK1-Strun",
         "mr": 0,
         "type": "주 무기",
@@ -5473,7 +5473,7 @@
     },
     {
         "regex": "^mara\\sdetron$",
-        "name": "Mara Detron",
+        "name": "마라 데트론",
         "url": "http://warframe.wikia.com/wiki/Mara_Detron",
         "mr": 9,
         "type": "보조 무기",
@@ -5524,7 +5524,7 @@
     },
     {
         "regex": "^mios$",
-        "name": "Mios",
+        "name": "미오스",
         "url": "http://warframe.wikia.com/wiki/Mios",
         "mr": 8,
         "type": "근접 무기",
@@ -8270,7 +8270,7 @@
         "projectile": "히트-스캔",
         "rate": 4,
         "damage": "80.0",
-        "trigger": "Burst (2)",
+        "trigger": "점사 (2)",
         "impact": "26.4",
         "slash": "27.2",
         "puncture": "26.4"
@@ -8300,7 +8300,7 @@
         "projectile": "히트-스캔",
         "rate": "4.7",
         "damage": "87.9",
-        "trigger": "Burst (2)",
+        "trigger": "점사 (2)",
         "impact": 29,
         "slash": "29.9",
         "puncture": 29
