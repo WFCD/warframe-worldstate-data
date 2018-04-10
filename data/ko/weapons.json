@@ -6322,7 +6322,7 @@
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9e/InfestedLongGunTwo.png/revision/latest?cb=20140206061957",
         "speed": 12,
-        "ammo": 120,
+        "ammo": 720,
         "accuracy": 50,
         "magazine": 90,
         "reload": 2,
@@ -8681,6 +8681,7 @@
         "projectile": "히트-스캔",
         "rate": "7.4",
         "damage": "46.0",
+        "trigger": "Burst/Semi/Auto (3)",
         "impact": "13.8",
         "slash": "13.8",
         "puncture": "18.4"
