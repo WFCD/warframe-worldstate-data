@@ -56,7 +56,7 @@
 		{
 				"regex": "barrier",
 				"name": "Arcane Barrier",
-				"effect": "When DAMAGED, 1% / 2% / 3% / 4% chance to Full Shield Recovery",
+				"effect": "Sur réception de dégâts, 1% / 2% / 4% de chance de recharger instantanément le Bouclier",
 				"rarity": "Rare",
 				"location": "Changeant, vérifiez la table de drop",
 				"thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/c/c7/Arcane_Barrier_LQ.png/revision/latest/scale-to-width-down/75?cb=20151031165652",
@@ -65,7 +65,7 @@
 		{
 				"regex": "consequence",
 				"name": "Arcane Consequence",
-				"effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
+				"effect": "Sur tir à la tête, 25% / 50% / 75% / 100% chance d'améliorer de 10% / 20% / 30% / 40% la Visée planée / Prise murale pour 3 / 6 / 9 / 12 Secondes",
 				"rarity": "Peu commun",
 				"location": "Changeant, vérifiez la table de drop",
 				"thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/8/82/Arcane_Consequence_160.png/revision/latest/scale-to-width-down/75?cb=20151031215624",
@@ -74,7 +74,7 @@
 		{
 				"regex": "deflection",
 				"name": "Arcane Deflection",
-				"effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
+				"effect": "20 % / 40 % / 60 % / 80 % chance de résister à un effet de status Tranchant",
 				"rarity": "Rare",
 				"location": "Changeant, vérifiez la table de drop",
 				"thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/b/b1/Arcane_Deflection_160.png/revision/latest/scale-to-width-down/75?cb=20150414010409",
@@ -83,7 +83,7 @@
 		{
 				"regex": "energize",
 				"name": "Arcane Energize",
-				"effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
+				"effect": "Sur énergie ramassée, 10% / 20% / 30% / 40% de chance de donner 25 / 50 / 75 / 100 d'énergie aux alliés proche à moins de 5 / 10 / 15 / 20 Mètres",
 				"rarity": "Rare",
 				"location": "Changeant, vérifiez la table de drop",
 				"thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e3/Arcane_Energize_160.png/revision/latest/scale-to-width-down/75?cb=20151102150026",
@@ -92,7 +92,7 @@
 		{
 				"regex": "eruption",
 				"name": "Arcane Eruption",
-				"effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
+				"effect": "Sur énergie ramassée, 5% / 10% / 15% / 20% de chance de Renverser les Ennemis proches à moins de 5 / 10 / 15 / 20 Mètres",
 				"rarity": "Peu commun",
 				"location": "Changeant, vérifiez la table de drop",
 				"thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/2/2d/Arcane_Eruption_160.png/revision/latest/scale-to-width-down/75?cb=20150404083642",
