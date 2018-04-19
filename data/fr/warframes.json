@@ -353,6 +353,25 @@
     "color": 9652786
   },
   {
+    "regex": "khora",
+    "name": "Khora",
+    "url": "https://youtu.be/",
+    "health": "0/0",
+    "shield": "0/0",
+    "armor": "0",
+    "power": "0",
+    "speed": "0",
+    "polarities": [
+
+    ],
+    "aura": "",
+    "description": "This is Khora.\n_Lotus_",
+    "info": "http://warframe.wikia.com/wiki/Khora",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/08/Khora.png/revision/latest/scale-to-width-down/338?cb=20171103223423",
+    "location": "Cephalon Onslaught",
+    "color": 8361099
+  },
+  {
     "regex": "limbo",
     "name": "Limbo",
     "url": "https://youtu.be/Yaj_FuKkGWM",
