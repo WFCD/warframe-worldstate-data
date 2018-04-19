@@ -15,7 +15,7 @@ const upgradeTypes = require("./data/upgradeTypes.json");
 const warframes = require("./data/warframes.json");
 const weapons = require("./data/weapons.json");
 
-const en_US = {
+const enUS = {
   arcanes,
   conclave,
   events,
@@ -37,14 +37,12 @@ const en_US = {
 };
 
 module.exports = {
-  en_US,
+  "en_US": enUs,
   arcanes,
   conclave,
   events,
   factions,
   fissureModifiers,
-  languages,
-  missionTypes,
   languages,
   missionTypes,
   operationTypes,
