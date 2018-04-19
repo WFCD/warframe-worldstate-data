@@ -23,8 +23,6 @@ const enUS = {
   fissureModifiers,
   languages,
   missionTypes,
-  languages,
-  missionTypes,
   operationTypes,
   persistentEnemy,
   solNodes,
@@ -37,7 +35,7 @@ const enUS = {
 };
 
 module.exports = {
-  "en_US": enUs,
+  "en_US": enUS,
   arcanes,
   conclave,
   events,
