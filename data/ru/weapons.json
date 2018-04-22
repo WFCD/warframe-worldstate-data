@@ -2864,6 +2864,7 @@
         "mr": 7,
         "type": "Melee",
         "subtype": "Dual Swords",
+        "riven_disposition": 5,
         "crit_chance": 28,
         "crit_mult": "2.6",
         "status_chance": 14,
@@ -4254,6 +4255,7 @@
         "mr": 7,
         "type": "Secondary",
         "subtype": "Pistol",
+        "riven_disposition": 3,
         "crit_chance": 24,
         "crit_mult": "2.2",
         "status_chance": 10,
@@ -4262,6 +4264,7 @@
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/Hystrix.png/revision/latest?cb=20180417184116",
         "speed": 7,
+        "ammo": 320,
         "accuracy": "14.3",
         "magazine": 16,
         "reload": "1.7",
@@ -4272,6 +4275,16 @@
         "impact": "2.2",
         "slash": "2.9",
         "puncture": 31,
+        "secondary": {
+            "name": "Fire/Electric Quill",
+            "crit_chance": 24,
+            "crit_mult": "2.2",
+            "status_chance": "0.1",
+            "shot_type": "Projectile",
+            "impact": "2.4",
+            "slash": "3.2",
+            "puncture": "34.4"
+        },
         "flight": "???"
     },
     {
