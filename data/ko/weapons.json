@@ -705,7 +705,7 @@
         "reload": "2.8",
         "projectile": "투사체",
         "rate": "1.1",
-        "damage": "600.0 radiation",
+        "damage": "600.0 방사능",
         "trigger": "반-자동",
         "radiation": 600,
         "flight": "???"
@@ -793,7 +793,7 @@
         "slash": "26.2",
         "puncture": "6.3",
         "secondary": {
-            "name": "Semi-Auto Mode",
+            "name": "반-자동 모드",
             "speed": "4.33",
             "crit_chance": 27,
             "crit_mult": "2.3",
@@ -825,7 +825,7 @@
         "reload": "1.5",
         "projectile": "디스차지",
         "rate": 1,
-        "damage": "5.0 cold",
+        "damage": "5.0 냉기",
         "trigger": "Held",
         "cold": 5
     },
@@ -880,7 +880,7 @@
         "reload": 2,
         "projectile": "디스차지",
         "rate": 8,
-        "damage": "29.0 heat",
+        "damage": "29.0 화염",
         "trigger": "Held",
         "heat": 29
     },
@@ -3466,7 +3466,7 @@
         "slash": "46.2",
         "puncture": "30.8",
         "secondary": {
-            "name": "Semi-Auto Mode",
+            "name": "반-자동 모드",
             "speed": "1.5",
             "crit_chance": 3,
             "crit_mult": "1.5",
@@ -4210,7 +4210,7 @@
         "slash": 15,
         "puncture": "7.5",
         "secondary": {
-            "name": "Semi-Auto Mode",
+            "name": "반-자동 모드",
             "speed": "2.5",
             "crit_chance": 15,
             "crit_mult": 2,
@@ -8424,7 +8424,7 @@
         "slash": "8.4",
         "puncture": "9.8",
         "secondary": {
-            "name": "Semi-Auto Mode",
+            "name": "반-자동 모드",
             "speed": 5,
             "crit_chance": 28,
             "crit_mult": 2,
@@ -10202,7 +10202,7 @@
         "slash": "19.5",
         "puncture": 6,
         "secondary": {
-            "name": "Semi-Auto Mode",
+            "name": "반-자동 모드",
             "speed": 3,
             "crit_chance": 35,
             "crit_mult": "2.5",
