@@ -271,7 +271,7 @@
 		},
 		{
 				"regex": "vigor",
-				"name": "Magus Vigor",
+				"name": "마구스 비거",
 				"effect": "50 / 100 / 150 / 200 Increased Health",
 				"rarity": "언커먼",
 				"location": "퀼",
@@ -307,7 +307,7 @@
 		},
 		{
 				"regex": "replenish",
-				"name": "Magus Replenish",
+				"name": "마구스 리플레니쉬",
 				"effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
 				"rarity": "언커먼",
 				"location": "퀼",
@@ -316,7 +316,7 @@
 		},
 		{
 				"regex": "elevate",
-				"name": "Magus Elevate",
+				"name": "마구스 엘레베이트",
 				"effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
 				"rarity": "언커먼",
 				"location": "퀼",
@@ -325,7 +325,7 @@
 		},
 		{
 				"regex": "nourish",
-				"name": "Magus Nourish",
+				"name": "마구스 노리쉬",
 				"effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
 				"rarity": "언커먼",
 				"location": "퀼",
@@ -334,7 +334,7 @@
 		},
 		{
 				"regex": "null",
-				"name": "Virtuos Null",
+				"name": "버츄오스 널",
 				"effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
 				"rarity": "언커먼",
 				"location": "퀼",
@@ -343,7 +343,7 @@
 		},
 		{
 				"regex": "tempo",
-				"name": "Virtuos Tempo",
+				"name": "버츄오스 템포",
 				"effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
 				"rarity": "언커먼",
 				"location": "퀼",
@@ -352,7 +352,7 @@
 		},
 		{
 				"regex": "fury",
-				"name": "Virtuos Fury",
+				"name": "버츄오스 퓨리",
 				"effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
 				"rarity": "언커먼",
 				"location": "퀼",
@@ -361,7 +361,7 @@
 		},
 		{
 				"regex": "strike",
-				"name": "Virtuos Strike",
+				"name": "버츄오스 스트라이크",
 				"effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
 				"rarity": "언커먼",
 				"location": "퀼",
