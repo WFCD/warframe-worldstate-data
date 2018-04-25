@@ -1,4 +1,10 @@
 {
+  "/ee/types/engine/mover": {
+    "value": "Mover"
+  },
+  "/lotus/characters/sentient/hunhow/hunhowpieces/hunhowhipswreckagequest": {
+    "value": "Hunhow Hips Wreckage Quest"
+  },
   "/lotus/characters/tenno/accessory/scarves/grnbannerscarf/grnbannerscarfitem": {
     "value": "뱅퀴시드 배너"
   },
@@ -29,6 +35,24 @@
   "/lotus/language/alerts/assassinationdesc1": {
     "value": "적 요인 위치가 확인됨"
   },
+  "/lotus/language/alerts/assassinationdesc10": {
+    "value": "적 정보장교 위치가 확인됨"
+  },
+  "/lotus/language/alerts/assassinationdesc11": {
+    "value": "적 정예부대 위치가 확인됨"
+  },
+  "/lotus/language/alerts/assassinationdesc12": {
+    "value": "적 특사 위치가 확인됨"
+  },
+  "/lotus/language/alerts/assassinationdesc13": {
+    "value": "적 로봇 원형 모델의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/assassinationdesc14": {
+    "value": "적 장교 위치가 확인됨"
+  },
+  "/lotus/language/alerts/assassinationdesc15": {
+    "value": "적 저격수 위치가 확인됨"
+  },
   "/lotus/language/alerts/assassinationdesc2": {
     "value": "적 함선 지휘관 위치가 확인됨"
   },
@@ -53,26 +77,26 @@
   "/lotus/language/alerts/assassinationdesc9": {
     "value": "적 첩보원 위치가 확인됨"
   },
-  "/lotus/language/alerts/assassinationdesc10": {
-    "value": "적 정보장교 위치가 확인됨"
-  },
-  "/lotus/language/alerts/assassinationdesc11": {
-    "value": "적 정예부대 위치가 확인됨"
-  },
-  "/lotus/language/alerts/assassinationdesc12": {
-    "value": "적 특사 위치가 확인됨"
-  },
-  "/lotus/language/alerts/assassinationdesc13": {
-    "value": "적 로봇 원형 모델의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/assassinationdesc14": {
-    "value": "적 장교 위치가 확인됨"
-  },
-  "/lotus/language/alerts/assassinationdesc15": {
-    "value": "적 저격수 위치가 확인됨"
-  },
   "/lotus/language/alerts/capturedesc1": {
     "value": "탈주자의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/capturedesc10": {
+    "value": "적 연구원 위치가 확인됨"
+  },
+  "/lotus/language/alerts/capturedesc11": {
+    "value": "적 무기상인 위치가 확인됨"
+  },
+  "/lotus/language/alerts/capturedesc12": {
+    "value": "적 공모자 위치가 확인됨"
+  },
+  "/lotus/language/alerts/capturedesc13": {
+    "value": "유물 사냥꾼의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/capturedesc14": {
+    "value": "적 운반책 위치가 확인됨"
+  },
+  "/lotus/language/alerts/capturedesc15": {
+    "value": "적 첩보원을 생포한 뒤 심문할 것"
   },
   "/lotus/language/alerts/capturedesc2": {
     "value": "적 첩보원 위치가 확인됨"
@@ -98,53 +122,11 @@
   "/lotus/language/alerts/capturedesc9": {
     "value": "연구시설 감독의 위치가 확인됨"
   },
-  "/lotus/language/alerts/capturedesc10": {
-    "value": "적 연구원 위치가 확인됨"
-  },
-  "/lotus/language/alerts/capturedesc11": {
-    "value": "적 무기상인 위치가 확인됨"
-  },
-  "/lotus/language/alerts/capturedesc12": {
-    "value": "적 공모자 위치가 확인됨"
-  },
-  "/lotus/language/alerts/capturedesc13": {
-    "value": "유물 사냥꾼의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/capturedesc14": {
-    "value": "적 운반책 위치가 확인됨"
-  },
-  "/lotus/language/alerts/capturedesc15": {
-    "value": "적 첩보원을 생포한 뒤 심문할 것"
-  },
   "/lotus/language/alerts/corpuslootship": {
     "value": "코퍼스 보물 수송선의 위치가 확인됨"
   },
   "/lotus/language/alerts/counterinteldesc1": {
     "value": "네트워크 취약점이 감지됨"
-  },
-  "/lotus/language/alerts/counterinteldesc2": {
-    "value": "적 통신기지의 취약점이 감지됨"
-  },
-  "/lotus/language/alerts/counterinteldesc3": {
-    "value": "적 함선의 경로를 돌릴 것"
-  },
-  "/lotus/language/alerts/counterinteldesc4": {
-    "value": "컴퓨터 코어에 손상된 정보를 전송할 것"
-  },
-  "/lotus/language/alerts/counterinteldesc5": {
-    "value": "방첩정보를 적 위성에 업로드할 것"
-  },
-  "/lotus/language/alerts/counterinteldesc6": {
-    "value": "적 함선의 항법 시스템을 재설정할 것"
-  },
-  "/lotus/language/alerts/counterinteldesc7": {
-    "value": "적 함선의 무기체계를 재설정할 것"
-  },
-  "/lotus/language/alerts/counterinteldesc8": {
-    "value": "적 함선의 목표지정 시스템을 재설정할 것"
-  },
-  "/lotus/language/alerts/counterinteldesc9": {
-    "value": "적 함선의 통신체계를 재설정할 것"
   },
   "/lotus/language/alerts/counterinteldesc10": {
     "value": "적 통신위성의 취약점이 감지됨"
@@ -176,6 +158,9 @@
   "/lotus/language/alerts/counterinteldesc19": {
     "value": "함선의 네트워크 프로토콜을 손상시킬 것"
   },
+  "/lotus/language/alerts/counterinteldesc2": {
+    "value": "적 통신기지의 취약점이 감지됨"
+  },
   "/lotus/language/alerts/counterinteldesc20": {
     "value": "시설의 네트워크 프로토콜을 손상시킬 것"
   },
@@ -194,6 +179,27 @@
   "/lotus/language/alerts/counterinteldesc25": {
     "value": "로봇 원형 모델 자료를 손상시킬 것"
   },
+  "/lotus/language/alerts/counterinteldesc3": {
+    "value": "적 함선의 경로를 돌릴 것"
+  },
+  "/lotus/language/alerts/counterinteldesc4": {
+    "value": "컴퓨터 코어에 손상된 정보를 전송할 것"
+  },
+  "/lotus/language/alerts/counterinteldesc5": {
+    "value": "방첩정보를 적 위성에 업로드할 것"
+  },
+  "/lotus/language/alerts/counterinteldesc6": {
+    "value": "적 함선의 항법 시스템을 재설정할 것"
+  },
+  "/lotus/language/alerts/counterinteldesc7": {
+    "value": "적 함선의 무기체계를 재설정할 것"
+  },
+  "/lotus/language/alerts/counterinteldesc8": {
+    "value": "적 함선의 목표지정 시스템을 재설정할 것"
+  },
+  "/lotus/language/alerts/counterinteldesc9": {
+    "value": "적 함선의 통신체계를 재설정할 것"
+  },
   "/lotus/language/alerts/darvomobiledefensedesc": {
     "value": "독립 '상인' 다르보는 위험한 자들을 도발해버린 뒤 숨을 수 밖에 없었습니다. 현재 다르보는 다시 정상적으로 사업을 하기 위해 당신의 도움을 필요로 합니다."
   },
@@ -205,30 +211,6 @@
   },
   "/lotus/language/alerts/defensedesc1": {
     "value": "화물선을 기습할 것"
-  },
-  "/lotus/language/alerts/defensedesc2": {
-    "value": "연구시설을 기습할 것"
-  },
-  "/lotus/language/alerts/defensedesc3": {
-    "value": "채굴시설을 기습할 것"
-  },
-  "/lotus/language/alerts/defensedesc4": {
-    "value": "정보를 전송하는 동안 정보 코어를 사수할 것"
-  },
-  "/lotus/language/alerts/defensedesc5": {
-    "value": "워프레임을 확보할 것"
-  },
-  "/lotus/language/alerts/defensedesc6": {
-    "value": "적들에 대한 정보 제공자를 확보할 것"
-  },
-  "/lotus/language/alerts/defensedesc7": {
-    "value": "텐노 첩보원을 확보할 것"
-  },
-  "/lotus/language/alerts/defensedesc8": {
-    "value": "함선 내 화물의 안전을 확보할 것"
-  },
-  "/lotus/language/alerts/defensedesc9": {
-    "value": "지원군이 도착할 때까지 버텨낼 것"
   },
   "/lotus/language/alerts/defensedesc10": {
     "value": "적 연구실을 사수할 것"
@@ -263,14 +245,56 @@
   "/lotus/language/alerts/defensedesc19": {
     "value": "중요 정보를 보호할 것"
   },
+  "/lotus/language/alerts/defensedesc2": {
+    "value": "연구시설을 기습할 것"
+  },
   "/lotus/language/alerts/defensedesc20": {
     "value": "컴퓨터 코어의 안전을 확보할 것"
   },
   "/lotus/language/alerts/defensedesc21": {
     "value": "연구 자료의 보안을 유지할 것"
   },
+  "/lotus/language/alerts/defensedesc3": {
+    "value": "채굴시설을 기습할 것"
+  },
+  "/lotus/language/alerts/defensedesc4": {
+    "value": "정보를 전송하는 동안 정보 코어를 사수할 것"
+  },
+  "/lotus/language/alerts/defensedesc5": {
+    "value": "워프레임을 확보할 것"
+  },
+  "/lotus/language/alerts/defensedesc6": {
+    "value": "적들에 대한 정보 제공자를 확보할 것"
+  },
+  "/lotus/language/alerts/defensedesc7": {
+    "value": "텐노 첩보원을 확보할 것"
+  },
+  "/lotus/language/alerts/defensedesc8": {
+    "value": "함선 내 화물의 안전을 확보할 것"
+  },
+  "/lotus/language/alerts/defensedesc9": {
+    "value": "지원군이 도착할 때까지 버텨낼 것"
+  },
   "/lotus/language/alerts/exterminationdesc1": {
     "value": "텐노의 조난신호가 감지됨"
+  },
+  "/lotus/language/alerts/exterminationdesc10": {
+    "value": "유물 복원 부대의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/exterminationdesc11": {
+    "value": "적 특공대 위치가 확인됨"
+  },
+  "/lotus/language/alerts/exterminationdesc12": {
+    "value": "적을 제거하고 함선을 확보할 것"
+  },
+  "/lotus/language/alerts/exterminationdesc13": {
+    "value": "적의 기습 공격을 물리칠 것"
+  },
+  "/lotus/language/alerts/exterminationdesc14": {
+    "value": "저항군을 제거할 것"
+  },
+  "/lotus/language/alerts/exterminationdesc15": {
+    "value": "발굴현장의 안전을 확보할 것"
   },
   "/lotus/language/alerts/exterminationdesc2": {
     "value": "정체불명의 조난신호가 감지됨"
@@ -296,24 +320,6 @@
   "/lotus/language/alerts/exterminationdesc9": {
     "value": "적 정찰병 위치가 확인됨"
   },
-  "/lotus/language/alerts/exterminationdesc10": {
-    "value": "유물 복원 부대의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/exterminationdesc11": {
-    "value": "적 특공대 위치가 확인됨"
-  },
-  "/lotus/language/alerts/exterminationdesc12": {
-    "value": "적을 제거하고 함선을 확보할 것"
-  },
-  "/lotus/language/alerts/exterminationdesc13": {
-    "value": "적의 기습 공격을 물리칠 것"
-  },
-  "/lotus/language/alerts/exterminationdesc14": {
-    "value": "저항군을 제거할 것"
-  },
-  "/lotus/language/alerts/exterminationdesc15": {
-    "value": "발굴현장의 안전을 확보할 것"
-  },
   "/lotus/language/alerts/grineerlootship": {
     "value": "그리니어 보물 수송선의 위치가 확인됨"
   },
@@ -322,30 +328,6 @@
   },
   "/lotus/language/alerts/inteldesc1": {
     "value": "연구 시설이 발견됨"
-  },
-  "/lotus/language/alerts/inteldesc2": {
-    "value": "유물 연구시설이 발견됨"
-  },
-  "/lotus/language/alerts/inteldesc3": {
-    "value": "무기 연구시설이 발견됨"
-  },
-  "/lotus/language/alerts/inteldesc4": {
-    "value": "채굴 연구소가 발견됨"
-  },
-  "/lotus/language/alerts/inteldesc5": {
-    "value": "정보 수집함이 발견됨"
-  },
-  "/lotus/language/alerts/inteldesc6": {
-    "value": "적의 함선이 발견됨"
-  },
-  "/lotus/language/alerts/inteldesc7": {
-    "value": "시제품 병기의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/inteldesc8": {
-    "value": "무기 연구자료의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/inteldesc9": {
-    "value": "함선의 기록을 확보할 것"
   },
   "/lotus/language/alerts/inteldesc10": {
     "value": "보안일지를 확보할 것"
@@ -377,6 +359,9 @@
   "/lotus/language/alerts/inteldesc19": {
     "value": "난파된 함선을 조사할 것"
   },
+  "/lotus/language/alerts/inteldesc2": {
+    "value": "유물 연구시설이 발견됨"
+  },
   "/lotus/language/alerts/inteldesc20": {
     "value": "비밀기지를 탐사할 것"
   },
@@ -406,6 +391,9 @@
   },
   "/lotus/language/alerts/inteldesc29": {
     "value": "적의 기지 위치가 확인됨"
+  },
+  "/lotus/language/alerts/inteldesc3": {
+    "value": "무기 연구시설이 발견됨"
   },
   "/lotus/language/alerts/inteldesc30": {
     "value": "적의 소행성 기지 위치가 확인됨"
@@ -437,6 +425,9 @@
   "/lotus/language/alerts/inteldesc39": {
     "value": "적의 생산시설 위치가 확인됨"
   },
+  "/lotus/language/alerts/inteldesc4": {
+    "value": "채굴 연구소가 발견됨"
+  },
   "/lotus/language/alerts/inteldesc40": {
     "value": "복제 연구시설의 위치가 확인됨"
   },
@@ -461,6 +452,21 @@
   "/lotus/language/alerts/inteldesc47": {
     "value": "적의 전초기지를 조사할 것"
   },
+  "/lotus/language/alerts/inteldesc5": {
+    "value": "정보 수집함이 발견됨"
+  },
+  "/lotus/language/alerts/inteldesc6": {
+    "value": "적의 함선이 발견됨"
+  },
+  "/lotus/language/alerts/inteldesc7": {
+    "value": "시제품 병기의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/inteldesc8": {
+    "value": "무기 연구자료의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/inteldesc9": {
+    "value": "함선의 기록을 확보할 것"
+  },
   "/lotus/language/alerts/lotusgiftdesc": {
     "value": "로터스의 선물"
   },
@@ -472,30 +478,6 @@
   },
   "/lotus/language/alerts/raiddesc1": {
     "value": "무기 창고가 발견됨"
-  },
-  "/lotus/language/alerts/raiddesc2": {
-    "value": "유물 창고가 발견됨"
-  },
-  "/lotus/language/alerts/raiddesc3": {
-    "value": "루비도 창고가 발견됨"
-  },
-  "/lotus/language/alerts/raiddesc4": {
-    "value": "광업소가 발견됨"
-  },
-  "/lotus/language/alerts/raiddesc5": {
-    "value": "적의 정보 수집함이 발견됨"
-  },
-  "/lotus/language/alerts/raiddesc6": {
-    "value": "보급 창고의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/raiddesc7": {
-    "value": "병기 창고가 발견됨"
-  },
-  "/lotus/language/alerts/raiddesc8": {
-    "value": "적의 보급선이 발견됨"
-  },
-  "/lotus/language/alerts/raiddesc9": {
-    "value": "암시장 상선이 발견됨"
   },
   "/lotus/language/alerts/raiddesc10": {
     "value": "무역선이 발견됨"
@@ -527,6 +509,9 @@
   "/lotus/language/alerts/raiddesc19": {
     "value": "비밀 기지가 발견됨"
   },
+  "/lotus/language/alerts/raiddesc2": {
+    "value": "유물 창고가 발견됨"
+  },
   "/lotus/language/alerts/raiddesc20": {
     "value": "비밀 소행성 기지가 발견됨"
   },
@@ -539,8 +524,44 @@
   "/lotus/language/alerts/raiddesc23": {
     "value": "무기 시험 설비가 발견됨"
   },
+  "/lotus/language/alerts/raiddesc3": {
+    "value": "루비도 창고가 발견됨"
+  },
+  "/lotus/language/alerts/raiddesc4": {
+    "value": "광업소가 발견됨"
+  },
+  "/lotus/language/alerts/raiddesc5": {
+    "value": "적의 정보 수집함이 발견됨"
+  },
+  "/lotus/language/alerts/raiddesc6": {
+    "value": "보급 창고의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/raiddesc7": {
+    "value": "병기 창고가 발견됨"
+  },
+  "/lotus/language/alerts/raiddesc8": {
+    "value": "적의 보급선이 발견됨"
+  },
+  "/lotus/language/alerts/raiddesc9": {
+    "value": "암시장 상선이 발견됨"
+  },
   "/lotus/language/alerts/rescuedesc1": {
     "value": "인질극이 벌어짐"
+  },
+  "/lotus/language/alerts/rescuedesc10": {
+    "value": "무기 연구원의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/rescuedesc11": {
+    "value": "조난 신호의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/rescuedesc12": {
+    "value": "외국 사절의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/rescuedesc13": {
+    "value": "무기 밀매상의 위치가 확인됨"
+  },
+  "/lotus/language/alerts/rescuedesc14": {
+    "value": "피랍된 민간인의 위치가 확인됨"
   },
   "/lotus/language/alerts/rescuedesc2": {
     "value": "적에 대한 정보 제공자 위치가 확인됨"
@@ -566,47 +587,8 @@
   "/lotus/language/alerts/rescuedesc9": {
     "value": "적 특사 위치가 확인됨"
   },
-  "/lotus/language/alerts/rescuedesc10": {
-    "value": "무기 연구원의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/rescuedesc11": {
-    "value": "조난 신호의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/rescuedesc12": {
-    "value": "외국 사절의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/rescuedesc13": {
-    "value": "무기 밀매상의 위치가 확인됨"
-  },
-  "/lotus/language/alerts/rescuedesc14": {
-    "value": "피랍된 민간인의 위치가 확인됨"
-  },
   "/lotus/language/alerts/sabotagedesc1": {
     "value": "적의 수송차량이 발견됨"
-  },
-  "/lotus/language/alerts/sabotagedesc2": {
-    "value": "적의 연구시설이 발견됨"
-  },
-  "/lotus/language/alerts/sabotagedesc3": {
-    "value": "무기 창고가 발견됨"
-  },
-  "/lotus/language/alerts/sabotagedesc4": {
-    "value": "적 전함을 무력화시킬 것"
-  },
-  "/lotus/language/alerts/sabotagedesc5": {
-    "value": "적 수송차량을 파괴할 것"
-  },
-  "/lotus/language/alerts/sabotagedesc6": {
-    "value": "적의 시설을 파괴할 것"
-  },
-  "/lotus/language/alerts/sabotagedesc7": {
-    "value": "통신소를 파괴할 것"
-  },
-  "/lotus/language/alerts/sabotagedesc8": {
-    "value": "적의 방어막을 해제할 것"
-  },
-  "/lotus/language/alerts/sabotagedesc9": {
-    "value": "터렛의 작동을 정지시킬 것"
   },
   "/lotus/language/alerts/sabotagedesc10": {
     "value": "적의 통신위성 위치가 확인됨"
@@ -638,6 +620,9 @@
   "/lotus/language/alerts/sabotagedesc19": {
     "value": "적의 위성을 무력화시킬 것"
   },
+  "/lotus/language/alerts/sabotagedesc2": {
+    "value": "적의 연구시설이 발견됨"
+  },
   "/lotus/language/alerts/sabotagedesc20": {
     "value": "항로 표지를 무력화시킬 것"
   },
@@ -668,6 +653,27 @@
   "/lotus/language/alerts/sabotagedesc29": {
     "value": "탄약 은닉처를 파괴할 것"
   },
+  "/lotus/language/alerts/sabotagedesc3": {
+    "value": "무기 창고가 발견됨"
+  },
+  "/lotus/language/alerts/sabotagedesc4": {
+    "value": "적 전함을 무력화시킬 것"
+  },
+  "/lotus/language/alerts/sabotagedesc5": {
+    "value": "적 수송차량을 파괴할 것"
+  },
+  "/lotus/language/alerts/sabotagedesc6": {
+    "value": "적의 시설을 파괴할 것"
+  },
+  "/lotus/language/alerts/sabotagedesc7": {
+    "value": "통신소를 파괴할 것"
+  },
+  "/lotus/language/alerts/sabotagedesc8": {
+    "value": "적의 방어막을 해제할 것"
+  },
+  "/lotus/language/alerts/sabotagedesc9": {
+    "value": "터렛의 작동을 정지시킬 것"
+  },
   "/lotus/language/alerts/savedarvotitle": {
     "value": "코퍼스의 역습"
   },
@@ -676,6 +682,12 @@
   },
   "/lotus/language/alerts/survivaldesc1long": {
     "value": "적들을 처치하여 드롭되는 산소통을 모으고, 시간마다 보급되는 생명 유지장치를 사용하여 산소를 채우며 계속해서 주의를 끄세요."
+  },
+  "/lotus/language/bosses/bossthejackal": {
+    "value": "Boss The Jackal"
+  },
+  "/lotus/language/bosses/bosstylregor": {
+    "value": "Boss Tyl Regor"
   },
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "로터스의 선물 - 도난당함!"
@@ -789,17 +801,65 @@
     "desc": "그리니어의 손에서 탈주자들을 해방시킨 일을 기념하는 시질입니다.",
     "value": "라툼 시질"
   },
+  "/lotus/objects/crpmegaexplodingbarrel": {
+    "value": "Crp Mega Exploding Barrel"
+  },
+  "/lotus/objects/explodingbarrelfrozen": {
+    "value": "Exploding Barrel Frozen"
+  },
+  "/lotus/objects/gameplay/orofusexadeco": {
+    "value": "Oro Fusex A Deco"
+  },
+  "/lotus/objects/gameplay/orofusexbdeco": {
+    "value": "Oro Fusex B Deco"
+  },
+  "/lotus/objects/grineer/props/computers/grnpanelablackdeco": {
+    "value": "Grn Panel A Black Deco"
+  },
+  "/lotus/objects/grineer/props/computers/grnpanelaraiddeco": {
+    "value": "Grn Panel A Raid Deco"
+  },
+  "/lotus/objects/grnexplodingbarrel": {
+    "value": "Grn Exploding Barrel"
+  },
+  "/lotus/objects/guild/structural/curvedglassinteriordeco": {
+    "value": "Curved Glass Interior Deco"
+  },
+  "/lotus/objects/guild/structural/vents/destroyablevent": {
+    "value": "Destroyable Vent"
+  },
+  "/lotus/objects/orokin/props/collectibleseriesone": {
+    "value": "Collectible Series One"
+  },
+  "/lotus/objects/tenno/props/titaniacodexentrycdeco": {
+    "value": "Titania Codex Entry C Deco"
+  },
   "/lotus/powersuits/antimatter/anti": {
     "value": "노바"
   },
+  "/lotus/powersuits/antimatter/novaprime": {
+    "value": "노바 프라임"
+  },
   "/lotus/powersuits/archwing/demolitionjetpack/demolitionjetpack": {
-    "value": "아크윙: 엘리트론"
+    "value": "Elytron"
+  },
+  "/lotus/powersuits/archwing/primejetpack/primejetpack": {
+    "value": "Odonata Prime"
+  },
+  "/lotus/powersuits/archwing/standardjetpack/standardjetpack": {
+    "value": "Odonata"
+  },
+  "/lotus/powersuits/archwing/stealthjetpack/stealthjetpack": {
+    "value": "Itzal"
   },
   "/lotus/powersuits/archwing/supportjetpack/supportjetpack": {
-    "value": "아크윙: 아메샤"
+    "value": "Amesha"
   },
   "/lotus/powersuits/banshee/banshee": {
     "value": "밴쉬"
+  },
+  "/lotus/powersuits/banshee/bansheeprime": {
+    "value": "Banshee Prime"
   },
   "/lotus/powersuits/bard/bard": {
     "value": "옥타비아"
@@ -807,8 +867,14 @@
   "/lotus/powersuits/berserker/berserker": {
     "value": "발키르"
   },
+  "/lotus/powersuits/berserker/valkyrprime": {
+    "value": "Valkyr Prime"
+  },
   "/lotus/powersuits/brawler/brawler": {
     "value": "아틀라스"
+  },
+  "/lotus/powersuits/brawler/summonavatarhostile": {
+    "value": "Summon Avatar Hostile"
   },
   "/lotus/powersuits/cowgirl/cowgirl": {
     "value": "메사"
@@ -816,11 +882,20 @@
   "/lotus/powersuits/dragon/dragon": {
     "value": "크로마"
   },
+  "/lotus/powersuits/dragon/dragonpeltavatar": {
+    "value": "Dragon Pelt Avatar"
+  },
   "/lotus/powersuits/ember/ember": {
     "value": "엠버"
   },
+  "/lotus/powersuits/ember/emberprime": {
+    "value": "엠버 프라임"
+  },
   "/lotus/powersuits/excalibur/excalibur": {
     "value": "엑스칼리버"
+  },
+  "/lotus/powersuits/excalibur/excaliburprime": {
+    "value": "엑스칼리버 프라임"
   },
   "/lotus/powersuits/fairy/fairy": {
     "value": "티타니아"
@@ -828,20 +903,38 @@
   "/lotus/powersuits/frost/frost": {
     "value": "프로스트"
   },
+  "/lotus/powersuits/frost/frostprime": {
+    "value": "프로스트 프라임"
+  },
+  "/lotus/powersuits/frost/icespikeaugmentcard": {
+    "value": "Ice Spike Augment Card"
+  },
   "/lotus/powersuits/glass/glass": {
     "value": "가라"
   },
   "/lotus/powersuits/harlequin/harlequin": {
     "value": "미라지"
   },
+  "/lotus/powersuits/infestation/infestation": {
+    "value": "나이더스"
+  },
   "/lotus/powersuits/jade/jade": {
     "value": "닉스"
+  },
+  "/lotus/powersuits/jade/nyxprime": {
+    "value": "닉스 프라임"
   },
   "/lotus/powersuits/loki/loki": {
     "value": "로키"
   },
+  "/lotus/powersuits/loki/lokiprime": {
+    "value": "로키 프라임"
+  },
   "/lotus/powersuits/mag/mag": {
     "value": "매그"
+  },
+  "/lotus/powersuits/mag/magprime": {
+    "value": "매그 프라임"
   },
   "/lotus/powersuits/magician/magician": {
     "value": "림보"
@@ -852,8 +945,14 @@
   "/lotus/powersuits/necro/necro": {
     "value": "네크로스"
   },
+  "/lotus/powersuits/necro/nekrosprime": {
+    "value": "Nekros Prime"
+  },
   "/lotus/powersuits/nezha/nezha": {
     "value": "나타"
+  },
+  "/lotus/powersuits/ninja/ashprime": {
+    "value": "애쉬 프라임"
   },
   "/lotus/powersuits/ninja/ninja": {
     "value": "애쉬"
@@ -861,8 +960,14 @@
   "/lotus/powersuits/paladin/paladin": {
     "value": "오베론"
   },
+  "/lotus/powersuits/paladin/paladinprime": {
+    "value": "Paladin Prime"
+  },
   "/lotus/powersuits/pirate/pirate": {
     "value": "하이드로이드"
+  },
+  "/lotus/powersuits/priest/priest": {
+    "value": "Priest"
   },
   "/lotus/powersuits/ranger/ranger": {
     "value": "이바라"
@@ -870,11 +975,17 @@
   "/lotus/powersuits/rhino/rhino": {
     "value": "라이노"
   },
+  "/lotus/powersuits/rhino/rhinoprime": {
+    "value": "라이노 프라임"
+  },
   "/lotus/powersuits/sandman/sandman": {
     "value": "이나로스"
   },
   "/lotus/powersuits/saryn/saryn": {
     "value": "새린"
+  },
+  "/lotus/powersuits/saryn/sarynprime": {
+    "value": "Saryn Prime"
   },
   "/lotus/powersuits/tengu/tengu": {
     "value": "제피르"
@@ -882,11 +993,20 @@
   "/lotus/powersuits/trapper/trapper": {
     "value": "바우반"
   },
+  "/lotus/powersuits/trapper/trapperprime": {
+    "value": "Vauban Prime"
+  },
   "/lotus/powersuits/trinity/trinity": {
     "value": "트리니티"
   },
+  "/lotus/powersuits/trinity/trinityprime": {
+    "value": "Trinity Prime"
+  },
   "/lotus/powersuits/volt/volt": {
     "value": "볼트"
+  },
+  "/lotus/powersuits/volt/voltprime": {
+    "value": "볼트 프라임"
   },
   "/lotus/powersuits/yinyang/yinyang": {
     "value": "이쿼녹스"
@@ -2982,6 +3102,18 @@
   "/lotus/storeitems/types/game/projections/t3voidprojectiontsilver": {
     "value": "Neo B1 Relic (Exceptional)"
   },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionvoltodonataprimebronze": {
+    "value": "Neo O1 Relic (Intact)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionvoltodonataprimegold": {
+    "value": "Neo O1 Relic (Flawless)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionvoltodonataprimeplatinum": {
+    "value": "Neo O1 Relic (Radiant)"
+  },
+  "/lotus/storeitems/types/game/projections/t3voidprojectionvoltodonataprimesilver": {
+    "value": "Neo O1 Relic (Exceptional)"
+  },
   "/lotus/storeitems/types/game/projections/t4voidprojectionabronze": {
     "value": "Axi S1 Relic (Intact)"
   },
@@ -3213,26 +3345,14 @@
   "/lotus/storeitems/types/game/projections/t4voidprojectionvoltodonataprimebronze": {
     "value": "Axi V8 Relic (Intact)"
   },
-  "/lotus/storeitems/types/game/projections/t4voidprojectionvoltodonataprimesilver": {
-    "value": "Axi V8 Relic (Exceptional)"
-  },
   "/lotus/storeitems/types/game/projections/t4voidprojectionvoltodonataprimegold": {
     "value": "Axi V8 Relic (Flawless)"
   },
   "/lotus/storeitems/types/game/projections/t4voidprojectionvoltodonataprimeplatinum": {
     "value": "Axi V8 Relic (Radiant)"
   },
-  "/lotus/storeitems/types/game/projections/t3voidprojectionvoltodonataprimebronze": {
-    "value": "Neo O1 Relic (Intact)"
-  },
-  "/lotus/storeitems/types/game/projections/t3voidprojectionvoltodonataprimesilver": {
-    "value": "Neo O1 Relic (Exceptional)"
-  },
-  "/lotus/storeitems/types/game/projections/t3voidprojectionvoltodonataprimegold": {
-    "value": "Neo O1 Relic (Flawless)"
-  },
-  "/lotus/storeitems/types/game/projections/t3voidprojectionvoltodonataprimeplatinum": {
-    "value": "Neo O1 Relic (Radiant)"
+  "/lotus/storeitems/types/game/projections/t4voidprojectionvoltodonataprimesilver": {
+    "value": "Axi V8 Relic (Exceptional)"
   },
   "/lotus/storeitems/types/game/solarrails/basicsolarrail": {
     "value": "솔라 레일 - 타워 클래스"
@@ -3889,7 +4009,7 @@
     "value": "코퍼스가 알라드 V에 대해 가지고 있는 정보를 알아내세요"
   },
   "/lotus/storeitems/types/keys/infestedaladvquest/missionthree": {
-    "value": "알라드 V의 연구용 함선을 파괴하세요"
+    "value": "Destroy Alad VÃ¢â‚¬â„¢s Laboratory Ship"
   },
   "/lotus/storeitems/types/keys/infestedaladvquest/missiontwoa": {
     "value": "Brugia에서 알라드의 감염된 함선을 파괴하세요"
@@ -4107,9 +4227,6 @@
   "/lotus/storeitems/types/keys/vorsprize/vorsprizequestkeychain": {
     "value": "보어의 전리품"
   },
-  "/lotus/storeitems/types/pickups/credits/500credits": {
-    "value": "500 크레딧"
-  },
   "/lotus/storeitems/types/pickups/credits/1000credits": {
     "value": "1000 크레딧"
   },
@@ -4130,6 +4247,9 @@
   },
   "/lotus/storeitems/types/pickups/credits/5000credits": {
     "value": "5000 크레딧"
+  },
+  "/lotus/storeitems/types/pickups/credits/500credits": {
+    "value": "500 크레딧"
   },
   "/lotus/storeitems/types/recipes/archwingrecipes/demolitionarchwing/demolitionarchwingchassiscomponent": {
     "value": "엘리트론 하네스"
@@ -6444,6 +6564,9 @@
   "/lotus/storeitems/upgrades/mods/fusers/commonmodfuser": {
     "value": "커먼 퓨전 코어"
   },
+  "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl10modfuser": {
+    "value": "에인션트 퓨전 코어"
+  },
   "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl1modfuser": {
     "value": "에인션트 퓨전 코어"
   },
@@ -6471,10 +6594,10 @@
   "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl9modfuser": {
     "value": "에인션트 퓨전 코어"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacycommonlvl10modfuser": {
+  "/lotus/storeitems/upgrades/mods/fusers/legacycommonmodfuser": {
     "value": "에인션트 퓨전 코어"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacycommonmodfuser": {
+  "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl10modfuser": {
     "value": "에인션트 퓨전 코어"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl1modfuser": {
@@ -6504,10 +6627,10 @@
   "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl9modfuser": {
     "value": "에인션트 퓨전 코어"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyrarelvl10modfuser": {
+  "/lotus/storeitems/upgrades/mods/fusers/legacyraremodfuser": {
     "value": "에인션트 퓨전 코어"
   },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyraremodfuser": {
+  "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl10modfuser": {
     "value": "에인션트 퓨전 코어"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl1modfuser": {
@@ -6535,9 +6658,6 @@
     "value": "에인션트 퓨전 코어"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl9modfuser": {
-    "value": "에인션트 퓨전 코어"
-  },
-  "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonlvl10modfuser": {
     "value": "에인션트 퓨전 코어"
   },
   "/lotus/storeitems/upgrades/mods/fusers/legacyuncommonmodfuser": {
@@ -9612,6 +9732,9 @@
   "/lotus/storeitems/upgrades/skins/magician/unlockmagiciannoble": {
     "value": "림보 노블 애니메이션 세트"
   },
+  "/lotus/storeitems/upgrades/skins/meleedangles/baroinarosmeleedangle": {
+    "value": "안푸 수가트라"
+  },
   "/lotus/storeitems/upgrades/skins/meleedangles/baromeleedangle": {
     "value": "키'티어 수가트라"
   },
@@ -10041,7 +10164,7 @@
   "/lotus/storeitems/upgrades/skins/sentinels/tails/infestedtail": {
     "value": "쏘락스 센티넬 테일"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/KavatPetTail": {
+  "/lotus/storeitems/upgrades/skins/sentinels/tails/kavatpettail": {
     "value": "Kavat Sentinel Tail"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/tails/orokintail": {
@@ -10646,9 +10769,6 @@
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroarrow": {
     "value": "키'티어 애로우"
-  },
-  "/lotus/storeitems/upgrades/skins/meleedangles/baroinarosmeleedangle": {
-    "value": "안푸 수가트라"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroinarospolearmskin": {
     "value": "안푸 스태프 스킨"
@@ -11574,6 +11694,9 @@
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "미저리"
   },
+  "/lotus/types/enemies/acolytes/areacasteracolyteavatar": {
+    "value": "Area Caster Acolyte Avatar"
+  },
   "/lotus/types/enemies/acolytes/controlacolyteagent": {
     "value": "토멘트"
   },
@@ -11586,17 +11709,794 @@
   "/lotus/types/enemies/acolytes/rogueacolyteagent": {
     "value": "매니아"
   },
+  "/lotus/types/enemies/acolytes/rogueacolyteavatar": {
+    "value": "Rogue Acolyte Avatar"
+  },
   "/lotus/types/enemies/acolytes/strikeracolyteagent": {
     "value": "앵스트"
   },
+  "/lotus/types/enemies/acolytes/strikeracolyteavatar": {
+    "value": "Striker Acolyte Avatar"
+  },
+  "/lotus/types/enemies/capturetargets/capturetargetcorpus": {
+    "value": "Capture Target Corpus"
+  },
+  "/lotus/types/enemies/capturetargets/capturetargetcorpusnullifieravatar": {
+    "value": "Capture Target Corpus Nullifier Avatar"
+  },
+  "/lotus/types/enemies/capturetargets/capturetargetgrineer": {
+    "value": "Capture Target Grineer"
+  },
+  "/lotus/types/enemies/capturetargets/capturetargetmarooavatar": {
+    "value": "Capture Target Ma Roo Avatar"
+  },
+  "/lotus/types/enemies/corpus/bipedrobot/aiweek/lasercannonbipedavatarleader": {
+    "value": "Laser Cannon Biped Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/bipedrobot/aiweek/laserdiscbipedavatarleader": {
+    "value": "Laser Disc Biped Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/bipedrobot/aiweek/railgunbipedavatarleader": {
+    "value": "Railgun Biped Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/bipedrobot/aiweek/riotbipedcontrolavatar": {
+    "value": "Riot Biped Control Avatar"
+  },
+  "/lotus/types/enemies/corpus/bipedrobot/aiweek/riotbipeddispersionavatar": {
+    "value": "Riot Biped Dispersion Avatar"
+  },
+  "/lotus/types/enemies/corpus/bipedrobot/aiweek/riotbipedpreventionavatar": {
+    "value": "Riot Biped Prevention Avatar"
+  },
+  "/lotus/types/enemies/corpus/bipedrobot/aiweek/shockwavebipedavatarleader": {
+    "value": "Shockwave Biped Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/bipedrobot/aiweek/supermoabipedavatarleader": {
+    "value": "Super Moa Biped Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/drones/aiweek/discdroneavatar": {
+    "value": "Disc Drone Avatar"
+  },
+  "/lotus/types/enemies/corpus/drones/aiweek/discdroneavatarleader": {
+    "value": "Disc Drone Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/drones/aiweek/leechdroneavatarleader": {
+    "value": "Leech Drone Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/drones/aiweek/minedroneavatarleader": {
+    "value": "Mine Drone Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/drones/aiweek/shielddroneavatarleader": {
+    "value": "Shield Drone Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/drones/aiweek/suicidedroneavatar": {
+    "value": "Suicide Drone Avatar"
+  },
+  "/lotus/types/enemies/corpus/drones/aiweek/vacdroneavatarleader": {
+    "value": "Vac Drone Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/gamemodes/deployablespacemanwardenavatar": {
+    "value": "Deployable Spaceman Warden Avatar"
+  },
+  "/lotus/types/enemies/corpus/gamemodes/deployablespacemanwardenavatarleader": {
+    "value": "Deployable Spaceman Warden Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/quadrobot/microhyenaavatar": {
+    "value": "Micro Hyena Avatar"
+  },
+  "/lotus/types/enemies/corpus/quadrobot/miniboss/quadrobotminibossavatar": {
+    "value": "Quad Robot Mini Boss Avatar"
+  },
+  "/lotus/types/enemies/corpus/quadrobot/miniboss/shielddroneminibossavatar": {
+    "value": "Shield Drone Mini Boss Avatar"
+  },
+  "/lotus/types/enemies/corpus/quadrobot/miniboss/turretquadminibossavatar": {
+    "value": "Turret Quad Mini Boss Avatar"
+  },
+  "/lotus/types/enemies/corpus/spaceman/aiweek/carrierspacemanavatar": {
+    "value": "Carrier Spaceman Avatar"
+  },
+  "/lotus/types/enemies/corpus/spaceman/aiweek/deployablespacemanavatarleader": {
+    "value": "Deployable Spaceman Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/spaceman/aiweek/nullifyspacemanavatar": {
+    "value": "Nullify Spaceman Avatar"
+  },
+  "/lotus/types/enemies/corpus/spaceman/aiweek/nullifyspacemanavatarleader": {
+    "value": "Nullify Spaceman Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/spaceman/aiweek/riflespacemanavatarleader": {
+    "value": "Rifle Spaceman Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/spaceman/aiweek/shotgunspacemanavatarleader": {
+    "value": "Shotgun Spaceman Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/spaceman/aiweek/sniperspacemanavatarleader": {
+    "value": "Sniper Spaceman Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/spaceman/elitespacemanavatarleader": {
+    "value": "Elite Spaceman Avatar Leader"
+  },
+  "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarskatinglaser": {
+    "value": "Modular Spaceman Avatar Skating Laser"
+  },
+  "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarskatingshield": {
+    "value": "Modular Spaceman Avatar Skating Shield"
+  },
+  "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarskatingtesla": {
+    "value": "Modular Spaceman Avatar Skating Tesla"
+  },
+  "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarwalkinglaser": {
+    "value": "Modular Spaceman Avatar Walking Laser"
+  },
+  "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarwalkingshield": {
+    "value": "Modular Spaceman Avatar Walking Shield"
+  },
+  "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarwalkingtesla": {
+    "value": "Modular Spaceman Avatar Walking Tesla"
+  },
+  "/lotus/types/enemies/corpus/turrets/turretavatars/autoturretheavyavatar": {
+    "value": "Auto Turret Heavy Avatar"
+  },
+  "/lotus/types/enemies/corpus/turrets/turretavatars/securitycameranarrowavatar": {
+    "value": "Security Camera Narrow Avatar"
+  },
+  "/lotus/types/enemies/corpus/vip/hyena/hyenagunavatar": {
+    "value": "Hyena Gun Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teama/ccteamarifleavatar": {
+    "value": "C C Team A Rifle Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teama/ccteamaskateavatar": {
+    "value": "C C Team A Skate Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teama/ccteamaskatebavatar": {
+    "value": "C C Team A Skate B Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teama/ccteamazanukaavatar": {
+    "value": "C C Team A Zanuka Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamb/ccteambdisruptoravatar": {
+    "value": "C C Team B Disruptor Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamb/ccteambhyenaavatar": {
+    "value": "C C Team B Hyena Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamb/ccteambospreyavatar": {
+    "value": "C C Team B Osprey Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamb/ccteambriotmoaavatar": {
+    "value": "C C Team B Riot Moa Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamc/ccteamcdeceptionavatar": {
+    "value": "C C Team C Deception Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamc/ccteamcmoaavatar": {
+    "value": "C C Team C Moa Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamc/ccteamcsimplifiedhackeravatar": {
+    "value": "C C Team C Simplified Hacker Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamc/ccteamcstealthavatar": {
+    "value": "C C Team C Stealth Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamd/ccteamdbusteraavatar": {
+    "value": "C C Team D Buster A Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamd/ccteamdbusterbavatar": {
+    "value": "C C Team D Buster B Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamd/ccteamdbustercavatar": {
+    "value": "C C Team D Buster C Avatar"
+  },
+  "/lotus/types/enemies/corpuschampions/teamd/ccteamdospreyavatar": {
+    "value": "C C Team D Osprey Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/beastmasteravatar": {
+    "value": "Beast Master Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/bladesawmanavatarleader": {
+    "value": "Blade Sawman Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/carrierriflelanceravatar": {
+    "value": "Carrier Rifle Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/catmasteravatar": {
+    "value": "Cat Master Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/combatcatbrowavatar": {
+    "value": "Combat Catbrow Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/combatkubrowavatar": {
+    "value": "Combat Kubrow Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/eliteriflelanceravatarleader": {
+    "value": "Elite Rifle Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/eviseratorlanceravatar": {
+    "value": "Eviserator Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/femalegrineeravatarleader": {
+    "value": "Female Grineer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/flamelanceravatarleader": {
+    "value": "Flame Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/grineerdefectoravatar": {
+    "value": "Grineer Defector Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/grineermeleestaffavatar": {
+    "value": "Grineer Melee Staff Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/grineermeleestaffavatarleader": {
+    "value": "Grineer Melee Staff Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/heavyfemalegrineeravatarleader": {
+    "value": "Heavy Female Grineer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/incendiarybombardavatarleader": {
+    "value": "Incendiary Bombard Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/jetpackmarineavatar": {
+    "value": "Jetpack Marine Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/jetpackmarinecarrieravatar": {
+    "value": "Jetpack Marine Carrier Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/jetpackmeleeavatar": {
+    "value": "Jetpack Melee Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/jetpacksniperavatar": {
+    "value": "Jetpack Sniper Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/machetewomanavatarleader": {
+    "value": "Machete Woman Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/manicgrineeravatar": {
+    "value": "Manic Grineer Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/nightwatchmanicavatar": {
+    "value": "Nightwatch Manic Avatar"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/pistonsawmanavatarleader": {
+    "value": "Piston Sawman Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/riflelanceravatarleader": {
+    "value": "Rifle Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/rocketbombardavatarleader": {
+    "value": "Rocket Bombard Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/rollingdroneavatarleader": {
+    "value": "Rolling Drone Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/shieldlanceravatarleader": {
+    "value": "Shield Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/shotgunlanceravatarleader": {
+    "value": "Shotgun Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/aiweek/avatars/stickyrollingdroneavatar": {
+    "value": "Sticky Rolling Drone Avatar"
+  },
+  "/lotus/types/enemies/grineer/deathsquad/avatars/deathsquadavatara": {
+    "value": "Death Squad Avatar A"
+  },
+  "/lotus/types/enemies/grineer/deathsquad/avatars/deathsquadavatarb": {
+    "value": "Death Squad Avatar B"
+  },
+  "/lotus/types/enemies/grineer/deathsquad/avatars/deathsquadavatarc": {
+    "value": "Death Squad Avatar C"
+  },
+  "/lotus/types/enemies/grineer/deathsquad/avatars/deathsquadsentinelavatar": {
+    "value": "Death Squad Sentinel Avatar"
+  },
+  "/lotus/types/enemies/grineer/desert/avatars/bladesawmanavatarleader": {
+    "value": "Blade Sawman Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/desert/avatars/eliteriflelanceravatarleader": {
+    "value": "Elite Rifle Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/desert/avatars/riflelanceravatarleader": {
+    "value": "Rifle Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/forest/avatars/bladesawmanavatarleader": {
+    "value": "Blade Sawman Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/forest/avatars/evisceratorlanceravatarleader": {
+    "value": "Eviscerator Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/forest/avatars/riflelanceravatarleader": {
+    "value": "Rifle Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/forest/avatars/shotgunlanceravatarleader": {
+    "value": "Shotgun Lancer Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/forest/heavyfemalegrineeravatardesertleader": {
+    "value": "Heavy Female Grineer Avatar Desert Leader"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressbeastmasteravatar": {
+    "value": "Fortress Beast Master Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressbladesawmanavatar": {
+    "value": "Fortress Blade Sawman Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortresscombatkubrowavatar": {
+    "value": "Fortress Combat Kubrow Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortresseliteriflelanceravatar": {
+    "value": "Fortress Elite Rifle Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressfemalegrineeravatar": {
+    "value": "Fortress Female Grineer Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressflamelanceravatar": {
+    "value": "Fortress Flame Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressgrineermarinepistolavatar": {
+    "value": "Fortress Grineer Marine Pistol Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressheavyfemalegrineeravatar": {
+    "value": "Fortress Heavy Female Grineer Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressincendiarybombardavatar": {
+    "value": "Fortress Incendiary Bombard Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressmachetewomanavatar": {
+    "value": "Fortress Machete Woman Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortresspistonsawmanavatar": {
+    "value": "Fortress Piston Sawman Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressriflelanceravatar": {
+    "value": "Fortress Rifle Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressrocketbombardavatar": {
+    "value": "Fortress Rocket Bombard Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressrollingdroneavatar": {
+    "value": "Fortress Rolling Drone Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressshieldlanceravatar": {
+    "value": "Fortress Shield Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/fortressshotgunlanceravatar": {
+    "value": "Fortress Shotgun Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/grineerautoflameturretavatar": {
+    "value": "Grineer Auto Flame Turret Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/grineerautorocketturretavatar": {
+    "value": "Grineer Auto Rocket Turret Avatar"
+  },
+  "/lotus/types/enemies/grineer/fortress/avatars/grineerautoturretavatar": {
+    "value": "Grineer Auto Turret Avatar"
+  },
+  "/lotus/types/enemies/grineer/gamemodes/wardengrineerheavyavatarleader": {
+    "value": "Warden Grineer Heavy Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/gfssecuritycameranarrowavatar": {
+    "value": "Gfs Security Camera Narrow Avatar"
+  },
+  "/lotus/types/enemies/grineer/gfssecuritycamerawallmounted": {
+    "value": "Gfs Security Camera Wall Mounted"
+  },
+  "/lotus/types/enemies/grineer/grineerautoturretstaticavatar": {
+    "value": "Grineer Auto Turret Static Avatar"
+  },
+  "/lotus/types/enemies/grineer/grineeravatars/grineermarinepistolavatarleader": {
+    "value": "Grineer Marine Pistol Avatar Leader"
+  },
+  "/lotus/types/enemies/grineer/sealab/avatars/bladesawmanavatar": {
+    "value": "Blade Sawman Avatar"
+  },
+  "/lotus/types/enemies/grineer/sealab/avatars/eliteriflelanceravatar": {
+    "value": "Elite Rifle Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/sealab/avatars/femalegrineermacheteavatar": {
+    "value": "Female Grineer Machete Avatar"
+  },
+  "/lotus/types/enemies/grineer/sealab/avatars/femalegrineersniperavatar": {
+    "value": "Female Grineer Sniper Avatar"
+  },
+  "/lotus/types/enemies/grineer/sealab/avatars/riflelanceravatar": {
+    "value": "Rifle Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/sealab/avatars/sealabmanicbombardavatar": {
+    "value": "Sea Lab Manic Bombard Avatar"
+  },
+  "/lotus/types/enemies/grineer/sealab/avatars/sealabmanicgrineeravatar": {
+    "value": "Sea Lab Manic Grineer Avatar"
+  },
+  "/lotus/types/enemies/grineer/sealab/avatars/shotgunlanceravatar": {
+    "value": "Shotgun Lancer Avatar"
+  },
+  "/lotus/types/enemies/grineer/specialevents/forestdroneavatar": {
+    "value": "Forest Drone Avatar"
+  },
+  "/lotus/types/enemies/grineer/vip/hek/hekbipedavatar": {
+    "value": "Hek Biped Avatar"
+  },
+  "/lotus/types/enemies/grineer/vip/hek/hekdroneavatar": {
+    "value": "Hek Drone Avatar"
+  },
+  "/lotus/types/enemies/grineer/vip/hek/propdrones/propdroneavatar": {
+    "value": "Prop Drone Avatar"
+  },
+  "/lotus/types/enemies/grineer/vip/hek/propdrones/strikedroneavatar": {
+    "value": "Strike Drone Avatar"
+  },
+  "/lotus/types/enemies/grineer/vip/tylregor/tylregoravatar": {
+    "value": "Tyl Regor Avatar"
+  },
+  "/lotus/types/enemies/grineer/vip/vortwo/vortwobossavatar": {
+    "value": "Vor Two Boss Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampionbeastmasteravatar": {
+    "value": "Grineer Champion Beastmaster Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampionchargeravatar": {
+    "value": "Grineer Champion Charger Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampionengineeravatar": {
+    "value": "Grineer Champion Engineer Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampiongruntavatar": {
+    "value": "Grineer Champion Grunt Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampionhealeravatar": {
+    "value": "Grineer Champion Healer Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampionheavyavatar": {
+    "value": "Grineer Champion Heavy Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampionjetpackavatar": {
+    "value": "Grineer Champion Jetpack Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampionsniperavatar": {
+    "value": "Grineer Champion Sniper Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampionsniperdecoyavatar": {
+    "value": "Grineer Champion Sniper Decoy Avatar"
+  },
+  "/lotus/types/enemies/grineerchampions/grineerchampiontankavatar": {
+    "value": "Grineer Champion Tank Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/ancients/ancientavatarleader": {
+    "value": "Ancient Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/ancients/diseasedancientavatar": {
+    "value": "Diseased Ancient Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/ancients/diseasedancientavatarleader": {
+    "value": "Diseased Ancient Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/ancients/healingancientavatarleader": {
+    "value": "Healing Ancient Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/ancients/pussblobdeco": {
+    "value": "Puss Blob Deco"
+  },
+  "/lotus/types/enemies/infested/aiweek/ancients/spawningancientavatar": {
+    "value": "Spawning Ancient Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/ancients/spawningancientavatarleader": {
+    "value": "Spawning Ancient Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/ancients/toxicancientavatarleader": {
+    "value": "Toxic Ancient Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/crawlers/grenadeavatar": {
+    "value": "Grenade Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/crawlers/grenadeavatarleader": {
+    "value": "Grenade Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/crawlers/lightningavatar": {
+    "value": "Lightning Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/crawlers/lightningavatarleader": {
+    "value": "Lightning Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/crawlers/noxiouscrawleravatar": {
+    "value": "Noxious Crawler Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/infesteddrones/cellcarrierdroneavatar": {
+    "value": "Cell Carrier Drone Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/infesteddrones/poisondroneavatar": {
+    "value": "Poison Drone Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/infestedmoas/nanitecloudbipedavatar": {
+    "value": "Nanite Cloud Biped Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/infestedmoas/nanitecloudbipedavatarleader": {
+    "value": "Nanite Cloud Biped Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/infestedmoas/slowbombbipedavatar": {
+    "value": "Slow Bomb Biped Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/infestedmoas/slowbombbipedavatarleader": {
+    "value": "Slow Bomb Biped Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/quadrupeds/juggernautavatar": {
+    "value": "Juggernaut Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/quadrupeds/juggernautavatarboss": {
+    "value": "Juggernaut Avatar Boss"
+  },
+  "/lotus/types/enemies/infested/aiweek/quadrupeds/quadrupedavatar": {
+    "value": "Quadruped Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/quadrupeds/quadrupedavatarleader": {
+    "value": "Quadruped Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/quadrupeds/rusheravatar": {
+    "value": "Rusher Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/runners/leapingrunneravatar": {
+    "value": "Leaping Runner Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/runners/leapingrunneravatarleader": {
+    "value": "Leaping Runner Avatar Leader"
+  },
+  "/lotus/types/enemies/infested/aiweek/runners/runneravatar": {
+    "value": "Runner Avatar"
+  },
+  "/lotus/types/enemies/infested/aiweek/runners/suiciderunneravatar": {
+    "value": "Suicide Runner Avatar"
+  },
+  "/lotus/types/enemies/infested/vip/avatars/golemfullavatar": {
+    "value": "Golem Full Avatar"
+  },
+  "/lotus/types/enemies/infested/vip/avatars/golemgrenadeheadavatar": {
+    "value": "Golem Grenade Head Avatar"
+  },
+  "/lotus/types/enemies/infested/vip/avatars/golemgunheadavatar": {
+    "value": "Golem Gun Head Avatar"
+  },
+  "/lotus/types/enemies/infested/vip/avatars/golemmeleeheadavatar": {
+    "value": "Golem Melee Head Avatar"
+  },
+  "/lotus/types/enemies/infested/vip/avatars/hitproxies/golembodyblockingproxy": {
+    "value": "Golem Body Blocking Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/avatars/hitproxies/golemheadbodyblockingproxy": {
+    "value": "Golem Head Body Blocking Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/avatars/quadrupedvipavatar": {
+    "value": "Quadruped V I P Avatar"
+  },
+  "/lotus/types/enemies/infested/vip/avatars/zombieleaderavatar": {
+    "value": "Zombie Leader Avatar"
+  },
+  "/lotus/types/enemies/infested/vip/golemfullgrenadeweakspothitproxy": {
+    "value": "Golem Full Grenade Weak Spot Hit Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/golemfullgunweakspothitproxy": {
+    "value": "Golem Full Gun Weak Spot Hit Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/golemfullmeleeweakspothitproxy": {
+    "value": "Golem Full Melee Weak Spot Hit Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/golemgrenadeweakspothitproxy": {
+    "value": "Golem Grenade Weak Spot Hit Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/golemgunweakspothitproxy": {
+    "value": "Golem Gun Weak Spot Hit Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/golemmeleesechitproxy": {
+    "value": "Golem Melee Sec Hit Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/golemmeleeweakspothitproxy": {
+    "value": "Golem Melee Weak Spot Hit Proxy"
+  },
+  "/lotus/types/enemies/infested/vip/infestedgrenadedeco": {
+    "value": "Infested Grenade Deco"
+  },
+  "/lotus/types/enemies/orokin/orokinautoturretavatar": {
+    "value": "Orokin Auto Turret Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinbladesawmanavatar": {
+    "value": "Orokin Blade Sawman Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinbladesawmanavatarleader": {
+    "value": "Orokin Blade Sawman Avatar Leader"
+  },
+  "/lotus/types/enemies/orokin/orokindroneattackavatar": {
+    "value": "Orokin Drone Attack Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinhealingancientavatar": {
+    "value": "Orokin Healing Ancient Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinhealingancientleaderavatar": {
+    "value": "Orokin Healing Ancient Leader Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinheavyfemaleavatar": {
+    "value": "Orokin Heavy Female Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinheavyfemaleleaderavatar": {
+    "value": "Orokin Heavy Female Leader Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinmoabipedavatar": {
+    "value": "Orokin Moa Biped Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinmoabipedleaderavatar": {
+    "value": "Orokin Moa Biped Leader Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinnullifyspacemanavatar": {
+    "value": "Orokin Nullify Spaceman Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinnullifyspacemanavatarleader": {
+    "value": "Orokin Nullify Spaceman Avatar Leader"
+  },
+  "/lotus/types/enemies/orokin/orokinrocketbombardavatar": {
+    "value": "Orokin Rocket Bombard Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinrocketbombardavatarleader": {
+    "value": "Orokin Rocket Bombard Avatar Leader"
+  },
+  "/lotus/types/enemies/orokin/orokinshielddroneavatar": {
+    "value": "Orokin Shield Drone Avatar"
+  },
+  "/lotus/types/enemies/orokin/orokinshielddroneleaderavatar": {
+    "value": "Orokin Shield Drone Leader Avatar"
+  },
+  "/lotus/types/enemies/orokin/riflelanceravatar": {
+    "value": "Rifle Lancer Avatar"
+  },
+  "/lotus/types/enemies/orokin/riflelancerleaderavatar": {
+    "value": "Rifle Lancer Leader Avatar"
+  },
+  "/lotus/types/enemies/orokin/riflespacemanavatar": {
+    "value": "Rifle Spaceman Avatar"
+  },
+  "/lotus/types/enemies/orokin/riflespacemanleaderavatar": {
+    "value": "Rifle Spaceman Leader Avatar"
+  },
+  "/lotus/types/enemies/quests/sandmanboss/inarosgolemavatar": {
+    "value": "Inaros Golem Avatar"
+  },
+  "/lotus/types/enemies/quests/sandmanboss/sandmanbossavatar": {
+    "value": "Sandman Boss Avatar"
+  },
+  "/lotus/types/enemies/quests/sandmanboss/sandmanreplicaavatar": {
+    "value": "Sandman Replica Avatar"
+  },
+  "/lotus/types/enemies/sentients/scouts/scoutavatar": {
+    "value": "Scout Avatar"
+  },
+  "/lotus/types/enemies/sentients/troopers/sentientmeleetrooperavatar": {
+    "value": "Sentient Melee Trooper Avatar"
+  },
+  "/lotus/types/enemies/sentients/troopers/sentienttrooperavatar": {
+    "value": "Sentient Trooper Avatar"
+  },
+  "/lotus/types/enemies/spacebattles/grineer/drones/grineerspacedroneavatar": {
+    "value": "Grineer Space Drone Avatar"
+  },
+  "/lotus/types/enemies/spacebattles/grineer/drones/laserdroneavatar": {
+    "value": "Laser Drone Avatar"
+  },
+  "/lotus/types/enemies/spacebattles/grineer/pods/combatpodavatar": {
+    "value": "Combat Pod Avatar"
+  },
+  "/lotus/types/enemies/spacebattles/grineer/skiffs/grineerspacemarineavatar": {
+    "value": "Grineer Space Marine Avatar"
+  },
+  "/lotus/types/enemies/spacebattles/grineer/skiffs/missileskiffavatarleader": {
+    "value": "Missile Skiff Avatar Leader"
+  },
+  "/lotus/types/enemies/spacebattles/grineer/skiffs/shieldskiffavatar": {
+    "value": "Shield Skiff Avatar"
+  },
+  "/lotus/types/enemies/stalker/sentientstalkeravatar": {
+    "value": "Sentient Stalker Avatar"
+  },
+  "/lotus/types/enemies/stalker/stalkeravatar": {
+    "value": "Stalker Avatar"
+  },
+  "/lotus/types/enemies/tennoreplicants/fairyquest/knavelokidecoyavatar": {
+    "value": "Knave Loki Decoy Avatar"
+  },
+  "/lotus/types/enemies/tennoreplicants/syndicateallies/colonyrescueallies/colonistrescuesteelmeridianavatard": {
+    "value": "Colonist Rescue Steel Meridian Avatar D"
+  },
+  "/lotus/types/enemies/tennoreplicants/syndicateallies/steelmeridianallyavatarb": {
+    "value": "Steel Meridian Ally Avatar B"
+  },
+  "/lotus/types/enemies/tennoreplicants/tennoreplicantchromaavatar": {
+    "value": "Tenno Replicant Chroma Avatar"
+  },
+  "/lotus/types/enemies/tennoreplicants/tennoreplicantchromaavatarderelict": {
+    "value": "Tenno Replicant Chroma Avatar Derelict"
+  },
+  "/lotus/types/friendly/agents/coredefenseavatar": {
+    "value": "Core Defense Avatar"
+  },
+  "/lotus/types/friendly/agents/defenseavatar": {
+    "value": "Defense Avatar"
+  },
+  "/lotus/types/friendly/agents/defensecomputeravatar": {
+    "value": "Defense Computer Avatar"
+  },
+  "/lotus/types/friendly/agents/defensecomputercorpusavatar": {
+    "value": "Defense Computer Corpus Avatar"
+  },
+  "/lotus/types/friendly/agents/defensecomputerfortavatar": {
+    "value": "Defense Computer Fort Avatar"
+  },
+  "/lotus/types/friendly/agents/defensecorepipeavatargrineer": {
+    "value": "Defense Core Pipe Avatar Grineer"
+  },
+  "/lotus/types/friendly/agents/eventforestdefenseavatar": {
+    "value": "Event Forest Defense Avatar"
+  },
+  "/lotus/types/friendly/agents/excavatoravatar": {
+    "value": "Excavator Avatar"
+  },
+  "/lotus/types/friendly/agents/friendlyavatar": {
+    "value": "Friendly Avatar"
+  },
+  "/lotus/types/friendly/agents/hivemode/infestedhiveavatare": {
+    "value": "Infested Hive Avatar E"
+  },
+  "/lotus/types/friendly/agents/infestedbaitavatar": {
+    "value": "Infested Bait Avatar"
+  },
+  "/lotus/types/friendly/agents/orokindefenseavatar": {
+    "value": "Orokin Defense Avatar"
+  },
+  "/lotus/types/friendly/agents/orokinmobiledefenseavatar": {
+    "value": "Orokin Mobile Defense Avatar"
+  },
+  "/lotus/types/friendly/agents/orokinsabotageconsoleavatar": {
+    "value": "Orokin Sabotage Console Avatar"
+  },
+  "/lotus/types/friendly/agents/payloadatvavatar": {
+    "value": "Payload A T V Avatar"
+  },
+  "/lotus/types/friendly/clemavatar": {
+    "value": "Clem Avatar"
+  },
+  "/lotus/types/friendly/pets/kubrowpetavatar": {
+    "value": "Kubrow Pet Avatar"
+  },
   "/lotus/types/game/catbrowpet/catbrowgeneticsignature": {
     "value": "카밧 유전자 코드"
+  },
+  "/lotus/types/game/catbrowpet/cheshirecatbrowpetpowersuit": {
+    "value": "Smeeta"
+  },
+  "/lotus/types/game/catbrowpet/mirrorcatbrowpetpowersuit": {
+    "value": "Adarza"
+  },
+  "/lotus/types/game/decorations/miningmachineobjective": {
+    "value": "Mining Machine Objective"
+  },
+  "/lotus/types/game/kubrowpet/adventurerkubrowpetpowersuit": {
+    "value": "Sahasa"
+  },
+  "/lotus/types/game/kubrowpet/chargerkubrowpetpowersuit": {
+    "value": "Helminth Charger"
+  },
+  "/lotus/types/game/kubrowpet/furtivekubrowpetpowersuit": {
+    "value": "Huras"
+  },
+  "/lotus/types/game/kubrowpet/guardkubrowpetpowersuit": {
+    "value": "Raksa"
+  },
+  "/lotus/types/game/kubrowpet/hunterkubrowpetpowersuit": {
+    "value": "Sunika"
   },
   "/lotus/types/game/kubrowpet/patterns/helminthpetpatternclassic": {
     "value": "Helminth Degenerate Pattern"
   },
   "/lotus/types/game/kubrowpet/patterns/kubrowpetpatternxmasc": {
     "value": "아크루트 유전자-마스킹 키트"
+  },
+  "/lotus/types/game/kubrowpet/retrieverkubrowpetpowersuit": {
+    "value": "Chesa"
   },
   "/lotus/types/game/library/targets/research1target": {
     "value": "랜서"
@@ -11618,6 +12518,9 @@
   },
   "/lotus/types/game/library/targets/research7target": {
     "value": "가드맨"
+  },
+  "/lotus/types/game/miningmachineobjective": {
+    "value": "Mining Machine Objective"
   },
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/ghoulbountytablearewards": {
     "value": "100 Endo, Lith Z1 Relic, Lith H2 Relic, Hunter Adrenaline, Encrypted Journal Fragment, Hunter Munitions, Stubba Blueprint, Hunter Track"
@@ -11741,6 +12644,12 @@
   },
   "/lotus/types/gameplay/eidolon/jobs/sabotagebountysab": {
     "value": "Sabotage Bounty"
+  },
+  "/lotus/types/gameplay/grineer/brokenlight": {
+    "value": "Broken Light"
+  },
+  "/lotus/types/gameplay/grineer/doorsensordeco": {
+    "value": "Door Sensor Deco"
   },
   "/lotus/types/items/miscitems/actuator": {
     "value": "액츄에이터"
@@ -11895,6 +12804,39 @@
   "/lotus/types/items/miscitems/voidteardrop": {
     "value": "Void Traces"
   },
+  "/lotus/types/items/plants/daycommonplant": {
+    "value": "Day Common Plant"
+  },
+  "/lotus/types/items/plants/dayrareplant": {
+    "value": "Day Rare Plant"
+  },
+  "/lotus/types/items/plants/dayuncommonplant": {
+    "value": "Day Un Common Plant"
+  },
+  "/lotus/types/items/plants/gftplantruksclawmatureplant": {
+    "value": "Gft Plant Ruks Claw Mature Plant"
+  },
+  "/lotus/types/items/plants/mossgroundcoveraplant": {
+    "value": "Moss Ground Cover A Plant"
+  },
+  "/lotus/types/items/plants/nightcommonplant": {
+    "value": "Night Common Plant"
+  },
+  "/lotus/types/items/plants/nightrareplant": {
+    "value": "Night Rare Plant"
+  },
+  "/lotus/types/items/plants/nightuncommonplant": {
+    "value": "Night Un Common Plant"
+  },
+  "/lotus/types/items/plants/wildgingerbplant": {
+    "value": "Wild Ginger B Plant"
+  },
+  "/lotus/types/items/plants/zencobralotusplant": {
+    "value": "Zen Cobra Lotus Plant"
+  },
+  "/lotus/types/items/plants/zenpitcherplant": {
+    "value": "Zen Pitcher Plant"
+  },
   "/lotus/types/items/research/biocomponent": {
     "value": "뮤타젠 매스"
   },
@@ -11922,6 +12864,33 @@
   "/lotus/types/keys/orokinkeya": {
     "value": "타워 1 섬멸"
   },
+  "/lotus/types/keys/raidkeys/raid01stage01keyitem": {
+    "value": "Raid01 Stage01 Key Item"
+  },
+  "/lotus/types/keys/raidkeys/raid01stage01nightmarekeyitem": {
+    "value": "Raid01 Stage01 Nightmare Key Item"
+  },
+  "/lotus/types/keys/raidkeys/raid01stage02keyitem": {
+    "value": "Raid01 Stage02 Key Item"
+  },
+  "/lotus/types/keys/raidkeys/raid01stage02nightmarekeyitem": {
+    "value": "Raid01 Stage02 Nightmare Key Item"
+  },
+  "/lotus/types/keys/raidkeys/raid01stage03keyitem": {
+    "value": "Raid01 Stage03 Key Item"
+  },
+  "/lotus/types/keys/raidkeys/raid01stage03nightmarekeyitem": {
+    "value": "Raid01 Stage03 Nightmare Key Item"
+  },
+  "/lotus/types/keys/raidkeys/raidgolemstage01keyitem": {
+    "value": "Raid Golem Stage01 Key Item"
+  },
+  "/lotus/types/keys/raidkeys/raidgolemstage02keyitem": {
+    "value": "Raid Golem Stage02 Key Item"
+  },
+  "/lotus/types/keys/raidkeys/raidgolemstage03keyitem": {
+    "value": "Raid Golem Stage03 Key Item"
+  },
   "/lotus/types/keys/tacalertkeyanniversary2017a": {
     "value": "Enemy forces have obtained information on some of the Lotus' artifacts. Stop them before they get away!\n\nYou may only use Secondary weapons on this mission."
   },
@@ -11933,6 +12902,102 @@
   },
   "/lotus/types/keys/tacalertkeyanniversary2018d": {
     "value": "--"
+  },
+  "/lotus/types/levelobjects/corpusbreakablevent": {
+    "value": "Corpus Breakable Vent"
+  },
+  "/lotus/types/levelobjects/grineerbreakablefan": {
+    "value": "Grineer Breakable Fan"
+  },
+  "/lotus/types/lore/lorefragmentscandeco": {
+    "value": "Lore Fragment Scan Deco"
+  },
+  "/lotus/types/neutralcreatures/catbrow/catbrowavatar": {
+    "value": "Catbrow Avatar"
+  },
+  "/lotus/types/neutralcreatures/creatureavatars/sandrayavatar": {
+    "value": "Sand Ray Avatar"
+  },
+  "/lotus/types/neutralcreatures/kubrow/kubrowavatar": {
+    "value": "Kubrow Avatar"
+  },
+  "/lotus/types/neutralcreatures/kubrow/kubrowden": {
+    "value": "Kubrow Den"
+  },
+  "/lotus/types/pickups/basemediumlootcrate": {
+    "value": "Base Medium Loot Crate"
+  },
+  "/lotus/types/pickups/derelictorokinlootcrate": {
+    "value": "Derelict Orokin Loot Crate"
+  },
+  "/lotus/types/pickups/lootcontainers/corpuslootcratecommon": {
+    "value": "Corpus Loot Crate Common"
+  },
+  "/lotus/types/pickups/lootcontainers/corpuslootcrateuncommon": {
+    "value": "Corpus Loot Crate Uncommon"
+  },
+  "/lotus/types/pickups/mediumlootcrate": {
+    "value": "Medium Loot Crate"
+  },
+  "/lotus/types/pickups/mediumlootcrategrna": {
+    "value": "Medium Loot Crate Grn A"
+  },
+  "/lotus/types/pickups/mediumlootcrategrnb": {
+    "value": "Medium Loot Crate Grn B"
+  },
+  "/lotus/types/pickups/mediumlootcrategrnforta": {
+    "value": "Medium Loot Crate Grn Fort A"
+  },
+  "/lotus/types/pickups/mediumlootcrategrnfortb": {
+    "value": "Medium Loot Crate Grn Fort B"
+  },
+  "/lotus/types/pickups/orokinlootcrate": {
+    "value": "Orokin Loot Crate"
+  },
+  "/lotus/types/pickups/rarecorpuslootcrate": {
+    "value": "Rare Corpus Loot Crate"
+  },
+  "/lotus/types/pickups/raregrineerlootcrate": {
+    "value": "Rare Grineer Loot Crate"
+  },
+  "/lotus/types/pickups/resourcecontainers/alloyplatecontainer": {
+    "value": "Alloy Plate Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/circuitscontainer": {
+    "value": "Circuits Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/controlmodulecontainer": {
+    "value": "Control Module Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/ferritecontainer": {
+    "value": "Ferrite Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/nanosporescontainer": {
+    "value": "Nano Spores Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/neurodescontainer": {
+    "value": "Neurodes Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/orokincellcontainer": {
+    "value": "Orokin Cell Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/plastidscontainer": {
+    "value": "Plastids Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/polymerbundlecontainer": {
+    "value": "Polymer Bundle Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/rubedocontainer": {
+    "value": "Rubedo Container"
+  },
+  "/lotus/types/pickups/resourcecontainers/salvagecontainer": {
+    "value": "Salvage Container"
+  },
+  "/lotus/types/pickups/ultrararegrineerlootcrate": {
+    "value": "Ultra Rare Grineer Loot Crate"
+  },
+  "/lotus/types/player/pvptennoavatar": {
+    "value": "Pvp Tenno Avatar"
   },
   "/lotus/types/recipes/components/formablueprint": {
     "value": "포르마 설계도"
@@ -12044,6 +13109,84 @@
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithreceiver": {
     "value": "레이스 트윈 바이퍼즈 리시버"
+  },
+  "/lotus/types/restoratives/deployables/lisetturretavatar": {
+    "value": "Liset Turret Avatar"
+  },
+  "/lotus/types/sentinels/sentinelavatar": {
+    "value": "Sentinel Avatar"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/arcdronepowersuit": {
+    "value": "Diriga"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/carrierpowersuit": {
+    "value": "캐리어"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/dethcubepowersuit": {
+    "value": "Deth Cube"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/gubberpowersuit": {
+    "value": "진"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/meleepetpowersuit": {
+    "value": "헬리오스"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/primecarrierpowersuit": {
+    "value": "캐리어 프라임"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/primeheliospowersuit": {
+    "value": "Helios Prime"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/primewyrmpowersuit": {
+    "value": "웜 프라임"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/prismashadepowersuit": {
+    "value": "프리즈마 셰이드"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/shadepowersuit": {
+    "value": "셰이드"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/tnsentinelcrosspowersuit": {
+    "value": "아르탁스"
+  },
+  "/lotus/types/sentinels/sentinelpowersuits/wyrmpowersuit": {
+    "value": "웜"
+  },
+  "/lotus/types/sentinels/sentinelweapons/burstlaserpistol": {
+    "value": "Burst Laser Pistol"
+  },
+  "/lotus/types/sentinels/sentinelweapons/deconstructorprime/primeheliosglaiveweapon": {
+    "value": "디컨스트럭터 프라임"
+  },
+  "/lotus/types/sentinels/sentinelweapons/dethmachinerifle": {
+    "value": "데스 머신 라이플"
+  },
+  "/lotus/types/sentinels/sentinelweapons/gremlin": {
+    "value": "Gremlin"
+  },
+  "/lotus/types/sentinels/sentinelweapons/laserrifle": {
+    "value": "레이저 라이플"
+  },
+  "/lotus/types/sentinels/sentinelweapons/primelaserrifle": {
+    "value": "Laser Rifle Prime"
+  },
+  "/lotus/types/sentinels/sentinelweapons/primesentshotgun": {
+    "value": "스위퍼 프라임"
+  },
+  "/lotus/types/sentinels/sentinelweapons/prismaburstlaserpistol": {
+    "value": "Prisma Burst Laser"
+  },
+  "/lotus/types/sentinels/sentinelweapons/sentbioweapon": {
+    "value": "스팅어"
+  },
+  "/lotus/types/sentinels/sentinelweapons/sentelecrailgun": {
+    "value": "Vulklok"
+  },
+  "/lotus/types/sentinels/sentinelweapons/sentglaiveweapon": {
+    "value": "디콘스트럭터"
+  },
+  "/lotus/types/sentinels/sentinelweapons/sentshotgun": {
+    "value": "스위퍼"
   },
   "/lotus/types/storeitems/avatarimages/avatarimagegrineerqueensved": {
     "value": "Grineer Queens Avatar"
@@ -12990,7 +14133,7 @@
   "/lotus/types/storeitems/packages/grineervharmourbundle": {
     "value": "Maggor Armor Bundle"
   },
-  "/Lotus/Types/StoreItems/Packages/GrineerVHItemsBundle": {
+  "/lotus/types/storeitems/packages/grineervhitemsbundle": {
     "value": "Maggor Assault Pack"
   },
   "/lotus/types/storeitems/packages/grnsealabeventweaponpack": {
@@ -13497,6 +14640,9 @@
   "/lotus/upgrades/mods/fusionbundles/alertfusionbundlesmall": {
     "value": "80 엔도"
   },
+  "/lotus/upgrades/mods/pvpmods/warframe/morehealthlessbulletjumpmod": {
+    "value": "More Health Less Bullet Jump Mod"
+  },
   "/lotus/upgrades/skins/antimatter/novaalternateskin": {
     "value": "노바 이모탈 스킨"
   },
@@ -13527,6 +14673,15 @@
   "/lotus/upgrades/skins/armor/setthreewinged/solsticesetthreelegarmor": {
     "value": "솔스티스 다이달로스 니 플레이트"
   },
+  "/lotus/upgrades/skins/armor/settwosamurai/settwochestarmor": {
+    "value": "Set Two Chest Armor"
+  },
+  "/lotus/upgrades/skins/armor/warframedefaults/frostdeluxearmarmor": {
+    "value": "Frost Deluxe Arm Armor"
+  },
+  "/lotus/upgrades/skins/armor/warframedefaults/frostprimearmarmor": {
+    "value": "Frost Prime Arm Armor"
+  },
   "/lotus/upgrades/skins/asp/sarynalternateskin": {
     "value": "새린 이모탈 스킨"
   },
@@ -13541,6 +14696,9 @@
   },
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "쿠바 카밧 아머"
+  },
+  "/lotus/upgrades/skins/clan/shipyardseventquantumbadgeitem": {
+    "value": "Shipyards Event Quantum Badge Item"
   },
   "/lotus/upgrades/skins/cowgirl/mesadeluxeskin": {
     "value": "Mesa Presidio Skin"
@@ -13584,14 +14742,29 @@
   "/lotus/upgrades/skins/frost/frostalternateskin": {
     "value": "프로스트 이모탈 스킨"
   },
+  "/lotus/upgrades/skins/frost/frostdeluxehelmet": {
+    "value": "Frost Deluxe Helmet"
+  },
   "/lotus/upgrades/skins/frost/frostdeluxesuit": {
     "value": "프로스트 하르카 스킨"
+  },
+  "/lotus/upgrades/skins/frost/frostnobleanims": {
+    "value": "Frost Noble Anims"
   },
   "/lotus/upgrades/skins/frost/frostxmasskin": {
     "value": "페스티브 프로스트 스킨"
   },
-  "/Lotus/Upgrades/Skins/Glass/GlassAltHelmet": {
-    "value": "가라 비라고 헬멧"
+  "/lotus/upgrades/skins/frost/swrfourfrostjotunhelmet": {
+    "value": "S W R Four Frost Jotun Helmet"
+  },
+  "/lotus/upgrades/skins/frost/swrthreefrostgrostskin": {
+    "value": "S W R Three Frost Grost Skin"
+  },
+  "/lotus/upgrades/skins/frost/swrthreefrostzastrugahelmet": {
+    "value": "S W R Three Frost Zastruga Helmet"
+  },
+  "/lotus/upgrades/skins/glass/glassalthelmet": {
+    "value": "Gara Virago Helmet"
   },
   "/lotus/upgrades/skins/halloween/halloweenaklato": {
     "value": "죽은 자의 날 아클라토 스킨"
@@ -13731,6 +14904,15 @@
   "/lotus/upgrades/skins/harlequin/miragexmasskin": {
     "value": "미라지 윈터 스킨"
   },
+  "/lotus/upgrades/skins/holstercustomizations/heavyupperback": {
+    "value": "Heavy Upper Back"
+  },
+  "/lotus/upgrades/skins/holstercustomizations/pistolhipsdual": {
+    "value": "Pistol Hips Dual"
+  },
+  "/lotus/upgrades/skins/holstercustomizations/rifleupperback": {
+    "value": "Rifle Upper Back"
+  },
   "/lotus/upgrades/skins/jade/nyxalternateskin": {
     "value": "닉스 이모탈 스킨"
   },
@@ -13797,8 +14979,41 @@
   "/lotus/upgrades/skins/ninja/ninjadeluxesuit": {
     "value": "코가 애쉬 스킨"
   },
+  "/lotus/upgrades/skins/operator/accessories/baromouthpiecea": {
+    "value": "Baro Mouth Piece A"
+  },
+  "/lotus/upgrades/skins/operator/bodies/femalebody": {
+    "value": "Female Body"
+  },
+  "/lotus/upgrades/skins/operator/bodysuits/nobodysuit": {
+    "value": "No Body Suit"
+  },
+  "/lotus/upgrades/skins/operator/facialmarkings/facialmarkingd": {
+    "value": "Facial Marking D"
+  },
+  "/lotus/upgrades/skins/operator/hair/hairj": {
+    "value": "Hair J"
+  },
+  "/lotus/upgrades/skins/operator/heads/femaleheadc": {
+    "value": "Female Head C"
+  },
+  "/lotus/upgrades/skins/operator/heads/femaleheadj": {
+    "value": "Female Head J"
+  },
+  "/lotus/upgrades/skins/operator/hoods/nohood": {
+    "value": "No Hood"
+  },
+  "/lotus/upgrades/skins/operator/leggings/noleggings": {
+    "value": "No Leggings"
+  },
   "/lotus/upgrades/skins/operator/skirts/hipsocketb": {
     "value": "Operator Hip Socket Bundle"
+  },
+  "/lotus/upgrades/skins/operator/skirts/noskirt": {
+    "value": "No Skirt"
+  },
+  "/lotus/upgrades/skins/operator/sleeves/nosleeves": {
+    "value": "No Sleeves"
   },
   "/lotus/upgrades/skins/paladin/oberonalternateskin": {
     "value": "오베론 이모탈 스킨"
@@ -13839,7 +15054,7 @@
   "/lotus/upgrades/skins/scarves/grnstrapsscarf": {
     "value": "라닥 클록"
   },
-  "/Lotus/Upgrades/Skins/Scarves/GrnVhCape": {
+  "/lotus/upgrades/skins/scarves/grnvhcape": {
     "value": "Maggor Syandana"
   },
   "/lotus/upgrades/skins/scarves/halloweenerosioncape": {
@@ -13866,6 +15081,12 @@
   "/lotus/upgrades/skins/scarves/magdeluxescarf": {
     "value": "바사 샨다나"
   },
+  "/lotus/upgrades/skins/scarves/swrthreeaquirosscarf": {
+    "value": "S W R Three Aquiros Scarf"
+  },
+  "/lotus/upgrades/skins/scarves/swrthreensaruscarf": {
+    "value": "S W R Three Nsaru Scarf"
+  },
   "/lotus/upgrades/skins/scarves/tnglasssyandana": {
     "value": "히알루스 샨다나"
   },
@@ -13875,6 +15096,18 @@
   "/lotus/upgrades/skins/sentinels/persiandjinnskin": {
     "value": "진 가잘 스킨"
   },
+  "/lotus/upgrades/skins/sigils/projectsinistersigil": {
+    "value": "Project Sinister Sigil"
+  },
+  "/lotus/upgrades/skins/sigils/scarsigil": {
+    "value": "Scar Sigil"
+  },
+  "/lotus/upgrades/skins/sigils/syndicatesigilsteelmeridianj": {
+    "value": "Syndicate Sigil Steel Meridian J"
+  },
+  "/lotus/upgrades/skins/sigils/syndicatesigilsteelmeridiank": {
+    "value": "Syndicate Sigil Steel Meridian K"
+  },
   "/lotus/upgrades/skins/trapper/vaubanalternateskin": {
     "value": "바우반 이모탈 스킨"
   },
@@ -13883,6 +15116,9 @@
   },
   "/lotus/upgrades/skins/trinity/trinitydeluxesuit": {
     "value": "트리니티 스트레가 스킨"
+  },
+  "/lotus/upgrades/skins/voices/operatorvoicecitem": {
+    "value": "Operator Voice C Item"
   },
   "/lotus/upgrades/skins/voidtrader/vtexcaliburskin": {
     "value": "엑스칼리버 프리즈마 스킨"
@@ -13896,14 +15132,86 @@
   "/lotus/weapons/cephalon/primary/cephprimary/cephprimary": {
     "value": "시뮬러"
   },
+  "/lotus/weapons/clantech/bio/aciddartpistol": {
+    "value": "아크리드"
+  },
+  "/lotus/weapons/clantech/bio/bioweapon": {
+    "value": "토리드"
+  },
+  "/lotus/weapons/clantech/chemical/flamethrower": {
+    "value": "이그니스"
+  },
+  "/lotus/weapons/clantech/chemical/flamethrowerwraith": {
+    "value": "이그니스 레이스"
+  },
+  "/lotus/weapons/clantech/chemical/rocketlauncher": {
+    "value": "오그리스"
+  },
+  "/lotus/weapons/clantech/energy/crpheavyrifle": {
+    "value": "수프라"
+  },
+  "/lotus/weapons/clantech/energy/crplaserpistol": {
+    "value": "스펙트라"
+  },
+  "/lotus/weapons/clantech/energy/crplaserrifle": {
+    "value": "프로바"
+  },
+  "/lotus/weapons/clantech/energy/deravandal": {
+    "value": "데라 반달"
+  },
+  "/lotus/weapons/clantech/energy/electroprod": {
+    "value": "Electro Prod"
+  },
+  "/lotus/weapons/clantech/energy/energyrifle": {
+    "value": "데라"
+  },
+  "/lotus/weapons/clantech/energy/railgun": {
+    "value": "란카"
+  },
+  "/lotus/weapons/clantech/energy/vandalelectroprod": {
+    "value": "프로바 반달"
+  },
   "/lotus/weapons/corpus/bow/longbow/crpbow": {
-    "value": "렌즈"
+    "value": "Crp Bow"
+  },
+  "/lotus/weapons/corpus/longguns/chainlightninggun/chainlightningrifle": {
+    "value": "앰프렉스"
+  },
+  "/lotus/weapons/corpus/longguns/corpusump/corpusump": {
+    "value": "테트라"
+  },
+  "/lotus/weapons/corpus/longguns/corpusump/prismacorpusump": {
+    "value": "프리즈마 테트라"
+  },
+  "/lotus/weapons/corpus/longguns/crpbfg/conclavebfg": {
+    "value": "Conclave B F G"
+  },
+  "/lotus/weapons/corpus/longguns/crpbfg/crpbfg": {
+    "value": "옵티코어"
+  },
+  "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
+    "value": "글랙시온"
+  },
+  "/lotus/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
+    "value": "콴타"
+  },
+  "/lotus/weapons/corpus/longguns/crpshockrifle/quantavandal": {
+    "value": "콴타 반달"
   },
   "/lotus/weapons/corpus/longguns/crpshotgun/crpshotgun": {
     "value": "아르카 플라즈모어"
   },
+  "/lotus/weapons/corpus/longguns/crpsplitlaser/crpsplitlaser": {
+    "value": "컨벡트릭스"
+  },
+  "/lotus/weapons/corpus/longguns/grenadelauncher/grenadelauncher": {
+    "value": "펜타"
+  },
+  "/lotus/weapons/corpus/longguns/machinegun/supravandal": {
+    "value": "Supra Vandal"
+  },
   "/lotus/weapons/corpus/longguns/spears/railgun/corpusrailgun": {
-    "value": "페록스"
+    "value": "Corpus Railgun"
   },
   "/lotus/weapons/corpus/melee/crptonfa/crptonfa": {
     "value": "오마"
@@ -13911,17 +15219,98 @@
   "/lotus/weapons/corpus/melee/hammer/corpushammerweapon": {
     "value": "아르카 티트론"
   },
+  "/lotus/weapons/corpus/melee/kickandpunch/kickpunchweapon": {
+    "value": "오벡스"
+  },
+  "/lotus/weapons/corpus/melee/kickandpunch/prismaobex": {
+    "value": "Prisma Obex"
+  },
+  "/lotus/weapons/corpus/melee/polearm/corpuspolearm01/corpuspolearmweapon": {
+    "value": "세로"
+  },
+  "/lotus/weapons/corpus/melee/whip/corpuswhipweapon": {
+    "value": "렉타"
+  },
+  "/lotus/weapons/corpus/pistols/corpushandshotgun/corpushandcannon": {
+    "value": "데트론"
+  },
+  "/lotus/weapons/corpus/pistols/corpusminigun/corpusminigun": {
+    "value": "세스트라"
+  },
+  "/lotus/weapons/corpus/pistols/corpusminigun/dualcorpusminigun": {
+    "value": "듀얼 세스트라"
+  },
+  "/lotus/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
+    "value": "Sonicor"
+  },
+  "/lotus/weapons/corpus/pistols/crpchargegun/crpchargegun": {
+    "value": "Crp Charge Gun"
+  },
   "/lotus/weapons/corpus/pistols/crpelectromag/crpelectromag": {
     "value": "스태티코어"
+  },
+  "/lotus/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
+    "value": "앙스트럼"
   },
   "/lotus/weapons/corpus/pistols/sniperpistol/crpscopegun": {
     "value": "아르카 시스코"
   },
-  "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas": {
-    "value": "트윈 그라카타"
+  "/lotus/weapons/grineer/emplacements/grndeployablecover/aridgrndeployablecover": {
+    "value": "Arid Grn Deployable Cover"
   },
-  "/lotus/weapons/grineer/longguns/grnfourbarrelrifle/grnfourbarrelrifleweapon": {
-    "value": "Quartakk"
+  "/lotus/weapons/grineer/emplacements/grndeployablecover/grineerdeployablecover": {
+    "value": "Grineer Deployable Cover"
+  },
+  "/lotus/weapons/grineer/emplacements/grndeployablecoverqueen/queengrndeployablecover": {
+    "value": "Queen Grn Deployable Cover"
+  },
+  "/lotus/weapons/grineer/emplacements/grnemplcmntstndng/grineeremplacementstanding": {
+    "value": "Grineer Emplacement Standing"
+  },
+  "/lotus/weapons/grineer/emplacements/grnemplcmntstndng/grineerfortressemplacementstanding": {
+    "value": "Grineer Fortress Emplacement Standing"
+  },
+  "/lotus/weapons/grineer/grineerpistol/grineerakimbopistol": {
+    "value": "트윈 그렘린즈"
+  },
+  "/lotus/weapons/grineer/grineerpistol/grineerlightpistol": {
+    "value": "바이퍼"
+  },
+  "/lotus/weapons/grineer/grineerpistol/grnheavypistol": {
+    "value": "Kracken"
+  },
+  "/lotus/weapons/grineer/grineerpistol/grnscopedpistolplayer": {
+    "value": "시어"
+  },
+  "/lotus/weapons/grineer/longguns/burstrifle/grnburstrifle": {
+    "value": "하인드"
+  },
+  "/lotus/weapons/grineer/longguns/grineerassaultrifle/grnassaultrifle": {
+    "value": "그린락"
+  },
+  "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas": {
+    "value": "Twin Grakatas"
+  },
+  "/lotus/weapons/grineer/longguns/grineerflakcannon/flakcannon": {
+    "value": "Flak Cannon"
+  },
+  "/lotus/weapons/grineer/longguns/grineerleveractionrifle/glarifle": {
+    "value": "G L A Rifle"
+  },
+  "/lotus/weapons/grineer/longguns/grineerm16homage/grineerm16rifle": {
+    "value": "카락"
+  },
+  "/lotus/weapons/grineer/longguns/grineerm16homage/karakwraith": {
+    "value": "벨로시투스"
+  },
+  "/lotus/weapons/grineer/longguns/grineersawbladegun/sawbladegun": {
+    "value": "마이터"
+  },
+  "/lotus/weapons/grineer/longguns/grineersniperrifle/grnsniperrifle": {
+    "value": "Vulkor"
+  },
+  "/lotus/weapons/grineer/longguns/grineersniperrifle/vulkarwraith": {
+    "value": "Vulkar Wraith"
   },
   "/lotus/weapons/grineer/longguns/grncannon/grncannonweapon": {
     "value": "자르"
@@ -13929,8 +15318,35 @@
   "/lotus/weapons/grineer/longguns/grnflamespear/grnflamespear": {
     "value": "자블락"
   },
+  "/lotus/weapons/grineer/longguns/grnfourbarrelrifle/grnfourbarrelrifleweapon": {
+    "value": "Quartakk"
+  },
+  "/lotus/weapons/grineer/longguns/grngorgsniperrifle/grngorgsniperrifle": {
+    "value": "버즐락"
+  },
+  "/lotus/weapons/grineer/longguns/grngrenadelauncher/grngrenadelauncher": {
+    "value": "톤코어"
+  },
+  "/lotus/weapons/grineer/longguns/grnharpoongun/grnharpoongun": {
+    "value": "Harpack"
+  },
+  "/lotus/weapons/grineer/longguns/grnspark/grnsparkrifle": {
+    "value": "콤"
+  },
   "/lotus/weapons/grineer/longguns/laseraimrifle/laseraimrifle": {
     "value": "아르고나크"
+  },
+  "/lotus/weapons/grineer/longguns/voidtradergorgon/vtgorgon": {
+    "value": "프리즈마 고르곤"
+  },
+  "/lotus/weapons/grineer/longguns/wraithgorgon/wraithgorgon": {
+    "value": "고르곤 레이스"
+  },
+  "/lotus/weapons/grineer/melee/grineerclaws/grnclaws": {
+    "value": "립카스"
+  },
+  "/lotus/weapons/grineer/melee/grineercombatknife/grineercombatknife": {
+    "value": "쉬브"
   },
   "/lotus/weapons/grineer/melee/grineerhalberd/grnhalberd": {
     "value": "케쉐그"
@@ -13938,23 +15354,98 @@
   "/lotus/weapons/grineer/melee/grineerjetpoweredpolearm/grineerjetpolearm": {
     "value": "젯 키타그"
   },
+  "/lotus/weapons/grineer/melee/grineermachetteandcleaver/dualcleaverweapon": {
+    "value": "듀얼 클리버즈"
+  },
+  "/lotus/weapons/grineer/melee/grineermachetteandcleaver/machete": {
+    "value": "마체테"
+  },
+  "/lotus/weapons/grineer/melee/grineermachetteandcleaver/prismadualcleavers": {
+    "value": "프리즈마 듀얼 클리버즈"
+  },
+  "/lotus/weapons/grineer/melee/grineermachetteandcleaver/wraithmacheteweapon": {
+    "value": "마체테 레이스"
+  },
+  "/lotus/weapons/grineer/melee/grineertylaxeandboar/regoraxeshield": {
+    "value": "아크 & 브런트"
+  },
+  "/lotus/weapons/grineer/melee/grineerwhip/grineerwhip": {
+    "value": "Atterak"
+  },
+  "/lotus/weapons/grineer/melee/grnboomerang/grnboomerang": {
+    "value": "Halikar Boomerang"
+  },
+  "/lotus/weapons/grineer/melee/grndualfireaxe/grndualfireaxe": {
+    "value": "Twin Basolk"
+  },
   "/lotus/weapons/grineer/melee/grnegyptswd/grnegyptswdweapon": {
     "value": "크로쿠르"
   },
   "/lotus/weapons/grineer/melee/grnkusarigama/grnkusarigamaweapon": {
-    "value": "젯 쿠사르"
+    "value": "Grn Kusarigama Weapon"
+  },
+  "/lotus/weapons/grineer/melee/grnqueensceptre/grnqueensceptreweapon": {
+    "value": "브로큰 셉터"
+  },
+  "/lotus/weapons/grineer/melee/grntrident/grntridentweapon": {
+    "value": "Sydon"
+  },
+  "/lotus/weapons/grineer/pistols/grineercrossbow/grineergoogun": {
+    "value": "스터그"
+  },
+  "/lotus/weapons/grineer/pistols/grineerhandshotgun/grineerhandcannon": {
+    "value": "Grineer Hand Cannon"
+  },
+  "/lotus/weapons/grineer/pistols/grineerleveractionpistol/glapistol": {
+    "value": "메어락"
+  },
+  "/lotus/weapons/grineer/pistols/grineermicrowavegun/grnmicrowavepistol": {
+    "value": "뉴코어"
   },
   "/lotus/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
-    "value": "트윈 코막"
+    "value": "Twin Kohmak"
+  },
+  "/lotus/weapons/grineer/pistols/grnkohmpistol/grnkohmpistol": {
+    "value": "코막"
   },
   "/lotus/weapons/grineer/pistols/grnqueenguarddualpistol/grnqueenguarddualpistols": {
     "value": "트윈 로가"
   },
+  "/lotus/weapons/grineer/pistols/grntorpedopistol/grntorpedopistol": {
+    "value": "컬스타"
+  },
   "/lotus/weapons/grineer/pistols/grnuzi/grnuziweapon": {
     "value": "Stubba"
   },
+  "/lotus/weapons/grineer/pistols/heatgun/grnheatgun": {
+    "value": "아토모스"
+  },
+  "/lotus/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
+    "value": "레이스 트윈 바이퍼즈"
+  },
+  "/lotus/weapons/grineer/shield/shieldattachment": {
+    "value": "Shield Attachment"
+  },
+  "/lotus/weapons/infested/bow/infcernosbow/infcernos": {
+    "value": "Mutalist Cernos"
+  },
+  "/lotus/weapons/infested/longguns/infcrpshockswarm/infcrpshockswarmrifle": {
+    "value": "뮤탈리스트 콴타"
+  },
+  "/lotus/weapons/infested/longguns/infestedrifle": {
+    "value": "시냅스"
+  },
   "/lotus/weapons/infested/longguns/infwfaccompanyingpri/infestedburstrifle": {
     "value": "헤마"
+  },
+  "/lotus/weapons/infested/longguns/quantafullyinfested/infquantarifle": {
+    "value": "뮤탈리스트 콴타"
+  },
+  "/lotus/weapons/infested/longguns/tentacluster/infestedshotgun": {
+    "value": "페이지"
+  },
+  "/lotus/weapons/infested/melee/glaives/punctureglaive/punctureglaiveweapon": {
+    "value": "세라타"
   },
   "/lotus/weapons/infested/melee/infembolistscythe/infestedscythe": {
     "value": "커스타시스트"
@@ -13962,17 +15453,245 @@
   "/lotus/weapons/infested/melee/infwfaccompanyingsparring/infestedkogake": {
     "value": "히루도"
   },
+  "/lotus/weapons/infested/melee/swords/mios/mios": {
+    "value": "Mios"
+  },
+  "/lotus/weapons/infested/melee/swords/mire/miresword": {
+    "value": "마이어"
+  },
+  "/lotus/weapons/infested/melee/tipedostaff/inftipedostaff": {
+    "value": "Lesion"
+  },
+  "/lotus/weapons/infested/melee/whip/infestedwhip/infestedwhipweapon": {
+    "value": "Mios"
+  },
+  "/lotus/weapons/infested/pistols/infesteddartpistol/infesteddartpistol": {
+    "value": "타이시스"
+  },
+  "/lotus/weapons/infested/pistols/infestedpistol": {
+    "value": "엠볼리스트"
+  },
   "/lotus/weapons/infested/pistols/infproximitystars/infproximitystars": {
     "value": "폭스"
+  },
+  "/lotus/weapons/infested/pistols/infvomitgun/infvomitgunwep": {
+    "value": "Dual Toxocyst"
+  },
+  "/lotus/weapons/mk1series/mk1bo": {
+    "value": "MK1-Bo"
+  },
+  "/lotus/weapons/mk1series/mk1braton": {
+    "value": "MK1-Braton"
+  },
+  "/lotus/weapons/mk1series/mk1furax": {
+    "value": "MK1-Furax"
+  },
+  "/lotus/weapons/mk1series/mk1furis": {
+    "value": "MK1-Furis"
+  },
+  "/lotus/weapons/mk1series/mk1kunai": {
+    "value": "MK1-Kunai"
+  },
+  "/lotus/weapons/mk1series/mk1strun": {
+    "value": "MK1 Strun"
+  },
+  "/lotus/weapons/syndicates/arbitersofhexis/longguns/ahboltor": {
+    "value": "Telos Boltor"
+  },
+  "/lotus/weapons/syndicates/arbitersofhexis/melee/ahboltace": {
+    "value": "Telos Boltace"
+  },
+  "/lotus/weapons/syndicates/arbitersofhexis/pistols/ahakbolto": {
+    "value": "텔로스 아크볼토"
+  },
+  "/lotus/weapons/syndicates/cephalonsuda/longguns/cssimulor": {
+    "value": "Synoid Simulor"
+  },
+  "/lotus/weapons/syndicates/cephalonsuda/melee/csheliocor": {
+    "value": "Synoid Heliocor"
+  },
+  "/lotus/weapons/syndicates/cephalonsuda/pistols/csdroidarray": {
+    "value": "감마코어"
+  },
+  "/lotus/weapons/syndicates/cephalonsuda/pistols/cssynoidgammacor": {
+    "value": "Synoid Synoid Gammacor"
+  },
+  "/lotus/weapons/syndicates/newloka/longguns/nltigris": {
+    "value": "Sancti Tigris"
+  },
+  "/lotus/weapons/syndicates/newloka/melee/nlmagistar": {
+    "value": "Sancti Magistar"
+  },
+  "/lotus/weapons/syndicates/newloka/pistols/nlcastanas": {
+    "value": "생티 캐스타나스"
+  },
+  "/lotus/weapons/syndicates/perrinsequence/longguns/pspenta": {
+    "value": "Secura Penta"
+  },
+  "/lotus/weapons/syndicates/perrinsequence/melee/pslecta": {
+    "value": "Secura Lecta"
+  },
+  "/lotus/weapons/syndicates/perrinsequence/pistols/psdualcestra": {
+    "value": "세큐라 듀얼 세스트라"
+  },
+  "/lotus/weapons/syndicates/redveil/bows/rvcernos": {
+    "value": "Rakta Cernos"
+  },
+  "/lotus/weapons/syndicates/redveil/melee/rvdarkdagger": {
+    "value": "Rakta Dark Dagger"
+  },
+  "/lotus/weapons/syndicates/redveil/pistols/rvballistica": {
+    "value": "락타 발리스티카"
+  },
+  "/lotus/weapons/syndicates/steelmeridian/longguns/smhek": {
+    "value": "Vaykor Hek"
+  },
+  "/lotus/weapons/syndicates/steelmeridian/melee/smsydon": {
+    "value": "Vaykor Sydon"
+  },
+  "/lotus/weapons/syndicates/steelmeridian/pistols/smmarelok": {
+    "value": "베이코어 메어락"
+  },
+  "/lotus/weapons/tenno/akimbo/akimboautopistols": {
+    "value": "아퓨리스"
+  },
+  "/lotus/weapons/tenno/akimbo/akimbobolto": {
+    "value": "AkBolto"
+  },
+  "/lotus/weapons/tenno/akimbo/akimbopistol": {
+    "value": "AkLato"
+  },
+  "/lotus/weapons/tenno/akimbo/akimboshotgun": {
+    "value": "AkBronco"
+  },
+  "/lotus/weapons/tenno/akimbo/akimboviperpistols": {
+    "value": "트윈 바이퍼즈"
+  },
+  "/lotus/weapons/tenno/akimbo/aklexpistols": {
+    "value": "AkLex"
+  },
+  "/lotus/weapons/tenno/akimbo/aklexprimepistols": {
+    "value": "AkLex Prime"
+  },
+  "/lotus/weapons/tenno/akimbo/dualmagnus": {
+    "value": "AkMagnus"
+  },
+  "/lotus/weapons/tenno/akimbo/dualvastos": {
+    "value": "AkVastos"
+  },
+  "/lotus/weapons/tenno/akimbo/primeakimboshotgun": {
+    "value": "AkBronco Prime"
+  },
+  "/lotus/weapons/tenno/archwing/melee/archaxe/archaxeweapon": {
+    "value": "오노릭스"
+  },
+  "/lotus/weapons/tenno/archwing/melee/archhammer/archhammer": {
+    "value": "래스본"
+  },
+  "/lotus/weapons/tenno/archwing/melee/archscythe/archscythe": {
+    "value": "카스자스"
+  },
+  "/lotus/weapons/tenno/archwing/melee/archsword/archswordweapon": {
+    "value": "베리턱스"
+  },
+  "/lotus/weapons/tenno/archwing/melee/archswordandshield/archswordshield": {
+    "value": "센타우르"
   },
   "/lotus/weapons/tenno/archwing/melee/archswordhook/archhookswordweapon": {
     "value": "악쿠자 아크윙 근접 무기"
   },
+  "/lotus/weapons/tenno/archwing/melee/grnarchhand/grnarchhandweapon": {
+    "value": "크눅스"
+  },
+  "/lotus/weapons/tenno/archwing/melee/voidtraderarchsword/vtarchswordweapon": {
+    "value": "프리즈마 베리턱스"
+  },
   "/lotus/weapons/tenno/archwing/primary/archburstgun/archburstgun": {
     "value": "싱가스 아크윙 총기"
   },
+  "/lotus/weapons/tenno/archwing/primary/archwingheavypistols/archheavypistols": {
+    "value": "듀얼 데큐리온"
+  },
+  "/lotus/weapons/tenno/archwing/primary/foldingmachinegun/archmachinegun": {
+    "value": "임페라토르"
+  },
+  "/lotus/weapons/tenno/archwing/primary/foldingmachinegun/archmachinegunvandal": {
+    "value": "임페라토르 반달"
+  },
+  "/lotus/weapons/tenno/archwing/primary/launchgrenade/archcannon": {
+    "value": "코르바스"
+  },
+  "/lotus/weapons/tenno/archwing/primary/railgun/archrailgun": {
+    "value": "Arch Railgun"
+  },
+  "/lotus/weapons/tenno/archwing/primary/repurposedgrineerantiaircraftgun/archgrnaagun": {
+    "value": "Grattler"
+  },
+  "/lotus/weapons/tenno/archwing/primary/rocketartillery/archrocketcrossbow": {
+    "value": "플럭투스"
+  },
+  "/lotus/weapons/tenno/bows/antlerbow/antlerbow": {
+    "value": "세르노스"
+  },
+  "/lotus/weapons/tenno/bows/asymetricalbow/asymetricalbow": {
+    "value": "다이큐"
+  },
+  "/lotus/weapons/tenno/bows/huntingbow": {
+    "value": "패리스"
+  },
+  "/lotus/weapons/tenno/bows/primecernos/primecernos": {
+    "value": "세르노스 프라임"
+  },
+  "/lotus/weapons/tenno/bows/primehuntingbow": {
+    "value": "패리스 프라임"
+  },
+  "/lotus/weapons/tenno/bows/stalkerbow": {
+    "value": "드레드"
+  },
+  "/lotus/weapons/tenno/bows/valentinesconclavevariantbow": {
+    "value": "Valentines Conclave Variant Bow"
+  },
+  "/lotus/weapons/tenno/longguns/dexthethird/dexthethird": {
+    "value": "덱스 시바리스"
+  },
+  "/lotus/weapons/tenno/longguns/doublebarrelshotgun/tennodoublebarrelshotgun": {
+    "value": "티그리스"
+  },
+  "/lotus/weapons/tenno/longguns/drakerifle/drakerifle": {
+    "value": "티버론"
+  },
+  "/lotus/weapons/tenno/longguns/fiveshotsniper/fiveshotsniper": {
+    "value": "Rubico"
+  },
+  "/lotus/weapons/tenno/longguns/loginprimary/sundialrifle": {
+    "value": "Sundial Rifle"
+  },
+  "/lotus/weapons/tenno/longguns/miter/tnomiter": {
+    "value": "팬서라"
+  },
+  "/lotus/weapons/tenno/longguns/primeboltor/primeboltor": {
+    "value": "볼터 프라임"
+  },
+  "/lotus/weapons/tenno/longguns/primeburston/primeburston": {
+    "value": "버스튼 프라임"
+  },
+  "/lotus/weapons/tenno/longguns/primesoma/primesomarifle": {
+    "value": "소마 프라임"
+  },
+  "/lotus/weapons/tenno/longguns/primesybaris/primesybarisrifle": {
+    "value": "Sybaris Prime"
+  },
+  "/lotus/weapons/tenno/longguns/primetigris/primetigris": {
+    "value": "Tigris Prime"
+  },
+  "/lotus/weapons/tenno/longguns/primevectis/primevectisrifle": {
+    "value": "Prime Vectis"
+  },
+  "/lotus/weapons/tenno/longguns/repeatingcrossbow/repeatingcrossbow": {
+    "value": "Zhuge"
+  },
   "/lotus/weapons/tenno/longguns/tennotommygun/tennotommygunrifle": {
-    "value": "스트라다바"
+    "value": "Stradavar"
   },
   "/lotus/weapons/tenno/longguns/tnbardrifle/tnbardrifle": {
     "value": "테노라"
@@ -13983,38 +15702,473 @@
   "/lotus/weapons/tenno/longguns/tnheavyshotgun/tnheavyshotgungun": {
     "value": "Corinth"
   },
+  "/lotus/weapons/tenno/longguns/tnoleveraction/tnoleveractionrifle": {
+    "value": "시바리스"
+  },
+  "/lotus/weapons/tenno/longguns/tnoprmryxbow/tnoprmryxbowweapon": {
+    "value": "아티카"
+  },
+  "/lotus/weapons/tenno/longguns/tnpriestspear/tnpriestspeargun": {
+    "value": "Tn Priest Spear Gun"
+  },
   "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
     "value": "Baza"
   },
+  "/lotus/weapons/tenno/longguns/wraithlatron/wraithlatron": {
+    "value": "래트론 레이스"
+  },
+  "/lotus/weapons/tenno/melee/axe/axeweapon": {
+    "value": "신도"
+  },
+  "/lotus/weapons/tenno/melee/axe/dualaxeweapon": {
+    "value": "듀얼 조런"
+  },
+  "/lotus/weapons/tenno/melee/axe/dualinfestedaxesweapon": {
+    "value": "듀얼 이코르"
+  },
+  "/lotus/weapons/tenno/melee/axe/primescindo/primescindoweapon": {
+    "value": "신도 프라임"
+  },
+  "/lotus/weapons/tenno/melee/brass knuckles/brassknuckles": {
+    "value": "코가케"
+  },
+  "/lotus/weapons/tenno/melee/claws/tennoclaws": {
+    "value": "벤카"
+  },
+  "/lotus/weapons/tenno/melee/cronussword/cronuslongsword": {
+    "value": "크로노스"
+  },
+  "/lotus/weapons/tenno/melee/cronussword/primecronuslongsword": {
+    "value": "다크라 프라임"
+  },
+  "/lotus/weapons/tenno/melee/dagger/ceramicdagger": {
+    "value": "세라믹 대거"
+  },
+  "/lotus/weapons/tenno/melee/dagger/dagger": {
+    "value": "히트 대거"
+  },
+  "/lotus/weapons/tenno/melee/dagger/darkdagger": {
+    "value": "다크 대거"
+  },
+  "/lotus/weapons/tenno/melee/dualdagger/dualdagger": {
+    "value": "팽"
+  },
+  "/lotus/weapons/tenno/melee/dualdagger/dualetherdagger": {
+    "value": "Dual Ether Dagger"
+  },
+  "/lotus/weapons/tenno/melee/dualdagger/fangprimedagger": {
+    "value": "팽 프라임"
+  },
+  "/lotus/weapons/tenno/melee/dualkamas/dualkamas": {
+    "value": "듀얼 카마스"
+  },
+  "/lotus/weapons/tenno/melee/dualkamas/singlekama": {
+    "value": "카마"
+  },
+  "/lotus/weapons/tenno/melee/dualshortsword/dualethersword": {
+    "value": "듀얼 에테르"
+  },
+  "/lotus/weapons/tenno/melee/dualshortsword/dualheatswords": {
+    "value": "듀얼 히트 소드"
+  },
+  "/lotus/weapons/tenno/melee/dualshortsword/dualshortsword": {
+    "value": "듀얼 에테르"
+  },
+  "/lotus/weapons/tenno/melee/fist/fist": {
+    "value": "퓨렉스"
+  },
+  "/lotus/weapons/tenno/melee/fist/furaxwraith": {
+    "value": "퓨렉스 레이스"
+  },
+  "/lotus/weapons/tenno/melee/gauntlet/brawlerknuckles/brawlerknuckles": {
+    "value": "Tekko"
+  },
+  "/lotus/weapons/tenno/melee/gauntlet/gauntlet": {
+    "value": "앤카이로스"
+  },
+  "/lotus/weapons/tenno/melee/gauntlet/primeankyros/primeankyros": {
+    "value": "앤카이로스 프라임"
+  },
+  "/lotus/weapons/tenno/melee/glaives/boomerang/boomerangweapon": {
+    "value": "케스트렐"
+  },
+  "/lotus/weapons/tenno/melee/glaives/lightglaive/lightglaiveweapon": {
+    "value": "글레이브"
+  },
+  "/lotus/weapons/tenno/melee/glaives/primeglaive/primeglaiveweapon": {
+    "value": "글레이브 프라임"
+  },
+  "/lotus/weapons/tenno/melee/glaives/teshinglaive/tnteshinglaivewep": {
+    "value": "Orvius"
+  },
+  "/lotus/weapons/tenno/melee/greatsword/greatsword": {
+    "value": "그람"
+  },
   "/lotus/weapons/tenno/melee/gunblade/gunbladeautomatic/tnogunbladeautomatic": {
-    "value": "사르파"
+    "value": "Gunblade"
+  },
+  "/lotus/weapons/tenno/melee/gunblade/tnogunblade": {
+    "value": "리디머"
   },
   "/lotus/weapons/tenno/melee/hammer/glasshammer/glasshammer": {
     "value": "볼누스"
   },
+  "/lotus/weapons/tenno/melee/hammer/hammerweapon": {
+    "value": "프래거"
+  },
+  "/lotus/weapons/tenno/melee/hammer/icehammer/icehammer": {
+    "value": "Sibear"
+  },
+  "/lotus/weapons/tenno/melee/longsword/ethersword": {
+    "value": "에테르 소드"
+  },
+  "/lotus/weapons/tenno/melee/longsword/longsword": {
+    "value": "스카나"
+  },
+  "/lotus/weapons/tenno/melee/longsword/skanaprime": {
+    "value": "스카나 프라임"
+  },
+  "/lotus/weapons/tenno/melee/maces/paladinmace/paladinmaceweapon": {
+    "value": "마기스타"
+  },
+  "/lotus/weapons/tenno/melee/nunchaku/nunchaku/nunchaku": {
+    "value": "Nonkondi"
+  },
+  "/lotus/weapons/tenno/melee/nunchaku/tnonunchaku/tnonunchaku": {
+    "value": "Shaku"
+  },
   "/lotus/weapons/tenno/melee/persianmachete/djinnmachete": {
-    "value": "가잘 마체테"
+    "value": "Gazal"
+  },
+  "/lotus/weapons/tenno/melee/polearms/flowerpowerpolearm/flowerpowerpolearmwep": {
+    "value": "톤보"
+  },
+  "/lotus/weapons/tenno/melee/polearms/polearmweapon": {
+    "value": "오르도스"
+  },
+  "/lotus/weapons/tenno/melee/polearms/primepolearmweapon": {
+    "value": "오르도스 프라임"
   },
   "/lotus/weapons/tenno/melee/polearms/tnguandaopolearm/tnguandaopolearmweapon": {
-    "value": "관도"
+    "value": "Tn Guandao Polearm Weapon"
   },
   "/lotus/weapons/tenno/melee/polearms/tnhalberdpolearm/tnhalberdpolearmweapon": {
     "value": "Cassowar"
   },
+  "/lotus/weapons/tenno/melee/primedualkamas/primedualkamas": {
+    "value": "듀얼 카마스 프라임"
+  },
+  "/lotus/weapons/tenno/melee/primefragor/primefragor": {
+    "value": "Fragor Prime"
+  },
+  "/lotus/weapons/tenno/melee/primevenka/primevenkaclaws": {
+    "value": "Venka Prime"
+  },
+  "/lotus/weapons/tenno/melee/scythe/etherscytheweapon": {
+    "value": "에테르 리퍼"
+  },
+  "/lotus/weapons/tenno/melee/scythe/parisscythe/parisscythe": {
+    "value": "안쿠"
+  },
+  "/lotus/weapons/tenno/melee/scythe/parisscythe/variantxmasscythe": {
+    "value": "Variant Xmas Scythe"
+  },
+  "/lotus/weapons/tenno/melee/scythe/reaperweapon": {
+    "value": "리퍼 프라임"
+  },
+  "/lotus/weapons/tenno/melee/scythe/stalkerscytheweapon": {
+    "value": "헤이트"
+  },
+  "/lotus/weapons/tenno/melee/soma/somadualkamas": {
+    "value": "듀얼 라자"
+  },
+  "/lotus/weapons/tenno/melee/staff/grnstaff": {
+    "value": "앰피스"
+  },
+  "/lotus/weapons/tenno/melee/staff/monkspade/tnomonkstaff": {
+    "value": "티페도"
+  },
+  "/lotus/weapons/tenno/melee/staff/primebo/primeboweapon": {
+    "value": "보 프라임"
+  },
+  "/lotus/weapons/tenno/melee/staff/staff": {
+    "value": "보"
+  },
+  "/lotus/weapons/tenno/melee/sundialaxe/sundialaxeweapon": {
+    "value": "Zenistar"
+  },
+  "/lotus/weapons/tenno/melee/swords/cutlassandpoignard/cutlasspoignardswords": {
+    "value": "나미 스카일라"
+  },
+  "/lotus/weapons/tenno/melee/swords/cutlassandpoignard/tennocutlass": {
+    "value": "나미 솔로"
+  },
+  "/lotus/weapons/tenno/melee/swords/darksword/darklongsword": {
+    "value": "다크 소드"
+  },
   "/lotus/weapons/tenno/melee/swords/darksword/darksworddaggerhybridweapon": {
-    "value": "다크 스플릿 소드"
+    "value": "Dark Split-Sword"
+  },
+  "/lotus/weapons/tenno/melee/swords/dexthesecond/dexthesecond": {
+    "value": "덱스 다크라"
+  },
+  "/lotus/weapons/tenno/melee/swords/greatsword/tennogreatsword": {
+    "value": "갈라틴"
+  },
+  "/lotus/weapons/tenno/melee/swords/heatsword/heatlongsword": {
+    "value": "히트 소드"
+  },
+  "/lotus/weapons/tenno/melee/swords/jawsword/jawlongsword": {
+    "value": "조우 소드"
+  },
+  "/lotus/weapons/tenno/melee/swords/katanaandwakizashi/katana": {
+    "value": "니카나"
+  },
+  "/lotus/weapons/tenno/melee/swords/katanaandwakizashi/lowkatana": {
+    "value": "드래곤 니카나"
+  },
+  "/lotus/weapons/tenno/melee/swords/katanaandwakizashi/variantkatana": {
+    "value": "Variant Katana"
+  },
+  "/lotus/weapons/tenno/melee/swords/krisdagger/krisdagger": {
+    "value": "캐리스트"
+  },
+  "/lotus/weapons/tenno/melee/swords/pangolinsword/pangolinlongsword": {
+    "value": "팽골린 소드"
+  },
+  "/lotus/weapons/tenno/melee/swords/plasmasword/plasmalongsword": {
+    "value": "플라즈마 소드"
+  },
+  "/lotus/weapons/tenno/melee/swords/primegalatine/primegalatine": {
+    "value": "Galatine Prime"
+  },
+  "/lotus/weapons/tenno/melee/swords/primekatana/primenikana": {
+    "value": "Nikana Prime"
+  },
+  "/lotus/weapons/tenno/melee/swords/stalkermios/stalkermios": {
+    "value": "라세라"
+  },
+  "/lotus/weapons/tenno/melee/swords/stalkertwo/stalkertwogreatsword": {
+    "value": "War"
+  },
+  "/lotus/weapons/tenno/melee/swords/stalkertwo/stalkertwosmallsword": {
+    "value": "브로큰 워"
+  },
+  "/lotus/weapons/tenno/melee/swords/tennosai/tennosais": {
+    "value": "Okina"
+  },
+  "/lotus/weapons/tenno/melee/swords/threeleaf/threeleaf": {
+    "value": "Three Leaf"
+  },
+  "/lotus/weapons/tenno/melee/swords/tnorapier/tnorapier": {
+    "value": "데스트레자"
+  },
+  "/lotus/weapons/tenno/melee/swordsandboards/meleecontestwinnerone/tennoswordshield": {
+    "value": "실바 & 이지스"
+  },
+  "/lotus/weapons/tenno/melee/tonfa/boltonfa/boltonfa": {
+    "value": "볼테이스"
   },
   "/lotus/weapons/tenno/melee/tonfa/tonfacontestwinner/tennotonfa": {
     "value": "크로넨"
+  },
+  "/lotus/weapons/tenno/pistol/autopistol": {
+    "value": "퓨리스"
+  },
+  "/lotus/weapons/tenno/pistol/broncoprime": {
+    "value": "브롱코 프라임"
+  },
+  "/lotus/weapons/tenno/pistol/burstpistol": {
+    "value": "시카루스"
+  },
+  "/lotus/weapons/tenno/pistol/crossbow": {
+    "value": "발리스티카"
+  },
+  "/lotus/weapons/tenno/pistol/handshotgun": {
+    "value": "파이라나"
+  },
+  "/lotus/weapons/tenno/pistol/heavypistol": {
+    "value": "렉스"
+  },
+  "/lotus/weapons/tenno/pistol/latoprime": {
+    "value": "라토 프라임"
+  },
+  "/lotus/weapons/tenno/pistol/latovandal": {
+    "value": "라토 반달"
+  },
+  "/lotus/weapons/tenno/pistol/pistol": {
+    "value": "볼토"
+  },
+  "/lotus/weapons/tenno/pistol/revolverpistol": {
+    "value": "바스토"
+  },
+  "/lotus/weapons/tenno/pistols/allnew1hsg/allnew1hsg": {
+    "value": "Euphona Prime"
+  },
+  "/lotus/weapons/tenno/pistols/automatichandcrossbow/autocrossbow": {
+    "value": "발리스티카"
+  },
+  "/lotus/weapons/tenno/pistols/dexfuris/dexfuris": {
+    "value": "덱스 퓨리스"
+  },
+  "/lotus/weapons/tenno/pistols/harlequingun/harlequinpistols": {
+    "value": "아크자니"
+  },
+  "/lotus/weapons/tenno/pistols/magnum/magnum": {
+    "value": "매그너스"
+  },
+  "/lotus/weapons/tenno/pistols/primeakstiletto/primeakstiletto": {
+    "value": "아크스틸레토 프라임"
+  },
+  "/lotus/weapons/tenno/pistols/primelex/primelex": {
+    "value": "렉스 프라임"
+  },
+  "/lotus/weapons/tenno/pistols/primesicarus/primesicaruspistol": {
+    "value": "시카루스 프라임"
+  },
+  "/lotus/weapons/tenno/pistols/primevasto/primevastopistol": {
+    "value": "바스토 프라임"
+  },
+  "/lotus/weapons/tenno/pistols/sawnoffshotgun/tennohandshotgun": {
+    "value": "파이라나"
+  },
+  "/lotus/weapons/tenno/pistols/somasidearm/akimbosomapistols": {
+    "value": "아크소마티"
+  },
+  "/lotus/weapons/tenno/pistols/sundialgun/sundialpistol": {
+    "value": "아지마"
+  },
+  "/lotus/weapons/tenno/pistols/tennouzi/tennouzi": {
+    "value": "아크스틸레토"
+  },
+  "/lotus/weapons/tenno/pistols/tigrisredeemersetpistol/tnobladedpistols": {
+    "value": "아크자가라"
   },
   "/lotus/weapons/tenno/pistols/tnbardpistol/tnbardpistolgun": {
     "value": "판데로"
   },
   "/lotus/weapons/tenno/pistols/tnguandopistol/tnguandopistolgun": {
-    "value": "자크티"
+    "value": "Tn Guando Pistol Gun"
+  },
+  "/lotus/weapons/tenno/pistols/tnpriestpistolscope/tnpriestpistolweapon": {
+    "value": "Tn Priest Pistol Weapon"
+  },
+  "/lotus/weapons/tenno/rifle/boltorifle": {
+    "value": "볼터"
+  },
+  "/lotus/weapons/tenno/rifle/bratonprime": {
+    "value": "브래튼 프라임"
+  },
+  "/lotus/weapons/tenno/rifle/burstrifle": {
+    "value": "버스튼"
+  },
+  "/lotus/weapons/tenno/rifle/heavyrifle": {
+    "value": "고르곤"
+  },
+  "/lotus/weapons/tenno/rifle/latronprime": {
+    "value": "래트론 프라임"
+  },
+  "/lotus/weapons/tenno/rifle/rifle": {
+    "value": "브래튼"
+  },
+  "/lotus/weapons/tenno/rifle/semiautorifle": {
+    "value": "래트론"
+  },
+  "/lotus/weapons/tenno/rifle/sniperrifle": {
+    "value": "스나이프트론"
+  },
+  "/lotus/weapons/tenno/rifle/startingrifle": {
+    "value": "MK1-Braton"
+  },
+  "/lotus/weapons/tenno/rifle/tennoar": {
+    "value": "소마"
+  },
+  "/lotus/weapons/tenno/rifle/tennosniperrifle": {
+    "value": "벡티스"
+  },
+  "/lotus/weapons/tenno/rifle/vandalsniperrifle": {
+    "value": "스나이프트론 반달"
+  },
+  "/lotus/weapons/tenno/shotgun/doublebarrelshotgun": {
+    "value": "티그리스"
+  },
+  "/lotus/weapons/tenno/shotgun/eviseratorweapon": {
+    "value": "Eviserator Weapon"
+  },
+  "/lotus/weapons/tenno/shotgun/fullautoshotgun": {
+    "value": "보어"
+  },
+  "/lotus/weapons/tenno/shotgun/primeboar": {
+    "value": "보어 프라임"
+  },
+  "/lotus/weapons/tenno/shotgun/quadshotgun": {
+    "value": "헥"
+  },
+  "/lotus/weapons/tenno/shotgun/shotgun": {
+    "value": "스트런"
+  },
+  "/lotus/weapons/tenno/shotgun/shotgunvandal": {
+    "value": "스트런 레이스"
   },
   "/lotus/weapons/tenno/throwingweapons/glasskunai/glasskunaiweapon": {
     "value": "푸실라이"
+  },
+  "/lotus/weapons/tenno/throwingweapons/kunai": {
+    "value": "쿠나이"
+  },
+  "/lotus/weapons/tenno/throwingweapons/lidagger/lidagger": {
+    "value": "Spira"
+  },
+  "/lotus/weapons/tenno/throwingweapons/primelidagger/primelidagger": {
+    "value": "Prime Li Dagger"
+  },
+  "/lotus/weapons/tenno/throwingweapons/primethrowingstar/primehikou": {
+    "value": "히코우 프라임"
+  },
+  "/lotus/weapons/tenno/throwingweapons/stalkerkunai": {
+    "value": "디스페어"
+  },
+  "/lotus/weapons/tenno/throwingweapons/stickybomb/stickybombs": {
+    "value": "히코우"
+  },
+  "/lotus/weapons/tenno/throwingweapons/tennostars": {
+    "value": "Tenno Stars"
+  },
+  "/lotus/weapons/tenno/throwingweapons/u18throwingknives/u18throwingknives": {
+    "value": "Talons"
+  },
+  "/lotus/weapons/tenno/throwingweapons/variantsnowballs": {
+    "value": "Variant Snow Balls"
+  },
+  "/lotus/weapons/tenno/throwingweapons/varianttennostars": {
+    "value": "Variant Tenno Stars"
+  },
+  "/lotus/weapons/voidtrader/prismagrakata": {
+    "value": "프리즈마 그라카타"
+  },
+  "/lotus/weapons/voidtrader/prismaskana": {
+    "value": "프리즈마 스카나"
+  },
+  "/lotus/weapons/voidtrader/vtdetron": {
+    "value": "Mara Detron"
+  },
+  "5541862206c56f445f529122": {
+    "value": "5541862206c56f445f529122"
+  },
+  "5541863a07c56f3d4adf9981": {
+    "value": "5541863a07c56f3d4adf9981"
+  },
+  "55e4bd0c08c56fd36718a117": {
+    "value": "55e4bd0c08c56fd36718a117"
+  },
+  "5640d72c07c56f2f397b25ce": {
+    "value": "5640d72c07c56f2f397b25ce"
+  },
+  "5642b4d508c56ff9117b60be": {
+    "value": "5642b4d508c56ff9117b60be"
+  },
+  "5642c37d07c56f8b317b5fdb": {
+    "value": "5642c37d07c56f8b317b5fdb"
   },
   "ProjectIndex": {
     "value": "인덱스 포인트"
