@@ -9763,13 +9763,13 @@
         "url": "http://warframe.wikia.com/wiki/Veldt",
         "mr": 8,
         "type": "Primary",
-        "subtype": "Sturmgewehr",
+        "subtype": "Rifle",
         "riven_disposition": 3,
         "crit_chance": 22,
         "crit_mult": "2.2",
         "status_chance": 22,
         "polarities": [
-
+            "naramon"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b5/Veldt.png/revision/latest?cb=20180417192137",
         "speed": "3.67",
