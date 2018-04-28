@@ -21,7 +21,7 @@
     "SORTIE_MODIFIER_HAZARD_FOG": "Danger environnemental: Brouillard dense",
     "SORTIE_MODIFIER_HAZARD_FIRE": "Danger environnemental: Feu",
     "SORTIE_MODIFIER_HAZARD_ICE": "Danger environnemental: Fuite Cryogénique",
-    "SORTIE_MODIFIER_HAZARD_COLD": "Environmental Effect: Extreme Cold",
+    "SORTIE_MODIFIER_HAZARD_COLD": "Effet environnemental : Froid Extrême",
     "SORTIE_MODIFIER_ARMOR": "Armure ennemie augmentée",
     "SORTIE_MODIFIER_SHIELDS": "Boucliers ennemis augmentés",
     "SORTIE_MODIFIER_SECONDARY_ONLY": "Restriction d’arme : Pistolet uniquement",
@@ -125,7 +125,7 @@
       "faction": "Infesté"
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
-      "name": "Corrupted Vor",
+      "name": "Vor Corrompu",
       "faction": "Corrompu"
     }
   },
