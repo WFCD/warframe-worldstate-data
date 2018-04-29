@@ -1130,9 +1130,9 @@
     "value": "Verdi (Mercure)"
   },
   "SolNode228": {
-    "value": "Plains of Eidolon (Earth)",
+    "value": "Plaines d'Eidolon (Terre)",
     "enemy": "Grineer",
-    "type": "Free Roam"
+    "type": "Incursion"
   },
   "SolNode400": {
     "value": "Teshub (Le Néant)",
@@ -1155,7 +1155,7 @@
     "type": "Défense Mobile"
   },
   "SolNode404": {
-    "value": "Stribog (Void)",
+    "value": "Stribog (Néant)",
     "enemy": "Corrompu",
     "type": "Sabotage Orokin"
   },
@@ -1650,7 +1650,7 @@
     "type": "Conclave"
   },
   "PvpNode14": {
-    "value": "Conclave: Quick Steel",
+    "value": "Conclave : Métal fatal",
     "enemy": "Tenno",
     "type": "Conclave"
   },
@@ -1707,7 +1707,7 @@
   "ClanNode10": {
     "value": "Memphis (Phobos)",
     "enemy": "Infesté",
-    "type": "Dark Sector Defection"
+    "type": "Désertion Dark Sector"
   },
   "ClanNode11": {
     "value": "Zeugma (Phobos)",
