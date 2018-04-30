@@ -6345,6 +6345,7 @@
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6b/TeshinGlaive.png/revision/latest?cb=20180314033633",
         "speed": "0.75",
+        "projectile": "Thrown",
         "rate": "0.8",
         "damage": "70.0",
         "impact": 14,
@@ -10121,7 +10122,7 @@
         "ammo": 84,
         "magazine": 3,
         "reload": "2.3",
-        "projectile": "히트-스캔",
+        "projectile": "투사체",
         "rate": "1.7",
         "damage": "25.0",
         "trigger": "반-자동",
@@ -10144,7 +10145,8 @@
             "impact": 240,
             "slash": 160,
             "puncture": 400
-        }
+        },
+        "flight": "???"
     },
     {
         "regex": "^zenistar$",
