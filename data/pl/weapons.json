@@ -2881,7 +2881,8 @@
         "slide": "264",
         "jump": "undefined",
         "wall": "176",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "naramon"
     },
     {
         "regex": "^dual\\sraza$",
