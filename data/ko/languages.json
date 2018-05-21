@@ -4347,6 +4347,9 @@
   "/lotus/storeitems/types/recipes/helmets/harlequinalthelmetblueprint": {
     "value": "미라지 할리퀸 헬멧 설계도"
   },
+  "/lotus/storeitems/types/recipes/helmets/khoraalthelmetblueprint": {
+    "value": "Khora Delphi Helmet Blueprint"
+  },
   "/lotus/storeitems/types/recipes/helmets/limboaltbhelmetblueprint": {
     "value": "림보 마그리트 헬멧 설계도"
   },
@@ -13177,13 +13180,13 @@
     "value": "스위퍼 프라임"
   },
   "/lotus/types/sentinels/sentinelweapons/prismaburstlaserpistol": {
-    "value": "Prisma Burst Laser"
+    "value": "프리즈마 버스트 레이저"
   },
   "/lotus/types/sentinels/sentinelweapons/sentbioweapon": {
     "value": "스팅어"
   },
   "/lotus/types/sentinels/sentinelweapons/sentelecrailgun": {
-    "value": "Vulklok"
+    "value": "불클락"
   },
   "/lotus/types/sentinels/sentinelweapons/sentglaiveweapon": {
     "value": "디콘스트럭터"
@@ -15229,7 +15232,7 @@
     "value": "오벡스"
   },
   "/lotus/weapons/corpus/melee/kickandpunch/prismaobex": {
-    "value": "Prisma Obex"
+    "value": "프리즈마 오벡스"
   },
   "/lotus/weapons/corpus/melee/polearm/corpuspolearm01/corpuspolearmweapon": {
     "value": "세로"
@@ -15295,7 +15298,7 @@
     "value": "그린락"
   },
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas": {
-    "value": "Twin Grakatas"
+    "value": "트윈 그라카타"
   },
   "/lotus/weapons/grineer/longguns/grineerflakcannon/flakcannon": {
     "value": "Flak Cannon"
@@ -15316,7 +15319,7 @@
     "value": "Vulkor"
   },
   "/lotus/weapons/grineer/longguns/grineersniperrifle/vulkarwraith": {
-    "value": "Vulkar Wraith"
+    "value": "불카 레이스"
   },
   "/lotus/weapons/grineer/longguns/grncannon/grncannonweapon": {
     "value": "자르"
@@ -15382,7 +15385,7 @@
     "value": "Halikar Boomerang"
   },
   "/lotus/weapons/grineer/melee/grndualfireaxe/grndualfireaxe": {
-    "value": "Twin Basolk"
+    "value": "트윈 바솔크"
   },
   "/lotus/weapons/grineer/melee/grnegyptswd/grnegyptswdweapon": {
     "value": "크로쿠르"
@@ -15409,7 +15412,7 @@
     "value": "뉴코어"
   },
   "/lotus/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
-    "value": "Twin Kohmak"
+    "value": "트윈 코막"
   },
   "/lotus/weapons/grineer/pistols/grnkohmpistol/grnkohmpistol": {
     "value": "코막"
@@ -15433,7 +15436,7 @@
     "value": "Shield Attachment"
   },
   "/lotus/weapons/infested/bow/infcernosbow/infcernos": {
-    "value": "Mutalist Cernos"
+    "value": "뮤탈리스트 세르노스"
   },
   "/lotus/weapons/infested/longguns/infcrpshockswarm/infcrpshockswarmrifle": {
     "value": "뮤탈리스트 콴타"
@@ -15460,16 +15463,16 @@
     "value": "히루도"
   },
   "/lotus/weapons/infested/melee/swords/mios/mios": {
-    "value": "Mios"
+    "value": "미오스"
   },
   "/lotus/weapons/infested/melee/swords/mire/miresword": {
     "value": "마이어"
   },
   "/lotus/weapons/infested/melee/tipedostaff/inftipedostaff": {
-    "value": "Lesion"
+    "value": "리션"
   },
   "/lotus/weapons/infested/melee/whip/infestedwhip/infestedwhipweapon": {
-    "value": "Mios"
+    "value": "미오스"
   },
   "/lotus/weapons/infested/pistols/infesteddartpistol/infesteddartpistol": {
     "value": "타이시스"
@@ -15481,22 +15484,22 @@
     "value": "폭스"
   },
   "/lotus/weapons/infested/pistols/infvomitgun/infvomitgunwep": {
-    "value": "Dual Toxocyst"
+    "value": "듀얼 톡소시스트"
   },
   "/lotus/weapons/mk1series/mk1bo": {
-    "value": "MK1-Bo"
+    "value": "MK1-보"
   },
   "/lotus/weapons/mk1series/mk1braton": {
-    "value": "MK1-Braton"
+    "value": "MK1-브래튼"
   },
   "/lotus/weapons/mk1series/mk1furax": {
-    "value": "MK1-Furax"
+    "value": "MK1-퓨랙스"
   },
   "/lotus/weapons/mk1series/mk1furis": {
-    "value": "MK1-Furis"
+    "value": "MK1-퓨리스"
   },
   "/lotus/weapons/mk1series/mk1kunai": {
-    "value": "MK1-Kunai"
+    "value": "MK1-쿠나이"
   },
   "/lotus/weapons/mk1series/mk1strun": {
     "value": "MK1 Strun"
@@ -15541,7 +15544,7 @@
     "value": "세큐라 듀얼 세스트라"
   },
   "/lotus/weapons/syndicates/redveil/bows/rvcernos": {
-    "value": "Rakta Cernos"
+    "value": "락타 세르노스"
   },
   "/lotus/weapons/syndicates/redveil/melee/rvdarkdagger": {
     "value": "Rakta Dark Dagger"
@@ -15550,10 +15553,10 @@
     "value": "락타 발리스티카"
   },
   "/lotus/weapons/syndicates/steelmeridian/longguns/smhek": {
-    "value": "Vaykor Hek"
+    "value": "베이코어 헥"
   },
   "/lotus/weapons/syndicates/steelmeridian/melee/smsydon": {
-    "value": "Vaykor Sydon"
+    "value": "베이코어 사이돈"
   },
   "/lotus/weapons/syndicates/steelmeridian/pistols/smmarelok": {
     "value": "베이코어 메어락"
@@ -15631,7 +15634,7 @@
     "value": "Arch Railgun"
   },
   "/lotus/weapons/tenno/archwing/primary/repurposedgrineerantiaircraftgun/archgrnaagun": {
-    "value": "Grattler"
+    "value": "그라틀러"
   },
   "/lotus/weapons/tenno/archwing/primary/rocketartillery/archrocketcrossbow": {
     "value": "플럭투스"
@@ -15694,7 +15697,7 @@
     "value": "Prime Vectis"
   },
   "/lotus/weapons/tenno/longguns/repeatingcrossbow/repeatingcrossbow": {
-    "value": "Zhuge"
+    "value": "제갈"
   },
   "/lotus/weapons/tenno/longguns/tennotommygun/tennotommygunrifle": {
     "value": "Stradavar"
@@ -15805,7 +15808,7 @@
     "value": "글레이브 프라임"
   },
   "/lotus/weapons/tenno/melee/glaives/teshinglaive/tnteshinglaivewep": {
-    "value": "Orvius"
+    "value": "오르비우스"
   },
   "/lotus/weapons/tenno/melee/greatsword/greatsword": {
     "value": "그람"
@@ -15865,10 +15868,10 @@
     "value": "듀얼 카마스 프라임"
   },
   "/lotus/weapons/tenno/melee/primefragor/primefragor": {
-    "value": "Fragor Prime"
+    "value": "프래거 프라임"
   },
   "/lotus/weapons/tenno/melee/primevenka/primevenkaclaws": {
-    "value": "Venka Prime"
+    "value": "벤카 프라임"
   },
   "/lotus/weapons/tenno/melee/scythe/etherscytheweapon": {
     "value": "에테르 리퍼"
@@ -15901,7 +15904,7 @@
     "value": "보"
   },
   "/lotus/weapons/tenno/melee/sundialaxe/sundialaxeweapon": {
-    "value": "Zenistar"
+    "value": "제니스타"
   },
   "/lotus/weapons/tenno/melee/swords/cutlassandpoignard/cutlasspoignardswords": {
     "value": "나미 스카일라"
@@ -15946,22 +15949,22 @@
     "value": "플라즈마 소드"
   },
   "/lotus/weapons/tenno/melee/swords/primegalatine/primegalatine": {
-    "value": "Galatine Prime"
+    "value": "갈라틴 프라임"
   },
   "/lotus/weapons/tenno/melee/swords/primekatana/primenikana": {
-    "value": "Nikana Prime"
+    "value": "니카나 프라임"
   },
   "/lotus/weapons/tenno/melee/swords/stalkermios/stalkermios": {
     "value": "라세라"
   },
   "/lotus/weapons/tenno/melee/swords/stalkertwo/stalkertwogreatsword": {
-    "value": "War"
+    "value": "워"
   },
   "/lotus/weapons/tenno/melee/swords/stalkertwo/stalkertwosmallsword": {
     "value": "브로큰 워"
   },
   "/lotus/weapons/tenno/melee/swords/tennosai/tennosais": {
-    "value": "Okina"
+    "value": "오키나"
   },
   "/lotus/weapons/tenno/melee/swords/threeleaf/threeleaf": {
     "value": "Three Leaf"
@@ -16009,7 +16012,7 @@
     "value": "바스토"
   },
   "/lotus/weapons/tenno/pistols/allnew1hsg/allnew1hsg": {
-    "value": "Euphona Prime"
+    "value": "유포나 프라임"
   },
   "/lotus/weapons/tenno/pistols/automatichandcrossbow/autocrossbow": {
     "value": "발리스티카"
@@ -16084,7 +16087,7 @@
     "value": "스나이프트론"
   },
   "/lotus/weapons/tenno/rifle/startingrifle": {
-    "value": "MK1-Braton"
+    "value": "MK1-브래튼"
   },
   "/lotus/weapons/tenno/rifle/tennoar": {
     "value": "소마"
@@ -16156,7 +16159,7 @@
     "value": "프리즈마 스카나"
   },
   "/lotus/weapons/voidtrader/vtdetron": {
-    "value": "Mara Detron"
+    "value": "마라 데트론"
   },
   "5541862206c56f445f529122": {
     "value": "5541862206c56f445f529122"
