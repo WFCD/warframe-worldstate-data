@@ -3166,6 +3166,33 @@
         "flight": 180
     },
     {
+        "regex": "^exalted\\sblade$",
+        "name": "Exalted Blade",
+        "url": "http://warframe.wikia.com/wiki/Exalted_Blade",
+        "mr": 0,
+        "type": "Melee",
+        "subtype": "Exalted Weapon",
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "polarities": [
+            "madurai",
+            "madurai",
+            "naramon"
+        ],
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/ExaltedBlade130xDark.png/revision/latest?cb=20180121140528",
+        "speed": 1,
+        "rate": 1,
+        "damage": "250.0",
+        "impact": "37.5",
+        "slash": 175,
+        "puncture": "37.5",
+        "slide": "536",
+        "jump": "500",
+        "wall": "1000",
+        "channeling": "1.5"
+    },
+    {
         "regex": "^fang$",
         "name": "Fang",
         "url": "http://warframe.wikia.com/wiki/Fang",
@@ -4392,6 +4419,32 @@
         "impact": 16,
         "slash": 10,
         "puncture": 14
+    },
+    {
+        "regex": "^iron\\sstaff$",
+        "name": "Iron Staff",
+        "url": "http://warframe.wikia.com/wiki/Iron_Staff",
+        "mr": 0,
+        "type": "Melee",
+        "subtype": "Exalted Weapon",
+        "crit_chance": 25,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "polarities": [
+            "madurai",
+            "naramon",
+            "naramon"
+        ],
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/21/PrimalFury130xDark.png/revision/latest?cb=20180121140628",
+        "speed": 1,
+        "rate": 1,
+        "damage": "250.0",
+        "impact": "212.5",
+        "puncture": "37.5",
+        "slide": "536",
+        "jump": "500",
+        "wall": "417",
+        "channeling": "1.5"
     },
     {
         "regex": "^jat\\skittag$",
@@ -8106,6 +8159,33 @@
         "stancePolarity": "madurai"
     },
     {
+        "regex": "^skiajati$",
+        "name": "Skiajati",
+        "url": "http://warframe.wikia.com/wiki/Skiajati",
+        "mr": 11,
+        "type": "Melee",
+        "subtype": "Nikana",
+        "riven_disposition": 1,
+        "crit_chance": 15,
+        "crit_mult": "1.9",
+        "status_chance": 27,
+        "polarities": [
+            null,
+            null
+        ],
+        "speed": "1.17",
+        "rate": "1.2",
+        "damage": "77.1",
+        "impact": "11.6",
+        "slash": "60.1",
+        "puncture": "5.4",
+        "slide": "165",
+        "jump": "77",
+        "wall": "165",
+        "channeling": "1.5",
+        "stancePolarity": "madurai"
+    },
+    {
         "regex": "^snipetron$",
         "name": "Snipetron",
         "url": "http://warframe.wikia.com/wiki/Snipetron",
@@ -9571,6 +9651,33 @@
         "trigger": "Semi-Auto",
         "corrosive": 79,
         "flight": 75
+    },
+    {
+        "regex": "^valkyr\\stalons$",
+        "name": "Valkyr Talons",
+        "url": "http://warframe.wikia.com/wiki/Valkyr_Talons",
+        "mr": 0,
+        "type": "Melee",
+        "subtype": "Exalted Weapon",
+        "crit_chance": 50,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "polarities": [
+            "madurai",
+            "naramon",
+            "naramon"
+        ],
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/69/Hysteria130xDark.png/revision/latest?cb=20180121140539",
+        "speed": "1.5",
+        "rate": "1.5",
+        "damage": "249.9",
+        "impact": "83.3",
+        "slash": "83.3",
+        "puncture": "83.3",
+        "slide": "750",
+        "jump": "300",
+        "wall": "750",
+        "channeling": "1.5"
     },
     {
         "regex": "^vasto$",
