@@ -3166,6 +3166,33 @@
         "flight": 180
     },
     {
+        "regex": "^exalted\\sblade$",
+        "name": "Exalted Blade",
+        "url": "http://warframe.wikia.com/wiki/Exalted_Blade",
+        "mr": 0,
+        "type": "근접 무기",
+        "subtype": "Exalted Weapon",
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "polarities": [
+            "마두라이",
+            "마두라이",
+            "나라몬"
+        ],
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/ExaltedBlade130xDark.png/revision/latest?cb=20180121140528",
+        "speed": 1,
+        "rate": 1,
+        "damage": "250.0",
+        "impact": "37.5",
+        "slash": 175,
+        "puncture": "37.5",
+        "slide": "536",
+        "jump": "500",
+        "wall": "1000",
+        "channeling": "1.5"
+    },
+    {
         "regex": "^fang$",
         "name": "팽",
         "url": "http://warframe.wikia.com/wiki/Fang",
@@ -3218,7 +3245,7 @@
     },
     {
         "regex": "^ferrox$",
-        "name": "페록스",
+        "name": "Ferrox",
         "url": "http://warframe.wikia.com/wiki/Ferrox",
         "mr": 14,
         "type": "주 무기",
@@ -3569,7 +3596,7 @@
     },
     {
         "regex": "^gazal\\smachete$",
-        "name": "가잘 마체테",
+        "name": "Gazal Machete",
         "url": "http://warframe.wikia.com/wiki/Gazal_Machete",
         "mr": 5,
         "type": "근접 무기",
@@ -3843,7 +3870,7 @@
     },
     {
         "regex": "^guandao$",
-        "name": "관도",
+        "name": "Guandao",
         "url": "http://warframe.wikia.com/wiki/Guandao",
         "mr": 4,
         "type": "근접 무기",
@@ -3870,7 +3897,7 @@
     },
     {
         "regex": "^gunsen$",
-        "name": "군센",
+        "name": "Gunsen",
         "url": "http://warframe.wikia.com/wiki/Gunsen",
         "mr": 10,
         "type": "근접 무기",
@@ -3926,7 +3953,7 @@
     },
     {
         "regex": "^harpak$",
-        "name": "하르팍",
+        "name": "Harpak",
         "url": "http://warframe.wikia.com/wiki/Harpak",
         "mr": 7,
         "type": "주 무기",
@@ -4254,7 +4281,7 @@
     },
     {
         "regex": "^hystrix$",
-        "name": "히스트릭스",
+        "name": "Hystrix",
         "url": "http://warframe.wikia.com/wiki/Hystrix",
         "mr": 7,
         "type": "보조 무기",
@@ -4394,6 +4421,32 @@
         "puncture": 14
     },
     {
+        "regex": "^iron\\sstaff$",
+        "name": "Iron Staff",
+        "url": "http://warframe.wikia.com/wiki/Iron_Staff",
+        "mr": 0,
+        "type": "근접 무기",
+        "subtype": "Exalted Weapon",
+        "crit_chance": 25,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "polarities": [
+            "마두라이",
+            "나라몬",
+            "나라몬"
+        ],
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/21/PrimalFury130xDark.png/revision/latest?cb=20180121140628",
+        "speed": 1,
+        "rate": 1,
+        "damage": "250.0",
+        "impact": "212.5",
+        "puncture": "37.5",
+        "slide": "536",
+        "jump": "500",
+        "wall": "417",
+        "channeling": "1.5"
+    },
+    {
         "regex": "^jat\\skittag$",
         "name": "젯 키타그",
         "url": "http://warframe.wikia.com/wiki/Jat_Kittag",
@@ -4423,7 +4476,7 @@
     },
     {
         "regex": "^jat\\skusar$",
-        "name": "젯 쿠사르",
+        "name": "Jat Kusar",
         "url": "http://warframe.wikia.com/wiki/Jat_Kusar",
         "mr": 10,
         "type": "근접 무기",
@@ -4701,7 +4754,7 @@
     },
     {
         "regex": "^knell$",
-        "name": "넬",
+        "name": "Knell",
         "url": "http://warframe.wikia.com/wiki/Knell",
         "mr": 10,
         "type": "보조 무기",
@@ -4775,7 +4828,7 @@
     },
     {
         "regex": "^kogake\\sprime$",
-        "name": "코가케 프라임",
+        "name": "Kogake Prime",
         "url": "http://warframe.wikia.com/wiki/Kogake_Prime",
         "mr": 10,
         "type": "근접 무기",
@@ -4941,7 +4994,7 @@
     },
     {
         "regex": "^kronen\\sprime$",
-        "name": "크로넨 프라임",
+        "name": "Kronen Prime",
         "url": "http://warframe.wikia.com/wiki/Kronen_Prime",
         "mr": 8,
         "type": "근접 무기",
@@ -5329,7 +5382,7 @@
     },
     {
         "regex": "^lenz$",
-        "name": "렌즈",
+        "name": "Lenz",
         "url": "http://warframe.wikia.com/wiki/Lenz",
         "mr": 8,
         "type": "주 무기",
@@ -5583,7 +5636,7 @@
     },
     {
         "regex": "^mk1-paris$",
-        "name": "MK1-패리스",
+        "name": "MK1-Paris",
         "url": "http://warframe.wikia.com/wiki/MK1-Paris",
         "mr": 0,
         "type": "주 무기",
@@ -5610,7 +5663,7 @@
     },
     {
         "regex": "^mk1-strun$",
-        "name": "MK1-스트런",
+        "name": "MK1-Strun",
         "url": "http://warframe.wikia.com/wiki/MK1-Strun",
         "mr": 0,
         "type": "주 무기",
@@ -5970,7 +6023,7 @@
     },
     {
         "regex": "^nami\\sskyla\\sprime$",
-        "name": "나미 스카일라 프라임",
+        "name": "Nami Skyla Prime",
         "url": "http://warframe.wikia.com/wiki/Nami_Skyla_Prime",
         "mr": 11,
         "type": "근접 무기",
@@ -6081,7 +6134,7 @@
     },
     {
         "regex": "^ninkondi$",
-        "name": "닌콘디",
+        "name": "Ninkondi",
         "url": "http://warframe.wikia.com/wiki/Ninkondi",
         "mr": 0,
         "type": "근접 무기",
@@ -6606,7 +6659,7 @@
     },
     {
         "regex": "^phaedra$",
-        "name": "파이드라",
+        "name": "Phaedra",
         "url": "http://warframe.wikia.com/wiki/Phaedra",
         "mr": 0,
         "type": "Arch-Gun",
@@ -6889,7 +6942,7 @@
     },
     {
         "regex": "^prisma\\smachete$",
-        "name": "프리즈마 마체테",
+        "name": "Prisma Machete",
         "url": "http://warframe.wikia.com/wiki/Prisma_Machete",
         "mr": 1,
         "type": "근접 무기",
@@ -7280,7 +7333,7 @@
     },
     {
         "regex": "^rampart$",
-        "name": "램파트",
+        "name": "Rampart",
         "url": "http://warframe.wikia.com/wiki/Rampart",
         "mr": 0,
         "type": "Emplacement",
@@ -7516,7 +7569,7 @@
     },
     {
         "regex": "^sarpa$",
-        "name": "사르파",
+        "name": "Sarpa",
         "url": "http://warframe.wikia.com/wiki/Sarpa",
         "mr": 8,
         "type": "근접 무기",
@@ -7623,7 +7676,7 @@
     },
     {
         "regex": "^scourge$",
-        "name": "스커지",
+        "name": "Scourge",
         "url": "http://warframe.wikia.com/wiki/Scourge",
         "mr": 6,
         "type": "주 무기",
@@ -7940,7 +7993,7 @@
     },
     {
         "regex": "^sigma\\s&\\soctantis$",
-        "name": "시그마 & 옥탄티스",
+        "name": "Sigma & Octantis",
         "url": "http://warframe.wikia.com/wiki/Sigma_%26_Octantis",
         "mr": 0,
         "type": "근접 무기",
@@ -7992,7 +8045,7 @@
     },
     {
         "regex": "^silva\\s&\\saegis\\sprime$",
-        "name": "실바 & 이지스 프라임",
+        "name": "Silva & Aegis Prime",
         "url": "http://warframe.wikia.com/wiki/Silva_%26_Aegis_Prime",
         "mr": 12,
         "type": "근접 무기",
@@ -8102,6 +8155,33 @@
         "slide": "90",
         "jump": "84",
         "wall": "168",
+        "channeling": "1.5",
+        "stancePolarity": "마두라이"
+    },
+    {
+        "regex": "^skiajati$",
+        "name": "Skiajati",
+        "url": "http://warframe.wikia.com/wiki/Skiajati",
+        "mr": 11,
+        "type": "근접 무기",
+        "subtype": "니카나",
+        "riven_disposition": 1,
+        "crit_chance": 15,
+        "crit_mult": "1.9",
+        "status_chance": 27,
+        "polarities": [
+            null,
+            null
+        ],
+        "speed": "1.17",
+        "rate": "1.2",
+        "damage": "77.1",
+        "impact": "11.6",
+        "slash": "60.1",
+        "puncture": "5.4",
+        "slide": "165",
+        "jump": "77",
+        "wall": "165",
         "channeling": "1.5",
         "stancePolarity": "마두라이"
     },
@@ -8332,7 +8412,7 @@
     },
     {
         "regex": "^spira\\sprime$",
-        "name": "스피라 프라임",
+        "name": "Spira Prime",
         "url": "http://warframe.wikia.com/wiki/Spira_Prime",
         "mr": 10,
         "type": "보조 무기",
@@ -9115,7 +9195,7 @@
     },
     {
         "regex": "^tiberon\\sprime$",
-        "name": "티버론 프라임",
+        "name": "Tiberon Prime",
         "url": "http://warframe.wikia.com/wiki/Tiberon_Prime",
         "mr": 14,
         "type": "주 무기",
@@ -9308,7 +9388,7 @@
     },
     {
         "regex": "^tulok$",
-        "name": "툴록",
+        "name": "Tulok",
         "url": "http://warframe.wikia.com/wiki/Tulok",
         "mr": 0,
         "type": "Gear",
@@ -9435,7 +9515,7 @@
     },
     {
         "regex": "^twin\\skrohkur$",
-        "name": "트윈 크로쿠르",
+        "name": "Twin Krohkur",
         "url": "http://warframe.wikia.com/wiki/Twin_Krohkur",
         "mr": 6,
         "type": "근접 무기",
@@ -9519,7 +9599,7 @@
     },
     {
         "regex": "^twin\\svipers\\swraith$",
-        "name": "레이스 트윈 바이퍼즈",
+        "name": "Twin Vipers Wraith",
         "url": "http://warframe.wikia.com/wiki/Twin_Vipers_Wraith",
         "mr": 7,
         "type": "보조 무기",
@@ -9571,6 +9651,33 @@
         "trigger": "반-자동",
         "corrosive": 79,
         "flight": 75
+    },
+    {
+        "regex": "^valkyr\\stalons$",
+        "name": "Valkyr Talons",
+        "url": "http://warframe.wikia.com/wiki/Valkyr_Talons",
+        "mr": 0,
+        "type": "근접 무기",
+        "subtype": "Exalted Weapon",
+        "crit_chance": 50,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "polarities": [
+            "마두라이",
+            "나라몬",
+            "나라몬"
+        ],
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/69/Hysteria130xDark.png/revision/latest?cb=20180121140539",
+        "speed": "1.5",
+        "rate": "1.5",
+        "damage": "249.9",
+        "impact": "83.3",
+        "slash": "83.3",
+        "puncture": "83.3",
+        "slide": "750",
+        "jump": "300",
+        "wall": "750",
+        "channeling": "1.5"
     },
     {
         "regex": "^vasto$",
@@ -9769,7 +9876,7 @@
     },
     {
         "regex": "^veldt$",
-        "name": "베르트",
+        "name": "Veldt",
         "url": "http://warframe.wikia.com/wiki/Veldt",
         "mr": 8,
         "type": "주 무기",
@@ -9923,7 +10030,7 @@
     },
     {
         "regex": "^viper\\swraith$",
-        "name": "바이퍼 레이스",
+        "name": "Viper Wraith",
         "url": "http://warframe.wikia.com/wiki/Viper_Wraith",
         "mr": 4,
         "type": "보조 무기",
@@ -10085,7 +10192,7 @@
     },
     {
         "regex": "^zakti$",
-        "name": "자크티",
+        "name": "Zakti",
         "url": "http://warframe.wikia.com/wiki/Zakti",
         "mr": 10,
         "type": "보조 무기",
@@ -10147,7 +10254,7 @@
             "damage": "300.0 blast"
         },
         "secondary": {
-            "name": "배러지 모드",
+            "name": "Barrage Mode",
             "speed": 3,
             "crit_chance": 17,
             "status_chance": "0.3",
@@ -10177,7 +10284,7 @@
         "damage": "130.0 heat",
         "heat": 130,
         "secondaryArea": {
-            "name": "디스크 오라",
+            "name": "Disc Aura",
             "status_chance": 50,
             "duration": 4500,
             "radius": 400,
@@ -10200,7 +10307,7 @@
     },
     {
         "regex": "^zenith$",
-        "name": "제니스",
+        "name": "Zenith",
         "url": "http://warframe.wikia.com/wiki/Zenith",
         "mr": 10,
         "type": "주 무기",
