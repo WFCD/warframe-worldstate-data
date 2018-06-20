@@ -626,7 +626,8 @@
         "slide": "140",
         "jump": "140",
         "wall": "140",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^ankyros$",
@@ -680,7 +681,8 @@
         "slide": "114",
         "jump": "76",
         "wall": "114",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^arca\\splasmor$",
@@ -1127,7 +1129,8 @@
         "slide": "107",
         "jump": "100",
         "wall": "83",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^bo\\sprime$",
@@ -1153,7 +1156,8 @@
         "slide": "161",
         "jump": "150",
         "wall": "125",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^boar$",
@@ -1462,7 +1466,8 @@
         "slide": "129",
         "jump": "120",
         "wall": "100",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^broken\\swar$",
@@ -1692,7 +1697,8 @@
         "slide": "107",
         "jump": "100",
         "wall": "83",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^carmine\\spenta$",
@@ -1753,7 +1759,8 @@
         "slide": "156",
         "jump": "140",
         "wall": "117",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^castanas$",
@@ -1805,7 +1812,8 @@
         "slide": "150corrosive",
         "jump": "150corrosive",
         "wall": "150corrosive",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^centaur$",
@@ -2220,7 +2228,8 @@
         "slide": "75radiation",
         "jump": "70radiation",
         "wall": "105radiation",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^dark\\ssplit-sword\\s(dual\\sswords)$",
@@ -2244,7 +2253,8 @@
         "slide": "390",
         "jump": "130",
         "wall": "260",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^dark\\ssplit-sword\\s(heavy\\sblade)$",
@@ -2268,7 +2278,8 @@
         "slide": "180",
         "jump": "180",
         "wall": "180",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^dark\\ssword$",
@@ -2292,7 +2303,8 @@
         "slide": "79radiation",
         "jump": "74radiation",
         "wall": "148radiation",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^deconstructor$",
@@ -2563,7 +2575,8 @@
         "slide": "390",
         "jump": "130",
         "wall": "260",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^dex\\sfuris$",
@@ -2864,7 +2877,8 @@
         "slide": "240",
         "jump": "80",
         "wall": "160",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^dual\\sheat\\sswords$",
@@ -2914,7 +2928,8 @@
         "slide": "210toxin",
         "jump": "70toxin",
         "wall": "140toxin",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^dual\\skamas$",
@@ -3103,7 +3118,8 @@
         "slide": "180",
         "jump": "60",
         "wall": "120",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^embolist$",
@@ -3182,7 +3198,8 @@
         "slide": "225",
         "jump": "90",
         "wall": "180",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^ether\\sreaper$",
@@ -3208,7 +3225,8 @@
         "slide": "130",
         "jump": "130",
         "wall": "130",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^ether\\ssword$",
@@ -3234,7 +3252,8 @@
         "slide": "79",
         "jump": "74",
         "wall": "148",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^euphona\\sprime$",
@@ -3326,7 +3345,8 @@
         "slide": "150",
         "jump": "60",
         "wall": "120",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^fang\\sprime$",
@@ -3351,7 +3371,8 @@
         "slide": "180",
         "jump": "72",
         "wall": "144",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^ferrox$",
@@ -3728,7 +3749,8 @@
         "slide": "156",
         "jump": "104",
         "wall": "208",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^glaive$",
@@ -4003,7 +4025,8 @@
         "slide": "200",
         "jump": "180",
         "wall": "150",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^gunsen$",
@@ -4677,7 +4700,8 @@
         "slide": "94",
         "jump": "88",
         "wall": "176",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^kama$",
@@ -4704,7 +4728,8 @@
         "slide": "135",
         "jump": "90",
         "wall": "180",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^karak$",
@@ -4831,7 +4856,8 @@
         "slide": "233",
         "jump": "210",
         "wall": "175",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^kestrel$",
@@ -5546,7 +5572,8 @@
         "slide": "222",
         "jump": "200",
         "wall": "167",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^lex$",
@@ -5629,7 +5656,8 @@
         "slide": "96",
         "jump": "90",
         "wall": "75",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^mk1-braton$",
@@ -5823,7 +5851,8 @@
         "slide": "75",
         "jump": "50",
         "wall": "100",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^machete\\swraith$",
@@ -5850,7 +5879,8 @@
         "slide": "135",
         "jump": "90",
         "wall": "180",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^magistar$",
@@ -6184,7 +6214,8 @@
         "slide": "105",
         "jump": "70",
         "wall": "140",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^nikana$",
@@ -6494,7 +6525,8 @@
         "slide": "144",
         "jump": "130blast",
         "wall": "108",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^orvius$",
@@ -6840,7 +6872,8 @@
         "slide": "75electricity",
         "jump": "70",
         "wall": "140electricity",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^pox$",
@@ -7074,7 +7107,8 @@
         "slide": "75",
         "jump": "50",
         "wall": "100",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^prisma\\sobex$",
@@ -7200,7 +7234,8 @@
         "slide": "105electricity",
         "jump": "70electricity",
         "wall": "140electricity",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^prova\\svandal$",
@@ -7224,7 +7259,8 @@
         "slide": "144electricity",
         "jump": "96electricity",
         "wall": "192electricity",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^pyrana$",
@@ -7838,7 +7874,8 @@
         "slide": "118",
         "jump": "110toxin",
         "wall": "220",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^scourge$",
@@ -8336,8 +8373,8 @@
         "crit_mult": "1.9",
         "status_chance": 27,
         "polarities": [
-            null,
-            null
+            "umbra",
+            "umbra"
         ],
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ac/Skiajati.png/revision/latest?cb=20180615221604",
         "speed": "1.17",
@@ -9008,7 +9045,8 @@
         "slide": "167",
         "jump": "150blast",
         "wall": "125",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^synapse$",
@@ -9471,7 +9509,8 @@
         "slide": "107",
         "jump": "100",
         "wall": "83",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "unairu"
     },
     {
         "regex": "^tonbo$",
@@ -9497,7 +9536,8 @@
         "slide": "178",
         "jump": "160",
         "wall": "133",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^tonkor$",
@@ -9593,7 +9633,8 @@
         "slide": "390",
         "jump": "130",
         "wall": "260",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^twin\\sgrakatas$",
@@ -9982,7 +10023,8 @@
         "slide": "189",
         "jump": "170blast",
         "wall": "142",
-        "channeling": "1.5"
+        "channeling": "1.5",
+        "stancePolarity": "zenurik"
     },
     {
         "regex": "^vectis$",
