@@ -678,7 +678,7 @@
       "2x <:madurai:319586146499690496>"
     ],
     "aura": "<:madurai:319586146499690496>",
-    "description": "This is Oberon, the mystic, the willful.\nOberon is an adept and honorable warrior, Tenno. Are you?\n_Lotus_",
+    "description": "Il s'agit de Oberon, le mystérieux, l'obstiné.\nOberon est un honorable guerrier, et un expert en la matière. Tenno, en es-tu ?\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Oberon",
     "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/8/8c/OberonNewLook.png/revision/latest?cb=20150223022507",
     "location": "Unités Eximus (Reliques du Néant)",
@@ -855,10 +855,10 @@
       "2x <:madurai:319586146499690496>"
     ],
     "aura": "<:madurai:319586146499690496>",
-    "description": "This is Valkyr, the tormented, the experiment.\nValkyr was crafted from torment, Tenno. Take control of her rage.\n_Lotus_",
+    "description": "Il s'agit de Valkyr, la tourmentée, l'expérimentée.\nValkyr a été conçue à partir de la torture, Tenno. Prenez le contrôle de sa rage.\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Valkyr",
     "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/0/0e/ValkyrNewLook.png/revision/latest?cb=20141124023346",
-    "location": " Alad V - Themisto, Jupiter (Void Relics)",
+    "location": " ALAD V - Themisto, Jupiter (Sous-reliques)",
     "color": 12800043,
     "prime_mr": "",
     "prime_health": "",
@@ -871,7 +871,7 @@
     "prime_aura": ""
   },
   {
-    "regex": "vauban(\\sprime)?",
+    "regex": "Vauban(\\sprime) ?",
     "name": "Vauban (Prime)",
     "url": "https://youtu.be/pQgp_dfJ_oI",
     "health": "100/300",
