@@ -33,7 +33,7 @@
   },
   "modifierDescriptions": {
     "SORTIE_MODIFIER_LOW_ENERGY": "La capacité maximale d'énergie des Warframes est divisée par quatre. Siphon d'énergie est moins efficace.",
-    "SORTIE_MODIFIER_IMPACT": "Enemies can deal enhanced impact damage. Finishing damage is not resisted.",
+    "SORTIE_MODIFIER_IMPACT": "Les ennemis peuvent infliger des dégâts d'impact accrus. Les dommages de type finisher ne peuvent être contré.",
     "SORTIE_MODIFIER_SLASH": "Enemies can deal enhanced slash damage. Finishing damage is not resisted.",
     "SORTIE_MODIFIER_PUNCTURE": "Enemies can deal enhanced puncture damage. Finishing damage is not resisted.",
     "SORTIE_MODIFIER_EXIMUS": "Les unités Eximus ont plus de chances d'apparaître dans cette mission. Certaines de leurs auras se cumulent.",
@@ -77,7 +77,7 @@
       "faction": "Grineer"
     },
     "SORTIE_BOSS_RUK": {
-      "name": "General Sargas Ruk",
+      "name": "Général Sargas Ruk",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_HEK": {
