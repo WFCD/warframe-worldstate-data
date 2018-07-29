@@ -591,14 +591,14 @@
       "1x <:vazarin:319586146269003778>"
     ],
     "aura": "<:madurai:319586146499690496>",
-    "description": "This is Nidus, the adaptive, the scourge.\nNidus is a deadly plague for which there is no cure. You must control the strange disease.\n_Lotus_",
+    "description": "Il s’agit de Nidus, l’adaptation, le fléau. Nidus est une peste mortelle pour laquelle il n’y a pas de remède. Vous devez contrôler la maladie étrange. _Lotus_",
     "info": "http://warframe.wikia.com/wiki/Nidus",
     "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/4/4c/NidusNewLook.png/revision/latest?cb=20161223053121",
-    "location": "The Glast Gambit",
+    "location": "Le Stratagème de Glast",
     "color": 8469587
   },
   {
-    "regex": "nova(\\sprime)?",
+    "regex": "Nova(\\sprime) ?",
     "name": "Nova (Prime)",
     "url": "https://youtu.be/TxJMDv4dYIU",
     "mr": "0",
@@ -612,7 +612,7 @@
       "1x <:madurai:319586146499690496>"
     ],
     "aura": "<:naramon:319586146478850048>",
-    "description": "This is Nova, wildly unpredictable.\nNova's presence on the battlefield is complex and deadly. Handle with care, Tenno.\n_Lotus_",
+    "description": "Il s'agit de Nova, follement imprévisible.\nLa présence de Nova sur le champ de bataille est complexe et mortelle. Manipulez-la avec soin, Tenno.\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Nova",
     "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/5/52/NovaNewLook.png/revision/latest?cb=20141124023217",
     "location": " Raptors - Naamah, Europa (Void Relics)",
@@ -905,7 +905,7 @@
     "prime_aura": ""
   },
   {
-    "regex": "volt(\\sprime)?",
+    "regex": "Volt(\\sprime) ?",
     "name": "Volt (Prime)",
     "url": "https://youtu.be/ccQ9456TTuo",
     "mr": "8",
@@ -920,10 +920,10 @@
       "1x <:madurai:319586146499690496>"
     ],
     "aura": "<:madurai:319586146499690496>",
-    "description": "This is Volt, a versatile warrior.\nVolt's arsenal is powerful and electrifying. Handle with care, Tenno.\n_Lotus_",
+    "description": "Il s'agit de Volt, un guerrier polyvalent.\nL'arsenal de Volt est puissant et électrisant. Manipulez-le avec soin, Tenno.\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Volt",
     "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/4d/VoltNewLook.png/revision/latest?cb=20141124023359",
-    "location": "Tenno Research Lab (Void Relics)",
+    "location": "Laboratoire de recherche Tenno (Reliques du Néant)",
     "color": 12764858,
     "prime_mr": "",
     "prime_health": "",
@@ -939,7 +939,7 @@
     "prime_aura": ""
   },
   {
-    "regex": "wukong",
+    "regex": "Wukong",
     "name": "Wukong",
     "url": "https://youtu.be/7n4bjy0PbxY",
     "health": "100/300",
@@ -953,14 +953,14 @@
       "1x <:vazarin:319586146269003778>"
     ],
     "aura": "<:madurai:319586146499690496>",
-    "description": "This is Wukong, the enduring, the swift.\nEverybody's got something to hide, Tenno. Except Wukong.\n_Lotus_",
+    "description": "Il s'agit de Wukong, l'endurant, le rapide.\nTout le monde a quelque chose à cacher, Tenno. Sauf Wukong.\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Wukong",
     "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/9/91/WukongNewIcon.png/revision/latest?cb=20151125205508",
     "location": "Tenno Research Lab",
     "color": 4283771
   },
   {
-    "regex": "zephyr",
+    "regex": "Zephyr",
     "name": "Zephyr",
     "url": "https://youtu.be/KurbStEIqrQ",
     "mr": "0",
