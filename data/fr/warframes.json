@@ -569,10 +569,10 @@
       "1x <:madurai:319586146499690496>"
     ],
     "aura": "<:naramon:319586146478850048>",
-    "description": "This is Nezha, the protector, the quick.\nFeel the heat, Tenno. Nezha is a burning thing, and he makes a fiery ring.\n_Lotus_",
+    "description": "Il s'agit de Nezha, le protecteur, le rapide.\nSentez la chaleur, Tenno. Nezha est brûlant, ardent, et il fait un anneau de feu.\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Nezha",
     "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/4/45/NezhaNewLook.png/revision/latest?cb=20151217010251",
-    "location": "Tenno Research Lab",
+    "location": "Laboratoire de recherche Tenno",
     "color": 11682077
   },
   {
@@ -615,7 +615,7 @@
     "description": "Il s'agit de Nova, follement imprévisible.\nLa présence de Nova sur le champ de bataille est complexe et mortelle. Manipulez-la avec soin, Tenno.\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Nova",
     "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/5/52/NovaNewLook.png/revision/latest?cb=20141124023217",
-    "location": " Raptors - Naamah, Europa (Void Relics)",
+    "location": " Raptor - Naama, Europa (Reliques du Néant)",
     "color": 8288886,
     "prime_mr": "",
     "prime_health": "",
@@ -625,12 +625,12 @@
     "prime_speed": "",
     "prime_conclave": "",
     "prime_polarities": [
-      "3x <:madurai:319586146499690496>"
+      "3 x <:madurai:319586146499690496>"
     ],
     "prime_aura": ""
   },
   {
-    "regex": "nyx(\\sprime)?",
+    "regex": "Nyx(\\sprime) ?",
     "name": "Nyx (Prime)",
     "url": "https://youtu.be/JoyQo38BZf4",
     "mr": "0",
@@ -645,10 +645,10 @@
       "1x <:naramon:319586146478850048>"
     ],
     "aura": "<:naramon:319586146478850048>",
-    "description": "This is Nyx, manipulator of minds.\nOn her own or with a group, Nyx can turn the tide of battle in her favor.\n_Lotus_",
+    "description": "Il s'agit de Nyx, le manipulateur des esprits.\nSeul ou en groupe, Nyx peut inverser le cours de la bataille en sa faveur.\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Nyx",
     "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/c/cb/NyxNewLook.png/revision/latest?cb=20141124023223",
-    "location": "Phorid - Infested Invasion (Void Relics)",
+    "location": "Phorid - Invasion d’infestés (Reliques du Néant)",
     "color": 5154454,
     "prime_mr": "",
     "prime_health": "",
@@ -664,7 +664,7 @@
     "prime_aura": ""
   },
   {
-    "regex": "oberon(\\sprime)?",
+    "regex": "Oberon(\\sprime) ?",
     "name": "Oberon (Prime)",
     "url": "https://youtu.be/yAc1tXpH6Ns",
     "mr": "0",
@@ -866,7 +866,7 @@
     "prime_armor": "700",
     "prime_speed": "",
     "prime_polarities": [
-      "3x <:madurai:319586146499690496>"
+      "3 x <:madurai:319586146499690496>"
     ],
     "prime_aura": ""
   },
@@ -956,7 +956,7 @@
     "description": "Il s'agit de Wukong, l'endurant, le rapide.\nTout le monde a quelque chose à cacher, Tenno. Sauf Wukong.\n_Lotus_",
     "info": "http://warframe.wikia.com/wiki/Wukong",
     "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/9/91/WukongNewIcon.png/revision/latest?cb=20151125205508",
-    "location": "Tenno Research Lab",
+    "location": "Laboratoire de recherche Tenno",
     "color": 4283771
   },
   {
