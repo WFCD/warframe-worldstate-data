@@ -14,6 +14,7 @@ const tutorials = require("./data/tutorials.json");
 const upgradeTypes = require("./data/upgradeTypes.json");
 const warframes = require("./data/warframes.json");
 const weapons = require("./data/weapons.json");
+const synthTargets = require("./data/synthTargets.json");
 
 const enUS = {
   arcanes,
@@ -32,6 +33,7 @@ const enUS = {
   upgradeTypes,
   warframes,
   weapons,
+  synthTargets
 };
 
 module.exports = {
@@ -52,4 +54,5 @@ module.exports = {
   upgradeTypes,
   warframes,
   weapons,
+  synthTargets
 };
