@@ -3375,6 +3375,9 @@
   "/lotus/storeitems/types/items/emotes/agreeemote": {
     "value": "동의"
   },
+  "/lotus/storeitems/types/items/emotes/baroemote": {
+    "value": "Ki'Teer Presence"
+  },
   "/lotus/storeitems/types/items/emotes/bowemote": {
     "value": "인사"
   },
@@ -4069,7 +4072,7 @@
     "value": "받은 메시지에 있는 수수께끼를 푸세요"
   },
   "/lotus/storeitems/types/keys/mummyquestkeyblueprint": {
-    "value": "이나로스의 모래"
+    "value": "Sands Of Inaros Blueprint"
   },
   "/lotus/storeitems/types/keys/nightmarekeyshipyardsretrieval": {
     "value": "Tethra Shield Cipher"
@@ -8679,6 +8682,9 @@
   "/lotus/storeitems/upgrades/skins/armor/halloween2014wings/halloween2014armrightarmor": {
     "value": "나베루스"
   },
+  "/lotus/storeitems/upgrades/skins/armor/halloween2014wings/prismanaberusarmarmor": {
+    "value": "Prisma Naberus"
+  },
   "/lotus/storeitems/upgrades/skins/armor/infestedfins/infestedfinsarmleftarmor": {
     "value": "일리악 숄더 플레이트"
   },
@@ -8965,7 +8971,7 @@
     "value": "데저트-카모 불카"
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorhalloweena": {
-    "value": "죽은 자의 날 카밧 아머"
+    "value": "Wysar Day Of The Dead Kavat Armor"
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorvoidtradera": {
     "value": "키'티어 카밧 아머"
@@ -8980,7 +8986,7 @@
     "value": "얼라이언스 엠블럼"
   },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
-    "value": "바로 키'티어 세카라"
+    "value": "Ki'Teer Sekhara"
   },
   "/lotus/storeitems/upgrades/skins/clan/baseeventbadgeitem": {
     "value": "헬멧 또는 샨다나"
@@ -10269,6 +10275,12 @@
   "/lotus/storeitems/upgrades/skins/sigils/alliancesigilbasic": {
     "value": "얼라이언스 시질"
   },
+  "/lotus/storeitems/upgrades/skins/sigils/barokavatsigil": {
+    "value": "Glaring Sigil"
+  },
+  "/lotus/storeitems/upgrades/skins/sigils/barokubrowsigil": {
+    "value": "Pack Leader Sigil"
+  },
   "/lotus/storeitems/upgrades/skins/sigils/bladeandgunsigil": {
     "value": "블레이드 앤 건 시질"
   },
@@ -11062,7 +11074,7 @@
     "value": "마라 브락"
   },
   "/lotus/storeitems/weapons/grineer/pistols/wraithsingleviper/wraithsingleviper": {
-    "value": "Wraith Viper"
+    "value": "Viper Wraith"
   },
   "/lotus/storeitems/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
     "value": "레이스 트윈 바이퍼즈"
