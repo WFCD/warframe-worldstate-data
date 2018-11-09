@@ -3375,6 +3375,9 @@
   "/lotus/storeitems/types/items/emotes/agreeemote": {
     "value": "Согласие"
   },
+  "/lotus/storeitems/types/items/emotes/baroemote": {
+    "value": "Ki'Teer Presence"
+  },
   "/lotus/storeitems/types/items/emotes/bowemote": {
     "value": "Поклон"
   },
@@ -4069,7 +4072,7 @@
     "value": "Решить загадку из входящих сообщений"
   },
   "/lotus/storeitems/types/keys/mummyquestkeyblueprint": {
-    "value": "Пески Инароса"
+    "value": "Sands Of Inaros Blueprint"
   },
   "/lotus/storeitems/types/keys/nightmarekeyshipyardsretrieval": {
     "value": "Шифр щитов Тетра"
@@ -8679,6 +8682,9 @@
   "/lotus/storeitems/upgrades/skins/armor/halloween2014wings/halloween2014armrightarmor": {
     "value": "Naberus"
   },
+  "/lotus/storeitems/upgrades/skins/armor/halloween2014wings/prismanaberusarmarmor": {
+    "value": "Prisma Naberus"
+  },
   "/lotus/storeitems/upgrades/skins/armor/infestedfins/infestedfinsarmleftarmor": {
     "value": "Наплечники Илиак"
   },
@@ -8965,7 +8971,7 @@
     "value": "Desert-camo Vulkar"
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorhalloweena": {
-    "value": "Day of the Dead Kavat Armor"
+    "value": "Wysar Day Of The Dead Kavat Armor"
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorvoidtradera": {
     "value": "Броня Кавата Ки'Тиир"
@@ -8980,7 +8986,7 @@
     "value": "Alliance Emblem"
   },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
-    "value": "Baro KiTeer Sekhara"
+    "value": "Ki'Teer Sekhara"
   },
   "/lotus/storeitems/upgrades/skins/clan/baseeventbadgeitem": {
     "value": "Шлем или Сандана"
@@ -10269,6 +10275,12 @@
   "/lotus/storeitems/upgrades/skins/sigils/alliancesigilbasic": {
     "value": "Alliance Sigil"
   },
+  "/lotus/storeitems/upgrades/skins/sigils/barokavatsigil": {
+    "value": "Glaring Sigil"
+  },
+  "/lotus/storeitems/upgrades/skins/sigils/barokubrowsigil": {
+    "value": "Pack Leader Sigil"
+  },
   "/lotus/storeitems/upgrades/skins/sigils/bladeandgunsigil": {
     "value": "Blade And Gun Sigil"
   },
@@ -11062,7 +11074,7 @@
     "value": "Мара Бракк"
   },
   "/lotus/storeitems/weapons/grineer/pistols/wraithsingleviper/wraithsingleviper": {
-    "value": "Wraith Viper"
+    "value": "Viper Wraith"
   },
   "/lotus/storeitems/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
     "value": "Парные Гадюки Призрак"
@@ -13987,7 +13999,7 @@
     "value": "Mod Drop Chance Booster"
   },
   "/lotus/types/storeitems/boosters/resourceamount3daystoreitem": {
-    "value": "3 Day Resource (Amount) Booster"
+    "value": "3 Day Resource Booster"
   },
   "/lotus/types/storeitems/boosters/resourceamountboosterstoreitem": {
     "value": "Resource (Amount) Booster"
