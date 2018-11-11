@@ -19,19 +19,17 @@ npm i -S git://github.com/wfcd/warframe-worldstate-data.git
 ## Usage
 
 ```javascript
-var worldstateData = require('warframe-worldstate-data');
-var nodes = worldstateData.solNodes;
+const worldstateData = require('warframe-worldstate-data');
+const nodes = worldstateData.solNodes;
 
-var erpo = nodes['SolNode903'];
-var erpoEnemyType = erpo.enemy;
-var erpoName = erpo.value;
-var erpoMission = erpo.type;
+const erpo = nodes['SolNode903'];
+const {enemy, value, type} = erpo;
 ```
 
 ## Available data and formatting
 
 JSON | Data Accessor | Description
---- |--- | --- 
+--- |--- | ---
 `conclaveData.json` | `conclave` | Stores conclave data for modes and categories
 `eventsData.json` | `events` | Stores event strings. May be deprecated when languages.json is more complete.
 `factionsData.json`|`factions`|Stores faction strings for identifying each faction
