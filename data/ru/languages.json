@@ -3246,6 +3246,9 @@
   "/lotus/storeitems/types/game/projections/t4voidprojectionksilver": {
     "value": "Axi G1 Relic (Exceptional)"
   },
+  "/lotus/storeitems/types/game/projections/t4voidprojectionmagnovavaultbbronze": {
+    "value": "Axi A5 Relic (Intact)"
+  },
   "/lotus/storeitems/types/game/projections/t4voidprojectionmbronze": {
     "value": "Axi V4 Relic (Intact)"
   },
@@ -8676,6 +8679,18 @@
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/grineerturbineslegrightarmor": {
     "value": "Наголенники Харконар"
   },
+  "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbinesarmleftarmor": {
+    "value": "Harkonar Wraith Left Spaulders"
+  },
+  "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbinesarmrightarmor": {
+    "value": "Harkonar Wraith Right Spaulders"
+  },
+  "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbineschestarmor": {
+    "value": "Harkonar Wraith Chestbuard"
+  },
+  "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbineslegarmor": {
+    "value": "Harkonar Wraith Leg Armor"
+  },
   "/lotus/storeitems/upgrades/skins/armor/halloween2014wings/halloween2014armleftarmor": {
     "value": "Naberus"
   },
@@ -10082,6 +10097,9 @@
   },
   "/lotus/storeitems/upgrades/skins/scarves/primescarf": {
     "value": "Misa Prime Syandana"
+  },
+  "/lotus/storeitems/upgrades/skins/scarves/prismarazorscarf": {
+    "value": "Prisma Uru Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/ps4armscarf": {
     "value": "Yomo Obsidian Syandana"
