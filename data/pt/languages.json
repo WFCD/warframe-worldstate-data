@@ -12723,6 +12723,51 @@
   "/lotus/types/gameplay/venus/jobs/venuswetworkjobassassinate": {
     "value": "Served Cold"
   },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablearewards": {
+    "value": "1500 Credit Cache, 50 Endo, Mytocardia Spore x5, Oxium x100, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablebrewards": {
+    "value": "1500 Credit Cache, 50 Endo, Cryotic x100, Thermal Sludge x5, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablecrewards": {
+    "value": "1500 Credit Cache, 50 Endo, Gorgaricus Spore x5, Plastids x100, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablearewards": {
+    "value": "100 Endo, 2500 Credit Cache, Mytocardia Spore x15, Oxium x200, Shelter Debt-Bond x2, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Synth Charge"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablebrewards": {
+    "value": "100 Endo, 2500 Credit Cache, Cryotic x200, Shelter Debt-Bond x2, Thermal Sludge x15, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Mecha Overdrive"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablecrewards": {
+    "value": "100 Endo, 2500 Credit Cache, Gorgaricus Spore x15, Nano Spores x200, Shelter Debt-Bond x2, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Tek Assault"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablearewards": {
+    "value": "200 Endo, Circuits x300, Madurai Lens, Medical Debt-Bond x2, Garuda Neurooptics Blueprint, Meso S8 Relic, Synth Deconstruct"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablebrewards": {
+    "value": "200 Endo, Medical Debt-Bond x2, Plastids x300, Unairu Lens, Garuda Neurooptics Blueprint, Meso S8 Relic, Mecha Recharge"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablecrewards": {
+    "value": "200 Endo, Medical Debt-Bond x2, Naramon Lens, Rubedo x300, Garuda Neurooptics Blueprint, Meso S8 Relic, Tek Enhance"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablearewards": {
+    "value": "300 Endo, Advanced Debt-Bond x2, Fieldron x2, Vazarin Lens, Neo K2 Relic, Tellurium, Synth Fiber"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablebrewards": {
+    "value": "300 Endo, Advanced Debt-Bond x2, Detonite Injector x2, Zenurik Lens, Neo G1 Relic, Tellurium, Mecha Empowered"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablecrewards": {
+    "value": "300 Endo, Advanced Debt-Bond x2, Kuva x200, Mutagen Mass x2, Neo A2 Relic, Tellurium, Tek Gravity"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablearewards": {
+    "value": "10000 Credit Cache, 400 Endo, Familiar Debt-Bond x2, Axi C3 Relic, Kuva x500, Synth Reflex"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablebrewards": {
+    "value": "10000 Credit Cache, 400 Endo, Familiar Debt-Bond x2, Axi K4 Relic, Kuva x500, Mecha Pulse"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablecrewards": {
+    "value": "400 Endo, Familiar Debt-Bond x2, Neurodes, Orokin Cell, Axi L2 Relic, Kuva x500, Tek Collateral"
+  },
   "/lotus/types/gameplay/grineer/brokenlight": {
     "value": "Broken Light"
   },
