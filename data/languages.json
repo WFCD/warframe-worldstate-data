@@ -3528,6 +3528,9 @@
   "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
     "value": "Inaros Tomb Scene"
   },
+  "/lotus/storeitems/types/items/miscitems/photoboothtileorokinextraction": {
+    "value": "Orokin Tower Extraction Scene"
+  },
   "/lotus/storeitems/types/items/miscitems/plastids": {
     "value": "Plastids"
   },
@@ -3761,6 +3764,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/hydroidbobblehead": {
     "value": "Noggle Statue - Hydroid"
+  },
+  "/lotus/storeitems/types/items/shipdecos/lisetpropostrugbaro": {
+    "value": "Tenno Kindred Rug"
   },
   "/lotus/storeitems/types/items/shipdecos/lokibobblehead": {
     "value": "Noggle Statue - Loki"
@@ -6006,6 +6012,12 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagezephyrtengudark": {
     "value": "Zephyr Tengu Profile Icon"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/seasonal/avatarimageglyphcookiekavat": {
+    "value": "Cookie Kavat Glyph"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/seasonal/avatarimageglyphcookiekubrow": {
+    "value": "Cookie Kubrow Glyph"
+  },
   "/lotus/storeitems/types/storeitems/consumables/restoratives/creditchiplargeblueprint": {
     "value": "Passionate Void Offering"
   },
@@ -6095,6 +6107,9 @@
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickertwilightitema": {
     "value": "Twilight"
+  },
+  "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickertwitchbitema": {
+    "value": "Eminence"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickervalitema": {
     "value": "Valentine"
@@ -10120,7 +10135,7 @@
     "value": "Rubedo Plated Yamako Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/solsticebarocape": {
-    "value": "Solstice Ki'Teer Syandana"
+    "value": "Ki'teer Solstice Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/syndicateahscarf": {
     "value": "Telos Syandana"
@@ -10172,6 +10187,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sentinels/masks/infestedmask": {
     "value": "Mandible Mask"
+  },
+  "/lotus/storeitems/upgrades/skins/sentinels/masks/kavatpetmask": {
+    "value": "Kavat Sentinel Mask"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/masks/kubrowmask": {
     "value": "Kubrow Sentinel Mask"
@@ -10277,6 +10295,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sentinels/wings/jetwingsright": {
     "value": "Jet Sentinel Wings"
+  },
+  "/lotus/storeitems/upgrades/skins/sentinels/wings/kavatpetwings": {
+    "value": "Kavat Sentinel Wings"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/wings/orokinwings": {
     "value": "Summus Prime Sentinel Wings"
@@ -11075,6 +11096,9 @@
   },
   "/lotus/storeitems/weapons/grineer/melee/grnboomerang/grnboomerang": {
     "value": "Halikar"
+  },
+  "/lotus/storeitems/weapons/grineer/pistols/grineerbulboussmg/prisma/prismatwingremlinsweapon": {
+    "value": "Prisma Twin Gremlins"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineercrossbow/grineergoogun": {
     "value": "Stug"
