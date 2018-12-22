@@ -957,6 +957,9 @@
   "/lotus/powersuits/ninja/ninja": {
     "value": "Ash"
   },
+  "/lotus/powersuits/pacifist/pacifist": {
+    "value": "Baruuk"
+  },
   "/lotus/powersuits/paladin/paladin": {
     "value": "Oberon"
   },
@@ -15372,6 +15375,9 @@
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
   },
+  "/lotus/weapons/corpus/longguns/crpshapeblast/crpshapeblastshotgun": {
+    "value": "Exergis"
+  },
   "/lotus/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
     "value": "Quanta"
   },
@@ -15411,6 +15417,9 @@
   "/lotus/weapons/corpus/melee/whip/corpuswhipweapon": {
     "value": "Lecta"
   },
+  "/lotus/weapons/corpus/melee/whips/crpshockgrip/crpshockgripwhipweapon": {
+    "value": "Galvacord"
+  },
   "/lotus/weapons/corpus/pistols/corpushandshotgun/corpushandcannon": {
     "value": "Detron"
   },
@@ -15431,6 +15440,9 @@
   },
   "/lotus/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
     "value": "Angstrum"
+  },
+  "/lotus/weapons/corpus/pistols/crpsonificblastor/crpblastorweapon": {
+    "value": "Plinx"
   },
   "/lotus/weapons/corpus/pistols/sniperpistol/crpscopegun": {
     "value": "Arca Scisco"
@@ -16145,6 +16157,9 @@
   },
   "/lotus/weapons/tenno/melee/swordsandboards/meleecontestwinnerone/tennoswordshield": {
     "value": "Silva & Aegis"
+  },
+  "/lotus/weapons/tenno/melee/swordsandboards/pacifistshieldandsword/pacifistshieldsword": {
+    "value": "Cobra & Crane"
   },
   "/lotus/weapons/tenno/melee/tonfa/boltonfa/boltonfa": {
     "value": "Boltace"
