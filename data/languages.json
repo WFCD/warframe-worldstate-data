@@ -14121,6 +14121,9 @@
   "/lotus/types/storeitems/boosters/affinitybooster3daystoreitem": {
     "value": "3 Day Affinity Booster"
   },
+  "/lotus/types/storeitems/boosters/affinitybooster7daystoreitem": {
+    "value": "7 Day Affinity Booster"
+  },
   "/lotus/types/storeitems/boosters/affinityboosterstoreitem": {
     "value": "Affinity Booster"
   },
@@ -14493,6 +14496,9 @@
   "/lotus/types/storeitems/packages/nemesisnyxbundle": {
     "value": "Nemesis Complete Bundle"
   },
+  "/lotus/types/storeitems/packages/nezhadeluxeskinbundle": {
+    "value": "Nezha Empyrean Collection"
+  },
   "/lotus/types/storeitems/packages/nidusbundle": {
     "value": "Nidus Collection"
   },
@@ -14513,6 +14519,9 @@
   },
   "/lotus/types/storeitems/packages/operatorarmourbundleseer": {
     "value": "Zauba Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/operatorarmourbundlesmelter": {
+    "value": "Smelter Armor Bundle"
   },
   "/lotus/types/storeitems/packages/operatorsuitdbundle": {
     "value": "Manduka Operator Suit Bundle"
@@ -14612,6 +14621,9 @@
   },
   "/lotus/types/storeitems/packages/settwoarmorpack": {
     "value": "Edo Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/solarisposterbundle": {
+    "value": "Solaris Poster Pack"
   },
   "/lotus/types/storeitems/packages/solsticesetthreearmorpack": {
     "value": "Solstice Daedalus Armor Bundle"
@@ -15309,6 +15321,9 @@
   "/lotus/upgrades/skins/volt/voltalternateskin": {
     "value": "Volt Immortal Skin"
   },
+  "/lotus/upgrades/skins/weapons/dualdaggers/tnmilitarydualdaggerskin": {
+    "value": "Zastra Dual Dagger Skin"
+  },
   "/lotus/weapons/cephalon/melee/hammer/cephhammerweapon": {
     "value": "Heliocor"
   },
@@ -15401,6 +15416,9 @@
   },
   "/lotus/weapons/corpus/melee/crptonfa/crptonfa": {
     "value": "Ohma"
+  },
+  "/lotus/weapons/corpus/melee/glaive/crpglaive/crpglaive": {
+    "value": "Falcor"
   },
   "/lotus/weapons/corpus/melee/hammer/corpushammerweapon": {
     "value": "Arca Titron"
