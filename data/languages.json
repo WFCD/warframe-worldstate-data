@@ -3720,6 +3720,9 @@
   "/lotus/storeitems/types/items/shipdecos/emberbobblehead": {
     "value": "Noggle Statue - Ember"
   },
+  "/lotus/storeitems/types/items/shipdecos/excaliburarchwingbobblehead": {
+    "value": "Noggle Statue - Excalibur With Odonata"
+  },
   "/lotus/storeitems/types/items/shipdecos/excaliburbobblehead": {
     "value": "Noggle Statue - Excalibur"
   },
@@ -5165,6 +5168,9 @@
   },
   "/lotus/storeitems/types/restoratives/consumable/chargerball": {
     "value": "Charger Specter"
+  },
+  "/lotus/storeitems/types/restoratives/consumable/corruptedheavygunnerball": {
+    "value": "Corrupted Heavy Gunner Specter"
   },
   "/lotus/storeitems/types/restoratives/consumable/corruptedlancerball": {
     "value": "Corrupted Lancer Specter"
@@ -8803,10 +8809,10 @@
     "value": "Daedalus Knee Plates"
   },
   "/lotus/storeitems/upgrades/skins/armor/setthreewinged/vtsetthreearmleftarmor": {
-    "value": "Left Prisma Daedalus Shoulderguard"
+    "value": "Left Prisma Daedalus Shoulder Guard"
   },
   "/lotus/storeitems/upgrades/skins/armor/setthreewinged/vtsetthreearmrightarmor": {
-    "value": "Right Prisma Daedalus Shoulderguard"
+    "value": "Right Prisma Daedalus Shoulder Guard"
   },
   "/lotus/storeitems/upgrades/skins/armor/setthreewinged/vtsetthreechestarmor": {
     "value": "Prisma Daedalus Chest Plate"
@@ -9600,6 +9606,9 @@
   "/lotus/storeitems/upgrades/skins/harlequin/miragealtbhelmet": {
     "value": "Mirage Trivelin Helmet"
   },
+  "/lotus/storeitems/upgrades/skins/harlequin/miragealternateskin": {
+    "value": "Mirage İmmortal Skin"
+  },
   "/lotus/storeitems/upgrades/skins/harlequin/miragexmasskin": {
     "value": "Mirage Winter Skin"
   },
@@ -9677,6 +9686,9 @@
   },
   "/lotus/storeitems/upgrades/skins/kubrows/armor/kubrowarmorbaro": {
     "value": "Ki'Teer Kubrow Armor"
+  },
+  "/lotus/storeitems/upgrades/skins/kubrows/armor/kubrowarmorprisma": {
+    "value": "Prisma Rostam Kubrow Armor"
   },
   "/lotus/storeitems/upgrades/skins/liset/inaroslisetskin": {
     "value": "Liset Cydonia Skin"
@@ -10866,6 +10878,9 @@
   "/lotus/storeitems/upgrades/skins/voidtrader/elixissonicor": {
     "value": "Sonicor Exilis Skin"
   },
+  "/lotus/storeitems/upgrades/skins/voidtrader/elixisodonataskin": {
+    "value": "Odonata Elixis Skin"
+  },
   "/lotus/storeitems/upgrades/skins/voidtrader/prismaarrow": {
     "value": "Prisma Arrows"
   },
@@ -11779,7 +11794,7 @@
     "value": "Prisma Skana"
   },
   "/lotus/storeitems/weapons/voidtrader/vtdetron": {
-    "value": "Detron Mara"
+    "value": "Mara Detron"
   },
   "/lotus/types/boosterpacks/randomprojection": {
     "value": "Relic Pack"
