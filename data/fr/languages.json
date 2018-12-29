@@ -957,6 +957,9 @@
   "/lotus/powersuits/ninja/ninja": {
     "value": "Ash"
   },
+  "/lotus/powersuits/pacifist/pacifist": {
+    "value": "Baruuk"
+  },
   "/lotus/powersuits/paladin/paladin": {
     "value": "Oberon"
   },
@@ -3528,6 +3531,9 @@
   "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
     "value": "Inaros Tomb Scene"
   },
+  "/lotus/storeitems/types/items/miscitems/photoboothtileorokinextraction": {
+    "value": "Orokin Tower Extraction Scene"
+  },
   "/lotus/storeitems/types/items/miscitems/plastids": {
     "value": "Plastides"
   },
@@ -3714,6 +3720,9 @@
   "/lotus/storeitems/types/items/shipdecos/emberbobblehead": {
     "value": "Noggle Statue - Ember"
   },
+  "/lotus/storeitems/types/items/shipdecos/excaliburarchwingbobblehead": {
+    "value": "Noggle Statue - Excalibur With Odonata"
+  },
   "/lotus/storeitems/types/items/shipdecos/excaliburbobblehead": {
     "value": "Noggle Statue - Excalibur"
   },
@@ -3761,6 +3770,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/hydroidbobblehead": {
     "value": "Noggle Statue - Hydroid"
+  },
+  "/lotus/storeitems/types/items/shipdecos/lisetpropostrugbaro": {
+    "value": "Tenno Kindred Rug"
   },
   "/lotus/storeitems/types/items/shipdecos/lokibobblehead": {
     "value": "Noggle Statue - Loki"
@@ -5157,6 +5169,9 @@
   "/lotus/storeitems/types/restoratives/consumable/chargerball": {
     "value": "Charger Specter"
   },
+  "/lotus/storeitems/types/restoratives/consumable/corruptedheavygunnerball": {
+    "value": "Corrupted Heavy Gunner Specter"
+  },
   "/lotus/storeitems/types/restoratives/consumable/corruptedlancerball": {
     "value": "Corrupted Lancer Specter"
   },
@@ -6006,6 +6021,12 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagezephyrtengudark": {
     "value": "Zephyr Tengu Profile Icon"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/seasonal/avatarimageglyphcookiekavat": {
+    "value": "Cookie Kavat Glyph"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/seasonal/avatarimageglyphcookiekubrow": {
+    "value": "Cookie Kubrow Glyph"
+  },
   "/lotus/storeitems/types/storeitems/consumables/restoratives/creditchiplargeblueprint": {
     "value": "Passionate Void Offering"
   },
@@ -6095,6 +6116,9 @@
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickertwilightitema": {
     "value": "Twilight"
+  },
+  "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickertwitchbitema": {
+    "value": "Eminence"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickervalitema": {
     "value": "Valentine"
@@ -8785,10 +8809,10 @@
     "value": "Daedalus Knee Plates"
   },
   "/lotus/storeitems/upgrades/skins/armor/setthreewinged/vtsetthreearmleftarmor": {
-    "value": "Left Prisma Daedalus Shoulderguard"
+    "value": "Left Prisma Daedalus Shoulder Guard"
   },
   "/lotus/storeitems/upgrades/skins/armor/setthreewinged/vtsetthreearmrightarmor": {
-    "value": "Right Prisma Daedalus Shoulderguard"
+    "value": "Right Prisma Daedalus Shoulder Guard"
   },
   "/lotus/storeitems/upgrades/skins/armor/setthreewinged/vtsetthreechestarmor": {
     "value": "Prisma Daedalus Chest Plate"
@@ -9582,6 +9606,9 @@
   "/lotus/storeitems/upgrades/skins/harlequin/miragealtbhelmet": {
     "value": "Mirage Trivelin Helmet"
   },
+  "/lotus/storeitems/upgrades/skins/harlequin/miragealternateskin": {
+    "value": "Mirage İmmortal Skin"
+  },
   "/lotus/storeitems/upgrades/skins/harlequin/miragexmasskin": {
     "value": "Mirage Winter Skin"
   },
@@ -9659,6 +9686,9 @@
   },
   "/lotus/storeitems/upgrades/skins/kubrows/armor/kubrowarmorbaro": {
     "value": "Ki'Teer Kubrow Armor"
+  },
+  "/lotus/storeitems/upgrades/skins/kubrows/armor/kubrowarmorprisma": {
+    "value": "Prisma Rostam Kubrow Armor"
   },
   "/lotus/storeitems/upgrades/skins/liset/inaroslisetskin": {
     "value": "Liset Cydonia Skin"
@@ -10120,7 +10150,7 @@
     "value": "Rubedo Plated Yamako Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/solsticebarocape": {
-    "value": "Solstice Ki'Teer Syandana"
+    "value": "Ki'teer Solstice Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/syndicateahscarf": {
     "value": "Telos Syandana"
@@ -10172,6 +10202,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sentinels/masks/infestedmask": {
     "value": "Mandible Mask"
+  },
+  "/lotus/storeitems/upgrades/skins/sentinels/masks/kavatpetmask": {
+    "value": "Kavat Sentinel Mask"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/masks/kubrowmask": {
     "value": "Kubrow Sentinel Mask"
@@ -10277,6 +10310,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sentinels/wings/jetwingsright": {
     "value": "Jet Sentinel Wings"
+  },
+  "/lotus/storeitems/upgrades/skins/sentinels/wings/kavatpetwings": {
+    "value": "Kavat Sentinel Wings"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/wings/orokinwings": {
     "value": "Summus Prime Sentinel Wings"
@@ -10842,6 +10878,9 @@
   "/lotus/storeitems/upgrades/skins/voidtrader/elixissonicor": {
     "value": "Sonicor Exilis Skin"
   },
+  "/lotus/storeitems/upgrades/skins/voidtrader/elixisodonataskin": {
+    "value": "Odonata Elixis Skin"
+  },
   "/lotus/storeitems/upgrades/skins/voidtrader/prismaarrow": {
     "value": "Prisma Arrows"
   },
@@ -11075,6 +11114,9 @@
   },
   "/lotus/storeitems/weapons/grineer/melee/grnboomerang/grnboomerang": {
     "value": "Halikar"
+  },
+  "/lotus/storeitems/weapons/grineer/pistols/grineerbulboussmg/prisma/prismatwingremlinsweapon": {
+    "value": "Prisma Twin Gremlins"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineercrossbow/grineergoogun": {
     "value": "Stug"
@@ -11752,7 +11794,7 @@
     "value": "Prisma Skana"
   },
   "/lotus/storeitems/weapons/voidtrader/vtdetron": {
-    "value": "Detron Mara"
+    "value": "Mara Detron"
   },
   "/lotus/types/boosterpacks/randomprojection": {
     "value": "Relic Pack"
@@ -14094,6 +14136,9 @@
   "/lotus/types/storeitems/boosters/affinitybooster3daystoreitem": {
     "value": "3 Day Affinity Booster"
   },
+  "/lotus/types/storeitems/boosters/affinitybooster7daystoreitem": {
+    "value": "7 Day Affinity Booster"
+  },
   "/lotus/types/storeitems/boosters/affinityboosterstoreitem": {
     "value": "Affinity Booster"
   },
@@ -14253,6 +14298,12 @@
   "/lotus/types/storeitems/packages/fomorianrevengemodpack": {
     "value": "Eyes Of Blight Mod Pack"
   },
+  "/lotus/types/storeitems/packages/fortunamegabundle": {
+    "value": "Fortuna Grand Bundle"
+  },
+  "/lotus/types/storeitems/packages/fortunatwoweaponbundle": {
+    "value": "Vallis Domination Collection"
+  },
   "/lotus/types/storeitems/packages/fomorianrevengeskinpack": {
     "value": "Eyes Of Blight Skin Pack"
   },
@@ -14261,6 +14312,9 @@
   },
   "/lotus/types/storeitems/packages/frostpack": {
     "value": "Stay Frosty Pack"
+  },
+  "/lotus/types/storeitems/packages/garudabundle": {
+    "value": "Garuda Collection"
   },
   "/lotus/types/storeitems/packages/glassbundle": {
     "value": "Gara Collection"
@@ -14466,6 +14520,9 @@
   "/lotus/types/storeitems/packages/nemesisnyxbundle": {
     "value": "Nemesis Complete Bundle"
   },
+  "/lotus/types/storeitems/packages/nezhadeluxeskinbundle": {
+    "value": "Nezha Empyrean Collection"
+  },
   "/lotus/types/storeitems/packages/nidusbundle": {
     "value": "Nidus Collection"
   },
@@ -14487,6 +14544,9 @@
   "/lotus/types/storeitems/packages/operatorarmourbundleseer": {
     "value": "Zauba Armor Bundle"
   },
+  "/lotus/types/storeitems/packages/operatorarmourbundlesmelter": {
+    "value": "Smelter Armor Bundle"
+  },
   "/lotus/types/storeitems/packages/operatorsuitdbundle": {
     "value": "Manduka Operator Suit Bundle"
   },
@@ -14507,6 +14567,9 @@
   },
   "/lotus/types/storeitems/packages/ostronshipdecopackb": {
     "value": "Artisan Pack"
+  },
+  "/lotus/types/storeitems/packages/pacifistbundle": {
+    "value": "Oberon Feyarch Bundle"
   },
   "/lotus/types/storeitems/packages/paladindeluxeskinbundle": {
     "value": "Oberon Feyarch Bundle"
@@ -14565,6 +14628,9 @@
   "/lotus/types/storeitems/packages/prismaexcaliburpack": {
     "value": "Prisma Excalibur Bundle"
   },
+  "/lotus/types/storeitems/packages/revenantbundle": {
+    "value": "Revenant Collection"
+  },
   "/lotus/types/storeitems/packages/rhinowreckpack": {
     "value": "Wrecking Rhino Pack"
   },
@@ -14585,6 +14651,9 @@
   },
   "/lotus/types/storeitems/packages/settwoarmorpack": {
     "value": "Edo Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/solarisposterbundle": {
+    "value": "Solaris Poster Pack"
   },
   "/lotus/types/storeitems/packages/solsticesetthreearmorpack": {
     "value": "Solstice Daedalus Armor Bundle"
@@ -14670,6 +14739,9 @@
   "/lotus/types/storeitems/packages/vaultraiderpack": {
     "value": "Vault Raider Package"
   },
+  "/lotus/types/storeitems/packages/venuscrpweaponbundle": {
+    "value": "Orb Vallis Survival Collection"
+  },
   "/lotus/types/storeitems/packages/voidskinpack": {
     "value": "[Placeholder]"
   },
@@ -14717,6 +14789,9 @@
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerdefaultsitema": {
     "value": "Tenno"
+  },
+  "/lotus/types/storeitems/suitcustomizations/colourpickerdefaultsitemb": {
+    "value": "Tenno II"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickereasteritema": {
     "value": "Pâques"
@@ -14873,6 +14948,9 @@
   },
   "/lotus/upgrades/skins/excalibur/excaliburprotosuit": {
     "value": "Excalibur Protoskin"
+  },
+  "/lotus/upgrades/skins/fairy/faeriealthelm": {
+    "value": "Titania Mab Helmet"
   },
   "/lotus/upgrades/skins/fairy/fairyalthelmet": {
     "value": "Titania Aurai Helmet"
@@ -15066,6 +15144,9 @@
   "/lotus/upgrades/skins/holstercustomizations/rifleupperback": {
     "value": "Rifle Upper Back"
   },
+  "/lotus/upgrades/skins/infestation/nidusalthelmet": {
+    "value": "Nidus Myxini Helmet"
+  },
   "/lotus/upgrades/skins/jade/nyxalternateskin": {
     "value": "Nyx Immortal Skin"
   },
@@ -15170,6 +15251,9 @@
   },
   "/lotus/upgrades/skins/operator/sleeves/nosleeves": {
     "value": "No Sleeves"
+  },
+  "/lotus/upgrades/skins/pacifist/pacifistalthelmet": {
+    "value": "Baruuk Meroe Helmet"
   },
   "/lotus/upgrades/skins/paladin/oberonalternateskin": {
     "value": "Oberon Immortal Skin"
@@ -15282,6 +15366,9 @@
   "/lotus/upgrades/skins/volt/voltalternateskin": {
     "value": "Volt Immortal Skin"
   },
+  "/lotus/upgrades/skins/weapons/dualdaggers/tnmilitarydualdaggerskin": {
+    "value": "Zastra Dual Dagger Skin"
+  },
   "/lotus/weapons/cephalon/melee/hammer/cephhammerweapon": {
     "value": "Heliocor"
   },
@@ -15348,6 +15435,9 @@
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
   },
+  "/lotus/weapons/corpus/longguns/crpshapeblast/crpshapeblastshotgun": {
+    "value": "Exergis"
+  },
   "/lotus/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
     "value": "Quanta"
   },
@@ -15372,6 +15462,9 @@
   "/lotus/weapons/corpus/melee/crptonfa/crptonfa": {
     "value": "Ohma"
   },
+  "/lotus/weapons/corpus/melee/glaive/crpglaive/crpglaive": {
+    "value": "Falcor"
+  },
   "/lotus/weapons/corpus/melee/hammer/corpushammerweapon": {
     "value": "Arca Titron"
   },
@@ -15386,6 +15479,9 @@
   },
   "/lotus/weapons/corpus/melee/whip/corpuswhipweapon": {
     "value": "Lecta"
+  },
+  "/lotus/weapons/corpus/melee/whips/crpshockgrip/crpshockgripwhipweapon": {
+    "value": "Galvacord"
   },
   "/lotus/weapons/corpus/pistols/corpushandshotgun/corpushandcannon": {
     "value": "Detron"
@@ -15407,6 +15503,9 @@
   },
   "/lotus/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
     "value": "Angstrum"
+  },
+  "/lotus/weapons/corpus/pistols/crpsonificblastor/crpblastorweapon": {
+    "value": "Plinx"
   },
   "/lotus/weapons/corpus/pistols/sniperpistol/crpscopegun": {
     "value": "Arca Scisco"
@@ -16121,6 +16220,9 @@
   },
   "/lotus/weapons/tenno/melee/swordsandboards/meleecontestwinnerone/tennoswordshield": {
     "value": "Silva & Aegis"
+  },
+  "/lotus/weapons/tenno/melee/swordsandboards/pacifistshieldandsword/pacifistshieldsword": {
+    "value": "Cobra & Crane"
   },
   "/lotus/weapons/tenno/melee/tonfa/boltonfa/boltonfa": {
     "value": "Boltace"
