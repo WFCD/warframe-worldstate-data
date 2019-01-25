@@ -9954,6 +9954,9 @@
   "/lotus/storeitems/upgrades/skins/operator/accessories/barohorn": {
     "value": "Ki'Teer Cornu Diadem"
   },
+  "/lotus/storeitems/upgrades/skins/operator/accessories/barovisor": {
+    "value": "Ki'Teer Atmos Oculus"
+  },
   "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroa": {
     "value": "Ki'Teer Earpiece"
   },
@@ -10165,7 +10168,7 @@
     "value": "Rubedo Plated Yamako Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/solsticebarocape": {
-    "value": "Ki'teer Solstice Syandana"
+    "value": "Ki'Teer Solstice Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/syndicateahscarf": {
     "value": "Telos Syandana"
@@ -10967,6 +10970,9 @@
   },
   "/lotus/storeitems/weapons/clantech/chemical/flamethrower": {
     "value": "Ignis"
+  },
+  "/lotus/storeitems/weapons/clantech/chemical/flamethrowerwraith": {
+    "value": "Ignis Wraith"
   },
   "/lotus/storeitems/weapons/clantech/chemical/rocketlauncher": {
     "value": "Ogris"
