@@ -5493,6 +5493,12 @@
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageitemfrostprime": {
     "value": "Loki Profile Icon"
   },
+  "/lotus/storeitems/types/storeitems/AvatarImages/avatarimagelowpolykavat": {
+    "value": "Prisma Kavat Glyph"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/avatarimagelowpolykubrow": {
+    "value": "Prisma Kubrow Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imageashbright": {
     "value": "Ash Profile Icon"
   },
@@ -8724,6 +8730,9 @@
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/grineerturbineslegrightarmor": {
     "value": "Harkonar Leg Plates"
   },
+  "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbinesarmarmor": {
+    "value": "Harkonar Wraith Arm Armor"
+  },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbinesarmleftarmor": {
     "value": "Harkonar Wraith Left Spaulders"
   },
@@ -10788,6 +10797,9 @@
   "/lotus/storeitems/upgrades/skins/spectres/spectrecustomization": {
     "value": "Helmet Or Syandana"
   },
+  "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticegorgon": {
+    "value": "Gorgon Towsun Skin"
+  },
   "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticetwingrakatas": {
     "value": "Twin Grakata Towsun Skin"
   },
@@ -10924,7 +10936,7 @@
     "value": "Quanta Aufeis Skin"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/vtredeemerskin": {
-    "value": "Elixis Redeemer Skin"
+    "value": "Redeemer Elixis Skin"
   },
   "/lotus/storeitems/upgrades/skins/volt/unlockvoltagile": {
     "value": "Volt Agile Animation Set"
