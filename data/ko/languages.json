@@ -5493,6 +5493,12 @@
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageitemfrostprime": {
     "value": "로키 프로필 아이콘"
   },
+  "/lotus/storeitems/types/storeitems/AvatarImages/avatarimagelowpolykavat": {
+    "value": "Prisma Kavat Glyph"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/avatarimagelowpolykubrow": {
+    "value": "Prisma Kubrow Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imageashbright": {
     "value": "애쉬 프로필 아이콘"
   },
@@ -8724,6 +8730,9 @@
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/grineerturbineslegrightarmor": {
     "value": "하르코나르 레그 플레이츠"
   },
+  "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbinesarmarmor": {
+    "value": "Harkonar Wraith Arm Armor"
+  },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbinesarmleftarmor": {
     "value": "Harkonar Wraith Left Spaulders"
   },
@@ -10788,6 +10797,9 @@
   "/lotus/storeitems/upgrades/skins/spectres/spectrecustomization": {
     "value": "헬멧 또는 샨다나"
   },
+  "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticegorgon": {
+    "value": "Gorgon Towsun Skin"
+  },
   "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticetwingrakatas": {
     "value": "트윈 그라카타 토우선 스킨"
   },
@@ -10924,7 +10936,7 @@
     "value": "콴타 아우파이스 스킨"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/vtredeemerskin": {
-    "value": "엘릭시스 리디머 스킨"
+    "value": "Redeemer Elixis Skin"
   },
   "/lotus/storeitems/upgrades/skins/volt/unlockvoltagile": {
     "value": "볼트 애자일 애니메이션 세트"
