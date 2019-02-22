@@ -734,11 +734,23 @@
   "/lotus/language/g1quests/tacalertninjavarianttooltip": {
     "value": "Бритвенно острая Никана с быстротой пули Хикоу в этом заряженном энергией смертельном матче. Победа (место в топ 3) = 3 очка. Поражение = 1 очко."
   },
-  "/lotus/language/g1quests/warongrineertitle": {
-    "value": "War on Grineer"
+  "/lotus/language/g1quests/waroncorpusdesc": {
+    "value": "Community Goal: Kill Corpus Crewmen of all types to unlock a Double Credits Weekend in March!"
+  },
+  "/lotus/language/g1quests/waroncorpustitle": {
+    "value": "War on Corpus"
   },
   "/lotus/language/g1quests/warongrineerdesc": {
     "value": "Community Goal: Kill Grineer Lancers of all types to unlock a Double Affinity Weekend in March!"
+  },
+  "/lotus/language/g1quests/warongrineertitle": {
+    "value": "War on Grineer"
+  },
+  "/lotus/language/g1quests/waroninfesteddesc": {
+    "value": "Community Goal: Kill İnfested Chargers of all types to unlock a Double Resources Weekend in March!"
+  },
+  "/lotus/language/g1quests/waroninfestedtitle": {
+    "value": "War on Infested"
   },
   "/lotus/language/game/areacasteracolyte": {
     "value": "Страдание"
@@ -3776,6 +3788,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/hydroidbobblehead": {
     "value": "Фигурка - Гидроид"
+  },
+  "/lotus/storeitems/types/items/shipdecos/kubrowbust": {
+    "value": "Bronze Kubrow Bust"
   },
   "/lotus/storeitems/types/items/shipdecos/lisetpropostrugbaro": {
     "value": "Tenno Kindred Rug"
@@ -12884,6 +12899,12 @@
   },
   "/lotus/types/game/projections/t2voidprojectionalertsarynprimebronze": {
     "value": "Meso S9 Relic"
+  },
+  "/lotus/types/game/projections/t3voidprojectionalertsarynprimebronze": {
+    "value": "Neo S10 Relic"
+  },
+  "/lotus/types/game/projections/t4voidprojectionalertsarynprimebronze": {
+    "value": "Axi N6 Relic"
   },
   "/lotus/types/gameplay/grineer/brokenlight": {
     "value": "Broken Light"
