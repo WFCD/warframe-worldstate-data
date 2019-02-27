@@ -747,7 +747,7 @@
     "value": "War on Grineer"
   },
   "/lotus/language/g1quests/waroninfesteddesc": {
-    "value": "Community Goal: Kill İnfested Chargers of all types to unlock a Double Resources Weekend in March!"
+    "value": "Community Goal: Kill Infested Chargers of all types to unlock a Double Resources Weekend in March!"
   },
   "/lotus/language/g1quests/waroninfestedtitle": {
     "value": "War on Infested"
@@ -11858,6 +11858,39 @@
   },
   "/lotus/types/boosterpacks/randomprojection": {
     "value": "Relic Pack"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
+    "value": "Graffiti"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
+    "value": "Jailer"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
+    "value": "Invader"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
+    "value": "Animator"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
+    "value": "Not a Warning Shot"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
+    "value": "Earth Bounty Hunter"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
+    "value": "Test Subject"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
+    "value": "Santuary Researcher"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssortie": {
+    "value": "Sortie width Friends"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
+    "value": "Eximus Executioner"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
+    "value": "Hydrolyst Hunter"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
