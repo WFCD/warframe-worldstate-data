@@ -11860,43 +11860,58 @@
     "value": "Набор Реликвий"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
-    "value": "Graffiti"
+    "value": "Graffiti",
+    "desc": "Deploy a Glyph"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
+    "value": "Researcher",
+    "desc": "Scan 25 Objects or Enemies"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
-    "value": "Jailer"
+    "value": "Jailer",
+    "desc": "Complete 3 Capture Missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
-    "value": "Invader"
+    "value": "Invader",
+    "desc": "Complete 9 Invasion Missions of any type"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
-    "value": "Animator"
+    "value": "Animator",
+    "desc": "Fully socket 5 Ayatan Statues"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
-    "value": "Not a Warning Shot"
+    "value": "Not a Warning Shot",
+    "desc": "Kill 500 Enemies"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
-    "value": "Earth Bounty Hunter"
+    "value": "Earth Bounty Hunter",
+    "desc": "Complete 8 Bounties in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
-    "value": "Test Subject"
+    "value": "Test Subject",
+    "desc": "Complete 3 waves of Sanctuary Onslaught"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
-    "value": "Santuary Researcher"
+    "value": "Sanctuary Researcher",
+    "desc": "Complete 5 Scans for Cephalon Simaris"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssortie": {
-    "value": "Sortie width Friends"
+    "value": "Sortie with Friends",
+    "desc": "Complete a Sortie while playing with a friend or clanmate"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
-    "value": "Eximus Executioner"
+    "value": "Eximus Executioner",
+    "desc": "Kill 100 Eximus"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
-    "value": "Hydrolyst Hunter"
+    "value": "Hydrolyst Hunter",
+    "desc": "Kill or Capture an Eidolon Hydrolyst"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Страдание"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteavatar": {
-    "value": "Area Caster Acolyte Avatar"
+    "value": "Misery Avatar"
   },
   "/lotus/types/enemies/acolytes/controlacolyteagent": {
     "value": "Мучение"
@@ -11911,13 +11926,13 @@
     "value": "Мания"
   },
   "/lotus/types/enemies/acolytes/rogueacolyteavatar": {
-    "value": "Rogue Acolyte Avatar"
+    "value": "Mania Avatar"
   },
   "/lotus/types/enemies/acolytes/strikeracolyteagent": {
     "value": "Тоска"
   },
   "/lotus/types/enemies/acolytes/strikeracolyteavatar": {
-    "value": "Striker Acolyte Avatar"
+    "value": "Angst Avatar"
   },
   "/lotus/types/enemies/capturetargets/capturetargetcorpus": {
     "value": "Capture Target Corpus"
