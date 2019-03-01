@@ -11861,19 +11861,23 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
     "value": "Graffiti",
-    "desc": "Deploy a Glyph"
+    "desc": "Deploy a Glyph while in a mission"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
     "value": "Researcher",
     "desc": "Scan 25 Objects or Enemies"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
+    "value": "Accelerator",
+    "desc": "Kill 20 Enemies while Sliding"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
     "value": "Jailer",
-    "desc": "Complete 3 Capture Missions"
+    "desc": "Complete 3 Capture missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
     "value": "Invader",
-    "desc": "Complete 9 Invasion Missions of any type"
+    "desc": "Complete 9 Invasion missions of any type"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
