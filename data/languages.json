@@ -11870,6 +11870,10 @@
     "value": "Researcher",
     "desc": "Scan 25 Objects or Enemies"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
+    "value": "Shiny",
+    "desc": "Pick up 8 Mods"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "value": "Accelerator",
     "desc": "Kill 20 Enemies while Sliding"
@@ -11884,7 +11888,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
-    "desc": "Fully socket 5 Ayatan Statues"
+    "desc": "Fully socket 5 Ayatan Sculptures"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
     "value": "Not a Warning Shot",
