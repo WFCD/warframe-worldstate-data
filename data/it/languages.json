@@ -735,19 +735,19 @@
     "value": "Razor sharp Nikana clash with bullet fast Hikou in this amped-up deathmatch variant. Win (Place in top 3) = 3 Points. Loss = 1 Point."
   },
   "/lotus/language/g1quests/waroncorpusdesc": {
-    "value": "Community Goal: Kill Corpus Crewmen of all types to unlock a Double Credits Weekend in March!"
+    "value": "Community Goal: Kill Corpus Crewmen of all types to unlock a Double Credits weekend in March!"
   },
   "/lotus/language/g1quests/waroncorpustitle": {
     "value": "War on Corpus"
   },
   "/lotus/language/g1quests/warongrineerdesc": {
-    "value": "Community Goal: Kill Grineer Lancers of all types to unlock a Double Affinity Weekend in March!"
+    "value": "Community Goal: Kill Grineer Lancers of all types to unlock a Double Affinity weekend in March!"
   },
   "/lotus/language/g1quests/warongrineertitle": {
     "value": "War on Grineer"
   },
   "/lotus/language/g1quests/waroninfesteddesc": {
-    "value": "Community Goal: Kill Infested Chargers of all types to unlock a Double Resources Weekend in March!"
+    "value": "Community Goal: Kill Infested Chargers to unlock a Double Resource weekend in March!"
   },
   "/lotus/language/g1quests/waroninfestedtitle": {
     "value": "War on Infested"
@@ -7500,6 +7500,9 @@
   "/lotus/storeitems/upgrades/mods/randomized/lotusmeleerandommodrare": {
     "value": "Melee Riven Mod"
   },
+  "/lotus/storeitems/upgrades/mods/randomized/lotusmodularmeleerandommodrare": {
+    "value": "Zaw Riven Mod"
+  },
   "/lotus/storeitems/upgrades/mods/randomized/lotusmodularpistolrandommodrare": {
     "value": "Kitgun Riven Mod"
   },
@@ -11867,6 +11870,10 @@
     "value": "Researcher",
     "desc": "Scan 25 Objects or Enemies"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
+    "value": "Shiny",
+    "desc": "Pick up 8 Mods"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "value": "Accelerator",
     "desc": "Kill 20 Enemies while Sliding"
@@ -11881,7 +11888,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
-    "desc": "Fully socket 5 Ayatan Statues"
+    "desc": "Fully socket 5 Ayatan Sculptures"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
     "value": "Not a Warning Shot",
