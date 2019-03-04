@@ -11874,6 +11874,10 @@
     "value": "Arsonist",
     "desc": "Kill 150 Enemies with Heat Damage"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfreeze": {
+    "value": "Deep Freeze",
+    "desc": "Kill 150 Enemies with Cold Damage"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
     "value": "Shiny",
     "desc": "Pick up 8 Mods"
@@ -11890,6 +11894,18 @@
     "value": "Invader",
     "desc": "Complete 9 Invasion missions of any type"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
+    "value": "Supporter",
+    "desc": "Complete 10 Syndicate misions"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesortie": {
+    "value": "Sortie Specialist",
+    "desc": "Complete 1 Sorties"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
+    "value": "Assassin",
+    "desc": "COmplete 3 Assassination missions"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
     "desc": "Fully socket 5 Ayatan Sculptures"
@@ -11897,6 +11913,18 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
     "value": "Not a Warning Shot",
     "desc": "Kill 500 Enemies"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
+    "value": "Eximus Eliminator",
+    "desc": "Kill 30 Eximus"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
+    "value": "Conservationist",
+    "desc": "Complete 10 Perfect Animal Captures"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
+    "value": "Enhance!",
+    "desc": "Pick up 8 Rare Mods"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
     "value": "Earth Bounty Hunter",
@@ -11910,6 +11938,14 @@
     "value": "Sanctuary Researcher",
     "desc": "Complete 5 Scans for Cephalon Simaris"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockrelics": {
+    "value": "Unlock Relics",
+    "desc": "Unlock 3 Relics"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
+    "value": "Elite Test Subject",
+    "desc": "Complete 3 waves of Elite Sanctuary Onslaught"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssortie": {
     "value": "Sortie with Friends",
     "desc": "Complete a Sortie while playing with a friend or clanmate"
@@ -11921,6 +11957,14 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
     "value": "Hydrolyst Hunter",
     "desc": "Kill or Capture an Eidolon Hydrolyst"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
+    "value": "Hold Your Breath",
+    "desc": "Survive for over 60 minutes without using Life Suport Modules in Kuva Survival"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
+    "value": "Survival with Friends",
+    "desc": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misère"
