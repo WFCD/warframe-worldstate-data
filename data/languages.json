@@ -6645,6 +6645,9 @@
   "/lotus/storeitems/upgrades/mods/directormods/weakenemylevelaura": {
     "value": "Unfused Artifact"
   },
+  "/lotus/storeitems/upgrades/mods/dualsource/shotgun/shotgundedicmod": {
+    "value": "Amalgam Shotgun Spazz"
+  },
   "/lotus/storeitems/upgrades/mods/fusers/commonlvl1modfuser": {
     "value": "C1 Fusion Core"
   },
@@ -10527,6 +10530,9 @@
   "/lotus/storeitems/upgrades/skins/sigils/masterysigil": {
     "value": "Mastery Sigil"
   },
+  "/lotus/storeitems/upgrades/skins/sigils/orbsigil": {
+    "value": "Buried Debts Sigil"
+  },
   "/lotus/storeitems/upgrades/skins/sigils/primeaccesssigilfive": {
     "value": "Verlorum Prime Sigil"
   },
@@ -11063,6 +11069,9 @@
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpbfg/crpbfg": {
     "value": "Opticor"
+  },
+  "/lotus/storeitems/weapons/corpus/longguns/crpbfg/vandal/vandalcrpbfg": {
+    "value": "Opticor Vandal"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
@@ -11885,6 +11894,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
     "value": "Detonator",
     "desc": "Kill 150 Enemies with Blast Damage"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithcorrosive": {
+    "value": "Meltdown",
+    "desc": "Kill 150 Enemies with Corrosive Damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithelectricity": {
     "value": "Short Circuit",
