@@ -692,8 +692,20 @@
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "Gifts of the Lotus - Stolen!"
   },
+  "/lotus/language/g1quests/deck12glyphhunteventdesc": {
+    "value": "Find and scan data-hashes on the Orb Vallis"
+  },
+  "/lotus/language/g1quests/deck12glyphhunteventname": {
+    "value": "Operation: Buried Debts"
+  },
   "/lotus/language/g1quests/fomorianrevengebattlename": {
     "value": "Balor Fomorian"
+  },
+  "/lotus/language/g1quests/heatfissureseventdesc": {
+    "value": "Seal fractures across the Orb Vallis"
+  },
+  "/lotus/language/g1quests/heatfissureseventname": {
+    "value": "Thermia Fractures"
   },
   "/lotus/language/g1quests/kelaeventbonustitle": {
     "value": "Bezustanny Rathuum"
@@ -6633,6 +6645,18 @@
   "/lotus/storeitems/upgrades/mods/directormods/weakenemylevelaura": {
     "value": "Unfused Artifact"
   },
+  "/lotus/storeitems/upgrades/mods/dualsource/melee/critdamagechargespeedmod": {
+    "value": "Amalgam Organ Shatter"
+  },
+  "/lotus/storeitems/upgrades/mods/dualsource/rifle/serratedrushmod": {
+    "value": "Amalgam Serration"
+  },
+  "/lotus/storeitems/upgrades/mods/dualsource/pistol/multishotdodgemod": {
+    "value": "Amalgam Barrel Diffusion"
+  },
+  "/lotus/storeitems/upgrades/mods/dualsource/shotgun/shotgundedicmod": {
+    "value": "Amalgam Shotgun Spazz"
+  },
   "/lotus/storeitems/upgrades/mods/fusers/commonlvl1modfuser": {
     "value": "C1 Fusion Core"
   },
@@ -9162,6 +9186,9 @@
   "/lotus/storeitems/upgrades/skins/clan/nightmaresevantihalobadgeitem": {
     "value": "Aseron Sekhara"
   },
+  "/lotus/storeitems/upgrades/skins/clan/orbbadgeitem": {
+    "value": "Buried Debts Emblem"
+  },
   "/lotus/storeitems/upgrades/skins/clan/orokinsabotagebadgeitem": {
     "value": "Gate Crash Emblem"
   },
@@ -10515,6 +10542,9 @@
   "/lotus/storeitems/upgrades/skins/sigils/masterysigil": {
     "value": "Mastery Sigil"
   },
+  "/lotus/storeitems/upgrades/skins/sigils/orbsigil": {
+    "value": "Buried Debts Sigil"
+  },
   "/lotus/storeitems/upgrades/skins/sigils/primeaccesssigilfive": {
     "value": "Verlorum Prime Sigil"
   },
@@ -11051,6 +11081,9 @@
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpbfg/crpbfg": {
     "value": "Opticor"
+  },
+  "/lotus/storeitems/weapons/corpus/longguns/crpbfg/vandal/vandalcrpbfg": {
+    "value": "Opticor Vandal"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
@@ -11873,6 +11906,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
     "value": "Detonator",
     "desc": "Kill 150 Enemies with Blast Damage"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithcorrosive": {
+    "value": "Meltdown",
+    "desc": "Kill 150 Enemies with Corrosive Damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithelectricity": {
     "value": "Short Circuit",
