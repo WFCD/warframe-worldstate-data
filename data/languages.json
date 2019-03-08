@@ -6645,6 +6645,15 @@
   "/lotus/storeitems/upgrades/mods/directormods/weakenemylevelaura": {
     "value": "Unfused Artifact"
   },
+  "/lotus/storeitems/upgrades/mods/dualsource/melee/critdamagechargespeedmod": {
+    "value": "Amalgam Organ Shatter"
+  },
+  "/lotus/storeitems/upgrades/mods/dualsource/rifle/serratedrushmod": {
+    "value": "Amalgam Serration"
+  },
+  "/lotus/storeitems/upgrades/mods/dualsource/pistol/multishotdodgemod": {
+    "value": "Amalgam Barrel Diffusion"
+  },
   "/lotus/storeitems/upgrades/mods/dualsource/shotgun/shotgundedicmod": {
     "value": "Amalgam Shotgun Spazz"
   },
@@ -9176,6 +9185,9 @@
   },
   "/lotus/storeitems/upgrades/skins/clan/nightmaresevantihalobadgeitem": {
     "value": "Aseron Sekhara"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/orbbadgeitem": {
+    "value": "Buried Debts Emblem"
   },
   "/lotus/storeitems/upgrades/skins/clan/orokinsabotagebadgeitem": {
     "value": "Gate Crash Emblem"
