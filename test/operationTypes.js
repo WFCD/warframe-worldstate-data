@@ -10,6 +10,7 @@ const operationTypesSchema = {
       type: 'object',
       properties: {
         value: { type: 'string' },
+        symbol: { type: 'string' },
       },
       required: ['value'],
     },
