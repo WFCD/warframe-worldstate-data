@@ -11901,6 +11901,10 @@
   "/lotus/types/boosterpacks/randomprojection": {
     "value": "성유물 팩"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
+    "value": "Glider",
+    "desc": "Kill 20 Enemies while Aim Gliding"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
     "value": "Graffiti",
     "desc": "Deploy a Glyph while in a mission"
@@ -11928,6 +11932,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfreeze": {
     "value": "딥 프리즈",
     "desc": "Kill 150 Enemies with Cold Damage"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithgas": {
+    "value": "Biohazard",
+    "desc": "Kill 150 Enemies with Gas Damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
     "value": "Attractive",
