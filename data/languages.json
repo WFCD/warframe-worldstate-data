@@ -948,6 +948,9 @@
   "/lotus/powersuits/infestation/infestation": {
     "value": "Nidus"
   },
+  "/lotus/powersuits/ironframe/ironframe": {
+    "value": "Hildryn"
+  },
   "/lotus/powersuits/jade/jade": {
     "value": "Nyx"
   },
@@ -14621,6 +14624,9 @@
   "/lotus/types/storeitems/packages/halloweenvastoskinpack": {
     "value": "Vasto Day Of The Dead Skin"
   },
+  "/lotus/types/storeitems/packages/hildrynbundle": {
+    "value": "Hildryn Collection"
+  },
   "/lotus/types/storeitems/packages/holsterseriesonepack": {
     "value": "Adi Holster Collection"
   },
@@ -14731,6 +14737,9 @@
   },
   "/lotus/types/storeitems/packages/lightningsheathpack": {
     "value": "Gemini Nikana Sheath"
+  },
+  "/lotus/types/storeitems/packages/limbodeluxeskinbundle": {
+    "value": "Limbo Collection Bundles"
   },
   "/lotus/types/storeitems/packages/lokipack": {
     "value": "Loki Pack"
@@ -15382,6 +15391,9 @@
   },
   "/lotus/upgrades/skins/holstercustomizations/rifleupperback": {
     "value": "Rifle Upper Back"
+  },
+  "/lotus/upgrades/skins/ironframe/shieldalthelmet": {
+    "value": "Hildryn Asuron Helmet"
   },
   "/lotus/upgrades/skins/infestation/nidusalthelmet": {
     "value": "Nidus Myxini Helmet"
@@ -16456,6 +16468,9 @@
   },
   "/lotus/weapons/tenno/melee/swords/tnorapier/tnorapier": {
     "value": "Destreza"
+  },
+  "/lotus/weapons/tenno/melee/swords/tntwohandedkatana/tntwohandedkatana": {
+    "value": "Tatsu"
   },
   "/lotus/weapons/tenno/melee/swordsandboards/meleecontestwinnerone/tennoswordshield": {
     "value": "Silva & Aegis"
