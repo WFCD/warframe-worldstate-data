@@ -948,6 +948,9 @@
   "/lotus/powersuits/infestation/infestation": {
     "value": "나이더스"
   },
+  "/lotus/powersuits/ironframe/ironframe": {
+    "value": "Hildryn"
+  },
   "/lotus/powersuits/jade/jade": {
     "value": "닉스"
   },
@@ -14621,6 +14624,9 @@
   "/lotus/types/storeitems/packages/halloweenvastoskinpack": {
     "value": "죽은 자의 날 바스토 스킨"
   },
+  "/lotus/types/storeitems/packages/hildrynbundle": {
+    "value": "Hildryn Collection"
+  },
   "/lotus/types/storeitems/packages/holsterseriesonepack": {
     "value": "Adi Holster Collection"
   },
@@ -14732,6 +14738,9 @@
   "/lotus/types/storeitems/packages/lightningsheathpack": {
     "value": "제미니 니카나 시스"
   },
+  "/lotus/types/storeitems/packages/limbodeluxeskinbundle": {
+    "value": "Limbo Collection Bundles"
+  },
   "/lotus/types/storeitems/packages/lokipack": {
     "value": "로키 팩"
   },
@@ -14808,7 +14817,7 @@
     "value": "장인 팩"
   },
   "/lotus/types/storeitems/packages/pacifistbundle": {
-    "value": "오베론 페이아크 번들"
+    "value": "Baruuk Collection"
   },
   "/lotus/types/storeitems/packages/paladindeluxeskinbundle": {
     "value": "오베론 페이아크 번들"
@@ -15383,6 +15392,9 @@
   "/lotus/upgrades/skins/holstercustomizations/rifleupperback": {
     "value": "Rifle Upper Back"
   },
+  "/lotus/upgrades/skins/ironframe/shieldalthelmet": {
+    "value": "Hildryn Asuron Helmet"
+  },
   "/lotus/upgrades/skins/infestation/nidusalthelmet": {
     "value": "Nidus Myxini Helmet"
   },
@@ -15433,6 +15445,9 @@
   },
   "/lotus/upgrades/skins/mag/magalternateskin": {
     "value": "매그 이모탈 스킨"
+  },
+  "/lotus/upgrades/skins/magician/limbodeluxeskin": {
+    "value": "Limbo Limina Skin"
   },
   "/lotus/upgrades/skins/meleedangles/esgrnsugatrameleedangle": {
     "value": "볼로켓 수가트라"
@@ -15521,6 +15536,12 @@
   "/lotus/upgrades/skins/scarves/april2015scarf": {
     "value": "카이롭테라 샨다나"
   },
+  "/lotus/upgrades/skins/scarves/crpcubinatorscarf": {
+    "value": "Quaro Syandana"
+  },
+  "/lotus/upgrades/skins/scarves/crpmbundlesyandana": {
+    "value": "Flox Syandana"
+  },
   "/lotus/upgrades/skins/scarves/energyscarf": {
     "value": "아사 샨다나"
   },
@@ -15559,6 +15580,9 @@
   },
   "/lotus/upgrades/skins/scarves/magdeluxescarf": {
     "value": "바사 샨다나"
+  },
+  "/lotus/upgrades/skins/scarves/shieldframecape": {
+    "value": "Surator Syandana"
   },
   "/lotus/upgrades/skins/scarves/swrthreeaquirosscarf": {
     "value": "S W R Three Aquiros Scarf"
@@ -16456,6 +16480,9 @@
   },
   "/lotus/weapons/tenno/melee/swords/tnorapier/tnorapier": {
     "value": "데스트레자"
+  },
+  "/lotus/weapons/tenno/melee/swords/tntwohandedkatana/tntwohandedkatana": {
+    "value": "Tatsu"
   },
   "/lotus/weapons/tenno/melee/swordsandboards/meleecontestwinnerone/tennoswordshield": {
     "value": "실바 & 이지스"
