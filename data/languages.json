@@ -11956,13 +11956,25 @@
     "value": "Accelerator",
     "desc": "Kill 20 Enemies while Sliding"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrarevenusfish": {
+    "value": "Venus Fisher",
+    "desc": "Catch 6 Rare Servofish in the Orb Vallis"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
     "value": "Jailer",
     "desc": "Complete 3 Capture missions"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
+    "value": "Good Friend",
+    "desc": "Help Clem with his weekly mission"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
     "value": "Invader",
     "desc": "Complete 9 Invasion missions of any type"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesabotage": {
+    "value": "Saboteur",
+    "desc": "Complete 3 Sabotage missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
     "value": "Supporter",
@@ -11992,6 +12004,10 @@
     "value": "Earth Miner",
     "desc": "Mine 6 Rare Gems in the Plains of Eidolon"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
+    "value": "Venus Miner",
+    "desc": "Mine 6 Rare Gems in the Orb Vallis"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
     "value": "Conservationist",
     "desc": "Complete 10 Perfect Animal Captures"
@@ -12019,6 +12035,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockrelics": {
     "value": "Unlock Relics",
     "desc": "Unlock 3 Relics"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
+    "value": "Venus Bounty Hunter",
+    "desc": "Complete 8 bounties in the Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
     "value": "Elite Test Subject",
