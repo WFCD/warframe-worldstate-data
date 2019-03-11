@@ -827,6 +827,30 @@
   "/lotus/language/menu/infestedinvasiongeneric": {
     "value": "Infested Outbreak"
   },
+  "/lotus/language/messages/orbheisteventrewardainboxmessagebody": {
+    "value": "You're getting the hang of it. We just wanted to send you a little something by way of encourangement. Don't let up."
+  },
+  "/lotus/language/messages/orbheisteventrewardainboxmessagetitle": {
+    "value": "Vallis Fractures: A Token of Appreciation"
+  },
+  "/lotus/language/messages/orbheisteventrewardbinboxmessagebody": {
+    "value": "You're doing good work, Sparky. At the current rate Smokefinger charts a plateau in seismic activity before long. That's good news for Fortuna. Keep it up."
+  },
+  "/lotus/language/messages/orbheisteventrewardbinboxmessagetitle": {
+    "value": "Vallis Fractures: I Think It's Working"
+  },
+  "/lotus/language/messages/orbheisteventrewardcinboxmessagebody": {
+    "value": "The Vallis is more stable these days, thanks to the work you're doing. But we've still got fractures erupting every day, and until Nef concedes the threat we have to take care of ourselves. Find them. Seal them. We're counting on you."
+  },
+  "/lotus/language/messages/orbheisteventrewardcinboxmessagetitle": {
+    "value": "Vallis Fractures: Looking Good!"
+  },
+  "/lotus/language/messages/orbheisteventrewarddinboxmessagebody": {
+    "value": "I clock 75-plus fractures sealed. I shudder to think what state we'd be in if we didn't have you helping us out like this. Kids are shutting down sound in their racks, knowing you're out there. Thank you."
+  },
+  "/lotus/language/messages/orbheisteventrewarddinboxmessagetitle": {
+    "value": "Vallis Fractures: Real Progress"
+  },
   "/lotus/language/sigils/kelaeventsigilname": {
     "desc": "A sigil commemorating the liberation of defectors from the Grineer.",
     "value": "Rathuum Sigil"
@@ -12040,13 +12064,25 @@
     "value": "Venus Bounty Hunter",
     "desc": "Complete 8 bounties in the Orb Vallis"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
+    "value": "Sortie Expert",
+    "desc": "Complete 5 Sorties"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
     "value": "Elite Test Subject",
     "desc": "Complete 3 waves of Elite Sanctuary Onslaught"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardexterminatenoalarm": {
+    "value": "Silent Eliminator",
+    "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssortie": {
     "value": "Sortie with Friends",
     "desc": "Complete a Sortie while playing with a friend or clanmate"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
+    "value": "Survival with Friends",
+    "desc": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
     "value": "Eximus Executioner",
@@ -12060,9 +12096,9 @@
     "value": "Hold Your Breath",
     "desc": "Survive for over 60 minutes without using Life Suport Modules in Kuva Survival"
   },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "value": "Survival with Friends",
-    "desc": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
+    "value": "Ascendant",
+    "desc": "Complete 4 Halls of Ascension on Lua"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misère"
@@ -12846,6 +12882,54 @@
   },
   "/lotus/types/game/decorations/miningmachineobjective": {
     "value": "Mining Machine Objective"
+  },
+  "/lotus/types/game/events/orbeventglyphone": {
+    "value": "Data-hash 1"
+  },
+  "/lotus/types/game/events/orbeventglyphtwo": {
+    "value": "Data-hash 2"
+  },
+  "/lotus/types/game/events/orbeventglyphthree": {
+    "value": "Data-hash 3"
+  },
+  "/lotus/types/game/events/orbeventglyphfour": {
+    "value": "Data-hash 4"
+  },
+  "/lotus/types/game/events/orbeventglyphfive": {
+    "value": "Data-hash 5"
+  },
+  "/lotus/types/game/events/orbeventglyphsix": {
+    "value": "Data-hash 6"
+  },
+  "/lotus/types/game/events/orbeventglyphseven": {
+    "value": "Data-hash 7"
+  },
+  "/lotus/types/game/events/orbeventglypheight": {
+    "value": "Data-hash 8"
+  },
+  "/lotus/types/game/events/orbeventglyphnine": {
+    "value": "Data-hash 9"
+  },
+  "/lotus/types/game/events/orbeventglyphten": {
+    "value": "Data-hash 10"
+  },
+  "/lotus/types/game/events/orbeventglypheleven": {
+    "value": "Data-hash 11"
+  },
+  "/lotus/types/game/events/orbeventglyphtwelve": {
+    "value": "Data-hash 12"
+  },
+  "/lotus/types/game/events/orbeventglyphthirteen": {
+    "value": "Data-hash 13"
+  },
+  "/lotus/types/game/events/orbeventglyphfourteen": {
+    "value": "Data-hash 14"
+  },
+  "/lotus/types/game/events/orbeventglyphfifteen": {
+    "value": "Data-hash 15"
+  },
+  "/lotus/types/game/events/orbeventglyphsixteen": {
+    "value": "Data-hash 16"
   },
   "/lotus/types/game/kubrowpet/adventurerkubrowpetpowersuit": {
     "value": "Sahasa"
