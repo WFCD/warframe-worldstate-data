@@ -12040,13 +12040,25 @@
     "value": "Venus Bounty Hunter",
     "desc": "Complete 8 bounties in the Orb Vallis"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
+    "value": "Sortie Expert",
+    "desc": "Complete 5 Sorties"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
     "value": "Elite Test Subject",
     "desc": "Complete 3 waves of Elite Sanctuary Onslaught"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardexterminatenoalarm": {
+    "value": "Silent Eliminator",
+    "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssortie": {
     "value": "Sortie with Friends",
     "desc": "Complete a Sortie while playing with a friend or clanmate"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
+    "value": "Survival with Friends",
+    "desc": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
     "value": "Eximus Executioner",
@@ -12060,9 +12072,9 @@
     "value": "Hold Your Breath",
     "desc": "Survive for over 60 minutes without using Life Suport Modules in Kuva Survival"
   },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "value": "Survival with Friends",
-    "desc": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
+    "value": "Ascendant",
+    "desc": "Complete 4 Halls of Ascension on Lua"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
