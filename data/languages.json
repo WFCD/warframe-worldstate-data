@@ -14911,6 +14911,12 @@
   "/lotus/types/storeitems/packages/oberondeluxeskinbundle": {
     "value": "Oberon Feyarch Bundle"
   },
+  "/lotus/types/storeitems/packages/operatorarmourbundleapparatist": {
+    "value": "Outrider Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/operatorarmourbundlegrease": {
+    "value": "Vent Rat Armor Bundle"
+  },
   "/lotus/types/storeitems/packages/operatorarmourbundlemage": {
     "value": "Vahd Armor Bundle"
   },
@@ -14922,6 +14928,9 @@
   },
   "/lotus/types/storeitems/packages/operatorarmourbundlesmelter": {
     "value": "Smelter Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/operatorarmourbundletechnomancer": {
+    "value": "Haztech Armor Bundle"
   },
   "/lotus/types/storeitems/packages/operatorsuitdbundle": {
     "value": "Manduka Operator Suit Bundle"
@@ -16275,6 +16284,9 @@
   },
   "/lotus/weapons/tenno/archwing/primary/rocketartillery/archrocketcrossbow": {
     "value": "Fluctus"
+  },
+  "/lotus/weapons/tenno/archwing/primary/tnshieldframearchgun/tnshieldframearchgun": {
+    "value": "Larkspur"
   },
   "/lotus/weapons/tenno/bows/antlerbow/antlerbow": {
     "value": "Cernos"
