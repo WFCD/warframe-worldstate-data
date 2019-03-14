@@ -6681,8 +6681,8 @@
   "/lotus/storeitems/upgrades/mods/dualsource/pistol/multishotdodgemod": {
     "value": "Amalgam Barrel Diffusion"
   },
-  "/lotus/storeitems/upgrades/mods/dualsource/shotgun/shotgundedicmod": {
-    "value": "Amalgam Shotgun Spazz"
+  "/lotus/storeitems/upgrades/mods/dualsource/shotgun/shotgunmedicmod": {
+    "value": ""
   },
   "/lotus/storeitems/upgrades/mods/fusers/commonlvl1modfuser": {
     "value": "C1 퓨전 코어"
@@ -14911,6 +14911,12 @@
   "/lotus/types/storeitems/packages/oberondeluxeskinbundle": {
     "value": "오베론 페이아크 번들"
   },
+  "/lotus/types/storeitems/packages/operatorarmourbundleapparatist": {
+    "value": ""
+  },
+  "/lotus/types/storeitems/packages/operatorarmourbundlegrease": {
+    "value": ""
+  },
   "/lotus/types/storeitems/packages/operatorarmourbundlemage": {
     "value": "바드 아머 번들"
   },
@@ -14922,6 +14928,9 @@
   },
   "/lotus/types/storeitems/packages/operatorarmourbundlesmelter": {
     "value": "Smelter Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/operatorarmourbundletechnomancer": {
+    "value": ""
   },
   "/lotus/types/storeitems/packages/operatorsuitdbundle": {
     "value": "만두카 오퍼레이터 슈트 번들"
@@ -16275,6 +16284,9 @@
   },
   "/lotus/weapons/tenno/archwing/primary/rocketartillery/archrocketcrossbow": {
     "value": "플럭투스"
+  },
+  "/lotus/weapons/tenno/archwing/primary/tnshieldframearchgun/tnshieldframearchgun": {
+    "value": ""
   },
   "/lotus/weapons/tenno/bows/antlerbow/antlerbow": {
     "value": "세르노스"
