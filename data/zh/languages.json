@@ -11944,6 +11944,10 @@
     "value": "Saver",
     "desc": "Pick up 15,000 Credits"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
+    "value": "Power Trip",
+    "desc": "Kill 150 Enemies with Abilities"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
     "value": "Detonator",
     "desc": "Kill 150 Enemies with Blast Damage"
@@ -16009,7 +16013,7 @@
     "value": "Machete Wraith"
   },
   "/lotus/weapons/grineer/melee/grineertylaxeandboar/regoraxeshield": {
-    "value": "Ack & Brunt"
+    "value": "認知 & 衝擊"
   },
   "/lotus/weapons/grineer/melee/grineerwhip/grineerwhip": {
     "value": "Atterak"
@@ -16666,7 +16670,7 @@
     "value": "Magnus"
   },
   "/lotus/weapons/tenno/pistols/primeakstiletto/primeakstiletto": {
-    "value": "Akstiletto Prime"
+    "value": "史提托雙槍 Prime"
   },
   "/lotus/weapons/tenno/pistols/primelex/primelex": {
     "value": "Lex Prime"
