@@ -692,6 +692,12 @@
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "Gifts of the Lotus - Stolen!"
   },
+  "/lotus/language/g1quests/deck12eventdesc": {
+    "value": "Exploiter Orb - Deck 12"
+  },
+  "/lotus/language/g1quests/deck12eventname": {
+    "value": "Operation: Buried Debts - Deck 12"
+  },
   "/lotus/language/g1quests/deck12glyphhunteventdesc": {
     "value": "Find and scan data-hashes on the Orb Vallis"
   },
@@ -6682,7 +6688,7 @@
     "value": "Amalgam Barrel Diffusion"
   },
   "/lotus/storeitems/upgrades/mods/dualsource/shotgun/shotgunmedicmod": {
-    "value": ""
+    "value": "Amalgam Shotgun Spazz"
   },
   "/lotus/storeitems/upgrades/mods/fusers/commonlvl1modfuser": {
     "value": "Núcleo de fusão C1"
@@ -11932,6 +11938,10 @@
     "value": "Glider",
     "desc": "Kill 20 Enemies while Aim Gliding"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
+    "value": "Trampoline",
+    "desc": "Bullet Jump 150 times"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
     "value": "Graffiti",
     "desc": "Deploy a Glyph while in a mission"
@@ -14867,7 +14877,7 @@
     "value": "Gemini Nikana Sheath"
   },
   "/lotus/types/storeitems/packages/limbodeluxeskinbundle": {
-    "value": "Limbo Collection Bundles"
+    "value": "Limbo Limina Collection"
   },
   "/lotus/types/storeitems/packages/lokipack": {
     "value": "Loki Pack"
@@ -14912,10 +14922,10 @@
     "value": "Oberon Feyarch Bundle"
   },
   "/lotus/types/storeitems/packages/operatorarmourbundleapparatist": {
-    "value": ""
+    "value": "Outrider Armor Bundle"
   },
   "/lotus/types/storeitems/packages/operatorarmourbundlegrease": {
-    "value": ""
+    "value": "Vent Rat Armor Bundle"
   },
   "/lotus/types/storeitems/packages/operatorarmourbundlemage": {
     "value": "Vahd Armor Bundle"
@@ -14930,7 +14940,7 @@
     "value": "Smelter Armor Bundle"
   },
   "/lotus/types/storeitems/packages/operatorarmourbundletechnomancer": {
-    "value": ""
+    "value": "Haztech Armor Bundle"
   },
   "/lotus/types/storeitems/packages/operatorsuitdbundle": {
     "value": "Manduka Operator Suit Bundle"
@@ -16286,7 +16296,7 @@
     "value": "Fluctus"
   },
   "/lotus/weapons/tenno/archwing/primary/tnshieldframearchgun/tnshieldframearchgun": {
-    "value": ""
+    "value": "Larkspur"
   },
   "/lotus/weapons/tenno/bows/antlerbow/antlerbow": {
     "value": "Cernos"
