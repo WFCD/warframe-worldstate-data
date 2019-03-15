@@ -692,6 +692,12 @@
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "Gifts of the Lotus - Stolen!"
   },
+  "/lotus/language/g1quests/deck12eventdesc": {
+    "value": "Exploiter Orb - Deck 12"
+  },
+  "/lotus/language/g1quests/deck12eventname": {
+    "value": "Operation: Buried Debts - Deck 12"
+  },
   "/lotus/language/g1quests/deck12glyphhunteventdesc": {
     "value": "Find and scan data-hashes on the Orb Vallis"
   },
@@ -11931,6 +11937,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
     "value": "Glider",
     "desc": "Kill 20 Enemies while Aim Gliding"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
+    "value": "Trampoline",
+    "desc": "Bullet Jump 150 times"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
     "value": "Graffiti",
