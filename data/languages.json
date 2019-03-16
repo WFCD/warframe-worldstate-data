@@ -693,7 +693,7 @@
     "value": "Gifts of the Lotus - Stolen!"
   },
   "/lotus/language/g1quests/deck12eventdesc": {
-    "value": "Exploiter Orb - Deck 12"
+    "value": "Take on the Exploiter Orb"
   },
   "/lotus/language/g1quests/deck12eventname": {
     "value": "Operation: Buried Debts - Deck 12"
@@ -11989,6 +11989,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
     "value": "Attractive",
     "desc": "Kill 150 Enemies with Magnetic Damage"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
+    "value": "Poisoner",
+    "desc": "Kill 150 Enemies with Toxin Damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
     "value": "Kleptomaniac",
