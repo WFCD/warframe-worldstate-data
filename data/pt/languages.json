@@ -693,7 +693,7 @@
     "value": "Gifts of the Lotus - Stolen!"
   },
   "/lotus/language/g1quests/deck12eventdesc": {
-    "value": "Exploiter Orb - Deck 12"
+    "value": "Take on the Exploiter Orb"
   },
   "/lotus/language/g1quests/deck12eventname": {
     "value": "Operation: Buried Debts - Deck 12"
@@ -11954,6 +11954,14 @@
     "value": "Saver",
     "desc": "Pick up 15,000 Credits"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
+    "value": "Agent",
+    "desc": "Complete a Mission"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
+    "value": "Warning Shot",
+    "desc": "Kill 200 Enemies"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "value": "Power Trip",
     "desc": "Kill 150 Enemies with Abilities"
@@ -11990,6 +11998,10 @@
     "value": "Attractive",
     "desc": "Kill 150 Enemies with Magnetic Damage"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
+    "value": "Poisoner",
+    "desc": "Kill 150 Enemies with Toxin Damage"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
     "value": "Kleptomaniac",
     "desc": "Open 20 lockers"
@@ -12002,9 +12014,17 @@
     "value": "Accelerator",
     "desc": "Kill 20 Enemies while Sliding"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
+    "value": "Earth Fisher",
+    "desc": "Catch 6 Rare Fish in the Plains of Eidolon"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrarevenusfish": {
     "value": "Venus Fisher",
     "desc": "Catch 6 Rare Servofish in the Orb Vallis"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
+    "value": "Assassin",
+    "desc": "Complete 3 Assassination missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
     "value": "Jailer",
@@ -12014,29 +12034,45 @@
     "value": "Good Friend",
     "desc": "Help Clem with his weekly mission"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteexterminate": {
+    "value": "Eliminator",
+    "desc": "Complete 3 Exterminate missions"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
     "value": "Invader",
     "desc": "Complete 9 Invasion missions of any type"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletemobiledefense": {
+    "value": "Protector",
+    "desc": "Complete 3 Mobile Defense missions"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompleterescue": {
+    "value": "Rescuer",
+    "desc": "Complete 3 Rescue missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesabotage": {
     "value": "Saboteur",
     "desc": "Complete 3 Sabotage missions"
   },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
-    "value": "Supporter",
-    "desc": "Complete 10 Syndicate misions"
-  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesortie": {
     "value": "Sortie Specialist",
     "desc": "Complete 1 Sorties"
   },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
-    "value": "Assassin",
-    "desc": "Complete 3 Assassination missions"
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletespy": {
+    "value": "Operative",
+    "desc": "Complete 3 Spy missions"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
+    "value": "Supporter",
+    "desc": "Complete 10 Syndicate misions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
     "desc": "Fully socket 5 Ayatan Sculptures"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
+    "value": "Gilded",
+    "desc": "Gild 1 Modular Items"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
     "value": "Not a Warning Shot",
@@ -12082,6 +12118,10 @@
     "value": "Unlock Relics",
     "desc": "Unlock 3 Relics"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyuseforma": {
+    "value": "Polarized",
+    "desc": "Use Forma 3 times"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
     "value": "Venus Bounty Hunter",
     "desc": "Complete 8 bounties in the Orb Vallis"
@@ -12098,6 +12138,10 @@
     "value": "Silent Eliminator",
     "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
+    "value": "Kill Profit-Taker with Friends",
+    "desc": "Kill Profit-Taker while playing with a friend or clanmate"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssortie": {
     "value": "Sortie with Friends",
     "desc": "Complete a Sortie while playing with a friend or clanmate"
@@ -12105,6 +12149,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
     "value": "Survival with Friends",
     "desc": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillenemies": {
+    "value": "Kill Shot",
+    "desc": "Kill 1,500 Enemies"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
     "value": "Eximus Executioner",
@@ -12121,6 +12169,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
     "value": "Ascendant",
     "desc": "Complete 4 Halls of Ascension on Lua"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
+    "value": "Unlock Relics",
+    "desc": "Unlock 10 Relics"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
