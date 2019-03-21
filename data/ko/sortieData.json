@@ -1,0 +1,4327 @@
+{
+  "modifierTypes": {
+    "SORTIE_MODIFIER_LOW_ENERGY": "에너지 감소",
+    "SORTIE_MODIFIER_IMPACT": "적 물리 속성 강화: 충격",
+    "SORTIE_MODIFIER_SLASH": "적 물리 속성 강화: 베기",
+    "SORTIE_MODIFIER_PUNCTURE": "적 물리 속성 강화: 관통",
+    "SORTIE_MODIFIER_EXIMUS": "엑시무스 요새",
+    "SORTIE_MODIFIER_MAGNETIC": "적 속성 강화: 자성",
+    "SORTIE_MODIFIER_CORROSIVE": "적 속성 강화: 부식",
+    "SORTIE_MODIFIER_VIRAL": "적 속성 강화: 바이러스",
+    "SORTIE_MODIFIER_ELECTRICITY": "적 속성 강화: 전기",
+    "SORTIE_MODIFIER_RADIATION": "적 속성 강화: 방사능",
+    "SORTIE_MODIFIER_GAS": "적 속성 강화: 가스",
+    "SORTIE_MODIFIER_FIRE": "적 속성 강화: 화염",
+    "SORTIE_MODIFIER_EXPLOSION": "적 속성 강화: 폭발",
+    "SORTIE_MODIFIER_FREEZE": "적 속성 강화: 냉기",
+    "SORTIE_MODIFIER_TOXIN": "적 속성 강화: 독성",
+    "SORTIE_MODIFIER_POISON": "적 속성 강화: 독성",
+    "SORTIE_MODIFIER_HAZARD_RADIATION": "Environmental Hazard: Radiation Pockets",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Environmental Hazard: Electromagnetic Anomalies",
+    "SORTIE_MODIFIER_HAZARD_FOG": "Environmental Hazard: Dense Fog",
+    "SORTIE_MODIFIER_HAZARD_FIRE": "Environmental Hazard: Fire",
+    "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
+    "SORTIE_MODIFIER_HAZARD_COLD": "Environmental Effect: Extreme Cold",
+    "SORTIE_MODIFIER_ARMOR": "Augmented Enemy Armor",
+    "SORTIE_MODIFIER_SHIELDS": "Enhanced Enemy Shields",
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "무기 사용 제한: 보조 무기만 사용 가능",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "무기 사용 제한: 산탄총만 사용 가능",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "무기 사용 제한: 저격총만 사용 가능",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "무기 사용 제한: 돌격 소총만 사용 가능",
+    "SORTIE_MODIFIER_MELEE_ONLY": "무기 사용 제한: 근접 무기만 사용 가능",
+    "SORTIE_MODIFIER_BOW_ONLY": "무기 사용 제한: 활만 사용 가능"
+  },
+  "modifierDescriptions": {
+    "SORTIE_MODIFIER_LOW_ENERGY": "Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
+    "SORTIE_MODIFIER_IMPACT": "Enemies can deal enhanced impact damage. Finishing damage is not resisted.",
+    "SORTIE_MODIFIER_SLASH": "Enemies can deal enhanced slash damage. Finishing damage is not resisted.",
+    "SORTIE_MODIFIER_PUNCTURE": "Enemies can deal enhanced puncture damage. Finishing damage is not resisted.",
+    "SORTIE_MODIFIER_EXIMUS": "Eximus units have a much higher spawn rate in this mission. Some of their auras stack.",
+    "SORTIE_MODIFIER_MAGNETIC": "Enemies deal increased Magnetic damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_CORROSIVE": "Enemies deal increased Corrosive damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_VIRAL": "Enemies deal increased Viral damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_ELECTRICITY": "Enemies deal increased Electric damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_RADIATION": "Enemies deal increased Radiation damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_GAS": "Enemies deal increased Gas damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_FIRE": "Enemies deal increased Heat damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_EXPLOSION": "Enemies deal increased Blast damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_FREEZE": "Enemies deal increased Cold damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_TOXIN": "Enemies deal increased Toxin damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_POISON": "Enemies deal increased Toxin damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_HAZARD_RADIATION": "Any damage received will impart radiation effects, and so will green clouds around the tileset.",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Reduced Gravity. Blue blobs that deal magnetic procs placed through out the tileset.",
+    "SORTIE_MODIFIER_HAZARD_FOG": "Limited visibility in the tileset due to dense fog. Forced night cycle on planets like earth.",
+    "SORTIE_MODIFIER_HAZARD_FIRE": "The tileset has a fire hazard. Warframe health is halved. Meltdown Iminent.",
+    "SORTIE_MODIFIER_HAZARD_ICE": "Maximum Shield Capacity is halved. Ice patches that cause cold procs.",
+    "SORTIE_MODIFIER_HAZARD_COLD": "Mobility is significantly reduced. Sprinting is disabled for this mode.",
+    "SORTIE_MODIFIER_ARMOR": "Enemies have Improved/Added armor. Corrosive Projection effects are halved.",
+    "SORTIE_MODIFIER_SHIELDS": "Enemies have vastly Improved Shields. Magnetic Procs are advised.",
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "Only secondary weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Only shotguns may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "Only snipers may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Only assault rifles may be used in this mission. Surprisingly, launchers work too. Other weapon types will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Only melee weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_BOW_ONLY": "Only bows may be used in this mission, crossbows however work too! Other weapon types will be removed automatically if equipped."
+  },
+  "bosses": {
+    "SORTIE_BOSS_HYENA": {
+      "name": "하이에나 팩",
+      "faction": "코퍼스"
+    },
+    "SORTIE_BOSS_KELA": {
+      "name": "켈라 드 싸임",
+      "faction": "그리니어"
+    },
+    "SORTIE_BOSS_VOR": {
+      "name": "캡틴 보어",
+      "faction": "그리니어"
+    },
+    "SORTIE_BOSS_RUK": {
+      "name": "General Sargas Ruk",
+      "faction": "그리니어"
+    },
+    "SORTIE_BOSS_HEK": {
+      "name": "베이 헥 의원",
+      "faction": "그리니어"
+    },
+    "SORTIE_BOSS_KRIL": {
+      "name": "렉 크릴 중위",
+      "faction": "그리니어"
+    },
+    "SORTIE_BOSS_TYL": {
+      "name": "틸 레거",
+      "faction": "그리니어"
+    },
+    "SORTIE_BOSS_JACKAL": {
+      "name": "자칼",
+      "faction": "코퍼스"
+    },
+    "SORTIE_BOSS_ALAD": {
+      "name": "알라드 V",
+      "faction": "코퍼스"
+    },
+    "SORTIE_BOSS_AMBULAS": {
+      "name": "앰뷰라스",
+      "faction": "코퍼스"
+    },
+    "SORTIE_BOSS_NEF": {
+      "name": "네프 엔요",
+      "faction": "코퍼스"
+    },
+    "SORTIE_BOSS_RAPTOR": {
+      "name": "랩터",
+      "faction": "코퍼스"
+    },
+    "SORTIE_BOSS_PHORID": {
+      "name": "포리드",
+      "faction": "Infestation"
+    },
+    "SORTIE_BOSS_LEPHANTIS": {
+      "name": "레펜티스",
+      "faction": "Infestation"
+    },
+    "SORTIE_BOSS_INFALAD": {
+      "name": "뮤탈리스트 알라드 V",
+      "faction": "Infestation"
+    },
+    "SORTIE_BOSS_CORRUPTED_VOR": {
+      "name": "커럽티드 보어",
+      "faction": "커럽티드"
+    }
+  },
+  "endStates": [
+    {
+      "bossName": "캡틴 보어",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "16",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "베이 헥",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "사가스 럭",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "방어",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "방어",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "켈라 드 싸임",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "생존",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "렉 크릴",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "틸 레거",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "자칼",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "알라드 V",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "앰뷰라스",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "섬멸",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "하이에나 팩",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "구출",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "파괴공작",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "첩보활동",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "네프 앤요",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "랩터",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "포리드",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "하이브",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "레펜티스",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "첩보활동",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "첩보활동",
+            "모바일 방어",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "하이브",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    },
+    {
+      "bossName": "뮤탈리스트 알라드 V",
+      "regions": [
+        {
+          "name": "0",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "수성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "금성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "방어",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "지구",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "화성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "감청",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "목성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "토성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "천왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "해왕성",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "발굴",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "명왕성",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "세레스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "에리스",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "생존",
+            "하이브",
+            "암살"
+          ]
+        },
+        {
+          "name": "세드나",
+          "missions": [
+            "섬멸",
+            "생존",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "첩보활동",
+            "암살"
+          ]
+        },
+        {
+          "name": "유로파",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "탈취",
+            "암살"
+          ]
+        },
+        {
+          "name": "14",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "15",
+          "missions": [
+
+          ]
+        },
+        {
+          "name": "포보스",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "17",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "루아",
+          "missions": [
+            "섬멸",
+            "발굴",
+            "구출",
+            "파괴공작",
+            "첩보활동",
+            "방어",
+            "모바일 방어",
+            "감청",
+            "섬멸",
+            "암살"
+          ]
+        },
+        {
+          "name": "쿠바 요새",
+          "missions": [
+            "방어",
+            "방어",
+            "방어",
+            "섬멸",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "방어",
+            "암살"
+          ]
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "+ Enemy armor/shield",
+    "Environmental hazard",
+    "Enemy damage resistance",
+    "에너지 감소",
+    "엑시무스 요새",
+    "무기 제한"
+  ]
+}

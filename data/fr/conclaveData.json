@@ -1,0 +1,39 @@
+{
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "N’importe quel Mode"
+    },
+    "PVPMODE_DEATHMATCH": {
+      "value": "Annihilation"
+    },
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "Annihilation en Équipe"
+    },
+    "PVPMODE_NONE": {
+      "value": "Aucun"
+    },
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "Capture de Cephalon"
+    },
+    "PVPMODE_SPEEDBALL": {
+      "value": "Lunaro"
+    }
+  },
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "semaine"
+    },
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "mission de la semaine"
+    },
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "jour"
+    },
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "défi du jour"
+    },
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "manche modifier"
+    }
+  }
+}

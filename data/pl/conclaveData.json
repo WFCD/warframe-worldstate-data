@@ -1,0 +1,39 @@
+{
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "Dowolny tryb"
+    },
+    "PVPMODE_DEATHMATCH": {
+      "value": "Unicestwienie"
+    },
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "Drużynowe Unicestwienie"
+    },
+    "PVPMODE_NONE": {
+      "value": "Brak"
+    },
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "Capture the Cephalon"
+    },
+    "PVPMODE_SPEEDBALL": {
+      "value": "Lunaro"
+    }
+  },
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "tydzień"
+    },
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "week_root"
+    },
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "day"
+    },
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "day_root"
+    },
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "modified round"
+    }
+  }
+}

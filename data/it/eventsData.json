@@ -1,0 +1,27 @@
+{
+  "tags": {
+    "KelaEvent": {
+      "value": "Operazione: Rathuum"
+    },
+    "KelaEventB": {
+      "value": "Operazione: Rathuum pt. 2"
+    },
+    "KelaEventBonus": {
+      "value": "Rathuum infinito"
+    }
+  },
+  "scoreVariables": {
+    "KelaEvent": {
+      "value": {
+        "value": "100 punti del giudizio"
+      }
+    }
+  },
+  "scoreMaxTags": {
+    "KelaEventMax": {
+      "value": {
+        "value": "100 punti del giudizio"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "任意模式"
+    },
+    "PVPMODE_DEATHMATCH": {
+      "value": "殲奪"
+    },
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "團隊殲奪"
+    },
+    "PVPMODE_NONE": {
+      "value": "無"
+    },
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "奪取中樞"
+    },
+    "PVPMODE_SPEEDBALL": {
+      "value": "月動球"
+    }
+  },
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "週"
+    },
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "week_root"
+    },
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "日"
+    },
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "day_root"
+    },
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "modified round"
+    }
+  }
+}

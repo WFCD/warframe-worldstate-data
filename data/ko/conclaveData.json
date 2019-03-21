@@ -1,0 +1,39 @@
+{
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "Any Mode"
+    },
+    "PVPMODE_DEATHMATCH": {
+      "value": "절멸전"
+    },
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "팀 절멸전"
+    },
+    "PVPMODE_NONE": {
+      "value": "None"
+    },
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "세팔론 쟁탈전"
+    },
+    "PVPMODE_SPEEDBALL": {
+      "value": "루나로"
+    }
+  },
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "주간"
+    },
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "주간_보상"
+    },
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "일일"
+    },
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "일일_보상"
+    },
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "modified round"
+    }
+  }
+}

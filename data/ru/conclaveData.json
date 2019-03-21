@@ -1,0 +1,39 @@
+{
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "Любой Режим"
+    },
+    "PVPMODE_DEATHMATCH": {
+      "value": "Истребление"
+    },
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "Командное истребление"
+    },
+    "PVPMODE_NONE": {
+      "value": "Ничего"
+    },
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "Захват Цефалона"
+    },
+    "PVPMODE_SPEEDBALL": {
+      "value": "Лунаро"
+    }
+  },
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "недельный"
+    },
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "недельное испытание"
+    },
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "дневное"
+    },
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "дневное испытание"
+    },
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "измененный раунд"
+    }
+  }
+}

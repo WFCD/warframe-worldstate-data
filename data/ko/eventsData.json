@@ -1,0 +1,27 @@
+{
+  "tags": {
+    "KelaEvent": {
+      "value": "오퍼레이션: 라툼"
+    },
+    "KelaEventB": {
+      "value": "오퍼레이션: 라툼 파트 2"
+    },
+    "KelaEventBonus": {
+      "value": "무한 라툼"
+    }
+  },
+  "scoreVariables": {
+    "KelaEvent": {
+      "value": {
+        "value": "100 판결 포인트"
+      }
+    }
+  },
+  "scoreMaxTags": {
+    "KelaEventMax": {
+      "value": {
+        "value": "100 판결 포인트"
+      }
+    }
+  }
+}
