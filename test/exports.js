@@ -1,10 +1,12 @@
+'use strict';
+
 const chai = require('chai');
 
 chai.should();
 
 const wsData = require('../exports');
 
-describe('worldState-data', () => {
+describe('Worldstate Data', () => {
   it('should be an object', () => {
     wsData.should.be.an('object');
   });

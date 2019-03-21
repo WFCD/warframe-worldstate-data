@@ -11,8 +11,8 @@
     "chai": "^4.2.0",
     "chai-json": "^1.0.0",
     "chai-json-schema": "^1.5.0",
-    "eslint": "^5.3.0",
-    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint": "^5.15.2",
+    "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "mocha": "^5.2.0",
     "undefined": "^0.1.0"
@@ -20,7 +20,7 @@
   "scripts": {
     "lint": "npx eslint --ignore-path .gitignore .",
     "lint:fix": "npx eslint --ignore-path .gitignore . --fix",
-    "test": "npx mocha",
+    "test": "npm run lint && npx mocha",
     "sort_lang": "python tools/sort_languages.py",
     "postversion": "git push && git push --tags"
   },
@@ -33,7 +33,27 @@
     "javascript",
     "warframe"
   ],
-  "author": "aliasfalse",
+  "author": "tobitenno",
+  "contributors": [
+    "tobitenno",
+    "cagatayldzz",
+    "scruffyrules",
+    "nspacestd",
+    "dsinn",
+    "msaracevic",
+    "Markcreator",
+    "delfunua",
+    "esunder",
+    "dbarbuzzi",
+    "ViriatoLusitano",
+    "iPeer",
+    "IhToN",
+    "OrcusCZ",
+    "DaxterSpeed",
+    "sgkoishi",
+    "Hikoaki",
+    "Tithen-Firion"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wfcd/warframe-worldstate-data/issues"
