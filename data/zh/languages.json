@@ -12002,6 +12002,10 @@
     "value": "Poisoner",
     "desc": "Kill 150 Enemies with Toxin Damage"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
+    "value": "Sharing is Caring",
+    "desc": "Kill 150 Enemies with Viral Damage"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
     "value": "Kleptomaniac",
     "desc": "Open 20 lockers"
@@ -12009,6 +12013,14 @@
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
     "value": "Shiny",
     "desc": "Pick up 8 Mods"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyplacemarker": {
+    "value": "Communicator",
+    "desc": "Mark 5 Mods or Resources"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyplayemote": {
+    "value": "Expressive",
+    "desc": "Play 1 Emote"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "value": "Accelerator",
