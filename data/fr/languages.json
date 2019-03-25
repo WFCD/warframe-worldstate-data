@@ -12000,9 +12000,17 @@
     "value": "Biohazard",
     "desc": "Kill 150 Enemies with Gas Damage"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithheadshots": {
+    "value": "Marksman",
+    "desc": "Kill 40 Enemies with Headshots"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
     "value": "Attractive",
     "desc": "Kill 150 Enemies with Magnetic Damage"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
+    "value": "Sword Dance",
+    "desc": "Kill 150 Enemies with a Melee Weapon"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
     "value": "Poisoner",
