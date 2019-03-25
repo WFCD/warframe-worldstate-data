@@ -12016,6 +12016,10 @@
     "value": "Poisoner",
     "desc": "Kill 150 Enemies with Toxin Damage"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithradiation": {
+    "value": "Reactor",
+    "desc": "Kill 150 Enemies with a Radiation Damage"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithsecondary": {
     "value": "Smaller Is Bigger",
     "desc": "Kill 150 Enemies with a Secondary Weapon"
@@ -12076,6 +12080,10 @@
     "value": "Protector",
     "desc": "Complete 3 Mobile Defense missions"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletenightmaremissions": {
+    "value": "Sound Sleeper",
+    "desc": "Complete 3 Nightmare missions of any type"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleterescue": {
     "value": "Rescuer",
     "desc": "Complete 3 Rescue missions"
@@ -12132,6 +12140,10 @@
     "value": "Earth Bounty Hunter",
     "desc": "Complete 8 Bounties in the Plains of Eidolon"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
+    "value": "Cache Hunter",
+    "desc": "Find all caches in 3 Sabotage missions"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
     "value": "Test Subject",
     "desc": "Complete 3 waves of Sanctuary Onslaught"
@@ -12168,6 +12180,10 @@
     "value": "Silent Eliminator",
     "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
+    "value": "Defense with Friends",
+    "desc": "Complete a Defense mission reaching at least wave 40, while playing with a friend or clanmate"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
     "value": "Kill Profit-Taker with Friends",
     "desc": "Kill Profit-Taker while playing with a friend or clanmate"
@@ -12180,6 +12196,10 @@
     "value": "Survival with Friends",
     "desc": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
+    "value": "Day Trader",
+    "desc": "Win 3 wagers in a row without letting the enemy score in one match of The Index."
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillenemies": {
     "value": "Kill Shot",
     "desc": "Kill 1,500 Enemies"
@@ -12191,6 +12211,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
     "value": "Hydrolyst Hunter",
     "desc": "Kill or Capture an Eidolon Hydrolyst"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
+    "value": "Grove Guardian",
+    "desc": "Kill 3 Silver Grove Specters"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
     "value": "Hold Your Breath",
