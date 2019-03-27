@@ -1550,9 +1550,9 @@
     "type": "Retribución antigua"
   },
   "EventNode19": {
-    "value": "Operación apagón parte 1",
-    "enemy": "Consciente",
-    "type": "Retribución antigua"
+    "value": "Marte",
+    "enemy": "Grineer",
+    "type": "Defensa"
   },
   "EventNode20": {
     "value": "Laboratorio submarino de Tyl Regor",
@@ -1563,6 +1563,26 @@
     "value": "Laboratorio submarino de Tyl Regor",
     "enemy": "Consciente",
     "type": "Retribución antigua"
+  },
+  "EventNode24": {
+    "value": "La Tierra",
+    "enemy": "Infestados",
+    "type": "Rescate"
+  },
+  "EventNode25": {
+    "value": "La Tierra",
+    "enemy": "Grineer",
+    "type": "Interceptación"
+  },
+  "EventNode26": {
+    "value": "La Tierra",
+    "enemy": "Grineer",
+    "type": "Exterminio"
+  },
+  "EventNode27": {
+    "value": "Void",
+    "enemy": "Corruptos",
+    "type": "Supervivencia"
   },
   "EventNode761": {
     "value": "El índice",
