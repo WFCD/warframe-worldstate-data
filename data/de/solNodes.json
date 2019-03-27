@@ -1550,9 +1550,9 @@
     "type": "Ancient Retribution"
   },
   "EventNode19": {
-    "value": "Operation Blackout Pt. 1",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "value": "Mars",
+    "enemy": "Grineer",
+    "type": "Verteidigung"
   },
   "EventNode20": {
     "value": "Tyl Regor Sea Lab",
@@ -1563,6 +1563,26 @@
     "value": "Tyl Regor Sea Lab",
     "enemy": "Sentient",
     "type": "Ancient Retribution"
+  },
+  "EventNode24": {
+    "value": "Erde",
+    "enemy": "Befallene",
+    "type": "Rettung"
+  },
+  "EventNode25": {
+    "value": "Erde",
+    "enemy": "Grineer",
+    "type": "Abfangen"
+  },
+  "EventNode26": {
+    "value": "Erde",
+    "enemy": "Grineer",
+    "type": "Auslöschung"
+  },
+  "EventNode27": {
+    "value": "Void",
+    "enemy": "Korrumpierte",
+    "type": "Überleben"
   },
   "EventNode761": {
     "value": "The Index",
