@@ -1550,9 +1550,9 @@
     "type": "Retribuição Anciã"
   },
   "EventNode19": {
-    "value": "Operação Apagão - Parte 1",
-    "enemy": "Sentient",
-    "type": "Retribuição Anciã"
+    "value": "Marte",
+    "enemy": "Grineer",
+    "type": "Defesa"
   },
   "EventNode20": {
     "value": "Laboratório Submarino de Tyl Regor",
@@ -1563,6 +1563,26 @@
     "value": "Laboratório Submarino de Tyl Regor",
     "enemy": "Sentient",
     "type": "Retribuição Anciã"
+  },
+  "EventNode24": {
+    "value": "Terra",
+    "enemy": "Infestado",
+    "type": "Resgate"
+  },
+  "EventNode25": {
+    "value": "Terra",
+    "enemy": "Grineer",
+    "type": "Interceptação"
+  },
+  "EventNode26": {
+    "value": "Terra",
+    "enemy": "Grineer",
+    "type": "Extermínio"
+  },
+  "EventNode27": {
+    "value": "Void",
+    "enemy": "Corrompido",
+    "type": "Sobrevivência"
   },
   "EventNode761": {
     "value": "O Index",
