@@ -1550,9 +1550,9 @@
     "type": "Ancient Retribution"
   },
   "EventNode19": {
-    "value": "Operation Blackout Pt. 1",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "value": "火星",
+    "enemy": "Grineer",
+    "type": "防禦"
   },
   "EventNode20": {
     "value": "Tyl Regor Sea Lab",
@@ -1563,6 +1563,26 @@
     "value": "Tyl Regor Sea Lab",
     "enemy": "Sentient",
     "type": "Ancient Retribution"
+  },
+  "EventNode24": {
+    "value": "地球",
+    "enemy": "Infested",
+    "type": "救援"
+  },
+  "EventNode25": {
+    "value": "地球",
+    "enemy": "Grineer",
+    "type": "攔截"
+  },
+  "EventNode26": {
+    "value": "地球",
+    "enemy": "Grineer",
+    "type": "殲滅"
+  },
+  "EventNode27": {
+    "value": "Void",
+    "enemy": "墮落",
+    "type": "生存"
   },
   "EventNode761": {
     "value": "The Index",

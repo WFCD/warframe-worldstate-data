@@ -1550,9 +1550,9 @@
     "type": "Ancient Retribution"
   },
   "EventNode19": {
-    "value": "Blackout",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "value": "Mars",
+    "enemy": "Grineer",
+    "type": "Défense"
   },
   "EventNode20": {
     "value": "Tyl Regor: Laboratoire Sous-Marin",
@@ -1563,6 +1563,26 @@
     "value": "Tyl Regor: Laboratoire Sous-Marin",
     "enemy": "Sentient",
     "type": "Ancient Retribution"
+  },
+  "EventNode24": {
+    "value": "Terre",
+    "enemy": "Infesté",
+    "type": "Sauvetage"
+  },
+  "EventNode25": {
+    "value": "Terre",
+    "enemy": "Grineer",
+    "type": "Interception"
+  },
+  "EventNode26": {
+    "value": "Terre",
+    "enemy": "Grineer",
+    "type": "Extermination"
+  },
+  "EventNode27": {
+    "value": "Void",
+    "enemy": "Corrompu",
+    "type": "Survie"
   },
   "EventNode761": {
     "value": "L'Index",

@@ -1550,9 +1550,9 @@
     "type": "에인션트 레트리뷰션"
   },
   "EventNode19": {
-    "value": "오퍼레이션: 블랙아웃 파트 1",
-    "enemy": "센티언트",
-    "type": "에인션트 레트리뷰션"
+    "value": "화성",
+    "enemy": "그리니어",
+    "type": "방어"
   },
   "EventNode20": {
     "value": "틸 레거 수중 연구소",
@@ -1563,6 +1563,26 @@
     "value": "틸 레거 수중 연구소",
     "enemy": "센티언트",
     "type": "에인션트 레트리뷰션"
+  },
+  "EventNode24": {
+    "value": "지구",
+    "enemy": "인페스티드",
+    "type": "구출"
+  },
+  "EventNode25": {
+    "value": "지구",
+    "enemy": "그리니어",
+    "type": "감청"
+  },
+  "EventNode26": {
+    "value": "지구",
+    "enemy": "그리니어",
+    "type": "섬멸"
+  },
+  "EventNode27": {
+    "value": "Void",
+    "enemy": "커럽티드",
+    "type": "생존"
   },
   "EventNode761": {
     "value": "더 인덱스",

@@ -9489,6 +9489,9 @@
   "/lotus/storeitems/upgrades/skins/excalibur/excaliburalternateskin": {
     "value": "Excalibur Immortal Skin"
   },
+  "/lotus/storeitems/upgrades/skins/excalibur/excaliburdexskin": {
+    "value": "Excalibur Dex Skin"
+  },
   "/lotus/storeitems/upgrades/skins/excalibur/excaliburhelmet": {
     "value": "Excalibur Helmet"
   },
@@ -10214,6 +10217,9 @@
   },
   "/lotus/storeitems/upgrades/skins/scarves/brassandgoldscarf": {
     "value": "Ormolu Kyroptera Syandana"
+  },
+  "/lotus/storeitems/upgrades/skins/scarves/dexscarf": {
+    "value": "Dex Nouchali Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/dinospikescarf": {
     "value": "Yamako Syandana"
@@ -12011,6 +12017,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
     "value": "Sword Dance",
     "desc": "Kill 150 Enemies with a Melee Weapon"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithprimary": {
+    "value": "Mow Them Down",
+    "desc": "Kill 150 Enemies with a Primary Weapon"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
     "value": "Poisoner",
