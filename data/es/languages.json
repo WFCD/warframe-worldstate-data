@@ -3840,6 +3840,9 @@
   "/lotus/storeitems/types/items/shipdecos/kubrowbust": {
     "value": "Bronze Kubrow Bust"
   },
+  "/lotus/storeitems/types/items/shipdecos/kubrowkavatlowpolyposter": {
+    "value": "Prisma Companion Poster"
+  },
   "/lotus/storeitems/types/items/shipdecos/lisetpropostrugbaro": {
     "value": "Tenno Kindred Rug"
   },
@@ -7964,6 +7967,9 @@
   },
   "/lotus/storeitems/upgrades/mods/sentinel/sentinellootradarenemyradarmod": {
     "value": "Instinto animal"
+  },
+  "/lotus/storeitems/upgrades/mods/sentinel/sentinellootradarenemyradarexpertmod": {
+    "value": "Primed Animal Instinct"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/sentineloverheatdamagemod": {
     "value": "Fired Up"
