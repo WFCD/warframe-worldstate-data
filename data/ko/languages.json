@@ -3840,6 +3840,9 @@
   "/lotus/storeitems/types/items/shipdecos/kubrowbust": {
     "value": "Bronze Kubrow Bust"
   },
+  "/lotus/storeitems/types/items/shipdecos/kubrowkavatlowpolyposter": {
+    "value": "Prisma Companion Poster"
+  },
   "/lotus/storeitems/types/items/shipdecos/lisetpropostrugbaro": {
     "value": "Tenno Kindred Rug"
   },
@@ -7964,6 +7967,9 @@
   },
   "/lotus/storeitems/upgrades/mods/sentinel/sentinellootradarenemyradarmod": {
     "value": "애니멀 인스팅트"
+  },
+  "/lotus/storeitems/upgrades/mods/sentinel/sentinellootradarenemyradarexpertmod": {
+    "value": "Primed Animal Instinct"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/sentineloverheatdamagemod": {
     "value": "파이어드 업"
@@ -12116,7 +12122,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
-    "desc": "Fully socket 5 Ayatan Sculptures"
+    "desc": "Fully socket 3 Ayatan Sculptures"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
@@ -12178,9 +12184,13 @@
     "value": "Venus Bounty Hunter",
     "desc": "Complete 8 bounties in the Orb Vallis"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
+    "value": "Night Terror",
+    "desc": "Complete 10 Nightmare missions of any type"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
     "value": "Sortie Expert",
-    "desc": "Complete 5 Sorties"
+    "desc": "Complete 3 Sorties"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
     "value": "Elite Test Subject",
@@ -13239,6 +13249,9 @@
   },
   "/lotus/types/gameplay/eidolon/jobs/sabotagebountysab": {
     "value": "Sabotage Bounty"
+  },
+  "/lotus/types/gameplay/eidolon/resources/cetuswispitem": {
+    "value": "Cetus Wisp"
   },
   "/lotus/types/gameplay/venus/jobs/venuspreservationjobrecovery": {
     "value": "Protect the Innocent"
@@ -15670,6 +15683,9 @@
   "/lotus/upgrades/skins/kubrows/armor/grineerqueenarmor": {
     "value": "쿠바 아머 컬렉션"
   },
+  "/lotus/upgrades/skins/kubrows/armor/pacifistkubrowarmor": {
+    "value": "Sloughi Kubrow Armor"
+  },
   "/lotus/upgrades/skins/kubrows/collars/kubrowcollarxmas": {
     "value": "리틀 헬멧 햇"
   },
@@ -16167,6 +16183,9 @@
   },
   "/lotus/weapons/grineer/melee/grnqueensceptre/grnqueensceptreweapon": {
     "value": "브로큰 셉터"
+  },
+  "/lotus/weapons/grineer/melee/grnsparring/grnspidersparring/grnspidersparring": {
+    "value": "Korrudo"
   },
   "/lotus/weapons/grineer/melee/grntrident/grntridentweapon": {
     "value": "사이돈"
