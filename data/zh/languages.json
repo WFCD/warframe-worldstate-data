@@ -13250,6 +13250,9 @@
   "/lotus/types/gameplay/eidolon/jobs/sabotagebountysab": {
     "value": "Sabotage Bounty"
   },
+  "/lotus/types/gameplay/eidolon/resources/cetuswispitem": {
+    "value": "Cetus Wisp"
+  },
   "/lotus/types/gameplay/venus/jobs/venuspreservationjobrecovery": {
     "value": "Protect the Innocent"
   },
@@ -15680,6 +15683,9 @@
   "/lotus/upgrades/skins/kubrows/armor/grineerqueenarmor": {
     "value": "Kuva Armor Collection"
   },
+  "/lotus/upgrades/skins/kubrows/armor/pacifistkubrowarmor": {
+    "value": "Sloughi Kubrow Armor"
+  },
   "/lotus/upgrades/skins/kubrows/collars/kubrowcollarxmas": {
     "value": "Little Helper Hat"
   },
@@ -16177,6 +16183,9 @@
   },
   "/lotus/weapons/grineer/melee/grnqueensceptre/grnqueensceptreweapon": {
     "value": "Broken Scepter"
+  },
+  "/lotus/weapons/grineer/melee/grnsparring/grnspidersparring/grnspidersparring": {
+    "value": "Korrudo"
   },
   "/lotus/weapons/grineer/melee/grntrident/grntridentweapon": {
     "value": "Sydon"
