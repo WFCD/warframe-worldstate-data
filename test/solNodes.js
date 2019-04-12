@@ -17,6 +17,7 @@ const solNodesSchema = {
         'Crossfire',
         'Grineer',
         'Infested',
+        'Orokin',
         'Sentient',
         'Tenno',
       ],
