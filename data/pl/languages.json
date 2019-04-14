@@ -13356,6 +13356,9 @@
   "/lotus/types/gameplay/grineer/doorsensordeco": {
     "value": "Door Sensor Deco"
   },
+  "/lotus/types/items/fusiontreasures/orofusexb": {
+    "value": "Ayr Ayatan Sculpture"
+  },
   "/lotus/types/items/miscitems/actuator": {
     "value": "Actuators"
   },
@@ -14658,6 +14661,9 @@
   "/lotus/types/storeitems/boosters/creditbooster3daystoreitem": {
     "value": "3 Day Credit Booster"
   },
+  "/lotus/types/storeitems/boosters/creditbooster7daystoreitem": {
+    "value": "7 Day Credit Booster"
+  },
   "/lotus/types/storeitems/boosters/creditboosterstoreitem": {
     "value": "Credit Booster"
   },
@@ -14670,8 +14676,17 @@
   "/lotus/types/storeitems/boosters/resourceamount3daystoreitem": {
     "value": "3 Day Resource Booster"
   },
+  "/lotus/types/storeitems/boosters/resourceamount7daystoreitem": {
+    "value": "7 Day Resource Booster"
+  },
   "/lotus/types/storeitems/boosters/resourceamountboosterstoreitem": {
-    "value": "Resource (Amount) Booster"
+    "value": "Resource Booster"
+  },
+  "/lotus/types/storeitems/boosters/resourcedropchance3daystoreitem": {
+    "value": "3 Day Resource Drop Chance Booster"
+  },
+  "/lotus/types/storeitems/boosters/resourcedropchance7daystoreitem": {
+    "value": "7 Day Resource Drop Chance Booster"
   },
   "/lotus/types/storeitems/boosters/resourcedropchanceboosterstoreitem": {
     "value": "Resource Drop Chance Booster"
@@ -14705,6 +14720,9 @@
   },
   "/lotus/types/storeitems/packages/ashdeluxeskinbundle": {
     "value": "Koga Bundle"
+  },
+  "/lotus/types/storeitems/packages/atlasdeluxeskinbundle": {
+    "value": "Atlas Karst Collection"
   },
   "/lotus/types/storeitems/packages/bansheedeluxeskinbundle": {
     "value": "Banshee Soprana Bundle"
@@ -15446,6 +15464,9 @@
   },
   "/lotus/upgrades/skins/berserker/valkyralternateskin": {
     "value": "Valkyr Immortal Skin"
+  },
+  "/lotus/upgrades/skins/brawler/atlasdeluxeskin": {
+    "value": "Atlas Karst Skin"
   },
   "/lotus/upgrades/skins/catbrows/armor/catbrowarmorc": {
     "value": "Myrdin Kavat Armor"
