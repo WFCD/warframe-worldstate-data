@@ -9495,6 +9495,9 @@
   "/lotus/storeitems/upgrades/skins/ember/unlockembernoble": {
     "value": "Conjunto de animaciones nobles de Ember"
   },
+  "/lotus/storeitems/upgrades/skins/events/acolytestalkermios": {
+    "value": "Lacera Scorn Skin"
+  },
   "/lotus/storeitems/upgrades/skins/events/archrocketcrossbowgrineer": {
     "value": "Fluctus Rahk Skin"
   },
@@ -12068,6 +12071,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
     "value": "Kleptomaniac",
     "desc": "Open 20 lockers"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailypickupenergy": {
+    "value": "Energizing",
+    "desc": "Pick up 20 Energy Orbs"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
     "value": "Shiny",
@@ -15510,8 +15517,14 @@
   "/lotus/upgrades/skins/dragon/chromadeluxeskin": {
     "value": "Chroma Dynasty Skin"
   },
+  "/lotus/upgrades/skins/effects/footstepseastereggs": {
+    "value": "Spring Step Ephemera"
+  },
   "/lotus/upgrades/skins/ember/emberalternateskin": {
     "value": "Diseño inmortal de Ember"
+  },
+  "/lotus/upgrades/skins/events/bunnyears": {
+    "value": "Lepus Headgear"
   },
   "/lotus/upgrades/skins/excalibur/excaliburalternateskin": {
     "value": "Diseño inmortal de Excalibur"
