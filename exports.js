@@ -95,6 +95,7 @@ const stuff = {
   en_US: enUS,
   en: enUS,
   ...enUS,
+  locales,
 };
 
 locales.forEach((locale) => {

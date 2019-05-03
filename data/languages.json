@@ -818,6 +818,9 @@
   "/lotus/language/menu/corpusinvasiongeneric": {
     "value": "Corpus Siege"
   },
+  "/lotus/language/menu/corpusrazorbackproject": {
+    "value": "Razorback Armada"
+  },
   "/lotus/language/menu/grineerinvasiongeneric": {
     "value": "Grineer Offensive"
   },
@@ -832,6 +835,9 @@
   },
   "/lotus/language/menu/infestedinvasiongeneric": {
     "value": "Infested Outbreak"
+  },
+  "/lotus/language/menu/razorbackarmadascorehint": {
+    "value": "Razorbacks destroyed"
   },
   "/lotus/language/messages/orbheisteventrewardainboxmessagebody": {
     "value": "You're getting the hang of it. We just wanted to send you a little something by way of encourangement. Don't let up."
@@ -860,6 +866,12 @@
   "/lotus/language/sigils/kelaeventsigilname": {
     "desc": "A sigil commemorating the liberation of defectors from the Grineer.",
     "value": "Rathuum Sigil"
+  },
+  "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
+    "value": "Razorback Assassination"
+  },
+  "/lotus/levels/proc/grineer/grineeroceansurvival": {
+    "value": "Sealab Survival"
   },
   "/lotus/objects/crpmegaexplodingbarrel": {
     "value": "Crp Mega Exploding Barrel"
@@ -12424,6 +12436,9 @@
   "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarwalkingtesla": {
     "value": "Modular Spaceman Avatar Walking Tesla"
   },
+  "/lotus/types/enemies/corpus/specialevents/armoredjackal/armoredjackalagent": {
+    "value": "Razorback"
+  },
   "/lotus/types/enemies/corpus/turrets/turretavatars/autoturretheavyavatar": {
     "value": "Auto Turret Heavy Avatar"
   },
@@ -13512,6 +13527,9 @@
   },
   "/lotus/types/items/miscitems/primebucks": {
     "value": "Orokin Ducats"
+  },
+  "/lotus/types/items/miscitems/razorbackcipherpartpickup": {
+    "value": "Cryptographic ALU"
   },
   "/lotus/types/items/miscitems/rubedo": {
     "value": "Rubedo"
