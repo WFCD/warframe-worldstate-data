@@ -683,6 +683,9 @@
   "/lotus/language/alerts/survivaldesc1long": {
     "value": "Replenish your depleting oxygen supply by killing enemies and holding out for supply drops."
   },
+  "/lotus/language/alerts/wolfalert": {
+    "value": "Tactical Alert: Wolf Hunt"
+  },
   "/lotus/language/bosses/bossthejackal": {
     "value": "Boss The Jackal"
   },
@@ -3500,6 +3503,9 @@
   },
   "/lotus/storeitems/types/items/emotes/shrugemote": {
     "value": "Shrug"
+  },
+  "/lotus/storeitems/types/items/miscitems/alertium": {
+    "value": "Nitain Extract"
   },
   "/lotus/storeitems/types/items/miscitems/alloyplate": {
     "value": "Alloy Plate"
