@@ -38,6 +38,7 @@ const solNodesSchema = {
         'Dark Sector Sabotage',
         'Dark Sector Survival',
         'Defense',
+        'Disruption',
         'Excavation',
         'Exterminate',
         'Exterminate (Archwing)',
