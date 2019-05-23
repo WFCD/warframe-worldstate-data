@@ -1609,11 +1609,11 @@
     "enemy": "Corpus",
     "type": "Disruption"
   },
-  //"EventNode33": {
-  //  "value": "The Ropalolyst (Jupiter)",
-  //  "enemy": "Corpus",
-  //  "type": "Assassination"
-  //},
+  "EventNode33": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
   "EventNode761": {
     "value": "The Index",
     "enemy": "Corpus",
