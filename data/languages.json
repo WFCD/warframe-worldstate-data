@@ -692,6 +692,18 @@
   "/lotus/language/bosses/bosstylregor": {
     "value": "Boss Tyl Regor"
   },
+  "/lotus/language/events/amalgameventname": {
+    "value": "Operation: Hostile Mergers"
+  },
+  "/lotus/language/events/amalgameventscoreattackname": {
+    "value": "Operation: Hostile Mergers - Endurance"
+  },
+  "/lotus/language/events/amalgameventscoreattacktooltip": {
+    "value": "Operation: Hostile Mergers - Endurance"
+  },
+  "/lotus/language/events/amalgameventtooltip": {
+    "value": "Operation: Hostile Mergers"
+  },
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "Gifts of the Lotus - Stolen!"
   },
@@ -1088,6 +1100,9 @@
   },
   "/lotus/powersuits/volt/voltprime": {
     "value": "Volt Prime"
+  },
+  "/lotus/powersuits/wisp/wisp": {
+    "value": "Wisp"
   },
   "/lotus/powersuits/yinyang/yinyang": {
     "value": "Equinox"
@@ -2325,6 +2340,9 @@
   "/lotus/storeitems/types/game/basecosmeticenhancer": {
     "value": "Arcane"
   },
+  "/lotus/storeitems/types/game/catbrowpet/catbrowgeneticsignature": {
+    "value": "Kavat Genetic Code"
+  },
   "/lotus/storeitems/types/game/kubrowpet/adventurerkubrowpetpowersuit": {
     "value": "Sahasa Kubrow"
   },
@@ -3548,6 +3566,12 @@
   },
   "/lotus/storeitems/types/items/miscitems/forma": {
     "value": "Forma"
+  },
+  "/lotus/storeitems/types/items/miscitems/formaaura": {
+    "value": "Aura Forma"
+  },
+  "/lotus/storeitems/types/items/miscitems/formaumbra": {
+    "value": "Umbra Forma"
   },
   "/lotus/storeitems/types/items/miscitems/gallium": {
     "value": "Gallium"
@@ -9189,6 +9213,9 @@
   "/lotus/storeitems/upgrades/skins/clan/allianceemblemitem": {
     "value": "Alliance Emblem"
   },
+  "/lotus/storeitems/upgrades/skins/clan/amalgameventbadgeitem": {
+    "value": "Hostile Mergers Emblem"
+  },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
     "value": "Ki'Teer Sekhara"
   },
@@ -10596,6 +10623,9 @@
   "/lotus/storeitems/upgrades/skins/sigils/energysigila": {
     "value": "Rift Sigil"
   },
+  "/lotus/storeitems/upgrades/skins/sigils/eventsigilamalgam": {
+    "value": "Hostile Mergers Sigil"
+  },
   "/lotus/storeitems/upgrades/skins/sigils/eventsigilfalseprofit": {
     "value": "False Profit Sigil"
   },
@@ -11193,6 +11223,9 @@
   "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
   },
+  "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/vandal/crpfreezerayvandalrifle": {
+    "value": "Glaxion Vandal"
+  },
   "/lotus/storeitems/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
     "value": "Quanta"
   },
@@ -11219,6 +11252,9 @@
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpusminigun/dualcorpusminigun": {
     "value": "Dual Cestra"
+  },
+  "/lotus/storeitems/weapons/corpus/pistols/corpusmodularpistol/vandal/crplaserpistolvandal": {
+    "value": "Spectra Vandal"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
     "value": "Gammacor"
@@ -13630,6 +13666,18 @@
   "/lotus/types/items/shipdecos/wukongbobblehead": {
     "value": "Wukong - Noggle Statue"
   },
+  "/lotus/types/keys/disruptioneventkeya": {
+    "value": "Disruption Key A"
+  },
+  "/lotus/types/keys/disruptioneventkeyb": {
+    "value": "Disruption Key B"
+  },
+  "/lotus/types/keys/disruptioneventkeyc": {
+    "value": "Disruption Key C"
+  },
+  "/lotus/types/keys/disruptioneventkeyd": {
+    "value": "Disruption Key D"
+  },
   "/lotus/types/keys/orokincapturekeya": {
     "value": "Orokin Void Tier I Capture Key"
   },
@@ -15133,6 +15181,9 @@
   "/lotus/types/storeitems/packages/novadeluxeskinbundle": {
     "value": "Nova Asuri Bundle"
   },
+  "/lotus/types/storeitems/packages/nyxdeluxeskinbundle": {
+    "value": "Nyx Pasithea Collection"
+  },
   "/lotus/types/storeitems/packages/oberondeluxeskinbundle": {
     "value": "Oberon Feyarch Bundle"
   },
@@ -15382,6 +15433,9 @@
   "/lotus/types/storeitems/packages/winterglyphbundleb": {
     "value": "Winter Glyph Pack"
   },
+  "/lotus/types/storeitems/packages/wispbundle": {
+    "value": "Wisp Collection"
+  },
   "/lotus/types/storeitems/slotitems/kubrowslotitem": {
     "value": "Stasis Slot"
   },
@@ -15537,6 +15591,9 @@
   },
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "Kuva Kavat Armor"
+  },
+  "/lotus/upgrades/skins/catbrows/armor/wispkavatarmor": {
+    "value": "Sirocco Kavat Armor"
   },
   "/lotus/upgrades/skins/clan/shipyardseventquantumbadgeitem": {
     "value": "Shipyards Event Quantum Badge Item"
@@ -15772,6 +15829,9 @@
   "/lotus/upgrades/skins/jade/nyxalternateskin": {
     "value": "Nyx Immortal Skin"
   },
+  "/lotus/upgrades/skins/jade/nyxdeluxesuit": {
+    "value": "Nyx Pasithea Skin"
+  },
   "/lotus/upgrades/skins/jade/nyxnemesissuit": {
     "value": "Nyx Nemesis Skin"
   },
@@ -16006,6 +16066,9 @@
   "/lotus/upgrades/skins/weapons/dualdaggers/tnmilitarydualdaggerskin": {
     "value": "Zastra Dual Dagger Skin"
   },
+  "/lotus/upgrades/skins/wisp/wispalthelmet": {
+    "value": "Wisp Gaoth Helmet"
+  },
   "/lotus/weapons/cephalon/melee/hammer/cephhammerweapon": {
     "value": "Heliocor"
   },
@@ -16071,6 +16134,9 @@
   },
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
+  },
+  "/lotus/weapons/corpus/longguns/crpsentamlgsniper/crpsentamlgsniper": {
+    "value": "Komorex"
   },
   "/lotus/weapons/corpus/longguns/crpshapeblast/crpshapeblastshotgun": {
     "value": "Exergis"
@@ -16140,6 +16206,9 @@
   },
   "/lotus/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
     "value": "Angstrum"
+  },
+  "/lotus/weapons/corpus/pistols/crpsentamalgpistol/crpsentamalgpistol": {
+    "value": "Cyanex"
   },
   "/lotus/weapons/corpus/pistols/crpsonificblastor/crpblastorweapon": {
     "value": "Plinx"
@@ -16611,6 +16680,9 @@
   },
   "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
     "value": "Baza"
+  },
+  "/lotus/weapons/tenno/longguns/tnwisprifle/tnwisprifle": {
+    "value": "Fulmin"
   },
   "/lotus/weapons/tenno/longguns/wraithlatron/wraithlatron": {
     "value": "Latron Wraith"
