@@ -1101,6 +1101,9 @@
   "/lotus/powersuits/volt/voltprime": {
     "value": "Volt Prime"
   },
+  "/lotus/powersuits/wisp/wisp": {
+    "value": "Wisp"
+  },
   "/lotus/powersuits/yinyang/yinyang": {
     "value": "Equinox"
   },
@@ -15178,6 +15181,9 @@
   "/lotus/types/storeitems/packages/novadeluxeskinbundle": {
     "value": "Nova Asuri Bundle"
   },
+  "/lotus/types/storeitems/packages/nyxdeluxeskinbundle": {
+    "value": "Nyx Pasithea Collection"
+  },
   "/lotus/types/storeitems/packages/oberondeluxeskinbundle": {
     "value": "Oberon Feyarch Bundle"
   },
@@ -15426,6 +15432,9 @@
   },
   "/lotus/types/storeitems/packages/winterglyphbundleb": {
     "value": "Winter Glyph Pack"
+  },
+  "/lotus/types/storeitems/packages/wispbundle": {
+    "value": "Wisp Collection"
   },
   "/lotus/types/storeitems/slotitems/kubrowslotitem": {
     "value": "Stasis Slot"
@@ -15820,6 +15829,9 @@
   "/lotus/upgrades/skins/jade/nyxalternateskin": {
     "value": "Nyx Immortal Skin"
   },
+  "/lotus/upgrades/skins/jade/nyxdeluxesuit": {
+    "value": "Nyx Pasithea Skin"
+  },
   "/lotus/upgrades/skins/jade/nyxnemesissuit": {
     "value": "Nyx Nemesis Skin"
   },
@@ -16054,6 +16066,9 @@
   "/lotus/upgrades/skins/weapons/dualdaggers/tnmilitarydualdaggerskin": {
     "value": "Zastra Dual Dagger Skin"
   },
+  "/lotus/upgrades/skins/wisp/wispalthelmet": {
+    "value": "Wisp Gaoth Helmet"
+  },
   "/lotus/weapons/cephalon/melee/hammer/cephhammerweapon": {
     "value": "Heliocor"
   },
@@ -16119,6 +16134,9 @@
   },
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
+  },
+  "/lotus/weapons/corpus/longguns/crpsentamlgsniper/crpsentamlgsniper": {
+    "value": "Komorex"
   },
   "/lotus/weapons/corpus/longguns/crpshapeblast/crpshapeblastshotgun": {
     "value": "Exergis"
@@ -16662,6 +16680,9 @@
   },
   "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
     "value": "Baza"
+  },
+  "/lotus/weapons/tenno/longguns/tnwisprifle/tnwisprifle": {
+    "value": "Fulmin"
   },
   "/lotus/weapons/tenno/longguns/wraithlatron/wraithlatron": {
     "value": "Latron Wraith"
