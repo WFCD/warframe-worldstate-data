@@ -695,6 +695,12 @@
   "/lotus/language/events/amalgameventname": {
     "value": "Operation: Hostile Mergers"
   },
+  "/lotus/language/events/amalgameventscoreattackname": {
+    "value": "Operation: Hostile Mergers - Endurance"
+  },
+  "/lotus/language/events/amalgameventscoreattacktooltip": {
+    "value": "Operation: Hostile Mergers - Endurance"
+  },
   "/lotus/language/events/amalgameventtooltip": {
     "value": "Operation: Hostile Mergers"
   },
@@ -11214,6 +11220,9 @@
   "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
   },
+  "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/vandal/crpfreezerayvandalrifle": {
+    "value": "Glaxion Vandal"
+  },
   "/lotus/storeitems/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
     "value": "Quanta"
   },
@@ -13654,6 +13663,18 @@
   "/lotus/types/items/shipdecos/wukongbobblehead": {
     "value": "Wukong - Noggle Statue"
   },
+  "/lotus/types/keys/disruptioneventkeya": {
+    "value": "Disruption Key A"
+  },
+  "/lotus/types/keys/disruptioneventkeyb": {
+    "value": "Disruption Key B"
+  },
+  "/lotus/types/keys/disruptioneventkeyc": {
+    "value": "Disruption Key C"
+  },
+  "/lotus/types/keys/disruptioneventkeyd": {
+    "value": "Disruption Key D"
+  },
   "/lotus/types/keys/orokincapturekeya": {
     "value": "Orokin Void Tier I Capture Key"
   },
@@ -15562,6 +15583,9 @@
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "Kuva Kavat Armor"
   },
+  "/lotus/upgrades/skins/catbrows/armor/wispkavatarmor": {
+    "value": "Sirocco Kavat Armor"
+  },
   "/lotus/upgrades/skins/clan/shipyardseventquantumbadgeitem": {
     "value": "Shipyards Event Quantum Badge Item"
   },
@@ -16164,6 +16188,9 @@
   },
   "/lotus/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
     "value": "Angstrum"
+  },
+  "/lotus/weapons/corpus/pistols/crpsentamalgpistol/crpsentamalgpistol": {
+    "value": "Cyanex"
   },
   "/lotus/weapons/corpus/pistols/crpsonificblastor/crpblastorweapon": {
     "value": "Plinx"
