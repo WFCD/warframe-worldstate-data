@@ -4,7 +4,7 @@
 
 A repository of Warframe data for use with warframe-worldstate-parser
 
-[![Build Status](https://travis-ci.com/WFCD/warframe-worldstate-data.svg?branch=master)](https://travis-ci.com/WFCD/warframe-worldstate-data)
+[![Build Status](https://travis-ci.com/WFCD/warframe-worldstate-data.svg?branch=master)](https://travis-ci.com/WFCD/warframe-worldstate-data) [![ npm version](https://img.shields.io/npm/v/warframe-worldstate-data.svg)](https://www.npmjs.com/package/warframe-worldstate-data)
 
 ## Installation
 
