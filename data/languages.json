@@ -6366,8 +6366,14 @@
   "/lotus/storeitems/upgrades/focus/attacklens": {
     "value": "Madurai Lens"
   },
+  "/lotus/storeitems/upgrades/focus/attacklensgreater": {
+    "value": "Greater Madurai Lens"
+  },
   "/lotus/storeitems/upgrades/focus/defenselens": {
     "value": "Vazarin Lens"
+  },
+  "/lotus/storeitems/upgrades/focus/defenselensgreater": {
+    "value": "Greater Vazarin Lens"
   },
   "/lotus/storeitems/upgrades/focus/guardian/armorincreasefocus": {
     "value": "Thick Skin"
@@ -6390,11 +6396,17 @@
   "/lotus/storeitems/upgrades/focus/powerlens": {
     "value": "Zenurik Lens"
   },
+  "/lotus/storeitems/upgrades/focus/powerlensgreater": {
+    "value": "Greater Zenurik Lens"
+  },
   "/lotus/storeitems/upgrades/focus/tactician/alliesonfirefocus": {
     "value": "Abyssal"
   },
   "/lotus/storeitems/upgrades/focus/tacticlens": {
     "value": "Naramon Lens"
+  },
+  "/lotus/storeitems/upgrades/focus/tacticlensgreater": {
+    "value": "Greater Naramon Lens"
   },
   "/lotus/storeitems/upgrades/focus/void/energyefficiencyfocus": {
     "value": "Channeling"
@@ -6422,6 +6434,9 @@
   },
   "/lotus/storeitems/upgrades/focus/wardlens": {
     "value": "Unairu Lens"
+  },
+  "/lotus/storeitems/upgrades/focus/wardlensgreater": {
+    "value": "Greater Unairu Lens"
   },
   "/lotus/storeitems/upgrades/focus/warrior/killerfocussource": {
     "value": "Killer Generator"
