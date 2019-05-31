@@ -75,14 +75,4 @@ describe('Worldstate Data', () => {
     wsData.should.have.property('upgradeTypes');
     wsData.upgradeTypes.should.not.be.empty;
   });
-
-  it('should have warframes data', () => {
-    wsData.should.have.property('warframes');
-    wsData.warframes.should.not.be.empty;
-  });
-
-  it('should have weapons data', () => {
-    wsData.should.have.property('weapons');
-    wsData.weapons.should.not.be.empty;
-  });
 });
