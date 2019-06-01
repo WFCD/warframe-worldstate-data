@@ -1686,6 +1686,9 @@
   "/lotus/storeitems/powersuits/banshee/sonaraugmentcard": {
     "value": "Resonance"
   },
+  "/lotus/storeitems/powersuits/bard/bard": {
+    "value": "Octavia"
+  },
   "/lotus/storeitems/powersuits/berserker/berserker": {
     "value": "Valkyr"
   },
@@ -4487,6 +4490,9 @@
   },
   "/lotus/storeitems/types/recipes/helmets/harlequinalthelmetblueprint": {
     "value": "Mirage Harlequin Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/helmets/hildrynalthelmetblueprint": {
+    "value": "Hildryn Asuron Helmet"
   },
   "/lotus/storeitems/types/recipes/helmets/khoraalthelmetblueprint": {
     "value": "Khora Delphi Helmet Blueprint"
@@ -9192,6 +9198,9 @@
   "/lotus/storeitems/upgrades/skins/camo/akimbovipercamo": {
     "value": "Desert-camo Twin Vipers"
   },
+  "/lotus/storeitems/upgrades/skins/camo/desertdirigaskin": {
+    "value": "Driga Desert-Camo Skin"
+  },
   "/lotus/storeitems/upgrades/skins/camo/gorgoncamo": {
     "value": "Desert-camo Gorgon"
   },
@@ -11963,6 +11972,9 @@
   },
   "/lotus/storeitems/weapons/tenno/pistols/tigristwin/tigristwin": {
     "value": "[Placeholder]"
+  },
+  "/lotus/storeitems/weapons/tenno/pistols/tnbardpistol/tnbardpistolgun": {
+    "value": "Pandero"
   },
   "/lotus/storeitems/weapons/tenno/rifle/boltorifle": {
     "value": "Boltor"
