@@ -13,8 +13,10 @@ const safeRequire = (path, fallback = {}) => {
     // eslint-disable-next-line global-require, import/no-dynamic-require
     return require(path);
   } catch (error) {
-    // eslint-disable-next-line no-console
-    console.error(`Failed to load module at ${path} ... returning fallback`);
+    if ((process.env.LOG_LEVEL || 'ERROR').toUpperCase() === 'DEBUG') {
+      // eslint-disable-next-line no-console
+      console.debug(`Failed to load module at ${path} ... returning fallback`);
+    }
     return fallback;
   }
 };
@@ -52,10 +54,6 @@ const safeRequire = (path, fallback = {}) => {
  * @property {Object} sortie Sortie-specific mapping for modifier type, description, and boss
  * @property {Object[]} tutorials Official tutorials. Not many have been released in a long time.
  * @property {Object} upgradeTypes Global upgrade types that are modified by #operationTypes
- * @deprecated @property {Object[]} warframes Warframe information.
- *   Deprecated in favor of the warframe-items module.
- * @deprecated @property {Object[]} weapons Weapon information.
- *   Deprecated in favor of the warframe-items module.
  * @property {synthesisTarget[]} synthTargets Synthesis target data for
  *  optimal locations to find targets.
  */
@@ -81,8 +79,6 @@ const enUS = {
   syndicates: require('./data/syndicatesData.json'),
   tutorials: require('./data/tutorials.json'),
   upgradeTypes: require('./data/upgradeTypes.json'),
-  warframes: require('./data/warframes.json'),
-  weapons: require('./data/weapons.json'),
   synthTargets: require('./data/synthTargets.json'),
 };
 /* eslint-enable global-require */
@@ -118,8 +114,6 @@ locales.forEach((locale) => {
     syndicates: safeRequire(`./data/${locale}/syndicatesData.json`, []),
     tutorials: safeRequire(`./data/${locale}/tutorials.json`, []),
     upgradeTypes: safeRequire(`./data/${locale}/upgradeTypes.json`, []),
-    warframes: safeRequire(`./data/${locale}/warframes.json`, []),
-    weapons: safeRequire(`./data/${locale}/weapons.json`, []),
     synthTargets: safeRequire(`./data/${locale}/synthTargets.json`, []),
   };
 });
