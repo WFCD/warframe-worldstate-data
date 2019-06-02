@@ -683,11 +683,26 @@
   "/lotus/language/alerts/survivaldesc1long": {
     "value": "적들을 처치하여 드롭되는 산소통을 모으고, 시간마다 보급되는 생명 유지장치를 사용하여 산소를 채우며 계속해서 주의를 끄세요."
   },
+  "/lotus/language/alerts/wolfalert": {
+    "value": "Tactical Alert: Wolf Hunt"
+  },
   "/lotus/language/bosses/bossthejackal": {
     "value": "Boss The Jackal"
   },
   "/lotus/language/bosses/bosstylregor": {
     "value": "Boss Tyl Regor"
+  },
+  "/lotus/language/events/amalgameventname": {
+    "value": "Operation: Hostile Mergers"
+  },
+  "/lotus/language/events/amalgameventscoreattackname": {
+    "value": "Operation: Hostile Mergers - Endurance"
+  },
+  "/lotus/language/events/amalgameventscoreattacktooltip": {
+    "value": "Operation: Hostile Mergers - Endurance"
+  },
+  "/lotus/language/events/amalgameventtooltip": {
+    "value": "Operation: Hostile Mergers"
   },
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "로터스의 선물 - 도난당함!"
@@ -818,6 +833,9 @@
   "/lotus/language/menu/corpusinvasiongeneric": {
     "value": "코퍼스의 공성"
   },
+  "/lotus/language/menu/corpusrazorbackproject": {
+    "value": "Razorback Armada"
+  },
   "/lotus/language/menu/grineerinvasiongeneric": {
     "value": "그리니어의 공격"
   },
@@ -832,6 +850,9 @@
   },
   "/lotus/language/menu/infestedinvasiongeneric": {
     "value": "인페스티드 침략"
+  },
+  "/lotus/language/menu/razorbackarmadascorehint": {
+    "value": "Razorbacks destroyed"
   },
   "/lotus/language/messages/orbheisteventrewardainboxmessagebody": {
     "value": "You're getting the hang of it. We just wanted to send you a little something by way of encourangement. Don't let up."
@@ -860,6 +881,12 @@
   "/lotus/language/sigils/kelaeventsigilname": {
     "desc": "그리니어의 손에서 탈주자들을 해방시킨 일을 기념하는 시질입니다.",
     "value": "라툼 시질"
+  },
+  "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
+    "value": "Razorback Assassination"
+  },
+  "/lotus/levels/proc/grineer/grineeroceansurvival": {
+    "value": "Sealab Survival"
   },
   "/lotus/objects/crpmegaexplodingbarrel": {
     "value": "Crp Mega Exploding Barrel"
@@ -1073,6 +1100,9 @@
   },
   "/lotus/powersuits/volt/voltprime": {
     "value": "볼트 프라임"
+  },
+  "/lotus/powersuits/wisp/wisp": {
+    "value": "Wisp"
   },
   "/lotus/powersuits/yinyang/yinyang": {
     "value": "이쿼녹스"
@@ -1655,6 +1685,9 @@
   },
   "/lotus/storeitems/powersuits/banshee/sonaraugmentcard": {
     "value": "레저넌스"
+  },
+  "/lotus/storeitems/powersuits/bard/bard": {
+    "value": "옥타비아"
   },
   "/lotus/storeitems/powersuits/berserker/berserker": {
     "value": "발키르"
@@ -2309,6 +2342,9 @@
   },
   "/lotus/storeitems/types/game/basecosmeticenhancer": {
     "value": "아케인"
+  },
+  "/lotus/storeitems/types/game/catbrowpet/catbrowgeneticsignature": {
+    "value": "카밧 유전자 코드"
   },
   "/lotus/storeitems/types/game/kubrowpet/adventurerkubrowpetpowersuit": {
     "value": "사하사 쿠브로"
@@ -3489,6 +3525,9 @@
   "/lotus/storeitems/types/items/emotes/shrugemote": {
     "value": "으쓱"
   },
+  "/lotus/storeitems/types/items/miscitems/alertium": {
+    "value": "니테인 추출물"
+  },
   "/lotus/storeitems/types/items/miscitems/alloyplate": {
     "value": "얼로이 플레이트"
   },
@@ -3530,6 +3569,12 @@
   },
   "/lotus/storeitems/types/items/miscitems/forma": {
     "value": "포르마"
+  },
+  "/lotus/storeitems/types/items/miscitems/formaaura": {
+    "value": "Aura Forma"
+  },
+  "/lotus/storeitems/types/items/miscitems/formaumbra": {
+    "value": "Umbra Forma"
   },
   "/lotus/storeitems/types/items/miscitems/gallium": {
     "value": "갈륨"
@@ -4445,6 +4490,9 @@
   },
   "/lotus/storeitems/types/recipes/helmets/harlequinalthelmetblueprint": {
     "value": "미라지 할리퀸 헬멧 설계도"
+  },
+  "/lotus/storeitems/types/recipes/helmets/hildrynalthelmetblueprint": {
+    "value": "Hildryn Asuron Helmet"
   },
   "/lotus/storeitems/types/recipes/helmets/khoraalthelmetblueprint": {
     "value": "Khora Delphi Helmet Blueprint"
@@ -6324,8 +6372,14 @@
   "/lotus/storeitems/upgrades/focus/attacklens": {
     "value": "마두라이 렌즈"
   },
+  "/lotus/storeitems/upgrades/focus/attacklensgreater": {
+    "value": "Greater Madurai Lens"
+  },
   "/lotus/storeitems/upgrades/focus/defenselens": {
     "value": "바자린 렌즈"
+  },
+  "/lotus/storeitems/upgrades/focus/defenselensgreater": {
+    "value": "Greater Vazarin Lens"
   },
   "/lotus/storeitems/upgrades/focus/guardian/armorincreasefocus": {
     "value": "틱 스킨"
@@ -6348,11 +6402,17 @@
   "/lotus/storeitems/upgrades/focus/powerlens": {
     "value": "제누릭 렌즈"
   },
+  "/lotus/storeitems/upgrades/focus/powerlensgreater": {
+    "value": "Greater Zenurik Lens"
+  },
   "/lotus/storeitems/upgrades/focus/tactician/alliesonfirefocus": {
     "value": "어비셜"
   },
   "/lotus/storeitems/upgrades/focus/tacticlens": {
     "value": "나라몬 렌즈"
+  },
+  "/lotus/storeitems/upgrades/focus/tacticlensgreater": {
+    "value": "Greater Naramon Lens"
   },
   "/lotus/storeitems/upgrades/focus/void/energyefficiencyfocus": {
     "value": "채널링"
@@ -6380,6 +6440,9 @@
   },
   "/lotus/storeitems/upgrades/focus/wardlens": {
     "value": "유나이루 렌즈"
+  },
+  "/lotus/storeitems/upgrades/focus/wardlensgreater": {
+    "value": "Greater Unairu Lens"
   },
   "/lotus/storeitems/upgrades/focus/warrior/killerfocussource": {
     "value": "킬러 제네레이터"
@@ -7923,6 +7986,9 @@
   "/lotus/storeitems/upgrades/mods/rifle/weaponzoomfovmod": {
     "value": "이글 아이"
   },
+  "/lotus/storeitems/upgrades/mods/sentinel/kubrow/expert/kubrowpackleaderexpertmod": {
+    "value": "Primed Pack Leader"
+  },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowclonedfinishermod": {
     "value": "새비저리"
   },
@@ -9132,6 +9198,9 @@
   "/lotus/storeitems/upgrades/skins/camo/akimbovipercamo": {
     "value": "데저트-카모 트윈 바이퍼즈"
   },
+  "/lotus/storeitems/upgrades/skins/camo/desertdirigaskin": {
+    "value": "Driga Desert-Camo Skin"
+  },
   "/lotus/storeitems/upgrades/skins/camo/gorgoncamo": {
     "value": "데저트-카모 고르곤"
   },
@@ -9167,6 +9236,9 @@
   },
   "/lotus/storeitems/upgrades/skins/clan/allianceemblemitem": {
     "value": "얼라이언스 엠블럼"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/amalgameventbadgeitem": {
+    "value": "Hostile Mergers Emblem"
   },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
     "value": "Ki'Teer Sekhara"
@@ -10575,6 +10647,9 @@
   "/lotus/storeitems/upgrades/skins/sigils/energysigila": {
     "value": "리프트 시질"
   },
+  "/lotus/storeitems/upgrades/skins/sigils/eventsigilamalgam": {
+    "value": "Hostile Mergers Sigil"
+  },
   "/lotus/storeitems/upgrades/skins/sigils/eventsigilfalseprofit": {
     "value": "폴스 프로핏 시질"
   },
@@ -10616,6 +10691,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sigils/masterysigil": {
     "value": "마스터리 시질"
+  },
+  "/lotus/storeitems/upgrades/skins/sigils/rhinodeluxesigil": {
+    "value": "Rhino Palatine Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/orbsigil": {
     "value": "Buried Debts Sigil"
@@ -11148,6 +11226,9 @@
   "/lotus/storeitems/weapons/clantech/energy/vandalelectroprod": {
     "value": "프로바 반달"
   },
+  "/lotus/storeitems/weapons/corpus/bow/longbow/crpbow": {
+    "value": "Lenz"
+  },
   "/lotus/storeitems/weapons/corpus/longguns/chainlightninggun/chainlightningrifle": {
     "value": "앰프렉스"
   },
@@ -11165,6 +11246,9 @@
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "글랙시온"
+  },
+  "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/vandal/crpfreezerayvandalrifle": {
+    "value": "Glaxion Vandal"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
     "value": "콴타"
@@ -11192,6 +11276,9 @@
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpusminigun/dualcorpusminigun": {
     "value": "듀얼 세스트라"
+  },
+  "/lotus/storeitems/weapons/corpus/pistols/corpusmodularpistol/vandal/crplaserpistolvandal": {
+    "value": "Spectra Vandal"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
     "value": "감마코어"
@@ -11886,6 +11973,9 @@
   "/lotus/storeitems/weapons/tenno/pistols/tigristwin/tigristwin": {
     "value": "[Placeholder]"
   },
+  "/lotus/storeitems/weapons/tenno/pistols/tnbardpistol/tnbardpistolgun": {
+    "value": "판데로"
+  },
   "/lotus/storeitems/weapons/tenno/rifle/boltorifle": {
     "value": "볼터"
   },
@@ -12423,6 +12513,9 @@
   },
   "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarwalkingtesla": {
     "value": "Modular Spaceman Avatar Walking Tesla"
+  },
+  "/lotus/types/enemies/corpus/specialevents/armoredjackal/armoredjackalagent": {
+    "value": "Razorback"
   },
   "/lotus/types/enemies/corpus/turrets/turretavatars/autoturretheavyavatar": {
     "value": "Auto Turret Heavy Avatar"
@@ -13486,6 +13579,9 @@
   "/lotus/types/items/miscitems/neurode": {
     "value": "뉴로드"
   },
+  "/lotus/types/items/miscitems/norawolfcreds": {
+    "value": "Wolf Cred"
+  },
   "/lotus/types/items/miscitems/omegaisotope": {
     "value": "오메가 동위원소"
   },
@@ -13509,6 +13605,9 @@
   },
   "/lotus/types/items/miscitems/primebucks": {
     "value": "오로킨 두캇"
+  },
+  "/lotus/types/items/miscitems/razorbackcipherpartpickup": {
+    "value": "Cryptographic ALU"
   },
   "/lotus/types/items/miscitems/rubedo": {
     "value": "루비도"
@@ -13593,6 +13692,18 @@
   },
   "/lotus/types/items/shipdecos/wukongbobblehead": {
     "value": "오공 - 노글 스태츄"
+  },
+  "/lotus/types/keys/disruptioneventkeya": {
+    "value": "Disruption Key A"
+  },
+  "/lotus/types/keys/disruptioneventkeyb": {
+    "value": "Disruption Key B"
+  },
+  "/lotus/types/keys/disruptioneventkeyc": {
+    "value": "Disruption Key C"
+  },
+  "/lotus/types/keys/disruptioneventkeyd": {
+    "value": "Disruption Key D"
   },
   "/lotus/types/keys/orokincapturekeya": {
     "value": "오로킨 보이드 티어 | 생포 키"
@@ -15097,6 +15208,9 @@
   "/lotus/types/storeitems/packages/novadeluxeskinbundle": {
     "value": "노바 아수리 번들"
   },
+  "/lotus/types/storeitems/packages/nyxdeluxeskinbundle": {
+    "value": "Nyx Pasithea Collection"
+  },
   "/lotus/types/storeitems/packages/oberondeluxeskinbundle": {
     "value": "오베론 페이아크 번들"
   },
@@ -15346,6 +15460,9 @@
   "/lotus/types/storeitems/packages/winterglyphbundleb": {
     "value": "윈터 글리프 팩"
   },
+  "/lotus/types/storeitems/packages/wispbundle": {
+    "value": "Wisp Collection"
+  },
   "/lotus/types/storeitems/slotitems/kubrowslotitem": {
     "value": "스테이시스 슬롯"
   },
@@ -15501,6 +15618,9 @@
   },
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "쿠바 카밧 아머"
+  },
+  "/lotus/upgrades/skins/catbrows/armor/wispkavatarmor": {
+    "value": "Sirocco Kavat Armor"
   },
   "/lotus/upgrades/skins/clan/shipyardseventquantumbadgeitem": {
     "value": "Shipyards Event Quantum Badge Item"
@@ -15736,6 +15856,9 @@
   "/lotus/upgrades/skins/jade/nyxalternateskin": {
     "value": "닉스 이모탈 스킨"
   },
+  "/lotus/upgrades/skins/jade/nyxdeluxesuit": {
+    "value": "Nyx Pasithea Skin"
+  },
   "/lotus/upgrades/skins/jade/nyxnemesissuit": {
     "value": "닉스 네메시스 스킨"
   },
@@ -15970,6 +16093,9 @@
   "/lotus/upgrades/skins/weapons/dualdaggers/tnmilitarydualdaggerskin": {
     "value": "Zastra Dual Dagger Skin"
   },
+  "/lotus/upgrades/skins/wisp/wispalthelmet": {
+    "value": "Wisp Gaoth Helmet"
+  },
   "/lotus/weapons/cephalon/melee/hammer/cephhammerweapon": {
     "value": "헬리오코어"
   },
@@ -16035,6 +16161,9 @@
   },
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "글랙시온"
+  },
+  "/lotus/weapons/corpus/longguns/crpsentamlgsniper/crpsentamlgsniper": {
+    "value": "Komorex"
   },
   "/lotus/weapons/corpus/longguns/crpshapeblast/crpshapeblastshotgun": {
     "value": "Exergis"
@@ -16104,6 +16233,9 @@
   },
   "/lotus/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
     "value": "앙스트럼"
+  },
+  "/lotus/weapons/corpus/pistols/crpsentamalgpistol/crpsentamalgpistol": {
+    "value": "Cyanex"
   },
   "/lotus/weapons/corpus/pistols/crpsonificblastor/crpblastorweapon": {
     "value": "Plinx"
@@ -16575,6 +16707,9 @@
   },
   "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
     "value": "Baza"
+  },
+  "/lotus/weapons/tenno/longguns/tnwisprifle/tnwisprifle": {
+    "value": "Fulmin"
   },
   "/lotus/weapons/tenno/longguns/wraithlatron/wraithlatron": {
     "value": "래트론 레이스"
