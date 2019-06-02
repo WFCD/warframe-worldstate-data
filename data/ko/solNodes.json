@@ -1204,6 +1204,11 @@
     "enemy": "커럽티드",
     "type": "에인션트 레트리뷰션"
   },
+  "SolNode740": {
+    "value": "The Ropalolyst (Jupiter)",
+    "enemy": "센티언트",
+    "type": "암살"
+  },
   "SolNode741": {
     "value": "Koro (쿠바 요새)",
     "enemy": "그리니어",
@@ -1583,6 +1588,36 @@
     "value": "Void",
     "enemy": "커럽티드",
     "type": "생존"
+  },
+  "EventNode28": {
+    "value": "토성",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "EventNode29": {
+    "value": "토성",
+    "enemy": "그리니어",
+    "type": "암살"
+  },
+  "EventNode30": {
+    "value": "Ganymede (목성)",
+    "enemy": "코퍼스",
+    "type": "Disruption"
+  },
+  "EventNode31": {
+    "value": "Ganymede (목성)",
+    "enemy": "코퍼스",
+    "type": "Disruption"
+  },
+  "EventNode32": {
+    "value": "Ganymede (목성)",
+    "enemy": "코퍼스",
+    "type": "Disruption"
+  },
+  "EventNode33": {
+    "value": "Ganymede (목성)",
+    "enemy": "코퍼스",
+    "type": "Disruption"
   },
   "EventNode761": {
     "value": "더 인덱스",
