@@ -1204,6 +1204,11 @@
     "enemy": "Corruptos",
     "type": "Retribución antigua"
   },
+  "SolNode740": {
+    "value": "The Ropalolyst (Jupiter)",
+    "enemy": "Consciente",
+    "type": "Asesinato"
+  },
   "SolNode741": {
     "value": "Koro (Fortaleza kuva)",
     "enemy": "Grineer",
@@ -1583,6 +1588,36 @@
     "value": "Void",
     "enemy": "Corruptos",
     "type": "Supervivencia"
+  },
+  "EventNode28": {
+    "value": "Saturno",
+    "enemy": "Grineer",
+    "type": "Asesinato"
+  },
+  "EventNode29": {
+    "value": "Saturno",
+    "enemy": "Grineer",
+    "type": "Asesinato"
+  },
+  "EventNode30": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode31": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode32": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode33": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
   },
   "EventNode761": {
     "value": "El índice",
