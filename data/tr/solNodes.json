@@ -7,7 +7,7 @@
   "SolNode1": {
     "value": "Galatea (Neptune)",
     "enemy": "Corpus",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode2": {
     "value": "Aphrodite (Venus)",
@@ -75,7 +75,7 @@
     "type": "Exterminate"
   },
   "SolNode15": {
-    "value": "Pacific (Earth)",
+    "value": "Pacific (Dünya)",
     "enemy": "Grineer",
     "type": "Rescue"
   },
@@ -85,17 +85,17 @@
     "type": "Excavation"
   },
   "SolNode17": {
-    "value": "Proteus (Neptune)",
+    "value": "Proteus (Neptün)",
     "enemy": "Corpus",
     "type": "Defense"
   },
   "SolNode18": {
-    "value": "Rhea (Saturn)",
+    "value": "Rhea (Satürn)",
     "enemy": "Grineer",
     "type": "Interception"
   },
   "SolNode19": {
-    "value": "Enceladus (Saturn)",
+    "value": "Enceladus (Satürn)",
     "enemy": "Grineer",
     "type": "Sabotaj"
   },
@@ -115,7 +115,7 @@
     "type": "Defense"
   },
   "SolNode23": {
-    "value": "Cytherean (Venus)",
+    "value": "Cytherean (Venüs)",
     "enemy": "Corpus",
     "type": "Interception"
   },
@@ -125,7 +125,7 @@
     "type": "Assassination"
   },
   "SolNode25": {
-    "value": "Callisto (Jupiter)",
+    "value": "Callisto (Jüpiter)",
     "enemy": "Corpus",
     "type": "Interception"
   },
@@ -135,12 +135,12 @@
     "type": "Defense"
   },
   "SolNode27": {
-    "value": "E Prime (Earth)",
+    "value": "E Prime (Dünya)",
     "enemy": "Grineer",
     "type": "Exterminate"
   },
   "SolNode28": {
-    "value": "M Prime (Mercury)",
+    "value": "M Prime (Merkür)",
     "enemy": "Crossfire",
     "type": "Exterminate"
   },
@@ -227,7 +227,7 @@
   "SolNode45": {
     "value": "Ara (Mars)",
     "enemy": "Grineer",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode46": {
     "value": "Spear (Mars)",
@@ -317,7 +317,7 @@
   "SolNode63": {
     "value": "Mantle (Earth)",
     "enemy": "Grineer",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode64": {
     "value": "Umbriel (Uranus)",
@@ -352,7 +352,7 @@
   "SolNode70": {
     "value": "Cassini (Saturn)",
     "enemy": "Grineer",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode71": {
     "value": "Vesper (Venus)",
@@ -367,7 +367,7 @@
   "SolNode73": {
     "value": "Ananke (Jupiter)",
     "enemy": "Corpus",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode74": {
     "value": "Carme (Jupiter)",
@@ -382,7 +382,7 @@
   "SolNode76": {
     "value": "Hydra (Pluto)",
     "enemy": "Corpus",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode77": {
     "value": "Cupid (Uranus)",
@@ -405,9 +405,9 @@
     "type": "Ancient Retribution"
   },
   "SolNode81": {
-    "value": "Palus (Pluto)",
+    "value": "Palus (Plüto)",
     "enemy": "Corpus",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode82": {
     "value": "Calypso (Saturn)",
@@ -420,7 +420,7 @@
     "type": "Mobil Savunma"
   },
   "SolNode84": {
-    "value": "Nereid (Neptune)",
+    "value": "Nereid (Neptün)",
     "enemy": "Corpus",
     "type": "Hijack"
   },
@@ -492,7 +492,7 @@
   "SolNode98": {
     "value": "Desdemona (Uranus)",
     "enemy": "Grineer",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode99": {
     "value": "War (Mars)",
@@ -517,7 +517,7 @@
   "SolNode103": {
     "value": "Terminus (Mercury)",
     "enemy": "Grineer",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode104": {
     "value": "Fossa (Venus)",
@@ -537,7 +537,7 @@
   "SolNode107": {
     "value": "Venera (Venus)",
     "enemy": "Corpus",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode108": {
     "value": "Tolstoj (Mercury)",
@@ -697,7 +697,7 @@
   "SolNode139": {
     "value": "Lex (Ceres)",
     "enemy": "Grineer",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode140": {
     "value": "Kiste (Ceres)",
@@ -810,7 +810,7 @@
   "SolNode162": {
     "value": "Isos (Eris)",
     "enemy": "Infested",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode163": {
     "value": "Ixodes (Eris)"
@@ -918,7 +918,7 @@
   "SolNode184": {
     "value": "Rusalka (Sedna)",
     "enemy": "Grineer",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode185": {
     "value": "Berehynia (Sedna)",
@@ -1013,7 +1013,7 @@
   "SolNode203": {
     "value": "Abaddon (Europa)",
     "enemy": "Corpus",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode204": {
     "value": "Armaros (Europa)",
@@ -1142,7 +1142,7 @@
   "SolNode401": {
     "value": "Hepit (Void)",
     "enemy": "Orokin",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode402": {
     "value": "Taranis (Void)",
@@ -1167,7 +1167,7 @@
   "SolNode406": {
     "value": "Ukko (Void)",
     "enemy": "Orokin",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode407": {
     "value": "Oxomoco (Void)",
@@ -1217,7 +1217,7 @@
   "SolNode742": {
     "value": "Nabuk (Kuva Fortress)",
     "enemy": "Grineer",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SolNode743": {
     "value": "Rotuma (Kuva Fortress)",
@@ -1332,7 +1332,7 @@
   "SettlementNode2": {
     "value": "Skyresh (Phobos)",
     "enemy": "Corpus",
-    "type": "Capture"
+    "type": "Ele Geçirme"
   },
   "SettlementNode3": {
     "value": "Stickney (Phobos)",
