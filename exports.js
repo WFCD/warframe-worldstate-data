@@ -1,6 +1,6 @@
 'use strict';
 
-const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh'];
+const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'en'];
 
 /**
  * Safely require path, fall back to fallback if module cannot loa
