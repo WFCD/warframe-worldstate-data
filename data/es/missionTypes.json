@@ -1,15 +1,27 @@
 {
-  "MT_EXCAVATE": {
-    "value": "Excavación"
+  "MT_ARENA": {
+    "value": "Rathuum"
   },
-  "MT_SABOTAGE": {
-    "value": "Sabotaje"
-  },
-  "MT_MOBILE_DEFENSE": {
-    "value": "Defensa móvil"
+  "MT_ASSAULT": {
+    "value": "Asalto"
   },
   "MT_ASSASSINATION": {
     "value": "Asesinato"
+  },
+  "MT_CAPTURE": {
+    "value": "Captura"
+  },
+  "MT_DEFENSE": {
+    "value": "Defensa"
+  },
+  "MT_DISRUPTION": {
+    "value": "Disruption"
+  },
+  "MT_EVACUATION": {
+    "value": "Defection"
+  },
+  "MT_EXCAVATE": {
+    "value": "Excavación"
   },
   "MT_EXTERMINATION": {
     "value": "Exterminio"
@@ -17,14 +29,14 @@
   "MT_HIVE": {
     "value": "Colmena"
   },
-  "MT_DEFENSE": {
-    "value": "Defensa"
+  "MT_INTEL": {
+    "value": "Espionaje"
   },
-  "MT_TERRITORY": {
-    "value": "Interceptación"
+  "MT_LANDSCAPE": {
+    "value": "Free Roam"
   },
-  "MT_ARENA": {
-    "value": "Rathuum"
+  "MT_MOBILE_DEFENSE": {
+    "value": "Defensa móvil"
   },
   "MT_PVP": {
     "value": "Cónclave"
@@ -32,28 +44,19 @@
   "MT_RESCUE": {
     "value": "Rescate"
   },
-  "MT_INTEL": {
-    "value": "Espionaje"
+  "MT_RETRIEVAL": {
+    "value": "Secuestro"
   },
-  "MT_SURVIVAL": {
-    "value": "Supervivencia"
-  },
-  "MT_CAPTURE": {
-    "value": "Captura"
+  "MT_SABOTAGE": {
+    "value": "Sabotaje"
   },
   "MT_SECTOR": {
     "value": "Sector oscuro"
   },
-  "MT_RETRIEVAL": {
-    "value": "Secuestro"
+  "MT_SURVIVAL": {
+    "value": "Supervivencia"
   },
-  "MT_ASSAULT": {
-    "value": "Asalto"
-  },
-  "MT_EVACUATION": {
-    "value": "Defection"
-  },
-  "MT_LANDSCAPE": {
-    "value": "Free Roam"
+  "MT_TERRITORY": {
+    "value": "Interceptación"
   }
 }
