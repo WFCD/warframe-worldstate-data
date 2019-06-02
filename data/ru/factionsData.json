@@ -1,17 +1,20 @@
 {
-  "FC_GRINEER": {
-    "value": "Гринир"
-  },
   "FC_CORPUS": {
     "value": "Корпус"
-  },
-  "FC_INFESTATION": {
-    "value": "Заражённые"
   },
   "FC_CORRUPTED": {
     "value": "Порабощённые"
   },
+  "FC_GRINEER": {
+    "value": "Гринир"
+  },
+  "FC_INFESTATION": {
+    "value": "Заражённые"
+  },
   "FC_OROKIN": {
     "value": "Орокин"
+  },
+  "FC_SENTIENT": {
+    "value": "Владеющие Разумом"
   }
 }
