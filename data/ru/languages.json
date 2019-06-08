@@ -15571,6 +15571,15 @@
   "/lotus/upgrades/skins/archer/wintersolsticesalix": {
     "value": "Solstice Salix Syandana"
   },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/crpcirca": {
+    "value": "Porta Shoulder Plate"
+  },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/crpcircc": {
+    "value": "Porta Chest Plate"
+  },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/crpcircl": {
+    "value": "Porta Leg Plates"
+  },
   "/lotus/upgrades/skins/armor/crpcirclearmour/halloweencrpcirca": {
     "value": "Day of the Dead Porta Armor"
   },
@@ -15579,6 +15588,15 @@
   },
   "/lotus/upgrades/skins/armor/crpcirclearmour/halloweencrpcircl": {
     "value": "День Мёртвых: Наголенники Порта"
+  },
+  "/lotus/upgrades/skins/armor/crpindextwo/crpindextwoaarmor": {
+    "value": "Quaro Shoulder Armor"
+  },
+  "/lotus/upgrades/skins/armor/crpindextwo/crpindextwocarmor": {
+    "value": "Quaro Chest Armor"
+  },
+  "/lotus/upgrades/skins/armor/crpindextwo/crpindextwolarmor": {
+    "value": "Quaro Leg Armor"
   },
   "/lotus/upgrades/skins/armor/halloween2014wings/halloween2014armarmor": {
     "value": "Naeberus Wings"
@@ -15997,11 +16015,17 @@
   "/lotus/upgrades/skins/scarves/april2015scarf": {
     "value": "Kyroptera Syandana"
   },
+  "/lotus/upgrades/skins/scarves/crpaladscarf": {
+    "value": "Opulas Rope"
+  },
   "/lotus/upgrades/skins/scarves/crpcubinatorscarf": {
     "value": "Quaro Syandana"
   },
   "/lotus/upgrades/skins/scarves/crpmbundlesyandana": {
     "value": "Flox Syandana"
+  },
+  "/lotus/upgrades/skins/scarves/crpmodularscarf": {
+    "value": "Vexillus Cloak"
   },
   "/lotus/upgrades/skins/scarves/energyscarf": {
     "value": "Asa Syandana"
@@ -16057,8 +16081,17 @@
   "/lotus/upgrades/skins/scarves/tnguandaoscarf": {
     "value": "Mozi Syandana"
   },
+  "/lotus/upgrades/skins/sentinels/masks/ictusmask": {
+    "value": "Ictus Sentinel Mask"
+  },
   "/lotus/upgrades/skins/sentinels/persiandjinnskin": {
     "value": "Djinn Gazal Skin"
+  },
+  "/lotus/upgrades/skins/sentinels/tails/ictustail": {
+    "value": "Ictus Sentinel Tail"
+  },
+  "/lotus/upgrades/skins/sentinels/wings/ictuswings": {
+    "value": "Ictus Sentinel Wings"
   },
   "/lotus/upgrades/skins/sigils/projectsinistersigil": {
     "value": "Project Sinister Sigil"
