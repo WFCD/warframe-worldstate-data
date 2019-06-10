@@ -683,11 +683,26 @@
   "/lotus/language/alerts/survivaldesc1long": {
     "value": "Пополните ваш истощающийся запас кислорода, убивая врагов и держась до сброса снабжения."
   },
+  "/lotus/language/alerts/wolfalert": {
+    "value": "Tactical Alert: Wolf Hunt"
+  },
   "/lotus/language/bosses/bossthejackal": {
     "value": "Boss The Jackal"
   },
   "/lotus/language/bosses/bosstylregor": {
     "value": "Boss Tyl Regor"
+  },
+  "/lotus/language/events/amalgameventname": {
+    "value": "Operation: Hostile Mergers"
+  },
+  "/lotus/language/events/amalgameventscoreattackname": {
+    "value": "Operation: Hostile Mergers - Endurance"
+  },
+  "/lotus/language/events/amalgameventscoreattacktooltip": {
+    "value": "Operation: Hostile Mergers - Endurance"
+  },
+  "/lotus/language/events/amalgameventtooltip": {
+    "value": "Operation: Hostile Mergers"
   },
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "Gifts of the Lotus - Stolen!"
@@ -818,6 +833,9 @@
   "/lotus/language/menu/corpusinvasiongeneric": {
     "value": "Осада Корпуса"
   },
+  "/lotus/language/menu/corpusrazorbackproject": {
+    "value": "Razorback Armada"
+  },
   "/lotus/language/menu/grineerinvasiongeneric": {
     "value": "Наступление Гринир"
   },
@@ -832,6 +850,9 @@
   },
   "/lotus/language/menu/infestedinvasiongeneric": {
     "value": "Вспышка заражения"
+  },
+  "/lotus/language/menu/razorbackarmadascorehint": {
+    "value": "Razorbacks destroyed"
   },
   "/lotus/language/messages/orbheisteventrewardainboxmessagebody": {
     "value": "You're getting the hang of it. We just wanted to send you a little something by way of encourangement. Don't let up."
@@ -860,6 +881,12 @@
   "/lotus/language/sigils/kelaeventsigilname": {
     "desc": "Сигил празднования освобождения перебежчиков из Гринир.",
     "value": "Rathuum Sigil"
+  },
+  "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
+    "value": "Razorback Assassination"
+  },
+  "/lotus/levels/proc/grineer/grineeroceansurvival": {
+    "value": "Sealab Survival"
   },
   "/lotus/objects/crpmegaexplodingbarrel": {
     "value": "Crp Mega Exploding Barrel"
@@ -1073,6 +1100,9 @@
   },
   "/lotus/powersuits/volt/voltprime": {
     "value": "Вольт Прайм"
+  },
+  "/lotus/powersuits/wisp/wisp": {
+    "value": "Wisp"
   },
   "/lotus/powersuits/yinyang/yinyang": {
     "value": "Эквинокс"
@@ -1655,6 +1685,9 @@
   },
   "/lotus/storeitems/powersuits/banshee/sonaraugmentcard": {
     "value": "Резонанс"
+  },
+  "/lotus/storeitems/powersuits/bard/bard": {
+    "value": "Октавия"
   },
   "/lotus/storeitems/powersuits/berserker/berserker": {
     "value": "Валькирия"
@@ -2309,6 +2342,9 @@
   },
   "/lotus/storeitems/types/game/basecosmeticenhancer": {
     "value": "Мистика"
+  },
+  "/lotus/storeitems/types/game/catbrowpet/catbrowgeneticsignature": {
+    "value": "Kavat Genetic Code"
   },
   "/lotus/storeitems/types/game/kubrowpet/adventurerkubrowpetpowersuit": {
     "value": "Сахаса Кубрау"
@@ -3489,6 +3525,9 @@
   "/lotus/storeitems/types/items/emotes/shrugemote": {
     "value": "Пожать плечами"
   },
+  "/lotus/storeitems/types/items/miscitems/alertium": {
+    "value": "Экстракт Нитаина"
+  },
   "/lotus/storeitems/types/items/miscitems/alloyplate": {
     "value": "Сплав"
   },
@@ -3530,6 +3569,12 @@
   },
   "/lotus/storeitems/types/items/miscitems/forma": {
     "value": "Форма"
+  },
+  "/lotus/storeitems/types/items/miscitems/formaaura": {
+    "value": "Aura Forma"
+  },
+  "/lotus/storeitems/types/items/miscitems/formaumbra": {
+    "value": "Umbra Forma"
   },
   "/lotus/storeitems/types/items/miscitems/gallium": {
     "value": "Галлий"
@@ -4445,6 +4490,9 @@
   },
   "/lotus/storeitems/types/recipes/helmets/harlequinalthelmetblueprint": {
     "value": "Чертёж: Шлем Мираж: Арлекин"
+  },
+  "/lotus/storeitems/types/recipes/helmets/hildrynalthelmetblueprint": {
+    "value": "Hildryn Asuron Helmet"
   },
   "/lotus/storeitems/types/recipes/helmets/khoraalthelmetblueprint": {
     "value": "Khora Delphi Helmet Blueprint"
@@ -6324,8 +6372,14 @@
   "/lotus/storeitems/upgrades/focus/attacklens": {
     "value": "Линза Мадурай"
   },
+  "/lotus/storeitems/upgrades/focus/attacklensgreater": {
+    "value": "Greater Madurai Lens"
+  },
   "/lotus/storeitems/upgrades/focus/defenselens": {
     "value": "Линза Вазарин"
+  },
+  "/lotus/storeitems/upgrades/focus/defenselensgreater": {
+    "value": "Greater Vazarin Lens"
   },
   "/lotus/storeitems/upgrades/focus/guardian/armorincreasefocus": {
     "value": "Thick Skin"
@@ -6348,11 +6402,17 @@
   "/lotus/storeitems/upgrades/focus/powerlens": {
     "value": "Линза \"Зенурик\""
   },
+  "/lotus/storeitems/upgrades/focus/powerlensgreater": {
+    "value": "Greater Zenurik Lens"
+  },
   "/lotus/storeitems/upgrades/focus/tactician/alliesonfirefocus": {
     "value": "Abyssal"
   },
   "/lotus/storeitems/upgrades/focus/tacticlens": {
     "value": "Линза \"Нарамон\""
+  },
+  "/lotus/storeitems/upgrades/focus/tacticlensgreater": {
+    "value": "Greater Naramon Lens"
   },
   "/lotus/storeitems/upgrades/focus/void/energyefficiencyfocus": {
     "value": "Channeling"
@@ -6380,6 +6440,9 @@
   },
   "/lotus/storeitems/upgrades/focus/wardlens": {
     "value": "Линза \"Унайру\""
+  },
+  "/lotus/storeitems/upgrades/focus/wardlensgreater": {
+    "value": "Greater Unairu Lens"
   },
   "/lotus/storeitems/upgrades/focus/warrior/killerfocussource": {
     "value": "Killer Generator"
@@ -7923,6 +7986,9 @@
   "/lotus/storeitems/upgrades/mods/rifle/weaponzoomfovmod": {
     "value": "Eagle Eye"
   },
+  "/lotus/storeitems/upgrades/mods/sentinel/kubrow/expert/kubrowpackleaderexpertmod": {
+    "value": "Primed Pack Leader"
+  },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowclonedfinishermod": {
     "value": "Savagery"
   },
@@ -9132,6 +9198,9 @@
   "/lotus/storeitems/upgrades/skins/camo/akimbovipercamo": {
     "value": "Desert-camo Twin Vipers"
   },
+  "/lotus/storeitems/upgrades/skins/camo/desertdirigaskin": {
+    "value": "Driga Desert-Camo Skin"
+  },
   "/lotus/storeitems/upgrades/skins/camo/gorgoncamo": {
     "value": "Desert-camo Gorgon"
   },
@@ -9167,6 +9236,9 @@
   },
   "/lotus/storeitems/upgrades/skins/clan/allianceemblemitem": {
     "value": "Alliance Emblem"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/amalgameventbadgeitem": {
+    "value": "Hostile Mergers Emblem"
   },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
     "value": "Ki'Teer Sekhara"
@@ -10575,6 +10647,9 @@
   "/lotus/storeitems/upgrades/skins/sigils/energysigila": {
     "value": "Rift Sigil"
   },
+  "/lotus/storeitems/upgrades/skins/sigils/eventsigilamalgam": {
+    "value": "Hostile Mergers Sigil"
+  },
   "/lotus/storeitems/upgrades/skins/sigils/eventsigilfalseprofit": {
     "value": "False Profit Sigil"
   },
@@ -10616,6 +10691,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sigils/masterysigil": {
     "value": "Mastery Sigil"
+  },
+  "/lotus/storeitems/upgrades/skins/sigils/rhinodeluxesigil": {
+    "value": "Rhino Palatine Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/orbsigil": {
     "value": "Buried Debts Sigil"
@@ -11148,6 +11226,9 @@
   "/lotus/storeitems/weapons/clantech/energy/vandalelectroprod": {
     "value": "Прова Вандал"
   },
+  "/lotus/storeitems/weapons/corpus/bow/longbow/crpbow": {
+    "value": "Lenz"
+  },
   "/lotus/storeitems/weapons/corpus/longguns/chainlightninggun/chainlightningrifle": {
     "value": "Ампрекс"
   },
@@ -11165,6 +11246,9 @@
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Глаксион"
+  },
+  "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/vandal/crpfreezerayvandalrifle": {
+    "value": "Glaxion Vandal"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
     "value": "Кванта"
@@ -11192,6 +11276,9 @@
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpusminigun/dualcorpusminigun": {
     "value": "Парные Цестры"
+  },
+  "/lotus/storeitems/weapons/corpus/pistols/corpusmodularpistol/vandal/crplaserpistolvandal": {
+    "value": "Spectra Vandal"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
     "value": "Гаммакор"
@@ -11886,6 +11973,9 @@
   "/lotus/storeitems/weapons/tenno/pistols/tigristwin/tigristwin": {
     "value": "[Placeholder]"
   },
+  "/lotus/storeitems/weapons/tenno/pistols/tnbardpistol/tnbardpistolgun": {
+    "value": "Пандеро"
+  },
   "/lotus/storeitems/weapons/tenno/rifle/boltorifle": {
     "value": "Болтор"
   },
@@ -12423,6 +12513,9 @@
   },
   "/lotus/types/enemies/corpus/spaceman/modularspacemanavatarwalkingtesla": {
     "value": "Modular Spaceman Avatar Walking Tesla"
+  },
+  "/lotus/types/enemies/corpus/specialevents/armoredjackal/armoredjackalagent": {
+    "value": "Razorback"
   },
   "/lotus/types/enemies/corpus/turrets/turretavatars/autoturretheavyavatar": {
     "value": "Auto Turret Heavy Avatar"
@@ -13486,6 +13579,9 @@
   "/lotus/types/items/miscitems/neurode": {
     "value": "Нейроды"
   },
+  "/lotus/types/items/miscitems/norawolfcreds": {
+    "value": "Wolf Cred"
+  },
   "/lotus/types/items/miscitems/omegaisotope": {
     "value": "Изотоп Омега"
   },
@@ -13509,6 +13605,9 @@
   },
   "/lotus/types/items/miscitems/primebucks": {
     "value": "Дукаты Орокин"
+  },
+  "/lotus/types/items/miscitems/razorbackcipherpartpickup": {
+    "value": "Cryptographic ALU"
   },
   "/lotus/types/items/miscitems/rubedo": {
     "value": "Рубедо"
@@ -13593,6 +13692,18 @@
   },
   "/lotus/types/items/shipdecos/wukongbobblehead": {
     "value": "Фигурка - Вуконг"
+  },
+  "/lotus/types/keys/disruptioneventkeya": {
+    "value": "Disruption Key A"
+  },
+  "/lotus/types/keys/disruptioneventkeyb": {
+    "value": "Disruption Key B"
+  },
+  "/lotus/types/keys/disruptioneventkeyc": {
+    "value": "Disruption Key C"
+  },
+  "/lotus/types/keys/disruptioneventkeyd": {
+    "value": "Disruption Key D"
   },
   "/lotus/types/keys/orokincapturekeya": {
     "value": "Orokin Void Tier I Capture Key"
@@ -15097,6 +15208,9 @@
   "/lotus/types/storeitems/packages/novadeluxeskinbundle": {
     "value": "Набор Новы \"Асури\""
   },
+  "/lotus/types/storeitems/packages/nyxdeluxeskinbundle": {
+    "value": "Nyx Pasithea Collection"
+  },
   "/lotus/types/storeitems/packages/oberondeluxeskinbundle": {
     "value": "Коллекция Оберона: \"Фейарк\""
   },
@@ -15346,6 +15460,9 @@
   "/lotus/types/storeitems/packages/winterglyphbundleb": {
     "value": "Winter Glyph Pack"
   },
+  "/lotus/types/storeitems/packages/wispbundle": {
+    "value": "Wisp Collection"
+  },
   "/lotus/types/storeitems/slotitems/kubrowslotitem": {
     "value": "Стазис-камера"
   },
@@ -15454,6 +15571,15 @@
   "/lotus/upgrades/skins/archer/wintersolsticesalix": {
     "value": "Solstice Salix Syandana"
   },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/crpcirca": {
+    "value": "Porta Shoulder Plate"
+  },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/crpcircc": {
+    "value": "Porta Chest Plate"
+  },
+  "/lotus/upgrades/skins/armor/crpcirclearmour/crpcircl": {
+    "value": "Porta Leg Plates"
+  },
   "/lotus/upgrades/skins/armor/crpcirclearmour/halloweencrpcirca": {
     "value": "Day of the Dead Porta Armor"
   },
@@ -15462,6 +15588,15 @@
   },
   "/lotus/upgrades/skins/armor/crpcirclearmour/halloweencrpcircl": {
     "value": "День Мёртвых: Наголенники Порта"
+  },
+  "/lotus/upgrades/skins/armor/crpindextwo/crpindextwoaarmor": {
+    "value": "Quaro Shoulder Armor"
+  },
+  "/lotus/upgrades/skins/armor/crpindextwo/crpindextwocarmor": {
+    "value": "Quaro Chest Armor"
+  },
+  "/lotus/upgrades/skins/armor/crpindextwo/crpindextwolarmor": {
+    "value": "Quaro Leg Armor"
   },
   "/lotus/upgrades/skins/armor/halloween2014wings/halloween2014armarmor": {
     "value": "Naeberus Wings"
@@ -15501,6 +15636,9 @@
   },
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "Kuva Kavat Armor"
+  },
+  "/lotus/upgrades/skins/catbrows/armor/wispkavatarmor": {
+    "value": "Sirocco Kavat Armor"
   },
   "/lotus/upgrades/skins/clan/shipyardseventquantumbadgeitem": {
     "value": "Shipyards Event Quantum Badge Item"
@@ -15736,6 +15874,9 @@
   "/lotus/upgrades/skins/jade/nyxalternateskin": {
     "value": "Скин Никс \"Бессмертный\""
   },
+  "/lotus/upgrades/skins/jade/nyxdeluxesuit": {
+    "value": "Nyx Pasithea Skin"
+  },
   "/lotus/upgrades/skins/jade/nyxnemesissuit": {
     "value": "Nyx Nemesis Skin"
   },
@@ -15874,11 +16015,17 @@
   "/lotus/upgrades/skins/scarves/april2015scarf": {
     "value": "Kyroptera Syandana"
   },
+  "/lotus/upgrades/skins/scarves/crpaladscarf": {
+    "value": "Opulas Rope"
+  },
   "/lotus/upgrades/skins/scarves/crpcubinatorscarf": {
     "value": "Quaro Syandana"
   },
   "/lotus/upgrades/skins/scarves/crpmbundlesyandana": {
     "value": "Flox Syandana"
+  },
+  "/lotus/upgrades/skins/scarves/crpmodularscarf": {
+    "value": "Vexillus Cloak"
   },
   "/lotus/upgrades/skins/scarves/energyscarf": {
     "value": "Asa Syandana"
@@ -15934,8 +16081,17 @@
   "/lotus/upgrades/skins/scarves/tnguandaoscarf": {
     "value": "Mozi Syandana"
   },
+  "/lotus/upgrades/skins/sentinels/masks/ictusmask": {
+    "value": "Ictus Sentinel Mask"
+  },
   "/lotus/upgrades/skins/sentinels/persiandjinnskin": {
     "value": "Djinn Gazal Skin"
+  },
+  "/lotus/upgrades/skins/sentinels/tails/ictustail": {
+    "value": "Ictus Sentinel Tail"
+  },
+  "/lotus/upgrades/skins/sentinels/wings/ictuswings": {
+    "value": "Ictus Sentinel Wings"
   },
   "/lotus/upgrades/skins/sigils/projectsinistersigil": {
     "value": "Project Sinister Sigil"
@@ -15969,6 +16125,9 @@
   },
   "/lotus/upgrades/skins/weapons/dualdaggers/tnmilitarydualdaggerskin": {
     "value": "Zastra Dual Dagger Skin"
+  },
+  "/lotus/upgrades/skins/wisp/wispalthelmet": {
+    "value": "Wisp Gaoth Helmet"
   },
   "/lotus/weapons/cephalon/melee/hammer/cephhammerweapon": {
     "value": "Heliocor"
@@ -16035,6 +16194,9 @@
   },
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Глаксион"
+  },
+  "/lotus/weapons/corpus/longguns/crpsentamlgsniper/crpsentamlgsniper": {
+    "value": "Komorex"
   },
   "/lotus/weapons/corpus/longguns/crpshapeblast/crpshapeblastshotgun": {
     "value": "Exergis"
@@ -16104,6 +16266,9 @@
   },
   "/lotus/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
     "value": "Ангстрем"
+  },
+  "/lotus/weapons/corpus/pistols/crpsentamalgpistol/crpsentamalgpistol": {
+    "value": "Cyanex"
   },
   "/lotus/weapons/corpus/pistols/crpsonificblastor/crpblastorweapon": {
     "value": "Plinx"
@@ -16575,6 +16740,9 @@
   },
   "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
     "value": "Baza"
+  },
+  "/lotus/weapons/tenno/longguns/tnwisprifle/tnwisprifle": {
+    "value": "Fulmin"
   },
   "/lotus/weapons/tenno/longguns/wraithlatron/wraithlatron": {
     "value": "Латрон Призрак"

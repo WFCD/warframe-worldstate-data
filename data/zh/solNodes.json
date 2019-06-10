@@ -1204,6 +1204,11 @@
     "enemy": "墮落",
     "type": "Ancient Retribution"
   },
+  "SolNode740": {
+    "value": "The Ropalolyst (Jupiter)",
+    "enemy": "Sentient",
+    "type": "刺殺"
+  },
   "SolNode741": {
     "value": "Koro (Kuva 要塞)",
     "enemy": "Grineer",
@@ -1583,6 +1588,36 @@
     "value": "Void",
     "enemy": "墮落",
     "type": "生存"
+  },
+  "EventNode28": {
+    "value": "土星",
+    "enemy": "Grineer",
+    "type": "刺殺"
+  },
+  "EventNode29": {
+    "value": "土星",
+    "enemy": "Grineer",
+    "type": "刺殺"
+  },
+  "EventNode30": {
+    "value": "Ganymede (木星)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode31": {
+    "value": "Ganymede (木星)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode32": {
+    "value": "Ganymede (木星)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode33": {
+    "value": "Ganymede (木星)",
+    "enemy": "Corpus",
+    "type": "Disruption"
   },
   "EventNode761": {
     "value": "The Index",

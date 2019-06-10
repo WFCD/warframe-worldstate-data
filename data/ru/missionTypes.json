@@ -1,15 +1,27 @@
 {
-  "MT_EXCAVATE": {
-    "value": "Раскопки"
+  "MT_ARENA": {
+    "value": "Ратуум"
   },
-  "MT_SABOTAGE": {
-    "value": "Диверсия"
-  },
-  "MT_MOBILE_DEFENSE": {
-    "value": "Мобильная Оборона"
+  "MT_ASSAULT": {
+    "value": "Штурм"
   },
   "MT_ASSASSINATION": {
     "value": "Убийство"
+  },
+  "MT_CAPTURE": {
+    "value": "Захват"
+  },
+  "MT_DEFENSE": {
+    "value": "Оборона"
+  },
+  "MT_DISRUPTION": {
+    "value": "Disruption"
+  },
+  "MT_EVACUATION": {
+    "value": "Defection"
+  },
+  "MT_EXCAVATE": {
+    "value": "Раскопки"
   },
   "MT_EXTERMINATION": {
     "value": "Зачистка"
@@ -17,14 +29,14 @@
   "MT_HIVE": {
     "value": "Улей"
   },
-  "MT_DEFENSE": {
-    "value": "Оборона"
+  "MT_INTEL": {
+    "value": "Шпионаж"
   },
-  "MT_TERRITORY": {
-    "value": "Перехват"
+  "MT_LANDSCAPE": {
+    "value": "Free Roam"
   },
-  "MT_ARENA": {
-    "value": "Ратуум"
+  "MT_MOBILE_DEFENSE": {
+    "value": "Мобильная Оборона"
   },
   "MT_PVP": {
     "value": "Конклав"
@@ -32,28 +44,19 @@
   "MT_RESCUE": {
     "value": "Спасение"
   },
-  "MT_INTEL": {
-    "value": "Шпионаж"
+  "MT_RETRIEVAL": {
+    "value": "Налёт"
   },
-  "MT_SURVIVAL": {
-    "value": "Выживание"
-  },
-  "MT_CAPTURE": {
-    "value": "Захват"
+  "MT_SABOTAGE": {
+    "value": "Диверсия"
   },
   "MT_SECTOR": {
     "value": "Темный Сектор"
   },
-  "MT_RETRIEVAL": {
-    "value": "Налёт"
+  "MT_SURVIVAL": {
+    "value": "Выживание"
   },
-  "MT_ASSAULT": {
-    "value": "Штурм"
-  },
-  "MT_EVACUATION": {
-    "value": "Defection"
-  },
-  "MT_LANDSCAPE": {
-    "value": "Free Roam"
+  "MT_TERRITORY": {
+    "value": "Перехват"
   }
 }
