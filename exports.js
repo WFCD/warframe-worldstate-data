@@ -1,6 +1,6 @@
 'use strict';
 
-const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'en'];
+const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh'];
 
 /**
  * Safely require path, fall back to fallback if module cannot loa
@@ -117,5 +117,7 @@ locales.forEach((locale) => {
     synthTargets: safeRequire(`./data/${locale}/synthTargets.json`, []),
   };
 });
+
+locales.push('en');
 
 module.exports = stuff;
