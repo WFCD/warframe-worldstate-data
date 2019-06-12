@@ -1,17 +1,20 @@
 {
-  "FC_GRINEER": {
-    "value": "Grineer"
-  },
   "FC_CORPUS": {
     "value": "Corpus"
-  },
-  "FC_INFESTATION": {
-    "value": "Infestado"
   },
   "FC_CORRUPTED": {
     "value": "Corrompido"
   },
+  "FC_GRINEER": {
+    "value": "Grineer"
+  },
+  "FC_INFESTATION": {
+    "value": "Infestado"
+  },
   "FC_OROKIN": {
     "value": "Orokin"
+  },
+  "FC_SENTIENT": {
+    "value": "Sentient"
   }
 }
