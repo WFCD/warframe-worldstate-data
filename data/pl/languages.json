@@ -5586,6 +5586,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimagebaroicon": {
     "value": "Ki'Teer Tribute Glyph"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/avatarimagebarotwoicon": {
+    "value": "Prisma Lotus Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageitem1": {
     "value": "Excalibur Profile Icon"
   },
@@ -11007,6 +11010,9 @@
   "/lotus/storeitems/upgrades/skins/spectres/spectrecustomization": {
     "value": "Helmet Or Syandana"
   },
+  "/lotus/storeitems/upgrades/skins/summersolstice/summerignisskin": {
+    "value": "Ignis Towsun Skin"
+  },
   "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticegorgon": {
     "value": "Gorgon Towsun Skin"
   },
@@ -12268,7 +12274,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
     "value": "Conservationist",
-    "desc": "Complete 10 Perfect Animal Captures"
+    "desc": "Complete 6 Perfect Animal Captures"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
     "value": "Enhance!",
@@ -12276,7 +12282,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
     "value": "Earth Bounty Hunter",
-    "desc": "Complete 8 Bounties in the Plains of Eidolon"
+    "desc": "Complete 5 different Bounties in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
     "value": "Cache Hunter",
@@ -12316,27 +12322,23 @@
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
     "value": "Elite Test Subject",
-    "desc": "Complete 3 waves of Elite Sanctuary Onslaught"
+    "desc": "Complete 8 Zones of Elite Sanctuary Onslaught"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardexterminatenoalarm": {
     "value": "Silent Eliminator",
     "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
-    "value": "Defense with Friends",
-    "desc": "Complete a Defense mission reaching at least wave 40, while playing with a friend or clanmate"
+    "value": "Obrona",
+    "desc": "Complete a Defense mission reaching at least Wave 20"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
-    "value": "Kill Profit-Taker with Friends",
-    "desc": "Kill Profit-Taker while playing with a friend or clanmate"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssortie": {
-    "value": "Sortie with Friends",
-    "desc": "Complete a Sortie while playing with a friend or clanmate"
+    "value": "Kill Profit-Taker",
+    "desc": "Kill Profit-Taker"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "value": "Survival with Friends",
-    "desc": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
+    "value": "Survival",
+    "desc": "Complete a Survival mission reaching at least 30 minutes"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
     "value": "Day Trader",
@@ -12360,7 +12362,7 @@
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
     "value": "Hold Your Breath",
-    "desc": "Survive for over 60 minutes without using Life Suport Modules in Kuva Survival"
+    "desc": "Survive for over 30 minutes without using Life Suport Modules in Kuva Survival"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
     "value": "Ascendant",
