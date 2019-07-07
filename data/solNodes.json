@@ -1,4 +1,519 @@
 {
+  "/Lotus/Types/Keys/SortieBossKeyPhorid": {
+    "value": "Sortie Boss: Phorid",
+    "enemy": "Infested",
+    "type": "Assassination"
+  },
+  "ClanNode0": {
+    "value": "Romula (Venus)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode1": {
+    "value": "Malva (Venus)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode2": {
+    "value": "Coba (Earth)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode3": {
+    "value": "Tikal (Earth)",
+    "enemy": "Infested",
+    "type": "Dark Sector Excavation"
+  },
+  "ClanNode4": {
+    "value": "Sinai (Jupiter)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode5": {
+    "value": "Cameria (Jupiter)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode6": {
+    "value": "Larzac (Europa)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode7": {
+    "value": "Cholistan (Europa)",
+    "enemy": "Infested",
+    "type": "Dark Sector Excavation"
+  },
+  "ClanNode8": {
+    "value": "Kadesh (Mars)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode9": {
+    "value": "Wahiba (Mars)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode10": {
+    "value": "Memphis (Phobos)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defection"
+  },
+  "ClanNode11": {
+    "value": "Zeugma (Phobos)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode12": {
+    "value": "Caracol (Saturn)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defection"
+  },
+  "ClanNode13": {
+    "value": "Piscinas (Saturn)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode14": {
+    "value": "Amarna (Sedna)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode15": {
+    "value": "Sangeru (Sedna)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode16": {
+    "value": "Ur (Uranus)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode17": {
+    "value": "Assur (Uranus)",
+    "enemy": "Infested",
+    "type": "Dark Sector Sabotage"
+  },
+  "ClanNode18": {
+    "value": "Akkad (Eris)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode19": {
+    "value": "Zabala (Eris)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode20": {
+    "value": "Yursa (Neptune)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defection"
+  },
+  "ClanNode21": {
+    "value": "Kelashin (Neptune)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode22": {
+    "value": "Seimeni (Ceres)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode23": {
+    "value": "Gabii (Ceres)",
+    "enemy": "Infested",
+    "type": "Dark Sector Survival"
+  },
+  "ClanNode24": {
+    "value": "Sechura (Pluto)",
+    "enemy": "Infested",
+    "type": "Dark Sector Defense"
+  },
+  "ClanNode25": {
+    "value": "Hieracon (Pluto)",
+    "enemy": "Infested",
+    "type": "Dark Sector Excavation"
+  },
+  "EarthHUB": {
+    "value": "Strata Relay (Earth)",
+    "enemy": "Grineer",
+    "type": "Relay"
+  },
+  "ErisHUB": {
+    "value": "Kuiper Relay (Eris)",
+    "enemy": "Infested",
+    "type": "Relay"
+  },
+  "EuropaHUB": {
+    "value": "Leonov Relay (Europa)",
+    "enemy": "Corpus",
+    "type": "Relay"
+  },
+  "EventNode0": {
+    "value": "Balor",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode1": {
+    "value": "Tethra",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode2": {
+    "value": "Operation Gate Crash",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode3": {
+    "value": "Elatha",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode4": {
+    "value": "Bres",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode5": {
+    "value": "Birog",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode6": {
+    "value": "Tyl Reygor Seal Lab",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode7": {
+    "value": "Buarainech",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode8": {
+    "value": "Corb",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode9": {
+    "value": "Operation Gate Crash Pt. 2",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode10": {
+    "value": "Lugh",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode11": {
+    "value": "Nemed",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode12": {
+    "value": "Operation Cryotic Front",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode13": {
+    "value": "Shifting Sands",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode14": {
+    "value": "Gate Crash",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode15": {
+    "value": "Operation Cryotic Front",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode16": {
+    "value": "Operation Cryotic Front",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode17": {
+    "value": "Operation Cryotic Front",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode18": {
+    "value": "Operation Blackout Pt. 1",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode19": {
+    "value": "Mars",
+    "enemy": "Grineer",
+    "type": "Defense"
+  },
+  "EventNode20": {
+    "value": "Tyl Regor Sea Lab",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode22": {
+    "value": "Tyl Regor Sea Lab",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution"
+  },
+  "EventNode24": {
+    "value": "Earth",
+    "enemy": "Infested",
+    "type": "Rescue"
+  },
+  "EventNode25": {
+    "value": "Earth",
+    "enemy": "Grineer",
+    "type": "Interception"
+  },
+  "EventNode26": {
+    "value": "Earth",
+    "enemy": "Grineer",
+    "type": "Exterminate"
+  },
+  "EventNode27": {
+    "value": "Void",
+    "enemy": "Corrupted",
+    "type": "Survival"
+  },
+  "EventNode28": {
+    "value": "Saturn",
+    "enemy": "Grineer",
+    "type": "Assassination"
+  },
+  "EventNode29": {
+    "value": "Saturn",
+    "enemy": "Grineer",
+    "type": "Assassination"
+  },
+  "EventNode30": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode31": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode32": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode33": {
+    "value": "Ganymede (Jupiter)",
+    "enemy": "Corpus",
+    "type": "Disruption"
+  },
+  "EventNode761": {
+    "value": "The Index",
+    "enemy": "Corpus",
+    "type": "Arena"
+  },
+  "EventNode762": {
+    "value": "The Index pt 2",
+    "enemy": "Corpus",
+    "type": "Arena"
+  },
+  "EventNode763": {
+    "value": "The Index Endurance",
+    "enemy": "Corpus",
+    "type": "Arena"
+  },  
+  "MercuryHUB": {
+    "value": "Larunda Relay (Mercury)",
+    "enemy": "Grineer",
+    "type": "Relay"
+  },
+  "PlutoHUB": {
+    "value": "Orcus Relay (Pluto)",
+    "enemy": "Corpus",
+    "type": "Relay"
+  },  
+  "PvpNode0": {
+    "value": "Conclave Capture the Cephalon",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode1": {
+    "value": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode2": {
+    "value": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode3": {
+    "value": "Conclave Capture the Cephalon",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode4": {
+    "value": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode5": {
+    "value": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode6": {
+    "value": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode7": {
+    "value": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode8": {
+    "value": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode9": {
+    "value": "Conclave Team Domination",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode10": {
+    "value": "Conclave Domination",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode11": {
+    "value": "Conclave Domination",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode12": {
+    "value": "Conclave Domination",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode13": {
+    "value": "Tactical Alert: Snoball Fight!",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "PvpNode14": {
+    "value": "Conclave: Quick Steel",
+    "enemy": "Tenno",
+    "type": "Conclave"
+  },
+  "SaturnHUB": {
+    "value": "Kronia Relay (Saturn)",
+    "enemy": "Grineer",
+    "type": "Relay"
+  },
+  "SettlementNode1": {
+    "value": "Roche (Phobos)",
+    "enemy": "Corpus",
+    "type": "Exterminate"
+  },
+  "SettlementNode2": {
+    "value": "Skyresh (Phobos)",
+    "enemy": "Corpus",
+    "type": "Capture"
+  },
+  "SettlementNode3": {
+    "value": "Stickney (Phobos)",
+    "enemy": "Corpus",
+    "type": "Survival"
+  },
+  "SettlementNode4": {
+    "value": "Drunlo (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode5": {
+    "value": "Grildrig (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode6": {
+    "value": "Limtoc (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode7": {
+    "value": "Hall (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode8": {
+    "value": "Reldresal (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode9": {
+    "value": "Clustril (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode10": {
+    "value": "Kepler (Phobos)",
+    "enemy": "Corpus",
+    "type": "Rush (Archwing)"
+  },
+  "SettlementNode11": {
+    "value": "Gulliver (Phobos)",
+    "enemy": "Corpus",
+    "type": "Defense"
+  },
+  "SettlementNode12": {
+    "value": "Monolith (Phobos)",
+    "enemy": "Corpus",
+    "type": "Rescue"
+  },
+  "SettlementNode13": {
+    "value": "D'Arrest (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode14": {
+    "value": "Shklovsky (Phobos)",
+    "enemy": "Corpus",
+    "type": "Spy"
+  },
+  "SettlementNode15": {
+    "value": "Sharpless (Phobos)",
+    "enemy": "Corpus",
+    "type": "Mobile Defense"
+  },
+  "SettlementNode16": {
+    "value": "Wendell (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode17": {
+    "value": "Flimnap (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode18": {
+    "value": "Opik (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode19": {
+    "value": "Todd (Phobos)",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution"
+  },
+  "SettlementNode20": {
+    "value": "Iliad (Phobos)",
+    "enemy": "Corpus",
+    "type": "Assassination"
+  },
   "SolNode0": {
     "value": "SolNode0",
     "enemy": "Sentient",
@@ -1324,524 +1839,12 @@
     "enemy": "Corpus",
     "type": "Rescue"
   },
-  "SettlementNode1": {
-    "value": "Roche (Phobos)",
-    "enemy": "Corpus",
-    "type": "Exterminate"
-  },
-  "SettlementNode2": {
-    "value": "Skyresh (Phobos)",
-    "enemy": "Corpus",
-    "type": "Capture"
-  },
-  "SettlementNode3": {
-    "value": "Stickney (Phobos)",
-    "enemy": "Corpus",
-    "type": "Survival"
-  },
-  "SettlementNode4": {
-    "value": "Drunlo (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode5": {
-    "value": "Grildrig (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode6": {
-    "value": "Limtoc (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode7": {
-    "value": "Hall (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode8": {
-    "value": "Reldresal (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode9": {
-    "value": "Clustril (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode10": {
-    "value": "Kepler (Phobos)",
-    "enemy": "Corpus",
-    "type": "Rush (Archwing)"
-  },
-  "SettlementNode11": {
-    "value": "Gulliver (Phobos)",
-    "enemy": "Corpus",
-    "type": "Defense"
-  },
-  "SettlementNode12": {
-    "value": "Monolith (Phobos)",
-    "enemy": "Corpus",
-    "type": "Rescue"
-  },
-  "SettlementNode13": {
-    "value": "D'Arrest (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode14": {
-    "value": "Shklovsky (Phobos)",
-    "enemy": "Corpus",
-    "type": "Spy"
-  },
-  "SettlementNode15": {
-    "value": "Sharpless (Phobos)",
-    "enemy": "Corpus",
-    "type": "Mobile Defense"
-  },
-  "SettlementNode16": {
-    "value": "Wendell (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode17": {
-    "value": "Flimnap (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode18": {
-    "value": "Opik (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode19": {
-    "value": "Todd (Phobos)",
-    "enemy": "Corpus",
-    "type": "Ancient Retribution"
-  },
-  "SettlementNode20": {
-    "value": "Iliad (Phobos)",
-    "enemy": "Corpus",
-    "type": "Assassination"
-  },
-  "MercuryHUB": {
-    "value": "Larunda Relay (Mercury)",
-    "enemy": "Grineer",
-    "type": "Relay"
+  "TennoConHUB2": {
+    "value": "TennoCon Relay (Earth)"    
   },
   "VenusHUB": {
     "value": "Vesper Relay (Venus)",
     "enemy": "Corpus",
     "type": "Relay"
-  },
-  "EarthHUB": {
-    "value": "Strata Relay (Earth)",
-    "enemy": "Grineer",
-    "type": "Relay"
-  },
-  "SaturnHUB": {
-    "value": "Kronia Relay (Saturn)",
-    "enemy": "Grineer",
-    "type": "Relay"
-  },
-  "ErisHUB": {
-    "value": "Kuiper Relay (Eris)",
-    "enemy": "Infested",
-    "type": "Relay"
-  },
-  "EuropaHUB": {
-    "value": "Leonov Relay (Europa)",
-    "enemy": "Corpus",
-    "type": "Relay"
-  },
-  "PlutoHUB": {
-    "value": "Orcus Relay (Pluto)",
-    "enemy": "Corpus",
-    "type": "Relay"
-  },
-  "EventNode0": {
-    "value": "Balor",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode1": {
-    "value": "Tethra",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode2": {
-    "value": "Operation Gate Crash",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode3": {
-    "value": "Elatha",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode4": {
-    "value": "Bres",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode5": {
-    "value": "Birog",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode6": {
-    "value": "Tyl Reygor Seal Lab",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode7": {
-    "value": "Buarainech",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode8": {
-    "value": "Corb",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode9": {
-    "value": "Operation Gate Crash Pt. 2",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode10": {
-    "value": "Lugh",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode11": {
-    "value": "Nemed",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode12": {
-    "value": "Operation Cryotic Front",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode13": {
-    "value": "Shifting Sands",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode14": {
-    "value": "Gate Crash",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode15": {
-    "value": "Operation Cryotic Front",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode16": {
-    "value": "Operation Cryotic Front",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode17": {
-    "value": "Operation Cryotic Front",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode18": {
-    "value": "Operation Blackout Pt. 1",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode19": {
-    "value": "Mars",
-    "enemy": "Grineer",
-    "type": "Defense"
-  },
-  "EventNode20": {
-    "value": "Tyl Regor Sea Lab",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode22": {
-    "value": "Tyl Regor Sea Lab",
-    "enemy": "Sentient",
-    "type": "Ancient Retribution"
-  },
-  "EventNode24": {
-    "value": "Earth",
-    "enemy": "Infested",
-    "type": "Rescue"
-  },
-  "EventNode25": {
-    "value": "Earth",
-    "enemy": "Grineer",
-    "type": "Interception"
-  },
-  "EventNode26": {
-    "value": "Earth",
-    "enemy": "Grineer",
-    "type": "Exterminate"
-  },
-  "EventNode27": {
-    "value": "Void",
-    "enemy": "Corrupted",
-    "type": "Survival"
-  },
-  "EventNode28": {
-    "value": "Saturn",
-    "enemy": "Grineer",
-    "type": "Assassination"
-  },
-  "EventNode29": {
-    "value": "Saturn",
-    "enemy": "Grineer",
-    "type": "Assassination"
-  },
-  "EventNode30": {
-    "value": "Ganymede (Jupiter)",
-    "enemy": "Corpus",
-    "type": "Disruption"
-  },
-  "EventNode31": {
-    "value": "Ganymede (Jupiter)",
-    "enemy": "Corpus",
-    "type": "Disruption"
-  },
-  "EventNode32": {
-    "value": "Ganymede (Jupiter)",
-    "enemy": "Corpus",
-    "type": "Disruption"
-  },
-  "EventNode33": {
-    "value": "Ganymede (Jupiter)",
-    "enemy": "Corpus",
-    "type": "Disruption"
-  },
-  "EventNode761": {
-    "value": "The Index",
-    "enemy": "Corpus",
-    "type": "Arena"
-  },
-  "EventNode762": {
-    "value": "The Index pt 2",
-    "enemy": "Corpus",
-    "type": "Arena"
-  },
-  "EventNode763": {
-    "value": "The Index Endurance",
-    "enemy": "Corpus",
-    "type": "Arena"
-  },
-  "PvpNode0": {
-    "value": "Conclave Capture the Cephalon",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode1": {
-    "value": "Conclave",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode2": {
-    "value": "Conclave",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode3": {
-    "value": "Conclave Capture the Cephalon",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode4": {
-    "value": "Conclave",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode5": {
-    "value": "Conclave",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode6": {
-    "value": "Conclave",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode7": {
-    "value": "Conclave",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode8": {
-    "value": "Conclave",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode9": {
-    "value": "Conclave Team Domination",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode10": {
-    "value": "Conclave Domination",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode11": {
-    "value": "Conclave Domination",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode12": {
-    "value": "Conclave Domination",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode13": {
-    "value": "Tactical Alert: Snoball Fight!",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "PvpNode14": {
-    "value": "Conclave: Quick Steel",
-    "enemy": "Tenno",
-    "type": "Conclave"
-  },
-  "ClanNode0": {
-    "value": "Romula (Venus)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode1": {
-    "value": "Malva (Venus)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode2": {
-    "value": "Coba (Earth)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode3": {
-    "value": "Tikal (Earth)",
-    "enemy": "Infested",
-    "type": "Dark Sector Excavation"
-  },
-  "ClanNode4": {
-    "value": "Sinai (Jupiter)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode5": {
-    "value": "Cameria (Jupiter)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode6": {
-    "value": "Larzac (Europa)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode7": {
-    "value": "Cholistan (Europa)",
-    "enemy": "Infested",
-    "type": "Dark Sector Excavation"
-  },
-  "ClanNode8": {
-    "value": "Kadesh (Mars)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode9": {
-    "value": "Wahiba (Mars)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode10": {
-    "value": "Memphis (Phobos)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defection"
-  },
-  "ClanNode11": {
-    "value": "Zeugma (Phobos)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode12": {
-    "value": "Caracol (Saturn)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defection"
-  },
-  "ClanNode13": {
-    "value": "Piscinas (Saturn)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode14": {
-    "value": "Amarna (Sedna)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode15": {
-    "value": "Sangeru (Sedna)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode16": {
-    "value": "Ur (Uranus)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode17": {
-    "value": "Assur (Uranus)",
-    "enemy": "Infested",
-    "type": "Dark Sector Sabotage"
-  },
-  "ClanNode18": {
-    "value": "Akkad (Eris)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode19": {
-    "value": "Zabala (Eris)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode20": {
-    "value": "Yursa (Neptune)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defection"
-  },
-  "ClanNode21": {
-    "value": "Kelashin (Neptune)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode22": {
-    "value": "Seimeni (Ceres)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode23": {
-    "value": "Gabii (Ceres)",
-    "enemy": "Infested",
-    "type": "Dark Sector Survival"
-  },
-  "ClanNode24": {
-    "value": "Sechura (Pluto)",
-    "enemy": "Infested",
-    "type": "Dark Sector Defense"
-  },
-  "ClanNode25": {
-    "value": "Hieracon (Pluto)",
-    "enemy": "Infested",
-    "type": "Dark Sector Excavation"
-  },
-  "/Lotus/Types/Keys/SortieBossKeyPhorid": {
-    "value": "Sortie Boss: Phorid",
-    "enemy": "Infested",
-    "type": "Assassination"
-  }
+  }    
 }

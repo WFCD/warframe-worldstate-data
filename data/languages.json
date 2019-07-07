@@ -830,6 +830,12 @@
   "/lotus/language/items/orokinreactor": {
     "value": "Orokin Reactor"
   },
+  "/lotus/language/locations/relaystationtennocon": {
+    "value": "TennoCon Relay"
+  },
+  "/lotus/language/locations/relaystationtennocondesc": {
+    "value": "Exclusive Digital ticket holder Relay right this way!"
+  },
   "/lotus/language/menu/corpusinvasiongeneric": {
     "value": "Corpus Siege"
   },
@@ -12211,6 +12217,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
     "value": "Good Friend",
     "desc": "Help Clem with his weekly mission"
+  },  
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletedisruptionconduits": {
+    "value": "Don't Blow It",
+    "desc": "Complete 12 Conduits in Disruption"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteexterminate": {
     "value": "Eliminator",
