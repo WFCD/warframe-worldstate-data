@@ -1840,7 +1840,9 @@
     "type": "Rescue"
   },
   "TennoConHUB2": {
-    "value": "TennoCon Relay (Earth)"    
+    "value": "TennoCon Relay (Earth)",
+    "enemy": "Grineer",
+    "type": "Relay"
   },
   "VenusHUB": {
     "value": "Vesper Relay (Venus)",
