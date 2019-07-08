@@ -830,6 +830,12 @@
   "/lotus/language/items/orokinreactor": {
     "value": "Реактор Орокин"
   },
+  "/lotus/language/locations/relaystationtennocon": {
+    "value": "TennoCon Relay"
+  },
+  "/lotus/language/locations/relaystationtennocondesc": {
+    "value": "Exclusive Digital ticket holder Relay right this way!"
+  },
   "/lotus/language/menu/corpusinvasiongeneric": {
     "value": "Осада Корпуса"
   },
@@ -12192,6 +12198,10 @@
     "value": "Hacker",
     "desc": "Hack 8 Consoles"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
+    "value": "Everything Old is New Again",
+    "desc": "Transmute 3 Mods"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
     "value": "Earth Fisher",
     "desc": "Catch 6 Rare Fish in the Plains of Eidolon"
@@ -12211,6 +12221,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
     "value": "Good Friend",
     "desc": "Help Clem with his weekly mission"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletedisruptionconduits": {
+    "value": "Don't Blow It",
+    "desc": "Complete 12 Conduits in Disruption"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteexterminate": {
     "value": "Eliminator",
