@@ -12086,14 +12086,10 @@
     "value": "Trampoline",
     "desc": "Bullet Jump 150 times"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
-    "value": "Graffiti",
-    "desc": "Deploy a Glyph while in a mission"
-  },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
     "value": "Researcher",
     "desc": "Scan 25 Objects or Enemies"
-  },
+  },    
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
     "value": "Saver",
     "desc": "Pick up 15,000 Credits"
@@ -12102,6 +12098,14 @@
     "value": "Agent",
     "desc": "Complete a Mission"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
+    "value": "Graffiti",
+    "desc": "Deploy a Glyph while in a mission"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
+    "value": "Loyalty",
+    "desc": "Interact with your Kubrow or Kavat"
+  },  
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
     "value": "Warning Shot",
     "desc": "Kill 200 Enemies"
@@ -12200,7 +12204,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "Everything Old is New Again",
-    "desc": "Transmute 3 Mods"
+    "desc": "Complete 3 Transmutations"
   },  
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
     "value": "Earth Fisher",
