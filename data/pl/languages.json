@@ -5296,7 +5296,7 @@
     "value": "Grustrag Three Beacon"
   },
   "/lotus/storeitems/types/restoratives/consumable/barofireworkscrate": {
-    "value": "Ki'Teer Fireworks"
+    "value": "10x Ki'Teer Fireworks"
   },
   "/lotus/storeitems/types/restoratives/consumable/betacorruptor": {
     "value": "Beta Corruptor"
@@ -5308,7 +5308,7 @@
     "value": "Charger Specter"
   },
   "/lotus/storeitems/types/restoratives/consumable/corruptedheavygunnerball": {
-    "value": "Corrupted Heavy Gunner Specter"
+    "value": "5x Corrupted Heavy Gunner Specter"
   },
   "/lotus/storeitems/types/restoratives/consumable/corruptedlancerball": {
     "value": "Corrupted Lancer Specter"
@@ -8884,7 +8884,7 @@
     "value": "Dendra Leg Guard"
   },
   "/lotus/storeitems/upgrades/skins/armor/furisarmor/prismafurisaarmor": {
-    "value": "Prisma Avia Shoulder Plates"
+    "value": "Prisma Avia Shoulder Plate"
   },
   "/lotus/storeitems/upgrades/skins/armor/furisarmor/prismafurisalarmor": {
     "value": "Prisma Avia Shoulder Plate"
@@ -8896,7 +8896,7 @@
     "value": "Prisma Avia Chest Plate"
   },
   "/lotus/storeitems/upgrades/skins/armor/furisarmor/prismafurislarmor": {
-    "value": "Prisma Avia Leg Plates"
+    "value": "Prisma Avia Ankle Plate"
   },
   "/lotus/storeitems/upgrades/skins/armor/furisarmor/prismafurisllarmor": {
     "value": "Prisma Avia Leg Plate"
@@ -8929,7 +8929,7 @@
     "value": "Harkonar Wraith Right Spaulders"
   },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbineschestarmor": {
-    "value": "Harkonar Wraith Chestbuard"
+    "value": "Harkonar Wraith Chest Armor"
   },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbineslegarmor": {
     "value": "Harkonar Wraith Leg Armor"
@@ -9249,6 +9249,12 @@
   "/lotus/storeitems/upgrades/skins/clan/amalgameventbadgeitem": {
     "value": "Hostile Mergers Emblem"
   },
+  "/lotus/storeitems/upgrades/skins/clan/barokavatbadgeitem": {
+    "value": "Glaring Emblem"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/barokubrowbadgeitem": {
+    "value": "Pack Leader Emblem"
+  },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
     "value": "Ki'Teer Sekhara"
   },
@@ -9437,6 +9443,9 @@
   },
   "/lotus/storeitems/upgrades/skins/cowgirl/mesaaltbhelmet": {
     "value": "Mesa Ovis Helmet"
+  },
+  "/lotus/storeitems/upgrades/skins/cowgirl/mesaimmortallskin": {
+    "value": "Mesa Immortal Skin"
   },
   "/lotus/storeitems/upgrades/skins/cowgirl/unlockcowgirlagile": {
     "value": "Mesa Agile Animation Set"
@@ -12086,10 +12095,6 @@
     "value": "Trampoline",
     "desc": "Bullet Jump 150 times"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
-    "value": "Graffiti",
-    "desc": "Deploy a Glyph while in a mission"
-  },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
     "value": "Researcher",
     "desc": "Scan 25 Objects or Enemies"
@@ -12101,6 +12106,14 @@
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
     "value": "Agent",
     "desc": "Complete a Mission"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
+    "value": "Graffiti",
+    "desc": "Deploy a Glyph while in a mission"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
+    "value": "Loyalty",
+    "desc": "Interact with your Kubrow or Kavat"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
     "value": "Warning Shot",
@@ -12200,7 +12213,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "Everything Old is New Again",
-    "desc": "Transmute 3 Mods"
+    "desc": "Complete 3 Transmutations"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
     "value": "Earth Fisher",
