@@ -9841,7 +9841,7 @@
     "value": "Casco Trivelin de Mirage"
   },
   "/lotus/storeitems/upgrades/skins/harlequin/miragealternateskin": {
-    "value": "Mirage İmmortal Skin"
+    "value": "Mirage Immortal Skin"
   },
   "/lotus/storeitems/upgrades/skins/harlequin/miragexmasskin": {
     "value": "Diseño de invierno de Mirage"
@@ -12106,6 +12106,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
     "value": "Agent",
     "desc": "Complete a Mission"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
+    "value": "Air It Out",
+    "desc": "Deploy an Air Support Charge in a Mission"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
     "value": "Graffiti",
