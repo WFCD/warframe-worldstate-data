@@ -830,6 +830,12 @@
   "/lotus/language/items/orokinreactor": {
     "value": "Reator Orokin"
   },
+  "/lotus/language/locations/relaystationtennocon": {
+    "value": "TennoCon Relay"
+  },
+  "/lotus/language/locations/relaystationtennocondesc": {
+    "value": "Exclusive Digital ticket holder Relay right this way!"
+  },
   "/lotus/language/menu/corpusinvasiongeneric": {
     "value": "Cerco Corpus"
   },
@@ -5290,7 +5296,7 @@
     "value": "Sinalizador: Grustrag Three"
   },
   "/lotus/storeitems/types/restoratives/consumable/barofireworkscrate": {
-    "value": "Ki'Teer Fireworks"
+    "value": "10x Ki'Teer Fireworks"
   },
   "/lotus/storeitems/types/restoratives/consumable/betacorruptor": {
     "value": "Corruptor beta"
@@ -5302,7 +5308,7 @@
     "value": "Espectro: Charger"
   },
   "/lotus/storeitems/types/restoratives/consumable/corruptedheavygunnerball": {
-    "value": "Corrupted Heavy Gunner Specter"
+    "value": "5x Corrupted Heavy Gunner Specter"
   },
   "/lotus/storeitems/types/restoratives/consumable/corruptedlancerball": {
     "value": "Espectro: Corrupted Lancer"
@@ -8878,7 +8884,7 @@
     "value": "Dendra Leg Guard"
   },
   "/lotus/storeitems/upgrades/skins/armor/furisarmor/prismafurisaarmor": {
-    "value": "Prisma Avia Shoulder Plates"
+    "value": "Prisma Avia Shoulder Plate"
   },
   "/lotus/storeitems/upgrades/skins/armor/furisarmor/prismafurisalarmor": {
     "value": "Prisma Avia Shoulder Plate"
@@ -8890,7 +8896,7 @@
     "value": "Prisma Avia Chest Plate"
   },
   "/lotus/storeitems/upgrades/skins/armor/furisarmor/prismafurislarmor": {
-    "value": "Prisma Avia Leg Plates"
+    "value": "Prisma Avia Ankle Plate"
   },
   "/lotus/storeitems/upgrades/skins/armor/furisarmor/prismafurisllarmor": {
     "value": "Prisma Avia Leg Plate"
@@ -8923,7 +8929,7 @@
     "value": "Harkonar Wraith Right Spaulders"
   },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbineschestarmor": {
-    "value": "Harkonar Wraith Chestbuard"
+    "value": "Harkonar Wraith Chest Armor"
   },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbineslegarmor": {
     "value": "Harkonar Wraith Leg Armor"
@@ -9243,6 +9249,12 @@
   "/lotus/storeitems/upgrades/skins/clan/amalgameventbadgeitem": {
     "value": "Hostile Mergers Emblem"
   },
+  "/lotus/storeitems/upgrades/skins/clan/barokavatbadgeitem": {
+    "value": "Glaring Emblem"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/barokubrowbadgeitem": {
+    "value": "Pack Leader Emblem"
+  },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
     "value": "Ki'Teer Sekhara"
   },
@@ -9431,6 +9443,9 @@
   },
   "/lotus/storeitems/upgrades/skins/cowgirl/mesaaltbhelmet": {
     "value": "Mesa Ovis Helmet"
+  },
+  "/lotus/storeitems/upgrades/skins/cowgirl/mesaimmortallskin": {
+    "value": "Mesa Immortal Skin"
   },
   "/lotus/storeitems/upgrades/skins/cowgirl/unlockcowgirlagile": {
     "value": "Mesa Agile Animation Set"
@@ -9826,7 +9841,7 @@
     "value": "Mirage Trivelin Helmet"
   },
   "/lotus/storeitems/upgrades/skins/harlequin/miragealternateskin": {
-    "value": "Mirage İmmortal Skin"
+    "value": "Mirage Immortal Skin"
   },
   "/lotus/storeitems/upgrades/skins/harlequin/miragexmasskin": {
     "value": "Mirage Winter Skin"
@@ -12080,10 +12095,6 @@
     "value": "Trampoline",
     "desc": "Bullet Jump 150 times"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
-    "value": "Graffiti",
-    "desc": "Deploy a Glyph while in a mission"
-  },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
     "value": "Researcher",
     "desc": "Scan 25 Objects or Enemies"
@@ -12095,6 +12106,18 @@
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
     "value": "Agent",
     "desc": "Complete a Mission"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
+    "value": "Air It Out",
+    "desc": "Deploy an Air Support Charge in a Mission"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
+    "value": "Graffiti",
+    "desc": "Deploy a Glyph while in a mission"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
+    "value": "Loyalty",
+    "desc": "Interact with your Kubrow or Kavat"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
     "value": "Warning Shot",
@@ -12192,6 +12215,10 @@
     "value": "Hacker",
     "desc": "Hack 8 Consoles"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
+    "value": "Everything Old is New Again",
+    "desc": "Complete 3 Transmutations"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
     "value": "Earth Fisher",
     "desc": "Catch 6 Rare Fish in the Plains of Eidolon"
@@ -12211,6 +12238,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
     "value": "Good Friend",
     "desc": "Help Clem with his weekly mission"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletedisruptionconduits": {
+    "value": "Don't Blow It",
+    "desc": "Complete 12 Conduits in Disruption"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteexterminate": {
     "value": "Eliminator",
