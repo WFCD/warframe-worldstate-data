@@ -683,6 +683,9 @@
   "/lotus/language/alerts/survivaldesc1long": {
     "value": "Replenish your depleting oxygen supply by killing enemies and holding out for supply drops."
   },
+  "/lotus/language/alerts/tacalertproxyrebellion": {
+    "value": "Tactical Alert: Proxy Rebelllion"
+  },
   "/lotus/language/alerts/wolfalert": {
     "value": "Tactical Alert: Wolf Hunt"
   },
@@ -1878,6 +1881,9 @@
   "/lotus/storeitems/powersuits/harlequin/prismabilitycard": {
     "value": "Prism"
   },
+  "/lotus/storeitems/powersuits/infestation/infestation": {
+    "value": "Nidus"
+  },  
   "/lotus/storeitems/powersuits/jade/chaosabilitycard": {
     "value": "Chaos"
   },
@@ -15282,6 +15288,9 @@
   },
   "/lotus/types/storeitems/packages/orokinsabotagemodpack": {
     "value": "Gate Crash Mod Pack"
+  },
+  "/lotus/types/storeitems/packages/orokinreactorandcatalystbundle": {
+    "value": "Orokin Upgrade Pack"
   },
   "/lotus/types/storeitems/packages/ostronshipdecopacka": {
     "value": "Reclamator Pack"
