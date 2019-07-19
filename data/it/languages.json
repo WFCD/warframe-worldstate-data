@@ -683,6 +683,9 @@
   "/lotus/language/alerts/survivaldesc1long": {
     "value": "Replenish your depleting oxygen supply by killing enemies and holding out for supply drops."
   },
+  "/lotus/language/alerts/tacalertproxyrebellion": {
+    "value": "Tactical Alert: Proxy Rebelllion"
+  },
   "/lotus/language/alerts/wolfalert": {
     "value": "Tactical Alert: Wolf Hunt"
   },
@@ -1877,6 +1880,9 @@
   },
   "/lotus/storeitems/powersuits/harlequin/prismabilitycard": {
     "value": "Prism"
+  },
+  "/lotus/storeitems/powersuits/infestation/infestation": {
+    "value": "Nidus"
   },
   "/lotus/storeitems/powersuits/jade/chaosabilitycard": {
     "value": "Chaos"
@@ -13720,6 +13726,9 @@
   "/lotus/types/items/shipdecos/grineerchampionsheavybobblehead": {
     "value": "Executioner Dhurnam - Noggle Statue"
   },
+  "/lotus/types/items/shipdecos/lisetpropmandolin": {
+    "value": "Shawzin"
+  },
   "/lotus/types/items/shipdecos/nezhabobblehead": {
     "value": "Nezha - Noggle Statue"
   },
@@ -14971,6 +14980,9 @@
   "/lotus/types/storeitems/packages/djinndeluxecompletebundle": {
     "value": "Gazal Complete Collection"
   },
+  "/lotus/types/storeitems/packages/domestikdronesbundle": {
+    "value": "Domestik Drones Bundle"
+  },
   "/lotus/types/storeitems/packages/doubleaffinitypack": {
     "value": "Double Affinity Weekend Pack"
   },
@@ -15045,6 +15057,12 @@
   },
   "/lotus/types/storeitems/packages/grineervhitemsbundle": {
     "value": "Maggor Assault Pack"
+  },
+  "/lotus/types/storeitems/packages/grnamphisarmorbundle": {
+    "value": "Galvanik Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/grnamphisitemsbundle": {
+    "value": "Quatz Collection"
   },
   "/lotus/types/storeitems/packages/grnsealabeventweaponpack": {
     "value": "Dera Vandal Vs. Karak Wraith"
@@ -15282,6 +15300,9 @@
   },
   "/lotus/types/storeitems/packages/orokinsabotagemodpack": {
     "value": "Gate Crash Mod Pack"
+  },
+  "/lotus/types/storeitems/packages/orokinreactorandcatalystbundle": {
+    "value": "Orokin Upgrade Pack"
   },
   "/lotus/types/storeitems/packages/ostronshipdecopacka": {
     "value": "Reclamator Pack"
@@ -15667,6 +15688,9 @@
   "/lotus/upgrades/skins/catbrows/armor/catbrowarmorc": {
     "value": "Myrdin Kavat Armor"
   },
+  "/lotus/upgrades/skins/catbrows/armor/grnamphiskavatarmor": {
+    "value": "Amphix Kavat Armor"
+  },
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "Kuva Kavat Armor"
   },
@@ -15916,6 +15940,9 @@
   "/lotus/upgrades/skins/kubrows/armor/grineerqueenarmor": {
     "value": "Kuva Armor Collection"
   },
+  "/lotus/upgrades/skins/kubrows/armor/grnamphiskubrowarmor": {
+    "value": "Amphatz Kubrow Armor"
+  },
   "/lotus/upgrades/skins/kubrows/armor/pacifistkubrowarmor": {
     "value": "Sloughi Kubrow Armor"
   },
@@ -16065,6 +16092,9 @@
   },
   "/lotus/upgrades/skins/scarves/flamescarf": {
     "value": "Pyra Synadana"
+  },
+  "/lotus/upgrades/skins/scarves/grnamphisscarf": {
+    "value": "Amphor Syandana"
   },
   "/lotus/upgrades/skins/scarves/grnqueenscarf": {
     "value": "Kuva Cloak"
@@ -16458,6 +16488,9 @@
   },
   "/lotus/weapons/grineer/pistols/grineermicrowavegun/grnmicrowavepistol": {
     "value": "Nukor"
+  },
+  "/lotus/weapons/grineer/pistols/grnamphispistol/grnamphispistol": {
+    "value": "Quatz"
   },
   "/lotus/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
     "value": "Twin Kohmak"
