@@ -60,5 +60,8 @@
   "bugs": {
     "url": "https://github.com/wfcd/warframe-worldstate-data/issues"
   },
-  "homepage": "https://github.com/wfcd/warframe-worldstate-data#readme"
+  "homepage": "https://github.com/wfcd/warframe-worldstate-data#readme",
+  "release": {
+    "branch": "master"
+  }
 }
