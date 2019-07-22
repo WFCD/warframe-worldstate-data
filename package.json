@@ -22,9 +22,8 @@
   "scripts": {
     "lint": "npx eslint --ignore-path .gitignore .",
     "lint:fix": "npx eslint --ignore-path .gitignore . --fix",
-    "test": "npm run lint && npx mocha",
-    "sort_lang": "python tools/sort_languages.py",
-    "postversion": "git push && git push --tags"
+    "test": "npx mocha",
+    "sort_lang": "python tools/sort_languages.py"
   },
   "repository": {
     "type": "git",

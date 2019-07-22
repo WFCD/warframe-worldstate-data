@@ -9,6 +9,11 @@ node_js:
   - 'node'
   - 'lts/*'
 
+stages:
+  - lint
+  - test
+  - release
+
 jobs:
   include:
     - stage: lint
