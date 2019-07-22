@@ -3893,7 +3893,10 @@
   },
   "/lotus/storeitems/types/items/shipdecos/hydroidbobblehead": {
     "value": "Noggle Statue - Hydroid"
-  },
+  },  
+  "/lotus/storeitems/types/items/shipdecos/kavatbust": {
+    "value": "Bronze Kavat Bust"
+  },  
   "/lotus/storeitems/types/items/shipdecos/kubrowbust": {
     "value": "Bronze Kubrow Bust"
   },
@@ -12167,7 +12170,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
     "value": "Attractive",
-    "desc": "Kill 150 Enemies with Magnetic Damage"
+    "desc": "Kill 150 Enemies with Magnetic damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
     "value": "Sword Dance",
@@ -12327,7 +12330,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
     "value": "Test Subject",
-    "desc": "Complete 3 waves of Sanctuary Onslaught"
+    "desc": "Complete 8 waves of Sanctuary Onslaught"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
     "value": "Sanctuary Researcher",
@@ -12370,7 +12373,7 @@
     "desc": "Complete a Defense mission reaching at least Wave 20"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
-    "value": "Kill Profit-Taker",
+    "value": "Profit-Taker",
     "desc": "Kill Profit-Taker"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
