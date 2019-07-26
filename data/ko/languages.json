@@ -683,6 +683,9 @@
   "/lotus/language/alerts/survivaldesc1long": {
     "value": "적들을 처치하여 드롭되는 산소통을 모으고, 시간마다 보급되는 생명 유지장치를 사용하여 산소를 채우며 계속해서 주의를 끄세요."
   },
+  "/lotus/language/alerts/tacalertproxyrebellion": {
+    "value": "Tactical Alert: Proxy Rebelllion"
+  },
   "/lotus/language/alerts/wolfalert": {
     "value": "Tactical Alert: Wolf Hunt"
   },
@@ -1877,6 +1880,9 @@
   },
   "/lotus/storeitems/powersuits/harlequin/prismabilitycard": {
     "value": "프리즘"
+  },
+  "/lotus/storeitems/powersuits/infestation/infestation": {
+    "value": "나이더스"
   },
   "/lotus/storeitems/powersuits/jade/chaosabilitycard": {
     "value": "카오스"
@@ -3887,6 +3893,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/hydroidbobblehead": {
     "value": "노글 스태츄 - 하이드로이드"
+  },
+  "/lotus/storeitems/types/items/shipdecos/kavatbust": {
+    "value": "Bronze Kavat Bust"
   },
   "/lotus/storeitems/types/items/shipdecos/kubrowbust": {
     "value": "Bronze Kubrow Bust"
@@ -12161,7 +12170,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
     "value": "Attractive",
-    "desc": "Kill 150 Enemies with Magnetic Damage"
+    "desc": "Kill 150 Enemies with Magnetic damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
     "value": "Sword Dance",
@@ -12321,7 +12330,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
     "value": "Test Subject",
-    "desc": "Complete 3 waves of Sanctuary Onslaught"
+    "desc": "Complete 8 waves of Sanctuary Onslaught"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
     "value": "Sanctuary Researcher",
@@ -12364,7 +12373,7 @@
     "desc": "Complete a Defense mission reaching at least Wave 20"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
-    "value": "Kill Profit-Taker",
+    "value": "Profit-Taker",
     "desc": "Kill Profit-Taker"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
@@ -13720,6 +13729,9 @@
   "/lotus/types/items/shipdecos/grineerchampionsheavybobblehead": {
     "value": "처형인 두르남 - 노글 스태츄"
   },
+  "/lotus/types/items/shipdecos/lisetpropmandolin": {
+    "value": "Shawzin"
+  },
   "/lotus/types/items/shipdecos/nezhabobblehead": {
     "value": "나타 - 노글 스태츄"
   },
@@ -14971,6 +14983,9 @@
   "/lotus/types/storeitems/packages/djinndeluxecompletebundle": {
     "value": "가잘 컴플리트 컬렉션"
   },
+  "/lotus/types/storeitems/packages/domestikdronesbundle": {
+    "value": "Domestik Drones Bundle"
+  },
   "/lotus/types/storeitems/packages/doubleaffinitypack": {
     "value": "두배 경험치 주말 이벤트 패키지"
   },
@@ -15045,6 +15060,12 @@
   },
   "/lotus/types/storeitems/packages/grineervhitemsbundle": {
     "value": "Maggor Assault Pack"
+  },
+  "/lotus/types/storeitems/packages/grnamphisarmorbundle": {
+    "value": "Galvanik Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/grnamphisitemsbundle": {
+    "value": "Quatz Collection"
   },
   "/lotus/types/storeitems/packages/grnsealabeventweaponpack": {
     "value": "데라 반달 Vs. 카락 레이스"
@@ -15282,6 +15303,9 @@
   },
   "/lotus/types/storeitems/packages/orokinsabotagemodpack": {
     "value": "게이트 크래쉬 모드 팩"
+  },
+  "/lotus/types/storeitems/packages/orokinreactorandcatalystbundle": {
+    "value": "Orokin Upgrade Pack"
   },
   "/lotus/types/storeitems/packages/ostronshipdecopacka": {
     "value": "개척자 팩"
@@ -15667,6 +15691,9 @@
   "/lotus/upgrades/skins/catbrows/armor/catbrowarmorc": {
     "value": "미르딘 카반 아머"
   },
+  "/lotus/upgrades/skins/catbrows/armor/grnamphiskavatarmor": {
+    "value": "Amphix Kavat Armor"
+  },
   "/lotus/upgrades/skins/catbrows/armor/grnqueencatbrowarmor": {
     "value": "쿠바 카밧 아머"
   },
@@ -15916,6 +15943,9 @@
   "/lotus/upgrades/skins/kubrows/armor/grineerqueenarmor": {
     "value": "쿠바 아머 컬렉션"
   },
+  "/lotus/upgrades/skins/kubrows/armor/grnamphiskubrowarmor": {
+    "value": "Amphatz Kubrow Armor"
+  },
   "/lotus/upgrades/skins/kubrows/armor/pacifistkubrowarmor": {
     "value": "Sloughi Kubrow Armor"
   },
@@ -16065,6 +16095,9 @@
   },
   "/lotus/upgrades/skins/scarves/flamescarf": {
     "value": "파이라 샨다나"
+  },
+  "/lotus/upgrades/skins/scarves/grnamphisscarf": {
+    "value": "Amphor Syandana"
   },
   "/lotus/upgrades/skins/scarves/grnqueenscarf": {
     "value": "쿠바 클록"
@@ -16458,6 +16491,9 @@
   },
   "/lotus/weapons/grineer/pistols/grineermicrowavegun/grnmicrowavepistol": {
     "value": "뉴코어"
+  },
+  "/lotus/weapons/grineer/pistols/grnamphispistol/grnamphispistol": {
+    "value": "Quatz"
   },
   "/lotus/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
     "value": "트윈 코막"
