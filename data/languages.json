@@ -4443,8 +4443,14 @@
   "/lotus/storeitems/types/recipes/components/corruptedbombardballblueprint": {
     "value": "Corrupted Bombard Specter Blueprint"
   },
+  "/lotus/storeitems/types/recipes/components/formaaurablueprint": {
+    "value": "Aura Forma Blueprint"
+  },
   "/lotus/storeitems/types/recipes/components/formablueprint": {
     "value": "Forma Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/components/formaumbrablueprint": {
+    "value": "Umbra Forma Blueprint"
   },
   "/lotus/storeitems/types/recipes/components/orokincatalystblueprint": {
     "value": "Orokin Catalyst Blueprint"
@@ -10199,6 +10205,9 @@
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroc": {
     "value": "Ki'Teer Atmos Earpiece"
+  },  
+  "/lotus/storeitems/upgrades/skins/ornate/tekelufragorskin": {
+    "value": "Fragor Tekelu Skin"
   },
   "/lotus/storeitems/upgrades/skins/paladin/oberonalternateskin": {
     "value": "Oberon Immortal Skin"
@@ -11726,6 +11735,9 @@
   },
   "/lotus/storeitems/weapons/tenno/melee/hammer/hammerweapon": {
     "value": "Fragor"
+  },  
+  "/lotus/storeitems/weapons/tenno/melee/hammer/icehammer/icehammer": {
+    "value": "Sibear"
   },
   "/lotus/storeitems/weapons/tenno/melee/longsword/ethersword": {
     "value": "Ether Sword"
@@ -12259,6 +12271,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
     "value": "Invader",
     "desc": "Complete 9 Invasion missions of any type"
+  },  
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletekuva": {
+    "value": "Don't Fear The Reaper",
+    "desc": "Complete 3 Kuva Siphon Missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletemobiledefense": {
     "value": "Protector",
@@ -12314,7 +12330,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
     "value": "Conservationist",
-    "desc": "Complete 6 Perfect Animal Captures"
+    "desc": "Complete 6 different Perfect Animal Captures in Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
     "value": "Enhance!",
@@ -12395,6 +12411,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
     "value": "Hydrolyst Hunter",
     "desc": "Kill or Capture an Eidolon Hydrolyst"
+  },  
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillropalolyst": {
+    "value": "Flying High",
+    "desc": "Defeat the Ropalolyst"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
     "value": "Grove Guardian",
@@ -15042,6 +15062,9 @@
   },
   "/lotus/types/storeitems/packages/glyphsbundleb": {
     "value": "Emblematic Glyph Pack"
+  },  
+  "/lotus/types/storeitems/packages/glyphsessential": {
+    "value": "Essential Glyphs Bundle"
   },
   "/lotus/types/storeitems/packages/grineercamoskinpack": {
     "value": "Grineer Desert Tactics Pack"
@@ -15423,6 +15446,12 @@
   },
   "/lotus/types/storeitems/packages/supremesomabundle": {
     "value": "Supreme Soma Set"
+  },  
+  "lotus/types/storeitems/packages/tekeluweaponbundleii": {
+    "value": "The Tekelu Collection II"
+  },
+  "/lotus/types/storeitems/packages/tekeluweaponbundleiii": {
+    "value": "The Tekelu Collection III"
   },
   "/lotus/types/storeitems/packages/tengupack": {
     "value": "Update 12 Mega Bundle"
