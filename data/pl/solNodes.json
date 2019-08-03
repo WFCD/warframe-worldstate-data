@@ -1571,13 +1571,13 @@
   },
   "EventNode24": {
     "value": "Earth",
-    "enemy": "Plaga",
-    "type": "Ratunek"
+    "enemy": "Grineer",
+    "type": "Arena"
   },
   "EventNode25": {
     "value": "Earth",
     "enemy": "Grineer",
-    "type": "Przechwycenie"
+    "type": "Arena"
   },
   "EventNode26": {
     "value": "Earth",
@@ -1618,6 +1618,16 @@
     "value": "Ganymede (Jupiter)",
     "enemy": "Corpus",
     "type": "Disruption"
+  },
+  "EventNode34": {
+    "value": "Earth",
+    "enemy": "Grineer",
+    "type": "Arena"
+  },
+  "EventNode35": {
+    "value": "Earth",
+    "enemy": "Grineer",
+    "type": "Arena"
   },
   "EventNode761": {
     "value": "The Index",
