@@ -1571,13 +1571,13 @@
   },
   "EventNode24": {
     "value": "지구",
-    "enemy": "인페스티드",
-    "type": "구출"
+    "enemy": "그리니어",
+    "type": "아레나"
   },
   "EventNode25": {
     "value": "지구",
     "enemy": "그리니어",
-    "type": "감청"
+    "type": "아레나"
   },
   "EventNode26": {
     "value": "지구",
@@ -1618,6 +1618,16 @@
     "value": "Ganymede (목성)",
     "enemy": "코퍼스",
     "type": "Disruption"
+  },
+  "EventNode34": {
+    "value": "지구",
+    "enemy": "그리니어",
+    "type": "아레나"
+  },
+  "EventNode35": {
+    "value": "지구",
+    "enemy": "그리니어",
+    "type": "아레나"
   },
   "EventNode761": {
     "value": "더 인덱스",
