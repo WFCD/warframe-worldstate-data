@@ -686,6 +686,9 @@
   "/lotus/language/alerts/tacalertproxyrebellion": {
     "value": "Tactical Alert: Proxy Rebelllion"
   },
+  "/lotus/language/alerts/tacalertwaterfight": {
+    "value": "Tactical Alert: Dog Days"
+  },
   "/lotus/language/alerts/wolfalert": {
     "value": "Tactical Alert: Wolf Hunt"
   },
@@ -3654,6 +3657,9 @@
   "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
     "value": "Inaros Tomb Scene"
   },
+  "/lotus/storeitems/types/items/miscitems/photoboothtilehydroidrelay": {
+    "value": "Hydroid's Relay Scene"
+  },
   "/lotus/storeitems/types/items/miscitems/photoboothtileorokinextraction": {
     "value": "Orokin Tower Extraction Scene"
   },
@@ -3932,6 +3938,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Pedestal Prime"
+  },
+  "/lotus/storeitems/types/items/shipdecos/relayhydroidbobblehead": {
+    "value": "Noggle Statue - Hydroid Reprise"
   },
   "/lotus/storeitems/types/items/shipdecos/rhinobobblehead": {
     "value": "Noggle Statue - Rhino"
@@ -11154,6 +11163,9 @@
   "/lotus/storeitems/upgrades/skins/voidtrader/baroinarospolearmskin": {
     "value": "Anpu Staff Skin"
   },
+  "/lotus/storeitems/upgrades/skins/voidtrader/baroscythemacheteskin": {
+    "value": "Machete Syachid Skin"
+  },
   "/lotus/storeitems/upgrades/skins/voidtrader/elixissonicor": {
     "value": "Sonicor Exilis Skin"
   },
@@ -11222,6 +11234,9 @@
   },
   "/lotus/storeitems/upgrades/skins/volt/voltprimehelmet": {
     "value": "Volt Prime Helmet"
+  },
+  "/lotus/storeitems/upgrades/skins/weapons/redeemer/redeemerrelaywaterskin": {
+    "value": "Redeemer Abysso Skin"
   },
   "/lotus/storeitems/weapons/cephalon/primary/cephprimary/cephprimary": {
     "value": "Simulor"
@@ -15549,6 +15564,9 @@
   "/lotus/types/storeitems/packages/wispbundle": {
     "value": "Wisp Collection"
   },
+  "/lotus/types/storeitems/packages/wukongdeluxeskinbundle": {
+    "value": "Wukong Samadhi Collection"
+  },
   "/lotus/types/storeitems/slotitems/kubrowslotitem": {
     "value": "Stasis Slot"
   },
@@ -16028,6 +16046,9 @@
   },
   "/lotus/upgrades/skins/monkeyking/monkeykingalthelmetb": {
     "value": "Wukong Macak Helmet"
+  },
+  "/lotus/upgrades/skins/monkeyking/wukongdeluxeskin": {
+    "value": "Wukong Samadhi Skin"
   },
   "/lotus/upgrades/skins/necro/nekrosalternateskin": {
     "value": "Diseño inmortal de Nekros"
