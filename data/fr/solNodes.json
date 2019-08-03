@@ -1571,13 +1571,13 @@
   },
   "EventNode24": {
     "value": "Terre",
-    "enemy": "Infesté",
-    "type": "Sauvetage"
+    "enemy": "Grineer",
+    "type": "Arène"
   },
   "EventNode25": {
     "value": "Terre",
     "enemy": "Grineer",
-    "type": "Interception"
+    "type": "Arène"
   },
   "EventNode26": {
     "value": "Terre",
@@ -1618,6 +1618,16 @@
     "value": "Ganymede (Jupiter)",
     "enemy": "Corpus",
     "type": "Disruption"
+  },
+  "EventNode34": {
+    "value": "Terre",
+    "enemy": "Grineer",
+    "type": "Arène"
+  },
+  "EventNode35": {
+    "value": "Terre",
+    "enemy": "Grineer",
+    "type": "Arène"
   },
   "EventNode761": {
     "value": "L'Index",
