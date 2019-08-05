@@ -12322,6 +12322,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
     "desc": "Fully socket 3 Ayatan Sculptures"
+  },  
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
+    "value": "Now Boarding",
+    "desc": "Complete 3 different K-Drive races in Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
@@ -12334,6 +12338,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
     "value": "Eximus Eliminator",
     "desc": "Kill 30 Eximus"
+  },  
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykillthumper": {
+    "value": "Tusk Thumpin",
+    "desc": "Kill a Tusk Thumper in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
     "value": "Earth Miner",
@@ -12434,6 +12442,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
     "value": "Grove Guardian",
     "desc": "Kill 3 Silver Grove Specters"
+  },  
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillthumper": {
+    "value": "Walk Without Rhythm",
+    "desc": "Kill a Tusk Thumper Doma in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
     "value": "Hold Your Breath",
@@ -13760,10 +13772,25 @@
   },
   "/lotus/types/items/shipchristmasifier": {
     "value": "Christmas Decorations"
+  },  
+  "/lotus/types/items/shipdecos/events/wfengineerbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Reth"
+  },  
+  "/lotus/types/items/shipdecos/events/wfhealerbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Dok Thul"
+  },  
+  "/lotus/types/items/shipdecos/events/wfheavybobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Gorth"
+  },
+  "/lotus/types/items/shipdecos/events/wfsniperbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Harkonar"
+  },  
+  "/lotus/types/items/shipdecos/events/wftankbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Vay Molta"
   },
   "/lotus/types/items/shipdecos/grineerchampionsheavybobblehead": {
     "value": "Executioner Dhurnam - Noggle Statue"
-  },  
+  },
   "/lotus/types/items/shipdecos/lisetpropmandolin": {
     "value": "Shawzin"
   },
@@ -15542,6 +15569,9 @@
   },
   "/lotus/types/storeitems/packages/warframepack": {
     "value": "Ultimate Warframe Pack"
+  },  
+  "/lotus/types/storeitems/packages/waterfightnogglebundle": {
+    "value": "Dog Days Noggle Pack"
   },
   "/lotus/types/storeitems/packages/weaponskincontestbundle": {
     "value": "Tennogen Weapon Skin Bundle"
@@ -15632,6 +15662,9 @@
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerps4itema": {
     "value": "Psiv"
+  },  
+  "/lotus/types/storeitems/suitcustomizations/colourpickerrollers": {
+    "value": "Rollers"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerrwbitem": {
     "value": "Red/white/blue"
