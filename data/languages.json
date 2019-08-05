@@ -821,6 +821,24 @@
   "/lotus/language/infestedplainsevent/infestedplainsbountyname": {
     "value": "Plague Star"
   },
+  "/lotus/language/items/eventdoubleaffinitydesc": {
+    "value": "Doubles the amount you get from pickups and mission rewards."
+  },
+  "/lotus/language/items/eventdoubleaffinityname": {
+    "value": "Event Affinity Booster"
+  },
+  "/lotus/language/items/eventdoublecreditsdesc": {
+    "value": "Doubles the amount you get from pickups and mission rewards."
+  },
+  "/lotus/language/items/eventdoublecreditsname": {
+    "value": "Event Credit Booster"
+  },
+  "/lotus/language/items/eventdoubleresourcedesc": {
+    "value": "Doubles the amount you get from pickups and mission rewards."
+  },
+  "/lotus/language/items/eventdoubleresourcename": {    
+    "value": "Event Resource Booster"
+  },
   "/lotus/language/items/furaxwraithname": {
     "desc": "These Wraith gauntlets have been augmented for power.",
     "value": "Furax Wraith"
@@ -13773,14 +13791,26 @@
   "/lotus/types/items/shipchristmasifier": {
     "value": "Christmas Decorations"
   },  
+  "/lotus/types/items/shipdecos/events/wfbeastmasterbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Nok"
+  },  
+  "/lotus/types/items/shipdecos/events/wfchargerbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Garesh"
+  },
   "/lotus/types/items/shipdecos/events/wfengineerbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Reth"
   },  
+  "/lotus/types/items/shipdecos/events/wfgruntbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Dhurnam"
+  },
   "/lotus/types/items/shipdecos/events/wfhealerbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Dok Thul"
   },  
   "/lotus/types/items/shipdecos/events/wfheavybobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Gorth"
+  },  
+  "/lotus/types/items/shipdecos/events/wfhellionbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Zura"
   },
   "/lotus/types/items/shipdecos/events/wfsniperbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Harkonar"
