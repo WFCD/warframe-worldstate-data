@@ -686,6 +686,9 @@
   "/lotus/language/alerts/tacalertproxyrebellion": {
     "value": "Tactical Alert: Proxy Rebelllion"
   },
+  "/lotus/language/alerts/tacalertwaterfight": {
+    "value": "Tactical Alert: Dog Days"
+  },
   "/lotus/language/alerts/wolfalert": {
     "value": "Tactical Alert: Wolf Hunt"
   },
@@ -817,6 +820,24 @@
   },
   "/lotus/language/infestedplainsevent/infestedplainsbountyname": {
     "value": "Plague Star"
+  },
+  "/lotus/language/items/eventdoubleaffinitydesc": {
+    "value": "Doubles the amount you get from pickups and mission rewards."
+  },
+  "/lotus/language/items/eventdoubleaffinityname": {
+    "value": "Event Affinity Booster"
+  },
+  "/lotus/language/items/eventdoublecreditsdesc": {
+    "value": "Doubles the amount you get from pickups and mission rewards."
+  },
+  "/lotus/language/items/eventdoublecreditsname": {
+    "value": "Event Credit Booster"
+  },
+  "/lotus/language/items/eventdoubleresourcedesc": {
+    "value": "Doubles the amount you get from pickups and mission rewards."
+  },
+  "/lotus/language/items/eventdoubleresourcename": {
+    "value": "Event Resource Booster"
   },
   "/lotus/language/items/furaxwraithname": {
     "desc": "Essas manoplas Wraith tiveram seu poder aumentado.",
@@ -3654,6 +3675,9 @@
   "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
     "value": "Cena: Túmulo de Inaros"
   },
+  "/lotus/storeitems/types/items/miscitems/photoboothtilehydroidrelay": {
+    "value": "Hydroid's Relay Scene"
+  },
   "/lotus/storeitems/types/items/miscitems/photoboothtileorokinextraction": {
     "value": "Orokin Tower Extraction Scene"
   },
@@ -3932,6 +3956,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Pedestal Prime"
+  },
+  "/lotus/storeitems/types/items/shipdecos/relayhydroidbobblehead": {
+    "value": "Noggle Statue - Hydroid Reprise"
   },
   "/lotus/storeitems/types/items/shipdecos/rhinobobblehead": {
     "value": "Estátua Noggle: Rhino"
@@ -4443,8 +4470,14 @@
   "/lotus/storeitems/types/recipes/components/corruptedbombardballblueprint": {
     "value": "Corrupted Bombard Specter Blueprint"
   },
+  "/lotus/storeitems/types/recipes/components/formaaurablueprint": {
+    "value": "Aura Forma Blueprint"
+  },
   "/lotus/storeitems/types/recipes/components/formablueprint": {
     "value": "Diagrama de Forma"
+  },
+  "/lotus/storeitems/types/recipes/components/formaumbrablueprint": {
+    "value": "Umbra Forma Blueprint"
   },
   "/lotus/storeitems/types/recipes/components/orokincatalystblueprint": {
     "value": "Diagrama de Catalisador Orokin"
@@ -10200,6 +10233,9 @@
   "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroc": {
     "value": "Ki'Teer Atmos Earpiece"
   },
+  "/lotus/storeitems/upgrades/skins/ornate/tekelufragorskin": {
+    "value": "Fragor Tekelu Skin"
+  },
   "/lotus/storeitems/upgrades/skins/paladin/oberonalternateskin": {
     "value": "Oberon Immortal Skin"
   },
@@ -11145,6 +11181,9 @@
   "/lotus/storeitems/upgrades/skins/voidtrader/baroinarospolearmskin": {
     "value": "Anpu Staff Skin"
   },
+  "/lotus/storeitems/upgrades/skins/voidtrader/baroscythemacheteskin": {
+    "value": "Machete Syachid Skin"
+  },
   "/lotus/storeitems/upgrades/skins/voidtrader/elixissonicor": {
     "value": "Sonicor Exilis Skin"
   },
@@ -11213,6 +11252,9 @@
   },
   "/lotus/storeitems/upgrades/skins/volt/voltprimehelmet": {
     "value": "Volt Prime Helmet"
+  },
+  "/lotus/storeitems/upgrades/skins/weapons/redeemer/redeemerrelaywaterskin": {
+    "value": "Redeemer Abysso Skin"
   },
   "/lotus/storeitems/weapons/cephalon/primary/cephprimary/cephprimary": {
     "value": "Simulor"
@@ -11726,6 +11768,9 @@
   },
   "/lotus/storeitems/weapons/tenno/melee/hammer/hammerweapon": {
     "value": "Fragor"
+  },
+  "/lotus/storeitems/weapons/tenno/melee/hammer/icehammer/icehammer": {
+    "value": "Sibear"
   },
   "/lotus/storeitems/weapons/tenno/melee/longsword/ethersword": {
     "value": "Ether Sword"
@@ -12260,6 +12305,10 @@
     "value": "Invader",
     "desc": "Complete 9 Invasion missions of any type"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletekuva": {
+    "value": "Don't Fear The Reaper",
+    "desc": "Complete 3 Kuva Siphon Missions"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletemobiledefense": {
     "value": "Protector",
     "desc": "Complete 3 Mobile Defense missions"
@@ -12292,6 +12341,10 @@
     "value": "Animator",
     "desc": "Fully socket 3 Ayatan Sculptures"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
+    "value": "Now Boarding",
+    "desc": "Complete 3 different K-Drive races in Orb Vallis"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
     "desc": "Gild 1 Modular Items"
@@ -12304,6 +12357,10 @@
     "value": "Eximus Eliminator",
     "desc": "Kill 30 Eximus"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykillthumper": {
+    "value": "Tusk Thumpin",
+    "desc": "Kill a Tusk Thumper in the Plains of Eidolon"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
     "value": "Earth Miner",
     "desc": "Mine 6 Rare Gems in the Plains of Eidolon"
@@ -12314,7 +12371,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
     "value": "Conservationist",
-    "desc": "Complete 6 Perfect Animal Captures"
+    "desc": "Complete 6 different Perfect Animal Captures in Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
     "value": "Enhance!",
@@ -12350,7 +12407,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
     "value": "Venus Bounty Hunter",
-    "desc": "Complete 8 bounties in the Orb Vallis"
+    "desc": "Complete 5 different bounties in the Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
     "value": "Night Terror",
@@ -12396,9 +12453,17 @@
     "value": "Hydrolyst Hunter",
     "desc": "Kill or Capture an Eidolon Hydrolyst"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillropalolyst": {
+    "value": "Flying High",
+    "desc": "Defeat the Ropalolyst"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
     "value": "Grove Guardian",
     "desc": "Kill 3 Silver Grove Specters"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillthumper": {
+    "value": "Walk Without Rhythm",
+    "desc": "Kill a Tusk Thumper Doma in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
     "value": "Hold Your Breath",
@@ -13726,6 +13791,33 @@
   "/lotus/types/items/shipchristmasifier": {
     "value": "Christmas Decorations"
   },
+  "/lotus/types/items/shipdecos/events/wfbeastmasterbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Nok"
+  },
+  "/lotus/types/items/shipdecos/events/wfchargerbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Garesh"
+  },
+  "/lotus/types/items/shipdecos/events/wfengineerbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Reth"
+  },
+  "/lotus/types/items/shipdecos/events/wfgruntbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Dhurnam"
+  },
+  "/lotus/types/items/shipdecos/events/wfhealerbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Dok Thul"
+  },
+  "/lotus/types/items/shipdecos/events/wfheavybobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Gorth"
+  },
+  "/lotus/types/items/shipdecos/events/wfhellionbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Zura"
+  },
+  "/lotus/types/items/shipdecos/events/wfsniperbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Harkonar"
+  },
+  "/lotus/types/items/shipdecos/events/wftankbobblehead": {
+    "value": "Noggle Statue - Dog Days Executioner Vay Molta"
+  },
   "/lotus/types/items/shipdecos/grineerchampionsheavybobblehead": {
     "value": "Executioner Dhurnam - Noggle Statue"
   },
@@ -15043,6 +15135,9 @@
   "/lotus/types/storeitems/packages/glyphsbundleb": {
     "value": "Emblematic Glyph Pack"
   },
+  "/lotus/types/storeitems/packages/glyphsessential": {
+    "value": "Essential Glyphs Bundle"
+  },
   "/lotus/types/storeitems/packages/grineercamoskinpack": {
     "value": "Grineer Desert Tactics Pack"
   },
@@ -15424,6 +15519,12 @@
   "/lotus/types/storeitems/packages/supremesomabundle": {
     "value": "Supreme Soma Set"
   },
+  "/lotus/types/storeitems/packages/tekeluweaponbundleii": {
+    "value": "The Tekelu Collection II"
+  },
+  "/lotus/types/storeitems/packages/tekeluweaponbundleiii": {
+    "value": "The Tekelu Collection III"
+  },
   "/lotus/types/storeitems/packages/tengupack": {
     "value": "Update 12 Mega Bundle"
   },
@@ -15499,6 +15600,9 @@
   "/lotus/types/storeitems/packages/warframepack": {
     "value": "Ultimate Warframe Pack"
   },
+  "/lotus/types/storeitems/packages/waterfightnogglebundle": {
+    "value": "Dog Days Noggle Pack"
+  },
   "/lotus/types/storeitems/packages/weaponskincontestbundle": {
     "value": "Tennogen Weapon Skin Bundle"
   },
@@ -15519,6 +15623,9 @@
   },
   "/lotus/types/storeitems/packages/wispbundle": {
     "value": "Wisp Collection"
+  },
+  "/lotus/types/storeitems/packages/wukongdeluxeskinbundle": {
+    "value": "Wukong Samadhi Collection"
   },
   "/lotus/types/storeitems/slotitems/kubrowslotitem": {
     "value": "Stasis Slot"
@@ -15585,6 +15692,9 @@
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerps4itema": {
     "value": "Psiv"
+  },
+  "/lotus/types/storeitems/suitcustomizations/colourpickerrollers": {
+    "value": "Rollers"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerrwbitem": {
     "value": "Vermelho/branco/azul"
@@ -15999,6 +16109,9 @@
   },
   "/lotus/upgrades/skins/monkeyking/monkeykingalthelmetb": {
     "value": "Wukong Macak Helmet"
+  },
+  "/lotus/upgrades/skins/monkeyking/wukongdeluxeskin": {
+    "value": "Wukong Samadhi Skin"
   },
   "/lotus/upgrades/skins/necro/nekrosalternateskin": {
     "value": "Nekros Immortal Skin"

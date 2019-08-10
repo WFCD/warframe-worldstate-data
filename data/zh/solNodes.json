@@ -1571,13 +1571,13 @@
   },
   "EventNode24": {
     "value": "地球",
-    "enemy": "Infested",
-    "type": "救援"
+    "enemy": "Grineer",
+    "type": "競技場"
   },
   "EventNode25": {
     "value": "地球",
     "enemy": "Grineer",
-    "type": "攔截"
+    "type": "競技場"
   },
   "EventNode26": {
     "value": "地球",
@@ -1618,6 +1618,16 @@
     "value": "Ganymede (木星)",
     "enemy": "Corpus",
     "type": "Disruption"
+  },
+  "EventNode34": {
+    "value": "地球",
+    "enemy": "Grineer",
+    "type": "競技場"
+  },
+  "EventNode35": {
+    "value": "地球",
+    "enemy": "Grineer",
+    "type": "競技場"
   },
   "EventNode761": {
     "value": "The Index",
