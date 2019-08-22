@@ -1,33 +1,33 @@
 {
   "modes": {
     "PVPMODE_ALL": {
-      "value": "任意模式"
+      "value": "Any Mode"
     },
     "PVPMODE_DEATHMATCH": {
-      "value": "殲奪"
+      "value": "Annihilation"
     },
     "PVPMODE_TEAMDEATHMATCH": {
-      "value": "團隊殲奪"
+      "value": "Team Annihilation"
     },
     "PVPMODE_NONE": {
-      "value": "無"
+      "value": "None"
     },
     "PVPMODE_CAPTURETHEFLAG": {
-      "value": "奪取中樞"
+      "value": "Capture the Cephalon"
     },
     "PVPMODE_SPEEDBALL": {
-      "value": "月動球"
+      "value": "Lunaro"
     }
   },
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
-      "value": "週"
+      "value": "week"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "week_root"
     },
     "PVPChallengeTypeCategory_DAILY": {
-      "value": "日"
+      "value": "day"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
       "value": "day_root"
