@@ -15,31 +15,31 @@
     "value": "Suspicious Shipment"
   },
   "/lotus/language/alerts/alertrewardcategoryaura": {
-    "value": "光環"
+    "value": "Aura"
   },
   "/lotus/language/alerts/alertrewardcategoryblueprint": {
-    "value": "藍圖"
+    "value": "Blueprint"
   },
   "/lotus/language/alerts/alertrewardcategoryitem": {
-    "value": "物品"
+    "value": "Item"
   },
   "/lotus/language/alerts/alertrewardcategorymod": {
-    "value": "MOD"
+    "value": "Mod"
   },
   "/lotus/language/alerts/alertrewardcategoryresource": {
-    "value": "資源"
+    "value": "Resource"
   },
   "/lotus/language/alerts/alertrewardcategorystance": {
     "value": "Stance Mod"
   },
   "/lotus/language/alerts/assassinationdesc1": {
-    "value": "已鎖定敵人VIP"
+    "value": "Enemy VIP Located"
   },
   "/lotus/language/alerts/assassinationdesc10": {
-    "value": "已鎖定敵人情報官"
+    "value": "Enemy Intelligence Officer Located"
   },
   "/lotus/language/alerts/assassinationdesc11": {
-    "value": "已鎖定精英部隊"
+    "value": "Elite Troop Located"
   },
   "/lotus/language/alerts/assassinationdesc12": {
     "value": "Enemy Ambassador Located"
@@ -51,10 +51,10 @@
     "value": "Enemy Officer Located"
   },
   "/lotus/language/alerts/assassinationdesc15": {
-    "value": "已鎖定敵人VIP"
+    "value": "Enemy Sniper Located"
   },
   "/lotus/language/alerts/assassinationdesc2": {
-    "value": "已鎖定敵人船指揮官"
+    "value": "Enemy Ship Commander Located"
   },
   "/lotus/language/alerts/assassinationdesc3": {
     "value": "Enemy Research Scientist Located"
@@ -735,7 +735,7 @@
     "value": "Thermia Fractures"
   },
   "/lotus/language/g1quests/kelaeventbonustitle": {
-    "value": "無盡Rathuum"
+    "value": "Endless Rathuum"
   },
   "/lotus/language/g1quests/kelaeventgoala": {
     "value": "Judgement Points Earned"
@@ -753,7 +753,7 @@
     "value": "Kela de Thaym's Court"
   },
   "/lotus/language/g1quests/projectindexendlessgoal": {
-    "value": "指數之場"
+    "value": "Index Points"
   },
   "/lotus/language/g1quests/projectindexendlesstitle": {
     "value": "Project Index: Endurance"
@@ -12179,7 +12179,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "value": "Power Trip",
-    "desc": "使用技能擊殺150名敵人"
+    "desc": "Kill 150 Enemies with Abilities"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
     "value": "Detonator",
@@ -12426,7 +12426,7 @@
     "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
-    "value": "防禦",
+    "value": "Defense",
     "desc": "Complete a Defense mission reaching at least Wave 20"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
@@ -12434,7 +12434,7 @@
     "desc": "Kill Profit-Taker"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "value": "生存",
+    "value": "Survival",
     "desc": "Complete a Survival mission reaching at least 30 minutes"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
@@ -16567,7 +16567,7 @@
     "value": "Machete Wraith"
   },
   "/lotus/weapons/grineer/melee/grineertylaxeandboar/regoraxeshield": {
-    "value": "認知 & 衝擊"
+    "value": "Ack & Brunt"
   },
   "/lotus/weapons/grineer/melee/grineerwhip/grineerwhip": {
     "value": "Atterak"
@@ -17236,7 +17236,7 @@
     "value": "Magnus"
   },
   "/lotus/weapons/tenno/pistols/primeakstiletto/primeakstiletto": {
-    "value": "史提托雙槍 Prime"
+    "value": "Akstiletto Prime"
   },
   "/lotus/weapons/tenno/pistols/primelex/primelex": {
     "value": "Lex Prime"
@@ -17371,6 +17371,6 @@
     "value": "Mara Detron"
   },
   "ProjectIndex": {
-    "value": "指數之場"
+    "value": "Index Points"
   }
 }
