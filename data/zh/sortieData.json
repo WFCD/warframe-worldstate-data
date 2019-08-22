@@ -1,35 +1,35 @@
 {
   "modifierTypes": {
-    "SORTIE_MODIFIER_LOW_ENERGY": "能量減少",
-    "SORTIE_MODIFIER_IMPACT": "敵人的物理抗性︰衝擊",
-    "SORTIE_MODIFIER_SLASH": "敵人的物理抗性︰切割",
-    "SORTIE_MODIFIER_PUNCTURE": "敵人的物理抗性︰穿刺",
-    "SORTIE_MODIFIER_EXIMUS": "卓越者",
-    "SORTIE_MODIFIER_MAGNETIC": "敵人元素增強抗性︰ 磁力",
-    "SORTIE_MODIFIER_CORROSIVE": "敵人元素增強抗性︰ 腐蝕",
-    "SORTIE_MODIFIER_VIRAL": "敵人元素增強抗性︰ 病毒",
-    "SORTIE_MODIFIER_ELECTRICITY": "敵人元素增強抗性︰ 電擊",
-    "SORTIE_MODIFIER_RADIATION": "敵人元素增強抗性︰ 輻射",
-    "SORTIE_MODIFIER_GAS": "敵人元素增強抗性︰ 毒氣",
-    "SORTIE_MODIFIER_FIRE": "敵人元素增強抗性︰ 火焰",
-    "SORTIE_MODIFIER_EXPLOSION": "敵人元素增強抗性︰ 爆炸",
-    "SORTIE_MODIFIER_FREEZE": "敵人元素增強抗性︰ 冰凍",
-    "SORTIE_MODIFIER_TOXIN": "敵人元素增強抗性︰ 毒素",
-    "SORTIE_MODIFIER_POISON": "敵人元素增強抗性︰ 毒素",
-    "SORTIE_MODIFIER_HAZARD_RADIATION": "環境危害︰ 輻射",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "環境危害︰ 電磁異常",
-    "SORTIE_MODIFIER_HAZARD_FOG": "環境危害︰ 濃霧",
-    "SORTIE_MODIFIER_HAZARD_FIRE": "環境危害︰火災",
-    "SORTIE_MODIFIER_HAZARD_ICE": "環境影響︰ 低溫外洩",
-    "SORTIE_MODIFIER_HAZARD_COLD": "環境影響： 極端寒冷",
-    "SORTIE_MODIFIER_ARMOR": "敵人護甲強化",
-    "SORTIE_MODIFIER_SHIELDS": "敵人護盾強化",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "武器限定：手槍",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY": "武器限定：霞彈槍",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "武器限定：狙擊槍",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "武器限定：突擊步槍",
-    "SORTIE_MODIFIER_MELEE_ONLY": "武器限定：進戰",
-    "SORTIE_MODIFIER_BOW_ONLY": "武器限定：弓箭"
+    "SORTIE_MODIFIER_LOW_ENERGY": "Energy Reduction",
+    "SORTIE_MODIFIER_IMPACT": "Enemy Physical Enhancement: Impact",
+    "SORTIE_MODIFIER_SLASH": "Enemy Physical Enhancement: Slash",
+    "SORTIE_MODIFIER_PUNCTURE": "Enemy Physical Enhancement: Puncture",
+    "SORTIE_MODIFIER_EXIMUS": "Eximus Stronghold",
+    "SORTIE_MODIFIER_MAGNETIC": "Enemy Elemental Enhancement: Magnetic",
+    "SORTIE_MODIFIER_CORROSIVE": "Enemy Elemental Enhancement: Corrosive",
+    "SORTIE_MODIFIER_VIRAL": "Enemy Elemental Enhancement: Viral",
+    "SORTIE_MODIFIER_ELECTRICITY": "Enemy Elemental Enhancement: Electricity",
+    "SORTIE_MODIFIER_RADIATION": "Enemy Elemental Enhancement: Radiation",
+    "SORTIE_MODIFIER_GAS": "Enemy Elemental Enhancement: Gas",
+    "SORTIE_MODIFIER_FIRE": "Enemy Elemental Enhancement: Heat",
+    "SORTIE_MODIFIER_EXPLOSION": "Enemy Elemental Enhancement: Blast",
+    "SORTIE_MODIFIER_FREEZE": "Enemy Elemental Enhancement: Cold",
+    "SORTIE_MODIFIER_TOXIN": "Enemy Elemental Enhancement: Toxin",
+    "SORTIE_MODIFIER_POISON": "Enemy Elemental Enhancement: Toxin",
+    "SORTIE_MODIFIER_HAZARD_RADIATION": "Environmental Hazard: Radiation Pockets",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Environmental Hazard: Electromagnetic Anomalies",
+    "SORTIE_MODIFIER_HAZARD_FOG": "Environmental Hazard: Dense Fog",
+    "SORTIE_MODIFIER_HAZARD_FIRE": "Environmental Hazard: Fire",
+    "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
+    "SORTIE_MODIFIER_HAZARD_COLD": "Environmental Effect: Extreme Cold",
+    "SORTIE_MODIFIER_ARMOR": "Augmented Enemy Armor",
+    "SORTIE_MODIFIER_SHIELDS": "Enhanced Enemy Shields",
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "Weapon Restriction: Pistol Only",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Weapon Restriction: Shotgun Only",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "Weapon Restriction: Sniper Only",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Weapon Restriction: Assault Rifle Only",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Weapon Restriction: Melee Only",
+    "SORTIE_MODIFIER_BOW_ONLY": "Weapon Restriction: Bow Only"
   },
   "modifierDescriptions": {
     "SORTIE_MODIFIER_LOW_ENERGY": "Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
@@ -54,38 +54,38 @@
     "SORTIE_MODIFIER_HAZARD_FIRE": "The tileset has a fire hazard. Warframe health is halved. Meltdown Iminent.",
     "SORTIE_MODIFIER_HAZARD_ICE": "Maximum Shield Capacity is halved. Ice patches that cause cold procs.",
     "SORTIE_MODIFIER_HAZARD_COLD": "Mobility is significantly reduced. Sprinting is disabled for this mode.",
-    "SORTIE_MODIFIER_ARMOR": "敵人已有強化護甲，腐蝕觸發效果將減半",
-    "SORTIE_MODIFIER_SHIELDS": "敵人已有強化護盾，建議使用磁力元素。",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "此任務中只能使用次要武器，其他類型的武器將會自動被換掉",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY": "此任務中只能使用霰彈槍，其他類型的武器將會自動被換掉",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "此任務中只能使用狙擊槍，其他類型的武器將會自動被換掉",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "此任務中只能使用突擊步槍，其他類型的武器將會自動被換掉",
-    "SORTIE_MODIFIER_MELEE_ONLY": "此任務中只能使用近戰武器，其他類型的武器將會自動被換掉",
-    "SORTIE_MODIFIER_BOW_ONLY": "此任務中只能使用弓箭類武器，其他類型的武器將會自動被換掉"
+    "SORTIE_MODIFIER_ARMOR": "Enemies have Improved/Added armor. Corrosive Projection effects are halved.",
+    "SORTIE_MODIFIER_SHIELDS": "Enemies have vastly Improved Shields. Magnetic Procs are advised.",
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "Only secondary weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Only shotguns may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "Only snipers may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Only assault rifles may be used in this mission. Surprisingly, launchers work too. Other weapon types will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Only melee weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_BOW_ONLY": "Only bows may be used in this mission, crossbows however work too! Other weapon types will be removed automatically if equipped."
   },
   "bosses": {
     "SORTIE_BOSS_HYENA": {
-      "name": "鬚狗群",
+      "name": "Hyena Pack",
       "faction": "Corpus"
     },
     "SORTIE_BOSS_KELA": {
-      "name": "Kela de Thaym",
+      "name": "Kela De Thaym",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_VOR": {
-      "name": "Vor 上尉",
+      "name": "Captain Vor",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_RUK": {
-      "name": "Sargus Ruk 將軍",
+      "name": "General Sargas Ruk",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_HEK": {
-      "name": "Vay Hek 議員",
+      "name": "Councilor Vay Hek",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_KRIL": {
-      "name": "Lech Kril 中尉",
+      "name": "Lech Kril",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_TYL": {
@@ -93,7 +93,7 @@
       "faction": "Grineer"
     },
     "SORTIE_BOSS_JACKAL": {
-      "name": "豺狼",
+      "name": "Jackal",
       "faction": "Corpus"
     },
     "SORTIE_BOSS_ALAD": {
@@ -109,872 +109,854 @@
       "faction": "Corpus"
     },
     "SORTIE_BOSS_RAPTOR": {
-      "name": "猛禽",
+      "name": "Raptor",
       "faction": "Corpus"
     },
     "SORTIE_BOSS_PHORID": {
       "name": "Phorid",
-      "faction": "感染者"
+      "faction": "Infestation"
     },
     "SORTIE_BOSS_LEPHANTIS": {
       "name": "Lephantis",
-      "faction": "感染者"
+      "faction": "Infestation"
     },
     "SORTIE_BOSS_INFALAD": {
-      "name": "異融者 Alad V",
-      "faction": "感染者"
+      "name": "Mutalist Alad V",
+      "faction": "Infestation"
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
-      "name": "墮落 Vor",
-      "faction": "墮落"
+      "name": "Corrupted Vor",
+      "faction": "Corrupted"
     }
   },
   "endStates": [
     {
-      "bossName": "Vor 上尉",
+      "bossName": "Captain Vor",
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "16",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
     },
     {
-      "bossName": "Vay Hek 議員",
+      "bossName": "Vay Hek",
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
     },
     {
-      "bossName": "Sargas Ruk 將軍",
+      "bossName": "Sargas Ruk",
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Defense",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "防禦",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "防禦",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Defense",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
@@ -984,553 +966,541 @@
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Survival",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "生存",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
     },
     {
-      "bossName": "Lech Kril 中尉",
+      "bossName": "Lech Kril",
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
@@ -1540,553 +1510,541 @@
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
     },
     {
-      "bossName": "豺狼",
+      "bossName": "Jackal",
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
@@ -2096,275 +2054,269 @@
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
@@ -2374,553 +2326,541 @@
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Exterminate",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "殲滅",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
     },
     {
-      "bossName": "鬚狗群",
+      "bossName": "Hyena Pack",
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Rescue",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "救援",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Sabotage",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "破壞",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Spy",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "間諜",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
@@ -2930,553 +2870,541 @@
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
     },
     {
-      "bossName": "猛禽",
+      "bossName": "Raptor",
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "歐羅巴",
-          "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
@@ -3486,275 +3414,269 @@
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "鬩神星",
-          "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
             "Hive",
-            "刺殺"
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "歐羅巴",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
@@ -3764,564 +3686,552 @@
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Spy",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "間諜",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Spy",
+            "Mobile Defense",
+            "Assassination"
           ]
         },
         {
-          "name": "鬩神星",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "間諜",
-            "移動防禦",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "賽德娜",
-          "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
             "Hive",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "歐羅巴",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
     },
     {
-      "bossName": "異融者 Alad V",
+      "bossName": "Mutalist Alad V",
       "regions": [
         {
           "name": "0",
+          "missions": []
+        },
+        {
+          "name": "Mercury",
           "missions": [
-
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "水星",
+          "name": "Venus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Defense",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "金星",
+          "name": "Earth",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "防禦",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "地球",
+          "name": "Mars",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Interception",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "火星",
+          "name": "Jupiter",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "攔截",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "木星",
+          "name": "Saturn",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "土星",
+          "name": "Uranus",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "天王星",
+          "name": "Neptune",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Excavation",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "海王星",
+          "name": "Pluto",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "挖掘",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "冥王星",
+          "name": "Ceres",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
-          "name": "穀神星",
+          "name": "Eris",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
-          ]
-        },
-        {
-          "name": "鬩神星",
-          "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "生存",
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Survival",
             "Hive",
-            "刺殺"
+            "Assassination"
           ]
         },
         {
-          "name": "賽德娜",
+          "name": "Sedna",
           "missions": [
-            "殲滅",
-            "生存",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "間諜",
-            "刺殺"
+            "Exterminate",
+            "Survival",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Spy",
+            "Assassination"
           ]
         },
         {
-          "name": "歐羅巴",
+          "name": "Europa",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "劫持",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Hijack",
+            "Assassination"
           ]
         },
         {
           "name": "14",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
           "name": "15",
-          "missions": [
-
-          ]
+          "missions": []
         },
         {
-          "name": "火衛一",
+          "name": "Phobos",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
           "name": "17",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "月球",
+          "name": "Lua",
           "missions": [
-            "殲滅",
-            "挖掘",
-            "救援",
-            "破壞",
-            "間諜",
-            "防禦",
-            "移動防禦",
-            "攔截",
-            "殲滅",
-            "刺殺"
+            "Exterminate",
+            "Excavation",
+            "Rescue",
+            "Sabotage",
+            "Spy",
+            "Defense",
+            "Mobile Defense",
+            "Interception",
+            "Exterminate",
+            "Assassination"
           ]
         },
         {
-          "name": "Kuva 要塞",
+          "name": "Kuva Fortress",
           "missions": [
-            "防禦",
-            "防禦",
-            "防禦",
-            "殲滅",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "防禦",
-            "刺殺"
+            "Defense",
+            "Defense",
+            "Defense",
+            "Exterminate",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Defense",
+            "Assassination"
           ]
         }
       ]
     }
   ],
   "modifiers": [
-    "敵人護甲/護盾增強",
-    "環境危害",
-    "敵人傷害抗性增強",
-    "能量減少",
-    "卓越者",
-    "武器限制"
+    "+ Enemy armor/shield",
+    "Environmental hazard",
+    "Enemy damage resistance",
+    "Energy reduction",
+    "Eximus stronghold",
+    "Weapon restriction"
   ]
 }
