@@ -216,8 +216,8 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Strike"
     },
     {
-        "regex": "節奏",
-        "name": "節奏 賦能",
+        "regex": "tempo",
+        "name": "Arcane Tempo",
         "effect": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
         "rarity": "Common",
         "location": "Changing, check droptable",
@@ -225,7 +225,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Tempo"
     },
     {
-        "regex": "詭計",
+        "regex": "trickery",
         "name": "Arcane Trickery",
         "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
         "rarity": "Common",
@@ -342,7 +342,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Null"
     },
     {
-        "regex": "節奏",
+        "regex": "tempo",
         "name": "Virtuos Tempo",
         "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
         "rarity": "Uncommon",
