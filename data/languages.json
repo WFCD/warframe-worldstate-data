@@ -15136,6 +15136,9 @@
   "/lotus/types/storeitems/packages/frostpack": {
     "value": "Stay Frosty Pack"
   },
+  "/lotus/types/storeitems/packages/gaussbundle": {
+    "value": "Gauss Collection"
+  },
   "/lotus/types/storeitems/packages/garudabundle": {
     "value": "Garuda Collection"
   },
@@ -15213,6 +15216,9 @@
   },
   "/lotus/types/storeitems/packages/halloweenvastoskinpack": {
     "value": "Vasto Day Of The Dead Skin"
+  },  
+  "/lotus/types/storeitems/packages/harrowdeluxeskinbundle": {
+    "value": "Harrow Reliquary Collection"
   },
   "/lotus/types/storeitems/packages/hildrynbundle": {
     "value": "Hildryn Collection"
@@ -16182,6 +16188,9 @@
   },
   "/lotus/upgrades/skins/paladin/paladindeluxesuit": {
     "value": "Oberon Feyarch Skin"
+  },  
+  "/lotus/upgrades/skins/priest/harrowdeluxesuit": {
+    "value": "Harrow Reliquary Skin"
   },
   "/lotus/upgrades/skins/promo/seasonal/candycanescytheskin": {
     "value": "Spearmint Scythe"
@@ -16194,6 +16203,9 @@
   },
   "/lotus/upgrades/skins/rhino/rhinodeluxesuit": {
     "value": "Rhino Palatine Skin"
+  },  
+  "/lotus/upgrades/skins/runner/runneralthelmet": {
+    "value": "Gauss Mag Helmet"
   },
   "/lotus/upgrades/skins/sandman/sandmanalt02helmet": {
     "value": "Inaros Canopic Helmet"
@@ -16257,6 +16269,9 @@
   },
   "/lotus/upgrades/skins/scarves/magdeluxescarf": {
     "value": "Vasa Syandana"
+  },  
+  "/lotus/upgrades/skins/scarves/sapientcape": {
+    "value": "Altra Syandana"
   },
   "/lotus/upgrades/skins/scarves/shieldframecape": {
     "value": "Surator Syandana"
@@ -16911,6 +16926,9 @@
   },
   "/lotus/weapons/tenno/longguns/repeatingcrossbow/repeatingcrossbow": {
     "value": "Zhuge"
+  },  
+  "/lotus/weapons/tenno/longguns/sapientprimary/sapientprimaryweapon": {
+    "value": "Acceltra"
   },
   "/lotus/weapons/tenno/longguns/tennotommygun/tennotommygunrifle": {
     "value": "Stradavar"
@@ -17259,6 +17277,9 @@
   },
   "/lotus/weapons/tenno/pistols/primevasto/primevastopistol": {
     "value": "Vasto Prime"
+  },  
+  "/lotus/weapons/tenno/pistols/sapientpistol/sapientpistol": {
+    "value": "Akarius"
   },
   "/lotus/weapons/tenno/pistols/sawnoffshotgun/tennohandshotgun": {
     "value": "Pyrana"
