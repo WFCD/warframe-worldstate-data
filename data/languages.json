@@ -1100,6 +1100,9 @@
   },
   "/lotus/powersuits/rhino/rhinoprime": {
     "value": "Rhino Prime"
+  },  
+  "/lotus/powersuits/runner/runner": {
+    "value": "Gauss"
   },
   "/lotus/powersuits/sandman/sandman": {
     "value": "Inaros"
@@ -3957,6 +3960,9 @@
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Pedestal Prime"
   },  
+  "/lotus/storeitems/types/items/shipdecos/plushies/plushydesertskate": {
+    "value": "Desert Skate Floof"
+  },
   "/lotus/storeitems/types/items/shipdecos/relayhydroidbobblehead": {
     "value": "Noggle Statue - Hydroid Reprise"
   },
@@ -6041,6 +6047,9 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagepiratetritondark": {
     "value": "Hydroid Triton Profile Icon"
+  },  
+  "/lotus/storeitems/types/storeitems/avatarimages/imagepopsiclegrineerpurple": {
+    "value": "Dog Days Glyph"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagerhinobright": {
     "value": "Rhino Profile Icon"
@@ -12248,6 +12257,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailypickupenergy": {
     "value": "Energizing",
     "desc": "Pick up 20 Energy Orbs"
+  },  
+  "/lotus/types/challenges/seasons/daily/seasondailypickupmedallion": {
+    "value": "The Hunt is On",
+    "desc": "Find 5 Syndicate Medallions"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
     "value": "Shiny",
