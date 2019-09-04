@@ -15,7 +15,7 @@
     "type": "Mobil Savunma"
   },
   "SolNode3": {
-    "value": "Cordelia (Uranus)",
+    "value": "Cordelia (Uranüs)",
     "enemy": "Sentient",
     "type": "Ancient Retribution"
   },
@@ -25,7 +25,7 @@
     "type": "Exterminate"
   },
   "SolNode5": {
-    "value": "Perdita (Uranus)",
+    "value": "Perdita (Uranüs)",
     "enemy": "Grineer",
     "type": "Ancient Retribution"
   },
@@ -40,44 +40,44 @@
     "type": "Ancient Retribution"
   },
   "SolNode8": {
-    "value": "Nix (Pluto)",
+    "value": "Nix (Plüto)",
     "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode9": {
-    "value": "Rosalind (Uranus)",
+    "value": "Rosalind (Uranüs)",
     "enemy": "Grineer",
     "type": "Casus"
   },
   "SolNode10": {
-    "value": "Thebe (Jupiter)",
+    "value": "Thebe (Jüpiter)",
     "enemy": "Corpus",
     "type": "Sabotaj"
   },
   "SolNode11": {
     "value": "Tharsis (Mars)",
     "enemy": "Corpus",
-    "type": "Hijack"
+    "type": "Kaçırma"
   },
   "SolNode12": {
-    "value": "Elion (Mercury)",
+    "value": "Elion (Merkür)",
     "enemy": "Grineer",
     "type": "Mobil Savunma"
   },
   "SolNode13": {
-    "value": "Bianca (Uranus)",
+    "value": "Bianca (Uranüs)",
     "enemy": "Grineer",
     "type": "Ancient Retribution"
   },
   "SolNode14": {
     "value": "Ultor (Mars)",
     "enemy": "Crossfire",
-    "type": "Exterminate"
+    "type": "Yok Etme"
   },
   "SolNode15": {
     "value": "Pacific (Dünya)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode16": {
     "value": "Augustus (Mars)",
@@ -87,7 +87,7 @@
   "SolNode17": {
     "value": "Proteus (Neptün)",
     "enemy": "Corpus",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode18": {
     "value": "Rhea (Satürn)",
@@ -105,22 +105,22 @@
     "type": "Exterminate"
   },
   "SolNode21": {
-    "value": "Narcissus (Pluto)",
+    "value": "Narcissus (Plüto)",
     "enemy": "Corpus",
-    "type": "Exterminate"
+    "type": "Yok Etme"
   },
   "SolNode22": {
-    "value": "Tessera (Venus)",
+    "value": "Tessera (Venüs)",
     "enemy": "Corpus",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode23": {
     "value": "Cytherean (Venüs)",
     "enemy": "Corpus",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode24": {
-    "value": "Oro (Earth)",
+    "value": "Oro (Dünya)",
     "enemy": "Grineer",
     "type": "Assassination"
   },
@@ -130,9 +130,9 @@
     "type": "Interception"
   },
   "SolNode26": {
-    "value": "Lith (Earth)",
+    "value": "Lith (Dünya)",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode27": {
     "value": "E Prime (Dünya)",
@@ -145,7 +145,7 @@
     "type": "Exterminate"
   },
   "SolNode29": {
-    "value": "Oberon (Uranus)",
+    "value": "Oberon (Uranüs)",
     "enemy": "Grineer",
     "type": "Ancient Retribution"
   },
@@ -157,7 +157,7 @@
   "SolNode31": {
     "value": "Anthe (Saturn)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode32": {
     "value": "Tethys (Saturn)",
@@ -182,7 +182,7 @@
   "SolNode36": {
     "value": "Martialis (Mars)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode37": {
     "value": "Pallene (Saturn)",
@@ -212,7 +212,7 @@
   "SolNode42": {
     "value": "Helene (Saturn)",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode43": {
     "value": "Cerberus (Pluto)",
@@ -232,7 +232,7 @@
   "SolNode46": {
     "value": "Spear (Mars)",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode47": {
     "value": "Janus (Saturn)",
@@ -242,7 +242,7 @@
   "SolNode48": {
     "value": "Regna (Pluto)",
     "enemy": "Corpus",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode49": {
     "value": "Larissa (Neptune)",
@@ -252,7 +252,7 @@
   "SolNode50": {
     "value": "Numa (Saturn)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode51": {
     "value": "Hades (Pluto)",
@@ -302,7 +302,7 @@
   "SolNode60": {
     "value": "Caliban (Uranus)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode61": {
     "value": "Ishtar (Venus)",
@@ -362,7 +362,7 @@
   "SolNode72": {
     "value": "Outer Terminus (Pluto)",
     "enemy": "Corpus",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode73": {
     "value": "Ananke (Jupiter)",
@@ -392,7 +392,7 @@
   "SolNode78": {
     "value": "Triton (Neptune)",
     "enemy": "Corpus",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode79": {
     "value": "Cambria (Earth)",
@@ -422,7 +422,7 @@
   "SolNode84": {
     "value": "Nereid (Neptün)",
     "enemy": "Corpus",
-    "type": "Hijack"
+    "type": "Kaçırma"
   },
   "SolNode85": {
     "value": "Gaia (Earth)",
@@ -547,7 +547,7 @@
   "SolNode109": {
     "value": "Linea (Venus)",
     "enemy": "Corpus",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode110": {
     "value": "Hyperion (Saturn)",
@@ -597,7 +597,7 @@
   "SolNode119": {
     "value": "Caloris (Mercury)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode120": {
     "value": "Halimede (Neptune)",
@@ -612,7 +612,7 @@
   "SolNode122": {
     "value": "Stephano (Uranus)",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode123": {
     "value": "V Prime (Venus)",
@@ -627,12 +627,12 @@
   "SolNode125": {
     "value": "Io (Jupiter)",
     "enemy": "Corpus",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode126": {
     "value": "Metis (Jupiter)",
     "enemy": "Corpus",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode127": {
     "value": "Psamathe (Neptune)",
@@ -647,12 +647,12 @@
   "SolNode129": {
     "value": "Orb Vallis (Venus)",
     "enemy": "Corpus",
-    "type": "Free Roam"
+    "type": "Serbest Dolaşım"
   },
   "SolNode130": {
     "value": "Lares (Mercury)",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode131": {
     "value": "Pallas (Ceres)",
@@ -687,12 +687,12 @@
   "SolNode137": {
     "value": "Nuovo (Ceres)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode138": {
     "value": "Ludi (Ceres)",
     "enemy": "Grineer",
-    "type": "Hijack"
+    "type": "Kaçırma"
   },
   "SolNode139": {
     "value": "Lex (Ceres)",
@@ -745,7 +745,7 @@
   "SolNode149": {
     "value": "Casta (Ceres)",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode150": {
     "value": "Albedo (Ceres)",
@@ -765,7 +765,7 @@
   "SolNode153": {
     "value": "Brugia (Eris)",
     "enemy": "Infested",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode154": {
     "value": "Candiru (Eris)",
@@ -818,7 +818,7 @@
   "SolNode164": {
     "value": "Kala-azar (Eris)",
     "enemy": "Infested",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode165": {
     "value": "Sporid (Eris)",
@@ -943,7 +943,7 @@
   "SolNode189": {
     "value": "Naga (Sedna)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode190": {
     "value": "Nakki (Sedna)",
@@ -953,7 +953,7 @@
   "SolNode191": {
     "value": "Marid (Sedna)",
     "enemy": "Grineer",
-    "type": "Hijack"
+    "type": "Kaçırma"
   },
   "SolNode192": {
     "value": "Tikoloshe (Sedna)",
@@ -973,7 +973,7 @@
   "SolNode195": {
     "value": "Hydron (Sedna)",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode196": {
     "value": "Charybdis (Sedna)",
@@ -1056,7 +1056,7 @@
   "SolNode212": {
     "value": "Paimon (Europa)",
     "enemy": "Corpus",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode213": {
     "value": "Shax (Europa)"
@@ -1064,7 +1064,7 @@
   "SolNode214": {
     "value": "Sorath (Europa)",
     "enemy": "Corpus",
-    "type": "Hijack"
+    "type": "Kaçırma"
   },
   "SolNode215": {
     "value": "Valac (Europa)",
@@ -1079,7 +1079,7 @@
   "SolNode217": {
     "value": "Orias (Europa)",
     "enemy": "Corpus",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode218": {
     "value": "Zagan (Europa)",
@@ -1132,7 +1132,7 @@
   "SolNode228": {
     "value": "Plains of Eidolon (Earth)",
     "enemy": "Grineer",
-    "type": "Free Roam"
+    "type": "Serbest Dolaşım"
   },
   "SolNode400": {
     "value": "Teshub (Void)",
@@ -1147,7 +1147,7 @@
   "SolNode402": {
     "value": "Taranis (Void)",
     "enemy": "Orokin",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode403": {
     "value": "Tiwaz (Void)",
@@ -1177,7 +1177,7 @@
   "SolNode408": {
     "value": "Belenus (Void)",
     "enemy": "Orokin",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode409": {
     "value": "Mot (Void)",
@@ -1232,7 +1232,7 @@
   "SolNode745": {
     "value": "Tamu (Kuva Fortress)",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SolNode746": {
     "value": "Dakata (Kuva Fortress)",
@@ -1247,7 +1247,7 @@
   "SolNode748": {
     "value": "Garus (Kuva Fortress)",
     "enemy": "Grineer",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SolNode901": {
     "value": "Caduceus",
@@ -1322,7 +1322,7 @@
   "SolNode307": {
     "value": "Zeipel (Lua)",
     "enemy": "Corpus",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SettlementNode1": {
     "value": "Roche (Phobos)",
@@ -1377,12 +1377,12 @@
   "SettlementNode11": {
     "value": "Gulliver (Phobos)",
     "enemy": "Corpus",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "SettlementNode12": {
     "value": "Monolith (Phobos)",
     "enemy": "Corpus",
-    "type": "Rescue"
+    "type": "Kurtarma"
   },
   "SettlementNode13": {
     "value": "D'Arrest (Phobos)",
@@ -1547,17 +1547,17 @@
   "EventNode17": {
     "value": "Proxy Rebellion",
     "enemy": "Corpus",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "EventNode18": {
     "value": "Proxy Rebellion",
     "enemy": "Corpus",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "EventNode19": {
     "value": "Mars",
     "enemy": "Grineer",
-    "type": "Defense"
+    "type": "Savunma"
   },
   "EventNode20": {
     "value": "Tyl Regor Sea Lab",
@@ -1602,22 +1602,22 @@
   "EventNode30": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Corpus",
-    "type": "Disruption"
+    "type": "Kargaşa"
   },
   "EventNode31": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Corpus",
-    "type": "Disruption"
+    "type": "Kargaşa"
   },
   "EventNode32": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Corpus",
-    "type": "Disruption"
+    "type": "Kargaşa"
   },
   "EventNode33": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Corpus",
-    "type": "Disruption"
+    "type": "Kargaşa"
   },
   "EventNode34": {
     "value": "Earth",
