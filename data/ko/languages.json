@@ -1101,6 +1101,9 @@
   "/lotus/powersuits/rhino/rhinoprime": {
     "value": "라이노 프라임"
   },
+  "/lotus/powersuits/runner/runner": {
+    "value": "Gauss"
+  },
   "/lotus/powersuits/sandman/sandman": {
     "value": "이나로스"
   },
@@ -3957,6 +3960,9 @@
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "페데스탈 프라임"
   },
+  "/lotus/storeitems/types/items/shipdecos/plushies/plushydesertskate": {
+    "value": "Desert Skate Floof"
+  },
   "/lotus/storeitems/types/items/shipdecos/relayhydroidbobblehead": {
     "value": "Noggle Statue - Hydroid Reprise"
   },
@@ -6041,6 +6047,9 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagepiratetritondark": {
     "value": "하이드로이드 트리톤 프로필 아이콘"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/imagepopsiclegrineerpurple": {
+    "value": "Dog Days Glyph"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagerhinobright": {
     "value": "라이노 프로필 아이콘"
@@ -12015,6 +12024,9 @@
   "/lotus/storeitems/weapons/tenno/pistols/automatichandcrossbow/autocrossbow": {
     "value": "발리스티카"
   },
+  "/lotus/storeitems/weapons/tenno/pistols/conclaveleverpistol/conclaveleverpistol": {
+    "value": "Zylok"
+  },
   "/lotus/storeitems/weapons/tenno/pistols/dexfuris/dexfuris": {
     "value": "덱스 퓨리스"
   },
@@ -12248,6 +12260,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailypickupenergy": {
     "value": "Energizing",
     "desc": "Pick up 20 Energy Orbs"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailypickupmedallion": {
+    "value": "The Hunt is On",
+    "desc": "Find 5 Syndicate Medallions"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
     "value": "Shiny",
@@ -15123,6 +15139,9 @@
   "/lotus/types/storeitems/packages/frostpack": {
     "value": "스테이 프로스티 팩"
   },
+  "/lotus/types/storeitems/packages/gaussbundle": {
+    "value": "Gauss Collection"
+  },
   "/lotus/types/storeitems/packages/garudabundle": {
     "value": "Garuda Collection"
   },
@@ -15200,6 +15219,9 @@
   },
   "/lotus/types/storeitems/packages/halloweenvastoskinpack": {
     "value": "죽은 자의 날 바스토 스킨"
+  },
+  "/lotus/types/storeitems/packages/harrowdeluxeskinbundle": {
+    "value": "Harrow Reliquary Collection"
   },
   "/lotus/types/storeitems/packages/hildrynbundle": {
     "value": "Hildryn Collection"
@@ -16170,6 +16192,9 @@
   "/lotus/upgrades/skins/paladin/paladindeluxesuit": {
     "value": "오베론 페이아크 스킨"
   },
+  "/lotus/upgrades/skins/priest/harrowdeluxesuit": {
+    "value": "Harrow Reliquary Skin"
+  },
   "/lotus/upgrades/skins/promo/seasonal/candycanescytheskin": {
     "value": "스피어민트 사이드"
   },
@@ -16181,6 +16206,9 @@
   },
   "/lotus/upgrades/skins/rhino/rhinodeluxesuit": {
     "value": "라이노 팔라틴 스킨"
+  },
+  "/lotus/upgrades/skins/runner/runneralthelmet": {
+    "value": "Gauss Mag Helmet"
   },
   "/lotus/upgrades/skins/sandman/sandmanalt02helmet": {
     "value": "이나로스 캐노픽 헬멧"
@@ -16244,6 +16272,9 @@
   },
   "/lotus/upgrades/skins/scarves/magdeluxescarf": {
     "value": "바사 샨다나"
+  },
+  "/lotus/upgrades/skins/scarves/sapientcape": {
+    "value": "Altra Syandana"
   },
   "/lotus/upgrades/skins/scarves/shieldframecape": {
     "value": "Surator Syandana"
@@ -16899,6 +16930,9 @@
   "/lotus/weapons/tenno/longguns/repeatingcrossbow/repeatingcrossbow": {
     "value": "제갈"
   },
+  "/lotus/weapons/tenno/longguns/sapientprimary/sapientprimaryweapon": {
+    "value": "Acceltra"
+  },
   "/lotus/weapons/tenno/longguns/tennotommygun/tennotommygunrifle": {
     "value": "스트라다바"
   },
@@ -17246,6 +17280,9 @@
   },
   "/lotus/weapons/tenno/pistols/primevasto/primevastopistol": {
     "value": "바스토 프라임"
+  },
+  "/lotus/weapons/tenno/pistols/sapientpistol/sapientpistol": {
+    "value": "Akarius"
   },
   "/lotus/weapons/tenno/pistols/sawnoffshotgun/tennohandshotgun": {
     "value": "파이라나"

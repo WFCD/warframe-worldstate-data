@@ -2,38 +2,41 @@
   "MT_ARENA": {
     "value": "Rathuum"
   },
+  "MT_ARTIFACT": {
+    "value": "Kargaşa"
+  },
   "MT_ASSAULT": {
-    "value": "Assault"
+    "value": "Saldırı"
   },
   "MT_ASSASSINATION": {
-    "value": "Assassination"
+    "value": "Suikast"
   },
   "MT_CAPTURE": {
     "value": "Ele Geçirme"
   },
   "MT_DEFENSE": {
-    "value": "Defense"
+    "value": "Savunma"
   },
   "MT_DISRUPTION": {
-    "value": "Disruption"
+    "value": "Kargaşa"
   },
   "MT_EVACUATION": {
-    "value": "Defection"
+    "value": "Sığınma"
   },
   "MT_EXCAVATE": {
-    "value": "Excavation"
+    "value": "Kazı"
   },
   "MT_EXTERMINATION": {
-    "value": "Extermination"
+    "value": "Yok Etme"
   },
   "MT_HIVE": {
-    "value": "Hive"
+    "value": "Kovan"
   },
   "MT_INTEL": {
     "value": "Casus"
   },
   "MT_LANDSCAPE": {
-    "value": "Free Roam"
+    "value": "Serbest Dolaşım"
   },
   "MT_MOBILE_DEFENSE": {
     "value": "Mobil Savunma"
@@ -42,10 +45,10 @@
     "value": "Conclave"
   },
   "MT_RESCUE": {
-    "value": "Rescue"
+    "value": "Kurtarma"
   },
   "MT_RETRIEVAL": {
-    "value": "Hijack"
+    "value": "Kaçırma"
   },
   "MT_SABOTAGE": {
     "value": "Sabotaj"
@@ -54,9 +57,9 @@
     "value": "Dark Sector"
   },
   "MT_SURVIVAL": {
-    "value": "Survival"
+    "value": "Hayatta Kalma"
   },
   "MT_TERRITORY": {
-    "value": "Interception"
+    "value": "Engelleme"
   }
 }
