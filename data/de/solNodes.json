@@ -152,7 +152,7 @@
   "SolNode30": {
     "value": "Olympus (Mars)",
     "enemy": "Grineer",
-    "type": "Mobile Verteidigung"
+    "type": "Disruption"
   },
   "SolNode31": {
     "value": "Anthe (Saturn)",
@@ -437,7 +437,7 @@
   "SolNode87": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "Disruption"
   },
   "SolNode88": {
     "value": "Adrastea (Jupiter)",
@@ -592,7 +592,7 @@
   "SolNode118": {
     "value": "Laomedeia (Neptune)",
     "enemy": "Corpus",
-    "type": "Spionage"
+    "type": "Disruption"
   },
   "SolNode119": {
     "value": "Caloris (Mercury)",
@@ -938,7 +938,7 @@
   "SolNode188": {
     "value": "Kelpie (Sedna)",
     "enemy": "Grineer",
-    "type": "Sabotage"
+    "type": "Disruption"
   },
   "SolNode189": {
     "value": "Naga (Sedna)",
@@ -1232,7 +1232,7 @@
   "SolNode745": {
     "value": "Tamu (Kuva Fortress)",
     "enemy": "Grineer",
-    "type": "Verteidigung"
+    "type": "Disruption"
   },
   "SolNode746": {
     "value": "Dakata (Kuva Fortress)",
@@ -1323,6 +1323,11 @@
     "value": "Zeipel (Lua)",
     "enemy": "Corpus",
     "type": "Rettung"
+  },
+  "SolNode308": {
+    "value": "Apollo (Lua)",
+    "enemy": "Corpus",
+    "type": "Disruption"
   },
   "SettlementNode1": {
     "value": "Roche (Phobos)",
