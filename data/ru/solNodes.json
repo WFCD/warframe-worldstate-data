@@ -152,7 +152,7 @@
   "SolNode30": {
     "value": "Olympus (Марс)",
     "enemy": "Гринир",
-    "type": "М. Оборона"
+    "type": "Disruption"
   },
   "SolNode31": {
     "value": "Anthe (Сатурн)",
@@ -437,7 +437,7 @@
   "SolNode87": {
     "value": "Ganymede (Юпитер)",
     "enemy": "Корпус",
-    "type": "Возмездие Древних"
+    "type": "Disruption"
   },
   "SolNode88": {
     "value": "Adrastea (Юпитер)",
@@ -592,7 +592,7 @@
   "SolNode118": {
     "value": "Laomedeia (Нептун)",
     "enemy": "Корпус",
-    "type": "Шпионаж"
+    "type": "Disruption"
   },
   "SolNode119": {
     "value": "Caloris (Меркурий)",
@@ -938,7 +938,7 @@
   "SolNode188": {
     "value": "Kelpie (Седна)",
     "enemy": "Гринир",
-    "type": "Диверсия"
+    "type": "Disruption"
   },
   "SolNode189": {
     "value": "Naga (Седна)",
@@ -1232,7 +1232,7 @@
   "SolNode745": {
     "value": "Tamu (Крепость Кувы)",
     "enemy": "Гринир",
-    "type": "Оборона"
+    "type": "Disruption"
   },
   "SolNode746": {
     "value": "Dakata (Крепость Кувы)",
@@ -1323,6 +1323,11 @@
     "value": "Zeipel (Луа)",
     "enemy": "Корпус",
     "type": "Спасение"
+  },
+  "SolNode308": {
+    "value": "Apollo (Lua)",
+    "enemy": "Корпус",
+    "type": "Disruption"
   },
   "SettlementNode1": {
     "value": "Roche (Фобос)",
