@@ -152,7 +152,7 @@
   "SolNode30": {
     "value": "Olympus (火星)",
     "enemy": "格里尼勒",
-    "type": "移動防禦"
+    "type": "Disruption"
   },
   "SolNode31": {
     "value": "Anthe (土星)",
@@ -437,7 +437,7 @@
   "SolNode87": {
     "value": "Ganymede (木星)",
     "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "type": "Disruption"
   },
   "SolNode88": {
     "value": "Adrastea (木星)",
@@ -592,7 +592,7 @@
   "SolNode118": {
     "value": "Laomedeia (海王星)",
     "enemy": "尸体",
-    "type": "間諜"
+    "type": "Disruption"
   },
   "SolNode119": {
     "value": "Caloris (水星)",
@@ -938,7 +938,7 @@
   "SolNode188": {
     "value": "Kelpie (賽德娜)",
     "enemy": "格里尼勒",
-    "type": "破壞"
+    "type": "Disruption"
   },
   "SolNode189": {
     "value": "Naga (賽德娜)",
@@ -1232,7 +1232,7 @@
   "SolNode745": {
     "value": "Tamu (Kuva 要塞)",
     "enemy": "格里尼勒",
-    "type": "防禦"
+    "type": "Disruption"
   },
   "SolNode746": {
     "value": "Dakata (Kuva 要塞)",
@@ -1323,6 +1323,11 @@
     "value": "Zeipel (月球)",
     "enemy": "尸体",
     "type": "救援"
+  },
+  "SolNode308": {
+    "value": "Apollo (Lua)",
+    "enemy": "尸体",
+    "type": "Disruption"
   },
   "SettlementNode1": {
     "value": "Roche (火衛一)",
