@@ -22,7 +22,8 @@
   "scripts": {
     "lint": "npx eslint --ignore-path .gitignore .",
     "lint:fix": "npx eslint --ignore-path .gitignore . --fix",
-    "test": "npx mocha",
+    "test": "npx nyc --reporter=html --reporter=text mocha",
+    "coverage": "npm test && npx nyc report --reporter=text-lcov | npx coveralls",
     "sort_lang": "python tools/sort_languages.py"
   },
   "repository": {
