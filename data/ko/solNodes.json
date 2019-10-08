@@ -152,7 +152,7 @@
   "SolNode30": {
     "value": "Olympus (화성)",
     "enemy": "그리니어",
-    "type": "모바일 방어"
+    "type": "Disruption"
   },
   "SolNode31": {
     "value": "Anthe (토성)",
@@ -437,7 +437,7 @@
   "SolNode87": {
     "value": "Ganymede (목성)",
     "enemy": "코퍼스",
-    "type": "에인션트 레트리뷰션"
+    "type": "Disruption"
   },
   "SolNode88": {
     "value": "Adrastea (목성)",
@@ -592,7 +592,7 @@
   "SolNode118": {
     "value": "Laomedeia (해왕성)",
     "enemy": "코퍼스",
-    "type": "첩보활동"
+    "type": "Disruption"
   },
   "SolNode119": {
     "value": "Caloris (수성)",
@@ -938,7 +938,7 @@
   "SolNode188": {
     "value": "Kelpie (세드나)",
     "enemy": "그리니어",
-    "type": "파괴공작"
+    "type": "Disruption"
   },
   "SolNode189": {
     "value": "Naga (세드나)",
@@ -1232,7 +1232,7 @@
   "SolNode745": {
     "value": "Tamu (쿠바 요새)",
     "enemy": "그리니어",
-    "type": "방어"
+    "type": "Disruption"
   },
   "SolNode746": {
     "value": "Dakata (쿠바 요새)",
@@ -1323,6 +1323,11 @@
     "value": "Zeipel (루아)",
     "enemy": "코퍼스",
     "type": "구출"
+  },
+  "SolNode308": {
+    "value": "Apollo (Lua)",
+    "enemy": "코퍼스",
+    "type": "Disruption"
   },
   "SettlementNode1": {
     "value": "Roche (포보스)",
