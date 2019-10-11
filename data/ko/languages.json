@@ -3864,6 +3864,18 @@
   "/lotus/storeitems/types/items/shipdecos/barokiteerbobblehead": {
     "value": "노글 스태츄 - 바로 키'티어"
   },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationa": {
+    "value": "Mahd Luxxum Ornament"
+  },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationb": {
+    "value": "Akka Luxxum Ornament"
+  },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationc": {
+    "value": "Zag Luxxum Ornament"
+  },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationd": {
+    "value": "Dvad Luxxum Ornament"
+  },
   "/lotus/storeitems/types/items/shipdecos/conclaveoroornament": {
     "value": "오로 장식품"
   },
@@ -5820,6 +5832,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagefrostsqualldark": {
     "value": "프로스트 스퀄 프로필 아이콘"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/imagegaussved": {
+    "value": "Gauss In Action Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imagegraeaelimbobright": {
     "value": "림보 마그리트 프로필 아이콘"
   },
@@ -6224,6 +6239,9 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/seasonal/avatarimageglyphcookiekubrow": {
     "value": "Cookie Kubrow Glyph"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/seasonal/halloween2019grendeltreat": {
+    "value": "In Mah Belly Glyph"
   },
   "/lotus/storeitems/types/storeitems/consumables/restoratives/creditchiplargeblueprint": {
     "value": "패쇼네트 보이드 오퍼링"
@@ -13837,6 +13855,9 @@
   "/lotus/types/items/shipdecos/grineerchampionsheavybobblehead": {
     "value": "처형인 두르남 - 노글 스태츄"
   },
+  "/lotus/types/items/shipdecos/lisetproplotusmandolin": {
+    "value": "Nelumbo Shawzin"
+  },
   "/lotus/types/items/shipdecos/lisetpropmandolin": {
     "value": "Shawzin"
   },
@@ -14962,6 +14983,9 @@
   "/lotus/types/storeitems/boosters/goodstuffdropchanceboosterstoreitem": {
     "value": "드롭 찬스 부스터"
   },
+  "/lotus/types/storeitems/boosters/moddropchancebooster3daystoreitem": {
+    "value": "3 Day Mod Drop Chance Booster"
+  },
   "/lotus/types/storeitems/boosters/moddropchanceboosterstoreitem": {
     "value": "모드 드롭 찬스 부스터"
   },
@@ -15015,6 +15039,9 @@
   },
   "/lotus/types/storeitems/packages/atlasdeluxeskinbundle": {
     "value": "Atlas Karst Collection"
+  },
+  "/lotus/types/storeitems/packages/auraformathreepack": {
+    "value": "Aura Forma Bundle"
   },
   "/lotus/types/storeitems/packages/bansheedeluxeskinbundle": {
     "value": "밴쉬 소프라나 번들"
