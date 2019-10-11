@@ -3864,6 +3864,18 @@
   "/lotus/storeitems/types/items/shipdecos/barokiteerbobblehead": {
     "value": "Фигурка - Баро Ки'Тиир"
   },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationa": {
+    "value": "Mahd Luxxum Ornament"
+  },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationb": {
+    "value": "Akka Luxxum Ornament"
+  },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationc": {
+    "value": "Zag Luxxum Ornament"
+  },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationd": {
+    "value": "Dvad Luxxum Ornament"
+  },
   "/lotus/storeitems/types/items/shipdecos/conclaveoroornament": {
     "value": "Орнамент Оро"
   },
@@ -5820,6 +5832,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagefrostsqualldark": {
     "value": "Глиф Фроста \"Аврора\""
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/imagegaussved": {
+    "value": "Gauss In Action Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imagegraeaelimbobright": {
     "value": "Глиф Лимбо \"Магрит\""
   },
@@ -6224,6 +6239,9 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/seasonal/avatarimageglyphcookiekubrow": {
     "value": "Cookie Kubrow Glyph"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/seasonal/halloween2019grendeltreat": {
+    "value": "In Mah Belly Glyph"
   },
   "/lotus/storeitems/types/storeitems/consumables/restoratives/creditchiplargeblueprint": {
     "value": "Горячее предложение из Бездны"
@@ -13837,6 +13855,9 @@
   "/lotus/types/items/shipdecos/grineerchampionsheavybobblehead": {
     "value": "Фигурка - Палач Дурнам"
   },
+  "/lotus/types/items/shipdecos/lisetproplotusmandolin": {
+    "value": "Nelumbo Shawzin"
+  },
   "/lotus/types/items/shipdecos/lisetpropmandolin": {
     "value": "Shawzin"
   },
@@ -14962,6 +14983,9 @@
   "/lotus/types/storeitems/boosters/goodstuffdropchanceboosterstoreitem": {
     "value": "Drop Chance Booster"
   },
+  "/lotus/types/storeitems/boosters/moddropchancebooster3daystoreitem": {
+    "value": "3 Day Mod Drop Chance Booster"
+  },
   "/lotus/types/storeitems/boosters/moddropchanceboosterstoreitem": {
     "value": "Mod Drop Chance Booster"
   },
@@ -15015,6 +15039,9 @@
   },
   "/lotus/types/storeitems/packages/atlasdeluxeskinbundle": {
     "value": "Atlas Karst Collection"
+  },
+  "/lotus/types/storeitems/packages/auraformathreepack": {
+    "value": "Aura Forma Bundle"
   },
   "/lotus/types/storeitems/packages/bansheedeluxeskinbundle": {
     "value": "Banshee Soprana Bundle"
