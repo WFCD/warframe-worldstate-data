@@ -710,6 +710,12 @@
   "/lotus/language/events/amalgameventtooltip": {
     "value": "Operation: Hostile Mergers"
   },
+  "/lotus/language/events/tacalerthalloweenlantern": {
+    "value": "Tactical Alert: Hallowed Flame"
+  },
+  "/lotus/language/events/tacalerthalloweenlanternendless": {
+    "value": "Tactical Alert: Hallowed Flame - Endless"
+  },
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "로터스의 선물 - 도난당함!"
   },
@@ -3875,6 +3881,12 @@
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationd": {
     "value": "Dvad Luxxum Ornament"
+  },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecoratione": {
+    "value": "Asra Luxxum Ornament"
+  },
+  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationf": {
+    "value": "Puspa Luxxum Ornament"
   },
   "/lotus/storeitems/types/items/shipdecos/conclaveoroornament": {
     "value": "오로 장식품"
@@ -9621,6 +9633,9 @@
   "/lotus/storeitems/upgrades/skins/dualaxe/daggeraxe": {
     "value": "듀얼 조런 대거-액스 스킨"
   },
+  "/lotus/storeitems/upgrades/skins/effects/batsephemera": {
+    "value": "Naberus Ephemera"
+  },
   "/lotus/storeitems/upgrades/skins/ember/emberagileanims": {
     "value": "엠버 애자일 애니메이션 세트"
   },
@@ -11381,6 +11396,9 @@
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
     "value": "감마코어"
+  },
+  "/lotus/storeitems/weapons/corpus/pistols/crpelectromag/crpelectromag": {
+    "value": "스태티코어"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
     "value": "앙스트럼"
