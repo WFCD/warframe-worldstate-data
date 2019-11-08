@@ -3,31 +3,31 @@
     "name": "Ancient Disruptor",
     "locations": [
       {
-        "last_verified": "2018-09-12",
-        "level": "32-36",
+        "last_verified": "2019-02-24",
+        "level": "6-16",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
-        "mission": "ISOS",
-        "planet": "ERIS",
-        "type": "CAPTURE"
+        "mission": "TIKAL",
+        "planet": "EARTH",
+        "type": "EXCAVATION"
       },
       {
-        "last_verified": "2018-05-15",
+        "last_verified": "2019-02-24",
         "level": "8-10",
-        "faction": "GRINEER + INFESTATION",
+        "faction": "GRINEER VS INFESTATION",
         "spawn_rate": "100%",
         "mission": "TERMINUS",
         "planet": "MERCURY",
         "type": "SABOTAGE"
       },
       {
-        "last_verified": "2018-04-22",
-        "level": "8-10",
+        "last_verified": "2019-02-24",
+        "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
-        "mission": "BOETHIUS",
-        "planet": "MERCURY",
-        "type": "MOBILE DEFENSE"
+        "mission": "ISOS",
+        "planet": "ERIS",
+        "type": "CAPTURE"
       }
     ]
   },
@@ -49,20 +49,47 @@
     "name": "Anti MOA [Research]",
     "locations": [
       {
-        "last_verified": "2018-05-22",
+        "last_verified": "2019-07-01",
+        "level": "34-38",
+        "faction": "CORPUS",
+        "spawn_rate": "100%",
+        "mission": "ACHERON",
+        "planet": "PLUTO",
+        "type": "EXTERMINATE"
+      },
+      {
+        "last_verified": "0000-00-00",
+        "level": "18-33",
+        "faction": "CORPUS",
+        "spawn_rate": "?%",
+        "mission": "VALEFOR",
+        "planet": "EUROPA",
+        "type": "EXCAVATION"
+      },
+      {
+        "last_verified": "2019-01-11",
         "level": "18-20",
         "faction": "CORPUS",
         "spawn_rate": "100%",
-        "mission": "ADRASTEA",
+        "mission": "ADRASTEA (Outdated)",
         "planet": "JUPITER",
         "type": "SABOTAGE"
       },
       {
-        "last_verified": "2018-04-28",
+        "last_verified": "2019-01-11",
+        "level": "16-18",
+        "faction": "CORPUS",
+        "spawn_rate": "100%",
+        "mission": "ANANKE (Outdated)",
+        "planet": "JUPITER",
+        "type": "CAPTURE"
+      },
+      {
+        "last_verified": "2019-01-11",
         "level": "15-17",
         "faction": "CORPUS",
-        "spawn_rate": "81%",
-        "mission": "METIS*",
+        "spawn_rate": "100%",
+        "mission": "METIS (Outdated)",
         "planet": "JUPITER",
         "type": "RESCUE"
       }
@@ -86,7 +113,7 @@
     "name": "Ballista",
     "locations": [
       {
-        "last_verified": "2018-09-25",
+        "last_verified": "2019-02-15",
         "level": "2-4",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -95,7 +122,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-25",
+        "last_verified": "2019-02-15",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -109,7 +136,7 @@
     "name": "Boiler",
     "locations": [
       {
-        "last_verified": "2018-09-28",
+        "last_verified": "2019-01-23",
         "level": "23-33",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -118,7 +145,7 @@
         "type": "EXCAVATION"
       },
       {
-        "last_verified": "2018-05-04",
+        "last_verified": "2019-01-23",
         "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -127,7 +154,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-26",
+        "last_verified": "2019-01-23",
         "level": "25-35",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -141,7 +168,7 @@
     "name": "Bombard",
     "locations": [
       {
-        "last_verified": "2017-08-24",
+        "last_verified": "2019-01-20",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -150,7 +177,7 @@
         "type": "SABOTAGE"
       },
       {
-        "last_verified": "2018-09-09",
+        "last_verified": "2019-01-08",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -159,7 +186,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2017-08-24",
+        "last_verified": "2019-01-20",
         "level": "13-15",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -168,7 +195,7 @@
         "type": "RESCUE"
       },
       {
-        "last_verified": "2018-07-05",
+        "last_verified": "2019-01-20",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -182,7 +209,16 @@
     "name": "Brood Mother",
     "locations": [
       {
-        "last_verified": "2018-05-11",
+        "last_verified": "2019-04-16",
+        "level": "6-16",
+        "faction": "INFESTATION",
+        "spawn_rate": "100%",
+        "mission": "TIKAL",
+        "planet": "EARTH",
+        "type": "EXCAVATION"
+      },
+      {
+        "last_verified": "2019-01-26",
         "level": "15-25",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -191,7 +227,7 @@
         "type": "SURVIVAL"
       },
       {
-        "last_verified": "2018-02-15",
+        "last_verified": "2019-01-29",
         "level": "25-35",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -200,7 +236,7 @@
         "type": "SURVIVAL"
       },
       {
-        "last_verified": "2018-09-24",
+        "last_verified": "2019-01-26",
         "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -214,7 +250,7 @@
     "name": "Butcher",
     "locations": [
       {
-        "last_verified": "2018-09-25",
+        "last_verified": "2019-02-26",
         "level": "2-4",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -232,16 +268,16 @@
         "type": "RESCUE"
       },
       {
-        "last_verified": "2018-09-25",
+        "last_verified": "2019-06-26",
         "level": "7-9",
         "faction": "GRINEER",
-        "spawn_rate": "68%",
+        "spawn_rate": "78%",
         "mission": "ELION*",
         "planet": "MERCURY",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-03",
+        "last_verified": "2019-02-26",
         "level": "36-40",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -255,16 +291,25 @@
     "name": "Charger",
     "locations": [
       {
-        "last_verified": "2018-09-19",
+        "last_verified": "2019-06-27",
         "level": "8-10",
-        "faction": "GRINEER VS. INFESTATION",
+        "faction": "GRINEER VS INFESTATION",
         "spawn_rate": "100%",
         "mission": "TERMINUS",
         "planet": "MERCURY",
         "type": "CROSSFIRE SABOTAGE"
       },
       {
-        "last_verified": "2018-09-08",
+        "last_verified": "2019-09-01",
+        "level": "7-9",
+        "faction": "GRINEER VS INFESTATION",
+        "spawn_rate": "100%",
+        "mission": "M PRIME",
+        "planet": "MERCURY",
+        "type": "CROSSFIRE EXTERMINATE"
+      },
+      {
+        "last_verified": "2019-06-27",
         "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -292,7 +337,7 @@
     "name": "Corrupted Ancient [Research]",
     "locations": [
       {
-        "last_verified": "2018-09-29",
+        "last_verified": "2019-02-05",
         "level": "10-15",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -301,7 +346,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2017-01-05",
+        "last_verified": "2019-02-05",
         "level": "20-25",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -310,7 +355,7 @@
         "type": "SABOTAGE"
       },
       {
-        "last_verified": "2018-04-10",
+        "last_verified": "2019-02-05",
         "level": "20-25",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -324,7 +369,7 @@
     "name": "Corrupted Bombard",
     "locations": [
       {
-        "last_verified": "2018-08-29",
+        "last_verified": "2019-06-05",
         "level": "30-35",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -333,7 +378,7 @@
         "type": "EXTERMINATE"
       },
       {
-        "last_verified": "2018-04-26",
+        "last_verified": "2019-01-12",
         "level": "40-45",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -347,7 +392,7 @@
     "name": "Corrupted Butcher",
     "locations": [
       {
-        "last_verified": "2018-06-17",
+        "last_verified": "2019-01-25",
         "level": "10-15",
         "faction": "OROKIN",
         "spawn_rate": "94%",
@@ -356,7 +401,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-05-24",
+        "last_verified": "2019-01-25",
         "level": "10-15",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -370,6 +415,7 @@
     "name": "Corrupted Crewman",
     "locations": [
       {
+        "last_verified": "2019-01-28",
         "level": "10-15",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -378,6 +424,7 @@
         "type": "EXTERMINATE"
       },
       {
+        "last_verified": "2019-01-28",
         "level": "10-15",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -391,7 +438,7 @@
     "name": "Corrupted Heavy Gunner",
     "locations": [
       {
-        "last_verified": "2018-05-07",
+        "last_verified": "2019-03-23",
         "level": "10-15",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -400,7 +447,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2017-05-27",
+        "last_verified": "2019-03-23",
         "level": "10-15",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -409,7 +456,7 @@
         "type": "EXTERMINATE"
       },
       {
-        "last_verified": "2018-04-16",
+        "last_verified": "2019-03-23",
         "level": "30-35",
         "faction": "OROKIN",
         "spawn_rate": "100%",
@@ -428,16 +475,16 @@
         "faction": "OROKIN",
         "spawn_rate": "100%",
         "mission": "HEPIT",
-        "planet": "VOID",
+        "planet": "VOID - T1",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-05-11",
+        "last_verified": "2019-03-17",
         "level": "30-35",
         "faction": "OROKIN",
         "spawn_rate": "100%",
         "mission": "UKKO",
-        "planet": "VOID",
+        "planet": "VOID - T3",
         "type": "CAPTURE"
       }
     ]
@@ -446,12 +493,12 @@
     "name": "Corrupted Nullifier",
     "locations": [
       {
-        "last_verified": "2018-06-06",
+        "last_verified": "2019-08-14",
         "level": "30-35",
         "faction": "OROKIN",
         "spawn_rate": "78%",
         "mission": "OXOMOCO",
-        "planet": "VOID",
+        "planet": "VOID - T3",
         "type": "EXTERMINATE"
       }
     ]
@@ -478,16 +525,16 @@
         "type": "SURIVAL"
       },
       {
-        "last_verified": "2018-01-22",
+        "last_verified": "2019-05-30",
         "level": "18-20",
-        "faction": "GRINEER+INFESTATION",
+        "faction": "GRINEER VS INFESTATION",
         "spawn_rate": "100%",
         "mission": "ARMAROS",
         "planet": "EUROPA",
         "type": "EXTERMINATE"
       },
       {
-        "last_verified": "2018-09-08",
+        "last_verified": "2019-03-07",
         "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -496,7 +543,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2017-06-10",
+        "last_verified": "2019-03-07",
         "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -509,9 +556,9 @@
         "level": "25-35",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
-        "mission": "Assassinate",
+        "mission": "ASSASSINATE",
         "planet": "DERELICT",
-        "type": "Assassinate"
+        "type": "ASSASSINATE"
       }
     ]
   },
@@ -519,21 +566,12 @@
     "name": "Crewman [Research]",
     "locations": [
       {
-        "last_verified": "Unconfirmed",
-        "level": "12-17",
+        "last_verified": "2019-08-16",
+        "level": "25-30",
         "faction": "CORPUS",
         "spawn_rate": "100%",
-        "mission": "ADRASTEA",
-        "planet": "JUPITER",
-        "type": "SABOTAGE"
-      },
-      {
-        "last_verified": "2017-09-28",
-        "level": "16-18",
-        "faction": "CORPUS",
-        "spawn_rate": "80%",
-        "mission": "ANANKE*",
-        "planet": "JUPITER",
+        "mission": "COPERNICUS",
+        "planet": "LUA",
         "type": "CAPTURE"
       }
     ]
@@ -542,7 +580,7 @@
     "name": "Drahk Master",
     "locations": [
       {
-        "last_verified": "2018-08-04",
+        "last_verified": "2019-01-31",
         "level": "21-23",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -551,10 +589,10 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-07-27",
+        "last_verified": "2019-01-31",
         "level": "22-24",
         "faction": "GRINEER",
-        "spawn_rate": "88%",
+        "spawn_rate": "90%",
         "mission": "ANTHE",
         "planet": "SATURN",
         "type": "RESCUE"
@@ -565,22 +603,31 @@
     "name": "Elite Crewman",
     "locations": [
       {
-        "last_verified": "2018-09-06",
-        "level": "16-18",
+        "last_verified": "2019-09-28",
+        "level": "25-30",
         "faction": "CORPUS",
-        "spawn_rate": "82%",
-        "mission": "ANANKE*",
-        "planet": "JUPITER",
+        "spawn_rate": "100%",
+        "mission": "COPERNICUS",
+        "planet": "LUA",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2017-04-16",
-        "level": "15-17",
+        "last_verified": "2019-09-28",
+        "level": "25-30",
         "faction": "CORPUS",
         "spawn_rate": "100%",
-        "mission": "METIS*",
-        "planet": "JUPITER",
+        "mission": "ZEIPEL",
+        "planet": "LUA",
         "type": "RESCUE"
+      },
+      {
+        "last_verified": "2019-08-16",
+        "level": "5-7",
+        "faction": "CORPUS",
+        "spawn_rate": "100%",
+        "mission": "VENERA",
+        "planet": "VENUS",
+        "type": "CAPTURE"
       }
     ]
   },
@@ -588,7 +635,7 @@
     "name": "Eviscerator",
     "locations": [
       {
-        "last_verified": "2018-09-19",
+        "last_verified": "2019-01-24",
         "level": "10-12",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -597,7 +644,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-04",
+        "last_verified": "2019-01-15",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -606,7 +653,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-03-31",
+        "last_verified": "2019-01-15",
         "level": "13-15",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -615,7 +662,7 @@
         "type": "RESCUE"
       },
       {
-        "last_verified": "2016-12-23",
+        "last_verified": "2019-09-12",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -629,7 +676,7 @@
     "name": "Fusion MOA",
     "locations": [
       {
-        "last_verified": "2018-09-26",
+        "last_verified": "2019-01-29",
         "level": "9-11",
         "faction": "CORPUS",
         "spawn_rate": "100%",
@@ -638,7 +685,7 @@
         "type": "SABOTAGE"
       },
       {
-        "last_verified": "2018-09-26",
+        "last_verified": "2019-01-29",
         "level": "12-14",
         "faction": "CORPUS",
         "spawn_rate": "100%",
@@ -647,7 +694,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-21",
+        "last_verified": "2019-01-29",
         "level": "21-23",
         "faction": "CORPUS",
         "spawn_rate": "100%",
@@ -656,7 +703,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-21",
+        "last_verified": "2019-01-29",
         "level": "30-34",
         "faction": "CORPUS",
         "spawn_rate": "100%",
@@ -670,7 +717,7 @@
     "name": "Guardsman [Research]",
     "locations": [
       {
-        "last_verified": "2018-09-17",
+        "last_verified": "2019-02-01",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -679,7 +726,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-12",
+        "last_verified": "2019-02-01",
         "level": "13-15",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -688,7 +735,7 @@
         "type": "RESCUE"
       },
       {
-        "last_verified": "2018-07-25",
+        "last_verified": "2019-02-01",
         "level": "13-15",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -702,16 +749,25 @@
     "name": "Heavy Gunner",
     "locations": [
       {
-        "last_verified": "2018-09-22",
+        "last_verified": "2019-08-13",
         "level": "7-9",
         "faction": "GRINEER",
-        "spawn_rate": "72%",
+        "spawn_rate": "77%",
         "mission": "ELION",
         "planet": "MERCURY",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-15",
+        "last_verified": "2019-08-13",
+        "level": "6-8",
+        "faction": "GRINEER",
+        "spawn_rate": "100%",
+        "mission": "CALORIS",
+        "planet": "MERCURY",
+        "type": "RESCUE"
+      },
+      {
+        "last_verified": "2019-08-13",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -720,22 +776,13 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-05-13",
-        "level": "36-40",
+        "last_verified": "2019-08-13",
+        "level": "32-36",
         "faction": "GRINEER",
         "spawn_rate": "100%",
         "mission": "RUSALKA",
         "planet": "SEDNA",
-        "type": "CAPTURE"
-      },
-      {
-        "last_verified": "2016-09-25",
-        "level": "32-36",
-        "faction": "GRINEER",
-        "spawn_rate": "100%",
-        "mission": "NAGA",
-        "planet": "SEDNA",
-        "type": "RESCUE"
+        "type": "SABOTAGE"
       }
     ]
   },
@@ -743,37 +790,28 @@
     "name": "Hellion",
     "locations": [
       {
-        "last_verified": "2016-09-18",
-        "level": "13-15",
+        "last_verified": "2019-08-15",
+        "level": "10-12",
         "faction": "GRINEER",
-        "spawn_rate": "66%",
-        "mission": "NUOVO",
-        "planet": "CERES",
-        "type": "RESCUE"
+        "spawn_rate": "100%",
+        "mission": "ARA",
+        "planet": "MARS",
+        "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-04",
+        "last_verified": "2019-03-30",
         "level": "14-16",
         "faction": "GRINEER",
-        "spawn_rate": "55%",
+        "spawn_rate": "100%",
         "mission": "LEX",
         "planet": "CERES",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-03-28",
-        "level": "13-15",
-        "faction": "GRINEER",
-        "spawn_rate": "100%",
-        "mission": "KISTE",
-        "planet": "CERES",
-        "type": "MOBILE DEFENSE"
-      },
-      {
-        "last_verified": "2018-08-09",
+        "last_verified": "2019-03-30",
         "level": "32-36",
         "faction": "GRINEER",
-        "spawn_rate": "100%",
+        "spawn_rate": "90%",
         "mission": "RUSALKA",
         "planet": "SEDNA",
         "type": "CAPTURE"
@@ -784,16 +822,16 @@
     "name": "Lancer [Research]",
     "locations": [
       {
-        "last_verified": "2018-05-23",
+        "last_verified": "2019-02-14",
         "level": "7-9",
         "faction": "GRINEER",
-        "spawn_rate": "80%",
+        "spawn_rate": "81%",
         "mission": "ELION",
         "planet": "MERCURY",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-05-10",
+        "last_verified": "2019-02-14",
         "level": "6-8",
         "faction": "GRINEER",
         "spawn_rate": "80%",
@@ -802,7 +840,7 @@
         "type": "RESCUE"
       },
       {
-        "last_verified": "2018-05-10",
+        "last_verified": "2019-02-14",
         "level": "6-8",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -811,7 +849,7 @@
         "type": "EXTERMINATE"
       },
       {
-        "last_verified": "2018-05-10",
+        "last_verified": "2019-06-24",
         "level": "21-23",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -820,7 +858,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "Unverified",
+        "last_verified": "2019-02-14",
         "level": "34-38",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -834,7 +872,7 @@
     "name": "Leaper",
     "locations": [
       {
-        "last_verified": "2018-09-23",
+        "last_verified": "2019-01-13",
         "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -852,22 +890,22 @@
         "type": "EXCAVATION"
       },
       {
-        "last_verified": "2018-09-23",
+        "last_verified": "2019-01-13",
         "level": "8-10",
-        "faction": "GRINEER VS. INFESTATION",
+        "faction": "GRINEER VS INFESTATION",
         "spawn_rate": "92%",
         "mission": "TERMINUS",
         "planet": "MERCURY",
-        "type": "SABOTAGE"
+        "type": "CROSSFIRE SABOTAGE"
       },
       {
         "last_verified": "2018-09-23",
         "level": "7-9",
-        "faction": "GRINEER VS. INFESTATION",
+        "faction": "GRINEER VS INFESTATION",
         "spawn_rate": "33%",
         "mission": "M PRIME",
         "planet": "MERCURY",
-        "type": "EXTERMINATE"
+        "type": "CROSSFIRE EXTERMINATE"
       }
     ]
   },
@@ -875,7 +913,7 @@
     "name": "MOA",
     "locations": [
       {
-        "last_verified": "2018-04-18",
+        "last_verified": "2019-04-04",
         "level": "5-7",
         "faction": "CORPUS",
         "spawn_rate": "100%",
@@ -884,7 +922,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2017-04-28",
+        "last_verified": "2019-04-04",
         "level": "5-7",
         "faction": "CORPUS",
         "spawn_rate": "100%",
@@ -893,7 +931,7 @@
         "type": "RESCUE"
       },
       {
-        "last_verified": "2017-04-28",
+        "last_verified": "2019-04-04",
         "level": "3-5",
         "faction": "CORPUS",
         "spawn_rate": "100%",
@@ -907,7 +945,7 @@
     "name": "Napalm",
     "locations": [
       {
-        "last_verified": "2018-08-31",
+        "last_verified": "2019-01-21",
         "level": "21-23",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -930,11 +968,29 @@
     "name": "Nullifier Crewman",
     "locations": [
       {
-        "last_verified": "2018-09-10",
+        "last_verified": "2019-06-27",
+        "level": "21-23",
+        "faction": "CORPUS",
+        "spawn_rate": "100%",
+        "mission": "ABADDON",
+        "planet": "EUROPA",
+        "type": "CAPTURE"
+      },
+      {
+        "last_verified": "2019-04-06",
+        "level": "21-23",
+        "faction": "CORPUS",
+        "spawn_rate": "100%",
+        "mission": "ORIAS (Unconfirmed)",
+        "planet": "EUROPA",
+        "type": "RESCUE"
+      },
+      {
+        "last_verified": "2018-04-10",
         "level": "16-18",
         "faction": "CORPUS",
         "spawn_rate": "90%",
-        "mission": "ANANKE*",
+        "mission": "ANANKE (Outdated)",
         "planet": "JUPITER",
         "type": "CAPTURE"
       },
@@ -943,7 +999,7 @@
         "level": "17-19",
         "faction": "CORPUS",
         "spawn_rate": "78%",
-        "mission": "CARPO*",
+        "mission": "CARPO (Outdated)",
         "planet": "JUPITER",
         "type": "EXTERMINATE"
       }
@@ -953,22 +1009,22 @@
     "name": "Runner [Research]",
     "locations": [
       {
-        "planet": "??",
-        "mission": "??",
-        "planet": "EXTERMINATE",
         "last_verified": "2018-01-06",
         "level": "34-38",
         "faction": "INFESTATION",
-        "spawn_rate": "100%"
+        "spawn_rate": "100%",
+        "mission": "SAXIS",
+        "planet": "ERIS",
+        "type": "EXTERMINATE"
       },
       {
-        "planet": "??",
-        "mission": "??",
-        "type": "EXTERMINATE",
         "last_verified": "2018-08-31",
-        "level": "??-??",
+        "level": "34-38",
         "faction": "INFESTATION",
-        "spawn_rate": "100%"
+        "spawn_rate": "100%",
+        "mission": "EXTERMINATE",
+        "planet": "DERELICT",
+        "type": "OD EXTERMINATE"
       }
     ]
   },
@@ -976,20 +1032,29 @@
     "name": "Scorch",
     "locations": [
       {
-        "last_verified": "2018-06-17",
+        "last_verified": "2019-08-13",
         "level": "21-23",
         "faction": "GRINEER",
-        "spawn_rate": "100%",
+        "spawn_rate": "95%",
         "mission": "CASSINI",
         "planet": "SATURN",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2016-09-23",
+        "last_verified": "2019-01-16",
         "level": "22-24",
         "faction": "GRINEER",
         "spawn_rate": "100%",
         "mission": "NUMA",
+        "planet": "SATURN",
+        "type": "RESCUE"
+      },
+      {
+        "last_verified": "2019-01-16",
+        "level": "22-24",
+        "faction": "GRINEER",
+        "spawn_rate": "100%",
+        "mission": "ANTHE",
         "planet": "SATURN",
         "type": "RESCUE"
       }
@@ -999,16 +1064,16 @@
     "name": "Scorpion",
     "locations": [
       {
-        "last_verified": "2018-09-02",
+        "last_verified": "2019-02-02",
         "level": "14-16",
         "faction": "GRINEER",
-        "spawn_rate": "100%",
+        "spawn_rate": "58%",
         "mission": "LEX",
         "planet": "CERES",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-04-14",
+        "last_verified": "2019-02-03",
         "level": "21-23",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -1017,7 +1082,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2016-09-18",
+        "last_verified": "2019-02-03",
         "level": "22-24",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -1031,13 +1096,31 @@
     "name": "Seeker / Frontier Seeker",
     "locations": [
       {
-        "last_verified": "2018-09-08",
+        "last_verified": "2019-02-11",
         "level": "14-16",
         "faction": "GRINEER",
         "spawn_rate": "100%",
         "mission": "LEX",
         "planet": "CERES",
         "type": "CAPTURE"
+      },
+      {
+        "last_verified": "2019-02-11",
+        "level": "13-15",
+        "faction": "GRINEER",
+        "spawn_rate": "100%",
+        "mission": "NUOVO",
+        "planet": "CERES",
+        "type": "RESCUE"
+      },
+      {
+        "last_verified": "2019-08-09",
+        "level": "34-38",
+        "faction": "GRINEER",
+        "spawn_rate": "100%",
+        "mission": "KAPPA",
+        "planet": "SEDNA",
+        "type": "SPY"
       }
     ]
   },
@@ -1045,37 +1128,37 @@
     "name": "Shield Lancer",
     "locations": [
       {
-        "last_verified": "2018-04-10",
+        "last_verified": "2019-01-30",
         "level": "6-8",
         "faction": "GRINEER",
-        "spawn_rate": "72%",
+        "spawn_rate": "75%",
         "mission": "PANTHEON",
         "planet": "MERCURY",
         "type": "EXTERMINATE"
       },
       {
-        "last_verified": "2018-04-10",
+        "last_verified": "2019-01-30",
         "level": "6-8",
         "faction": "GRINEER",
-        "spawn_rate": "33%",
+        "spawn_rate": "40%",
         "mission": "CALORIS",
         "planet": "MERCURY",
         "type": "RESCUE"
       },
       {
-        "last_verified": "2018-04-10",
+        "last_verified": "2019-04-18",
         "level": "7-9",
         "faction": "GRINEER",
-        "spawn_rate": "72%",
+        "spawn_rate": "76%",
         "mission": "ELION",
         "planet": "MERCURY",
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-25",
+        "last_verified": "2019-10-21",
         "level": "21-23",
         "faction": "GRINEER",
-        "spawn_rate": "100%",
+        "spawn_rate": "88%",
         "mission": "CASSINI",
         "planet": "SATURN",
         "type": "CAPTURE"
@@ -1086,16 +1169,16 @@
     "name": "Swarm-Mutalist MOA",
     "locations": [
       {
-        "last_verified": "2018-09-29",
+        "last_verified": "2019-01-19",
         "level": "18-20",
-        "faction": "GRINEER+INFESTATION",
+        "faction": "GRINEER VS INFESTATION",
         "spawn_rate": "100%",
         "mission": "ARMAROS",
         "planet": "EUROPA",
         "type": "EXTERMINATE"
       },
       {
-        "last_verified": "2018-09-18",
+        "last_verified": "2019-01-19",
         "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -1104,7 +1187,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2018-09-07",
+        "last_verified": "2019-01-19",
         "level": "32-36",
         "faction": "INFESTATION",
         "spawn_rate": "100%",
@@ -1118,7 +1201,7 @@
     "name": "Trooper",
     "locations": [
       {
-        "last_verified": "2018-05-17",
+        "last_verified": "2019-01-22",
         "level": "2-4",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -1127,7 +1210,7 @@
         "type": "CAPTURE"
       },
       {
-        "last_verified": "2016-09-15",
+        "last_verified": "2019-01-22",
         "level": "1-3",
         "faction": "GRINEER",
         "spawn_rate": "100%",
@@ -1136,13 +1219,31 @@
         "type": "EXTERMINATE"
       },
       {
-        "last_verified": "2018-04-12",
+        "last_verified": "2019-01-22",
         "level": "22-24",
         "faction": "GRINEER",
         "spawn_rate": "100%",
         "mission": "NUMA",
         "planet": "SATURN",
         "type": "RESCUE"
+      },
+      {
+        "last_verified": "2019-01-22",
+        "level": "22-24",
+        "faction": "GRINEER",
+        "spawn_rate": "100%",
+        "mission": "CASSINI",
+        "planet": "SATURN",
+        "type": "CAPTURE"
+      },
+      {
+        "last_verified": "2018-09-14",
+        "level": "32-36",
+        "faction": "GRINEER",
+        "spawn_rate": "100%",
+        "mission": "ADARO",
+        "planet": "SEDNA",
+        "type": "EXTERMINATE"
       }
     ]
   }
