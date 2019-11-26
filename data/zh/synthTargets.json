@@ -140,7 +140,7 @@
                 "level": "23-33",
                 "faction": "感染者",
                 "spawn_rate": "100%",
-                "mission": "CHOLISTAN",
+                "mission": "Cholistan",
                 "planet": "歐羅巴",
                 "type": "挖掘"
             },
@@ -864,7 +864,7 @@
                 "spawn_rate": "100%",
                 "mission": "Kappa",
                 "planet": "賽德娜",
-                "type": "SPY"
+                "type": "間諜"
             }
         ]
     },
@@ -1093,7 +1093,7 @@
         ]
     },
     {
-        "name": "SeeKer / Frontier SeeKer",
+        "name": "Seeker / Frontier Seeker",
         "locations": [
             {
                 "last_verified": "2019-02-11",
@@ -1120,7 +1120,7 @@
                 "spawn_rate": "100%",
                 "mission": "Kappa",
                 "planet": "賽德娜",
-                "type": "SPY"
+                "type": "間諜"
             }
         ]
     },
