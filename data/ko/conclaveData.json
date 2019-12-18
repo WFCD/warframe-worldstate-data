@@ -1,7 +1,7 @@
 {
   "modes": {
     "PVPMODE_ALL": {
-      "value": "Any Mode"
+      "value": "모든 모드"
     },
     "PVPMODE_DEATHMATCH": {
       "value": "절멸전"
@@ -10,7 +10,7 @@
       "value": "팀 절멸전"
     },
     "PVPMODE_NONE": {
-      "value": "None"
+      "value": "없음"
     },
     "PVPMODE_CAPTURETHEFLAG": {
       "value": "세팔론 쟁탈전"
