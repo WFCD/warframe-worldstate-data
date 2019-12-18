@@ -58,6 +58,7 @@ const solNodesSchema = {
         'Rush (Archwing)',
         'Sabotage',
         'Sabotage (Archwing)',
+        'Skirmish',
         'Spy',
         'Survival',
       ],
