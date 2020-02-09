@@ -152,7 +152,7 @@
   "SolNode30": {
     "value": "Olympus (Марс)",
     "enemy": "Гринир",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "SolNode31": {
     "value": "Anthe (Сатурн)",
@@ -437,7 +437,7 @@
   "SolNode87": {
     "value": "Ganymede (Юпитер)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "SolNode88": {
     "value": "Adrastea (Юпитер)",
@@ -592,7 +592,7 @@
   "SolNode118": {
     "value": "Laomedeia (Нептун)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "SolNode119": {
     "value": "Caloris (Меркурий)",
@@ -645,9 +645,9 @@
     "type": "Зачистка"
   },
   "SolNode129": {
-    "value": "Orb Vallis (Venus)",
+    "value": "Долина сфер (Венера)",
     "enemy": "Корпус",
-    "type": "Free Roam"
+    "type": "Свободное перемещение"
   },
   "SolNode130": {
     "value": "Lares (Меркурий)",
@@ -938,7 +938,7 @@
   "SolNode188": {
     "value": "Kelpie (Седна)",
     "enemy": "Гринир",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "SolNode189": {
     "value": "Naga (Седна)",
@@ -1132,7 +1132,7 @@
   "SolNode228": {
     "value": "Равнины Эйдолона (Земля)",
     "enemy": "Гринир",
-    "type": "Free Roam"
+    "type": "Свободное перемещение"
   },
   "SolNode400": {
     "value": "Teshub (Бездна)",
@@ -1205,7 +1205,7 @@
     "type": "Возмездие Древних"
   },
   "SolNode740": {
-    "value": "The Ropalolyst (Jupiter)",
+    "value": "Ропалолист (Юпитер)",
     "enemy": "Владеющие Разумом",
     "type": "Убийство"
   },
@@ -1232,7 +1232,7 @@
   "SolNode745": {
     "value": "Tamu (Крепость Кувы)",
     "enemy": "Гринир",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "SolNode746": {
     "value": "Dakata (Крепость Кувы)",
@@ -1325,9 +1325,9 @@
     "type": "Спасение"
   },
   "SolNode308": {
-    "value": "Apollo (Lua)",
+    "value": "Apollo (Луа)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "SettlementNode1": {
     "value": "Roche (Фобос)",
@@ -1485,7 +1485,7 @@
     "type": "Возмездие Древних"
   },
   "EventNode4": {
-    "value": "Proxy Rebellion",
+    "value": "Восстание роботов",
     "enemy": "Корпус",
     "type": "Выживание"
   },
@@ -1500,7 +1500,7 @@
     "type": "Возмездие Древних"
   },
   "EventNode7": {
-    "value": "Proxy Rebellion",
+    "value": "Восстание роботов",
     "enemy": "Корпус",
     "type": "Перехват"
   },
@@ -1550,12 +1550,12 @@
     "type": "Возмездие Древних"
   },
   "EventNode17": {
-    "value": "Proxy Rebellion",
+    "value": "Восстание роботов",
     "enemy": "Корпус",
     "type": "Оборона"
   },
   "EventNode18": {
-    "value": "Proxy Rebellion",
+    "value": "Восстание роботов",
     "enemy": "Корпус",
     "type": "Оборона"
   },
@@ -1590,7 +1590,7 @@
     "type": "Зачистка"
   },
   "EventNode27": {
-    "value": "Void",
+    "value": "Бездна",
     "enemy": "Порабощённые",
     "type": "Выживание"
   },
@@ -1607,22 +1607,22 @@
   "EventNode30": {
     "value": "Ganymede (Юпитер)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "EventNode31": {
     "value": "Ganymede (Юпитер)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "EventNode32": {
     "value": "Ganymede (Юпитер)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "EventNode33": {
     "value": "Ganymede (Юпитер)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Сбой"
   },
   "EventNode34": {
     "value": "Земля",
@@ -1860,43 +1860,43 @@
     "type": "Убийство"
   },
   "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil Proxima)",
+    "value": "Поле Битвы Рус (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode510": {
-    "value": "Gian Point (Veil Proxima)",
+    "value": "Точка Джан (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode550": {
-    "value": "Nsu Grid (Veil Proxima)",
+    "value": "Нсу Локус (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode551": {
-    "value": "Ganalen's Grave (Veil Proxima)",
+    "value": "Могила Ганалена (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode552": {
-    "value": "Rya (Veil Proxima)",
+    "value": "Рия (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode553": {
-    "value": "Flexa (Veil Proxima)",
+    "value": "Флекса (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode554": {
-    "value": "H-2 Cloud (Veil Proxima)",
+    "value": "Облако H-2 (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode555": {
-    "value": "R-9 Cloud (Veil Proxima)",
+    "value": "Облако R-9 (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   }
 }
