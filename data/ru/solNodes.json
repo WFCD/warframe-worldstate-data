@@ -1485,7 +1485,7 @@
     "type": "Возмездие Древних"
   },
   "EventNode4": {
-    "value": "Proxy Rebellion",
+    "value": "Восстание роботов",
     "enemy": "Корпус",
     "type": "Выживание"
   },
@@ -1500,7 +1500,7 @@
     "type": "Возмездие Древних"
   },
   "EventNode7": {
-    "value": "Proxy Rebellion",
+    "value": "Восстание роботов",
     "enemy": "Корпус",
     "type": "Перехват"
   },
@@ -1550,12 +1550,12 @@
     "type": "Возмездие Древних"
   },
   "EventNode17": {
-    "value": "Proxy Rebellion",
+    "value": "Восстание роботов",
     "enemy": "Корпус",
     "type": "Оборона"
   },
   "EventNode18": {
-    "value": "Proxy Rebellion",
+    "value": "Восстание роботов",
     "enemy": "Корпус",
     "type": "Оборона"
   },
@@ -1590,7 +1590,7 @@
     "type": "Зачистка"
   },
   "EventNode27": {
-    "value": "Void",
+    "value": "Бездна",
     "enemy": "Порабощённые",
     "type": "Выживание"
   },
@@ -1860,43 +1860,43 @@
     "type": "Убийство"
   },
   "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil Proxima)",
+    "value": "Поле Битвы Рус (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode510": {
-    "value": "Gian Point (Veil Proxima)",
+    "value": "Точка Джан (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode550": {
-    "value": "Nsu Grid (Veil Proxima)",
+    "value": "Нсу Локус (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode551": {
-    "value": "Ganalen's Grave (Veil Proxima)",
+    "value": "Могила Ганалена (Проксима Вуали)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode552": {
     "value": "Rya (Veil Proxima)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode553": {
     "value": "Flexa (Veil Proxima)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode554": {
     "value": "H-2 Cloud (Veil Proxima)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   },
   "CrewBattleNode555": {
     "value": "R-9 Cloud (Veil Proxima)",
     "enemy": "Гринир",
-    "type": "Skirmish"
+    "type": "Стычка"
   }
 }
