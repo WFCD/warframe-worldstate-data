@@ -693,10 +693,10 @@
     "value": "Tactical Alert: Wolf Hunt"
   },
   "/lotus/language/bosses/bossthejackal": {
-    "value": "Boss The Jackal"
+    "value": "Босс Шакал"
   },
   "/lotus/language/bosses/bosstylregor": {
-    "value": "Boss Tyl Regor"
+    "value": "Босс Тил Регор"
   },
   "/lotus/language/events/amalgameventname": {
     "value": "Operation: Hostile Mergers"
@@ -738,7 +738,7 @@
     "value": "Seal fractures across the Orb Vallis"
   },
   "/lotus/language/g1quests/heatfissureseventname": {
-    "value": "Thermia Fractures"
+    "value": "Разломы Термии"
   },
   "/lotus/language/g1quests/kelaeventbonustitle": {
     "value": "Бесконечный Ратуум"
@@ -801,7 +801,7 @@
     "value": "Страдание"
   },
   "/lotus/language/game/burstcasteracolyte": {
-    "value": "Тоска"
+    "value": "Беспокойство"
   },
   "/lotus/language/game/controlacolyte": {
     "value": "Мучение"
@@ -810,10 +810,10 @@
     "value": "Жестокость"
   },
   "/lotus/language/game/heavyacolyte": {
-    "value": "Злоба"
+    "value": "Порок"
   },
   "/lotus/language/game/rogueacolyte": {
-    "value": "Мания"
+    "value": "Безумство"
   },
   "/lotus/language/gamemodes/recurringghoulalert": {
     "value": "Избавление от Гулей"
@@ -825,7 +825,7 @@
     "value": "Steal Vay Hek's Thrax Toxin, mix it, and poison the Infested Boil growing in the center of the plains."
   },
   "/lotus/language/infestedplainsevent/infestedplainsbountyname": {
-    "value": "Plague Star"
+    "value": "Чумная Звезда"
   },
   "/lotus/language/items/eventdoubleaffinitydesc": {
     "value": "Doubles the amount you get from pickups and mission rewards."
@@ -851,7 +851,7 @@
   },
   "/lotus/language/items/kelaeventbadgename": {
     "desc": "Награда для тех, кто выстоял против Келы де Тейм и ее Палачей.",
-    "value": "Rathuum Badge"
+    "value": "Значок Ратуума"
   },
   "/lotus/language/items/kelaeventdogtagname": {
     "desc": "Доставить Стальному Меридиану или синдикату на выбор в реле.",
@@ -870,7 +870,7 @@
     "value": "Осада Корпуса"
   },
   "/lotus/language/menu/corpusrazorbackproject": {
-    "value": "Razorback Armada"
+    "value": "Армада Секачей"
   },
   "/lotus/language/menu/grineerinvasiongeneric": {
     "value": "Наступление Гринир"
@@ -879,7 +879,7 @@
     "value": "Фракция Гринир"
   },
   "/lotus/language/menu/infestedinvasionboss": {
-    "value": "Phorid Manifestation"
+    "value": "Возрождение Форида"
   },
   "/lotus/language/menu/infestedinvasionending": {
     "value": "Infestation Subsiding"
@@ -888,7 +888,7 @@
     "value": "Вспышка заражения"
   },
   "/lotus/language/menu/razorbackarmadascorehint": {
-    "value": "Razorbacks destroyed"
+    "value": "Секачи уничтожены"
   },
   "/lotus/language/messages/orbheisteventrewardainboxmessagebody": {
     "value": "You're getting the hang of it. We just wanted to send you a little something by way of encourangement. Don't let up."
@@ -916,10 +916,10 @@
   },
   "/lotus/language/sigils/kelaeventsigilname": {
     "desc": "Сигил празднования освобождения перебежчиков из Гринир.",
-    "value": "Rathuum Sigil"
+    "value": "Сигил Ратуума"
   },
   "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
-    "value": "Razorback Assassination"
+    "value": "Убийство Секача"
   },
   "/lotus/levels/proc/grineer/grineeroceansurvival": {
     "value": "Sealab Survival"
@@ -1042,7 +1042,7 @@
     "value": "Nidus"
   },
   "/lotus/powersuits/ironframe/ironframe": {
-    "value": "Hildryn"
+    "value": "Хильдрин"
   },
   "/lotus/powersuits/jade/jade": {
     "value": "Никс"
@@ -1084,7 +1084,7 @@
     "value": "Эш"
   },
   "/lotus/powersuits/pacifist/pacifist": {
-    "value": "Baruuk"
+    "value": "Баруук"
   },
   "/lotus/powersuits/paladin/paladin": {
     "value": "Оберон"
@@ -1108,7 +1108,7 @@
     "value": "Рино Прайм"
   },
   "/lotus/powersuits/runner/runner": {
-    "value": "Gauss"
+    "value": "Гаусс"
   },
   "/lotus/powersuits/sandman/sandman": {
     "value": "Инарос"
@@ -1141,7 +1141,7 @@
     "value": "Вольт Прайм"
   },
   "/lotus/powersuits/wisp/wisp": {
-    "value": "Wisp"
+    "value": "Висп"
   },
   "/lotus/powersuits/yinyang/yinyang": {
     "value": "Эквинокс"
@@ -7720,34 +7720,34 @@
     "value": "Covert Recon"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusmeleerandommodrare": {
-    "value": "Melee Riven Mod"
+    "value": "Мод Разлома для оружия Ближнего боя"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusmodularmeleerandommodrare": {
-    "value": "Zaw Riven Mod"
+    "value": "Мод Разлома для Зо"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusmodularpistolrandommodrare": {
-    "value": "Kitgun Riven Mod"
+    "value": "Мод Разлома для Китганов"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotuspistolrandommodrare": {
-    "value": "Pistol Riven Mod"
+    "value": "Мод Разлома для Пистолетов"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusriflerandommodrare": {
-    "value": "Rifle Riven Mod"
+    "value": "Мод Разлома для Винтовок"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusshotgunrandommodrare": {
-    "value": "Shotgun Riven Mod"
+    "value": "Мод Разлома для Дробовиков"
   },
   "/lotus/storeitems/upgrades/mods/randomized/playermeleeweaponrandommodrare": {
-    "value": "Veiled Melee Riven Mod"
+    "value": "Скрытый Мод Разлома для оружия Ближнего боя"
   },
   "/lotus/storeitems/upgrades/mods/randomized/playerpistolweaponrandommodrare": {
-    "value": "Veiled Pistol Riven Mod"
+    "value": "Скрытый Мод Разлома для Пистолетов"
   },
   "/lotus/storeitems/upgrades/mods/randomized/playerrifleweaponrandommodrare": {
-    "value": "Veiled Rifle Riven Mod"
+    "value": "Скрытый Мод Разлома для Винтовок"
   },
   "/lotus/storeitems/upgrades/mods/randomized/playershotgunweaponrandommodrare": {
-    "value": "Veiled Shotgun Riven Mod"
+    "value": "Скрытый Мод Разлома для Дробовиков"
   },
   "/lotus/storeitems/upgrades/mods/rifle/beginner/weaponammomaxmodbeginner": {
     "value": "Ammo Drum"
@@ -10750,7 +10750,7 @@
     "value": "Grustrag Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/deathmarksigilstalker": {
-    "value": "Stalker Sigil"
+    "value": "Сигил Сталкера"
   },
   "/lotus/storeitems/upgrades/skins/sigils/deathmarksigilzanuka": {
     "value": "Zanuka Sigil"
@@ -11929,7 +11929,7 @@
     "value": "Reaping Spiral"
   },
   "/lotus/storeitems/weapons/tenno/melee/meleetrees/scythecmbtwomeleetree": {
-    "value": "Stalking Fan"
+    "value": "Настигающий Веер"
   },
   "/lotus/storeitems/weapons/tenno/melee/meleetrees/staffcmbonemeleetree": {
     "value": "Clashing Forest"
@@ -12551,16 +12551,16 @@
     "value": "Жестокость"
   },
   "/lotus/types/enemies/acolytes/heavyacolyteagent": {
-    "value": "Злоба"
+    "value": "Порок"
   },
   "/lotus/types/enemies/acolytes/rogueacolyteagent": {
-    "value": "Мания"
+    "value": "Безумство"
   },
   "/lotus/types/enemies/acolytes/rogueacolyteavatar": {
     "value": "Mania Avatar"
   },
   "/lotus/types/enemies/acolytes/strikeracolyteagent": {
-    "value": "Тоска"
+    "value": "Беспокойство"
   },
   "/lotus/types/enemies/acolytes/strikeracolyteavatar": {
     "value": "Angst Avatar"
@@ -13526,7 +13526,7 @@
     "value": "Rescue the Ghoul Defector"
   },
   "/lotus/types/gameplay/eidolon/jobs/events/infestedplainsbounty": {
-    "value": "Plague Star"
+    "value": "Чумная Звезда"
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountycache": {
     "value": "Find the Hidden Artifact"
@@ -17249,13 +17249,13 @@
     "value": "Nikana Prime"
   },
   "/lotus/weapons/tenno/melee/swords/stalkermios/stalkermios": {
-    "value": "Lacera"
+    "value": "Лацера"
   },
   "/lotus/weapons/tenno/melee/swords/stalkertwo/stalkertwogreatsword": {
-    "value": "War"
+    "value": "Война"
   },
   "/lotus/weapons/tenno/melee/swords/stalkertwo/stalkertwosmallsword": {
-    "value": "Broken War"
+    "value": "Осколок Войны"
   },
   "/lotus/weapons/tenno/melee/swords/tennosai/tennosais": {
     "value": "Okina"
