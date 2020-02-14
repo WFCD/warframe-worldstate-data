@@ -1,6 +1,6 @@
 {
   "/ee/types/engine/mover": {
-    "value": "Mover"
+    "value": "Грузчик"
   },
   "/lotus/characters/sentient/hunhow/hunhowpieces/hunhowhipswreckagequest": {
     "value": "Hunhow Hips Wreckage Quest"
@@ -3613,10 +3613,10 @@
     "value": "Форма"
   },
   "/lotus/storeitems/types/items/miscitems/formaaura": {
-    "value": "Aura Forma"
+    "value": "Аура Форма"
   },
   "/lotus/storeitems/types/items/miscitems/formaumbra": {
-    "value": "Umbra Forma"
+    "value": "Умбра Форма"
   },
   "/lotus/storeitems/types/items/miscitems/gallium": {
     "value": "Галлий"
@@ -3625,7 +3625,7 @@
     "value": "Координаты Вэй Хека"
   },
   "/lotus/storeitems/types/items/miscitems/infestedaladcoordinate": {
-    "value": "Координаты Муталист Алада v"
+    "value": "Муталист-навигационные координаты"
   },
   "/lotus/storeitems/types/items/miscitems/juggernautparta": {
     "value": "Пульсирующие туберкулы"
@@ -4507,13 +4507,13 @@
     "value": "Чертёж: Спектр Порабощенного Бомбардировщика"
   },
   "/lotus/storeitems/types/recipes/components/formaaurablueprint": {
-    "value": "Aura Forma Blueprint"
+    "value": "Чертёж: Аура Форма"
   },
   "/lotus/storeitems/types/recipes/components/formablueprint": {
     "value": "Чертёж: Форма"
   },
   "/lotus/storeitems/types/recipes/components/formaumbrablueprint": {
-    "value": "Umbra Forma Blueprint"
+    "value": "Чертёж: Умбра Форма"
   },
   "/lotus/storeitems/types/recipes/components/orokincatalystblueprint": {
     "value": "Чертёж: Катализатор Орокин"
@@ -7849,7 +7849,7 @@
     "value": "Wildfire"
   },
   "/lotus/storeitems/upgrades/mods/rifle/eventsniperreloaddamagemod": {
-    "value": "Primed Chamber"
+    "value": "Заряженный Патронник"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/bowexplosionchancemodexpert": {
     "value": "Thunderbolt"
@@ -7867,7 +7867,7 @@
     "value": "Primed Bane of Infested"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/sniperreloaddamagemodexpert": {
-    "value": "Primed Charged Chamber"
+    "value": "Заряженный Патронник"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/weaponammomaxmodexpert": {
     "value": "Ammo Drum"
@@ -14108,13 +14108,13 @@
     "value": "Дера Вандал Приклад"
   },
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifeblade": {
-    "value": "Sheev Blade"
+    "value": "Шиив: Лезвие"
   },
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifehandle": {
-    "value": "Sheev Handle"
+    "value": "Шиив: Рукоять"
   },
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifeheatsink": {
-    "value": "Sheev Heatsink"
+    "value": "Шиив: Радиатор"
   },
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifehilt": {
     "value": "Шиив: Рукоять"
