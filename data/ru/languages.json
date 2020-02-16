@@ -831,19 +831,19 @@
     "value": "Doubles the amount you get from pickups and mission rewards."
   },
   "/lotus/language/items/eventdoubleaffinityname": {
-    "value": "Event Affinity Booster"
+    "value": "Ивентовый Усилитель Синтеза"
   },
   "/lotus/language/items/eventdoublecreditsdesc": {
     "value": "Doubles the amount you get from pickups and mission rewards."
   },
   "/lotus/language/items/eventdoublecreditsname": {
-    "value": "Event Credit Booster"
+    "value": "Ивентовый Умножитель Кредитов"
   },
   "/lotus/language/items/eventdoubleresourcedesc": {
     "value": "Doubles the amount you get from pickups and mission rewards."
   },
   "/lotus/language/items/eventdoubleresourcename": {
-    "value": "Event Resource Booster"
+    "value": "Ивентовый Умножитель Ресурсов"
   },
   "/lotus/language/items/furaxwraithname": {
     "desc": "Эти рукавицы Призрак были улучшены для силы.",
@@ -9163,10 +9163,10 @@
     "value": "Нагрудник Эос прайм"
   },
   "/lotus/storeitems/upgrades/skins/armor/vteos/vteosllarmor": {
-    "value": "Left Eos Prime Spurs"
+    "value": "Левая Шпора Эос Прайм"
   },
   "/lotus/storeitems/upgrades/skins/armor/vteos/vteoslrarmor": {
-    "value": "Right Eos Prime Spurs"
+    "value": "Правая Шпора Эос Прайм"
   },
   "/lotus/storeitems/upgrades/skins/armor/warframedefaults/bansheearmleftarmor": {
     "value": "Banshee Armor"
@@ -9298,7 +9298,7 @@
     "value": "Desert-camo Twin Vipers"
   },
   "/lotus/storeitems/upgrades/skins/camo/desertdirigaskin": {
-    "value": "Driga Desert-Camo Skin"
+    "value": "Скин Дириги: Пустынный Камуфляж"
   },
   "/lotus/storeitems/upgrades/skins/camo/gorgoncamo": {
     "value": "Desert-camo Gorgon"
@@ -10021,7 +10021,7 @@
     "value": "Liset Cydonia Skin"
   },
   "/lotus/storeitems/upgrades/skins/liset/gyroscope/lisetgyroscopeskinprimetrader": {
-    "value": "Xiphos Prisma Skin"
+    "value": "Скин Ксифоса: Призма"
   },
   "/lotus/storeitems/upgrades/skins/liset/lisetblueskyskininaros": {
     "value": "Scimitar Cydonia Skin"
@@ -10141,7 +10141,7 @@
     "value": "Limbo Noble Animation Set"
   },
   "/lotus/storeitems/upgrades/skins/meleedangles/baroinarosmeleedangle": {
-    "value": "Anpu Sugatra"
+    "value": "Сугатра: Анпу"
   },
   "/lotus/storeitems/upgrades/skins/meleedangles/baromeleedangle": {
     "value": "Ки'Тиир Сугатра"
@@ -10264,16 +10264,16 @@
     "value": "Nvidia Braton"
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/baromouthpiecea": {
-    "value": "Ки'Тиир Атмос Маска"
+    "value": "Маска Ки'Тиир \"Атмос\""
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/barotiara": {
-    "value": "Ki'Teer Atmos Diadem"
+    "value": "Диадема Ки'Тиир \"Атмос \""
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/barohorn": {
     "value": "Ki'Teer Cornu Diadem"
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/barovisor": {
-    "value": "Ki'Teer Atmos Oculus"
+    "value": "Окуляры Ки'Тиир \"Атмос \""
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroa": {
     "value": "Серьги Ки'Тиир"
@@ -10282,7 +10282,7 @@
     "value": "Серьга Ки'Тиир"
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroc": {
-    "value": "Ki'Teer Atmos Earpiece"
+    "value": "Серьги Ки'Тиир \"Атмос\""
   },
   "/lotus/storeitems/upgrades/skins/ornate/tekelufragorskin": {
     "value": "Fragor Tekelu Skin"
@@ -10465,7 +10465,7 @@
     "value": "Iliac Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/kazbarocape": {
-    "value": "Ки'Тиир Диакс Сандана"
+    "value": "Сандана: Ки'Тиир Диакс"
   },
   "/lotus/storeitems/upgrades/skins/scarves/lisetscarf": {
     "value": "Domus Syandana"
@@ -10684,7 +10684,7 @@
     "value": "Glaring Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/barokubrowsigil": {
-    "value": "Pack Leader Sigil"
+    "value": "Сигил \"Вожак Стаи\""
   },
   "/lotus/storeitems/upgrades/skins/sigils/bladeandgunsigil": {
     "value": "Blade And Gun Sigil"
@@ -11230,7 +11230,7 @@
     "value": "Ki'Teer Arrow Skin"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroinarospolearmskin": {
-    "value": "Anpu Staff Skin"
+    "value": "Скин Посохов Анпу"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroscythemacheteskin": {
     "value": "Machete Syachid Skin"
@@ -14993,49 +14993,49 @@
     "value": "Zephyr Tengu Profile Icon"
   },
   "/lotus/types/storeitems/boosters/affinitybooster3daystoreitem": {
-    "value": "3 Day Affinity Booster"
+    "value": "3-Дневный Усилитель Синтеза"
   },
   "/lotus/types/storeitems/boosters/affinitybooster7daystoreitem": {
-    "value": "7 Day Affinity Booster"
+    "value": "7-Дневный Усилитель Синтеза"
   },
   "/lotus/types/storeitems/boosters/affinityboosterstoreitem": {
-    "value": "Affinity Booster"
+    "value": "Усилитель Синтеза"
   },
   "/lotus/types/storeitems/boosters/creditbooster3daystoreitem": {
-    "value": "3 Day Credit Booster"
+    "value": "3-Дневный Умножитель Кредитов"
   },
   "/lotus/types/storeitems/boosters/creditbooster7daystoreitem": {
-    "value": "7 Day Credit Booster"
+    "value": "7-Дневный Умножитель Кредитов"
   },
   "/lotus/types/storeitems/boosters/creditboosterstoreitem": {
-    "value": "Credit Booster"
+    "value": "Усилитель Кредитов"
   },
   "/lotus/types/storeitems/boosters/goodstuffdropchanceboosterstoreitem": {
-    "value": "Drop Chance Booster"
+    "value": "Усилитель Шанса Выпадения Ресурсов"
   },
   "/lotus/types/storeitems/boosters/moddropchancebooster3daystoreitem": {
-    "value": "3 Day Mod Drop Chance Booster"
+    "value": "3-Дневный Усилитель Шанса Выпадения Модов"
   },
   "/lotus/types/storeitems/boosters/moddropchanceboosterstoreitem": {
-    "value": "Mod Drop Chance Booster"
+    "value": "Усилитель Шанса Выпадения Модов"
   },
   "/lotus/types/storeitems/boosters/resourceamount3daystoreitem": {
-    "value": "3 Day Resource Booster"
+    "value": "3-Дневынй Умножитель Ресурсов"
   },
   "/lotus/types/storeitems/boosters/resourceamount7daystoreitem": {
-    "value": "7 Day Resource Booster"
+    "value": "7-Дневынй Умножитель Ресурсов"
   },
   "/lotus/types/storeitems/boosters/resourceamountboosterstoreitem": {
-    "value": "Resource Booster"
+    "value": "Умножитель Ресурсов"
   },
   "/lotus/types/storeitems/boosters/resourcedropchance3daystoreitem": {
-    "value": "3 Day Resource Drop Chance Booster"
+    "value": "3-Дневный Усилитель Шанса Выпадения Ресурсов"
   },
   "/lotus/types/storeitems/boosters/resourcedropchance7daystoreitem": {
-    "value": "7 Day Resource Drop Chance Booster"
+    "value": "7-Дневный Усилитель Шанса Выпадения Ресурсов"
   },
   "/lotus/types/storeitems/boosters/resourcedropchanceboosterstoreitem": {
-    "value": "Resource Drop Chance Booster"
+    "value": "Усилитель Шанса Выпадения Ресурсов"
   },
   "/lotus/types/storeitems/boosters/reviveboosterstoreitem": {
     "value": "Revive Booster"
@@ -15611,13 +15611,13 @@
     "value": "Okina Weapon Bundle"
   },
   "/lotus/types/storeitems/packages/threedayaffinitypack": {
-    "value": "3 Day Affinity Booster"
+    "value": "3-Дневный Усилитель Синтеза"
   },
   "/lotus/types/storeitems/packages/threedaycreditpack": {
-    "value": "3 Day Credit Booster"
+    "value": "3-Дневный Умножитель Кредитов"
   },
   "/lotus/types/storeitems/packages/threedayresourcepack": {
-    "value": "3 Day Resource Booster"
+    "value": "3-Дневынй Умножитель Ресурсов"
   },
   "/lotus/types/storeitems/packages/tigrisredeemersetpack": {
     "value": "Razor Gunplay Bundle"
@@ -15671,7 +15671,7 @@
     "value": "[Placeholder]"
   },
   "/lotus/types/storeitems/packages/vteosarmourbundle": {
-    "value": "Eos Prime Armor Set"
+    "value": "Набор Брони: Эос Прайм"
   },
   "/lotus/types/storeitems/packages/vulkardealpack": {
     "value": "Vulkar Deal Pack"
@@ -16142,7 +16142,7 @@
     "value": "Little Helper Hat"
   },
   "/lotus/upgrades/skins/liset/gyroscope/lisetgyroscopegrineerqueens": {
-    "value": "Kuva Xiphos Skin"
+    "value": "Скин Ксифоса: Кува"
   },
   "/lotus/upgrades/skins/liset/gyroscope/lisetgyroscopeskinifrit": {
     "value": "Xiphos Ifrit Skin"
