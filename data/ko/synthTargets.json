@@ -263,7 +263,7 @@
                 "level": "6-8",
                 "faction": "그리니어",
                 "spawn_rate": "70%",
-                "mission": "Caloris*",
+                "mission": "Caloris",
                 "planet": "수성",
                 "type": "구출"
             },
@@ -272,7 +272,7 @@
                 "level": "7-9",
                 "faction": "그리니어",
                 "spawn_rate": "78%",
-                "mission": "Elion*",
+                "mission": "Elion",
                 "planet": "수성",
                 "type": "생포"
             },
@@ -342,7 +342,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Void",
                 "type": "생포"
             },
             {
@@ -351,7 +351,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Stribog",
-                "planet": "Void - T2",
+                "planet": "Void",
                 "type": "파괴공작"
             },
             {
@@ -360,7 +360,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Ani",
-                "planet": "Void - T2",
+                "planet": "Void",
                 "type": "생존"
             }
         ]
@@ -374,7 +374,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Oxomoco",
-                "planet": "Void - T3",
+                "planet": "Void",
                 "type": "섬멸"
             },
             {
@@ -383,7 +383,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Marduk",
-                "planet": "Void - T4",
+                "planet": "Void",
                 "type": "파괴공작"
             }
         ]
@@ -443,7 +443,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Void",
                 "type": "생포"
             },
             {
@@ -452,7 +452,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void - T1",
+                "planet": "Void",
                 "type": "섬멸"
             },
             {
@@ -461,7 +461,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void - T3",
+                "planet": "Void",
                 "type": "생포"
             }
         ]
@@ -475,7 +475,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Void",
                 "type": "생포"
             },
             {
@@ -484,7 +484,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void - T3",
+                "planet": "Void",
                 "type": "생포"
             }
         ]
@@ -498,7 +498,7 @@
                 "faction": "오로킨",
                 "spawn_rate": "78%",
                 "mission": "Oxomoco",
-                "planet": "Void - T3",
+                "planet": "Void",
                 "type": "섬멸"
             }
         ]

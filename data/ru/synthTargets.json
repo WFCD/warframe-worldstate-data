@@ -263,7 +263,7 @@
                 "level": "6-8",
                 "faction": "Гринир",
                 "spawn_rate": "70%",
-                "mission": "Caloris*",
+                "mission": "Caloris",
                 "planet": "Меркурий",
                 "type": "Спасение"
             },
@@ -272,7 +272,7 @@
                 "level": "7-9",
                 "faction": "Гринир",
                 "spawn_rate": "78%",
-                "mission": "Elion*",
+                "mission": "Elion",
                 "planet": "Меркурий",
                 "type": "Захват"
             },
@@ -342,7 +342,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Бездна",
                 "type": "Захват"
             },
             {
@@ -351,7 +351,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Stribog",
-                "planet": "Void - T2",
+                "planet": "Бездна",
                 "type": "Диверсия"
             },
             {
@@ -360,7 +360,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Ani",
-                "planet": "Void - T2",
+                "planet": "Бездна",
                 "type": "Выживание"
             }
         ]
@@ -374,7 +374,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Oxomoco",
-                "planet": "Void - T3",
+                "planet": "Бездна",
                 "type": "Зачистка"
             },
             {
@@ -383,7 +383,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Marduk",
-                "planet": "Void - T4",
+                "planet": "Бездна",
                 "type": "Диверсия"
             }
         ]
@@ -443,7 +443,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Бездна",
                 "type": "Захват"
             },
             {
@@ -452,7 +452,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void - T1",
+                "planet": "Бездна",
                 "type": "Зачистка"
             },
             {
@@ -461,7 +461,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void - T3",
+                "planet": "Бездна",
                 "type": "Захват"
             }
         ]
@@ -475,7 +475,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Бездна",
                 "type": "Захват"
             },
             {
@@ -484,7 +484,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void - T3",
+                "planet": "Бездна",
                 "type": "Захват"
             }
         ]
@@ -498,7 +498,7 @@
                 "faction": "Орокин",
                 "spawn_rate": "78%",
                 "mission": "Oxomoco",
-                "planet": "Void - T3",
+                "planet": "Бездна",
                 "type": "Зачистка"
             }
         ]
