@@ -1,6 +1,6 @@
 'use strict';
 
-const safeRequire = require('./tools/safeRequire');
+const safeRequire = require('./safeRequire');
 
 const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh'];
 
