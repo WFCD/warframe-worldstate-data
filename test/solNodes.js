@@ -34,6 +34,7 @@ const solNodesSchema = {
         'Conclave',
         'Dark Sector Defection',
         'Dark Sector Defense',
+        'Dark Sector Disruption',
         'Dark Sector Excavation',
         'Dark Sector Sabotage',
         'Dark Sector Survival',

@@ -1,25 +1,8 @@
 'use strict';
 
-const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh'];
+const safeRequire = require('./tools/safeRequire');
 
-/**
- * Safely require path, fall back to fallback if module cannot loa
- * @param  {[type]} path    Path to attempt to load
- * @param  {[type]} fallback [description]
- * @returns {any}         module or the default object
- */
-const safeRequire = (path, fallback = {}) => {
-  try {
-    // eslint-disable-next-line global-require, import/no-dynamic-require
-    return require(path);
-  } catch (error) {
-    if ((process.env.LOG_LEVEL || 'ERROR').toUpperCase() === 'DEBUG') {
-      // eslint-disable-next-line no-console
-      console.debug(`Failed to load module at ${path} ... returning fallback`);
-    }
-    return fallback;
-  }
-};
+const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh'];
 
 /**
  * Synthesis target information
@@ -83,7 +66,7 @@ const enUS = {
 };
 /* eslint-enable global-require */
 
-const stuff = {
+const bundle = {
   /**
    * English United States translations
    * @type {WorldstateLangBundle}
@@ -99,7 +82,7 @@ locales.forEach((locale) => {
    * Translations bundle for $locale
    * @type {WorldstateLangBundle}
    */
-  stuff[locale] = {
+  bundle[locale] = {
     arcanes: safeRequire(`./data/${locale}/arcanes.json`, []),
     conclave: safeRequire(`./data/${locale}/conclaveData.json`, {}),
     events: safeRequire(`./data/${locale}/eventsData.json`, {}),
@@ -120,4 +103,4 @@ locales.forEach((locale) => {
 
 locales.push('en');
 
-module.exports = stuff;
+module.exports = bundle;
