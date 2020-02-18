@@ -1,8 +1,7 @@
 'use strict';
 
-/* eslint-disable global-require */
+/* eslint-disable no-console */
 const chai = require('chai');
-const decache = require('decache');
 const sinonChai = require('sinon-chai');
 const sinon = require('sinon');
 
@@ -11,11 +10,11 @@ const wsData = require('../exports');
 chai.should();
 chai.use(sinonChai);
 
-describe ('safeRequire', () => {
+describe('safeRequire', () => {
   beforeEach(() => {
     sinon.spy(console, 'debug');
   });
-  
+
   afterEach(() => {
     console.debug.restore();
     delete process.env.LOG_LEVEL;
@@ -27,9 +26,8 @@ describe ('safeRequire', () => {
     safeRequire('poop.js');
     // check that console.debug was called
     console.debug.should.have.been.called;
-  })
-})
-
+  });
+});
 
 describe('Worldstate Data', () => {
   it('should be an object', () => {

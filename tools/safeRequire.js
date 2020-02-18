@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * Safely require path, fall back to fallback if module cannot loa
  * @param  {[type]} path    Path to attempt to load
