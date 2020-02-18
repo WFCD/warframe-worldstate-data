@@ -263,7 +263,7 @@
                 "level": "6-8",
                 "faction": "Grineer",
                 "spawn_rate": "70%",
-                "mission": "Caloris*",
+                "mission": "Caloris",
                 "planet": "Mercurio",
                 "type": "Rescate"
             },
@@ -272,7 +272,7 @@
                 "level": "7-9",
                 "faction": "Grineer",
                 "spawn_rate": "78%",
-                "mission": "Elion*",
+                "mission": "Elion",
                 "planet": "Mercurio",
                 "type": "Captura"
             },
@@ -342,7 +342,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Void",
                 "type": "Captura"
             },
             {
@@ -351,7 +351,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Stribog",
-                "planet": "Void - T2",
+                "planet": "Void",
                 "type": "Sabotaje"
             },
             {
@@ -360,7 +360,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Ani",
-                "planet": "Void - T2",
+                "planet": "Void",
                 "type": "Supervivencia"
             }
         ]
@@ -374,7 +374,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Oxomoco",
-                "planet": "Void - T3",
+                "planet": "Void",
                 "type": "Exterminio"
             },
             {
@@ -383,7 +383,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Marduk",
-                "planet": "Void - T4",
+                "planet": "Void",
                 "type": "Sabotaje"
             }
         ]
@@ -443,7 +443,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Void",
                 "type": "Captura"
             },
             {
@@ -452,7 +452,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void - T1",
+                "planet": "Void",
                 "type": "Exterminio"
             },
             {
@@ -461,7 +461,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void - T3",
+                "planet": "Void",
                 "type": "Captura"
             }
         ]
@@ -475,7 +475,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void - T1",
+                "planet": "Void",
                 "type": "Captura"
             },
             {
@@ -484,7 +484,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void - T3",
+                "planet": "Void",
                 "type": "Captura"
             }
         ]
@@ -498,7 +498,7 @@
                 "faction": "Orokin",
                 "spawn_rate": "78%",
                 "mission": "Oxomoco",
-                "planet": "Void - T3",
+                "planet": "Void",
                 "type": "Exterminio"
             }
         ]
