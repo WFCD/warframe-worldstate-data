@@ -685,7 +685,7 @@
   },
   "/lotus/language/alerts/tacalertproxyrebellion": {
     "value": "Tactical Alert: Proxy Rebelllion"
-  },  
+  },
   "/lotus/language/alerts/tacalertwaterfight": {
     "value": "Tactical Alert: Dog Days"
   },
@@ -709,10 +709,10 @@
   },
   "/lotus/language/events/amalgameventtooltip": {
     "value": "Operation: Hostile Mergers"
-  },  
+  },
   "/lotus/language/events/tacalerthalloweenlantern": {
     "value": "Tactical Alert: Hallowed Flame"
-  },  
+  },
   "/lotus/language/events/tacalerthalloweenlanternendless": {
     "value": "Tactical Alert: Hallowed Flame - Endless"
   },
@@ -842,7 +842,7 @@
   "/lotus/language/items/eventdoubleresourcedesc": {
     "value": "Doubles the amount you get from pickups and mission rewards."
   },
-  "/lotus/language/items/eventdoubleresourcename": {    
+  "/lotus/language/items/eventdoubleresourcename": {
     "value": "Event Resource Booster"
   },
   "/lotus/language/items/furaxwraithname": {
@@ -1106,7 +1106,7 @@
   },
   "/lotus/powersuits/rhino/rhinoprime": {
     "value": "Rhino Prime"
-  },  
+  },
   "/lotus/powersuits/runner/runner": {
     "value": "Gauss"
   },
@@ -1913,7 +1913,7 @@
   },
   "/lotus/storeitems/powersuits/infestation/infestation": {
     "value": "Nidus"
-  },  
+  },
   "/lotus/storeitems/powersuits/jade/chaosabilitycard": {
     "value": "Chaos"
   },
@@ -3683,7 +3683,7 @@
   },
   "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
     "value": "Inaros Tomb Scene"
-  },  
+  },
   "/lotus/storeitems/types/items/miscitems/photoboothtilehydroidrelay": {
     "value": "Hydroid's Relay Scene"
   },
@@ -3881,7 +3881,7 @@
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationd": {
     "value": "Dvad Luxxum Ornament"
-  },  
+  },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecoratione": {
     "value": "Asra Luxxum Ornament"
   },
@@ -3950,10 +3950,10 @@
   },
   "/lotus/storeitems/types/items/shipdecos/hydroidbobblehead": {
     "value": "Noggle Statue - Hydroid"
-  },  
+  },
   "/lotus/storeitems/types/items/shipdecos/kavatbust": {
     "value": "Bronze Kavat Bust"
-  },  
+  },
   "/lotus/storeitems/types/items/shipdecos/kubrowbust": {
     "value": "Bronze Kubrow Bust"
   },
@@ -3989,7 +3989,7 @@
   },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Pedestal Prime"
-  },  
+  },
   "/lotus/storeitems/types/items/shipdecos/plushies/plushydesertskate": {
     "value": "Desert Skate Floof"
   },
@@ -5859,6 +5859,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagegraeaelimbodark": {
     "value": "Limbo Magrite Profile Icon"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/imagegrendelved": {
+    "value": "Grendel In Action Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imagegrineerballista": {
     "value": "Grineer Ballista Profile Icon"
   },
@@ -6080,7 +6083,7 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagepiratetritondark": {
     "value": "Hydroid Triton Profile Icon"
-  },  
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imagepopsiclegrineerpurple": {
     "value": "Dog Days Glyph"
   },
@@ -9644,7 +9647,7 @@
   },
   "/lotus/storeitems/upgrades/skins/dualaxe/daggeraxe": {
     "value": "Dual Zoren Dagger-axe Skin"
-  },  
+  },
   "/lotus/storeitems/upgrades/skins/effects/batsephemera": {
     "value": "Naberus Ephemera"
   },
@@ -10032,6 +10035,9 @@
   "/lotus/storeitems/upgrades/skins/liset/lisetblueskyskinprimetrader": {
     "value": "Scimitar Prisma Skin"
   },
+  "/lotus/storeitems/upgrades/skins/liset/lisetinsectskininaros": {
+    "value": "Mantis Cydonia Skin"
+  },
   "/lotus/storeitems/upgrades/skins/liset/lisetinsectskinprimetrader": {
     "value": "Mantis Prisma Skin"
   },
@@ -10286,7 +10292,7 @@
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/earpiecebaroc": {
     "value": "Ki'Teer Atmos Earpiece"
-  },  
+  },
   "/lotus/storeitems/upgrades/skins/ornate/tekelufragorskin": {
     "value": "Fragor Tekelu Skin"
   },
@@ -11234,9 +11240,12 @@
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroinarospolearmskin": {
     "value": "Anpu Staff Skin"
-  },  
+  },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroscythemacheteskin": {
     "value": "Machete Syachid Skin"
+  },
+  "/lotus/storeitems/upgrades/skins/voidtrader/elixisballassword": {
+    "value": "Paracesis Elixis Skin"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/elixissonicor": {
     "value": "Sonicor Exilis Skin"
@@ -11306,7 +11315,7 @@
   },
   "/lotus/storeitems/upgrades/skins/volt/voltprimehelmet": {
     "value": "Volt Prime Helmet"
-  },  
+  },
   "/lotus/storeitems/upgrades/skins/weapons/redeemer/redeemerrelaywaterskin": {
     "value": "Redeemer Abysso Skin"
   },
@@ -11408,7 +11417,7 @@
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
     "value": "Gammacor"
-  },  
+  },
   "/lotus/storeitems/weapons/corpus/pistols/crpelectromag/crpelectromag": {
     "value": "Staticor"
   },
@@ -11825,7 +11834,7 @@
   },
   "/lotus/storeitems/weapons/tenno/melee/hammer/hammerweapon": {
     "value": "Fragor"
-  },  
+  },
   "/lotus/storeitems/weapons/tenno/melee/hammer/icehammer/icehammer": {
     "value": "Sibear"
   },
@@ -12071,7 +12080,7 @@
   },
   "/lotus/storeitems/weapons/tenno/pistols/automatichandcrossbow/autocrossbow": {
     "value": "Ballistica"
-  },  
+  },
   "/lotus/storeitems/weapons/tenno/pistols/conclaveleverpistol/conclaveleverpistol": {
     "value": "Zylok"
   },
@@ -12220,7 +12229,7 @@
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
     "value": "Agent",
     "desc": "Complete a Mission"
-  },  
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "Air It Out",
     "desc": "Deploy an Air Support Charge in a Mission"
@@ -12232,7 +12241,7 @@
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "value": "Loyalty",
     "desc": "Interact with your Kubrow or Kavat"
-  },  
+  },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
     "value": "Warning Shot",
     "desc": "Kill 200 Enemies"
@@ -12308,7 +12317,7 @@
   "/lotus/types/challenges/seasons/daily/seasondailypickupenergy": {
     "value": "Energizing",
     "desc": "Pick up 20 Energy Orbs"
-  },  
+  },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmedallion": {
     "value": "The Hunt is On",
     "desc": "Find 5 Syndicate Medallions"
@@ -12356,7 +12365,7 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
     "value": "Good Friend",
     "desc": "Help Clem with his weekly mission"
-  },  
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletedisruptionconduits": {
     "value": "Don't Blow It",
     "desc": "Complete 12 Conduits in Disruption"
@@ -12368,7 +12377,7 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
     "value": "Invader",
     "desc": "Complete 9 Invasion missions of any type"
-  },  
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletekuva": {
     "value": "Don't Fear The Reaper",
     "desc": "Complete 3 Kuva Siphon Missions"
@@ -12404,7 +12413,7 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
     "desc": "Fully socket 3 Ayatan Sculptures"
-  },  
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
     "value": "Now Boarding",
     "desc": "Complete 3 different K-Drive races in Orb Vallis"
@@ -12420,7 +12429,7 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
     "value": "Eximus Eliminator",
     "desc": "Kill 30 Eximus"
-  },  
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillthumper": {
     "value": "Tusk Thumpin",
     "desc": "Kill a Tusk Thumper in the Plains of Eidolon"
@@ -12516,7 +12525,7 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
     "value": "Hydrolyst Hunter",
     "desc": "Kill or Capture an Eidolon Hydrolyst"
-  },  
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillropalolyst": {
     "value": "Flying High",
     "desc": "Defeat the Ropalolyst"
@@ -12524,7 +12533,7 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
     "value": "Grove Guardian",
     "desc": "Kill 3 Silver Grove Specters"
-  },  
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillthumper": {
     "value": "Walk Without Rhythm",
     "desc": "Kill a Tusk Thumper Doma in the Plains of Eidolon"
@@ -13642,6 +13651,18 @@
   "/lotus/types/game/projections/t4voidprojectionalertsarynprimebronze": {
     "value": "Axi N6 Relic"
   },
+  "/lotus/types/game/projections/t5voidprojectionimmortalabronze": {
+    "value": "Requiem I Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortalbbronze": {
+    "value": "Requiem II Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortalcbronze": {
+    "value": "Requiem III Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortaldbronze": {
+    "value": "Requiem IV Relic"
+  },
   "/lotus/types/gameplay/grineer/brokenlight": {
     "value": "Broken Light"
   },
@@ -13857,31 +13878,31 @@
   },
   "/lotus/types/items/shipchristmasifier": {
     "value": "Christmas Decorations"
-  },  
+  },
   "/lotus/types/items/shipdecos/events/wfbeastmasterbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Nok"
-  },  
+  },
   "/lotus/types/items/shipdecos/events/wfchargerbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Garesh"
   },
   "/lotus/types/items/shipdecos/events/wfengineerbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Reth"
-  },  
+  },
   "/lotus/types/items/shipdecos/events/wfgruntbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Dhurnam"
   },
   "/lotus/types/items/shipdecos/events/wfhealerbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Dok Thul"
-  },  
+  },
   "/lotus/types/items/shipdecos/events/wfheavybobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Gorth"
-  },  
+  },
   "/lotus/types/items/shipdecos/events/wfhellionbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Zura"
   },
   "/lotus/types/items/shipdecos/events/wfsniperbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Harkonar"
-  },  
+  },
   "/lotus/types/items/shipdecos/events/wftankbobblehead": {
     "value": "Noggle Statue - Dog Days Executioner Vay Molta"
   },
@@ -13893,6 +13914,9 @@
   },
   "/lotus/types/items/shipdecos/lisetpropmandolin": {
     "value": "Shawzin"
+  },
+  "/lotus/types/items/shipdecos/lisetpropmandolingrineer": {
+    "value": "Corpu Shawzin"
   },
   "/lotus/types/items/shipdecos/nezhabobblehead": {
     "value": "Nezha - Noggle Statue"
@@ -15088,6 +15112,9 @@
   "/lotus/types/storeitems/packages/berserkerpack": {
     "value": "Berserker Bundle"
   },
+  "/lotus/types/storeitems/packages/billowingskinsbundle": {
+    "value": "Cumulus Collection"
+  },
   "/lotus/types/storeitems/packages/boltorbundle": {
     "value": "Ballistic Blades Bundle"
   },
@@ -15150,7 +15177,7 @@
   },
   "/lotus/types/storeitems/packages/djinndeluxecompletebundle": {
     "value": "Gazal Complete Collection"
-  },  
+  },
   "/lotus/types/storeitems/packages/domestikdronesbundle": {
     "value": "Domestik Drones Bundle"
   },
@@ -15162,6 +15189,12 @@
   },
   "/lotus/types/storeitems/packages/electricpack": {
     "value": "Volt Value Pack"
+  },
+  "/lotus/types/storeitems/packages/equinoxdeluxeskinbundle": {
+    "value": "Equinox Antonym Collection"
+  },
+  "/lotus/types/storeitems/packages/excaliburdeluxeskinbundle": {
+    "value": "Excalibur Zato Collection"
   },
   "/lotus/types/storeitems/packages/excaliburxbonepack": {
     "value": "Prestige Pack I - Exclusive"
@@ -15213,9 +15246,12 @@
   },
   "/lotus/types/storeitems/packages/glyphsbundleb": {
     "value": "Emblematic Glyph Pack"
-  },  
+  },
   "/lotus/types/storeitems/packages/glyphsessential": {
     "value": "Essential Glyphs Bundle"
+  },
+  "/lotus/types/storeitems/packages/grendelbundle": {
+    "value": "Grendel Collection"
   },
   "/lotus/types/storeitems/packages/grineercamoskinpack": {
     "value": "Grineer Desert Tactics Pack"
@@ -15234,7 +15270,7 @@
   },
   "/lotus/types/storeitems/packages/grineervhitemsbundle": {
     "value": "Maggor Assault Pack"
-  },  
+  },
   "/lotus/types/storeitems/packages/grnamphisarmorbundle": {
     "value": "Galvanik Armor Bundle"
   },
@@ -15279,7 +15315,7 @@
   },
   "/lotus/types/storeitems/packages/halloweenvastoskinpack": {
     "value": "Vasto Day Of The Dead Skin"
-  },  
+  },
   "/lotus/types/storeitems/packages/harrowdeluxeskinbundle": {
     "value": "Harrow Reliquary Collection"
   },
@@ -15321,6 +15357,9 @@
   },
   "/lotus/types/storeitems/packages/infestedincursionsmodpack": {
     "value": "Mutalist Incursions Mod Pack"
+  },
+  "/lotus/types/storeitems/packages/ivaradeluxeskinbundle": {
+    "value": "Ivara Skathi Collection"
   },
   "/lotus/types/storeitems/packages/jadepack": {
     "value": "Nyx Pack"
@@ -15393,6 +15432,9 @@
   },
   "/lotus/types/storeitems/packages/kuvamegabundle": {
     "value": "Continuity Complete Collection"
+  },
+  "/lotus/types/storeitems/packages/lichhunterbundle": {
+    "value": "Kuva Lich Hunter Collection"
   },
   "/lotus/types/storeitems/packages/lightningsheathpack": {
     "value": "Gemini Nikana Sheath"
@@ -15550,6 +15592,12 @@
   "/lotus/types/storeitems/packages/prismaexcaliburpack": {
     "value": "Prisma Excalibur Bundle"
   },
+  "/lotus/types/storeitems/packages/railjackarmourbundle": {
+    "value": "Sigma Series Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/railjackarmourpistolbundle": {
+    "value": "Empyrean Grand Bundle"
+  },
   "/lotus/types/storeitems/packages/revenantbundle": {
     "value": "Revenant Collection"
   },
@@ -15628,6 +15676,9 @@
   "/lotus/types/storeitems/packages/titaniabundle": {
     "value": "Silver Grove Bundle"
   },
+  "/lotus/types/storeitems/packages/titaniadeluxeskinbundle": {
+    "value": "Titania Empress Collection"
+  },
   "/lotus/types/storeitems/packages/tnguandaobundle": {
     "value": "Guandao Collection"
   },
@@ -15681,7 +15732,7 @@
   },
   "/lotus/types/storeitems/packages/warframepack": {
     "value": "Ultimate Warframe Pack"
-  },  
+  },
   "/lotus/types/storeitems/packages/waterfightnogglebundle": {
     "value": "Dog Days Noggle Pack"
   },
@@ -15705,7 +15756,7 @@
   },
   "/lotus/types/storeitems/packages/wispbundle": {
     "value": "Wisp Collection"
-  },  
+  },
   "/lotus/types/storeitems/packages/wukongdeluxeskinbundle": {
     "value": "Wukong Samadhi Collection"
   },
@@ -15774,7 +15825,7 @@
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerps4itema": {
     "value": "Psiv"
-  },  
+  },
   "/lotus/types/storeitems/suitcustomizations/colourpickerrollers": {
     "value": "Rollers"
   },
@@ -15816,6 +15867,9 @@
   },
   "/lotus/upgrades/skins/antimatter/novadeluxesuit": {
     "value": "Nova Asuri Skin"
+  },
+  "/lotus/upgrades/skins/archer/ivaradeluxesuit": {
+    "value": "Ivara Skathi Skin"
   },
   "/lotus/upgrades/skins/archer/wintersolsticesalix": {
     "value": "Solstice Salix Syandana"
@@ -15882,7 +15936,10 @@
   },
   "/lotus/upgrades/skins/catbrows/armor/catbrowarmorc": {
     "value": "Myrdin Kavat Armor"
-  },  
+  },
+  "/lotus/upgrades/skins/catbrows/armor/empyreankavatarmor": {
+    "value": "Sigma Series Kavat Armor"
+  },
   "/lotus/upgrades/skins/catbrows/armor/grnamphiskavatarmor": {
     "value": "Amphix Kavat Armor"
   },
@@ -16134,7 +16191,7 @@
   },
   "/lotus/upgrades/skins/kubrows/armor/grineerqueenarmor": {
     "value": "Kuva Armor Collection"
-  },  
+  },
   "/lotus/upgrades/skins/kubrows/armor/grnamphiskubrowarmor": {
     "value": "Amphatz Kubrow Armor"
   },
@@ -16189,9 +16246,12 @@
   "/lotus/upgrades/skins/meleedangles/grnqueensmeleedangle": {
     "value": "Kuva Braid"
   },
+  "/lotus/upgrades/skins/meleedangles/tnrailjacksugatra": {
+    "value": "Sigma Series Sugatra"
+  },
   "/lotus/upgrades/skins/monkeyking/monkeykingalthelmetb": {
     "value": "Wukong Macak Helmet"
-  },  
+  },
   "/lotus/upgrades/skins/monkeyking/wukongdeluxeskin": {
     "value": "Wukong Samadhi Skin"
   },
@@ -16251,7 +16311,10 @@
   },
   "/lotus/upgrades/skins/paladin/paladindeluxesuit": {
     "value": "Oberon Feyarch Skin"
-  },  
+  },
+  "/lotus/upgrades/skins/parazon/tnrailjackdataknife": {
+    "value": "Sigma Series Parazon Skin"
+  },
   "/lotus/upgrades/skins/priest/harrowdeluxesuit": {
     "value": "Harrow Reliquary Skin"
   },
@@ -16266,7 +16329,7 @@
   },
   "/lotus/upgrades/skins/rhino/rhinodeluxesuit": {
     "value": "Rhino Palatine Skin"
-  },  
+  },
   "/lotus/upgrades/skins/runner/runneralthelmet": {
     "value": "Gauss Mag Helmet"
   },
@@ -16296,10 +16359,10 @@
   },
   "/lotus/upgrades/skins/scarves/flamescarf": {
     "value": "Pyra Synadana"
-  },  
+  },
   "/lotus/upgrades/skins/scarves/grnamphisscarf": {
     "value": "Amphor Syandana"
-  },  
+  },
   "/lotus/upgrades/skins/scarves/grnqueenscarf": {
     "value": "Kuva Cloak"
   },
@@ -16332,7 +16395,7 @@
   },
   "/lotus/upgrades/skins/scarves/magdeluxescarf": {
     "value": "Vasa Syandana"
-  },  
+  },
   "/lotus/upgrades/skins/scarves/sapientcape": {
     "value": "Altra Syandana"
   },
@@ -16350,6 +16413,9 @@
   },
   "/lotus/upgrades/skins/scarves/tnguandaoscarf": {
     "value": "Mozi Syandana"
+  },
+  "/lotus/upgrades/skins/scarves/tnrailjacksyandana": {
+    "value": "Sigma Series Syandana"
   },
   "/lotus/upgrades/skins/sentinels/masks/ictusmask": {
     "value": "Ictus Sentinel Mask"
@@ -16395,6 +16461,9 @@
   },
   "/lotus/upgrades/skins/weapons/dualdaggers/tnmilitarydualdaggerskin": {
     "value": "Zastra Dual Dagger Skin"
+  },
+  "/lotus/upgrades/skins/weapons/pistols/tnsubmachinegunpistolskin": {
+    "value": "Zundi Pistol Skin"
   },
   "/lotus/upgrades/skins/wisp/wispalthelmet": {
     "value": "Wisp Gaoth Helmet"
@@ -16695,7 +16764,7 @@
   },
   "/lotus/weapons/grineer/pistols/grineermicrowavegun/grnmicrowavepistol": {
     "value": "Nukor"
-  },  
+  },
   "/lotus/weapons/grineer/pistols/grnamphispistol/grnamphispistol": {
     "value": "Quatz"
   },
@@ -16989,7 +17058,7 @@
   },
   "/lotus/weapons/tenno/longguns/repeatingcrossbow/repeatingcrossbow": {
     "value": "Zhuge"
-  },  
+  },
   "/lotus/weapons/tenno/longguns/sapientprimary/sapientprimaryweapon": {
     "value": "Acceltra"
   },
@@ -17013,6 +17082,9 @@
   },
   "/lotus/weapons/tenno/longguns/tnpriestspear/tnpriestspeargun": {
     "value": "Tn Priest Spear Gun"
+  },
+  "/lotus/weapons/tenno/longguns/tnrailjackrifle/railjackriflegun": {
+    "value": "Quellor"
   },
   "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
     "value": "Baza"
@@ -17266,6 +17338,9 @@
   "/lotus/weapons/tenno/melee/swords/threeleaf/threeleaf": {
     "value": "Three Leaf"
   },
+  "/lotus/weapons/tenno/melee/swords/tnrailjackgreatkatana/tnrailjackgreatkatanaweapon": {
+    "value": "Pennant"
+  },
   "/lotus/weapons/tenno/melee/swords/tnorapier/tnorapier": {
     "value": "Destreza"
   },
@@ -17340,7 +17415,7 @@
   },
   "/lotus/weapons/tenno/pistols/primevasto/primevastopistol": {
     "value": "Vasto Prime"
-  },  
+  },
   "/lotus/weapons/tenno/pistols/sapientpistol/sapientpistol": {
     "value": "Akarius"
   },
