@@ -5859,6 +5859,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagegraeaelimbodark": {
     "value": "Глиф Лимбо \"Магрит\""
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/imagegrendelved": {
+    "value": "Grendel In Action Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imagegrineerballista": {
     "value": "Глиф: Баллиста Гринир"
   },
@@ -10032,6 +10035,9 @@
   "/lotus/storeitems/upgrades/skins/liset/lisetblueskyskinprimetrader": {
     "value": "Scimitar Prisma Skin"
   },
+  "/lotus/storeitems/upgrades/skins/liset/lisetinsectskininaros": {
+    "value": "Mantis Cydonia Skin"
+  },
   "/lotus/storeitems/upgrades/skins/liset/lisetinsectskinprimetrader": {
     "value": "Mantis Prisma Skin"
   },
@@ -11237,6 +11243,9 @@
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroscythemacheteskin": {
     "value": "Machete Syachid Skin"
+  },
+  "/lotus/storeitems/upgrades/skins/voidtrader/elixisballassword": {
+    "value": "Paracesis Elixis Skin"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/elixissonicor": {
     "value": "Sonicor Exilis Skin"
@@ -13642,6 +13651,18 @@
   "/lotus/types/game/projections/t4voidprojectionalertsarynprimebronze": {
     "value": "Axi N6 Relic"
   },
+  "/lotus/types/game/projections/t5voidprojectionimmortalabronze": {
+    "value": "Requiem I Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortalbbronze": {
+    "value": "Requiem II Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortalcbronze": {
+    "value": "Requiem III Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortaldbronze": {
+    "value": "Requiem IV Relic"
+  },
   "/lotus/types/gameplay/grineer/brokenlight": {
     "value": "Broken Light"
   },
@@ -13893,6 +13914,9 @@
   },
   "/lotus/types/items/shipdecos/lisetpropmandolin": {
     "value": "Shawzin"
+  },
+  "/lotus/types/items/shipdecos/lisetpropmandolingrineer": {
+    "value": "Corbu Shawzin"
   },
   "/lotus/types/items/shipdecos/nezhabobblehead": {
     "value": "Фигурка - Нэчжа"
@@ -15088,6 +15112,9 @@
   "/lotus/types/storeitems/packages/berserkerpack": {
     "value": "Berserker Bundle"
   },
+  "/lotus/types/storeitems/packages/billowingskinsbundle": {
+    "value": "Cumulus Collection"
+  },
   "/lotus/types/storeitems/packages/boltorbundle": {
     "value": "Ballistic Blades Bundle"
   },
@@ -15163,6 +15190,12 @@
   "/lotus/types/storeitems/packages/electricpack": {
     "value": "Volt Value Pack"
   },
+  "/lotus/types/storeitems/packages/equinoxdeluxeskinbundle": {
+    "value": "Equinox Antonym Collection"
+  },
+  "/lotus/types/storeitems/packages/excaliburdeluxeskinbundle": {
+    "value": "Excalibur Zato Collection"
+  },
   "/lotus/types/storeitems/packages/excaliburxbonepack": {
     "value": "Prestige Pack I - Exclusive"
   },
@@ -15216,6 +15249,9 @@
   },
   "/lotus/types/storeitems/packages/glyphsessential": {
     "value": "Essential Glyphs Bundle"
+  },
+  "/lotus/types/storeitems/packages/grendelbundle": {
+    "value": "Grendel Collection"
   },
   "/lotus/types/storeitems/packages/grineercamoskinpack": {
     "value": "Grineer Desert Tactics Pack"
@@ -15322,6 +15358,9 @@
   "/lotus/types/storeitems/packages/infestedincursionsmodpack": {
     "value": "Mutalist Incursions Mod Pack"
   },
+  "/lotus/types/storeitems/packages/ivaradeluxeskinbundle": {
+    "value": "Ivara Skathi Collection"
+  },
   "/lotus/types/storeitems/packages/jadepack": {
     "value": "Nyx Pack"
   },
@@ -15393,6 +15432,9 @@
   },
   "/lotus/types/storeitems/packages/kuvamegabundle": {
     "value": "Continuity Complete Collection"
+  },
+  "/lotus/types/storeitems/packages/lichhunterbundle": {
+    "value": "Kuva Lich Hunter Collection"
   },
   "/lotus/types/storeitems/packages/lightningsheathpack": {
     "value": "Gemini Nikana Sheath"
@@ -15550,6 +15592,12 @@
   "/lotus/types/storeitems/packages/prismaexcaliburpack": {
     "value": "Набор Экскалибура \"Призма\""
   },
+  "/lotus/types/storeitems/packages/railjackarmourbundle": {
+    "value": "Sigma Series Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/railjackarmourpistolbundle": {
+    "value": "Empyrean Grand Bundle"
+  },
   "/lotus/types/storeitems/packages/revenantbundle": {
     "value": "Revenant Collection"
   },
@@ -15627,6 +15675,9 @@
   },
   "/lotus/types/storeitems/packages/titaniabundle": {
     "value": "Silver Grove Bundle"
+  },
+  "/lotus/types/storeitems/packages/titaniadeluxeskinbundle": {
+    "value": "Titania Empress Collection"
   },
   "/lotus/types/storeitems/packages/tnguandaobundle": {
     "value": "Guandao Collection"
@@ -15817,6 +15868,9 @@
   "/lotus/upgrades/skins/antimatter/novadeluxesuit": {
     "value": "Скин Новы: Асури"
   },
+  "/lotus/upgrades/skins/archer/ivaradeluxesuit": {
+    "value": "Ivara Skathi Skin"
+  },
   "/lotus/upgrades/skins/archer/wintersolsticesalix": {
     "value": "Solstice Salix Syandana"
   },
@@ -15882,6 +15936,9 @@
   },
   "/lotus/upgrades/skins/catbrows/armor/catbrowarmorc": {
     "value": "Myrdin Kavat Armor"
+  },
+  "/lotus/upgrades/skins/catbrows/armor/empyreankavatarmor": {
+    "value": "Sigma Series Kavat Armor"
   },
   "/lotus/upgrades/skins/catbrows/armor/grnamphiskavatarmor": {
     "value": "Amphix Kavat Armor"
@@ -16189,6 +16246,9 @@
   "/lotus/upgrades/skins/meleedangles/grnqueensmeleedangle": {
     "value": "Kuva Braid"
   },
+  "/lotus/upgrades/skins/meleedangles/tnrailjacksugatra": {
+    "value": "Sigma Series Sugatra"
+  },
   "/lotus/upgrades/skins/monkeyking/monkeykingalthelmetb": {
     "value": "Wukong Macak Helmet"
   },
@@ -16251,6 +16311,9 @@
   },
   "/lotus/upgrades/skins/paladin/paladindeluxesuit": {
     "value": "Oberon Feyarch Skin"
+  },
+  "/lotus/upgrades/skins/parazon/tnrailjackdataknife": {
+    "value": "Sigma Series Parazon Skin"
   },
   "/lotus/upgrades/skins/priest/harrowdeluxesuit": {
     "value": "Harrow Reliquary Skin"
@@ -16351,6 +16414,9 @@
   "/lotus/upgrades/skins/scarves/tnguandaoscarf": {
     "value": "Mozi Syandana"
   },
+  "/lotus/upgrades/skins/scarves/tnrailjacksyandana": {
+    "value": "Sigma Series Syandana"
+  },
   "/lotus/upgrades/skins/sentinels/masks/ictusmask": {
     "value": "Ictus Sentinel Mask"
   },
@@ -16395,6 +16461,9 @@
   },
   "/lotus/upgrades/skins/weapons/dualdaggers/tnmilitarydualdaggerskin": {
     "value": "Zastra Dual Dagger Skin"
+  },
+  "/lotus/upgrades/skins/weapons/pistols/tnsubmachinegunpistolskin": {
+    "value": "Zundi Pistol Skin"
   },
   "/lotus/upgrades/skins/wisp/wispalthelmet": {
     "value": "Wisp Gaoth Helmet"
@@ -17014,6 +17083,9 @@
   "/lotus/weapons/tenno/longguns/tnpriestspear/tnpriestspeargun": {
     "value": "Tn Priest Spear Gun"
   },
+  "/lotus/weapons/tenno/longguns/tnrailjackrifle/railjackriflegun": {
+    "value": "Quellor"
+  },
   "/lotus/weapons/tenno/longguns/tnsmg/tnsmgweapon": {
     "value": "Baza"
   },
@@ -17265,6 +17337,9 @@
   },
   "/lotus/weapons/tenno/melee/swords/threeleaf/threeleaf": {
     "value": "Three Leaf"
+  },
+  "/lotus/weapons/tenno/melee/swords/tnrailjackgreatkatana/tnrailjackgreatkatanaweapon": {
+    "value": "Pennant"
   },
   "/lotus/weapons/tenno/melee/swords/tnorapier/tnorapier": {
     "value": "Destreza"
