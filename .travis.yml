@@ -1,5 +1,8 @@
 language: node_js
+os: linux
+dist: bionic
 cache:
+  timeout: 3
   directories:
     - ~/.npm
 
@@ -24,6 +27,5 @@ jobs:
       node_js: node
       deploy:
         provider: script
-        skip_cleanup: true
-        script:
-          - npx semantic-release
+        cleanuo: false
+        script: npx semantic-release
