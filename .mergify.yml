@@ -34,6 +34,7 @@ pull_request_rules:
       - "status-success=WIP"
       - "status-success=codeclimate"
       - "status-success=security/snyk (TobiTenno)"
+      - "-merged"
     actions:
       comment:
         message: |-
