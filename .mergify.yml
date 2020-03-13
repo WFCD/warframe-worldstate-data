@@ -1,0 +1,23 @@
+pull_request_rules:
+  - name: Automerge wfcd-bot-boi PRs that Pass
+    conditions:
+      - "author=wfcd-bot-boi"
+      - "status-success=Travis CI - Branch"
+      - "status-success=Travis CI - Pull Request"
+      - "status-success=WIP"
+      - "status-success=codeclimate"
+      - "status-success=security/snyk (TobiTenno)"
+    actions:
+      merge:
+        method: merge
+  - name: Automerge snyk PRs that Pass
+    conditions:
+      - "author=snyk-bot"
+      - "status-success=Travis CI - Branch"
+      - "status-success=Travis CI - Pull Request"
+      - "status-success=WIP"
+      - "status-success=codeclimate"
+      - "status-success=security/snyk (TobiTenno)"
+    actions:
+      merge:
+        method: merge
