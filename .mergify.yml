@@ -1,6 +1,7 @@
 pull_request_rules:
   - name: Automerge wfcd-bot-boi PRs that Pass
     conditions:
+      - "approved-reviews-by=@WFCD/node-libraries>=1"
       - "author=wfcd-bot-boi"
       - "status-success=Travis CI - Branch"
       - "status-success=Travis CI - Pull Request"
@@ -14,6 +15,7 @@ pull_request_rules:
         strict_method: rebase
   - name: Automerge snyk PRs that Pass
     conditions:
+      - "approved-reviews-by=@WFCD/node-libraries>=1"
       - "author=snyk-bot"
       - "status-success=Travis CI - Branch"
       - "status-success=Travis CI - Pull Request"
@@ -25,3 +27,16 @@ pull_request_rules:
         method: squash
         strict: true
         strict_method: rebase
+  - name: Notify owners to approve the PR
+    conditions:
+      - "status-success=Travis CI - Branch"
+      - "status-success=Travis CI - Pull Request"
+      - "status-success=WIP"
+      - "status-success=codeclimate"
+      - "status-success=security/snyk (TobiTenno)"
+    actions:
+      comment:
+        message: |-
+          @WFCD/node-libraries ready to merge! Make sure to add a
+          \#\# Commit Message
+          section to the pr.
