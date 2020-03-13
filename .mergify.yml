@@ -9,7 +9,9 @@ pull_request_rules:
       - "status-success=security/snyk (TobiTenno)"
     actions:
       merge:
-        method: merge
+        method: squash
+        strict: true
+        strict_method: rebase
   - name: Automerge snyk PRs that Pass
     conditions:
       - "author=snyk-bot"
@@ -20,4 +22,6 @@ pull_request_rules:
       - "status-success=security/snyk (TobiTenno)"
     actions:
       merge:
-        method: merge
+        method: squash
+        strict: true
+        strict_method: rebase
