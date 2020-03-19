@@ -62,5 +62,8 @@
   "homepage": "https://github.com/wfcd/warframe-worldstate-data#readme",
   "release": {
     "branch": "master"
+  },
+  "engines": {
+    "node": ">=8.17.0"
   }
 }
