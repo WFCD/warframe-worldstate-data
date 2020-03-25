@@ -731,6 +731,9 @@
   "/lotus/language/g1quests/deck12glyphhunteventname": {
     "value": "Operation: Buried Debts"
   },
+  "/lotus/language/g1quests/flotillaoperation": {
+    "value": "Scarlet Spear"
+  },
   "/lotus/language/g1quests/fomorianrevengebattlename": {
     "value": "발러 포모리안"
   },
@@ -2165,6 +2168,9 @@
   },
   "/lotus/storeitems/powersuits/rhino/rhinostompabilitycard": {
     "value": "라이노 스톰프"
+  },
+  "/lotus/storeitems/powersuits/sandman/sandman": {
+    "value": "이나로스"
   },
   "/lotus/storeitems/powersuits/saryn/explosivedissolveabilitycard": {
     "value": "미아즈마"
@@ -9459,6 +9465,15 @@
   "/lotus/storeitems/upgrades/skins/clan/rescueeventbadgeitem": {
     "value": "스펙터즈 오브 리버티 엠블럼"
   },
+  "/lotus/storeitems/upgrades/skins/clan/scarletspear/scarletspearoperationiemblem": {
+    "value": "Scarlet Spear Operations I Emblem"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/scarletspear/scarletspearoperationiiemblem": {
+    "value": "Scarlet Spear Operations II Emblem"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/scarletspear/scarletspearoperationiiiemblem": {
+    "value": "Scarlet Spear Operations III Emblem"
+  },
   "/lotus/storeitems/upgrades/skins/clan/sevantihalobadgeitem": {
     "value": "세바티 세카라"
   },
@@ -13924,6 +13939,9 @@
   "/lotus/types/items/shipdecos/lisetpropmandolingrineer": {
     "value": "Corbu Shawzin"
   },
+  "/lotus/types/items/shipdecos/lisetpropmandolinsentient": {
+    "value": "Tiamat Shawzin"
+  },
   "/lotus/types/items/shipdecos/nezhabobblehead": {
     "value": "나타 - 노글 스태츄"
   },
@@ -15484,6 +15502,9 @@
   "/lotus/types/storeitems/packages/nightwatchweaponskinbundle": {
     "value": "나이트와치 스킨 번들"
   },
+  "/lotus/types/storeitems/packages/novadeluxeiiskinbundle": {
+    "value": "Nova Atomica Collection"
+  },
   "/lotus/types/storeitems/packages/novadeluxeskinbundle": {
     "value": "노바 아수리 번들"
   },
@@ -15870,6 +15891,9 @@
   },
   "/lotus/upgrades/skins/antimatter/novaalternateskin": {
     "value": "노바 이모탈 스킨"
+  },
+  "/lotus/upgrades/skins/antimatter/novadeluxeiisuit": {
+    "value": "Nova Atomica Skin"
   },
   "/lotus/upgrades/skins/antimatter/novadeluxesuit": {
     "value": "노바 아수리 스킨"
