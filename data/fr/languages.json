@@ -731,6 +731,9 @@
   "/lotus/language/g1quests/deck12glyphhunteventname": {
     "value": "Operation: Buried Debts"
   },
+  "/lotus/language/g1quests/flotillaoperation": {
+    "value": "Scarlet Spear"
+  },
   "/lotus/language/g1quests/fomorianrevengebattlename": {
     "value": "Balor Fomorian"
   },
@@ -2165,6 +2168,9 @@
   },
   "/lotus/storeitems/powersuits/rhino/rhinostompabilitycard": {
     "value": "Rhino Stomp"
+  },
+  "/lotus/storeitems/powersuits/sandman/sandman": {
+    "value": "Inaros"
   },
   "/lotus/storeitems/powersuits/saryn/explosivedissolveabilitycard": {
     "value": "Miasme"
@@ -9459,6 +9465,15 @@
   "/lotus/storeitems/upgrades/skins/clan/rescueeventbadgeitem": {
     "value": "Specters Of Liberty Emblem"
   },
+  "/lotus/storeitems/upgrades/skins/clan/scarletspear/scarletspearoperationiemblem": {
+    "value": "Scarlet Spear Operations I Emblem"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/scarletspear/scarletspearoperationiiemblem": {
+    "value": "Scarlet Spear Operations II Emblem"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/scarletspear/scarletspearoperationiiiemblem": {
+    "value": "Scarlet Spear Operations III Emblem"
+  },
   "/lotus/storeitems/upgrades/skins/clan/sevantihalobadgeitem": {
     "value": "Sevati Sekhara"
   },
@@ -13924,6 +13939,9 @@
   "/lotus/types/items/shipdecos/lisetpropmandolingrineer": {
     "value": "Corbu Shawzin"
   },
+  "/lotus/types/items/shipdecos/lisetpropmandolinsentient": {
+    "value": "Tiamat Shawzin"
+  },
   "/lotus/types/items/shipdecos/nezhabobblehead": {
     "value": "Nezha - Noggle Statue"
   },
@@ -15484,6 +15502,9 @@
   "/lotus/types/storeitems/packages/nightwatchweaponskinbundle": {
     "value": "Nightwatch Skin Bundle"
   },
+  "/lotus/types/storeitems/packages/novadeluxeiiskinbundle": {
+    "value": "Nova Atomica Collection"
+  },
   "/lotus/types/storeitems/packages/novadeluxeskinbundle": {
     "value": "Nova Asuri Bundle"
   },
@@ -15870,6 +15891,9 @@
   },
   "/lotus/upgrades/skins/antimatter/novaalternateskin": {
     "value": "Nova Immortal Skin"
+  },
+  "/lotus/upgrades/skins/antimatter/novadeluxeiisuit": {
+    "value": "Nova Atomica Skin"
   },
   "/lotus/upgrades/skins/antimatter/novadeluxesuit": {
     "value": "Nova Asuri Skin"
