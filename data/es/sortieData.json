@@ -20,7 +20,7 @@
     "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Peligro ambiental: anomalías electromagnéticas",
     "SORTIE_MODIFIER_HAZARD_FOG": "Peligro ambiental: niebla densa",
     "SORTIE_MODIFIER_HAZARD_FIRE": "Peligro ambiental: fuego",
-    "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
+    "SORTIE_MODIFIER_HAZARD_ICE": "Efecto ambiental: fuga criogénica",
     "SORTIE_MODIFIER_HAZARD_COLD": "Efecto ambiental: frío extremo",
     "SORTIE_MODIFIER_ARMOR": "Armadura enemiga aumentada",
     "SORTIE_MODIFIER_SHIELDS": "Escudos enemigos mejorados",
@@ -125,7 +125,7 @@
       "faction": "Infestación"
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
-      "name": "Corrupted Vor",
+      "name": "Vor corrupto",
       "faction": "Corruptos"
     }
   },
