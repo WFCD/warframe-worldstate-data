@@ -1155,7 +1155,7 @@
     "type": "Defensa móvil"
   },
   "SolNode404": {
-    "value": "Stribog (Void)",
+    "value": "Stribog (Vacío)",
     "enemy": "Orokin",
     "type": "Sabotaje orokin"
   },
@@ -1205,7 +1205,7 @@
     "type": "Retribución antigua"
   },
   "SolNode740": {
-    "value": "The Ropalolyst (Jupiter)",
+    "value": "El Ropaloulista (Júpiter)",
     "enemy": "Consciente",
     "type": "Asesinato"
   },
@@ -1325,7 +1325,7 @@
     "type": "Rescate"
   },
   "SolNode308": {
-    "value": "Apollo (Lua)",
+    "value": "Apolo (Lua)",
     "enemy": "Corpus",
     "type": "Disruption"
   },
@@ -1807,7 +1807,7 @@
   "ClanNode16": {
     "value": "Ur (Urano)",
     "enemy": "Infestados",
-    "type": "Dark Sector Disruption"
+    "type": "Sector oscuro interrupción"
   },
   "ClanNode17": {
     "value": "Assur (Urano)",
@@ -1860,43 +1860,43 @@
     "type": "Asesinato"
   },
   "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil Proxima)",
+    "value": "Campo de guerra Ruse (Próxima Velo)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "Escaramuza"
   },
   "CrewBattleNode510": {
-    "value": "Gian Point (Veil Proxima)",
+    "value": "Punto Gian (Próxima Velo)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "Escaramuza"
   },
   "CrewBattleNode550": {
-    "value": "Nsu Grid (Veil Proxima)",
+    "value": "Red Nsu (Próxima Velo)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "Escaramuza"
   },
   "CrewBattleNode551": {
-    "value": "Ganalen's Grave (Veil Proxima)",
+    "value": "Tumba de Ganalen (Próxima Velo)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "Escaramuza"
   },
   "CrewBattleNode552": {
-    "value": "Rya (Veil Proxima)",
+    "value": "Rya (Próxima Velo)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "Escaramuza"
   },
   "CrewBattleNode553": {
-    "value": "Flexa (Veil Proxima)",
+    "value": "Flexa (Próxima Velo)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "Escaramuza"
   },
   "CrewBattleNode554": {
-    "value": "H-2 Cloud (Veil Proxima)",
+    "value": "Nube H-2 (Próxima Velo)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "Escaramuza"
   },
   "CrewBattleNode555": {
-    "value": "R-9 Cloud (Veil Proxima)",
+    "value": "Nube R-9 (Próxima Velo)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "Escaramuza"
   }
 }
