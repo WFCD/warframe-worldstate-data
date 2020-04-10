@@ -861,7 +861,7 @@
     "value": "Rathuum Prisoner Coordinates"
   },
   "/lotus/language/items/orokinreactor": {
-    "value": "Reactor orokin"
+    "value": "Reactor Orokin"
   },
   "/lotus/language/locations/relaystationtennocon": {
     "value": "TennoCon Relay"
@@ -870,7 +870,7 @@
     "value": "Exclusive Digital ticket holder Relay right this way!"
   },
   "/lotus/language/menu/corpusinvasiongeneric": {
-    "value": "Corpus Siege"
+    "value": "Asedio Corpus"
   },
   "/lotus/language/menu/corpusrazorbackproject": {
     "value": "Razorback Armada"
@@ -882,7 +882,7 @@
     "value": "Facción grineer"
   },
   "/lotus/language/menu/infestedinvasionboss": {
-    "value": "Phorid Manifestation"
+    "value": "Manifestación de Phorid"
   },
   "/lotus/language/menu/infestedinvasionending": {
     "value": "Infestation Subsiding"
@@ -3676,13 +3676,13 @@
     "value": "Isótopo omega"
   },
   "/lotus/storeitems/types/items/miscitems/orokincatalyst": {
-    "value": "Catalizador orokin"
+    "value": "Catalizador Orokin"
   },
   "/lotus/storeitems/types/items/miscitems/orokincell": {
-    "value": "Célula orokin"
+    "value": "Célula Orokin"
   },
   "/lotus/storeitems/types/items/miscitems/orokinreactor": {
-    "value": "Reactor orokin"
+    "value": "Reactor Orokin"
   },
   "/lotus/storeitems/types/items/miscitems/oxiumalloy": {
     "value": "Oxium"
@@ -3709,7 +3709,7 @@
     "value": "Paquetes de polímeros"
   },
   "/lotus/storeitems/types/items/miscitems/primebucks": {
-    "value": "Ducados orokin"
+    "value": "Ducados Orokin"
   },
   "/lotus/storeitems/types/items/miscitems/rubedo": {
     "value": "Rubedo"
@@ -4522,10 +4522,10 @@
     "value": "Umbra Forma Blueprint"
   },
   "/lotus/storeitems/types/recipes/components/orokincatalystblueprint": {
-    "value": "Plano de catalizador orokin"
+    "value": "Plano de Catalizador Orokin"
   },
   "/lotus/storeitems/types/recipes/components/orokinreactorblueprint": {
-    "value": "Plano de reactor orokin"
+    "value": "Plano de Reactor Orokin"
   },
   "/lotus/storeitems/types/recipes/components/vorboltremoverfakeitem": {
     "value": "Ascaris Negator"
@@ -9978,6 +9978,9 @@
   "/lotus/storeitems/upgrades/skins/heavyaxe/grnaxe": {
     "value": "Diseño Manticore de Scindo"
   },
+  "/lotus/storeitems/upgrades/skins/hoverboard/hoverboardstickerbaroa": {
+    "value": "Blue Ki'teer Safari K-Drive Scrawl"
+  },
   "/lotus/storeitems/upgrades/skins/hydroid/hydroidagileanims": {
     "value": "Conjunto de animaciones ágiles de Hydroid"
   },
@@ -12275,8 +12278,8 @@
     "desc": "Kill 150 Enemies with Abilities"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
-    "value": "Detonator",
-    "desc": "Kill 150 Enemies with Blast Damage"
+    "value": "Detonador",
+    "desc": "Mata 150 enemigos con daño de explosión"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithcorrosive": {
     "value": "Meltdown",
@@ -12324,7 +12327,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithradiation": {
     "value": "Reactor",
-    "desc": "Kill 150 Enemies with a Radiation Damage"
+    "desc": "Mata 150 enemigos con daño de radiación"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithsecondary": {
     "value": "Smaller Is Bigger",
@@ -12364,7 +12367,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
     "value": "Hacker",
-    "desc": "Hack 8 Consoles"
+    "desc": "Hackea 8 consolas"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "Everything Old is New Again",
@@ -12379,8 +12382,8 @@
     "desc": "Catch 6 Rare Servofish in the Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
-    "value": "Assassin",
-    "desc": "Complete 3 Assassination missions"
+    "value": "Asesino",
+    "desc": "Completa 3 misiones de asesinato"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
     "value": "Jailer",
@@ -12423,8 +12426,8 @@
     "desc": "Complete 3 Sabotage missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesortie": {
-    "value": "Sortie Specialist",
-    "desc": "Complete 1 Sorties"
+    "value": "Incursor especialista",
+    "desc": "Completa 1 incursión"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletespy": {
     "value": "Operative",
@@ -12467,8 +12470,8 @@
     "desc": "Mine 6 Rare Gems in the Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
-    "value": "Conservationist",
-    "desc": "Complete 6 different Perfect Animal Captures in Orb Vallis"
+    "value": "Conservacionista",
+    "desc": "Completa 6 diferentes capturas perfectas de animales en los Valles del Orbe"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
     "value": "Enhance!",
@@ -12483,16 +12486,16 @@
     "desc": "Find all caches in 3 Sabotage missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
-    "value": "Test Subject",
-    "desc": "Complete 8 waves of Sanctuary Onslaught"
+    "value": "Sujeto de pruebas",
+    "desc": "Completa 8 zonas en la Masacre en el Santuario"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
     "value": "Sanctuary Researcher",
     "desc": "Complete 5 Scans for Cephalon Simaris"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
-    "value": "Vault Looter",
-    "desc": "Unlock 4 Orokin Vaults"
+    "value": "Saqueador de bóvedas",
+    "desc": "Abre 4 bóvedas de Derrelictos Orokin"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockrelics": {
     "value": "Unlock Relics",
@@ -12539,8 +12542,8 @@
     "desc": "Win 3 wagers in a row without letting the enemy score in one match of The Index."
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillenemies": {
-    "value": "Kill Shot",
-    "desc": "Kill 1,500 Enemies"
+    "value": "Tiro letal",
+    "desc": "Mata 1.500 enemigos"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
     "value": "Eximus Executioner",
@@ -12555,8 +12558,8 @@
     "desc": "Defeat the Ropalolyst"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
-    "value": "Grove Guardian",
-    "desc": "Kill 3 Silver Grove Specters"
+    "value": "Guardián de La Arboleda",
+    "desc": "Derrota a 3 espectros de La Arboleda Plateada"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillthumper": {
     "value": "Walk Without Rhythm",
@@ -13802,13 +13805,13 @@
     "value": "Isótopo omega"
   },
   "/lotus/types/items/miscitems/orokincatalyst": {
-    "value": "Catalizador orokin"
+    "value": "Catalizador Orokin"
   },
   "/lotus/types/items/miscitems/orokincell": {
-    "value": "Célula orokin"
+    "value": "Célula Orokin"
   },
   "/lotus/types/items/miscitems/orokinreactor": {
-    "value": "Reactor orokin"
+    "value": "Reactor Orokin"
   },
   "/lotus/types/items/miscitems/oxiumalloy": {
     "value": "Oxium"
@@ -13820,7 +13823,7 @@
     "value": "Paquetes de polímeros"
   },
   "/lotus/types/items/miscitems/primebucks": {
-    "value": "Ducados orokin"
+    "value": "Ducados Orokin"
   },
   "/lotus/types/items/miscitems/razorbackcipherpartpickup": {
     "value": "Cryptographic ALU"
@@ -14108,10 +14111,10 @@
     "value": "Forma Blueprint"
   },
   "/lotus/types/recipes/components/orokincatalystblueprint": {
-    "value": "Plano de catalizador orokin"
+    "value": "Plano de Catalizador Orokin"
   },
   "/lotus/types/recipes/components/orokinreactorblueprint": {
-    "value": "Plano de reactor orokin"
+    "value": "Plano de Reactor Orokin"
   },
   "/lotus/types/recipes/components/utilityunlockerblueprint": {
     "value": "Exilus Adapter Blueprint"
