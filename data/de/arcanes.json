@@ -1,6 +1,6 @@
 [
     {
-        "regex": "acceleration",
+        "regex": "Beschleunigung",
         "name": "Arcane Acceleration",
         "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance \n15% / 30% / 45% / 60% Feuerrate für Gewehre\nfür 1.5 / 3 / 4.5 / 6 Sekunden zu bekommen",
         "rarity": "Ungewöhnlich",
@@ -24,19 +24,19 @@
         "rarity": "Ungewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
         "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/78/Arcane_Agility_160.png/revision/latest/scale-to-width-down/75?cb=20150414195529",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Agility"
+        "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Agilit%C3%A4t"
     },
     {
-        "regex": "arachne",
-        "name": "Arcane Arachne",
-        "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
+        "regex": "Arachnid",
+        "name": "Arkana: Arachnid",
+        "effect": "Beim Festhalten an der Wand 15% / 30% / 45% / 60% Chance \nauf 100% Bonus Damage\nbeim nächsten Treffer",
         "rarity": "Ungewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/c/c1/Arcane_Arachne_160.png/revision/latest/scale-to-width-down/75?cb=20151101102048",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Arachne"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/ArcaneArachne.png/revision/latest?cb=20180307093502&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Arachnid"
     },
     {
-        "regex": "avenger",
+        "regex": "Rächer",
         "name": "Arcane Avenger",
         "effect": "When DAMAGED 3.5% / 7% / 10.5% / 14% chance\nfor 7.5% / 15% / 22.5% / 30% Additive Critical Chance\nfor 2 / 4 / 6 / 8 Seconds",
         "rarity": "Ungewöhnlich",
