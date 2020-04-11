@@ -171,49 +171,49 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Phantasma"
     },
     {
-        "regex": "precision",
-        "name": "Arcane Precision",
-        "effect": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
+        "regex": "Präzision",
+        "name": "Arkana: Präzision",
+        "effect": "Bei Kopftreffer 20% / 40% / 60% / 80% Chance\n30% / 60% / 90% / 120% erhöhten Schaden für Sekundärwaffen\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a9/Arcane_Precision_160.png/revision/latest/scale-to-width-down/75?cb=20151031073431",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Precision"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcanePrecision.png/revision/latest?cb=20180307230901&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Pr%C3%A4zision"
     },
     {
-        "regex": "pulse",
+        "regex": "Puls",
         "name": "Arcane Pulse",
-        "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
+        "effect": "Beim Aufheben von Leben 5% / 10% / 15% / 20% Chance\n25 / 50 / 75 / 100 Leben von Verbündeten\ninnerhalb von 5 / 10 / 15 / 20 Metern zu heilen",
         "rarity": "Selten",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/e/e7/Arcane_Pulse_160.png/revision/latest/scale-to-width-down/75?cb=20150414010427",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Pulse"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8a/ArcanePulse.png/revision/latest?cb=20180307230924&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Puls"
     },
     {
-        "regex": "rage",
+        "regex": "Rage",
         "name": "Arcane Rage",
-        "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 30% / 60% / 90% / 120% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
+        "effect": "Bei Kopftreffer 2.5% / 5% / 7.5% / 10% Chance\n30% / 60% / 90% / 120% erhöhten Schaden für Primärwaffen\nfür 4 / 8 / 12 / 16 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/3/3b/Arcane_Rage_160.png/revision/latest/scale-to-width-down/75?cb=20150407090655",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Rage"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneRage.png/revision/latest?cb=20180307231001&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Rage"
     },
     {
-        "regex": "resistance",
+        "regex": "Widerstand",
         "name": "Arcane Resistance",
-        "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
+        "effect": "20% / 40% / 60% / 80% Chance Elektrizitätsschaden zu widerstehen",
         "rarity": "Selten",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e4/Arcane_Resistance_160.png/revision/latest/scale-to-width-down/75?cb=20150414071159",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Resistance"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcaneResistance.png/revision/latest?cb=20180306223202&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Widerstand"
     },
     {
-        "regex": "strike",
+        "regex": "Hieb",
         "name": "Arcane Strike",
-        "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
+        "effect": "Bei Treffer 2.5% / 5% / 7.5% / 10% Chance\n10% / 20% / 30% / 40% erhöhte Angriffsgeschwindigkeit für Nahkampfwaffen\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a0/Arcane_Strike_160.png/revision/latest/scale-to-width-down/75?cb=20150413191053",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Strike"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/da/ArcaneStrike.png/revision/latest?cb=20180306223218&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Hieb"
     },
     {
         "regex": "tempo",
@@ -360,7 +360,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Fury"
     },
     {
-        "regex": "strike",
+        "regex": "Hieb",
         "name": "Virtuos Strike",
         "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "Ungewöhnlich",
