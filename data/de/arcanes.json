@@ -83,41 +83,41 @@
     {
         "regex": "Antrieb",
         "name": "Arkana: Antrieb",
-        "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
+        "effect": "Beim Aufsammeln von Energie 10% / 20% / 30% / 40% Chance\n25 / 50 / 75 / 100 Energie von Verbündeten\ninnerhalb von 5 / 10 / 15 / 20 Metern aufzufüllen",
         "rarity": "Selten",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e3/Arcane_Energize_160.png/revision/latest/scale-to-width-down/75?cb=20151102150026",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Energize"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/96/ArcaneEnergize.png/revision/latest?cb=20180306223752&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Antrieb"
     },
     {
-        "regex": "eruption",
+        "regex": "Eruption",
         "name": "Arcane Eruption",
-        "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
+        "effect": "Beim Aufsammeln von Energie 5% / 10% / 15% / 20% Chance\nGegner innerhalb von 5 / 10 / 15 / 20 Metern umzuwerfen",
         "rarity": "Ungewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/2/2d/Arcane_Eruption_160.png/revision/latest/scale-to-width-down/75?cb=20150404083642",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Eruption"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/ArcaneEruption.png/revision/latest?cb=20180306223054&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Eruption"
     },
     {
-        "regex": "fury",
-        "name": "Arcane Fury",
-        "effect": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
+        "regex": "Furie",
+        "name": "Arkana: Furie",
+        "effect": "Bei kritischem Treffer 10% / 20% / 30% / 40% Chance\n30% / 60% / 90% / 120% erhöhten Nahkampfschaden\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/8/8d/Arcane_Fury_160.png/revision/latest/scale-to-width-down/75?cb=20151102161322",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Fury"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/be/ArcaneFury.png/revision/latest?cb=20180307230818&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Furie"
     },
     {
-        "regex": "grace",
+        "regex": "Anmut",
         "name": "Arcane Grace",
-        "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
+        "effect": "Beim Erleiden von Schaden 1.5% / 3% / 4.5% / 6% Chance\nauf 1% / 2% / 3% / 4% Lebensregeneration pro Sekunde für 1.5 / 3 / 4.5 / 6 Sekunden zu erhalten",
         "rarity": "Selten",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/44/Arcane_Grace_Icon.png/revision/latest/scale-to-width-down/75?cb=20150420152648",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Grace"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneGrace.png/revision/latest?cb=20180306223812&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Anmut"
     },
     {
-        "regex": "guardian",
+        "regex": "Beschützer",
         "name": "Arcane Guardian",
         "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
         "rarity": "Gewöhnlich",
@@ -351,7 +351,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
     },
     {
-        "regex": "fury",
+        "regex": "Furie",
         "name": "Virtuos Fury",
         "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "Ungewöhnlich",
