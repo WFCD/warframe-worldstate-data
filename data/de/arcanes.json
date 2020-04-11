@@ -72,17 +72,17 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Konsequenz"
     },
     {
-        "regex": "deflection",
+        "regex": "Deflektion",
         "name": "Arcane Deflection",
-        "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
+        "effect": "20% / 40% / 60% / 80% Chance dem Schnittstatuseffekt zu wiederstehen",
         "rarity": "Selten",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/b/b1/Arcane_Deflection_160.png/revision/latest/scale-to-width-down/75?cb=20150414010409",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Deflection"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/ArcaneDeflection.png/revision/latest?cb=20180306223029&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Deflektion"
     },
     {
-        "regex": "energize",
-        "name": "Arcane Energize",
+        "regex": "Antrieb",
+        "name": "Arkana: Antrieb",
         "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
         "rarity": "Selten",
         "location": "Ändere, überprüfe Droptabelle",
