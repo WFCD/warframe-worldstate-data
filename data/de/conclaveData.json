@@ -1,7 +1,7 @@
 {
   "modes": {
     "PVPMODE_ALL": {
-      "value": "Any Mode"
+      "value": "Jeder Modus"
     },
     "PVPMODE_DEATHMATCH": {
       "value": "Vernichtung"
@@ -10,10 +10,10 @@
       "value": "Team Vernichtung"
     },
     "PVPMODE_NONE": {
-      "value": "None"
+      "value": "Keiner"
     },
     "PVPMODE_CAPTURETHEFLAG": {
-      "value": "Capture the Cephalon"
+      "value": "Cephalon Eroberung"
     },
     "PVPMODE_SPEEDBALL": {
       "value": "Lunaro"
@@ -24,16 +24,16 @@
       "value": "week"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
-      "value": "week_root"
+      "value": "Missionen"
     },
     "PVPChallengeTypeCategory_DAILY": {
       "value": "Tag"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
-      "value": "day_root"
+      "value": "Herausforderungen"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
-      "value": "modified round"
+      "value": "angepasste Runde"
     }
   }
 }
