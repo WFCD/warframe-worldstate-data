@@ -298,8 +298,8 @@
     },
     {
         "regex": "cadence",
-        "name": "Magus Cadence",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for 15% / 30% / 45% / 60% Increased sprint speed for 2 / 4 / 6 / 8 Seconds",
+        "name": "Magus: Takt",
+        "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance 15% / 30% / 45% / 60% erhöhte Sprintgeschwindigkeit für 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/MagusCadence.png/revision/latest/scale-to-width-down/350?cb=20171129163011",
@@ -307,8 +307,8 @@
     },
     {
         "regex": "replenish",
-        "name": "Magus Replenish",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
+        "name": "Magus: Erneuerung",
+        "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance 5% / 10% / 15% / 20% Gesundheit zu heilen",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/MagusReplenish.png/revision/latest/scale-to-width-down/350?cb=20171129163024",
@@ -316,8 +316,8 @@
     },
     {
         "regex": "elevate",
-        "name": "Magus Elevate",
-        "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
+        "name": "Magus: Erheben",
+        "effect": "Bei Tranzferenz in Warframe 30% / 40% / 50% / 75% Chance Warframe um 50 / 100 / 150 / 200 Leben zu heilen",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/MagusElevate.png/revision/latest/scale-to-width-down/350?cb=20171129163015",
@@ -325,7 +325,7 @@
     },
     {
         "regex": "nourish",
-        "name": "Magus Nourish",
+        "name": "Magus: Pflegen",
         "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
