@@ -271,8 +271,8 @@
     },
     {
         "regex": "vigor",
-        "name": "Magus Vigor",
-        "effect": "50 / 100 / 150 / 200 Increased Health",
+        "name": "Magus: Vitalität",
+        "effect": "50 / 100 / 150 / 200 erhöhte Leben",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
@@ -280,8 +280,8 @@
     },
     {
         "regex": "husk",
-        "name": "Magus Husk",
-        "effect": "25 / 50 / 75 / 100 Increased Armor",
+        "name": "Magus: Hülle",
+        "effect": "25 / 50 / 75 / 100 erhöhte Rüstung",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/MagusHusk.png/revision/latest/scale-to-width-down/350?cb=20171129163018",
@@ -289,8 +289,8 @@
     },
     {
         "regex": "cloud",
-        "name": "Magus Cloud",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
+        "name": "Magus: Wolke",
+        "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance Immunität gegen Fallschaden für 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
