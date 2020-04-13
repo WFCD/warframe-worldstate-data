@@ -216,16 +216,16 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Hieb"
     },
     {
-        "regex": "tempo",
-        "name": "Arcane Tempo",
-        "effect": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
+        "regex": "Tempo",
+        "name": "Arkana: Tempo",
+        "effect": "Bei kritischem Treffer 2.5% / 5% / 7.5% / 10% Chance\n15% / 30% / 45% / 60% erhöhte Feuerrate für Schrotflinten\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/a/aa/Arcane_Tempo_160.png/revision/latest/scale-to-width-down/75?cb=20151102162933",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Tempo"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b7/ArcaneTempo.png/revision/latest?cb=20180305010704&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Tempo"
     },
     {
-        "regex": "trickery",
+        "regex": "Trickserei",
         "name": "Arcane Trickery",
         "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
         "rarity": "Gewöhnlich",
@@ -342,7 +342,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Null"
     },
     {
-        "regex": "tempo",
+        "regex": "Tempo",
         "name": "Virtuos Tempo",
         "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
         "rarity": "Ungewöhnlich",
