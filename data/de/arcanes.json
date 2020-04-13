@@ -326,7 +326,7 @@
     {
         "regex": "nourish",
         "name": "Magus: Pflegen",
-        "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
+        "effect": "Während Transferenz (Operator-Modus) aktiv ist wird der Warframe um 10 / 15 / 20 / 25 Leben pro Sekunde geheilt",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/MagusNourish.png/revision/latest/scale-to-width-down/350?cb=20171129163020",
@@ -334,8 +334,8 @@
     },
     {
         "regex": "null",
-        "name": "Virtuos Null",
-        "effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
+        "name": "Virtuos: Leere",
+        "effect": "Bei Kill 5% / 10% / 15% / 20% erhöhte Verstärker-Energieregeneration für 1 / 2 / 3 / 4 Sekunden",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/VirtuosNull.png/revision/latest?cb=20171129163035",
@@ -343,8 +343,8 @@
     },
     {
         "regex": "tempo",
-        "name": "Virtuos Tempo",
-        "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
+        "name": "Virtuos: Tempo",
+        "effect": "Bei Kill 15% / 30% / 45% / 60% Chance 15% / 30% / 45% / 60% erhöhte Feuerrrate für 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
