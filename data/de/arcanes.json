@@ -227,47 +227,47 @@
     {
         "regex": "Trickserei",
         "name": "Arcane Trickery",
-        "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
+        "effect": "Nach Finisher 2.5% / 5% / 7.5% / 10% Chance\nfür 5 / 10 / 15 / 20 Sekunden unsichtbar zu werden",
         "rarity": "Gewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/75/Arcane_Trickery_160.png/revision/latest/scale-to-width-down/75?cb=20150413185559",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Trickery"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/ArcaneTrickery.png/revision/latest?cb=20180306223307&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Trickserei"
     },
     {
-        "regex": "ultimatum",
-        "name": "Arcane Ultimatum",
-        "effect": "On finisher, 25% / 50% / 75% / 100% chance\to give 150 / 300 / 450 / 600 Armor\nfor 10 / 20 / 30 / 40 seconds",
+        "regex": "Ultimatum",
+        "name": "Arkana: Ultimatum",
+        "effect": "Nach Finisher 25% / 50% / 75% / 100% Chance 150 / 300 / 450 / 600 Rüstung\nfür 10 / 20 / 30 / 40 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/48/Arcane_Ultimatum_160.png/revision/latest/scale-to-width-down/75?cb=20151101031844",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Ultimatum"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneUltimatum.png/revision/latest?cb=20181225172124",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Ultimatum"
     },
     {
-        "regex": "velocity",
-        "name": "Arcane Velocity",
-        "effect": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
+        "regex": "Geschwindigkeit",
+        "name": "Arkana: Geschwindigkeit",
+        "effect": "Bei kritischem Treffer 15% / 30% / 45% / 60% Chance\n20% / 40% / 60% / 80% erhöhte Feuerrate für Sekundärwaffen\nfür 1.5 / 3 / 4.5 / 6 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e2/Arcane_Velocity_160.png/revision/latest/scale-to-width-down/75?cb=20151031164830",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Velocity"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5f/ArcaneVelocity.png/revision/latest?cb=20180306223405&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Geschwindigkeit"
     },
     {
-        "regex": "victory",
+        "regex": "Sieg",
         "name": "Arcane Victory",
-        "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
+        "effect": "Bei Kopftreffer 2% / 4% / 6% / 8% Chance\n0.5% / 1.0% / 1.5% / 2.0% Lebensregeneration pro Sekunde\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Selten",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/25/Arcane_Victory_160.png/revision/latest/scale-to-width-down/75?cb=20150414195605",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Victory"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9b/ArcaneVictory.png/revision/latest?cb=20180306004336&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Sieg"
     },
     {
-        "regex": "warmth",
+        "regex": "Wärme",
         "name": "Arcane Warmth",
-        "effect": "20% / 40% / 60% / 80% chance to resist Cold proc",
+        "effect": "20% / 40% / 60% / 80% Chance Kälteschaden zu widerstehen",
         "rarity": "Ungewöhnlich",
         "location": "Ändere, überprüfe Droptabelle",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/2a/Arcane_Warmth_160.png/revision/latest/scale-to-width-down/75?cb=20150403122843",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Warmth"
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b9/ArcaneWarmth.png/revision/latest?cb=20180305010756&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_W%C3%A4rme"
     },
     {
         "regex": "vigor",
