@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ancient Disruptor",
+        "name": "Uralter Unterbrecher",
         "locations": [
             {
                 "last_verified": "2019-02-24",
@@ -14,7 +14,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Merkur",
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "name": "Ancient Healer",
+        "name": "Uralter Heiler",
         "locations": [
             {
                 "last_verified": "2018-08-22",
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "name": "Arid Eviscerator [Research]",
+        "name": "Wüsten-Ausweider [Research]",
         "locations": [
             {
                 "last_verified": "2018-04-16",
@@ -165,7 +165,7 @@
         ]
     },
     {
-        "name": "Bombard",
+        "name": "Bombardier",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -206,7 +206,7 @@
         ]
     },
     {
-        "name": "Brood Mother",
+        "name": "Brutmutter",
         "locations": [
             {
                 "last_verified": "2019-04-16",
@@ -247,7 +247,7 @@
         ]
     },
     {
-        "name": "Butcher",
+        "name": "Schlächter",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -288,25 +288,25 @@
         ]
     },
     {
-        "name": "Charger",
+        "name": "Stürmer",
         "locations": [
             {
                 "last_verified": "2019-06-27",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Merkur",
-                "type": "Crossfire Sabotage"
+                "type": "Kreuzfeuer Sabotage"
             },
             {
                 "last_verified": "2019-09-01",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "Merkur",
-                "type": "Crossfire Exterminate"
+                "type": "Kreuzfeuer Auslöschung"
             },
             {
                 "last_verified": "2019-06-27",
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "name": "Commander",
+        "name": "Kommandant",
         "locations": [
             {
                 "last_verified": "2018-05-08",
@@ -527,7 +527,7 @@
             {
                 "last_verified": "2019-05-30",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europa",
@@ -892,20 +892,20 @@
             {
                 "last_verified": "2019-01-13",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "Merkur",
-                "type": "Crossfire Sabotage"
+                "type": "Kreuzfeuer Sabotage"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "Merkur",
-                "type": "Crossfire Exterminate"
+                "type": "Kreuzfeuer Auslöschung"
             }
         ]
     },
@@ -1171,7 +1171,7 @@
             {
                 "last_verified": "2019-01-19",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europa",
