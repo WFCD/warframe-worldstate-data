@@ -59,9 +59,9 @@
     "SORTIE_MODIFIER_SECONDARY_ONLY": "Nur Sekundärwaffen sind in dieser Mission erlaubt. Jegliche anderen Waffen sind nicht erlaubt und werden, falls ausgerüstet, automatisch entfernt.",
     "SORTIE_MODIFIER_SHOTGUN_ONLY": "Nur Shotguns sind in dieser Mission erlaubt. Jegliche anderen Waffen sind nicht erlaubt und werden, falls ausgerüstet, automatisch entfernt.",
     "SORTIE_MODIFIER_SNIPER_ONLY": "Nur Snipergewehre sind in dieser Mission erlaubt. Jegliche anderen Waffen sind nicht erlaubt und werden, falls ausgerüstet, automatisch entfernt.",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "Only assault rifles may be used in this mission. Surprisingly, launchers work too. Other weapon types will be removed automatically if equipped.",
-    "SORTIE_MODIFIER_MELEE_ONLY": "Only melee weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
-    "SORTIE_MODIFIER_BOW_ONLY": "Only bows may be used in this mission, crossbows however work too! Other weapon types will be removed automatically if equipped."
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Nur Gewehre sind in dieser Mission erlaubt. Überraschenderweise sind auch Werfer erlaubt. Jegliche anderen Waffen sind nicht erlaubt und werden, falls ausgerüstet, automatisch entfernt.",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Nur Nahkampfwaffen sind in dieser Mission erlaubt. Jegliche anderen Waffen sind nicht erlaubt und werden, falls ausgerüstet, automatisch entfernt.",
+    "SORTIE_MODIFIER_BOW_ONLY": "Nur Bögen sind in dieser Mission erlaubt, allerdings gehen auch Armbrüste! Jegliche anderen Waffen sind nicht erlaubt und werden, falls ausgerüstet, automatisch entfernt."
   },
   "bosses": {
     "SORTIE_BOSS_HYENA": {
@@ -125,7 +125,7 @@
       "faction": "Infestation"
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
-      "name": "Corrupted Vor",
+      "name": "Captain Vor (Korrumpiert)",
       "faction": "Korrumpierte"
     }
   },
@@ -4227,11 +4227,11 @@
     }
   ],
   "modifiers": [
-    "+ Enemy armor/shield",
+    "+ feindliche Rüstung/Schilde",
     "Environmental hazard",
-    "Enemy damage resistance",
-    "Energy reduction",
+    "Feindliche Schadensresistenz",
+    "reduzierte Energie",
     "Eximus Festung",
-    "Weapon restriction"
+    "Waffeneinschränkung"
   ]
 }
