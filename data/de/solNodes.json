@@ -497,7 +497,7 @@
   "SolNode99": {
     "value": "War (Mars)",
     "enemy": "Grineer",
-    "type": "Assassinate"
+    "type": "Attentat"
   },
   "SolNode100": {
     "value": "Elara (Jupiter)",
@@ -522,7 +522,7 @@
   "SolNode104": {
     "value": "Fossa (Venus)",
     "enemy": "Corpus",
-    "type": "Assassinate"
+    "type": "Attentat"
   },
   "SolNode105": {
     "value": "Titania (Uranus)",
@@ -542,7 +542,7 @@
   "SolNode108": {
     "value": "Tolstoj (Mercury)",
     "enemy": "Grineer",
-    "type": "Assassinate"
+    "type": "Attentat"
   },
   "SolNode109": {
     "value": "Linea (Venus)",
@@ -1212,7 +1212,7 @@
   "SolNode741": {
     "value": "Koro (Kuva Fortress)",
     "enemy": "Grineer",
-    "type": "Assault"
+    "type": "Sturmangriff"
   },
   "SolNode742": {
     "value": "Nabuk (Kuva Fortress)",
@@ -1377,7 +1377,7 @@
   "SettlementNode10": {
     "value": "Kepler (Phobos)",
     "enemy": "Corpus",
-    "type": "Rush (Archwing)"
+    "type": "Hetzjagd (Archwing)"
   },
   "SettlementNode11": {
     "value": "Gulliver (Phobos)",
@@ -1742,7 +1742,7 @@
   "ClanNode3": {
     "value": "Tikal (Earth)",
     "enemy": "Befallene",
-    "type": "Dark Sector Excavation"
+    "type": "Dark Sector Ausgrabung"
   },
   "ClanNode4": {
     "value": "Sinai (Jupiter)",
@@ -1762,7 +1762,7 @@
   "ClanNode7": {
     "value": "Cholistan (Europa)",
     "enemy": "Befallene",
-    "type": "Dark Sector Excavation"
+    "type": "Dark Sector Ausgrabung"
   },
   "ClanNode8": {
     "value": "Kadesh (Mars)",
@@ -1777,7 +1777,7 @@
   "ClanNode10": {
     "value": "Memphis (Phobos)",
     "enemy": "Befallene",
-    "type": "Dark Sector Defection"
+    "type": "Dark Sector Seitenwechsel"
   },
   "ClanNode11": {
     "value": "Zeugma (Phobos)",
@@ -1787,7 +1787,7 @@
   "ClanNode12": {
     "value": "Caracol (Saturn)",
     "enemy": "Befallene",
-    "type": "Dark Sector Defection"
+    "type": "Dark Sector Seitenwechsel"
   },
   "ClanNode13": {
     "value": "Piscinas (Saturn)",
@@ -1807,7 +1807,7 @@
   "ClanNode16": {
     "value": "Ur (Uranus)",
     "enemy": "Befallene",
-    "type": "Dark Sector Disruption"
+    "type": "Dark Sector Störung"
   },
   "ClanNode17": {
     "value": "Assur (Uranus)",
@@ -1827,7 +1827,7 @@
   "ClanNode20": {
     "value": "Yursa (Neptune)",
     "enemy": "Befallene",
-    "type": "Dark Sector Defection"
+    "type": "Dark Sector Seitenwechsel"
   },
   "ClanNode21": {
     "value": "Kelashin (Neptune)",
@@ -1852,10 +1852,10 @@
   "ClanNode25": {
     "value": "Hieracon (Pluto)",
     "enemy": "Befallene",
-    "type": "Dark Sector Excavation"
+    "type": "Dark Sector Ausgrabung"
   },
   "/Lotus/Types/Keys/SortieBossKeyPhorid": {
-    "value": "Sortie Boss: Phorid",
+    "value": "Einsatzboss: Phorid",
     "enemy": "Befallene",
     "type": "Attentat"
   },
