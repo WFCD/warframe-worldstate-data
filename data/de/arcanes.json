@@ -352,8 +352,8 @@
     },
     {
         "regex": "fury",
-        "name": "Virtuos Fury",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
+        "name": "Virtuos: Wut",
+        "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 7.5% / 15% / 22.5% / 30% erhöhten Schaden für 1 / 2 / 3 / 4 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
@@ -361,8 +361,8 @@
     },
     {
         "regex": "strike",
-        "name": "Virtuos Strike",
-        "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
+        "name": "Virtuos: Schlag",
+        "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance 15% / 30% / 45% / 60% erhöhten kritischen Schaden für 1 / 2 / 3 / 4 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/VirtuosStrike.png/revision/latest/scale-to-width-down/350?cb=20171129163040",
@@ -370,8 +370,8 @@
     },
     {
         "regex": "shadow",
-        "name": "Virtuos Shadow",
-        "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Multiplicative critical chance for 3 / 6 / 9 / 12 seconds",
+        "name": "Virtuos: Schatten",
+        "effect": "Bei Kopftreffer 10% / 20% / 30% / 40% Chance 15% / 30% / 45% / 60% zusätzliche kritische Chance für 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
@@ -379,7 +379,7 @@
     },
     {
         "regex": "ghost",
-        "name": "Virtuos Ghost",
+        "name": "Virtuos: Geist",
         "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Increased status chance for 3 / 6 / 9 / 12 seconds",
         "rarity": "Ungewöhnlich",
         "location": "Quills",
