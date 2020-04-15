@@ -443,7 +443,7 @@
     {
         "regex": "contagion",
         "name": "Exodia: Infektion",
-        "effect": "After a double jump or bullet jump, on air attack, 100% / 200% / 300% / 400% projectile damage after 30m, range determined by gravity",
+        "effect": "Nach einem Doppel- oder Projektilsprung: Nahkampfangriffe während des Zielgleitens verschießen ein Projektil, nachdem 30m zurückgelegt wurden wird der Projektilschaden um 100% / 200% / 300% / 400% erhöht, Rechweite ist von Gravitation abhängig",
         "rarity": "Ungewöhnlich",
         "location": "Event Syndicate (Plague Star)",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/ExodiaContagion.png/revision/latest/scale-to-width-down/350?cb=20171129162953",
@@ -451,8 +451,8 @@
     },
     {
         "regex": "epidemic",
-        "name": "Exodia Epidemic",
-        "effect": "After a double jump or bullet jump, on slam attack, Projects damaging wave that suspends enemies in the air, dealing Viral damage up to 33m away for 1s / 2s / 3s / 4s",
+        "name": "Exodia: Epidemie",
+        "effect": "Nach einem Doppel- oder Projektilsprung: Stampfattacke sendet eine Schockwelle nach vorne aus, welche Gegner für 1s / 2s / 3s / 4s in die Luft befördert und Virusschaden bis zu 33m entfernt verursacht",
         "rarity": "Ungewöhnlich",
         "location": "Event Syndicate (Plague Star)",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/ExodiaEpidemic.png/revision/latest/scale-to-width-down/350?cb=20171129162956",
