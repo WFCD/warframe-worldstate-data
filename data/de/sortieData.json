@@ -1,9 +1,9 @@
 {
   "modifierTypes": {
     "SORTIE_MODIFIER_LOW_ENERGY": "reduzierte Energie",
-    "SORTIE_MODIFIER_IMPACT": "Enemy Physical Enhancement: Impact",
-    "SORTIE_MODIFIER_SLASH": "Enemy Physical Enhancement: Slash",
-    "SORTIE_MODIFIER_PUNCTURE": "Enemy Physical Enhancement: Puncture",
+    "SORTIE_MODIFIER_IMPACT": "Feindliche Physikalverbesserung: Einschlag",
+    "SORTIE_MODIFIER_SLASH": "Feindliche Physikalverbesserung: Schnitt",
+    "SORTIE_MODIFIER_PUNCTURE": "Feindliche Physikalverbesserung: Durchschlag",
     "SORTIE_MODIFIER_EXIMUS": "Eximus Festung",
     "SORTIE_MODIFIER_MAGNETIC": "Feindliche Elementarverbesserung: Magnetismus",
     "SORTIE_MODIFIER_CORROSIVE": "Feindliche Elementarverbesserung: Korrosion",
@@ -16,12 +16,12 @@
     "SORTIE_MODIFIER_FREEZE": "Feindliche Elementarverbesserung: Kälte",
     "SORTIE_MODIFIER_TOXIN": "Feindliche Elementarverbesserung: Gift",
     "SORTIE_MODIFIER_POISON": "Feindliche Elementarverbesserung: Gift",
-    "SORTIE_MODIFIER_HAZARD_RADIATION": "Environmental Hazard: Radiation Pockets",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Environmental Hazard: Electromagnetic Anomalies",
-    "SORTIE_MODIFIER_HAZARD_FOG": "Environmental Hazard: Dense Fog",
-    "SORTIE_MODIFIER_HAZARD_FIRE": "Environmental Hazard: Fire",
-    "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
-    "SORTIE_MODIFIER_HAZARD_COLD": "Environmental Effect: Extreme Cold",
+    "SORTIE_MODIFIER_HAZARD_RADIATION": "Umgebungsgefährdung: Strahlungsgefahr",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Umgebungsgefährdung: Elektromagnetische Anomalien",
+    "SORTIE_MODIFIER_HAZARD_FOG": "Umgebungsgefährdung: Dichter Nebel",
+    "SORTIE_MODIFIER_HAZARD_FIRE": "Umgebungsgefährdung: Feuer",
+    "SORTIE_MODIFIER_HAZARD_ICE": "Umgebungsgefährdung: Kryogenes Leck",
+    "SORTIE_MODIFIER_HAZARD_COLD": "Umgebungsgefährdung: Extreme Kälte",
     "SORTIE_MODIFIER_ARMOR": "Verbesserte feindliche Rüstung",
     "SORTIE_MODIFIER_SHIELDS": "Verbesserte feindliche Schilde",
     "SORTIE_MODIFIER_SECONDARY_ONLY": "Waffeneinschränkung: Nur Pistolen",
@@ -114,15 +114,15 @@
     },
     "SORTIE_BOSS_PHORID": {
       "name": "Phorid",
-      "faction": "Infestation"
+      "faction": "Befallene"
     },
     "SORTIE_BOSS_LEPHANTIS": {
       "name": "Lephantis",
-      "faction": "Infestation"
+      "faction": "Befallene"
     },
     "SORTIE_BOSS_INFALAD": {
       "name": "Mutalist Alad V",
-      "faction": "Infestation"
+      "faction": "Befallene"
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
       "name": "Captain Vor (Korrumpiert)",
@@ -4228,7 +4228,7 @@
   ],
   "modifiers": [
     "+ feindliche Rüstung/Schilde",
-    "Environmental hazard",
+    "Umgebungsgefährdung",
     "Feindliche Schadensresistenz",
     "reduzierte Energie",
     "Eximus Festung",
