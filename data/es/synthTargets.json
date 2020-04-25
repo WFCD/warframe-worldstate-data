@@ -5,11 +5,11 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
-                "planet": "Earth",
-                "type": "Excavation"
+                "planet": "La Tierra",
+                "type": "Excavación"
             },
             {
                 "last_verified": "2019-02-24",
@@ -17,17 +17,17 @@
                 "faction": "Grineer VS Infestation",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
-                "planet": "Mercury",
-                "type": "Sabotaj"
+                "planet": "Mercurio",
+                "type": "Sabotaje"
             },
             {
                 "last_verified": "2019-02-24",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -37,11 +37,11 @@
             {
                 "last_verified": "2018-08-22",
                 "level": "10-15",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Hepit (Unconfirmed)",
                 "planet": "Void",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -54,8 +54,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Acheron",
-                "planet": "Plüton",
-                "type": "Exterminate"
+                "planet": "Plutón",
+                "type": "Exterminio"
             },
             {
                 "last_verified": "0000-00-00",
@@ -64,7 +64,7 @@
                 "spawn_rate": "?%",
                 "mission": "Valefor",
                 "planet": "Europa",
-                "type": "Excavation"
+                "type": "Excavación"
             },
             {
                 "last_verified": "2019-01-11",
@@ -72,8 +72,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Adrastea (Outdated)",
-                "planet": "Jupiter",
-                "type": "Sabotaj"
+                "planet": "Júpiter",
+                "type": "Sabotaje"
             },
             {
                 "last_verified": "2019-01-11",
@@ -81,8 +81,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Ananke (Outdated)",
-                "planet": "Jupiter",
-                "type": "Ele Geçirme"
+                "planet": "Júpiter",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-11",
@@ -90,8 +90,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Metis (Outdated)",
-                "planet": "Jupiter",
-                "type": "Kurtarma"
+                "planet": "Júpiter",
+                "type": "Rescate"
             }
         ]
     },
@@ -104,8 +104,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Ara",
-                "planet": "Mars",
-                "type": "Ele Geçirme"
+                "planet": "Marte",
+                "type": "Captura"
             }
         ]
     },
@@ -118,8 +118,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Mantle",
-                "planet": "Earth",
-                "type": "Ele Geçirme"
+                "planet": "La Tierra",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-15",
@@ -128,7 +128,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -138,29 +138,29 @@
             {
                 "last_verified": "2019-01-23",
                 "level": "23-33",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Cholistan",
                 "planet": "Europa",
-                "type": "Excavation"
+                "type": "Excavación"
             },
             {
                 "last_verified": "2019-01-23",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-23",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
-                "mission": "Orokin Derelict Capture",
+                "mission": "Derrelicto orokin captura",
                 "planet": "Derelict",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -174,7 +174,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ker",
                 "planet": "Ceres",
-                "type": "Sabotaj"
+                "type": "Sabotaje"
             },
             {
                 "last_verified": "2019-01-08",
@@ -183,7 +183,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-20",
@@ -192,7 +192,7 @@
                 "spawn_rate": "100%",
                 "mission": "Nuovo",
                 "planet": "Ceres",
-                "type": "Kurtarma"
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-01-20",
@@ -201,7 +201,7 @@
                 "spawn_rate": "100%",
                 "mission": "Exta",
                 "planet": "Ceres",
-                "type": "Assassination"
+                "type": "Asesinato"
             }
         ]
     },
@@ -211,38 +211,38 @@
             {
                 "last_verified": "2019-04-16",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
-                "planet": "Earth",
-                "type": "Excavation"
+                "planet": "La Tierra",
+                "type": "Excavación"
             },
             {
                 "last_verified": "2019-01-26",
                 "level": "15-25",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Gabii",
                 "planet": "Ceres",
-                "type": "Survival"
+                "type": "Supervivencia"
             },
             {
                 "last_verified": "2019-01-29",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Assur",
-                "planet": "Uranus",
-                "type": "Survival"
+                "planet": "Urano",
+                "type": "Supervivencia"
             },
             {
                 "last_verified": "2019-01-26",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -255,8 +255,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Mantle",
-                "planet": "Earth",
-                "type": "Ele Geçirme"
+                "planet": "La Tierra",
+                "type": "Captura"
             },
             {
                 "last_verified": "2018-09-25",
@@ -264,8 +264,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "70%",
                 "mission": "Caloris",
-                "planet": "Mercury",
-                "type": "Kurtarma"
+                "planet": "Mercurio",
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-06-26",
@@ -273,8 +273,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "78%",
                 "mission": "Elion",
-                "planet": "Mercury",
-                "type": "Ele Geçirme"
+                "planet": "Mercurio",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-26",
@@ -283,7 +283,7 @@
                 "spawn_rate": "100%",
                 "mission": "Rusalka",
                 "planet": "Sedna",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -296,7 +296,7 @@
                 "faction": "Grineer VS Infestation",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
-                "planet": "Mercury",
+                "planet": "Mercurio",
                 "type": "Crossfire Sabotage"
             },
             {
@@ -305,17 +305,17 @@
                 "faction": "Grineer VS Infestation",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
-                "planet": "Mercury",
+                "planet": "Mercurio",
                 "type": "Crossfire Exterminate"
             },
             {
                 "last_verified": "2019-06-27",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -328,8 +328,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Telesto",
-                "planet": "Satürn",
-                "type": "Exterminate"
+                "planet": "Saturno",
+                "type": "Exterminio"
             }
         ]
     },
@@ -343,7 +343,7 @@
                 "spawn_rate": "100%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-05",
@@ -352,7 +352,7 @@
                 "spawn_rate": "100%",
                 "mission": "Stribog",
                 "planet": "Void",
-                "type": "Sabotaj"
+                "type": "Sabotaje"
             },
             {
                 "last_verified": "2019-02-05",
@@ -361,7 +361,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ani",
                 "planet": "Void",
-                "type": "Survival"
+                "type": "Supervivencia"
             }
         ]
     },
@@ -375,7 +375,7 @@
                 "spawn_rate": "100%",
                 "mission": "Oxomoco",
                 "planet": "Void",
-                "type": "Exterminate"
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2019-01-12",
@@ -384,7 +384,7 @@
                 "spawn_rate": "100%",
                 "mission": "Marduk",
                 "planet": "Void",
-                "type": "Sabotaj"
+                "type": "Sabotaje"
             }
         ]
     },
@@ -398,7 +398,7 @@
                 "spawn_rate": "94%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-25",
@@ -407,7 +407,7 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "Void",
-                "type": "Exterminate"
+                "type": "Exterminio"
             }
         ]
     },
@@ -421,7 +421,7 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "Void",
-                "type": "Exterminate"
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2019-01-28",
@@ -430,7 +430,7 @@
                 "spawn_rate": "100%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -444,7 +444,7 @@
                 "spawn_rate": "100%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-03-23",
@@ -453,7 +453,7 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "Void",
-                "type": "Exterminate"
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2019-03-23",
@@ -462,7 +462,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ukko",
                 "planet": "Void",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -476,7 +476,7 @@
                 "spawn_rate": "100%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-03-17",
@@ -485,7 +485,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ukko",
                 "planet": "Void",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -499,7 +499,7 @@
                 "spawn_rate": "78%",
                 "mission": "Oxomoco",
                 "planet": "Void",
-                "type": "Exterminate"
+                "type": "Exterminio"
             }
         ]
     },
@@ -509,20 +509,20 @@
             {
                 "last_verified": "2018-04-06",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
-                "planet": "Earth",
-                "type": "Excavation"
+                "planet": "La Tierra",
+                "type": "Excavación"
             },
             {
                 "last_verified": "2018-05-13",
                 "level": "6-11",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Apollodorus",
-                "planet": "Mercury",
-                "type": "Survival"
+                "planet": "Mercurio",
+                "type": "Supervivencia"
             },
             {
                 "last_verified": "2019-05-30",
@@ -531,34 +531,34 @@
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europa",
-                "type": "Exterminate"
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "Eris",
-                "type": "Kurtarma"
+                "type": "Rescate"
             },
             {
                 "last_verified": "2018-03-20",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Assassination",
                 "planet": "Derelict",
-                "type": "Assassination"
+                "type": "Asesinato"
             }
         ]
     },
@@ -572,7 +572,7 @@
                 "spawn_rate": "100%",
                 "mission": "Copernicus",
                 "planet": "Lua",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -585,8 +585,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Satürn",
-                "type": "Ele Geçirme"
+                "planet": "Saturno",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-31",
@@ -594,8 +594,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "90%",
                 "mission": "Anthe",
-                "planet": "Satürn",
-                "type": "Kurtarma"
+                "planet": "Saturno",
+                "type": "Rescate"
             }
         ]
     },
@@ -609,7 +609,7 @@
                 "spawn_rate": "100%",
                 "mission": "Copernicus",
                 "planet": "Lua",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-09-28",
@@ -618,7 +618,7 @@
                 "spawn_rate": "100%",
                 "mission": "Zeipel",
                 "planet": "Lua",
-                "type": "Kurtarma"
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-08-16",
@@ -627,7 +627,7 @@
                 "spawn_rate": "100%",
                 "mission": "Venera",
                 "planet": "Venus",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -640,8 +640,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Ara",
-                "planet": "Mars",
-                "type": "Ele Geçirme"
+                "planet": "Marte",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-15",
@@ -650,7 +650,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-15",
@@ -659,7 +659,7 @@
                 "spawn_rate": "100%",
                 "mission": "Nuovo",
                 "planet": "Ceres",
-                "type": "Kurtarma"
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-09-12",
@@ -668,7 +668,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ker",
                 "planet": "Ceres",
-                "type": "Sabotaj"
+                "type": "Sabotaje"
             }
         ]
     },
@@ -681,8 +681,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Gradivus",
-                "planet": "Mars",
-                "type": "Sabotaj"
+                "planet": "Marte",
+                "type": "Sabotaje"
             },
             {
                 "last_verified": "2019-01-29",
@@ -690,8 +690,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Skyresh",
-                "planet": "Phobos",
-                "type": "Ele Geçirme"
+                "planet": "Fobos",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-29",
@@ -700,7 +700,7 @@
                 "spawn_rate": "100%",
                 "mission": "Abaddon",
                 "planet": "Europa",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-29",
@@ -708,8 +708,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Hydra",
-                "planet": "Plüton",
-                "type": "Ele Geçirme"
+                "planet": "Plutón",
+                "type": "Captura"
             }
         ]
     },
@@ -723,7 +723,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-01",
@@ -732,7 +732,7 @@
                 "spawn_rate": "100%",
                 "mission": "Nuovo",
                 "planet": "Ceres",
-                "type": "Kurtarma"
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-02-01",
@@ -741,7 +741,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ludi",
                 "planet": "Ceres",
-                "type": "Kaçırma"
+                "type": "Secuestro"
             }
         ]
     },
@@ -754,8 +754,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "77%",
                 "mission": "Elion",
-                "planet": "Mercury",
-                "type": "Ele Geçirme"
+                "planet": "Mercurio",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-08-13",
@@ -763,8 +763,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Caloris",
-                "planet": "Mercury",
-                "type": "Kurtarma"
+                "planet": "Mercurio",
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-08-13",
@@ -773,7 +773,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-08-13",
@@ -782,7 +782,7 @@
                 "spawn_rate": "100%",
                 "mission": "Rusalka",
                 "planet": "Sedna",
-                "type": "Sabotaj"
+                "type": "Sabotaje"
             }
         ]
     },
@@ -795,8 +795,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Ara",
-                "planet": "Mars",
-                "type": "Ele Geçirme"
+                "planet": "Marte",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-03-30",
@@ -805,7 +805,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-03-30",
@@ -814,7 +814,7 @@
                 "spawn_rate": "90%",
                 "mission": "Rusalka",
                 "planet": "Sedna",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             }
         ]
     },
@@ -827,8 +827,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "81%",
                 "mission": "Elion",
-                "planet": "Mercury",
-                "type": "Ele Geçirme"
+                "planet": "Mercurio",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-14",
@@ -836,8 +836,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "80%",
                 "mission": "Caloris",
-                "planet": "Mercury",
-                "type": "Kurtarma"
+                "planet": "Mercurio",
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-02-14",
@@ -845,8 +845,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Pantheon",
-                "planet": "Mercury",
-                "type": "Exterminate"
+                "planet": "Mercurio",
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2019-06-24",
@@ -854,8 +854,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Satürn",
-                "type": "Ele Geçirme"
+                "planet": "Saturno",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-14",
@@ -864,7 +864,7 @@
                 "spawn_rate": "100%",
                 "mission": "Kappa",
                 "planet": "Sedna",
-                "type": "Casus"
+                "type": "Espionaje"
             }
         ]
     },
@@ -874,20 +874,20 @@
             {
                 "last_verified": "2019-01-13",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
-                "planet": "Earth",
-                "type": "Excavation"
+                "planet": "La Tierra",
+                "type": "Excavación"
             },
             {
                 "last_verified": "2019-01-13",
@@ -895,7 +895,7 @@
                 "faction": "Grineer VS Infestation",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
-                "planet": "Mercury",
+                "planet": "Mercurio",
                 "type": "Crossfire Sabotage"
             },
             {
@@ -904,7 +904,7 @@
                 "faction": "Grineer VS Infestation",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
-                "planet": "Mercury",
+                "planet": "Mercurio",
                 "type": "Crossfire Exterminate"
             }
         ]
@@ -919,7 +919,7 @@
                 "spawn_rate": "100%",
                 "mission": "Venera",
                 "planet": "Venus",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-04-04",
@@ -928,7 +928,7 @@
                 "spawn_rate": "100%",
                 "mission": "Linea",
                 "planet": "Venus",
-                "type": "Kurtarma"
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-04-04",
@@ -937,7 +937,7 @@
                 "spawn_rate": "100%",
                 "mission": "E-Gate",
                 "planet": "Venus",
-                "type": "Exterminate"
+                "type": "Exterminio"
             }
         ]
     },
@@ -950,8 +950,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Satürn",
-                "type": "Ele Geçirme"
+                "planet": "Saturno",
+                "type": "Captura"
             },
             {
                 "last_verified": "2018-08-04",
@@ -960,7 +960,7 @@
                 "spawn_rate": "100%",
                 "mission": "Selkie (Unconfirmed)",
                 "planet": "Sedna",
-                "type": "Survival"
+                "type": "Supervivencia"
             }
         ]
     },
@@ -974,7 +974,7 @@
                 "spawn_rate": "100%",
                 "mission": "Abaddon",
                 "planet": "Europa",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-04-06",
@@ -983,7 +983,7 @@
                 "spawn_rate": "100%",
                 "mission": "Orias (Unconfirmed)",
                 "planet": "Europa",
-                "type": "Kurtarma"
+                "type": "Rescate"
             },
             {
                 "last_verified": "2018-04-10",
@@ -991,8 +991,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "90%",
                 "mission": "Ananke (Outdated)",
-                "planet": "Jupiter",
-                "type": "Ele Geçirme"
+                "planet": "Júpiter",
+                "type": "Captura"
             },
             {
                 "last_verified": "2018-04-10",
@@ -1000,8 +1000,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "78%",
                 "mission": "Carpo (Outdated)",
-                "planet": "Jupiter",
-                "type": "Exterminate"
+                "planet": "Júpiter",
+                "type": "Exterminio"
             }
         ]
     },
@@ -1011,20 +1011,20 @@
             {
                 "last_verified": "2018-01-06",
                 "level": "34-38",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Saxis",
                 "planet": "Eris",
-                "type": "Exterminate"
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2018-08-31",
                 "level": "34-38",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
-                "mission": "Orokin Derelict Exterminate",
+                "mission": "Derrelicto orokin exterminio",
                 "planet": "Derelict",
-                "type": "Exterminate"
+                "type": "Exterminio"
             }
         ]
     },
@@ -1037,8 +1037,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "95%",
                 "mission": "Cassini",
-                "planet": "Satürn",
-                "type": "Ele Geçirme"
+                "planet": "Saturno",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-16",
@@ -1046,8 +1046,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Numa",
-                "planet": "Satürn",
-                "type": "Kurtarma"
+                "planet": "Saturno",
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-01-16",
@@ -1055,8 +1055,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "ANTHE",
-                "planet": "Satürn",
-                "type": "Kurtarma"
+                "planet": "Saturno",
+                "type": "Rescate"
             }
         ]
     },
@@ -1070,7 +1070,7 @@
                 "spawn_rate": "58%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-03",
@@ -1078,8 +1078,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Satürn",
-                "type": "Ele Geçirme"
+                "planet": "Saturno",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-03",
@@ -1087,8 +1087,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Numa",
-                "planet": "Satürn",
-                "type": "Kurtarma"
+                "planet": "Saturno",
+                "type": "Rescate"
             }
         ]
     },
@@ -1102,7 +1102,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-02-11",
@@ -1111,7 +1111,7 @@
                 "spawn_rate": "100%",
                 "mission": "Nuovo",
                 "planet": "Ceres",
-                "type": "Kurtarma"
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-08-09",
@@ -1120,7 +1120,7 @@
                 "spawn_rate": "100%",
                 "mission": "Kappa",
                 "planet": "Sedna",
-                "type": "Casus"
+                "type": "Espionaje"
             }
         ]
     },
@@ -1133,8 +1133,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "75%",
                 "mission": "Pantheon",
-                "planet": "Mercury",
-                "type": "Exterminate"
+                "planet": "Mercurio",
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2019-01-30",
@@ -1142,8 +1142,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "40%",
                 "mission": "Caloris",
-                "planet": "Mercury",
-                "type": "Kurtarma"
+                "planet": "Mercurio",
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-04-18",
@@ -1151,8 +1151,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "76%",
                 "mission": "Elion",
-                "planet": "Mercury",
-                "type": "Ele Geçirme"
+                "planet": "Mercurio",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-10-21",
@@ -1160,8 +1160,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "88%",
                 "mission": "Cassini",
-                "planet": "Satürn",
-                "type": "Ele Geçirme"
+                "planet": "Saturno",
+                "type": "Captura"
             }
         ]
     },
@@ -1175,25 +1175,25 @@
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europa",
-                "type": "Exterminate"
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Ele Geçirme"
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infestación",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "Eris",
-                "type": "Kurtarma"
+                "type": "Rescate"
             }
         ]
     },
@@ -1206,8 +1206,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Mantle",
-                "planet": "Earth",
-                "type": "Ele Geçirme"
+                "planet": "La Tierra",
+                "type": "Captura"
             },
             {
                 "last_verified": "2019-01-22",
@@ -1215,8 +1215,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "E Prime",
-                "planet": "Earth",
-                "type": "Exterminate"
+                "planet": "La Tierra",
+                "type": "Exterminio"
             },
             {
                 "last_verified": "2019-01-22",
@@ -1224,8 +1224,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Numa",
-                "planet": "Satürn",
-                "type": "Kurtarma"
+                "planet": "Saturno",
+                "type": "Rescate"
             },
             {
                 "last_verified": "2019-01-22",
@@ -1233,8 +1233,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Satürn",
-                "type": "Ele Geçirme"
+                "planet": "Saturno",
+                "type": "Captura"
             },
             {
                 "last_verified": "2018-09-14",
@@ -1243,7 +1243,7 @@
                 "spawn_rate": "100%",
                 "mission": "Adaro",
                 "planet": "Sedna",
-                "type": "Exterminate"
+                "type": "Exterminio"
             }
         ]
     }
