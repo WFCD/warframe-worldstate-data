@@ -6,55 +6,55 @@
     "value": "Hunhow Hips Wreckage Quest"
   },
   "/lotus/characters/tenno/accessory/scarves/grnbannerscarf/grnbannerscarfitem": {
-    "value": "Vanquished Banner"
+    "value": "Sztandar Pokonanych"
   },
   "/lotus/characters/tenno/accessory/scarves/u17intermscarf/u17intermscarfitem": {
-    "value": "Udyat Syandana"
+    "value": "Syandana Udyat"
   },
   "/lotus/language/alerts/aladcargoevent": {
-    "value": "Suspicious Shipment"
+    "value": "Podejrzane przesyłki"
   },
   "/lotus/language/alerts/alertrewardcategoryaura": {
-    "value": "光環"
+    "value": "Aura"
   },
   "/lotus/language/alerts/alertrewardcategoryblueprint": {
-    "value": "藍圖"
+    "value": "Schemat"
   },
   "/lotus/language/alerts/alertrewardcategoryitem": {
-    "value": "物品"
+    "value": "Przedmiot"
   },
   "/lotus/language/alerts/alertrewardcategorymod": {
-    "value": "MOD"
+    "value": "Mod"
   },
   "/lotus/language/alerts/alertrewardcategoryresource": {
-    "value": "資源"
+    "value": "Zasób"
   },
   "/lotus/language/alerts/alertrewardcategorystance": {
     "value": "Stance Mod"
   },
   "/lotus/language/alerts/assassinationdesc1": {
-    "value": "已鎖定敵人VIP"
+    "value": "Enemy VIP Located"
   },
   "/lotus/language/alerts/assassinationdesc10": {
-    "value": "已鎖定敵人情報官"
+    "value": "Enemy Intelligence Officer Located"
   },
   "/lotus/language/alerts/assassinationdesc11": {
-    "value": "已鎖定精英部隊"
+    "value": "Elite Troop Located"
   },
   "/lotus/language/alerts/assassinationdesc12": {
     "value": "Enemy Ambassador Located"
   },
   "/lotus/language/alerts/assassinationdesc13": {
-    "value": "Enemy Robotic Archetype Located"
+    "value": "Odnaleziono archetyp Wrogich robotów"
   },
   "/lotus/language/alerts/assassinationdesc14": {
-    "value": "Enemy Officer Located"
+    "value": "Zlokalizowano Oficera wroga"
   },
   "/lotus/language/alerts/assassinationdesc15": {
-    "value": "已鎖定敵人VIP"
+    "value": "Zlokalizowano Snajpera wroga"
   },
   "/lotus/language/alerts/assassinationdesc2": {
-    "value": "已鎖定敵人船指揮官"
+    "value": "Enemy Ship Commander Located"
   },
   "/lotus/language/alerts/assassinationdesc3": {
     "value": "Enemy Research Scientist Located"
@@ -240,7 +240,7 @@
     "value": "Solar Rail Ambush"
   },
   "/lotus/language/alerts/defensedesc18": {
-    "value": "Protect Hostage"
+    "value": "Ochrona zakładników"
   },
   "/lotus/language/alerts/defensedesc19": {
     "value": "Protect Sensitive Data"
@@ -744,7 +744,7 @@
     "value": "Thermia Fractures"
   },
   "/lotus/language/g1quests/kelaeventbonustitle": {
-    "value": "無盡Rathuum"
+    "value": "Bezustanny Rathuum"
   },
   "/lotus/language/g1quests/kelaeventgoala": {
     "value": "Judgement Points Earned"
@@ -756,13 +756,13 @@
     "value": "Executioners Defeated"
   },
   "/lotus/language/g1quests/kelaeventtitle": {
-    "value": "行动：口粮"
+    "value": "Operacja: Rathuum"
   },
   "/lotus/language/g1quests/kelaeventtitleb": {
     "value": "Kela de Thaym's Court"
   },
   "/lotus/language/g1quests/projectindexendlessgoal": {
-    "value": "指數之場"
+    "value": "Punkty Indeksu"
   },
   "/lotus/language/g1quests/projectindexendlesstitle": {
     "value": "Project Index: Endurance"
@@ -6319,7 +6319,7 @@
     "value": "Gamma"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickergrineeritema": {
-    "value": "格里尼勒"
+    "value": "Grineer"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerhalloweenitema": {
     "value": "Halloween"
@@ -6328,7 +6328,7 @@
     "value": "Ice"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerinfesteditema": {
-    "value": "无测试"
+    "value": "Plaga"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickeritem": {
     "value": "Classic"
@@ -6349,7 +6349,7 @@
     "value": "Lotus"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerorokin": {
-    "value": "奥罗金"
+    "value": "Orokin"
   },
   "/lotus/storeitems/types/storeitems/suitcustomizations/colourpickerps4itema": {
     "value": "Psiv"
@@ -12287,7 +12287,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "value": "Power Trip",
-    "desc": "使用技能擊殺150名敵人"
+    "desc": "Kill 150 Enemies with Abilities"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
     "value": "Detonator",
@@ -12538,7 +12538,7 @@
     "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
-    "value": "防禦",
+    "value": "Obrona",
     "desc": "Complete a Defense mission reaching at least Wave 20"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
@@ -12546,7 +12546,7 @@
     "desc": "Kill Profit-Taker"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "value": "生存",
+    "value": "Survival",
     "desc": "Complete a Survival mission reaching at least 30 minutes"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
@@ -13605,6 +13605,9 @@
   },
   "/lotus/types/gameplay/venus/jobs/venuschaosjobexcavation": {
     "value": "Bury Them"
+  },
+  "/lotus/types/gameplay/venus/jobs/venusculljobexterminate": {
+    "value": "Hunter-Killer"
   },
   "/lotus/types/gameplay/venus/jobs/venusculljobresource": {
     "value": "Distract and Divert"
@@ -15851,7 +15854,7 @@
     "value": "Gamma"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickergrineeritema": {
-    "value": "格里尼勒"
+    "value": "Grineer"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerhalloweenitema": {
     "value": "Halloween"
@@ -15860,7 +15863,7 @@
     "value": "Ice"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerinfesteditema": {
-    "value": "无测试"
+    "value": "Plaga"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickeritem": {
     "value": "Classic"
@@ -15878,7 +15881,7 @@
     "value": "Lotus"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerorokin": {
-    "value": "奥罗金"
+    "value": "Orokin"
   },
   "/lotus/types/storeitems/suitcustomizations/colourpickerps4itema": {
     "value": "Psiv"
@@ -17603,6 +17606,6 @@
     "value": "Mara Detron"
   },
   "ProjectIndex": {
-    "value": "指數之場"
+    "value": "Punkty Indeksu"
   }
 }
