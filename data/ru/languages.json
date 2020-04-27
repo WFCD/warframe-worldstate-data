@@ -10159,7 +10159,7 @@
     "value": "Mag Noble Animation Set"
   },
   "/lotus/storeitems/upgrades/skins/magician/limboimmortalskin": {
-    "value": "Limbo Immortal Skin"
+    "value": "Скин Лимбо: \"Бессмертный\""
   },
   "/lotus/storeitems/upgrades/skins/magician/magicianagileanims": {
     "value": "Limbo Agile Animation Set"
@@ -13612,6 +13612,9 @@
   "/lotus/types/gameplay/venus/jobs/venusspyjobspy": {
     "value": "Agent Down"
   },
+  "/lotus/types/gameplay/venus/jobs/venusinteljobrecovery": {
+    "value": "Proof of Life"
+  },
   "/lotus/types/gameplay/venus/jobs/venusinteljobresource": {
     "value": "Operational Intelligence"
   },
@@ -13635,6 +13638,9 @@
   },
   "/lotus/types/gameplay/venus/jobs/venuswetworkjobassassinate": {
     "value": "Served Cold"
+  },
+  "/lotus/types/gameplay/venus/jobs/venuswetworkjobspy": {
+    "value": "Falling Star"
   },
   "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablearewards": {
     "value": "1500 Credit Cache, 50 Endo, Mytocardia Spore x5, Oxium x100, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
