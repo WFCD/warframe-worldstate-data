@@ -1,47 +1,47 @@
 [
     {
-        "name": "Ancient Disruptor",
+        "name": "Uralter Unterbrecher",
         "locations": [
             {
                 "last_verified": "2019-02-24",
                 "level": "6-16",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
-                "planet": "Terra",
-                "type": "Escavação"
+                "planet": "Erde",
+                "type": "Ausgrabung"
             },
             {
                 "last_verified": "2019-02-24",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
-                "planet": "Mercúrio",
-                "type": "Sabotagem"
+                "planet": "Merkur",
+                "type": "Sabotage"
             },
             {
                 "last_verified": "2019-02-24",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Ancient Healer",
+        "name": "Uralter Heiler",
         "locations": [
             {
                 "last_verified": "2018-08-22",
                 "level": "10-15",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Hepit (Unconfirmed)",
                 "planet": "Void",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
@@ -54,8 +54,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Acheron",
-                "planet": "Plutão",
-                "type": "Extermínio"
+                "planet": "Pluto",
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "0000-00-00",
@@ -64,7 +64,7 @@
                 "spawn_rate": "?%",
                 "mission": "Valefor",
                 "planet": "Europa",
-                "type": "Escavação"
+                "type": "Ausgrabung"
             },
             {
                 "last_verified": "2019-01-11",
@@ -72,8 +72,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Adrastea (Outdated)",
-                "planet": "Júpiter",
-                "type": "Sabotagem"
+                "planet": "Jupiter",
+                "type": "Sabotage"
             },
             {
                 "last_verified": "2019-01-11",
@@ -81,8 +81,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Ananke (Outdated)",
-                "planet": "Júpiter",
-                "type": "Captura"
+                "planet": "Jupiter",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-11",
@@ -90,13 +90,13 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Metis (Outdated)",
-                "planet": "Júpiter",
-                "type": "Resgate"
+                "planet": "Jupiter",
+                "type": "Rettung"
             }
         ]
     },
     {
-        "name": "Arid Eviscerator [Research]",
+        "name": "Wüsten-Ausweider [Research]",
         "locations": [
             {
                 "last_verified": "2018-04-16",
@@ -104,8 +104,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Ara",
-                "planet": "Marte",
-                "type": "Captura"
+                "planet": "Mars",
+                "type": "Gefangennahme"
             }
         ]
     },
@@ -118,8 +118,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Mantle",
-                "planet": "Terra",
-                "type": "Captura"
+                "planet": "Erde",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-15",
@@ -128,7 +128,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
@@ -138,34 +138,34 @@
             {
                 "last_verified": "2019-01-23",
                 "level": "23-33",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Cholistan",
                 "planet": "Europa",
-                "type": "Escavação"
+                "type": "Ausgrabung"
             },
             {
                 "last_verified": "2019-01-23",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-23",
                 "level": "25-35",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
-                "mission": "Captura Orokin Derelict",
+                "mission": "Orokin Derelict Capture",
                 "planet": "Derelict",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Bombard",
+        "name": "Bombardier",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -174,7 +174,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ker",
                 "planet": "Ceres",
-                "type": "Sabotagem"
+                "type": "Sabotage"
             },
             {
                 "last_verified": "2019-01-08",
@@ -183,7 +183,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-20",
@@ -192,7 +192,7 @@
                 "spawn_rate": "100%",
                 "mission": "Nuovo",
                 "planet": "Ceres",
-                "type": "Resgate"
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-01-20",
@@ -201,53 +201,53 @@
                 "spawn_rate": "100%",
                 "mission": "Exta",
                 "planet": "Ceres",
-                "type": "Assassinato"
+                "type": "Attentat"
             }
         ]
     },
     {
-        "name": "Brood Mother",
+        "name": "Brutmutter",
         "locations": [
             {
                 "last_verified": "2019-04-16",
                 "level": "6-16",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
-                "planet": "Terra",
-                "type": "Escavação"
+                "planet": "Erde",
+                "type": "Ausgrabung"
             },
             {
                 "last_verified": "2019-01-26",
                 "level": "15-25",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Gabii",
                 "planet": "Ceres",
-                "type": "Sobrevivência"
+                "type": "Überleben"
             },
             {
                 "last_verified": "2019-01-29",
                 "level": "25-35",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Assur",
-                "planet": "Urano",
-                "type": "Sobrevivência"
+                "planet": "Uranus",
+                "type": "Überleben"
             },
             {
                 "last_verified": "2019-01-26",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Butcher",
+        "name": "Schlächter",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -255,8 +255,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Mantle",
-                "planet": "Terra",
-                "type": "Captura"
+                "planet": "Erde",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2018-09-25",
@@ -264,8 +264,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "70%",
                 "mission": "Caloris",
-                "planet": "Mercúrio",
-                "type": "Resgate"
+                "planet": "Merkur",
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-06-26",
@@ -273,8 +273,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "78%",
                 "mission": "Elion",
-                "planet": "Mercúrio",
-                "type": "Captura"
+                "planet": "Merkur",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-26",
@@ -283,44 +283,44 @@
                 "spawn_rate": "100%",
                 "mission": "Rusalka",
                 "planet": "Sedna",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Charger",
+        "name": "Stürmer",
         "locations": [
             {
                 "last_verified": "2019-06-27",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
-                "planet": "Mercúrio",
-                "type": "Crossfire Sabotage"
+                "planet": "Merkur",
+                "type": "Kreuzfeuer Sabotage"
             },
             {
                 "last_verified": "2019-09-01",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
-                "planet": "Mercúrio",
-                "type": "Crossfire Exterminate"
+                "planet": "Merkur",
+                "type": "Kreuzfeuer Auslöschung"
             },
             {
                 "last_verified": "2019-06-27",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Commander",
+        "name": "Kommandant",
         "locations": [
             {
                 "last_verified": "2018-05-08",
@@ -328,13 +328,13 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Telesto",
-                "planet": "Saturno",
-                "type": "Extermínio"
+                "planet": "Saturn",
+                "type": "Auslöschung"
             }
         ]
     },
     {
-        "name": "Corrupted Ancient [Research]",
+        "name": "Korrumpierter Uralter [Research]",
         "locations": [
             {
                 "last_verified": "2019-02-05",
@@ -343,7 +343,7 @@
                 "spawn_rate": "100%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-05",
@@ -352,7 +352,7 @@
                 "spawn_rate": "100%",
                 "mission": "Stribog",
                 "planet": "Void",
-                "type": "Sabotagem"
+                "type": "Sabotage"
             },
             {
                 "last_verified": "2019-02-05",
@@ -361,12 +361,12 @@
                 "spawn_rate": "100%",
                 "mission": "Ani",
                 "planet": "Void",
-                "type": "Sobrevivência"
+                "type": "Überleben"
             }
         ]
     },
     {
-        "name": "Corrupted Bombard",
+        "name": "Korrumpierter Bombardier",
         "locations": [
             {
                 "last_verified": "2019-06-05",
@@ -375,7 +375,7 @@
                 "spawn_rate": "100%",
                 "mission": "Oxomoco",
                 "planet": "Void",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2019-01-12",
@@ -384,12 +384,12 @@
                 "spawn_rate": "100%",
                 "mission": "Marduk",
                 "planet": "Void",
-                "type": "Sabotagem"
+                "type": "Sabotage"
             }
         ]
     },
     {
-        "name": "Corrupted Butcher",
+        "name": "Korrumpierter Schlächter",
         "locations": [
             {
                 "last_verified": "2019-01-25",
@@ -398,7 +398,7 @@
                 "spawn_rate": "94%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-25",
@@ -407,12 +407,12 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "Void",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             }
         ]
     },
     {
-        "name": "Corrupted Crewman",
+        "name": "Korrumpiertes Besatzungsmitglied",
         "locations": [
             {
                 "last_verified": "2019-01-28",
@@ -421,7 +421,7 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "Void",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2019-01-28",
@@ -430,12 +430,12 @@
                 "spawn_rate": "100%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Corrupted Heavy Gunner",
+        "name": "Korrumpierter Kanonier",
         "locations": [
             {
                 "last_verified": "2019-03-23",
@@ -444,7 +444,7 @@
                 "spawn_rate": "100%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-03-23",
@@ -453,7 +453,7 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "Void",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2019-03-23",
@@ -462,12 +462,12 @@
                 "spawn_rate": "100%",
                 "mission": "Ukko",
                 "planet": "Void",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Corrupted Lancer",
+        "name": "Korrumpierter Sturmsoldat",
         "locations": [
             {
                 "last_verified": "2018-04-15",
@@ -476,7 +476,7 @@
                 "spawn_rate": "100%",
                 "mission": "Hepit",
                 "planet": "Void",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-03-17",
@@ -485,12 +485,12 @@
                 "spawn_rate": "100%",
                 "mission": "Ukko",
                 "planet": "Void",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Corrupted Nullifier",
+        "name": "Korrumpierte Nullfeld Besatzung",
         "locations": [
             {
                 "last_verified": "2019-08-14",
@@ -499,71 +499,71 @@
                 "spawn_rate": "78%",
                 "mission": "Oxomoco",
                 "planet": "Void",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             }
         ]
     },
     {
-        "name": "Crawler",
+        "name": "Kriecher",
         "locations": [
             {
                 "last_verified": "2018-04-06",
                 "level": "6-16",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
-                "planet": "Terra",
-                "type": "Escavação"
+                "planet": "Erde",
+                "type": "Ausgrabung"
             },
             {
                 "last_verified": "2018-05-13",
                 "level": "6-11",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Apollodorus",
-                "planet": "Mercúrio",
-                "type": "Sobrevivência"
+                "planet": "Merkur",
+                "type": "Überleben"
             },
             {
                 "last_verified": "2019-05-30",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europa",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "Eris",
-                "type": "Resgate"
+                "type": "Rettung"
             },
             {
                 "last_verified": "2018-03-20",
                 "level": "25-35",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
-                "mission": "Orokin Derelict Assassination",
+                "mission": "Orokin Wrack Attentat",
                 "planet": "Derelict",
-                "type": "Assassinato"
+                "type": "Attentat"
             }
         ]
     },
     {
-        "name": "Crewman [Research]",
+        "name": "Besatzungsmitglied [Research]",
         "locations": [
             {
                 "last_verified": "2019-08-16",
@@ -572,12 +572,12 @@
                 "spawn_rate": "100%",
                 "mission": "Copernicus",
                 "planet": "Lua",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Drahk Master",
+        "name": "Drahk Meister",
         "locations": [
             {
                 "last_verified": "2019-01-31",
@@ -585,8 +585,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Saturno",
-                "type": "Captura"
+                "planet": "Saturn",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-31",
@@ -594,13 +594,13 @@
                 "faction": "Grineer",
                 "spawn_rate": "90%",
                 "mission": "Anthe",
-                "planet": "Saturno",
-                "type": "Resgate"
+                "planet": "Saturn",
+                "type": "Rettung"
             }
         ]
     },
     {
-        "name": "Elite Crewman",
+        "name": "Elite Besatzungsmitglied",
         "locations": [
             {
                 "last_verified": "2019-09-28",
@@ -609,7 +609,7 @@
                 "spawn_rate": "100%",
                 "mission": "Copernicus",
                 "planet": "Lua",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-09-28",
@@ -618,7 +618,7 @@
                 "spawn_rate": "100%",
                 "mission": "Zeipel",
                 "planet": "Lua",
-                "type": "Resgate"
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-08-16",
@@ -626,13 +626,13 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Venera",
-                "planet": "Vênus",
-                "type": "Captura"
+                "planet": "Venus",
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Eviscerator",
+        "name": "Ausweider",
         "locations": [
             {
                 "last_verified": "2019-01-24",
@@ -640,8 +640,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Ara",
-                "planet": "Marte",
-                "type": "Captura"
+                "planet": "Mars",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-15",
@@ -650,7 +650,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-15",
@@ -659,7 +659,7 @@
                 "spawn_rate": "100%",
                 "mission": "Nuovo",
                 "planet": "Ceres",
-                "type": "Resgate"
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-09-12",
@@ -668,7 +668,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ker",
                 "planet": "Ceres",
-                "type": "Sabotagem"
+                "type": "Sabotage"
             }
         ]
     },
@@ -681,8 +681,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Gradivus",
-                "planet": "Marte",
-                "type": "Sabotagem"
+                "planet": "Mars",
+                "type": "Sabotage"
             },
             {
                 "last_verified": "2019-01-29",
@@ -691,7 +691,7 @@
                 "spawn_rate": "100%",
                 "mission": "Skyresh",
                 "planet": "Phobos",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-29",
@@ -700,7 +700,7 @@
                 "spawn_rate": "100%",
                 "mission": "Abaddon",
                 "planet": "Europa",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-29",
@@ -708,13 +708,13 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Hydra",
-                "planet": "Plutão",
-                "type": "Captura"
+                "planet": "Pluto",
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Guardsman [Research]",
+        "name": "Gardist [Research]",
         "locations": [
             {
                 "last_verified": "2019-02-01",
@@ -723,7 +723,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-01",
@@ -732,7 +732,7 @@
                 "spawn_rate": "100%",
                 "mission": "Nuovo",
                 "planet": "Ceres",
-                "type": "Resgate"
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-02-01",
@@ -741,12 +741,12 @@
                 "spawn_rate": "100%",
                 "mission": "Ludi",
                 "planet": "Ceres",
-                "type": "Extravio"
+                "type": "Entführung"
             }
         ]
     },
     {
-        "name": "Heavy Gunner",
+        "name": "Kanonier",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -754,8 +754,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "77%",
                 "mission": "Elion",
-                "planet": "Mercúrio",
-                "type": "Captura"
+                "planet": "Merkur",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-08-13",
@@ -763,8 +763,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Caloris",
-                "planet": "Mercúrio",
-                "type": "Resgate"
+                "planet": "Merkur",
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-08-13",
@@ -773,7 +773,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-08-13",
@@ -782,7 +782,7 @@
                 "spawn_rate": "100%",
                 "mission": "Rusalka",
                 "planet": "Sedna",
-                "type": "Sabotagem"
+                "type": "Sabotage"
             }
         ]
     },
@@ -795,8 +795,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Ara",
-                "planet": "Marte",
-                "type": "Captura"
+                "planet": "Mars",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-03-30",
@@ -805,7 +805,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-03-30",
@@ -814,12 +814,12 @@
                 "spawn_rate": "90%",
                 "mission": "Rusalka",
                 "planet": "Sedna",
-                "type": "Captura"
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Lancer [Research]",
+        "name": "Sturmsoldat [Research]",
         "locations": [
             {
                 "last_verified": "2019-02-14",
@@ -827,8 +827,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "81%",
                 "mission": "Elion",
-                "planet": "Mercúrio",
-                "type": "Captura"
+                "planet": "Merkur",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-14",
@@ -836,8 +836,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "80%",
                 "mission": "Caloris",
-                "planet": "Mercúrio",
-                "type": "Resgate"
+                "planet": "Merkur",
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-02-14",
@@ -845,8 +845,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Pantheon",
-                "planet": "Mercúrio",
-                "type": "Extermínio"
+                "planet": "Merkur",
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2019-06-24",
@@ -854,8 +854,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Saturno",
-                "type": "Captura"
+                "planet": "Saturn",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-14",
@@ -864,48 +864,48 @@
                 "spawn_rate": "100%",
                 "mission": "Kappa",
                 "planet": "Sedna",
-                "type": "Espionagem"
+                "type": "Spionage"
             }
         ]
     },
     {
-        "name": "Leaper",
+        "name": "Springer",
         "locations": [
             {
                 "last_verified": "2019-01-13",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "6-16",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
-                "planet": "Terra",
-                "type": "Escavação"
+                "planet": "Erde",
+                "type": "Ausgrabung"
             },
             {
                 "last_verified": "2019-01-13",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
-                "planet": "Mercúrio",
-                "type": "Crossfire Sabotage"
+                "planet": "Merkur",
+                "type": "Kreuzfeuer Sabotage"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
-                "planet": "Mercúrio",
-                "type": "Crossfire Exterminate"
+                "planet": "Merkur",
+                "type": "Kreuzfeuer Auslöschung"
             }
         ]
     },
@@ -918,8 +918,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Venera",
-                "planet": "Vênus",
-                "type": "Captura"
+                "planet": "Venus",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-04-04",
@@ -927,8 +927,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "Linea",
-                "planet": "Vênus",
-                "type": "Resgate"
+                "planet": "Venus",
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-04-04",
@@ -936,8 +936,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "100%",
                 "mission": "E-Gate",
-                "planet": "Vênus",
-                "type": "Extermínio"
+                "planet": "Venus",
+                "type": "Auslöschung"
             }
         ]
     },
@@ -950,8 +950,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Saturno",
-                "type": "Captura"
+                "planet": "Saturn",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2018-08-04",
@@ -960,12 +960,12 @@
                 "spawn_rate": "100%",
                 "mission": "Selkie (Unconfirmed)",
                 "planet": "Sedna",
-                "type": "Sobrevivência"
+                "type": "Überleben"
             }
         ]
     },
     {
-        "name": "Nullifier Crewman",
+        "name": "Nullfeld Besatzungsmitglied",
         "locations": [
             {
                 "last_verified": "2019-06-27",
@@ -974,7 +974,7 @@
                 "spawn_rate": "100%",
                 "mission": "Abaddon",
                 "planet": "Europa",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-04-06",
@@ -983,7 +983,7 @@
                 "spawn_rate": "100%",
                 "mission": "Orias (Unconfirmed)",
                 "planet": "Europa",
-                "type": "Resgate"
+                "type": "Rettung"
             },
             {
                 "last_verified": "2018-04-10",
@@ -991,8 +991,8 @@
                 "faction": "Corpus",
                 "spawn_rate": "90%",
                 "mission": "Ananke (Outdated)",
-                "planet": "Júpiter",
-                "type": "Captura"
+                "planet": "Jupiter",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2018-04-10",
@@ -1000,31 +1000,31 @@
                 "faction": "Corpus",
                 "spawn_rate": "78%",
                 "mission": "Carpo (Outdated)",
-                "planet": "Júpiter",
-                "type": "Extermínio"
+                "planet": "Jupiter",
+                "type": "Auslöschung"
             }
         ]
     },
     {
-        "name": "Runner [Research]",
+        "name": "Läufer [Research]",
         "locations": [
             {
                 "last_verified": "2018-01-06",
                 "level": "34-38",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Saxis",
                 "planet": "Eris",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2018-08-31",
                 "level": "34-38",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
-                "mission": "Extermínio Orokin Derelict",
+                "mission": "Orokin Derelict Exterminate",
                 "planet": "Derelict",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             }
         ]
     },
@@ -1037,8 +1037,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "95%",
                 "mission": "Cassini",
-                "planet": "Saturno",
-                "type": "Captura"
+                "planet": "Saturn",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-16",
@@ -1046,8 +1046,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Numa",
-                "planet": "Saturno",
-                "type": "Resgate"
+                "planet": "Saturn",
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-01-16",
@@ -1055,13 +1055,13 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "ANTHE",
-                "planet": "Saturno",
-                "type": "Resgate"
+                "planet": "Saturn",
+                "type": "Rettung"
             }
         ]
     },
     {
-        "name": "Scorpion",
+        "name": "Skorpion",
         "locations": [
             {
                 "last_verified": "2019-02-02",
@@ -1070,7 +1070,7 @@
                 "spawn_rate": "58%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-03",
@@ -1078,8 +1078,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Saturno",
-                "type": "Captura"
+                "planet": "Saturn",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-03",
@@ -1087,13 +1087,13 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Numa",
-                "planet": "Saturno",
-                "type": "Resgate"
+                "planet": "Saturn",
+                "type": "Rettung"
             }
         ]
     },
     {
-        "name": "Seeker / Frontier Seeker",
+        "name": "Jäger",
         "locations": [
             {
                 "last_verified": "2019-02-11",
@@ -1102,7 +1102,7 @@
                 "spawn_rate": "100%",
                 "mission": "Lex",
                 "planet": "Ceres",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-02-11",
@@ -1111,7 +1111,7 @@
                 "spawn_rate": "100%",
                 "mission": "Nuovo",
                 "planet": "Ceres",
-                "type": "Resgate"
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-08-09",
@@ -1120,12 +1120,12 @@
                 "spawn_rate": "100%",
                 "mission": "Kappa",
                 "planet": "Sedna",
-                "type": "Espionagem"
+                "type": "Spionage"
             }
         ]
     },
     {
-        "name": "Shield Lancer",
+        "name": "Schildträger",
         "locations": [
             {
                 "last_verified": "2019-01-30",
@@ -1133,8 +1133,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "75%",
                 "mission": "Pantheon",
-                "planet": "Mercúrio",
-                "type": "Extermínio"
+                "planet": "Merkur",
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2019-01-30",
@@ -1142,8 +1142,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "40%",
                 "mission": "Caloris",
-                "planet": "Mercúrio",
-                "type": "Resgate"
+                "planet": "Merkur",
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-04-18",
@@ -1151,8 +1151,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "76%",
                 "mission": "Elion",
-                "planet": "Mercúrio",
-                "type": "Captura"
+                "planet": "Merkur",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-10-21",
@@ -1160,45 +1160,45 @@
                 "faction": "Grineer",
                 "spawn_rate": "88%",
                 "mission": "Cassini",
-                "planet": "Saturno",
-                "type": "Captura"
+                "planet": "Saturn",
+                "type": "Gefangennahme"
             }
         ]
     },
     {
-        "name": "Swarm-Mutalist MOA",
+        "name": "Schwarm-Mutalist MOA",
         "locations": [
             {
                 "last_verified": "2019-01-19",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "Grineer VS Befallene",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europa",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Eris",
-                "type": "Captura"
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Infestação",
+                "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "Eris",
-                "type": "Resgate"
+                "type": "Rettung"
             }
         ]
     },
     {
-        "name": "Trooper",
+        "name": "Soldat",
         "locations": [
             {
                 "last_verified": "2019-01-22",
@@ -1206,8 +1206,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Mantle",
-                "planet": "Terra",
-                "type": "Captura"
+                "planet": "Erde",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2019-01-22",
@@ -1215,8 +1215,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "E Prime",
-                "planet": "Terra",
-                "type": "Extermínio"
+                "planet": "Erde",
+                "type": "Auslöschung"
             },
             {
                 "last_verified": "2019-01-22",
@@ -1224,8 +1224,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Numa",
-                "planet": "Saturno",
-                "type": "Resgate"
+                "planet": "Saturn",
+                "type": "Rettung"
             },
             {
                 "last_verified": "2019-01-22",
@@ -1233,8 +1233,8 @@
                 "faction": "Grineer",
                 "spawn_rate": "100%",
                 "mission": "Cassini",
-                "planet": "Saturno",
-                "type": "Captura"
+                "planet": "Saturn",
+                "type": "Gefangennahme"
             },
             {
                 "last_verified": "2018-09-14",
@@ -1243,7 +1243,7 @@
                 "spawn_rate": "100%",
                 "mission": "Adaro",
                 "planet": "Sedna",
-                "type": "Extermínio"
+                "type": "Auslöschung"
             }
         ]
     }
