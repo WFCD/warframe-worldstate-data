@@ -13600,8 +13600,14 @@
   "/lotus/types/gameplay/venus/jobs/venuspreservationjobrecovery": {
     "value": "Protect the Innocent"
   },
+  "/lotus/types/gameplay/venus/jobs/venuspreservationjobresource": {
+    "value": "Trash Their Traps"
+  },
   "/lotus/types/gameplay/venus/jobs/venuschaosjobexcavation": {
     "value": "Bury Them"
+  },
+  "/lotus/types/gameplay/venus/jobs/venusculljobexterminate": {
+    "value": "Hunter-Killer"
   },
   "/lotus/types/gameplay/venus/jobs/venusculljobresource": {
     "value": "Distract and Divert"
@@ -13617,6 +13623,9 @@
   },
   "/lotus/types/gameplay/venus/jobs/venusinteljobresource": {
     "value": "Operational Intelligence"
+  },
+  "/lotus/types/gameplay/venus/jobs/venusinteljobspy": {
+    "value": "Financial Liberation"
   },
   "/lotus/types/gameplay/venus/jobs/venustheftjobexcavation": {
     "value": "Resource Theft"
