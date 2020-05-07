@@ -58,6 +58,15 @@
                 "type": "Exterminio"
             },
             {
+                "last_verified": "2020-01-28",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Baal",
+                "planet": "Europa",
+                "type": "Exterminio"
+            },
+            {
                 "last_verified": "0000-00-00",
                 "level": "18-33",
                 "faction": "Corpus",
@@ -65,33 +74,6 @@
                 "mission": "Valefor",
                 "planet": "Europa",
                 "type": "Excavación"
-            },
-            {
-                "last_verified": "2019-01-11",
-                "level": "18-20",
-                "faction": "Corpus",
-                "spawn_rate": "100%",
-                "mission": "Adrastea (Outdated)",
-                "planet": "Júpiter",
-                "type": "Sabotaje"
-            },
-            {
-                "last_verified": "2019-01-11",
-                "level": "16-18",
-                "faction": "Corpus",
-                "spawn_rate": "100%",
-                "mission": "Ananke (Outdated)",
-                "planet": "Júpiter",
-                "type": "Captura"
-            },
-            {
-                "last_verified": "2019-01-11",
-                "level": "15-17",
-                "faction": "Corpus",
-                "spawn_rate": "100%",
-                "mission": "Metis (Outdated)",
-                "planet": "Júpiter",
-                "type": "Rescate"
             }
         ]
     },
@@ -717,7 +699,7 @@
         "name": "Guardsman [Research]",
         "locations": [
             {
-                "last_verified": "2019-02-01",
+                "last_verified": "2019-11-23",
                 "level": "14-16",
                 "faction": "Grineer",
                 "spawn_rate": "100%",
@@ -984,24 +966,6 @@
                 "mission": "Orias (Unconfirmed)",
                 "planet": "Europa",
                 "type": "Rescate"
-            },
-            {
-                "last_verified": "2018-04-10",
-                "level": "16-18",
-                "faction": "Corpus",
-                "spawn_rate": "90%",
-                "mission": "Ananke (Outdated)",
-                "planet": "Júpiter",
-                "type": "Captura"
-            },
-            {
-                "last_verified": "2018-04-10",
-                "level": "17-19",
-                "faction": "Corpus",
-                "spawn_rate": "78%",
-                "mission": "Carpo (Outdated)",
-                "planet": "Júpiter",
-                "type": "Exterminio"
             }
         ]
     },
@@ -1096,7 +1060,16 @@
         "name": "Seeker / Frontier Seeker",
         "locations": [
             {
-                "last_verified": "2019-02-11",
+                "last_verified": "2020-03-10",
+                "level": "1-3",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "E-Prime",
+                "planet": "La Tierra",
+                "type": "Exterminio"
+            },
+            {
+                "last_verified": "2019-11-28",
                 "level": "14-16",
                 "faction": "Grineer",
                 "spawn_rate": "100%",
