@@ -58,6 +58,15 @@
                 "type": "섬멸"
             },
             {
+                "last_verified": "2020-01-28",
+                "level": "21-23",
+                "faction": "코퍼스",
+                "spawn_rate": "100%",
+                "mission": "Baal",
+                "planet": "유로파",
+                "type": "섬멸"
+            },
+            {
                 "last_verified": "0000-00-00",
                 "level": "18-33",
                 "faction": "코퍼스",
@@ -65,33 +74,6 @@
                 "mission": "Valefor",
                 "planet": "유로파",
                 "type": "발굴"
-            },
-            {
-                "last_verified": "2019-01-11",
-                "level": "18-20",
-                "faction": "코퍼스",
-                "spawn_rate": "100%",
-                "mission": "Adrastea (Outdated)",
-                "planet": "목성",
-                "type": "파괴공작"
-            },
-            {
-                "last_verified": "2019-01-11",
-                "level": "16-18",
-                "faction": "코퍼스",
-                "spawn_rate": "100%",
-                "mission": "Ananke (Outdated)",
-                "planet": "목성",
-                "type": "생포"
-            },
-            {
-                "last_verified": "2019-01-11",
-                "level": "15-17",
-                "faction": "코퍼스",
-                "spawn_rate": "100%",
-                "mission": "Metis (Outdated)",
-                "planet": "목성",
-                "type": "구출"
             }
         ]
     },
@@ -717,7 +699,7 @@
         "name": "Guardsman [Research]",
         "locations": [
             {
-                "last_verified": "2019-02-01",
+                "last_verified": "2019-11-23",
                 "level": "14-16",
                 "faction": "그리니어",
                 "spawn_rate": "100%",
@@ -984,24 +966,6 @@
                 "mission": "Orias (Unconfirmed)",
                 "planet": "유로파",
                 "type": "구출"
-            },
-            {
-                "last_verified": "2018-04-10",
-                "level": "16-18",
-                "faction": "코퍼스",
-                "spawn_rate": "90%",
-                "mission": "Ananke (Outdated)",
-                "planet": "목성",
-                "type": "생포"
-            },
-            {
-                "last_verified": "2018-04-10",
-                "level": "17-19",
-                "faction": "코퍼스",
-                "spawn_rate": "78%",
-                "mission": "Carpo (Outdated)",
-                "planet": "목성",
-                "type": "섬멸"
             }
         ]
     },
@@ -1096,7 +1060,16 @@
         "name": "Seeker / Frontier Seeker",
         "locations": [
             {
-                "last_verified": "2019-02-11",
+                "last_verified": "2020-03-10",
+                "level": "1-3",
+                "faction": "그리니어",
+                "spawn_rate": "100%",
+                "mission": "E-Prime",
+                "planet": "지구",
+                "type": "섬멸"
+            },
+            {
+                "last_verified": "2019-11-28",
                 "level": "14-16",
                 "faction": "그리니어",
                 "spawn_rate": "100%",
