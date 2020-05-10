@@ -3694,7 +3694,7 @@
     "value": "Hydroid's Relay Scene"
   },
   "/lotus/storeitems/types/items/miscitems/photoboothtileorokinextraction": {
-    "value": "Orokin Tower Extraction Scene"
+    "value": "Сцена: Башня Орокин - Зона Эвакуации"
   },
   "/lotus/storeitems/types/items/miscitems/plastids": {
     "value": "Пластиды"
@@ -3877,16 +3877,16 @@
     "value": "Фигурка - Баро Ки'Тиир"
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationa": {
-    "value": "Mahd Luxxum Ornament"
+    "value": "Орнамент: Махд Люксум"
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationb": {
-    "value": "Akka Luxxum Ornament"
+    "value": "Орнамент: Акка Люксум"
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationc": {
-    "value": "Zag Luxxum Ornament"
+    "value": "Орнамент: Заг Люксум"
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationd": {
-    "value": "Dvad Luxxum Ornament"
+    "value": "Орнамент: Двад Люксум"
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecoratione": {
     "value": "Орнамент: Азра Люксум"
@@ -3995,6 +3995,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/orbiterpictureframebaro": {
     "value": "Дисплей: Аргайл"
+  },
+  "/lotus/storeitems/types/items/shipdecos/parazonposter": {
+    "value": "Parazon Poster"
   },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Пьедестал Прайм"
@@ -8302,16 +8305,16 @@
     "value": "Мутатор Прайм: Дробовик"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorpusexpert": {
-    "value": "Primed Cleanse Corpus"
+    "value": "Зачистка Прайм: Корпус"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorruptedexpert": {
-    "value": "Primed Cleanse Corrupted"
+    "value": "Зачистка Прайм: Порабощённые"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagegrineerexpert": {
-    "value": "Primed Cleanse Grineer"
+    "value": "Зачистка Прайм: Гринир"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamageinfestedexpert": {
-    "value": "Primed Cleanse Infested"
+    "value": "Зачистка Прайм: Заражённые"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponslashdamagemodexpert": {
     "value": "Primed Shredder"
@@ -9154,10 +9157,10 @@
     "value": "Наголенники Эдо"
   },
   "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwoarmleftarmor": {
-    "value": "Left Prisma Edo Shoulder Plates"
+    "value": "Левый Наплечник: Эдо Призма"
   },
   "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwoarmrightarmor": {
-    "value": "Right Prisma Edo Shoulder Plates"
+    "value": "Правый Наплечник: Эдо Призма"
   },
   "/lotus/storeitems/upgrades/skins/armor/settwosamurai/vtsettwochestarmor": {
     "value": "Нагрудник Эдо Призма"
@@ -9364,7 +9367,7 @@
     "value": "Hostile Mergers Emblem"
   },
   "/lotus/storeitems/upgrades/skins/clan/barokavatbadgeitem": {
-    "value": "Glaring Emblem"
+    "value": "Значок: Ослепительный"
   },
   "/lotus/storeitems/upgrades/skins/clan/barokubrowbadgeitem": {
     "value": "Значок: Вожак Стаи"
@@ -10054,7 +10057,7 @@
     "value": "Броня Кубрау Ки'Тиир"
   },
   "/lotus/storeitems/upgrades/skins/kubrows/armor/kubrowarmorprisma": {
-    "value": "Prisma Rostam Kubrow Armor"
+    "value": "Броня Кубрау: Ростэм Призма"
   },
   "/lotus/storeitems/upgrades/skins/liset/inaroslisetskin": {
     "value": "Скин Лисета: Кидония"
@@ -12124,7 +12127,7 @@
     "value": "Баллистика"
   },
   "/lotus/storeitems/weapons/tenno/pistols/conclaveleverpistol/conclaveleverpistol": {
-    "value": "Zylok"
+    "value": "Зайлок"
   },
   "/lotus/storeitems/weapons/tenno/pistols/dexfuris/dexfuris": {
     "value": "Декс Фурис"
