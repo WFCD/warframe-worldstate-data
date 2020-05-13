@@ -12467,6 +12467,10 @@
     "value": "Gilded",
     "desc": "Gild 1 Modular Items"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
+    "value": "Heavy Ordnance",
+    "desc": "Kill 500 enemies with an Archgun"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
     "value": "Not a Warning Shot",
     "desc": "Kill 500 Enemies"
@@ -12542,6 +12546,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardexterminatenoalarm": {
     "value": "Silent Eliminator",
     "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
+    "value": "Speedster",
+    "desc": "Finish a Capture mission in less than 90 seconds"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
     "value": "Defense",
@@ -15169,6 +15177,9 @@
   "/lotus/types/storeitems/packages/antitoxinpack": {
     "value": "Cicero Crisis Antidote Pack"
   },
+  "/lotus/types/storeitems/packages/ashdeluxeiiskinbundle": {
+    "value": "Ash Shroud Collection"
+  },
   "/lotus/types/storeitems/packages/ashdeluxeskinbundle": {
     "value": "Koga Bundle"
   },
@@ -16344,6 +16355,9 @@
   },
   "/lotus/upgrades/skins/ninja/ashalternateskin": {
     "value": "Ash Immortal Skin"
+  },
+  "/lotus/upgrades/skins/ninja/ashdeluxeskin": {
+    "value": "Ash Shroud Skin"
   },
   "/lotus/upgrades/skins/nezha/nezhaalt2helmet": {
     "value": "Nezha Jinza Helmet"
