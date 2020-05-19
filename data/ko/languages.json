@@ -12283,6 +12283,10 @@
     "value": "Graffiti",
     "desc": "Deploy a Glyph while in a mission"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailydeployspecter": {
+    "value": "Doppelganger",
+    "desc": "Deploy a Specter"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "value": "Loyalty",
     "desc": "Interact with your Kubrow or Kavat"
@@ -12390,6 +12394,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "Everything Old is New Again",
     "desc": "Complete 3 Transmutations"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
+    "value": "Flawless",
+    "desc": "Clear a Railjack Boarding Party without your Warframe taking damage"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
     "value": "Earth Fisher",
@@ -12574,6 +12582,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
     "value": "Eximus Executioner",
     "desc": "Kill 100 Eximus"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillexploiterorb": {
+    "value": "Nothing but Profit",
+    "desc": "Kill The Exploiter Orb"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
     "value": "Hydrolyst Hunter",
