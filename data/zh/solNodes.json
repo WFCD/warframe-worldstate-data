@@ -6,12 +6,12 @@
   },
   "SolNode1": {
     "value": "Galatea (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "捕獲"
   },
   "SolNode2": {
     "value": "Aphrodite (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "移動防禦"
   },
   "SolNode3": {
@@ -21,7 +21,7 @@
   },
   "SolNode4": {
     "value": "Acheron (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅"
   },
   "SolNode5": {
@@ -31,7 +31,7 @@
   },
   "SolNode6": {
     "value": "Despina (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "挖掘"
   },
   "SolNode7": {
@@ -41,7 +41,7 @@
   },
   "SolNode8": {
     "value": "Nix (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode9": {
@@ -51,12 +51,12 @@
   },
   "SolNode10": {
     "value": "Thebe (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "破壞"
   },
   "SolNode11": {
     "value": "Tharsis (火星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "劫持"
   },
   "SolNode12": {
@@ -86,7 +86,7 @@
   },
   "SolNode17": {
     "value": "Proteus (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "防禦"
   },
   "SolNode18": {
@@ -106,17 +106,17 @@
   },
   "SolNode21": {
     "value": "Narcissus (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅"
   },
   "SolNode22": {
     "value": "Tessera (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "防禦"
   },
   "SolNode23": {
     "value": "Cytherean (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "攔截"
   },
   "SolNode24": {
@@ -126,7 +126,7 @@
   },
   "SolNode25": {
     "value": "Callisto (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "攔截"
   },
   "SolNode26": {
@@ -191,7 +191,7 @@
   },
   "SolNode38": {
     "value": "Minthe (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "移動防禦"
   },
   "SolNode39": {
@@ -216,7 +216,7 @@
   },
   "SolNode43": {
     "value": "Cerberus (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "攔截"
   },
   "SolNode44": {
@@ -241,12 +241,12 @@
   },
   "SolNode48": {
     "value": "Regna (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "救援"
   },
   "SolNode49": {
     "value": "Larissa (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "移動防禦"
   },
   "SolNode50": {
@@ -256,7 +256,7 @@
   },
   "SolNode51": {
     "value": "Hades (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "刺殺"
   },
   "SolNode52": {
@@ -266,7 +266,7 @@
   },
   "SolNode53": {
     "value": "Themisto (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "刺殺"
   },
   "SolNode54": {
@@ -281,12 +281,12 @@
   },
   "SolNode56": {
     "value": "Cypress (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "破壞"
   },
   "SolNode57": {
     "value": "Sao (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "破壞"
   },
   "SolNode58": {
@@ -306,12 +306,12 @@
   },
   "SolNode61": {
     "value": "Ishtar (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "破壞"
   },
   "SolNode62": {
     "value": "Neso (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅"
   },
   "SolNode63": {
@@ -326,12 +326,12 @@
   },
   "SolNode65": {
     "value": "Gradivus (火星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "破壞"
   },
   "SolNode66": {
     "value": "Unda (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "間諜"
   },
   "SolNode67": {
@@ -356,22 +356,22 @@
   },
   "SolNode71": {
     "value": "Vesper (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "間諜"
   },
   "SolNode72": {
     "value": "Outer Terminus (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "防禦"
   },
   "SolNode73": {
     "value": "Ananke (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "捕獲"
   },
   "SolNode74": {
     "value": "Carme (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "移動防禦"
   },
   "SolNode75": {
@@ -381,7 +381,7 @@
   },
   "SolNode76": {
     "value": "Hydra (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "捕獲"
   },
   "SolNode77": {
@@ -391,7 +391,7 @@
   },
   "SolNode78": {
     "value": "Triton (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "救援"
   },
   "SolNode79": {
@@ -406,7 +406,7 @@
   },
   "SolNode81": {
     "value": "Palus (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "生存"
   },
   "SolNode82": {
@@ -421,7 +421,7 @@
   },
   "SolNode84": {
     "value": "Nereid (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "劫持"
   },
   "SolNode85": {
@@ -436,12 +436,12 @@
   },
   "SolNode87": {
     "value": "Ganymede (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Disruption"
   },
   "SolNode88": {
     "value": "Adrastea (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "間諜"
   },
   "SolNode89": {
@@ -461,7 +461,7 @@
   },
   "SolNode92": {
     "value": "Charon (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode93": {
@@ -476,7 +476,7 @@
   },
   "SolNode95": {
     "value": "Thalassa (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode96": {
@@ -486,7 +486,7 @@
   },
   "SolNode97": {
     "value": "Amalthea (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "間諜"
   },
   "SolNode98": {
@@ -501,17 +501,17 @@
   },
   "SolNode100": {
     "value": "Elara (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "生存"
   },
   "SolNode101": {
     "value": "Kiliken (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "挖掘"
   },
   "SolNode102": {
     "value": "Oceanum (冥王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "間諜"
   },
   "SolNode103": {
@@ -521,7 +521,7 @@
   },
   "SolNode104": {
     "value": "Fossa (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "刺殺"
   },
   "SolNode105": {
@@ -536,7 +536,7 @@
   },
   "SolNode107": {
     "value": "Venera (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "捕獲"
   },
   "SolNode108": {
@@ -546,7 +546,7 @@
   },
   "SolNode109": {
     "value": "Linea (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "救援"
   },
   "SolNode110": {
@@ -586,12 +586,12 @@
   },
   "SolNode117": {
     "value": "Naiad (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode118": {
     "value": "Laomedeia (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Disruption"
   },
   "SolNode119": {
@@ -601,12 +601,12 @@
   },
   "SolNode120": {
     "value": "Halimede (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode121": {
     "value": "Carpo (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅"
   },
   "SolNode122": {
@@ -1022,7 +1022,7 @@
   },
   "SolNode205": {
     "value": "Baal (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅"
   },
   "SolNode206": {
@@ -1030,32 +1030,32 @@
   },
   "SolNode207": {
     "value": "Gamygyn (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode208": {
     "value": "Lillith (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode209": {
     "value": "Morax (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "移動防禦"
   },
   "SolNode210": {
     "value": "Naamah (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "刺殺"
   },
   "SolNode211": {
     "value": "Ose (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "攔截"
   },
   "SolNode212": {
     "value": "Paimon (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "防禦"
   },
   "SolNode213": {
@@ -1063,37 +1063,37 @@
   },
   "SolNode214": {
     "value": "Sorath (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "劫持"
   },
   "SolNode215": {
     "value": "Valac (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "間諜"
   },
   "SolNode216": {
     "value": "Valefor (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "挖掘"
   },
   "SolNode217": {
     "value": "Orias (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "救援"
   },
   "SolNode218": {
     "value": "Zagan (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode219": {
     "value": "Beleth (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "Ancient Retribution"
   },
   "SolNode220": {
     "value": "Kokabiel (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "破壞"
   },
   "SolNode221": {
@@ -1281,7 +1281,7 @@
   },
   "SolNode907": {
     "value": "Caelus (天王星)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "攔截 (Archwing)"
   },
   "SolNode908": {
@@ -1291,12 +1291,12 @@
   },
   "SolNode300": {
     "value": "Plato (月球)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "殲滅"
   },
   "SolNode301": {
     "value": "Grimaldi (月球)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "移動防禦"
   },
   "SolNode302": {
@@ -1306,7 +1306,7 @@
   },
   "SolNode304": {
     "value": "Copernicus (月球)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "移動防禦"
   },
   "SolNode305": {
@@ -1431,7 +1431,7 @@
   },
   "MercuryHUB": {
     "value": "Larunda Relay (Mercury)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Relay"
   },
   "VenusHUB": {
@@ -1441,12 +1441,12 @@
   },
   "EarthHUB": {
     "value": "Strata Relay (Earth)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Relay"
   },
   "SaturnHUB": {
     "value": "Kronia Relay (Saturn)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Relay"
   },
   "ErisHUB": {
