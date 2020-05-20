@@ -2,7 +2,7 @@
   "SolNode0": {
     "value": "SolNode0",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode1": {
     "value": "Galatea (海王星)",
@@ -17,7 +17,7 @@
   "SolNode3": {
     "value": "Cordelia (天王星)",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode4": {
     "value": "Acheron (冥王星)",
@@ -27,7 +27,7 @@
   "SolNode5": {
     "value": "Perdita (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode6": {
     "value": "Despina (海王星)",
@@ -37,12 +37,12 @@
   "SolNode7": {
     "value": "Epimetheus (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode8": {
     "value": "Nix (冥王星)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode9": {
     "value": "Rosalind (天王星)",
@@ -67,7 +67,7 @@
   "SolNode13": {
     "value": "Bianca (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode14": {
     "value": "Ultor (火星)",
@@ -81,7 +81,7 @@
   },
   "SolNode16": {
     "value": "Augustus (火星)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "挖掘"
   },
   "SolNode17": {
@@ -147,12 +147,12 @@
   "SolNode29": {
     "value": "Oberon (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode30": {
     "value": "Olympus (火星)",
     "enemy": "Grineer",
-    "type": "Disruption"
+    "type": "中斷"
   },
   "SolNode31": {
     "value": "Anthe (土星)",
@@ -177,7 +177,7 @@
   "SolNode35": {
     "value": "Arcadia (火星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode36": {
     "value": "Martialis (火星)",
@@ -187,7 +187,7 @@
   "SolNode37": {
     "value": "Pallene (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode38": {
     "value": "Minthe (冥王星)",
@@ -202,11 +202,11 @@
   "SolNode40": {
     "value": "Prospero (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode41": {
     "value": "Arval (火星)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "間諜"
   },
   "SolNode42": {
@@ -222,7 +222,7 @@
   "SolNode44": {
     "value": "Mimas (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode45": {
     "value": "Ara (火星)",
@@ -237,7 +237,7 @@
   "SolNode47": {
     "value": "Janus (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode48": {
     "value": "Regna (冥王星)",
@@ -262,7 +262,7 @@
   "SolNode52": {
     "value": "Portia (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode53": {
     "value": "Themisto (木星)",
@@ -272,12 +272,12 @@
   "SolNode54": {
     "value": "Silvanus (火星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode55": {
     "value": "Methone (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode56": {
     "value": "Cypress (冥王星)",
@@ -387,7 +387,7 @@
   "SolNode77": {
     "value": "Cupid (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode78": {
     "value": "Triton (海王星)",
@@ -402,7 +402,7 @@
   "SolNode80": {
     "value": "Phoebe (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode81": {
     "value": "Palus (冥王星)",
@@ -432,12 +432,12 @@
   "SolNode86": {
     "value": "Aegaeon (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode87": {
     "value": "Ganymede (木星)",
     "enemy": "Corpus",
-    "type": "Disruption"
+    "type": "中斷"
   },
   "SolNode88": {
     "value": "Adrastea (木星)",
@@ -452,17 +452,17 @@
   "SolNode90": {
     "value": "Miranda",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode91": {
     "value": "Iapetus (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode92": {
     "value": "Charon (冥王星)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode93": {
     "value": "Keeler (土星)",
@@ -471,13 +471,13 @@
   },
   "SolNode94": {
     "value": "Apollodorus (水星)",
-    "enemy": "无测试",
+    "enemy": "Infested",
     "type": "生存"
   },
   "SolNode95": {
     "value": "Thalassa (海王星)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode96": {
     "value": "Titan (土星)",
@@ -552,17 +552,17 @@
   "SolNode110": {
     "value": "Hyperion (土星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode111": {
     "value": "Juliet (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode112": {
     "value": "Setebos (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode113": {
     "value": "Ares (火星)",
@@ -577,22 +577,22 @@
   "SolNode115": {
     "value": "Quirinus (火星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode116": {
     "value": "Mab (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode117": {
     "value": "Naiad (海王星)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode118": {
     "value": "Laomedeia (海王星)",
     "enemy": "Corpus",
-    "type": "Disruption"
+    "type": "中斷"
   },
   "SolNode119": {
     "value": "Caloris (水星)",
@@ -602,7 +602,7 @@
   "SolNode120": {
     "value": "Halimede (海王星)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode121": {
     "value": "Carpo (木星)",
@@ -622,7 +622,7 @@
   "SolNode124": {
     "value": "Trinculo (天王星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode125": {
     "value": "Io (木星)",
@@ -641,12 +641,12 @@
   },
   "SolNode128": {
     "value": "E Gate (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅"
   },
   "SolNode129": {
     "value": "Orb Vallis (Venus)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "自由探索"
   },
   "SolNode130": {
@@ -667,12 +667,12 @@
   "SolNode133": {
     "value": "Vedic (穀神星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode134": {
     "value": "Varro (穀神星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode135": {
     "value": "Thon (穀神星)",
@@ -682,7 +682,7 @@
   "SolNode136": {
     "value": "Olla (穀神星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode137": {
     "value": "Nuovo (穀神星)",
@@ -712,12 +712,12 @@
   "SolNode142": {
     "value": "Hapke (穀神星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode143": {
     "value": "Gefion (穀神星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode144": {
     "value": "Exta (穀神星)",
@@ -727,7 +727,7 @@
   "SolNode145": {
     "value": "Egeria (穀神星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode146": {
     "value": "Draco (穀神星)",
@@ -750,17 +750,17 @@
   "SolNode150": {
     "value": "Albedo (穀神星)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode151": {
     "value": "Acanth (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode152": {
     "value": "Ascar (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode153": {
     "value": "Brugia (鬩神星)",
@@ -770,42 +770,42 @@
   "SolNode154": {
     "value": "Candiru (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode155": {
     "value": "Cosis (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode156": {
     "value": "Cyath (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode157": {
     "value": "Giardia (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode158": {
     "value": "Gnathos (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode159": {
     "value": "Lepis (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode160": {
     "value": "Histo (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode161": {
     "value": "Hymeno (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode162": {
     "value": "Isos (鬩神星)",
@@ -838,17 +838,17 @@
   "SolNode168": {
     "value": "Phalan (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode169": {
     "value": "Psoro (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode170": {
     "value": "Ranova (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode171": {
     "value": "Saxis (鬩神星)",
@@ -868,17 +868,17 @@
   "SolNode174": {
     "value": "Sparga (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode175": {
     "value": "Naeglar (鬩神星)",
     "enemy": "Infested",
-    "type": "Hive"
+    "type": "清巢"
   },
   "SolNode176": {
     "value": "Viver (鬩神星)",
     "enemy": "Infested",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode177": {
     "value": "Kappa (賽德娜)",
@@ -888,17 +888,17 @@
   "SolNode178": {
     "value": "Hyosube (賽德娜)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode179": {
     "value": "Jengu (賽德娜)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode180": {
     "value": "Undine (賽德娜)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode181": {
     "value": "Adaro (賽德娜)",
@@ -908,7 +908,7 @@
   "SolNode182": {
     "value": "Camenae (賽德娜)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode183": {
     "value": "Vodyanoi (賽德娜)",
@@ -938,7 +938,7 @@
   "SolNode188": {
     "value": "Kelpie (賽德娜)",
     "enemy": "Grineer",
-    "type": "Disruption"
+    "type": "中斷"
   },
   "SolNode189": {
     "value": "Naga (賽德娜)",
@@ -968,7 +968,7 @@
   "SolNode194": {
     "value": "Ponaturi (Sedna)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode195": {
     "value": "Hydron (Sedna)",
@@ -983,12 +983,12 @@
   "SolNode197": {
     "value": "Graeae (Sedna)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode198": {
     "value": "Scylla (Sedna)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode199": {
     "value": "Yam (Sedna)",
@@ -998,26 +998,26 @@
   "SolNode200": {
     "value": "Veles (Sedna)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode201": {
     "value": "Tiamat (Sedna)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode202": {
     "value": "Yemaja (Sedna)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode203": {
     "value": "Abaddon (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "捕獲"
   },
   "SolNode204": {
     "value": "Armaros (Europa)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅"
   },
   "SolNode205": {
@@ -1031,12 +1031,12 @@
   "SolNode207": {
     "value": "Gamygyn (Europa)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode208": {
     "value": "Lillith (Europa)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode209": {
     "value": "Morax (Europa)",
@@ -1084,12 +1084,12 @@
   "SolNode218": {
     "value": "Zagan (Europa)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode219": {
     "value": "Beleth (Europa)",
     "enemy": "Corpus",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode220": {
     "value": "Kokabiel (Europa)",
@@ -1099,12 +1099,12 @@
   "SolNode221": {
     "value": "Neruda (Mercury)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode222": {
     "value": "Eminescu (Mercury)",
     "enemy": "Grineer",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode223": {
     "value": "Boethius (Mercury)",
@@ -1131,7 +1131,7 @@
   },
   "SolNode228": {
     "value": "Plains of Eidolon (Earth)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "自由探索"
   },
   "SolNode400": {
@@ -1192,7 +1192,7 @@
   "SolNode411": {
     "value": "SolNode411 (Void)",
     "enemy": "奥罗金",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode412": {
     "value": "Mithra (Void)",
@@ -1202,7 +1202,7 @@
   "SolNode413": {
     "value": "虛空",
     "enemy": "墮落",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode740": {
     "value": "The Ropalolyst (Jupiter)",
@@ -1232,7 +1232,7 @@
   "SolNode745": {
     "value": "Tamu (Kuva 要塞)",
     "enemy": "Grineer",
-    "type": "Disruption"
+    "type": "中斷"
   },
   "SolNode746": {
     "value": "Dakata (Kuva 要塞)",
@@ -1252,11 +1252,11 @@
   "SolNode901": {
     "value": "Caduceus",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "SolNode902": {
     "value": "Montes (金星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅 (Archwing)"
   },
   "SolNode903": {
@@ -1271,7 +1271,7 @@
   },
   "SolNode905": {
     "value": "Galilea (木星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "破壞 (Archwing)"
   },
   "SolNode906": {
@@ -1286,7 +1286,7 @@
   },
   "SolNode908": {
     "value": "Salacia (海王星)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "移動防禦 (Archwing)"
   },
   "SolNode300": {
@@ -1301,7 +1301,7 @@
   },
   "SolNode302": {
     "value": "Tycho (月球)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "生存"
   },
   "SolNode304": {
@@ -1311,282 +1311,282 @@
   },
   "SolNode305": {
     "value": "Stöfler (月球)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "生存"
   },
   "SolNode306": {
     "value": "Pavlov (月球)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "間諜"
   },
   "SolNode307": {
     "value": "Zeipel (月球)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "救援"
   },
   "SolNode308": {
     "value": "Apollo (Lua)",
-    "enemy": "尸体",
-    "type": "Disruption"
+    "enemy": "Corpus",
+    "type": "中斷"
   },
   "SettlementNode1": {
     "value": "Roche (火衛一)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "殲滅"
   },
   "SettlementNode2": {
     "value": "Skyresh (火衛一)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "捕獲"
   },
   "SettlementNode3": {
     "value": "Stickney (火衛一)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "生存"
   },
   "SettlementNode4": {
     "value": "Drunlo (火衛一)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode5": {
     "value": "Grildrig (火衛一)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode6": {
     "value": "Limtoc (火衛一)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode7": {
     "value": "Hall (火衛一)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode8": {
     "value": "Reldresal (火衛一)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode9": {
     "value": "Clustril (火衛一)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode10": {
     "value": "Kepler (火衛一)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "追擊 (Archwing)"
   },
   "SettlementNode11": {
     "value": "Gulliver (火衛一)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "防禦"
   },
   "SettlementNode12": {
     "value": "Monolith (火衛一)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "救援"
   },
   "SettlementNode13": {
     "value": "D'Arrest (火衛一)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode14": {
     "value": "Shklovsky (火衛一)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "間諜"
   },
   "SettlementNode15": {
     "value": "Sharpless (火衛一)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "移動防禦"
   },
   "SettlementNode16": {
     "value": "Wendell (火衛一)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode17": {
     "value": "Flimnap (Phobos)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode18": {
     "value": "Opik (Phobos)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode19": {
     "value": "Todd (Phobos)",
-    "enemy": "尸体",
-    "type": "Ancient Retribution"
+    "enemy": "Corpus",
+    "type": "远古惩戒"
   },
   "SettlementNode20": {
     "value": "Iliad (Phobos)",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "刺殺"
   },
   "MercuryHUB": {
-    "value": "Larunda Relay (Mercury)",
+    "value": "Larunda 中继站 (水星)",
     "enemy": "Grineer",
-    "type": "Relay"
+    "type": "中继站"
   },
   "VenusHUB": {
-    "value": "Vesper Relay (Venus)",
-    "enemy": "尸体",
-    "type": "Relay"
+    "value": "Vesper 中继站 (金星)",
+    "enemy": "Corpus",
+    "type": "中继站"
   },
   "EarthHUB": {
-    "value": "Strata Relay (Earth)",
+    "value": "Strata 中继站 (地球)",
     "enemy": "Grineer",
-    "type": "Relay"
+    "type": "中继站"
   },
   "SaturnHUB": {
-    "value": "Kronia Relay (Saturn)",
+    "value": "Kronia 中继站 (土星)",
     "enemy": "Grineer",
-    "type": "Relay"
+    "type": "中继站"
   },
   "ErisHUB": {
-    "value": "Kuiper Relay (Eris)",
+    "value": "Kuiper 中继站 (阋神星)",
     "enemy": "Infested",
-    "type": "Relay"
+    "type": "中继站"
   },
   "EuropaHUB": {
-    "value": "Leonov Relay (Europa)",
-    "enemy": "尸体",
-    "type": "Relay"
+    "value": "Leonov 中继站 (欧罗巴)",
+    "enemy": "Corpus",
+    "type": "中继站"
   },
   "PlutoHUB": {
-    "value": "Orcus Relay (Pluto)",
-    "enemy": "尸体",
-    "type": "Relay"
+    "value": "Orcus 中继站 (冥王星)",
+    "enemy": "Corpus",
+    "type": "中继站"
   },
   "EventNode0": {
     "value": "Balor",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode1": {
     "value": "Tethra",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode2": {
     "value": "Operation Gate Crash",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode3": {
     "value": "Elatha",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode4": {
     "value": "Proxy Rebellion",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "生存"
   },
   "EventNode5": {
     "value": "Birog",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode6": {
     "value": "Tyl Reygor Seal Lab",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode7": {
     "value": "Proxy Rebellion",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "攔截"
   },
   "EventNode8": {
     "value": "Corb",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode9": {
     "value": "Operation Gate Crash Pt. 2",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode10": {
     "value": "Lugh",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode11": {
     "value": "Nemed",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode12": {
     "value": "Operation Cryotic Front",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode13": {
     "value": "Shifting Sands",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode14": {
     "value": "Gate Crash",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode15": {
     "value": "Operation Cryotic Front",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode16": {
     "value": "Operation Cryotic Front",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode17": {
     "value": "Proxy Rebellion",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "防禦"
   },
   "EventNode18": {
     "value": "Proxy Rebellion",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "防禦"
   },
   "EventNode19": {
     "value": "火星",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "防禦"
   },
   "EventNode20": {
     "value": "Tyl Regor Sea Lab",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode22": {
     "value": "Tyl Regor Sea Lab",
     "enemy": "Sentient",
-    "type": "Ancient Retribution"
+    "type": "远古惩戒"
   },
   "EventNode24": {
     "value": "地球",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "競技場"
   },
   "EventNode25": {
     "value": "地球",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "競技場"
   },
   "EventNode26": {
     "value": "地球",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "殲滅"
   },
   "EventNode27": {
@@ -1596,71 +1596,71 @@
   },
   "EventNode28": {
     "value": "土星",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "刺殺"
   },
   "EventNode29": {
     "value": "土星",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "刺殺"
   },
   "EventNode30": {
     "value": "Ganymede (木星)",
-    "enemy": "尸体",
-    "type": "Disruption"
+    "enemy": "Corpus",
+    "type": "中斷"
   },
   "EventNode31": {
     "value": "Ganymede (木星)",
-    "enemy": "尸体",
-    "type": "Disruption"
+    "enemy": "Corpus",
+    "type": "中斷"
   },
   "EventNode32": {
     "value": "Ganymede (木星)",
-    "enemy": "尸体",
-    "type": "Disruption"
+    "enemy": "Corpus",
+    "type": "中斷"
   },
   "EventNode33": {
     "value": "Ganymede (木星)",
-    "enemy": "尸体",
-    "type": "Disruption"
+    "enemy": "Corpus",
+    "type": "中斷"
   },
   "EventNode34": {
     "value": "地球",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "競技場"
   },
   "EventNode35": {
     "value": "地球",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "競技場"
   },
   "EventNode761": {
     "value": "The Index",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "競技場"
   },
   "EventNode762": {
     "value": "The Index pt 2",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "競技場"
   },
   "EventNode763": {
     "value": "The Index Endurance",
-    "enemy": "尸体",
+    "enemy": "Corpus",
     "type": "競技場"
   },
   "PvpNode0": {
-    "value": "Conclave Capture the Cephalon",
+    "value": "武形密儀 奪取中樞",
     "enemy": "Tenno",
-    "type": "Conclave"
+    "type": "武形密儀"
   },
   "PvpNode1": {
-    "value": "Conclave",
+    "value": "武形密儀",
     "enemy": "Tenno",
-    "type": "Conclave"
+    "type": "武形密儀"
   },
   "PvpNode2": {
-    "value": "Conclave",
+    "value": "武形密儀",
     "enemy": "Tenno",
     "type": "武形密儀"
   },
@@ -1722,7 +1722,7 @@
   "PvpNode14": {
     "value": "Conclave: Quick Steel",
     "enemy": "Tenno",
-    "type": "Conclave"
+    "type": "武形密儀"
   },
   "ClanNode0": {
     "value": "Romula (Venus)",
@@ -1846,57 +1846,57 @@
   },
   "ClanNode24": {
     "value": "Sechura (Pluto)",
-    "enemy": "无测试",
+    "enemy": "Infested",
     "type": "Dark Sector Defense"
   },
   "ClanNode25": {
     "value": "Hieracon (Pluto)",
-    "enemy": "无测试",
+    "enemy": "Infested",
     "type": "Dark Sector Excavation"
   },
   "/Lotus/Types/Keys/SortieBossKeyPhorid": {
     "value": "Sortie Boss: Phorid",
-    "enemy": "无测试",
+    "enemy": "Infested",
     "type": "刺殺"
   },
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil Proxima)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode510": {
     "value": "Gian Point (Veil Proxima)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode550": {
     "value": "Nsu Grid (Veil Proxima)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode551": {
     "value": "Ganalen's Grave (Veil Proxima)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode552": {
     "value": "Rya (Veil Proxima)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode553": {
     "value": "Flexa (Veil Proxima)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode554": {
     "value": "H-2 Cloud (Veil Proxima)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode555": {
     "value": "R-9 Cloud (Veil Proxima)",
-    "enemy": "格里尼勒",
+    "enemy": "Grineer",
     "type": "Skirmish"
   }
 }
