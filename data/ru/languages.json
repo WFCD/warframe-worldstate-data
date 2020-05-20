@@ -684,13 +684,13 @@
     "value": "Пополните ваш истощающийся запас кислорода, убивая врагов и держась до сброса снабжения."
   },
   "/lotus/language/alerts/tacalertproxyrebellion": {
-    "value": "Tactical Alert: Proxy Rebelllion"
+    "value": "Тактическая Тревога: Восстание Роботов"
   },
   "/lotus/language/alerts/tacalertwaterfight": {
-    "value": "Tactical Alert: Dog Days"
+    "value": "Тактическая Тревога: Знойные Дни"
   },
   "/lotus/language/alerts/wolfalert": {
-    "value": "Tactical Alert: Wolf Hunt"
+    "value": "Тактическая Тревога: Волчья охота"
   },
   "/lotus/language/bosses/bossthejackal": {
     "value": "Босс Шакал"
@@ -699,34 +699,34 @@
     "value": "Босс Тил Регор"
   },
   "/lotus/language/events/amalgameventname": {
-    "value": "Operation: Hostile Mergers"
+    "value": "Операция: Враждебное Слияние"
   },
   "/lotus/language/events/amalgameventscoreattackname": {
-    "value": "Operation: Hostile Mergers - Endurance"
+    "value": "Операция: Враждебное Слияние - Бесконечное"
   },
   "/lotus/language/events/amalgameventscoreattacktooltip": {
-    "value": "Operation: Hostile Mergers - Endurance"
+    "value": "Операция: Враждебное Слияние - Бесконечное"
   },
   "/lotus/language/events/amalgameventtooltip": {
-    "value": "Operation: Hostile Mergers"
+    "value": "Операция: Враждебное Слияние"
   },
   "/lotus/language/events/tacalerthalloweenlantern": {
-    "value": "Tactical Alert: Hallowed Flame"
+    "value": "Тактическая Тревога: Священное Пламя"
   },
   "/lotus/language/events/tacalerthalloweenlanternendless": {
-    "value": "Tactical Alert: Hallowed Flame - Endless"
+    "value": "Тактическая Тревога: Священное Пламя - Бесконечное"
   },
   "/lotus/language/g1quests/anniversary2017missiontitle": {
-    "value": "Gifts of the Lotus - Stolen!"
+    "value": "Дар Лотос - Украден!"
   },
   "/lotus/language/g1quests/deck12eventdesc": {
     "value": "Take on the Exploiter Orb"
   },
   "/lotus/language/g1quests/deck12eventname": {
-    "value": "Operation: Buried Debts - Deck 12"
+    "value": "Операция: Погребённые Долги - Палуба 12"
   },
   "/lotus/language/g1quests/deck12glyphhunteventdesc": {
-    "value": "Find and scan data-hashes on the Orb Vallis"
+    "value": "Найдите и отсканируйте Хэши Данных в Долине Сфер"
   },
   "/lotus/language/g1quests/deck12glyphhunteventname": {
     "value": "Операция: Погребённые Долги"
@@ -738,7 +738,7 @@
     "value": "Фоморианец Балора"
   },
   "/lotus/language/g1quests/heatfissureseventdesc": {
-    "value": "Seal fractures across the Orb Vallis"
+    "value": "Закройте разломы в Долине Сфер"
   },
   "/lotus/language/g1quests/heatfissureseventname": {
     "value": "Разломы Термии"
@@ -759,7 +759,7 @@
     "value": "Операция: Ратуум"
   },
   "/lotus/language/g1quests/kelaeventtitleb": {
-    "value": "Kela de Thaym's Court"
+    "value": "Суд Келы Де Тэйм"
   },
   "/lotus/language/g1quests/projectindexendlessgoal": {
     "value": "Очки Индекса"
@@ -864,7 +864,7 @@
     "value": "Реактор Орокин"
   },
   "/lotus/language/locations/relaystationtennocon": {
-    "value": "TennoCon Relay"
+    "value": "Реле ТенноКон"
   },
   "/lotus/language/locations/relaystationtennocondesc": {
     "value": "Exclusive Digital ticket holder Relay right this way!"
@@ -920,6 +920,9 @@
   "/lotus/language/sigils/kelaeventsigilname": {
     "desc": "Сигил празднования освобождения перебежчиков из Гринир.",
     "value": "Сигил Ратуума"
+  },
+  "/lotsu/levels/proc/corpus/corpusgascitydisruption": {
+    "value": "Gas City Disruption"
   },
   "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
     "value": "Убийство Секача"
@@ -11586,6 +11589,9 @@
   "/lotus/storeitems/weapons/grineer/pistols/heatgun/grnheatgun": {
     "value": "Атомос"
   },
+  "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
+    "value": "Парный Коммак"
+  },
   "/lotus/storeitems/weapons/grineer/pistols/voidtraderbrakk/vtbrakk": {
     "value": "Мара Бракк"
   },
@@ -13400,6 +13406,12 @@
   },
   "/lotus/types/game/decorations/miningmachineobjective": {
     "value": "Mining Machine Objective"
+  },
+  "/lotus/types/game/enemyspecs/corpusalamgamendless": {
+    "value": "Amalgam Endless"
+  },
+  "/lotus/types/game/enemyspecs/specialmissionspecs/disruptioncorpusamalgams": {
+    "value": "Disruption Amalgams"
   },
   "/lotus/types/game/events/orbeventglyphone": {
     "value": "Data-hash 1"
@@ -16759,7 +16771,7 @@
     "value": "Гринлок"
   },
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas": {
-    "value": "Twin Grakatas"
+    "value": "Парные Гракаты"
   },
   "/lotus/weapons/grineer/longguns/grineerflakcannon/flakcannon": {
     "value": "Flak Cannon"
@@ -17492,6 +17504,9 @@
   },
   "/lotus/weapons/tenno/pistol/latovandal": {
     "value": "Лато Вандал"
+  },
+  "/lotus/weapons/tenno/pistol/lotuspistol": {
+    "value": "Secondary Only"
   },
   "/lotus/weapons/tenno/pistol/pistol": {
     "value": "Болто"

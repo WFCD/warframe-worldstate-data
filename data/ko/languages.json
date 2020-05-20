@@ -921,6 +921,9 @@
     "desc": "그리니어의 손에서 탈주자들을 해방시킨 일을 기념하는 시질입니다.",
     "value": "라툼 시질"
   },
+  "/lotsu/levels/proc/corpus/corpusgascitydisruption": {
+    "value": "Gas City Disruption"
+  },
   "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
     "value": "Razorback Assassination"
   },
@@ -11586,6 +11589,9 @@
   "/lotus/storeitems/weapons/grineer/pistols/heatgun/grnheatgun": {
     "value": "아토모스"
   },
+  "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
+    "value": "Twin Kohmaks"
+  },
   "/lotus/storeitems/weapons/grineer/pistols/voidtraderbrakk/vtbrakk": {
     "value": "마라 브락"
   },
@@ -13400,6 +13406,12 @@
   },
   "/lotus/types/game/decorations/miningmachineobjective": {
     "value": "Mining Machine Objective"
+  },
+  "/lotus/types/game/enemyspecs/corpusalamgamendless": {
+    "value": "Amalgam Endless"
+  },
+  "/lotus/types/game/enemyspecs/specialmissionspecs/disruptioncorpusamalgams": {
+    "value": "Disruption Amalgams"
   },
   "/lotus/types/game/events/orbeventglyphone": {
     "value": "Data-hash 1"
@@ -17492,6 +17504,9 @@
   },
   "/lotus/weapons/tenno/pistol/latovandal": {
     "value": "라토 반달"
+  },
+  "/lotus/weapons/tenno/pistol/lotuspistol": {
+    "value": "Secondary Only"
   },
   "/lotus/weapons/tenno/pistol/pistol": {
     "value": "볼토"
