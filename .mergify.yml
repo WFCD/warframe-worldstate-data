@@ -27,17 +27,3 @@ pull_request_rules:
         method: squash
         strict: true
         strict_method: rebase
-  - name: Notify owners to approve the PR
-    conditions:
-      - "status-success=Travis CI - Branch"
-      - "status-success=Travis CI - Pull Request"
-      - "status-success=WIP"
-      - "status-success=codeclimate"
-      - "status-success=security/snyk (TobiTenno)"
-      - "-merged"
-    actions:
-      comment:
-        message: |-
-          @WFCD/node-libraries ready to merge! Make sure to add a
-          \#\# Commit Message
-          section to the pr.
