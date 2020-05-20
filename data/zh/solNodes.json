@@ -1430,39 +1430,39 @@
     "type": "刺殺"
   },
   "MercuryHUB": {
-    "value": "Larunda Relay (Mercury)",
+    "value": "Larunda 中继站 (水星)",
     "enemy": "Grineer",
-    "type": "Relay"
+    "type": "中继站"
   },
   "VenusHUB": {
     "value": "Vesper Relay (Venus)",
     "enemy": "尸体",
-    "type": "Relay"
+    "type": "中继站"
   },
   "EarthHUB": {
     "value": "Strata Relay (Earth)",
     "enemy": "Grineer",
-    "type": "Relay"
+    "type": "中继站"
   },
   "SaturnHUB": {
     "value": "Kronia Relay (Saturn)",
     "enemy": "Grineer",
-    "type": "Relay"
+    "type": "中继站"
   },
   "ErisHUB": {
     "value": "Kuiper Relay (Eris)",
     "enemy": "Infested",
-    "type": "Relay"
+    "type": "中继站"
   },
   "EuropaHUB": {
     "value": "Leonov Relay (Europa)",
     "enemy": "尸体",
-    "type": "Relay"
+    "type": "中继站"
   },
   "PlutoHUB": {
     "value": "Orcus Relay (Pluto)",
     "enemy": "尸体",
-    "type": "Relay"
+    "type": "中继站"
   },
   "EventNode0": {
     "value": "Balor",
@@ -1650,17 +1650,17 @@
     "type": "競技場"
   },
   "PvpNode0": {
-    "value": "Conclave Capture the Cephalon",
+    "value": "武形密儀 奪取中樞",
     "enemy": "Tenno",
-    "type": "Conclave"
+    "type": "武形密儀"
   },
   "PvpNode1": {
-    "value": "Conclave",
+    "value": "武形密儀",
     "enemy": "Tenno",
-    "type": "Conclave"
+    "type": "武形密儀"
   },
   "PvpNode2": {
-    "value": "Conclave",
+    "value": "武形密儀",
     "enemy": "Tenno",
     "type": "武形密儀"
   },
@@ -1722,7 +1722,7 @@
   "PvpNode14": {
     "value": "Conclave: Quick Steel",
     "enemy": "Tenno",
-    "type": "Conclave"
+    "type": "武形密儀"
   },
   "ClanNode0": {
     "value": "Romula (Venus)",
