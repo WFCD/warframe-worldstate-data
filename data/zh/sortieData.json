@@ -32,7 +32,7 @@
     "SORTIE_MODIFIER_BOW_ONLY": "武器限定：弓箭"
   },
   "modifierDescriptions": {
-    "SORTIE_MODIFIER_LOW_ENERGY": "Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
+    "SORTIE_MODIFIER_LOW_ENERGY": "戰甲的能量上限降低為四分之一，並且能量恢復速率也會大大降低。",
     "SORTIE_MODIFIER_IMPACT": "Enemies can deal enhanced impact damage. Finishing damage is not resisted.",
     "SORTIE_MODIFIER_SLASH": "Enemies can deal enhanced slash damage. Finishing damage is not resisted.",
     "SORTIE_MODIFIER_PUNCTURE": "Enemies can deal enhanced puncture damage. Finishing damage is not resisted.",
@@ -3577,7 +3577,7 @@
             "防禦",
             "移動防禦",
             "攔截",
-            "Hive",
+            "清巢",
             "刺殺"
           ]
         },
@@ -3862,7 +3862,7 @@
             "破壞",
             "間諜",
             "防禦",
-            "Hive",
+            "清巢",
             "攔截",
             "間諜",
             "刺殺"
@@ -4121,7 +4121,7 @@
             "防禦",
             "移動防禦",
             "生存",
-            "Hive",
+            "清巢",
             "刺殺"
           ]
         },
