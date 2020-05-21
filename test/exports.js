@@ -27,14 +27,14 @@ describe('safeRequire', () => {
     // check that console.debug was called
     console.debug.should.have.been.called;
   });
-  
+
   it('should not log if debug is non-existant and no file exists', () => {
     const safeRequire = require('../safeRequire');
     safeRequire('poop.js');
     // check that console.debug was called
     console.debug.should.not.have.been.called;
   });
-  
+
   it('should not log if log level is error and no file exists', () => {
     process.env.LOG_LEVEL = 'ERROR';
     const safeRequire = require('../safeRequire');
