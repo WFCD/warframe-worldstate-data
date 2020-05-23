@@ -921,6 +921,9 @@
     "desc": "A sigil commemorating the liberation of defectors from the Grineer.",
     "value": "Rathuum Sigil"
   },
+  "/lotsu/levels/proc/corpus/corpusgascitydisruption": {
+    "value": "Gas City Disruption"
+  },
   "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
     "value": "Razorback Assassination"
   },
@@ -13404,6 +13407,12 @@
   "/lotus/types/game/decorations/miningmachineobjective": {
     "value": "Mining Machine Objective"
   },
+  "/lotus/types/game/enemyspecs/corpusalamgamendless": {
+    "value": "Amalgam Endless"
+  },
+  "/lotus/types/game/enemyspecs/specialmissionspecs/disruptioncorpusamalgams": {
+    "value": "Disruption Amalgams"
+  },
   "/lotus/types/game/events/orbeventglyphone": {
     "value": "Data-hash 1"
   },
@@ -17495,6 +17504,9 @@
   },
   "/lotus/weapons/tenno/pistol/latovandal": {
     "value": "Lato Vandal"
+  },
+  "/lotus/weapons/tenno/pistol/lotuspistol": {
+    "value": "Secondary Only"
   },
   "/lotus/weapons/tenno/pistol/pistol": {
     "value": "Bolto"
