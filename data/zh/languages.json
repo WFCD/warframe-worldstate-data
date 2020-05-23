@@ -9459,6 +9459,9 @@
   "/lotus/storeitems/upgrades/skins/clan/orbbadgeitem": {
     "value": "Buried Debts Emblem"
   },
+  "/lotus/storeitems/upgrades/skins/clan/prismalotusemblem": {
+    "value": "Prisma Lotus Emblem"
+  },
   "/lotus/storeitems/upgrades/skins/clan/orokinsabotagebadgeitem": {
     "value": "Gate Crash Emblem"
   },
@@ -12390,8 +12393,8 @@
     "desc": "使用一个表情动作"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplayminigame": {
-    "value": "Child at Heart",
-    "desc": "Play a game of Frame Fighter, Happy Zephyr, or Wyrmius"
+    "value": "童心未泯",
+    "desc": "从“战甲霸王”、“快乐的 ZEPHYR”，或是“蛟龙巡航机”中任意游玩一个游戏"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "value": "加速者",
