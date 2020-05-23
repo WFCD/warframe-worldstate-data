@@ -921,6 +921,9 @@
     "desc": "Brasão que comemora a libertação dos desertores das mãos dos Grineers.",
     "value": "Rathuum Sigil"
   },
+  "/lotus/levels/proc/corpus/corpusgascitydisruption": {
+    "value": "Gas City Disruption"
+  },
   "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
     "value": "Razorback Assassination"
   },
@@ -11586,6 +11589,9 @@
   "/lotus/storeitems/weapons/grineer/pistols/heatgun/grnheatgun": {
     "value": "Atomos"
   },
+  "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
+    "value": "Twin Kohmaks"
+  },
   "/lotus/storeitems/weapons/grineer/pistols/voidtraderbrakk/vtbrakk": {
     "value": "Mara Brakk"
   },
@@ -12382,6 +12388,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailyplayemote": {
     "value": "Expressive",
     "desc": "Play 1 Emote"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyplayminigame": {
+    "value": "Child at Heart",
+    "desc": "Play a game of Frame Fighter, Happy Zephyr, or Wyrmius"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "value": "Accelerator",
@@ -13400,6 +13410,12 @@
   },
   "/lotus/types/game/decorations/miningmachineobjective": {
     "value": "Mining Machine Objective"
+  },
+  "/lotus/types/game/enemyspecs/corpusalamgamendless": {
+    "value": "Amalgam Endless"
+  },
+  "/lotus/types/game/enemyspecs/specialmissionspecs/disruptioncorpusamalgams": {
+    "value": "Disruption Amalgams"
   },
   "/lotus/types/game/events/orbeventglyphone": {
     "value": "Data-hash 1"
@@ -17492,6 +17508,9 @@
   },
   "/lotus/weapons/tenno/pistol/latovandal": {
     "value": "Lato Vandal"
+  },
+  "/lotus/weapons/tenno/pistol/lotuspistol": {
+    "value": "Secondary Only"
   },
   "/lotus/weapons/tenno/pistol/pistol": {
     "value": "Bolto"

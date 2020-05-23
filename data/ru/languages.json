@@ -684,13 +684,13 @@
     "value": "Пополните ваш истощающийся запас кислорода, убивая врагов и держась до сброса снабжения."
   },
   "/lotus/language/alerts/tacalertproxyrebellion": {
-    "value": "Tactical Alert: Proxy Rebelllion"
+    "value": "Тактическая Тревога: Восстание Роботов"
   },
   "/lotus/language/alerts/tacalertwaterfight": {
-    "value": "Tactical Alert: Dog Days"
+    "value": "Тактическая Тревога: Знойные Дни"
   },
   "/lotus/language/alerts/wolfalert": {
-    "value": "Tactical Alert: Wolf Hunt"
+    "value": "Тактическая Тревога: Волчья охота"
   },
   "/lotus/language/bosses/bossthejackal": {
     "value": "Босс Шакал"
@@ -699,34 +699,34 @@
     "value": "Босс Тил Регор"
   },
   "/lotus/language/events/amalgameventname": {
-    "value": "Operation: Hostile Mergers"
+    "value": "Операция: Враждебное Слияние"
   },
   "/lotus/language/events/amalgameventscoreattackname": {
-    "value": "Operation: Hostile Mergers - Endurance"
+    "value": "Операция: Враждебное Слияние - Бесконечное"
   },
   "/lotus/language/events/amalgameventscoreattacktooltip": {
-    "value": "Operation: Hostile Mergers - Endurance"
+    "value": "Операция: Враждебное Слияние - Бесконечное"
   },
   "/lotus/language/events/amalgameventtooltip": {
-    "value": "Operation: Hostile Mergers"
+    "value": "Операция: Враждебное Слияние"
   },
   "/lotus/language/events/tacalerthalloweenlantern": {
-    "value": "Tactical Alert: Hallowed Flame"
+    "value": "Тактическая Тревога: Священное Пламя"
   },
   "/lotus/language/events/tacalerthalloweenlanternendless": {
-    "value": "Tactical Alert: Hallowed Flame - Endless"
+    "value": "Тактическая Тревога: Священное Пламя - Бесконечное"
   },
   "/lotus/language/g1quests/anniversary2017missiontitle": {
-    "value": "Gifts of the Lotus - Stolen!"
+    "value": "Дар Лотос - Украден!"
   },
   "/lotus/language/g1quests/deck12eventdesc": {
     "value": "Take on the Exploiter Orb"
   },
   "/lotus/language/g1quests/deck12eventname": {
-    "value": "Operation: Buried Debts - Deck 12"
+    "value": "Операция: Погребённые Долги - Палуба 12"
   },
   "/lotus/language/g1quests/deck12glyphhunteventdesc": {
-    "value": "Find and scan data-hashes on the Orb Vallis"
+    "value": "Найдите и отсканируйте Хэши Данных в Долине Сфер"
   },
   "/lotus/language/g1quests/deck12glyphhunteventname": {
     "value": "Операция: Погребённые Долги"
@@ -738,7 +738,7 @@
     "value": "Фоморианец Балора"
   },
   "/lotus/language/g1quests/heatfissureseventdesc": {
-    "value": "Seal fractures across the Orb Vallis"
+    "value": "Закройте разломы в Долине Сфер"
   },
   "/lotus/language/g1quests/heatfissureseventname": {
     "value": "Разломы Термии"
@@ -759,7 +759,7 @@
     "value": "Операция: Ратуум"
   },
   "/lotus/language/g1quests/kelaeventtitleb": {
-    "value": "Kela de Thaym's Court"
+    "value": "Суд Келы Де Тэйм"
   },
   "/lotus/language/g1quests/projectindexendlessgoal": {
     "value": "Очки Индекса"
@@ -864,7 +864,7 @@
     "value": "Реактор Орокин"
   },
   "/lotus/language/locations/relaystationtennocon": {
-    "value": "TennoCon Relay"
+    "value": "Реле ТенноКон"
   },
   "/lotus/language/locations/relaystationtennocondesc": {
     "value": "Exclusive Digital ticket holder Relay right this way!"
@@ -920,6 +920,9 @@
   "/lotus/language/sigils/kelaeventsigilname": {
     "desc": "Сигил празднования освобождения перебежчиков из Гринир.",
     "value": "Сигил Ратуума"
+  },
+  "/lotus/levels/proc/corpus/corpusgascitydisruption": {
+    "value": "Сбой Газовый Город"
   },
   "/lotus/levels/proc/corpus/corpusshiparmoredjackalboss": {
     "value": "Убийство Секача"
@@ -1042,7 +1045,7 @@
     "value": "Мираж"
   },
   "/lotus/powersuits/infestation/infestation": {
-    "value": "Nidus"
+    "value": "Нидус"
   },
   "/lotus/powersuits/ironframe/ironframe": {
     "value": "Хильдрин"
@@ -1915,7 +1918,7 @@
     "value": "Призма"
   },
   "/lotus/storeitems/powersuits/infestation/infestation": {
-    "value": "Nidus"
+    "value": "Нидус"
   },
   "/lotus/storeitems/powersuits/jade/chaosabilitycard": {
     "value": "Хаос"
@@ -2644,28 +2647,28 @@
     "value": "Варфрейм"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectionabronze": {
-    "value": "Lith S1 Relic (Intact)"
+    "value": "Реликвия Лит S1 (Нетронутая)"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectionagold": {
-    "value": "Lith S1 Relic (Flawless)"
+    "value": "Реликвия Лит S1 (Бесподобная)"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectionaplatinum": {
-    "value": "Lith S1 Relic (Radiant)"
+    "value": "Реликвия Лит S1 (Сияющая)"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectionasilver": {
-    "value": "Lith S1 Relic (Exceptional)"
+    "value": "Реликвия Лит S1 (Необычная)"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectionbbronze": {
-    "value": "Lith S2 Relic (Intact)"
+    "value": "Реликвия Лит S2 (Нетронутая)"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectionbgold": {
-    "value": "Lith S2 Relic (Flawless)"
+    "value": "Реликвия Лит S2 (Бесподобная)"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectionbplatinum": {
-    "value": "Lith S2 Relic (Radiant)"
+    "value": "Реликвия Лит S2 (Сияющая)"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectionbsilver": {
-    "value": "Lith S2 Relic (Exceptional)"
+    "value": "Реликвия Лит S2 (Необычная)"
   },
   "/lotus/storeitems/types/game/projections/t1voidprojectioncbronze": {
     "value": "Lith F1 Relic (Intact)"
@@ -3961,7 +3964,7 @@
     "value": "Bronze Kavat Bust"
   },
   "/lotus/storeitems/types/items/shipdecos/kubrowbust": {
-    "value": "Bronze Kubrow Bust"
+    "value": "Бронзовый Бюст - Кубрау"
   },
   "/lotus/storeitems/types/items/shipdecos/kubrowkavatlowpolyposter": {
     "value": "Prisma Companion Poster"
@@ -7489,7 +7492,7 @@
     "value": "Primed Steady Hands"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponreloadspeedmodexpert": {
-    "value": "Primed Quickdraw"
+    "value": "Быстрохват прайм"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponslashdamagemodexpert": {
     "value": "Primed Razor Shot"
@@ -9028,7 +9031,7 @@
     "value": "Наголенники Харконар"
   },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbinesarmarmor": {
-    "value": "Harkonar Wraith Arm Armor"
+    "value": "Наплечники Харконар Призрак"
   },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbinesarmleftarmor": {
     "value": "Harkonar Wraith Left Spaulders"
@@ -9037,10 +9040,10 @@
     "value": "Harkonar Wraith Right Spaulders"
   },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbineschestarmor": {
-    "value": "Harkonar Wraith Chest Armor"
+    "value": "Нагрудник: Харконар Призрак"
   },
   "/lotus/storeitems/upgrades/skins/armor/grineerturbines/wraithturbineslegarmor": {
-    "value": "Harkonar Wraith Leg Armor"
+    "value": "Наголенники Харконар Призрак"
   },
   "/lotus/storeitems/upgrades/skins/armor/halloween2014wings/halloween2014armleftarmor": {
     "value": "Naberus"
@@ -9373,7 +9376,7 @@
     "value": "Значок: Вожак Стаи"
   },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
-    "value": "Ki'Teer Sekhara"
+    "value": "Секара Ки`тиир"
   },
   "/lotus/storeitems/upgrades/skins/clan/baseeventbadgeitem": {
     "value": "Шлем или Сандана"
@@ -10528,7 +10531,7 @@
     "value": "Misa Prime Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/prismarazorscarf": {
-    "value": "Prisma Uru Syandana"
+    "value": "Сандана: Уру Призма"
   },
   "/lotus/storeitems/upgrades/skins/scarves/ps4armscarf": {
     "value": "Yomo Obsidian Syandana"
@@ -10561,7 +10564,7 @@
     "value": "Vaykor Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/wraithturbinesscarf": {
-    "value": "Harkonar Wraith Cloak"
+    "value": "Накидка Харконар Призрак"
   },
   "/lotus/storeitems/upgrades/skins/scarves/turtleneckscarf": {
     "value": "Imperator Syandana"
@@ -10615,7 +10618,7 @@
     "value": "Unda Prime Sentinel Mask"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/masks/prismamechheadmask": {
-    "value": "Prisma Mech Head Sentinel Mask"
+    "value": "Маска Стража: Голова Робота Призма"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/parrotcarrierskin": {
     "value": "Para Carrier"
@@ -10660,7 +10663,7 @@
     "value": "Unda Prime Sentinel Tail"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/tails/prismafishtail": {
-    "value": "Prisma Koi Sentinel Tail"
+    "value": "Хвост Стража: Карп Призма"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/wings/baropetwings": {
     "value": "Крылья стража: Ки'Тиир"
@@ -10723,7 +10726,7 @@
     "value": "Unda Prime Sentinel Wings"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/wings/prismajetwings": {
-    "value": "Prisma Jet Sentinel Wings"
+    "value": "Крылья Стража: Реактивные Призма"
   },
   "/lotus/storeitems/upgrades/skins/sigils/alliancesigilbasic": {
     "value": "Alliance Sigil"
@@ -11170,7 +11173,7 @@
     "value": "Шлем или Сандана"
   },
   "/lotus/storeitems/upgrades/skins/summersolstice/summerignisskin": {
-    "value": "Ignis Towsun Skin"
+    "value": "Скин Игниса: Тосун"
   },
   "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticegorgon": {
     "value": "Скин Горгоны: Тосун"
@@ -11586,11 +11589,14 @@
   "/lotus/storeitems/weapons/grineer/pistols/heatgun/grnheatgun": {
     "value": "Атомос"
   },
+  "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
+    "value": "Парный Коммак"
+  },
   "/lotus/storeitems/weapons/grineer/pistols/voidtraderbrakk/vtbrakk": {
     "value": "Мара Бракк"
   },
   "/lotus/storeitems/weapons/grineer/pistols/wraithsingleviper/wraithsingleviper": {
-    "value": "Viper Wraith"
+    "value": "Гадюка Призрак"
   },
   "/lotus/storeitems/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
     "value": "Парные Гадюки Призрак"
@@ -12382,6 +12388,10 @@
   "/lotus/types/challenges/seasons/daily/seasondailyplayemote": {
     "value": "Expressive",
     "desc": "Play 1 Emote"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyplayminigame": {
+    "value": "В душе ребёнок",
+    "desc": "Сыграйте в игру Frame Fighter, Happy Zephyr или Wyrmius"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "value": "Accelerator",
@@ -13400,6 +13410,12 @@
   },
   "/lotus/types/game/decorations/miningmachineobjective": {
     "value": "Mining Machine Objective"
+  },
+  "/lotus/types/game/enemyspecs/corpusalamgamendless": {
+    "value": "Бесконечные Амальгамы"
+  },
+  "/lotus/types/game/enemyspecs/specialmissionspecs/disruptioncorpusamalgams": {
+    "value": "Сбой Амальгамы"
   },
   "/lotus/types/game/events/orbeventglyphone": {
     "value": "Data-hash 1"
@@ -16759,7 +16775,7 @@
     "value": "Гринлок"
   },
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas": {
-    "value": "Twin Grakatas"
+    "value": "Парные Гракаты"
   },
   "/lotus/weapons/grineer/longguns/grineerflakcannon/flakcannon": {
     "value": "Flak Cannon"
@@ -17492,6 +17508,9 @@
   },
   "/lotus/weapons/tenno/pistol/latovandal": {
     "value": "Лато Вандал"
+  },
+  "/lotus/weapons/tenno/pistol/lotuspistol": {
+    "value": "Только вторичное"
   },
   "/lotus/weapons/tenno/pistol/pistol": {
     "value": "Болто"
