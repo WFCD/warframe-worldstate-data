@@ -36,4 +36,66 @@
       "value": "modified round"
     }
   }
+  "challenges": {
+    "PVPTimedChallengeKillsSecondaryEASY": {
+      "title": "Secondary Target",
+      "description": "Kill 1 enemy with your Secondary Weapon",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsTargetInAirMEDIUM": {
+      "title": "Anti-air Strike",
+      "description": "Kill 4 Airborne enemies",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsMeleeHARD": {
+      "title": "Focused Gladiator",
+      "description": "Get 3 Melee kills in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsPowerHARD": {
+      "title": "Focused Void-Painter",
+      "description": "Get 3 Melee kills in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeFlagCaptureMEDIUM": {
+      "title": "Bandit",
+      "description": "Capture 4 Cephalons",
+      "standing": 1500
+    },
+    "PVPTimedChallengeSpeedballInterceptionsEASY": {
+      "title": "Interception!",
+      "description": "Intercept 3 Passes from opponents",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballChecksMEDIUM": {
+      "title": "Blockade",
+      "description": "Strike opponents carrying the ball 10 times",
+      "standing": 1000
+    },
+    "PVPTimedChallengeMatchCompleteEASY": {
+      "title": "See it Through",
+      "description": "Complete 1 match",
+      "standing": 500
+    },
+    "PVPTimedChallengeWeeklyStandardSet": {
+      "title": "Weekly Mission",
+      "description": "Weekly Mission",
+      "standing": 50000
+    },
+    "PVPTimedChallengeGameModeWins": {
+      "title": "Match Won",
+      "description": "Win 6 matches of any Game Type",
+      "standing": 0
+    },
+    "PVPTimedChallengeGameModeComplete": {
+      "title": "Match Complete",
+      "description": "Complete 20 matches of any Game Type",
+      "standing": 0
+    },
+    "PVPTimedChallengeOtherChallengeCompleteANY": {
+      "title": "Conditioning",
+      "description": "Complete 10 Daily Challenges",
+      "standing": 0
+    },
+  }
 }
