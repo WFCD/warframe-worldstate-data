@@ -35,12 +35,22 @@
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
       "value": "modified round"
     }
-  }
+  },
   "challenges": {
+    "PVPTimedChallengeKillsPrimaryEASY": {
+      "title": "Primary Target",
+      "description": "Kill 1 enemy with your Primary Weapon",
+      "standing": 500
+    },
     "PVPTimedChallengeKillsSecondaryEASY": {
       "title": "Secondary Target",
       "description": "Kill 1 enemy with your Secondary Weapon",
       "standing": 500
+    },
+    "PVPTimedChallengeKillsSecondaryMEDIUM": {
+      "title": "Secondary Target",
+      "description": "Kill 4 enemies with your Secondary Weapon",
+      "standing": 1500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
       "title": "Anti-air Strike",
@@ -52,9 +62,14 @@
       "description": "Get 3 Melee kills in a match",
       "standing": 3000
     },
+    "PVPTimedChallengeKillsPowerEASY": {
+      "title": "Void-Painter",
+      "description": "Get 1 Warframe Ability kills",
+      "standing": 3000
+    },
     "PVPTimedChallengeKillsPowerHARD": {
       "title": "Focused Void-Painter",
-      "description": "Get 3 Melee kills in a match",
+      "description": "Get 3 Warframe Ability kills",
       "standing": 3000
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
@@ -62,10 +77,20 @@
       "description": "Capture 4 Cephalons",
       "standing": 1500
     },
+    "PVPTimedChallengeSpeedballCatchesHARD": {
+      "title": "Focused Heads Up!",
+      "description": "Catch 6 Passes from teammates in a match",
+      "standing": 6000
+    },
     "PVPTimedChallengeSpeedballInterceptionsEASY": {
       "title": "Interception!",
       "description": "Intercept 3 Passes from opponents",
       "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballStealsMEDIUM": {
+      "title": "Snatch and Grab",
+      "description": "Steal the ball 6 times",
+      "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
       "title": "Blockade",
@@ -76,6 +101,11 @@
       "title": "See it Through",
       "description": "Complete 1 match",
       "standing": 500
+    },
+    "PVPTimedChallengeMatchCompleteMEDIUM": {
+      "title": "See it Through",
+      "description": "Complete 4 matches",
+      "standing": 1500
     },
     "PVPTimedChallengeWeeklyStandardSet": {
       "title": "Weekly Mission",
