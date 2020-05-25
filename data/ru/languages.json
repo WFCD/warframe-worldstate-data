@@ -919,7 +919,7 @@
   },
   "/lotus/language/sigils/kelaeventsigilname": {
     "desc": "Сигил празднования освобождения перебежчиков из Гринир.",
-    "value": "Сигил Ратуума"
+    "value": "Сигил: Ратуум"
   },
   "/lotus/levels/proc/corpus/corpusgascitydisruption": {
     "value": "Сбой Газовый Город"
@@ -2638,7 +2638,7 @@
     "value": "Любое"
   },
   "/lotus/storeitems/types/game/quarterswallpapers/barowallpaper": {
-    "value": "Ki'Teer Stencil"
+    "value": "Обои: Ки'Тиир"
   },
   "/lotus/storeitems/types/game/playerflightjetpackitem": {
     "value": "Арчвинг"
@@ -3535,7 +3535,7 @@
     "value": "Согласие"
   },
   "/lotus/storeitems/types/items/emotes/baroemote": {
-    "value": "Харизма Ки'тиир"
+    "value": "Харизма Ки'Тиир"
   },
   "/lotus/storeitems/types/items/emotes/bowemote": {
     "value": "Поклон"
@@ -3961,13 +3961,13 @@
     "value": "Фигурка - Гидроид"
   },
   "/lotus/storeitems/types/items/shipdecos/kavatbust": {
-    "value": "Bronze Kavat Bust"
+    "value": "Бронзовый Бюст - Кават"
   },
   "/lotus/storeitems/types/items/shipdecos/kubrowbust": {
     "value": "Бронзовый Бюст - Кубрау"
   },
   "/lotus/storeitems/types/items/shipdecos/kubrowkavatlowpolyposter": {
-    "value": "Prisma Companion Poster"
+    "value": "Постер: Компаньон Призма"
   },
   "/lotus/storeitems/types/items/shipdecos/lisetpropcleaningdronebaro": {
     "value": "Дрон-Уборщик Ки`Тиир"
@@ -4000,13 +4000,13 @@
     "value": "Дисплей: Аргайл"
   },
   "/lotus/storeitems/types/items/shipdecos/parazonposter": {
-    "value": "Parazon Poster"
+    "value": "Постер: Паразон"
   },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Пьедестал Прайм"
   },
   "/lotus/storeitems/types/items/shipdecos/plushies/plushydesertskate": {
-    "value": "Desert Skate Floof"
+    "value": "Пушистик Пустынный Скат"
   },
   "/lotus/storeitems/types/items/shipdecos/relayhydroidbobblehead": {
     "value": "Noggle Statue - Hydroid Reprise"
@@ -5764,7 +5764,7 @@
     "value": "Глиф Банши \"Реверб\""
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagebarokiteer": {
-    "value": "Baro Ki'Teer Glyph"
+    "value": "Глиф: Баро Ки'Тиир"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagechromaamarubright": {
     "value": "Глиф Хромы \"Амару\""
@@ -6271,10 +6271,10 @@
     "value": "Zephyr Tengu Profile Icon"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/seasonal/avatarimageglyphcookiekavat": {
-    "value": "Cookie Kavat Glyph"
+    "value": "Глиф: Кават-Печенька"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/seasonal/avatarimageglyphcookiekubrow": {
-    "value": "Cookie Kubrow Glyph"
+    "value": "Глиф: Кубрау-Печенька"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/seasonal/halloween2019grendeltreat": {
     "value": "Глиф: В моем животе"
@@ -7132,7 +7132,7 @@
     "value": "Corrupt Charge"
   },
   "/lotus/storeitems/upgrades/mods/melee/dualstat/electeventmeleemod": {
-    "value": "Voltaic Strike"
+    "value": "Гальванический Разряд"
   },
   "/lotus/storeitems/upgrades/mods/melee/dualstat/fireeventmeleemod": {
     "value": "Вулканическая Грань"
@@ -7258,7 +7258,7 @@
     "value": "Shocking Touch"
   },
   "/lotus/storeitems/upgrades/mods/melee/weaponeventmeleeimpactdamagemod": {
-    "value": "Collision Force"
+    "value": "Сбивающий Удар"
   },
   "/lotus/storeitems/upgrades/mods/melee/weaponeventpuncturedamagemod": {
     "value": "Auger Strike"
@@ -7546,7 +7546,7 @@
     "value": "Convulsion"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponeventpistolimpactdamagemod": {
-    "value": "Pummel"
+    "value": "Избиение"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponeventpuncturedamagemod": {
     "value": "Сверло"
@@ -7849,7 +7849,7 @@
     "value": "Vile Precision"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/electeventriflemod": {
-    "value": "High Voltage"
+    "value": "Высокое Напряжение"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/fireeventriflemod": {
     "value": "Термитные Патроны"
@@ -8035,7 +8035,7 @@
     "value": "Piercing Caliber"
   },
   "/lotus/storeitems/upgrades/mods/rifle/weaponeventrifleimpactdamagemod": {
-    "value": "Crash Course"
+    "value": "Ударное Направление"
   },
   "/lotus/storeitems/upgrades/mods/rifle/weaponeventslashdamagemod": {
     "value": "Шквал Клыков"
@@ -8104,7 +8104,7 @@
     "value": "Eagle Eye"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/expert/kubrowpackleaderexpertmod": {
-    "value": "Primed Pack Leader"
+    "value": "Вожак Стаи Прайм"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowclonedfinishermod": {
     "value": "Savagery"
@@ -8248,7 +8248,7 @@
     "value": "Burdened Magazine"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/electeventshotgunmod": {
-    "value": "Shell Shock"
+    "value": "Контузия"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/fireeventshotgunmod": {
     "value": "Разброс Инферно"
@@ -8356,7 +8356,7 @@
     "value": "Breach Loader"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/weaponeventshotgunimpactdamagemod": {
-    "value": "Full Contact"
+    "value": "Полный Контакт"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/weaponeventslashdamagemod": {
     "value": "Sweeping Serration"
@@ -9352,7 +9352,7 @@
     "value": "Desert-camo Vulkar"
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorhalloweena": {
-    "value": "Wysar Day Of The Dead Kavat Armor"
+    "value": "Броня Кавата: Вайсар - День Мертвых"
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorvoidtradera": {
     "value": "Броня Кавата Ки'Тиир"
@@ -9376,7 +9376,7 @@
     "value": "Значок: Вожак Стаи"
   },
   "/lotus/storeitems/upgrades/skins/clan/baroquantumbadgeitem": {
-    "value": "Секара Ки'тиир"
+    "value": "Секара Ки'Тиир"
   },
   "/lotus/storeitems/upgrades/skins/clan/baseeventbadgeitem": {
     "value": "Шлем или Сандана"
@@ -9685,10 +9685,10 @@
     "value": "Скин Парных Зоренов: Клевец"
   },
   "/lotus/storeitems/upgrades/skins/effects/baroephemeraa": {
-    "value": "Эфемера: Ки'тиир"
+    "value": "Эфемера: Ки'Тиир"
   },
   "/lotus/storeitems/upgrades/skins/effects/batsephemera": {
-    "value": "Naberus Ephemera"
+    "value": "Эфемера: Наберус"
   },
   "/lotus/storeitems/upgrades/skins/ember/emberagileanims": {
     "value": "Ember Agile Animation Set"
@@ -10213,7 +10213,7 @@
     "value": "Caggro Sugatra"
   },
   "/lotus/storeitems/upgrades/skins/meleedangles/infestedmeleedangle": {
-    "value": "Coccyst Sugatra"
+    "value": "Сугатра: Кокцист"
   },
   "/lotus/storeitems/upgrades/skins/meleedangles/kazeruprimemeleedangle": {
     "value": "Kazeru Prime Sugatra"
@@ -10546,7 +10546,7 @@
     "value": "Rubedo Plated Yamako Syandana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/solsticebarocape": {
-    "value": "Ki'Teer Solstice Syandana"
+    "value": "Сандана: Ки'Тиир Солнцестояние"
   },
   "/lotus/storeitems/upgrades/skins/scarves/syndicateahscarf": {
     "value": "Telos Syandana"
@@ -10627,7 +10627,7 @@
     "value": "Para Carrier"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/skins/deserttaxonskin": {
-    "value": "Taxon Desert-Camo Skin"
+    "value": "Скин Таксона: Пустынный Камуфляж"
   },
   "/lotus/storeitems/upgrades/skins/sentinels/skins/librarianhelios": {
     "value": "Helios Simaris Skin"
@@ -10735,10 +10735,10 @@
     "value": "Alliance Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/barokavatsigil": {
-    "value": "Glaring Sigil"
+    "value": "Сигил: Блистательность"
   },
   "/lotus/storeitems/upgrades/skins/sigils/barokubrowsigil": {
-    "value": "Сигил \"Вожак Стаи\""
+    "value": "Сигил: Вожак Стаи"
   },
   "/lotus/storeitems/upgrades/skins/sigils/bladeandgunsigil": {
     "value": "Blade And Gun Sigil"
@@ -10804,7 +10804,7 @@
     "value": "Grustrag Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/deathmarksigilstalker": {
-    "value": "Сигил Сталкера"
+    "value": "Сигил: Сталкер"
   },
   "/lotus/storeitems/upgrades/skins/sigils/deathmarksigilzanuka": {
     "value": "Zanuka Sigil"
@@ -10864,13 +10864,13 @@
     "value": "Rhino Palatine Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/orbsigil": {
-    "value": "Сигил \"Погребённые Долги\""
+    "value": "Сигил: Погребённые Долги"
   },
   "/lotus/storeitems/upgrades/skins/sigils/primeaccesssigilfive": {
     "value": "Verlorum Prime Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/primetradersigil": {
-    "value": "Призма Сигил "
+    "value": "Сигил: Призма "
   },
   "/lotus/storeitems/upgrades/skins/sigils/ps4oneyearsigil": {
     "value": "Cycle One Sigil"
@@ -11320,7 +11320,7 @@
     "value": "Excalibur Prisma Skin"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/vthalloweendarksword": {
-    "value": "Dark Sword Day of the Dead Skin"
+    "value": "Скин День Мёртвых: Тёмный Меч"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/vtquanta": {
     "value": "Скин Кванты: Наледь"
@@ -11953,7 +11953,7 @@
     "value": "Gleaming Talon"
   },
   "/lotus/storeitems/weapons/tenno/melee/meleetrees/glaivecmbtwomeleetree": {
-    "value": "Astral Twilight"
+    "value": "Астральный Сумрак"
   },
   "/lotus/storeitems/weapons/tenno/melee/meleetrees/gunbladecmbonemeleetree": {
     "value": "Ровно в Полдень"
@@ -12484,6 +12484,10 @@
     "value": "Now Boarding",
     "desc": "Complete 3 different K-Drive races in Orb Vallis"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
+    "value": "Forward Thinking",
+    "desc": "Destroy a Crewship with Forward Artillery"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
     "desc": "Gild 1 Modular Items"
@@ -12623,6 +12627,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
     "value": "Ascendant",
     "desc": "Complete 4 Halls of Ascension on Lua"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
+    "value": "Elite Explorer",
+    "desc": "Complete 8 Railjack Missions"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",
@@ -16091,7 +16099,7 @@
     "value": "Chroma Dynasty Skin"
   },
   "/lotus/upgrades/skins/effects/footstepseastereggs": {
-    "value": "Spring Step Ephemera"
+    "value": "Эфемера - Весенняя Поступь"
   },
   "/lotus/upgrades/skins/ember/emberalternateskin": {
     "value": "Скин Эмбер \"Бессмертный\""
@@ -16154,136 +16162,139 @@
     "value": "Gara Virago Helmet"
   },
   "/lotus/upgrades/skins/halloween/halloweenaklato": {
-    "value": "Day of the Dead AkLato Skin"
+    "value": "AkLato Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenamprex": {
-    "value": "Day of the Dead Amprex Skin"
+    "value": "Amprex Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenangstrum": {
-    "value": "Day of the Dead Angstrum Skin"
+    "value": "Angstrum Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenarchsword": {
-    "value": "Day of the Dead Veritux Skin"
+    "value": "Veritux Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenboltor": {
-    "value": "Day of the Dead Boltor Skin"
+    "value": "Boltor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenbraton": {
-    "value": "Day of the Dead Braton Skin"
+    "value": "Braton Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenbuzlok": {
-    "value": "Day of the Dead Buzlok Skin"
+    "value": "Buzlok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendaikyu": {
-    "value": "Day of the Dead Daiku Skin Skin"
+    "value": "Daiku Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendarkdagger": {
-    "value": "Day of the Dead Dark Dagger"
+    "value": "Dark Dagger Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendarksplitsword": {
-    "value": "Day of the Dead Dark Split Sword Skin"
+    "value": "Dark Split Sword Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendragonnikana": {
-    "value": "Day of the Dead Dragon Nikana Skin"
+    "value": "Dragon Nikana Day of the Dead Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweendread": {
+    "value": "Dread Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendualzoren": {
-    "value": "Day of the Dead Dual Zoren Skin"
+    "value": "Dual Zoren Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengalatine": {
-    "value": "Day of the Dead Galatine Skin"
+    "value": "Galatine Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenglaive": {
-    "value": "Day of the Dead Glaive Skin"
+    "value": "Glaive Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenglaxion": {
-    "value": "Day of the Dead Glaxion Skin"
+    "value": "Glaxion Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengorgon": {
-    "value": "Day of the Dead Gorgon Skin"
+    "value": "Gorgon Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengrakata": {
-    "value": "Day of the Dead Grakata"
+    "value": "Grakata Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengrinlok": {
-    "value": "Day of the Dead Grinlok Skin"
+    "value": "Grinlok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenimperator": {
-    "value": "Day of the Dead Imperator Skin"
+    "value": "Imperator Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenjatkittag": {
-    "value": "Day of the Dead Jat Kittag Skin"
+    "value": "Jat Kittag Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenkronen": {
-    "value": "Day of the Dead Kronen Skin"
+    "value": "Kronen Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenkunai": {
-    "value": "Day of the Dead Kunai Skin"
+    "value": "Kunai Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenlato": {
-    "value": "Day of the Dead Lato Skin"
+    "value": "Lato Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenmarelok": {
-    "value": "Day of the Dead Marelok Skin"
+    "value": "Marelok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweennikana": {
-    "value": "Day of the Dead Nikana Skin"
+    "value": "Nikana Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweennukor": {
-    "value": "Day of the Dead Nukor Skin"
+    "value": "Nukor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenopticor": {
-    "value": "Day of the Dead Opticor Skin"
+    "value": "Opticor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenorthos": {
-    "value": "Day of the Dead Orthos Skin"
+    "value": "Orthos Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenparis": {
-    "value": "Day of the Dead Paris Skin"
+    "value": "Paris Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenregoraxeshield": {
-    "value": "Day of the Dead Ack & Brunt Skin"
+    "value": "Ack & Brunt Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensarpa": {
-    "value": "Day of the Dead Sarpa"
+    "value": "Sarpa Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenscindo": {
-    "value": "Day of the Dead Scindo Skin"
+    "value": "Scindo Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensilvaandaegis": {
-    "value": "Day of the Dead Silva & Aegis Skin"
+    "value": "Silva & Aegis Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensimulor": {
-    "value": "Day of the Dead Simulor"
+    "value": "Simulor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenskana": {
-    "value": "Day of the Dead Skana Skin"
+    "value": "Skana Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensobek": {
-    "value": "Day of the Dead Sobek Skin"
+    "value": "Sobek Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensoma": {
-    "value": "Day of the Dead Soma Skin"
+    "value": "Soma Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensonicor": {
-    "value": "Day of the Dead Sarpa"
+    "value": "Sarpa Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenspira": {
-    "value": "Day of the Dead Spira Skin"
+    "value": "Spira Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenstradavar": {
-    "value": "Day of the Dead Stradavar"
+    "value": "Stradavar Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentonkor": {
-    "value": "Day of the Dead Tonkor"
+    "value": "Tonkor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentwingrakatas": {
-    "value": "Day of the Dead Twin Grakata Skin"
+    "value": "Twin Grakata Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentwingremlins": {
-    "value": "Day of the Dead Twin Gremlins Skin"
+    "value": "Twin Gremlins Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenvasto": {
-    "value": "Day of the Dead Vasto Skin"
+    "value": "Vasto Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/hammer/solsticeheliocor": {
     "value": "Скин Гелиокора: Солнцестояние"

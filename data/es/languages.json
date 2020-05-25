@@ -12484,6 +12484,10 @@
     "value": "Now Boarding",
     "desc": "Complete 3 different K-Drive races in Orb Vallis"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
+    "value": "Forward Thinking",
+    "desc": "Destroy a Crewship with Forward Artillery"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
     "desc": "Gild 1 Modular Items"
@@ -12623,6 +12627,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
     "value": "Ascendant",
     "desc": "Complete 4 Halls of Ascension on Lua"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
+    "value": "Elite Explorer",
+    "desc": "Complete 8 Railjack Missions"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",
@@ -16154,136 +16162,139 @@
     "value": "Gara Virago Helmet"
   },
   "/lotus/upgrades/skins/halloween/halloweenaklato": {
-    "value": "Diseño de AkLato del día de los muertos"
+    "value": "AkLato Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenamprex": {
-    "value": "Diseño de Amprex del día de los muertos"
+    "value": "Amprex Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenangstrum": {
-    "value": "Diseño de Angstrum del día de los muertos"
+    "value": "Angstrum Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenarchsword": {
-    "value": "Diseño de Veritux del día de los muertos"
+    "value": "Veritux Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenboltor": {
-    "value": "Diseño de Boltor del día de los muertos"
+    "value": "Boltor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenbraton": {
-    "value": "Diseño de Braton del día de los muertos"
+    "value": "Braton Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenbuzlok": {
-    "value": "Diseño de Buzlok del día de los muertos"
+    "value": "Buzlok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendaikyu": {
-    "value": "Diseño de Daikyu del día de los muertos"
+    "value": "Daiku Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendarkdagger": {
-    "value": "Day of the Dead Dark Dagger"
+    "value": "Dark Dagger Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendarksplitsword": {
-    "value": "Day of the Dead Dark Split Sword Skin"
+    "value": "Dark Split Sword Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendragonnikana": {
-    "value": "Diseño de Nikana dragón del día de los muertos"
+    "value": "Dragon Nikana Day of the Dead Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweendread": {
+    "value": "Dread Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendualzoren": {
-    "value": "Diseño de Zoren dobles del día de los muertos"
+    "value": "Dual Zoren Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengalatine": {
-    "value": "Diseño de Galatine del día de los muertos"
+    "value": "Galatine Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenglaive": {
-    "value": "Diseño de Glaive del día de los muertos"
+    "value": "Glaive Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenglaxion": {
-    "value": "Diseño de Glaxion del día de los muertos"
+    "value": "Glaxion Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengorgon": {
-    "value": "Diseño de Gorgon del día de los muertos"
+    "value": "Gorgon Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengrakata": {
-    "value": "Day of the Dead Grakata"
+    "value": "Grakata Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengrinlok": {
-    "value": "Diseño de Grinlok del día de los muertos"
+    "value": "Grinlok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenimperator": {
-    "value": "Diseño de Imperator del día de los muertos"
+    "value": "Imperator Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenjatkittag": {
-    "value": "Diseño de Jat kittag del día de los muertos"
+    "value": "Jat Kittag Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenkronen": {
-    "value": "Diseño de Kronen del día de los muertos"
+    "value": "Kronen Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenkunai": {
-    "value": "Diseño de Kunai del día de los muertos"
+    "value": "Kunai Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenlato": {
-    "value": "Diseño de Lato del día de los muertos"
+    "value": "Lato Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenmarelok": {
-    "value": "Diseño de Marelok del día de los muertos"
+    "value": "Marelok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweennikana": {
-    "value": "Diseño de Nikana del día de los muertos"
+    "value": "Nikana Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweennukor": {
-    "value": "Diseño de Nukor del día de los muertos"
+    "value": "Nukor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenopticor": {
-    "value": "Diseño de Opticor del día de los muertos"
+    "value": "Opticor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenorthos": {
-    "value": "Diseño de Orthos del día de los muertos"
+    "value": "Orthos Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenparis": {
-    "value": "Diseño de París del día de los muertos"
+    "value": "Paris Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenregoraxeshield": {
-    "value": "Diseño de Ack & Brunt del día de los muertos"
+    "value": "Ack & Brunt Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensarpa": {
-    "value": "Day of the Dead Sarpa"
+    "value": "Sarpa Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenscindo": {
-    "value": "Diseño de Scindo del día de los muertos"
+    "value": "Scindo Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensilvaandaegis": {
-    "value": "Diseño de Silva & Aegis del día de los muertos"
+    "value": "Silva & Aegis Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensimulor": {
-    "value": "Day of the Dead Simulor"
+    "value": "Simulor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenskana": {
-    "value": "Diseño de Skana del día de los muertos"
+    "value": "Skana Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensobek": {
-    "value": "Diseño de Sobek del día de los muertos"
+    "value": "Sobek Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensoma": {
-    "value": "Diseño de Soma del día de los muertos"
+    "value": "Soma Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensonicor": {
-    "value": "Day of the Dead Sarpa"
+    "value": "Sarpa Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenspira": {
-    "value": "Diseño de Spira del día de los muertos"
+    "value": "Spira Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenstradavar": {
-    "value": "Day of the Dead Stradavar"
+    "value": "Stradavar Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentonkor": {
-    "value": "Day of the Dead Tonkor"
+    "value": "Tonkor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentwingrakatas": {
-    "value": "Diseño de Grakatas gemelas del día de los muertos"
+    "value": "Twin Grakata Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentwingremlins": {
-    "value": "Diseño de Gremlins gemelas del día de los muertos"
+    "value": "Twin Gremlins Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenvasto": {
-    "value": "Diseño de Vasto del día de los muertos"
+    "value": "Vasto Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/hammer/solsticeheliocor": {
     "value": "Heliocor Solstice Skin"

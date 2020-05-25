@@ -12484,6 +12484,10 @@
     "value": "Now Boarding",
     "desc": "Complete 3 different K-Drive races in Orb Vallis"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
+    "value": "Forward Thinking",
+    "desc": "Destroy a Crewship with Forward Artillery"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
     "desc": "Gild 1 Modular Items"
@@ -12623,6 +12627,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
     "value": "Ascendant",
     "desc": "Complete 4 Halls of Ascension on Lua"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
+    "value": "Elite Explorer",
+    "desc": "Complete 8 Railjack Missions"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",
@@ -16154,136 +16162,139 @@
     "value": "Gara Virago Helmet"
   },
   "/lotus/upgrades/skins/halloween/halloweenaklato": {
-    "value": "죽은 자의 날 아클라토 스킨"
+    "value": "AkLato Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenamprex": {
-    "value": "죽은 자의 날 앰프렉스 스킨"
+    "value": "Amprex Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenangstrum": {
-    "value": "죽은 자의 날 앙스트럼 스킨"
+    "value": "Angstrum Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenarchsword": {
-    "value": "죽은 자의 날 베리턱스 스킨"
+    "value": "Veritux Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenboltor": {
-    "value": "죽은 자의 날 볼터 스킨"
+    "value": "Boltor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenbraton": {
-    "value": "죽은 자의 날 브래튼 스킨"
+    "value": "Braton Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenbuzlok": {
-    "value": "죽은 자의 날 버즐락 스킨"
+    "value": "Buzlok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendaikyu": {
-    "value": "죽은 자의 날 다이큐 스킨"
+    "value": "Daiku Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendarkdagger": {
-    "value": "죽은 자의 날 다크 대거 스킨"
+    "value": "Dark Dagger Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendarksplitsword": {
-    "value": "죽은 자의 날 다크 스플릿 소드 스킨"
+    "value": "Dark Split Sword Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendragonnikana": {
-    "value": "죽은 자의 날 드래곤 니카나 스킨"
+    "value": "Dragon Nikana Day of the Dead Skin"
+  },
+  "/lotus/upgrades/skins/halloween/halloweendread": {
+    "value": "Dread Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendualzoren": {
-    "value": "죽은 자의 날 듀얼 조런 스킨"
+    "value": "Dual Zoren Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengalatine": {
-    "value": "죽은 자의 날 갈라틴 스킨"
+    "value": "Galatine Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenglaive": {
-    "value": "죽은 자의 날 글레이브 스킨"
+    "value": "Glaive Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenglaxion": {
-    "value": "죽은 자의 날 글랙시온 스킨"
+    "value": "Glaxion Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengorgon": {
-    "value": "죽은 자의 날 고르곤 스킨"
+    "value": "Gorgon Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengrakata": {
-    "value": "죽은 자의 날 그라카타 스킨"
+    "value": "Grakata Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweengrinlok": {
-    "value": "죽은 자의 날 그린락 스킨"
+    "value": "Grinlok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenimperator": {
-    "value": "죽은 자의 날 임페라토르 스킨"
+    "value": "Imperator Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenjatkittag": {
-    "value": "죽은 자의 날 젯 키타그 스킨"
+    "value": "Jat Kittag Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenkronen": {
-    "value": "죽은 자의 날 크로넨 스킨"
+    "value": "Kronen Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenkunai": {
-    "value": "죽은 자의 날 쿠나이 스킨"
+    "value": "Kunai Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenlato": {
-    "value": "죽은 자의 날 라토 스킨"
+    "value": "Lato Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenmarelok": {
-    "value": "죽은 자의 날 메어락 스킨"
+    "value": "Marelok Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweennikana": {
-    "value": "죽은 자의 날 니카나 스킨"
+    "value": "Nikana Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweennukor": {
-    "value": "죽은 자의 날 뉴코어 스킨"
+    "value": "Nukor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenopticor": {
-    "value": "죽은 자의 날 옵티코어 스킨"
+    "value": "Opticor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenorthos": {
-    "value": "죽은 자의 날 오르도스 스킨"
+    "value": "Orthos Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenparis": {
-    "value": "죽은 자의 날 패리스 스킨"
+    "value": "Paris Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenregoraxeshield": {
-    "value": "죽은 자의 날 아크 & 브런트 스킨"
+    "value": "Ack & Brunt Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensarpa": {
-    "value": "죽은 자의 날 사르파 스킨"
+    "value": "Sarpa Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenscindo": {
-    "value": "죽은 자의 날 신도 스킨"
+    "value": "Scindo Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensilvaandaegis": {
-    "value": "죽은 자의 날 실바 & 이지스 스킨"
+    "value": "Silva & Aegis Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensimulor": {
-    "value": "죽은 자의 날 시뮬러 스킨"
+    "value": "Simulor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenskana": {
-    "value": "죽은 자의 날 스카나 스킨"
+    "value": "Skana Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensobek": {
-    "value": "죽은 자의 날 소벡 스킨"
+    "value": "Sobek Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensoma": {
-    "value": "죽은 자의 날 소마 스킨"
+    "value": "Soma Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweensonicor": {
-    "value": "죽은 자의 날 사르파 스킨"
+    "value": "Sarpa Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenspira": {
-    "value": "죽은 자의 날 스피라 스킨"
+    "value": "Spira Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenstradavar": {
-    "value": "죽은 자의 날 스트라다바 스킨"
+    "value": "Stradavar Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentonkor": {
-    "value": "죽은 자의 날 톤코어 스킨"
+    "value": "Tonkor Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentwingrakatas": {
-    "value": "죽은 자의 날 트윈 그라카타 스킨"
+    "value": "Twin Grakata Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweentwingremlins": {
-    "value": "죽은 자의 날 트윈 그렘린즈 스킨"
+    "value": "Twin Gremlins Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenvasto": {
-    "value": "죽은 자의 날 바스토 스킨"
+    "value": "Vasto Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/hammer/solsticeheliocor": {
     "value": "헬리오코어 솔스티스 스킨"
