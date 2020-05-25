@@ -12484,6 +12484,10 @@
     "value": "登舰时刻",
     "desc": "在奥布山谷完成3轮不同的K式悬浮板比赛"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
+    "value": "Forward Thinking",
+    "desc": "Destroy a Crewship with Forward Artillery"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "镀金的",
     "desc": "镀金1个模块化物品"
@@ -12623,6 +12627,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
     "value": "上行",
     "desc": "完成月球上的4间晋升大厅"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
+    "value": "Elite Explorer",
+    "desc": "Complete 8 Railjack Missions"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "解开遗物",
@@ -16186,7 +16194,7 @@
   "/lotus/upgrades/skins/halloween/halloweendragonnikana": {
     "value": "Dragon Nikana Day of the Dead Skin"
   },
-  "/Lotus/Upgrades/Skins/Halloween/HalloweenDread": {
+  "/lotus/upgrades/skins/halloween/halloweendread": {
     "value": "Dread Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendualzoren": {
