@@ -52,6 +52,11 @@
       "description": "Kill 4 enemies with your Secondary Weapon",
       "standing": 1500
     },
+    "PVPTimedChallengeKillsWhileSlidingHARD": {
+      "title": "Focused Slide Strike",
+      "description": "Kill 3 enemies while Sliding in a match",
+      "standing": 3000
+    },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
       "title": "Anti-air Strike",
       "description": "Kill 4 Airborne enemies",
@@ -71,6 +76,21 @@
       "title": "Focused Void-Painter",
       "description": "Get 3 Warframe Ability kills",
       "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakDominationEASY": {
+      "title": "Domination",
+      "description": "Kill 1 enemy without them killing you",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsPaybackEASY": {
+      "title": "Revenge",
+      "description": "Kill 1 enemy that have killed you",
+      "standing": 500
+    },
+    "PVPTimedChallengeFlagReturnEASY": {
+      "title": "Liberator",
+      "description": "Return your team's Cephalon 1 time",
+      "standing": 500
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
       "title": "Bandit",
@@ -95,7 +115,17 @@
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
       "title": "Blockade",
       "description": "Strike opponents carrying the ball 10 times",
-      "standing": 1000
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballChecksHARD": {
+      "title": "Focused Blockade",
+      "description": "Strike opponents carrying the ball 6 times in a match",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballPassesMEDIUM": {
+      "title": "Send It!",
+      "description": "Complete 6 Successful Passes to teammates",
+      "standing": 3000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
       "title": "See it Through",
