@@ -12484,6 +12484,10 @@
     "value": "Now Boarding",
     "desc": "Complete 3 different K-Drive races in Orb Vallis"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
+    "value": "Forward Thinking",
+    "desc": "Destroy a Crewship with Forward Artillery"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
     "desc": "Gild 1 Modular Items"
@@ -12623,6 +12627,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
     "value": "Ascendant",
     "desc": "Complete 4 Halls of Ascension on Lua"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
+    "value": "Elite Explorer",
+    "desc": "Complete 8 Railjack Missions"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",
@@ -16186,7 +16194,7 @@
   "/lotus/upgrades/skins/halloween/halloweendragonnikana": {
     "value": "Dragon Nikana Day of the Dead Skin"
   },
-  "/Lotus/Upgrades/Skins/Halloween/HalloweenDread": {
+  "/lotus/upgrades/skins/halloween/halloweendread": {
     "value": "Dread Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendualzoren": {
