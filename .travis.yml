@@ -21,7 +21,8 @@ node_js:
 stages:
   - lint
   - test
-  - release
+  - name: release
+    if: branch = master && type NOT IN (pull_request)
 
 jobs:
   include:
