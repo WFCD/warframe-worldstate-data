@@ -21,19 +21,19 @@
   },
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
-      "value": "week"
+      "value": "Weekly"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
-      "value": "week_root"
+      "value": "Weekly Challenges"
     },
     "PVPChallengeTypeCategory_DAILY": {
-      "value": "day"
+      "value": "Daily"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
-      "value": "day_root"
+      "value": "Daily Challenges"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
-      "value": "modified round"
+      "value": "Modified Round"
     }
   },
   "challenges": {
@@ -60,6 +60,16 @@
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
       "title": "Anti-air Strike",
       "description": "Kill 4 Airborne enemies",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsWhileInAirHARD": {
+      "title": "Focused Air Strike",
+      "description": "Kill 3 enemies while Airborne in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsMeleeMEDIUM": {
+      "title": "Gladiator",
+      "description": "Get 4 Melee kills",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMeleeHARD": {
@@ -107,9 +117,19 @@
       "description": "Intercept 3 Passes from opponents",
       "standing": 1000
     },
+    "PVPTimedChallengeSpeedballStealsEASY": {
+      "title": "Snatch and Grab",
+      "description": "Steal the ball 3 times",
+      "standing": 1000
+    },
     "PVPTimedChallengeSpeedballStealsMEDIUM": {
       "title": "Snatch and Grab",
       "description": "Steal the ball 6 times",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballChecksMEDIUM": {
+      "title": "Blockade",
+      "description": "Strike opponents carrying the ball 10 times",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
