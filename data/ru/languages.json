@@ -6862,16 +6862,16 @@
     "value": "Неиспользованный Артефакт"
   },
   "/lotus/storeitems/upgrades/mods/dualsource/melee/critdamagechargespeedmod": {
-    "value": "Amalgam Organ Shatter"
+    "value": "Крушитель Органов Амальгама"
   },
   "/lotus/storeitems/upgrades/mods/dualsource/rifle/serratedrushmod": {
-    "value": "Amalgam Serration"
+    "value": "Зазубрины Амальгама"
   },
   "/lotus/storeitems/upgrades/mods/dualsource/pistol/multishotdodgemod": {
-    "value": "Amalgam Barrel Diffusion"
+    "value": "Двойной Ствол Амальгама"
   },
   "/lotus/storeitems/upgrades/mods/dualsource/shotgun/shotgunmedicmod": {
-    "value": "Amalgam Shotgun Spazz"
+    "value": "Энергия Дробовика Амальгама"
   },
   "/lotus/storeitems/upgrades/mods/fusers/commonlvl1modfuser": {
     "value": "Ядро Слияния С1"
@@ -12277,8 +12277,8 @@
     "desc": "Scan 25 Objects or Enemies"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
-    "value": "Saver",
-    "desc": "Pick up 15,000 Credits"
+    "value": "Сберегатель",
+    "desc": "Подберите 15,000 кредитов"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
     "value": "Agent",
@@ -12289,8 +12289,8 @@
     "desc": "Deploy an Air Support Charge in a Mission"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
-    "value": "Graffiti",
-    "desc": "Deploy a Glyph while in a mission"
+    "value": "Граффити",
+    "desc": "Разместите глиф во время миссии"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployspecter": {
     "value": "Doppelganger",
@@ -12357,8 +12357,8 @@
     "desc": "Kill 150 Enemies with Toxin Damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithradiation": {
-    "value": "Reactor",
-    "desc": "Kill 150 Enemies with a Radiation Damage"
+    "value": "Реактор",
+    "desc": "Убейте 150 врагов, используя радиационный урон"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithsecondary": {
     "value": "Smaller Is Bigger",
@@ -12421,8 +12421,8 @@
     "desc": "Catch 6 Rare Servofish in the Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
-    "value": "Assassin",
-    "desc": "Complete 3 Assassination missions"
+    "value": "Убийца",
+    "desc": "Завершите 3 миссии \"Убийство\""
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
     "value": "Jailer",
@@ -12465,8 +12465,8 @@
     "desc": "Complete 3 Sabotage missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesortie": {
-    "value": "Sortie Specialist",
-    "desc": "Complete 1 Sorties"
+    "value": "Специалист по Вылазкам",
+    "desc": "Завершите 1 Вылазку"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletespy": {
     "value": "Operative",
@@ -12485,8 +12485,8 @@
     "desc": "Complete 3 different K-Drive races in Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
-    "value": "Forward Thinking",
-    "desc": "Destroy a Crewship with Forward Artillery"
+    "value": "Мышление наперед",
+    "desc": "Уничтожьте Транспортёр, используя только Фронтальную Артиллерию"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
@@ -12521,8 +12521,8 @@
     "desc": "Complete 6 different Perfect Animal Captures in Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
-    "value": "Enhance!",
-    "desc": "Pick up 8 Rare Mods"
+    "value": "Усиление!",
+    "desc": "Подберите 8 редких модов"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
     "value": "Earth Bounty Hunter",
@@ -12553,8 +12553,8 @@
     "desc": "Use Forma 3 times"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
-    "value": "Venus Bounty Hunter",
-    "desc": "Complete 5 different bounties in the Orb Vallis"
+    "value": "Охотник за наживой Венеры",
+    "desc": "Завершите 5 различных Заказов в Долине Сфер"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
     "value": "Night Terror",
@@ -12586,7 +12586,7 @@
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
     "value": "Выживание",
-    "desc": "Complete a Survival mission reaching at least 30 minutes"
+    "desc": "Завершите миссию Выживания, продержавшись как минимум 30 минут"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
     "value": "Day Trader",
@@ -12629,8 +12629,8 @@
     "desc": "Complete 4 Halls of Ascension on Lua"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
-    "value": "Elite Explorer",
-    "desc": "Complete 8 Railjack Missions"
+    "value": "Заслуженный исследователь",
+    "desc": "Завершите 8 миссий Рэйлджека"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",
@@ -13606,7 +13606,7 @@
     "value": "Cull the Enemy"
   },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountylib": {
-    "value": "Weaken the Grineer Foothold"
+    "value": "Ослабьте опорный пункт гринир"
   },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountysab": {
     "value": "Sabotage the Enemy Supply Lines"
@@ -13615,7 +13615,7 @@
     "value": "Capture the Grineer Commander"
   },
   "/lotus/types/gameplay/eidolon/jobs/capturebountycaptwo": {
-    "value": "Spy Catcher"
+    "value": "Поимка шпиона"
   },
   "/lotus/types/gameplay/eidolon/jobs/events/ghoulalertbountyass": {
     "value": "Eliminate A Ghoul Alpha"
@@ -13633,10 +13633,10 @@
     "value": "Чумная Звезда"
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountycache": {
-    "value": "Find the Hidden Artifact"
+    "value": "Найдите спрятанный артефакт"
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountycap": {
-    "value": "Capture the Grineer Agent"
+    "value": "Захватите агента гринир"
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountytheft": {
     "value": "Reclaim the Stolen Artifact"
@@ -13645,7 +13645,7 @@
     "value": "Search and Rescue"
   },
   "/lotus/types/gameplay/eidolon/jobs/sabotagebountysab": {
-    "value": "Sabotage Bounty"
+    "value": "Саботируйте прототип"
   },
   "/lotus/types/gameplay/eidolon/resources/cetuswispitem": {
     "value": "Cetus Wisp"
@@ -13666,7 +13666,7 @@
     "value": "Trash Their Traps"
   },
   "/lotus/types/gameplay/venus/jobs/venuschaosjobexcavation": {
-    "value": "Bury Them"
+    "value": "Погрести их"
   },
   "/lotus/types/gameplay/venus/jobs/venusculljobassassinate": {
     "value": "Network Collapse"
@@ -13684,7 +13684,7 @@
     "value": "Agent Down"
   },
   "/lotus/types/gameplay/venus/jobs/venusinteljobrecovery": {
-    "value": "Proof of Life"
+    "value": "Доказательство жизни"
   },
   "/lotus/types/gameplay/venus/jobs/venusinteljobresource": {
     "value": "Operational Intelligence"
@@ -13693,7 +13693,7 @@
     "value": "Financial Liberation"
   },
   "/lotus/types/gameplay/venus/jobs/venustheftjobambush": {
-    "value": "Software Subterfuge"
+    "value": "Обновление ПО"
   },
   "/lotus/types/gameplay/venus/jobs/venustheftjobexcavation": {
     "value": "Resource Theft"
@@ -13705,13 +13705,13 @@
     "value": "Courier Ambush"
   },
   "/lotus/types/gameplay/venus/jobs/venuschaosjobassassinate": {
-    "value": "Scorched Earth"
+    "value": "Выжженная земля"
   },
   "/lotus/types/gameplay/venus/jobs/venustheftjobresource": {
     "value": "Tax the Taxmen"
   },
   "/lotus/types/gameplay/venus/jobs/venusartifactjobrecovery": {
-    "value": "Blood Relics"
+    "value": "Кровавые реликвии"
   },
   "/lotus/types/gameplay/venus/jobs/venuswetworkjobassassinate": {
     "value": "Served Cold"
@@ -16195,7 +16195,7 @@
     "value": "Dragon Nikana Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweendread": {
-    "value": "Dread Day of the Dead Skin"
+    "value": "Скин День Мёртвых: Страх"
   },
   "/lotus/upgrades/skins/halloween/halloweendualzoren": {
     "value": "Dual Zoren Day of the Dead Skin"
