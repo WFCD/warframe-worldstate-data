@@ -42,6 +42,11 @@
       "description": "Kill 1 enemy with your Primary Weapon",
       "standing": 500
     },
+    "PVPTimedChallengeKillsPrimaryHARD": {
+      "title": "Focused Primary Target",
+      "description": "Kill 3 enemies with your Primary Weapon in a match",
+      "standing": 3000
+    },
     "PVPTimedChallengeKillsSecondaryEASY": {
       "title": "Secondary Target",
       "description": "Kill 1 enemy with your Secondary Weapon",
@@ -56,6 +61,16 @@
       "title": "Focused Slide Strike",
       "description": "Kill 3 enemies while Sliding in a match",
       "standing": 3000
+    },
+    "PVPTimedChallengeKillsMultiMEDIUM": {
+      "title": "Versatility",
+      "description": "Kill 4 opponents using Melee, Guns, and Abilities",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsTargetInAirEASY": {
+      "title": "Anti-air Strike",
+      "description": "Kill 1 Airborne enemies",
+      "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
       "title": "Anti-air Strike",
@@ -80,7 +95,7 @@
     "PVPTimedChallengeKillsPowerEASY": {
       "title": "Void-Painter",
       "description": "Get 1 Warframe Ability kills",
-      "standing": 3000
+      "standing": 500
     },
     "PVPTimedChallengeKillsPowerHARD": {
       "title": "Focused Void-Painter",
@@ -107,6 +122,11 @@
       "description": "Capture 4 Cephalons",
       "standing": 1500
     },
+    "PVPTimedChallengeSpeedballCatchesMEDIUM": {
+      "title": "Heads Up!",
+      "description": "Catch 10 Passes from teammates",
+      "standing": 3000
+    },
     "PVPTimedChallengeSpeedballCatchesHARD": {
       "title": "Focused Heads Up!",
       "description": "Catch 6 Passes from teammates in a match",
@@ -127,10 +147,10 @@
       "description": "Steal the ball 6 times",
       "standing": 3000
     },
-    "PVPTimedChallengeSpeedballChecksMEDIUM": {
+    "PVPTimedChallengeSpeedballChecksEASY": {
       "title": "Blockade",
-      "description": "Strike opponents carrying the ball 10 times",
-      "standing": 3000
+      "description": "Strike opponents carrying the ball 3 times",
+      "standing": 1000
     },
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
       "title": "Blockade",
