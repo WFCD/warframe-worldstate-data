@@ -39,7 +39,7 @@
                 "level": "10-15",
                 "faction": "感染者",
                 "spawn_rate": "100%",
-                "mission": "Hepit (Unconfirmed)",
+                "mission": "Hepit (未确认)",
                 "planet": "虚空",
                 "type": "捕獲"
             }
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "name": "Boiler",
+        "name": "痈裂者",
         "locations": [
             {
                 "last_verified": "2019-01-23",
@@ -141,7 +141,7 @@
                 "faction": "感染者",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Capture",
-                "planet": "Derelict",
+                "planet": "Orokin 遺跡船",
                 "type": "捕獲"
             }
         ]
@@ -279,7 +279,7 @@
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "水星",
-                "type": "Crossfire Sabotage"
+                "type": "多方交战 破坏"
             },
             {
                 "last_verified": "2019-09-01",
@@ -288,7 +288,7 @@
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "水星",
-                "type": "Crossfire Exterminate"
+                "type": "多方交战 歼灭"
             },
             {
                 "last_verified": "2019-06-27",
@@ -539,7 +539,7 @@
                 "faction": "感染者",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Assassination",
-                "planet": "Derelict",
+                "planet": "Orokin 遺跡船",
                 "type": "刺殺"
             }
         ]
@@ -878,7 +878,7 @@
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "水星",
-                "type": "Crossfire Sabotage"
+                "type": "多方交战 破坏"
             },
             {
                 "last_verified": "2018-09-23",
@@ -887,7 +887,7 @@
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "水星",
-                "type": "Crossfire Exterminate"
+                "type": "多方交战 歼灭"
             }
         ]
     },
@@ -940,7 +940,7 @@
                 "level": "30-40",
                 "faction": "Grineer",
                 "spawn_rate": "100%",
-                "mission": "Selkie (Unconfirmed)",
+                "mission": "Selkie (未确认)",
                 "planet": "賽德娜",
                 "type": "生存"
             }
@@ -963,7 +963,7 @@
                 "level": "21-23",
                 "faction": "Corpus",
                 "spawn_rate": "100%",
-                "mission": "Orias (Unconfirmed)",
+                "mission": "Orias (未确认)",
                 "planet": "歐羅巴",
                 "type": "救援"
             }
@@ -987,7 +987,7 @@
                 "faction": "感染者",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Exterminate",
-                "planet": "Derelict",
+                "planet": "Orokin 遺跡船",
                 "type": "殲滅"
             }
         ]
@@ -1057,7 +1057,7 @@
         ]
     },
     {
-        "name": "Seeker / Frontier Seeker",
+        "name": "追踪者 / 前线追踪者",
         "locations": [
             {
                 "last_verified": "2020-03-10",
