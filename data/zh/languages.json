@@ -12284,6 +12284,10 @@
     "value": "特务",
     "desc": "完成一场任务"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
+    "value": "Sidearm",
+    "desc": "Complete a Mission with only a Secondary Weapon equipped"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "天降神兵",
     "desc": "在任务中部署一个空中支援呼叫器"
@@ -12492,6 +12496,10 @@
     "value": "镀金的",
     "desc": "镀金1个模块化物品"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyhijackcrewship": {
+    "value": "Confiscated",
+    "desc": "Hijack a Crewship from the enemy"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
     "value": "重型火炮",
     "desc": "用 Archwing 枪械击杀 500 个敌人"
@@ -12631,6 +12639,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
     "value": "精英探险家",
     "desc": "完成 8 场航道星舰任务"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
+    "value": "Machine Interference",
+    "desc": "Complete a Spy mission with 3 manual console hacks and no alarms"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "解开遗物",
