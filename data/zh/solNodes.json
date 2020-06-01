@@ -1727,7 +1727,7 @@
   "ClanNode0": {
     "value": "Romula (Venus)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "黑暗地帶防禦"
   },
   "ClanNode1": {
     "value": "Malva (Venus)",
@@ -1735,12 +1735,12 @@
     "type": "Dark Sector Survival"
   },
   "ClanNode2": {
-    "value": "Coba (Earth)",
+    "value": "Coba (地球)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "黑暗地帶防禦"
   },
   "ClanNode3": {
-    "value": "Tikal (Earth)",
+    "value": "Tikal (地球)",
     "enemy": "Infested",
     "type": "Dark Sector Excavation"
   },
@@ -1757,7 +1757,7 @@
   "ClanNode6": {
     "value": "Larzac (Europa)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "黑暗地帶防禦"
   },
   "ClanNode7": {
     "value": "Cholistan (Europa)",
@@ -1767,7 +1767,7 @@
   "ClanNode8": {
     "value": "Kadesh (Mars)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "黑暗地帶防禦"
   },
   "ClanNode9": {
     "value": "Wahiba (Mars)",
@@ -1802,55 +1802,55 @@
   "ClanNode15": {
     "value": "Sangeru (Sedna)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "黑暗地帶防禦"
   },
   "ClanNode16": {
-    "value": "Ur (Uranus)",
+    "value": "Ur (天王星)",
     "enemy": "Infested",
     "type": "Dark Sector Disruption"
   },
   "ClanNode17": {
-    "value": "Assur (Uranus)",
+    "value": "Assur (天王星)",
     "enemy": "Infested",
     "type": "Dark Sector Survival"
   },
   "ClanNode18": {
-    "value": "Akkad (Eris)",
+    "value": "Akkad (鬩神星)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "黑暗地帶防禦"
   },
   "ClanNode19": {
-    "value": "Zabala (Eris)",
+    "value": "Zabala (鬩神星)",
     "enemy": "Infested",
     "type": "Dark Sector Survival"
   },
   "ClanNode20": {
-    "value": "Yursa (Neptune)",
+    "value": "Yursa (海王星)",
     "enemy": "Infested",
     "type": "Dark Sector Defection"
   },
   "ClanNode21": {
-    "value": "Kelashin (Neptune)",
+    "value": "Kelashin (海王星)",
     "enemy": "Infested",
     "type": "Dark Sector Survival"
   },
   "ClanNode22": {
-    "value": "Seimeni (Ceres)",
+    "value": "Seimeni (穀神星)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "黑暗地帶防禦"
   },
   "ClanNode23": {
-    "value": "Gabii (Ceres)",
+    "value": "Gabii (穀神星)",
     "enemy": "Infested",
     "type": "Dark Sector Survival"
   },
   "ClanNode24": {
-    "value": "Sechura (Pluto)",
+    "value": "Sechura (冥王星)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "黑暗地帶防禦"
   },
   "ClanNode25": {
-    "value": "Hieracon (Pluto)",
+    "value": "Hieracon (冥王星)",
     "enemy": "Infested",
     "type": "Dark Sector Excavation"
   },
