@@ -12284,6 +12284,10 @@
     "value": "Agent",
     "desc": "Complete a Mission"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
+    "value": "Sidearm",
+    "desc": "Complete a Mission with only a Secondary Weapon equipped"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "Air It Out",
     "desc": "Deploy an Air Support Charge in a Mission"
@@ -12492,6 +12496,10 @@
     "value": "Gilded",
     "desc": "Gild 1 Modular Items"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyhijackcrewship": {
+    "value": "Confiscated",
+    "desc": "Hijack a Crewship from the enemy"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
     "value": "Heavy Ordnance",
     "desc": "Kill 500 enemies with an Archgun"
@@ -12631,6 +12639,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
     "value": "Заслуженный исследователь",
     "desc": "Завершите 8 миссий Рэйлджека"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
+    "value": "Machine Interference",
+    "desc": "Complete a Spy mission with 3 manual console hacks and no alarms"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",
