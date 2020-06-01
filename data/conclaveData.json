@@ -62,6 +62,11 @@
       "description": "Kill 3 enemies while Sliding in a match",
       "standing": 3000
     },
+    "PVPTimedChallengeKillsComboEASY": {
+      "title": "Dexterity",
+      "description": "Kill 1 opponent using two of Melee, Guns, and Abilities",
+      "standing": 500
+    },
     "PVPTimedChallengeKillsMultiMEDIUM": {
       "title": "Versatility",
       "description": "Kill 4 opponents using Melee, Guns, and Abilities",
@@ -69,13 +74,18 @@
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
       "title": "Anti-air Strike",
-      "description": "Kill 1 Airborne enemies",
+      "description": "Kill 1 Airborne enemy",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
       "title": "Anti-air Strike",
       "description": "Kill 4 Airborne enemies",
       "standing": 1500
+    },
+    "PVPTimedChallengeKillsTargetInAirHARD": {
+      "title": "Focused Anti-air Strike",
+      "description": "Kill 3 Airborne enemies in a match",
+      "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
       "title": "Focused Air Strike",
