@@ -21,20 +21,20 @@
   },
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
-      "value": "주간",
-      "description": "Weekly"
+      "value": "week",
+      "description": "주간"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
-      "value": "주간_보상",
-      "description": "Weekly Category"
+      "value": "week_root",
+      "description": "주간_보상"
     },
     "PVPChallengeTypeCategory_DAILY": {
-      "value": "일일",
-      "description": "Daily"
+      "value": "day",
+      "description": "일일"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
-      "value": "일일_보상",
-      "description": "Daily Category"
+      "value": "day_root",
+      "description": "일일_보상"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
       "value": "modified round",
