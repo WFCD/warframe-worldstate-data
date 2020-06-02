@@ -21,16 +21,16 @@
   },
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
-      "value": "settimana",
-      "description": "Weekly"
+      "value": "week",
+      "description": "Settimana"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "week_root",
-      "description": "Weekly Category"
+      "description": "Categoria Settimanale"
     },
     "PVPChallengeTypeCategory_DAILY": {
       "value": "giorno",
-      "description": "Daily"
+      "description": "Giorno"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
       "value": "day_root",
