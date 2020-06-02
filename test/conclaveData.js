@@ -21,6 +21,14 @@ const conclaveDataSchema = {
         value: { type: 'string' },
       },
     },
+    challenges: {
+      type: 'object',
+      properties: {
+        title: { type: 'string' },
+        description: { type: 'string' },
+        standing: { type: 'number' },
+      },
+    },
   },
   type: 'object',
   properties: {
@@ -36,8 +44,14 @@ const conclaveDataSchema = {
         '^PVPChallengeTypeCategory_': { $ref: '#/definitions/category' },
       },
     },
+    challenges: {
+      type: 'object',
+      patternProperties: {
+        '^PVPTimedChallenge': { $ref: '#/definitions/challenges' },
+      },
+    },
   },
-  required: ['modes', 'categories'],
+  required: ['modes', 'categories', 'challenges'],
 };
 
 describe('conclaveData.json', () => {
