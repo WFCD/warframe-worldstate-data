@@ -21,24 +21,24 @@
   },
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
-      "value": "semaine",
-      "description": "Weekly"
+      "value": "week",
+      "description": "Semaine"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
-      "value": "mission de la semaine",
-      "description": "Weekly Category"
+      "value": "week_root",
+      "description": "Mission de la Semaine"
     },
     "PVPChallengeTypeCategory_DAILY": {
-      "value": "jour",
-      "description": "Daily"
+      "value": "day",
+      "description": "Jour"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
-      "value": "défi du jour",
-      "description": "Daily Category"
+      "value": "day_root",
+      "description": "Défi du Jour"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
-      "value": "manche modifier",
-      "description": "Modified Round"
+      "value": "modified round",
+      "description": "Manche Modifier"
     }
   },
   "challenges": {
