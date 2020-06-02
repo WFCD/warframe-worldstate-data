@@ -207,7 +207,7 @@
       "description": "Return your team's Cephalon 1 time",
       "standing": 500
     },
-    "PVPTimedChallengeFlagReturnMEDIUM
+    "PVPTimedChallengeFlagReturnMEDIUM": {
       "title": "Liberator",
       "description": "Return your team's Cephalon 4 times",
       "standing": 1500
@@ -326,6 +326,6 @@
       "title": "Conditioning",
       "description": "Complete 10 Daily Challenges",
       "standing": 0
-    },
+    }
   }
 }
