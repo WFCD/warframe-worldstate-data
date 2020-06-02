@@ -21,19 +21,24 @@
   },
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
-      "value": "Weekly"
+      "value": "week",
+      "description": "Weekly"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
-      "value": "Weekly Challenges"
+      "value": "week_root",
+      "description": "Weekly Category"
     },
     "PVPChallengeTypeCategory_DAILY": {
-      "value": "Daily"
+      "value": "day",
+      "description": "Daily"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
-      "value": "Daily Challenges"
+      "value": "day_root",
+      "description": "Daily Category"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
-      "value": "Modified Round"
+      "value": "modified round",
+      "description": "Modified Round"
     }
   },
   "challenges": {

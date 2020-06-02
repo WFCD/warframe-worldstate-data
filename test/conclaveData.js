@@ -19,6 +19,7 @@ const conclaveDataSchema = {
       type: 'object',
       properties: {
         value: { type: 'string' },
+        description: { type: 'string' },
       },
     },
     challenges: {
