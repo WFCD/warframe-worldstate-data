@@ -25,20 +25,20 @@
       "description": "Weekly"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
-      "value": "Missionen",
+      "value": "week_root",
       "description": "Missionen"
     },
     "PVPChallengeTypeCategory_DAILY": {
-      "value": "Tag",
-      "description": "Daily"
+      "value": "day",
+      "description": "Tag"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
-      "value": "Herausforderungen",
-      "description": "Daily Category"
+      "value": "day_root",
+      "description": "Herausforderungen"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
-      "value": "angepasste Runde",
-      "description": "Modified Round"
+      "value": "modified round",
+      "description": "Angepasste Runde"
     }
   },
   "challenges": {
