@@ -12284,6 +12284,10 @@
     "value": "Agent",
     "desc": "Complete a Mission"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
+    "value": "Handfeuerwaffe",
+    "desc": "Erledige eine Mission nur mit Sekundärwaffe ausgestattet"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "Air It Out",
     "desc": "Deploy an Air Support Charge in a Mission"
@@ -12492,6 +12496,10 @@
     "value": "Gilded",
     "desc": "Gild 1 Modular Items"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyhijackcrewship": {
+    "value": "Konfisziert",
+    "desc": "Entführe ein Crewship vom Feind"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
     "value": "Heavy Ordnance",
     "desc": "Kill 500 enemies with an Archgun"
@@ -12631,6 +12639,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
     "value": "Elite Entdecker",
     "desc": "Schließe 8 Railjack Missionen ab"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
+    "value": "Maschinenstörung",
+    "desc": "Schließe eine Spionagemission mit 3 manuellen Konsolen-Hacks und ohne Alarme auszulösen ab"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",

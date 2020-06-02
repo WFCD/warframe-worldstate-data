@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ancient Disruptor",
+        "name": "远古干扰者",
         "locations": [
             {
                 "last_verified": "2019-02-24",
@@ -32,21 +32,21 @@
         ]
     },
     {
-        "name": "Ancient Healer",
+        "name": "远古治愈者",
         "locations": [
             {
                 "last_verified": "2018-08-22",
                 "level": "10-15",
                 "faction": "感染者",
                 "spawn_rate": "100%",
-                "mission": "Hepit (Unconfirmed)",
-                "planet": "Void",
+                "mission": "Hepit (未确认)",
+                "planet": "虚空",
                 "type": "捕獲"
             }
         ]
     },
     {
-        "name": "Anti MOA [Research]",
+        "name": "逆进恐鸟 [Research]",
         "locations": [
             {
                 "last_verified": "2019-07-01",
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "name": "Arid Eviscerator [Research]",
+        "name": "沙漠开膛者 [Research]",
         "locations": [
             {
                 "last_verified": "2018-04-16",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "name": "Ballista",
+        "name": "弩炮",
         "locations": [
             {
                 "last_verified": "2019-02-15",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "name": "Boiler",
+        "name": "痈裂者",
         "locations": [
             {
                 "last_verified": "2019-01-23",
@@ -141,13 +141,13 @@
                 "faction": "感染者",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Capture",
-                "planet": "Derelict",
+                "planet": "Orokin 遺跡船",
                 "type": "捕獲"
             }
         ]
     },
     {
-        "name": "Bombard",
+        "name": "轰击者",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "name": "Brood Mother",
+        "name": "病变虫母",
         "locations": [
             {
                 "last_verified": "2019-04-16",
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "name": "Butcher",
+        "name": "屠夫",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -270,7 +270,7 @@
         ]
     },
     {
-        "name": "Charger",
+        "name": "疾冲者",
         "locations": [
             {
                 "last_verified": "2019-06-27",
@@ -279,7 +279,7 @@
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "水星",
-                "type": "Crossfire Sabotage"
+                "type": "多方交战 破坏"
             },
             {
                 "last_verified": "2019-09-01",
@@ -288,7 +288,7 @@
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "水星",
-                "type": "Crossfire Exterminate"
+                "type": "多方交战 歼灭"
             },
             {
                 "last_verified": "2019-06-27",
@@ -302,7 +302,7 @@
         ]
     },
     {
-        "name": "Commander",
+        "name": "指挥官",
         "locations": [
             {
                 "last_verified": "2018-05-08",
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "name": "Corrupted Ancient [Research]",
+        "name": "远古堕落者 [Research]",
         "locations": [
             {
                 "last_verified": "2019-02-05",
@@ -324,7 +324,7 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "捕獲"
             },
             {
@@ -333,7 +333,7 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Stribog",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "破壞"
             },
             {
@@ -342,13 +342,13 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Ani",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "生存"
             }
         ]
     },
     {
-        "name": "Corrupted Bombard",
+        "name": "堕落轰击者",
         "locations": [
             {
                 "last_verified": "2019-06-05",
@@ -356,7 +356,7 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Oxomoco",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "殲滅"
             },
             {
@@ -365,13 +365,13 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Marduk",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "破壞"
             }
         ]
     },
     {
-        "name": "Corrupted Butcher",
+        "name": "堕落屠夫",
         "locations": [
             {
                 "last_verified": "2019-01-25",
@@ -379,7 +379,7 @@
                 "faction": "奥罗金",
                 "spawn_rate": "94%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "捕獲"
             },
             {
@@ -388,13 +388,13 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "殲滅"
             }
         ]
     },
     {
-        "name": "Corrupted Crewman",
+        "name": "堕落船员",
         "locations": [
             {
                 "last_verified": "2019-01-28",
@@ -402,7 +402,7 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "殲滅"
             },
             {
@@ -411,13 +411,13 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "捕獲"
             }
         ]
     },
     {
-        "name": "Corrupted Heavy Gunner",
+        "name": "堕落重型机枪手",
         "locations": [
             {
                 "last_verified": "2019-03-23",
@@ -425,7 +425,7 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "捕獲"
             },
             {
@@ -434,7 +434,7 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "殲滅"
             },
             {
@@ -443,13 +443,13 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "捕獲"
             }
         ]
     },
     {
-        "name": "Corrupted Lancer",
+        "name": "堕落枪兵",
         "locations": [
             {
                 "last_verified": "2018-04-15",
@@ -457,7 +457,7 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "捕獲"
             },
             {
@@ -466,13 +466,13 @@
                 "faction": "奥罗金",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "捕獲"
             }
         ]
     },
     {
-        "name": "Corrupted Nullifier",
+        "name": "堕落虚能者",
         "locations": [
             {
                 "last_verified": "2019-08-14",
@@ -480,13 +480,13 @@
                 "faction": "奥罗金",
                 "spawn_rate": "78%",
                 "mission": "Oxomoco",
-                "planet": "Void",
+                "planet": "虚空",
                 "type": "殲滅"
             }
         ]
     },
     {
-        "name": "Crawler",
+        "name": "爬行者",
         "locations": [
             {
                 "last_verified": "2018-04-06",
@@ -538,14 +538,14 @@
                 "level": "25-35",
                 "faction": "感染者",
                 "spawn_rate": "100%",
-                "mission": "Orokin Derelict Assassination",
-                "planet": "Derelict",
+                "mission": "Orokin 遗迹 刺杀",
+                "planet": "Orokin 遺跡船",
                 "type": "刺殺"
             }
         ]
     },
     {
-        "name": "Crewman [Research]",
+        "name": "船员 [Research]",
         "locations": [
             {
                 "last_verified": "2019-08-16",
@@ -559,7 +559,7 @@
         ]
     },
     {
-        "name": "Drahk Master",
+        "name": "爪喀驯兽师",
         "locations": [
             {
                 "last_verified": "2019-01-31",
@@ -582,7 +582,7 @@
         ]
     },
     {
-        "name": "Elite Crewman",
+        "name": "精英船员",
         "locations": [
             {
                 "last_verified": "2019-09-28",
@@ -614,7 +614,7 @@
         ]
     },
     {
-        "name": "Eviscerator",
+        "name": "开膛者",
         "locations": [
             {
                 "last_verified": "2019-01-24",
@@ -655,7 +655,7 @@
         ]
     },
     {
-        "name": "Fusion MOA",
+        "name": "熔岩恐鸟",
         "locations": [
             {
                 "last_verified": "2019-01-29",
@@ -696,7 +696,7 @@
         ]
     },
     {
-        "name": "Guardsman [Research]",
+        "name": "禁卫 [Research]",
         "locations": [
             {
                 "last_verified": "2019-11-23",
@@ -728,7 +728,7 @@
         ]
     },
     {
-        "name": "Heavy Gunner",
+        "name": "重型机枪手",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -769,7 +769,7 @@
         ]
     },
     {
-        "name": "Hellion",
+        "name": "恶徒",
         "locations": [
             {
                 "last_verified": "2019-08-15",
@@ -801,7 +801,7 @@
         ]
     },
     {
-        "name": "Lancer [Research]",
+        "name": "枪兵 [Research]",
         "locations": [
             {
                 "last_verified": "2019-02-14",
@@ -851,7 +851,7 @@
         ]
     },
     {
-        "name": "Leaper",
+        "name": "奔跳者",
         "locations": [
             {
                 "last_verified": "2019-01-13",
@@ -878,7 +878,7 @@
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "水星",
-                "type": "Crossfire Sabotage"
+                "type": "多方交战 破坏"
             },
             {
                 "last_verified": "2018-09-23",
@@ -887,12 +887,12 @@
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "水星",
-                "type": "Crossfire Exterminate"
+                "type": "多方交战 歼灭"
             }
         ]
     },
     {
-        "name": "MOA",
+        "name": "恐鸟",
         "locations": [
             {
                 "last_verified": "2019-04-04",
@@ -924,7 +924,7 @@
         ]
     },
     {
-        "name": "Napalm",
+        "name": "火焰轰击者",
         "locations": [
             {
                 "last_verified": "2019-01-21",
@@ -940,14 +940,14 @@
                 "level": "30-40",
                 "faction": "Grineer",
                 "spawn_rate": "100%",
-                "mission": "Selkie (Unconfirmed)",
+                "mission": "Selkie (未确认)",
                 "planet": "賽德娜",
                 "type": "生存"
             }
         ]
     },
     {
-        "name": "Nullifier Crewman",
+        "name": "虚能船员",
         "locations": [
             {
                 "last_verified": "2019-06-27",
@@ -963,14 +963,14 @@
                 "level": "21-23",
                 "faction": "Corpus",
                 "spawn_rate": "100%",
-                "mission": "Orias (Unconfirmed)",
+                "mission": "Orias (未确认)",
                 "planet": "歐羅巴",
                 "type": "救援"
             }
         ]
     },
     {
-        "name": "Runner [Research]",
+        "name": "狂奔者 [Research]",
         "locations": [
             {
                 "last_verified": "2018-01-06",
@@ -987,7 +987,7 @@
                 "faction": "感染者",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Exterminate",
-                "planet": "Derelict",
+                "planet": "Orokin 遺跡船",
                 "type": "殲滅"
             }
         ]
@@ -1025,7 +1025,7 @@
         ]
     },
     {
-        "name": "Scorpion",
+        "name": "天蝎",
         "locations": [
             {
                 "last_verified": "2019-02-02",
@@ -1057,7 +1057,7 @@
         ]
     },
     {
-        "name": "Seeker / Frontier Seeker",
+        "name": "追踪者 / 前线追踪者",
         "locations": [
             {
                 "last_verified": "2020-03-10",
@@ -1098,7 +1098,7 @@
         ]
     },
     {
-        "name": "Shield Lancer",
+        "name": "盾枪兵",
         "locations": [
             {
                 "last_verified": "2019-01-30",
@@ -1139,7 +1139,7 @@
         ]
     },
     {
-        "name": "Swarm-Mutalist MOA",
+        "name": "异融胞群恐鸟",
         "locations": [
             {
                 "last_verified": "2019-01-19",
@@ -1171,7 +1171,7 @@
         ]
     },
     {
-        "name": "Trooper",
+        "name": "骑兵",
         "locations": [
             {
                 "last_verified": "2019-01-22",
