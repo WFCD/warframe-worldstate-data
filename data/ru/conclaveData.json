@@ -29,16 +29,16 @@
       "description": "Weekly Category"
     },
     "PVPChallengeTypeCategory_DAILY": {
-      "value": "дневное",
-      "description": "Daily"
+      "value": "day",
+      "description": "Дневное"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
-      "value": "дневное испытание",
-      "description": "Daily Category"
+      "value": "day_root",
+      "description": "Дневное испытание"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
-      "value": "измененный раунд",
-      "description": "Modified Round"
+      "value": "modified round",
+      "description": "Измененный раунд"
     }
   },
   "challenges": {
