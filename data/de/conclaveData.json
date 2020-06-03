@@ -22,7 +22,7 @@
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
       "value": "week",
-      "description": "Weekly"
+      "description": "Wöchentlich"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "week_root",
@@ -43,33 +43,33 @@
   },
   "challenges": {
     "PVPTimedChallengeKillsPrimaryEASY": {
-      "title": "Primary Target",
-      "description": "Kill 1 enemy with your Primary Weapon",
+      "title": "Primärziel",
+      "description": "Töte 1 Gegner mit deiner primären Waffe",
       "standing": 500
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
-      "title": "Primary Target",
-      "description": "Kill 4 enemies with your Primary Weapon",
+      "title": "Primärziel",
+      "description": "Töte 4 Gegner mit deiner primären Waffe",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
       "title": "Focused Primary Target",
-      "description": "Kill 3 enemies with your Primary Weapon in a match",
+      "description": "Töte 3 Gegner mit deiner primären Waffe",
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
-      "title": "Secondary Target",
-      "description": "Kill 1 enemy with your Secondary Weapon",
+      "title": "Sekundärziel",
+      "description": "Töte 1 Gegner mit deiner sekundären Waffe",
       "standing": 500
     },
     "PVPTimedChallengeKillsSecondaryMEDIUM": {
-      "title": "Secondary Target",
-      "description": "Kill 4 enemies with your Secondary Weapon",
+      "title": "Sekundärziel",
+      "description": "Töte 4 Gegner mit deiner sekundären Waffe",
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
       "title": "Focused Secondary Target",
-      "description": "Kill 3 enemies with your Secondary Weapon in a match",
+      "description": "Töte 3 Gegner mit deiner sekundären Waffe",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileSlidingEASY": {
@@ -88,12 +88,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsComboEASY": {
-      "title": "Dexterity",
+      "title": "Geschicklichkeit",
       "description": "Kill 1 opponent using two of Melee, Guns, and Abilities",
       "standing": 500
     },
     "PVPTimedChallengeKillsComboMEDIUM": {
-      "title": "Dexterity",
+      "title": "Geschicklichkeit",
       "description": "Kill 4 opponents using two of Melee, Guns, and Abilities",
       "standing": 1500
     },
@@ -103,12 +103,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsMultiEASY": {
-      "title": "Versatility",
+      "title": "Vielseitigkeit",
       "description": "Kill 1 opponent using Melee, Guns, and Abilities",
       "standing": 500
     },
     "PVPTimedChallengeKillsMultiMEDIUM": {
-      "title": "Versatility",
+      "title": "Vielseitigkeit",
       "description": "Kill 4 opponents using Melee, Guns, and Abilities",
       "standing": 1500
     },
