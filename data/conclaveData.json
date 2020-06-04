@@ -117,6 +117,36 @@
       "description": "Kill 3 opponents using Melee, Guns, and Abilities in a match",
       "standing": 3000
     },
+    "PVPTimedChallengeKillsStreakEASY": {
+      "title": "Kill Streak",
+      "description": "Go on 1 Kill Streak",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakHARD": {
+      "title": "Kill Streak",
+      "description": "Go on 3 Kill Streaks",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakHARD": {
+      "title": "Focused Kill Streak",
+      "description": "Go on 2 Kill Streaks in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakStoppedEASY": {
+      "title": "Streak Stopped",
+      "description": "Kill 1 enemy on a Kill Streak",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakStoppedEASY": {
+      "title": "Streak Stopped",
+      "description": "Kill 3 enemies on a Kill Streak",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakStoppedEASY": {
+      "title": "Focused Streak Stopped",
+      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "standing": 3000
+    },
     "PVPTimedChallengeKillsTargetInAirEASY": {
       "title": "Anti-air Strike",
       "description": "Kill 1 Airborne enemy",
@@ -175,6 +205,21 @@
     "PVPTimedChallengeKillsPowerHARD": {
       "title": "Focused Void-Painter",
       "description": "Get 3 Warframe Ability kills in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsHeadShotsEASY": {
+      "title": "Shootist",
+      "description": "Get 1 Headshot kill",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsHeadShotsMEDIUM": {
+      "title": "Shootist",
+      "description": "Get 4 Headshot kills",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsHeadShotsHARD": {
+      "title": "Focused Shootist",
+      "description": "Get 3 Headshot kills in a match",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
