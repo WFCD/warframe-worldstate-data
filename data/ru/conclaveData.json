@@ -58,13 +58,13 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
-      "title": "Secondary Target",
-      "description": "Kill 1 enemy with your Secondary Weapon",
+      "title": "Вторичная Цель",
+      "description": "Убейте 1 оппонента, используя вторичное оружие",
       "standing": 500
     },
     "PVPTimedChallengeKillsSecondaryMEDIUM": {
-      "title": "Secondary Target",
-      "description": "Kill 4 enemies with your Secondary Weapon",
+      "title": "Вторичная Цель",
+      "description": "Убейте 4 оппонентов, используя вторичное оружие",
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
@@ -73,12 +73,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileSlidingEASY": {
-      "title": "Slide Strike",
-      "description": "Kill 1 enemy while Sliding",
+      "title": "Удар в скольжении",
+      "description": "Убейте 1 оппонента, находясь в скольжении",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileSlidingMEDIUM": {
-      "title": "Slide Strike",
+      "title": "Удар в скольжении",
       "description": "Убейте 4 оппонентов, находясь в скольжении",
       "standing": 1500
     },
@@ -173,12 +173,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
-      "title": "Void-Painter",
-      "description": "Get 1 Warframe Ability kills",
+      "title": "Художник Бездны",
+      "description": "Совершите 1 убийство Способностями",
       "standing": 500
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
-      "title": "Void-Painter",
+      "title": "Художник Бездны",
       "description": "Совершите 4 убийства Способностями",
       "standing": 1500
     },
@@ -249,7 +249,7 @@
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
       "title": "Внимание!",
-      "description": "Поймайте 10 передачи от союзников",
+      "description": "Поймайте 10 передач от союзников",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballCatchesHARD": {
