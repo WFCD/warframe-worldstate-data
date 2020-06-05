@@ -148,7 +148,7 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
-      "title": "Air Strike",
+      "title": "Воздушный Удар",
       "description": "Убейте 1 оппонента, находясь в воздухе",
       "standing": 500
     },
@@ -179,7 +179,7 @@
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
       "title": "Void-Painter",
-      "description": "Get 4 Warframe Ability kills",
+      "description": "Совершите 4 убийства Способностями",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPowerHARD": {
@@ -233,23 +233,23 @@
       "standing": 1500
     },
     "PVPTimedChallengeFlagCaptureEASY": {
-      "title": "Bandit",
-      "description": "Capture 1 Cephalon",
+      "title": "Бандит",
+      "description": "Захватите 1 Цефалон",
       "standing": 500
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
-      "title": "Bandit",
+      "title": "Бандит",
       "description": "Захватите 4 Цефалонов",
       "standing": 1500
     },
     "PVPTimedChallengeSpeedballCatchesEASY": {
-      "title": "Heads Up!",
+      "title": "Внимание!",
       "description": "Поймайте 3 передачи от союзников",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
-      "title": "Heads Up!",
-      "description": "Catch 10 Passes from teammates",
+      "title": "Внимание!",
+      "description": "Поймайте 10 передачи от союзников",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballCatchesHARD": {
@@ -258,13 +258,13 @@
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballInterceptionsEASY": {
-      "title": "Interception!",
-      "description": "Intercept 3 Passes from opponents",
+      "title": "Перехват!",
+      "description": "Перехватите 3 передачи оппонентов",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
-      "title": "Interception!",
-      "description": "Перехватите 3 передачи оппонентов",
+      "title": "Перехват!",
+      "description": "Перехватите 6 передач оппонентов",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballInterceptionsHARD": {
@@ -313,13 +313,13 @@
       "standing": 6000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
-      "title": "See it Through",
+      "title": "Видеть Насквозь",
       "description": "Завершите 1 матч",
       "standing": 500
     },
     "PVPTimedChallengeMatchCompleteMEDIUM": {
-      "title": "See it Through",
-      "description": "Complete 4 matches",
+      "title": "Видеть Насквозь",
+      "description": "Завершите 4 матча",
       "standing": 1500
     },
     "PVPTimedChallengeWeeklyStandardSet": {
