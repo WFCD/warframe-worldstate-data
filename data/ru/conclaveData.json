@@ -68,8 +68,8 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
-      "title": "Focused Secondary Target",
-      "description": "Kill 3 enemies with your Secondary Weapon in a match",
+      "title": "Идеальная Вторичная Цель",
+      "description": "Убейте 3 оппонентов, используя вторичное оружие, за один матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileSlidingEASY": {
@@ -79,7 +79,7 @@
     },
     "PVPTimedChallengeKillsWhileSlidingMEDIUM": {
       "title": "Slide Strike",
-      "description": "Kill 4 enemies while Sliding",
+      "description": "Убейте 4 оппонентов, находясь в скольжении",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileSlidingHARD": {
@@ -149,7 +149,7 @@
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
       "title": "Air Strike",
-      "description": "Kill 1 enemy while Airborne",
+      "description": "Убейте 1 оппонента, находясь в воздухе",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
@@ -239,12 +239,12 @@
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
       "title": "Bandit",
-      "description": "Capture 4 Cephalons",
+      "description": "Захватите 4 Цефалонов",
       "standing": 1500
     },
     "PVPTimedChallengeSpeedballCatchesEASY": {
       "title": "Heads Up!",
-      "description": "Catch 3 Passes from teammates",
+      "description": "Поймайте 3 передачи от союзников",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
@@ -264,7 +264,7 @@
     },
     "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
       "title": "Interception!",
-      "description": "Intercept 6 Passes from opponents",
+      "description": "Перехватите 3 передачи оппонентов",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballInterceptionsHARD": {
@@ -314,7 +314,7 @@
     },
     "PVPTimedChallengeMatchCompleteEASY": {
       "title": "See it Through",
-      "description": "Complete 1 match",
+      "description": "Завершите 1 матч",
       "standing": 500
     },
     "PVPTimedChallengeMatchCompleteMEDIUM": {
@@ -328,17 +328,17 @@
       "standing": 50000
     },
     "PVPTimedChallengeGameModeWins": {
-      "title": "Match Won",
+      "title": "Матч выигран",
       "description": "Выиграйте 6 матчей в любом игровом режиме",
       "standing": 0
     },
     "PVPTimedChallengeGameModeComplete": {
-      "title": "Match Complete",
+      "title": "Матч сыгран",
       "description": "Завершите 20 матчей в любом игровом режиме",
       "standing": 0
     },
     "PVPTimedChallengeOtherChallengeCompleteANY": {
-      "title": "Conditioning",
+      "title": "В хорошей форме",
       "description": "Завершите 10 ежедневных Испытаний",
       "standing": 0
     }
