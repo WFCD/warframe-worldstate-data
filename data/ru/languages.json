@@ -3910,7 +3910,7 @@
     "value": "Фигурка - Эмбер"
   },
   "/lotus/storeitems/types/items/shipdecos/excaliburarchwingbobblehead": {
-    "value": "Noggle Statue - Excalibur With Odonata"
+    "value": "Фигурка: Экскалибур с Одонатой"
   },
   "/lotus/storeitems/types/items/shipdecos/excaliburbobblehead": {
     "value": "Фигурка - Экскалибур"
@@ -12313,8 +12313,8 @@
     "desc": "Kill 150 Enemies with Abilities"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
-    "value": "Detonator",
-    "desc": "Kill 150 Enemies with Blast Damage"
+    "value": "Детонатор",
+    "desc": "Убейте 150 врагов, используя взрывной урон"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithcorrosive": {
     "value": "Meltdown",
@@ -12433,8 +12433,8 @@
     "desc": "Complete 3 Capture missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
-    "value": "Good Friend",
-    "desc": "Help Clem with his weekly mission"
+    "value": "Надёжный друг",
+    "desc": "Помогите Клему в его еженедельной миссии"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletedisruptionconduits": {
     "value": "Don't Blow It",
@@ -12445,8 +12445,8 @@
     "desc": "Complete 3 Exterminate missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
-    "value": "Invader",
-    "desc": "Complete 9 Invasion missions of any type"
+    "value": "Оккупант",
+    "desc": "Завершите 9 миссий вторжения"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletekuva": {
     "value": "Don't Fear The Reaper",
@@ -12509,8 +12509,8 @@
     "desc": "Kill 500 Enemies"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
-    "value": "Eximus Eliminator",
-    "desc": "Kill 30 Eximus"
+    "value": "Устранитель эксимусов",
+    "desc": "Убейте 30 эксимусов"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillthumper": {
     "value": "Tusk Thumpin",
@@ -12541,12 +12541,12 @@
     "desc": "Find all caches in 3 Sabotage missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
-    "value": "Test Subject",
-    "desc": "Complete 8 waves of Sanctuary Onslaught"
+    "value": "Испытуемый объект",
+    "desc": "Завершите 8 зон Резни в Святилище"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
-    "value": "Sanctuary Researcher",
-    "desc": "Complete 5 Scans for Cephalon Simaris"
+    "value": "Исследователь Святилища",
+    "desc": "Завершите 5 сканирований для Цефалона Симэриса"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
     "value": "Vault Looter",
@@ -12589,8 +12589,8 @@
     "desc": "Complete a Defense mission reaching at least Wave 20"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
-    "value": "Profit-Taker",
-    "desc": "Kill Profit-Taker"
+    "value": "Извлекатель Прибыли",
+    "desc": "Уничтожьте Извлекателя Прибыли"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
     "value": "Выживание",
@@ -12641,8 +12641,8 @@
     "desc": "Завершите 8 миссий Рэйлджека"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
-    "value": "Machine Interference",
-    "desc": "Complete a Spy mission with 3 manual console hacks and no alarms"
+    "value": "Аппаратные Помехи",
+    "desc": "Завершите миссию Шпионажа, вручную взломав 3 консоли без сигналов тревоги"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",
@@ -13612,7 +13612,7 @@
     "value": "Capture the New Grineer Commander"
   },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountycap": {
-    "value": "Capture Their Leader"
+    "value": "Захватите их лидера"
   },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountyext": {
     "value": "Cull the Enemy"
@@ -13621,10 +13621,10 @@
     "value": "Ослабьте опорный пункт гринир"
   },
   "/lotus/types/gameplay/eidolon/jobs/attritionbountysab": {
-    "value": "Sabotage the Enemy Supply Lines"
+    "value": "Саботируйте линии поставок припасов Гринир"
   },
   "/lotus/types/gameplay/eidolon/jobs/capturebountycapone": {
-    "value": "Capture the Grineer Commander"
+    "value": "Захватите командира Гринир"
   },
   "/lotus/types/gameplay/eidolon/jobs/capturebountycaptwo": {
     "value": "Поимка шпиона"
@@ -13651,7 +13651,7 @@
     "value": "Захватите агента гринир"
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountytheft": {
-    "value": "Reclaim the Stolen Artifact"
+    "value": "Верните украденный артефакт"
   },
   "/lotus/types/gameplay/eidolon/jobs/rescuebountyresc": {
     "value": "Search and Rescue"
@@ -13663,28 +13663,28 @@
     "value": "Cetus Wisp"
   },
   "/lotus/types/gameplay/venus/jobs/venushelpingjobcaches": {
-    "value": "Seems Legit"
+    "value": "Ништяк доски"
   },
   "/lotus/types/gameplay/venus/jobs/venushelpingjobresource": {
     "value": "Dirt Unit"
   },
   "/lotus/types/gameplay/venus/jobs/venushelpingjobspy": {
-    "value": "Dog Boards"
+    "value": "Вроде законно"
   },
   "/lotus/types/gameplay/venus/jobs/venuspreservationjobrecovery": {
     "value": "Protect the Innocent"
   },
   "/lotus/types/gameplay/venus/jobs/venuspreservationjobresource": {
-    "value": "Trash Their Traps"
+    "value": "На мусор их ловушки"
   },
   "/lotus/types/gameplay/venus/jobs/venuschaosjobexcavation": {
     "value": "Погрести их"
   },
   "/lotus/types/gameplay/venus/jobs/venusculljobassassinate": {
-    "value": "Network Collapse"
+    "value": "Коллапс сети"
   },
   "/lotus/types/gameplay/venus/jobs/venusculljobexterminate": {
-    "value": "Hunter-Killer"
+    "value": "Охотник-убийца"
   },
   "/lotus/types/gameplay/venus/jobs/venusculljobresource": {
     "value": "Distract and Divert"
@@ -13726,10 +13726,10 @@
     "value": "Кровавые реликвии"
   },
   "/lotus/types/gameplay/venus/jobs/venuswetworkjobassassinate": {
-    "value": "Served Cold"
+    "value": "Холодный приём"
   },
   "/lotus/types/gameplay/venus/jobs/venuswetworkjobspy": {
-    "value": "Falling Star"
+    "value": "Падающая звезда"
   },
   "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablearewards": {
     "value": "1500 Credit Cache, 50 Endo, Mytocardia Spore x5, Oxium x100, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"

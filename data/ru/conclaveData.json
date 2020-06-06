@@ -58,28 +58,28 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
-      "title": "Secondary Target",
-      "description": "Kill 1 enemy with your Secondary Weapon",
+      "title": "Вторичная Цель",
+      "description": "Убейте 1 оппонента, используя вторичное оружие",
       "standing": 500
     },
     "PVPTimedChallengeKillsSecondaryMEDIUM": {
-      "title": "Secondary Target",
-      "description": "Kill 4 enemies with your Secondary Weapon",
+      "title": "Вторичная Цель",
+      "description": "Убейте 4 оппонентов, используя вторичное оружие",
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
-      "title": "Focused Secondary Target",
-      "description": "Kill 3 enemies with your Secondary Weapon in a match",
+      "title": "Идеальная Вторичная Цель",
+      "description": "Убейте 3 оппонентов, используя вторичное оружие, за один матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileSlidingEASY": {
-      "title": "Slide Strike",
-      "description": "Kill 1 enemy while Sliding",
+      "title": "Удар в скольжении",
+      "description": "Убейте 1 оппонента, находясь в скольжении",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileSlidingMEDIUM": {
-      "title": "Slide Strike",
-      "description": "Kill 4 enemies while Sliding",
+      "title": "Удар в скольжении",
+      "description": "Убейте 4 оппонентов, находясь в скольжении",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileSlidingHARD": {
@@ -148,8 +148,8 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
-      "title": "Air Strike",
-      "description": "Kill 1 enemy while Airborne",
+      "title": "Воздушный Удар",
+      "description": "Убейте 1 оппонента, находясь в воздухе",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
@@ -173,13 +173,13 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
-      "title": "Void-Painter",
-      "description": "Get 1 Warframe Ability kills",
+      "title": "Художник Бездны",
+      "description": "Совершите 1 убийство Способностями",
       "standing": 500
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
-      "title": "Void-Painter",
-      "description": "Get 4 Warframe Ability kills",
+      "title": "Художник Бездны",
+      "description": "Совершите 4 убийства Способностями",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPowerHARD": {
@@ -233,23 +233,23 @@
       "standing": 1500
     },
     "PVPTimedChallengeFlagCaptureEASY": {
-      "title": "Bandit",
-      "description": "Capture 1 Cephalon",
+      "title": "Бандит",
+      "description": "Захватите 1 Цефалон",
       "standing": 500
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
-      "title": "Bandit",
-      "description": "Capture 4 Cephalons",
+      "title": "Бандит",
+      "description": "Захватите 4 Цефалонов",
       "standing": 1500
     },
     "PVPTimedChallengeSpeedballCatchesEASY": {
-      "title": "Heads Up!",
-      "description": "Catch 3 Passes from teammates",
+      "title": "Внимание!",
+      "description": "Поймайте 3 передачи от союзников",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
-      "title": "Heads Up!",
-      "description": "Catch 10 Passes from teammates",
+      "title": "Внимание!",
+      "description": "Поймайте 10 передач от союзников",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballCatchesHARD": {
@@ -258,13 +258,13 @@
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballInterceptionsEASY": {
-      "title": "Interception!",
-      "description": "Intercept 3 Passes from opponents",
+      "title": "Перехват!",
+      "description": "Перехватите 3 передачи оппонентов",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
-      "title": "Interception!",
-      "description": "Intercept 6 Passes from opponents",
+      "title": "Перехват!",
+      "description": "Перехватите 6 передач оппонентов",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballInterceptionsHARD": {
@@ -313,13 +313,13 @@
       "standing": 6000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
-      "title": "See it Through",
-      "description": "Complete 1 match",
+      "title": "Видеть Насквозь",
+      "description": "Завершите 1 матч",
       "standing": 500
     },
     "PVPTimedChallengeMatchCompleteMEDIUM": {
-      "title": "See it Through",
-      "description": "Complete 4 matches",
+      "title": "Видеть Насквозь",
+      "description": "Завершите 4 матча",
       "standing": 1500
     },
     "PVPTimedChallengeWeeklyStandardSet": {
@@ -328,18 +328,18 @@
       "standing": 50000
     },
     "PVPTimedChallengeGameModeWins": {
-      "title": "Match Won",
-      "description": "Win 6 matches of any Game Type",
+      "title": "Матч выигран",
+      "description": "Выиграйте 6 матчей в любом игровом режиме",
       "standing": 0
     },
     "PVPTimedChallengeGameModeComplete": {
-      "title": "Match Complete",
-      "description": "Complete 20 matches of any Game Type",
+      "title": "Матч сыгран",
+      "description": "Завершите 20 матчей в любом игровом режиме",
       "standing": 0
     },
     "PVPTimedChallengeOtherChallengeCompleteANY": {
-      "title": "Conditioning",
-      "description": "Complete 10 Daily Challenges",
+      "title": "В хорошей форме",
+      "description": "Завершите 10 ежедневных Испытаний",
       "standing": 0
     }
   }
