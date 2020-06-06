@@ -379,7 +379,12 @@
     },
     "PVPTimedAffectorSuperEnergy": {
       "title": "Energy Surge",
-      "description": "Energy Surge - Mode Affector",
+      "description": "Energy Surge - Regain energy at a faster pace",
+      "standing": 0
+    },
+    "PVPTimedAffectorSuperMeleeDamage": {
+      "title": "Extra Melee Damage",
+      "description": "Extra Melee Damage - Melee Damage is increased",
       "standing": 0
     }
   }
