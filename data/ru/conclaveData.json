@@ -118,13 +118,13 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakEASY": {
-      "title": "Kill Streak",
-      "description": "Go on 1 Kill Streak",
+      "title": "Серия Убийств",
+      "description": "Совершите 1 серию убийств",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakHARD": {
-      "title": "Focused Kill Streak",
-      "description": "Go on 2 Kill Streaks in a match",
+      "title": "Идеальная Серия Убийств",
+      "description": "Совершите 2 серии убийств за один матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
@@ -158,18 +158,18 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
-      "title": "Gladiator",
-      "description": "Get 1 Melee kill",
+      "title": "Гладиатор",
+      "description": "Совершите 1 убийство оружием ближнего боя",
       "standing": 500
     },
     "PVPTimedChallengeKillsMeleeMEDIUM": {
-      "title": "Gladiator",
-      "description": "Get 4 Melee kills",
+      "title": "Гладиатор",
+      "description": "Совершите 4 убийства оружием ближнего боя",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMeleeHARD": {
-      "title": "Focused Gladiator",
-      "description": "Get 3 Melee kills in a match",
+      "title": "Идеальный Гладиатор",
+      "description": "Совершите 3 убийства оружием ближнего боя за один матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
