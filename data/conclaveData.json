@@ -391,6 +391,11 @@
       "title": "Extra Melee Damage",
       "description": "Extra Melee Damage - Melee Damage is increased",
       "standing": 0
+    },
+    "PVPTimedAffectorSuperEverything": {
+      "title": "Extra Damage",
+      "description": "Extra Damage - All damage is increased",
+      "standing": 0
     }
   }
 }
