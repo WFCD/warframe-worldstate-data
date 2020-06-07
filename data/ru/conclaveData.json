@@ -134,7 +134,7 @@
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
       "title": "Anti-air Strike",
-      "description": "Kill 1 Airborne enemy",
+      "description": "Убейте 1 оппонента, находящегося в воздухе",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
@@ -253,8 +253,8 @@
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballCatchesHARD": {
-      "title": "Focused Heads Up!",
-      "description": "Catch 6 Passes from teammates in a match",
+      "title": "Идеальное Внимание!",
+      "description": "Поймайте 6 передач от союзников за один матч",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballInterceptionsEASY": {
@@ -273,13 +273,13 @@
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballStealsEASY": {
-      "title": "Snatch and Grab",
-      "description": "Steal the ball 3 times",
+      "title": "Хватай и держи",
+      "description": "Завладейте мячом 3 раза",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballStealsMEDIUM": {
-      "title": "Snatch and Grab",
-      "description": "Steal the ball 6 times",
+      "title": "Хватай и держи",
+      "description": "Завладейте мячом 6 раз",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballStealsHARD": {
