@@ -43,12 +43,12 @@
   },
   "challenges": {
     "PVPTimedChallengeKillsPrimaryEASY": {
-      "title": "Primary Target",
-      "description": "Kill 1 enemy with your Primary Weapon",
+      "title": "Основная Цель",
+      "description": "Убейте 1 оппонента, используя основное оружие",
       "standing": 500
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
-      "title": "Primary Target",
+      "title": "Основная Цель",
       "description": "Kill 4 enemies with your Primary Weapon",
       "standing": 1500
     },
@@ -83,8 +83,8 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileSlidingHARD": {
-      "title": "Focused Slide Strike",
-      "description": "Kill 3 enemies while Sliding in a match",
+      "title": "Идеальный Удар в скольжении",
+      "description": "Убейте 3 оппонентов, находясь в скольжении, за один матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsComboEASY": {
@@ -188,12 +188,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsHeadShotsEASY": {
-      "title": "Shootist",
-      "description": "Get 1 Headshot kill",
+      "title": "Стрелок",
+      "description": "Совершите 1 убийство попаданием в голову",
       "standing": 500
     },
     "PVPTimedChallengeKillsHeadShotsMEDIUM": {
-      "title": "Shootist",
+      "title": "Стрелок",
       "description": "Get 4 Headshot kills",
       "standing": 1500
     },
@@ -298,8 +298,8 @@
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksHARD": {
-      "title": "Focused Blockade",
-      "description": "Strike opponents carrying the ball 6 times in a match",
+      "title": "Идеальная Блокада",
+      "description": "Блокировать 6 раз оппонентов с мячом, за один матч",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballPassesMEDIUM": {
