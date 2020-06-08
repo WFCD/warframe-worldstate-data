@@ -30,6 +30,13 @@ const conclaveDataSchema = {
         standing: { type: 'number' },
       },
     },
+    affectors: {
+      type: 'object',
+      properties: {
+        title: { type: 'string' },
+        description: { type: 'string' }
+      },
+    },
   },
   type: 'object',
   properties: {
@@ -49,6 +56,12 @@ const conclaveDataSchema = {
       type: 'object',
       patternProperties: {
         '^PVPTimedChallenge': { $ref: '#/definitions/challenges' },
+      },
+    },
+    affectors: {
+      type: 'object',
+      patternProperties: {
+        '^PVPTimedAffector': { $ref: '#/definitions/affectors' },
       },
     },
   },
