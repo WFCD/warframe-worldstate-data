@@ -34,7 +34,7 @@ const conclaveDataSchema = {
       type: 'object',
       properties: {
         title: { type: 'string' },
-        description: { type: 'string' }
+        description: { type: 'string' },
       },
     },
   },
