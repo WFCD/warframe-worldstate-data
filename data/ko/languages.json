@@ -12280,6 +12280,10 @@
     "value": "Saver",
     "desc": "Pick up 15,000 Credits"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailycollecthundredresources": {
+    "value": "Gatherer",
+    "desc": "Collect 1,500 Resources"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
     "value": "Agent",
     "desc": "Complete a Mission"
@@ -12371,6 +12375,18 @@
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
     "value": "Sharing is Caring",
     "desc": "Kill 150 Enemies with Viral Damage"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
+    "value": "허쉬",
+    "desc": "Kill a Kuva Thrall"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
+    "value": "No Mercy",
+    "desc": "Mercy Kill an Enemy"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyrailjackhijackdestroythree": {
+    "value": "Friendly Fire",
+    "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
     "value": "Kleptomaniac",
