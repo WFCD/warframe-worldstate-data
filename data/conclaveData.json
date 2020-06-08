@@ -137,12 +137,12 @@
       "description": "Kill 1 enemy on a Kill Streak",
       "standing": 500
     },
-    "PVPTimedChallengeKillsStreakStoppedEASY": {
+    "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
       "title": "Streak Stopped",
       "description": "Kill 3 enemies on a Kill Streak",
       "standing": 1500
     },
-    "PVPTimedChallengeKillsStreakStoppedEASY": {
+    "PVPTimedChallengeKillsStreakStoppedHARD": {
       "title": "Focused Streak Stopped",
       "description": "Kill 2 enemies on a Kill Streak in a match",
       "standing": 3000
@@ -247,7 +247,7 @@
       "description": "Kill 4 enemies that have killed you",
       "standing": 1500
     },
-    "PVPTimedChallengeKillsPaybackEASY": {
+    "PVPTimedChallengeKillsPaybackHARD": {
       "title": "Focused Revenge",
       "description": "Kill 3 enemies that have killed you in a match",
       "standing": 3000
