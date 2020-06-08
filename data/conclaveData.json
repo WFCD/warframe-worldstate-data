@@ -122,7 +122,7 @@
       "description": "Go on 1 Kill Streak",
       "standing": 500
     },
-    "PVPTimedChallengeKillsStreakHARD": {
+    "PVPTimedChallengeKillsStreakMEDIUM": {
       "title": "Kill Streak",
       "description": "Go on 3 Kill Streaks",
       "standing": 1500
@@ -137,12 +137,12 @@
       "description": "Kill 1 enemy on a Kill Streak",
       "standing": 500
     },
-    "PVPTimedChallengeKillsStreakStoppedEASY": {
+    "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
       "title": "Streak Stopped",
       "description": "Kill 3 enemies on a Kill Streak",
       "standing": 1500
     },
-    "PVPTimedChallengeKillsStreakStoppedEASY": {
+    "PVPTimedChallengeKillsStreakStoppedHARD": {
       "title": "Focused Streak Stopped",
       "description": "Kill 2 enemies on a Kill Streak in a match",
       "standing": 3000
@@ -167,7 +167,7 @@
       "description": "Kill 1 enemy while Airborne",
       "standing": 500
     },
-    "PVPTimedChallengeKillsWhileInAirHARD": {
+    "PVPTimedChallengeKillsWhileInAirMEDIUM": {
       "title": "Air Strike",
       "description": "Kill 4 enemies while Airborne",
       "standing": 1500
@@ -232,7 +232,7 @@
       "description": "Kill 4 enemies without them killing you",
       "standing": 1500
     },
-    "PVPTimedChallengeKillsStreakDominationEASY": {
+    "PVPTimedChallengeKillsStreakDominationHARD": {
       "title": "Focused Domination",
       "description": "Kill 3 enemies without them killing you in a match",
       "standing": 3000
@@ -247,7 +247,7 @@
       "description": "Kill 4 enemies that have killed you",
       "standing": 1500
     },
-    "PVPTimedChallengeKillsPaybackEASY": {
+    "PVPTimedChallengeKillsPaybackHARD": {
       "title": "Focused Revenge",
       "description": "Kill 3 enemies that have killed you in a match",
       "standing": 3000
@@ -332,7 +332,7 @@
       "description": "Strike opponents carrying the ball 6 times in a match",
       "standing": 6000
     },
-    "PVPTimedChallengeSpeedballPassesMEDIUM": {
+    "PVPTimedChallengeSpeedballPassesEASY": {
       "title": "Send It!",
       "description": "Complete 3 Successful Passes to teammates",
       "standing": 1000
@@ -346,6 +346,11 @@
       "title": "Focused Send It!",
       "description": "Complete 3 Successful Passes to teammates in a match",
       "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballGoalsEASY": {
+      "title": "Goal!",
+      "description": "Score 2 Goals",
+      "standing": 1000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
       "title": "See it Through",
@@ -376,6 +381,20 @@
       "title": "Conditioning",
       "description": "Complete 10 Daily Challenges",
       "standing": 0
+    }
+  },
+  "affectors": {
+    "PVPTimedAffectorSuperEnergy": {
+      "title": "Energy Surge",
+      "description": "Energy Surge - Regain energy at a faster pace"
+    },
+    "PVPTimedAffectorSuperMeleeDamage": {
+      "title": "Extra Melee Damage",
+      "description": "Extra Melee Damage - Melee Damage is increased"
+    },
+    "PVPTimedAffectorSuperEverything": {
+      "title": "Extra Damage",
+      "description": "Extra Damage - All damage is increased"
     }
   }
 }
