@@ -348,8 +348,8 @@
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballGoalsEASY": {
-      "title": "Goal!",
-      "description": "Score 2 Goals",
+      "title": "Tor!",
+      "description": "Erziele 2 Tore",
       "standing": 1000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
@@ -389,12 +389,12 @@
       "description": "Energy Surge - Regain energy at a faster pace"
     },
     "PVPTimedAffectorSuperMeleeDamage": {
-      "title": "Extra Melee Damage",
-      "description": "Extra Melee Damage - Melee Damage is increased"
+      "title": "Extra Nahkampfschaden",
+      "description": "Extra Nahkampfschaden - Nahkampfschaden ist erhöht"
     },
     "PVPTimedAffectorSuperEverything": {
-      "title": "Extra Damage",
-      "description": "Extra Damage - All damage is increased"
+      "title": "Extra Schaden",
+      "description": "Extra Schaden - Aller Schaden ist erhöht"
     }
   }
 }
