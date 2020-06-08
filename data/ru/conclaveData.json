@@ -122,12 +122,27 @@
       "description": "Совершите 1 серию убийств",
       "standing": 500
     },
+    "PVPTimedChallengeKillsStreakMEDIUM": {
+      "title": "Серия Убийств",
+      "description": "Go on 3 Kill Streaks",
+      "standing": 1500
+    },
     "PVPTimedChallengeKillsStreakHARD": {
       "title": "Идеальная Серия Убийств",
       "description": "Совершите 2 серии убийств за один матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
+      "title": "Streak Stopped",
+      "description": "Kill 1 enemy on a Kill Streak",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
+      "title": "Streak Stopped",
+      "description": "Kill 3 enemies on a Kill Streak",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakStoppedHARD": {
       "title": "Focused Streak Stopped",
       "description": "Kill 2 enemies on a Kill Streak in a match",
       "standing": 3000
@@ -151,6 +166,11 @@
       "title": "Воздушный Удар",
       "description": "Убейте 1 оппонента, находясь в воздухе",
       "standing": 500
+    },
+    "PVPTimedChallengeKillsWhileInAirMEDIUM": {
+      "title": "Воздушный Удар",
+      "description": "Kill 4 enemies while Airborne",
+      "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
       "title": "Focused Air Strike",
@@ -203,24 +223,34 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
-      "title": "Focused Domination",
-      "description": "Kill 3 enemies without them killing you in a match",
-      "standing": 3000
+      "title": "Domination",
+      "description": "Kill 1 enemy without them killing you",
+      "standing": 500
     },
     "PVPTimedChallengeKillsStreakDominationMEDIUM": {
       "title": "Domination",
       "description": "Kill 4 enemies without them killing you",
       "standing": 1500
     },
-    "PVPTimedChallengeKillsPaybackEASY": {
-      "title": "Focused Revenge",
-      "description": "Kill 3 enemies that have killed you in a match",
+    "PVPTimedChallengeKillsStreakDominationHARD": {
+      "title": "Focused Domination",
+      "description": "Kill 3 enemies without them killing you in a match",
       "standing": 3000
+    },
+    "PVPTimedChallengeKillsPaybackEASY": {
+      "title": "Месть",
+      "description": "Kill 1 enemy that have killed you",
+      "standing": 500
     },
     "PVPTimedChallengeKillsPaybackMEDIUM": {
       "title": "Месть",
       "description": "Kill 4 enemies that have killed you",
       "standing": 1500
+    },
+    "PVPTimedChallengeKillsPaybackHARD": {
+      "title": "Focused Revenge",
+      "description": "Kill 3 enemies that have killed you in a match",
+      "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
       "title": "Liberator",
@@ -302,6 +332,11 @@
       "description": "Блокировать 6 раз оппонентов с мячом, за один матч",
       "standing": 6000
     },
+    "PVPTimedChallengeSpeedballPassesEASY": {
+      "title": "Send It!",
+      "description": "Complete 3 Successful Passes to teammates",
+      "standing": 1000
+    },
     "PVPTimedChallengeSpeedballPassesMEDIUM": {
       "title": "Send It!",
       "description": "Complete 6 Successful Passes to teammates",
@@ -311,6 +346,11 @@
       "title": "Focused Send It!",
       "description": "Complete 3 Successful Passes to teammates in a match",
       "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballGoalsEASY": {
+      "title": "Goal!",
+      "description": "Score 2 Goals",
+      "standing": 1000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
       "title": "Видеть Насквозь",
@@ -341,6 +381,20 @@
       "title": "В хорошей форме",
       "description": "Завершите 10 ежедневных Испытаний",
       "standing": 0
+    }
+  },
+  "affectors": {
+    "PVPTimedAffectorSuperEnergy": {
+      "title": "Energy Surge",
+      "description": "Energy Surge - Regain energy at a faster pace"
+    },
+    "PVPTimedAffectorSuperMeleeDamage": {
+      "title": "Extra Melee Damage",
+      "description": "Extra Melee Damage - Melee Damage is increased"
+    },
+    "PVPTimedAffectorSuperEverything": {
+      "title": "Extra Damage",
+      "description": "Extra Damage - All damage is increased"
     }
   }
 }
