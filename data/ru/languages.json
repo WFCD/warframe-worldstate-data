@@ -12361,8 +12361,8 @@
     "desc": "Kill 150 Enemies with a Primary Weapon"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
-    "value": "Poisoner",
-    "desc": "Kill 150 Enemies with Toxin Damage"
+    "value": "Отравитель",
+    "desc": "Убейте 150 врагов, используя урон токсином"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithradiation": {
     "value": "Реактор",
@@ -12378,15 +12378,15 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
     "value": "Беззвучие",
-    "desc": "Kill a Kuva Thrall"
+    "desc": "Убейте Раба Кувы"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
-    "value": "No Mercy",
-    "desc": "Mercy Kill an Enemy"
+    "value": "Пощады не будет",
+    "desc": "Выполните добивание милосердием"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyrailjackhijackdestroythree": {
-    "value": "Friendly Fire",
-    "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters"
+    "value": "Дружественный огонь",
+    "desc": "Во время пилотирования угнанного транспортёра, уничтожьте 3 истребителя противника"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
     "value": "Kleptomaniac",
@@ -12477,20 +12477,20 @@
     "desc": "Complete 3 Nightmare missions of any type"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleterescue": {
-    "value": "Rescuer",
-    "desc": "Complete 3 Rescue missions"
+    "value": "Спасатель",
+    "desc": "Завершите 3 миссии \"Спасения\""
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesabotage": {
-    "value": "Saboteur",
-    "desc": "Complete 3 Sabotage missions"
+    "value": "Диверсант",
+    "desc": "Завершите 3 миссии \"Диверсия\""
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesortie": {
     "value": "Специалист по Вылазкам",
     "desc": "Завершите 1 Вылазку"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletespy": {
-    "value": "Operative",
-    "desc": "Complete 3 Spy missions"
+    "value": "Шпион",
+    "desc": "Завершите 3 миссии \"Шпионажа\""
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
     "value": "Supporter",
@@ -12533,8 +12533,8 @@
     "desc": "Kill a Tusk Thumper in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
-    "value": "Earth Miner",
-    "desc": "Mine 6 Rare Gems in the Plains of Eidolon"
+    "value": "Шахтёр Земли",
+    "desc": "Добудьте 6 редких ископаемых на Равнинах Эйдолона"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
     "value": "Venus Miner",
@@ -12569,8 +12569,8 @@
     "desc": "Unlock 4 Orokin Vaults"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockrelics": {
-    "value": "Unlock Relics",
-    "desc": "Unlock 3 Relics"
+    "value": "Откройте реликвии",
+    "desc": "Откройте 3 реликвии"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyuseforma": {
     "value": "Polarized",
@@ -12649,8 +12649,8 @@
     "desc": "Survive for over 30 minutes without using Life Suport Modules in Kuva Survival"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
-    "value": "Ascendant",
-    "desc": "Complete 4 Halls of Ascension on Lua"
+    "value": "Вознёсшийся",
+    "desc": "Завершите 4 Зала Вознесения на Луа"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
     "value": "Заслуженный исследователь",
@@ -12661,8 +12661,8 @@
     "desc": "Завершите миссию Шпионажа, вручную взломав 3 консоли без сигналов тревоги"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
-    "value": "Unlock Relics",
-    "desc": "Unlock 10 Relics"
+    "value": "Откройте реликвии",
+    "desc": "Откройте 10 реликвий"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Страдание"
