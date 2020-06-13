@@ -1089,6 +1089,9 @@
   "/lotus/powersuits/ninja/ninja": {
     "value": "Эш"
   },
+  "/lotus/powersuits/odalisk/odalisk": {
+    "value": "Protea"
+  },
   "/lotus/powersuits/pacifist/pacifist": {
     "value": "Баруук"
   },
@@ -5720,6 +5723,9 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimagelowpolykubrow": {
     "value": "Глиф: Кубрау Призма"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/avatarimageproteaaction": {
+    "value": "Protea In Action Glyph"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imageashbright": {
     "value": "Глиф Эша"
@@ -12304,6 +12310,10 @@
     "value": "Doppelganger",
     "desc": "Deploy a Specter"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailydonateleverian": {
+    "value": "Patron",
+    "desc": "Donate to the Leverian"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "value": "Loyalty",
     "desc": "Interact with your Kubrow or Kavat"
@@ -12377,7 +12387,7 @@
     "desc": "Kill 150 Enemies with Viral Damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
-    "value": "Беззвучие",
+    "value": "Время молчать",
     "desc": "Убейте Раба Кувы"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
@@ -15313,6 +15323,12 @@
   "/lotus/types/storeitems/packages/crpcircarmorpack": {
     "value": "Porta Armor Bundle"
   },
+  "/lotus/types/storeitems/packages/crpcubinatorarmorbundle": {
+    "value": "Shi Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/crpdeadlockitemsbundle": {
+    "value": "Corpus Advantage Bundle"
+  },
   "/lotus/types/storeitems/packages/crpfncarmorpack": {
     "value": "Dendra Armor Set"
   },
@@ -15393,6 +15409,9 @@
   },
   "/lotus/types/storeitems/packages/garudabundle": {
     "value": "Garuda Collection"
+  },
+  "/lotus/types/storeitems/packages/garudadeluxeskinbundle": {
+    "value": "Garuda Hinsa Collection"
   },
   "/lotus/types/storeitems/packages/glassbundle": {
     "value": "Gara Collection"
@@ -15750,6 +15769,9 @@
   },
   "/lotus/types/storeitems/packages/prismaexcaliburpack": {
     "value": "Набор Экскалибура \"Призма\""
+  },
+  "/lotus/types/storeitems/packages/proteaitemsbundle": {
+    "value": "Protea Collection"
   },
   "/lotus/types/storeitems/packages/railjackarmourbundle": {
     "value": "Sigma Series Armor Bundle"
@@ -16186,6 +16208,9 @@
   "/lotus/upgrades/skins/frost/swrthreefrostzastrugahelmet": {
     "value": "S W R Three Frost Zastruga Helmet"
   },
+  "/lotus/upgrades/skins/garuda/garudadeluxeskin": {
+    "value": "Garuda Hinsa Skin"
+  },
   "/lotus/upgrades/skins/glass/glassalthelmet": {
     "value": "Gara Virago Helmet"
   },
@@ -16414,6 +16439,9 @@
   "/lotus/upgrades/skins/meleedangles/tnrailjacksugatra": {
     "value": "Sigma Series Sugatra"
   },
+  "/lotus/upgrades/skins/moapet/moapetpersonalityd": {
+    "value": "Emotion Module: Tenacious"
+  },
   "/lotus/upgrades/skins/monkeyking/monkeykingalthelmetb": {
     "value": "Wukong Macak Helmet"
   },
@@ -16434,6 +16462,12 @@
   },
   "/lotus/upgrades/skins/ninja/ninjadeluxesuit": {
     "value": "Скин Эша Кога"
+  },
+  "/lotus/upgrades/skins/odalisk/odaliskalthelmet": {
+    "value": "Protea Telema Helmet"
+  },
+  "/lotus/upgrades/skins/odalisk/odaliskalt2helmet": {
+    "value": "Protea Mavv Helmet"
   },
   "/lotus/upgrades/skins/operator/accessories/baromouthpiecea": {
     "value": "Baro Mouth Piece A"
@@ -16582,6 +16616,9 @@
   "/lotus/upgrades/skins/scarves/tnguandaoscarf": {
     "value": "Mozi Syandana"
   },
+  "/lotus/upgrades/skins/scarves/tnodalisksyandana": {
+    "value": "Rhoptron Syandana"
+  },
   "/lotus/upgrades/skins/scarves/tnrailjacksyandana": {
     "value": "Sigma Series Syandana"
   },
@@ -16702,6 +16739,9 @@
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Глаксион"
   },
+  "/lotus/weapons/corpus/longguns/crprubanrifle/crprubanrifle": {
+    "value": "Stahlta"
+  },
   "/lotus/weapons/corpus/longguns/crpsentamlgsniper/crpsentamlgsniper": {
     "value": "Komorex"
   },
@@ -16734,6 +16774,9 @@
   },
   "/lotus/weapons/corpus/melee/glaive/crpglaive/crpglaive": {
     "value": "Falcor"
+  },
+  "/lotus/weapons/corpus/melee/gunblade/crpgunblade/crpgunbladeweapon": {
+    "value": "Stropha"
   },
   "/lotus/weapons/corpus/melee/hammer/corpushammerweapon": {
     "value": "Arca Titron"
@@ -17610,6 +17653,9 @@
   },
   "/lotus/weapons/tenno/pistols/tnguandopistol/tnguandopistolgun": {
     "value": "Tn Guando Pistol Gun"
+  },
+  "/lotus/weapons/tenno/pistols/tnodalisksmg/tnodalisksmgpistol": {
+    "value": "Velox"
   },
   "/lotus/weapons/tenno/pistols/tnpriestpistolscope/tnpriestpistolweapon": {
     "value": "Tn Priest Pistol Weapon"

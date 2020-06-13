@@ -3,7 +3,7 @@
     "value": "Mover"
   },
   "/lotus/characters/sentient/hunhow/hunhowpieces/hunhowhipswreckagequest": {
-    "value": "Hunhow Hips Wreckage Quest"
+    "value": "寻找Hunhow任务"
   },
   "/lotus/characters/tenno/accessory/scarves/grnbannerscarf/grnbannerscarfitem": {
     "value": "战败旗帜"
@@ -42,13 +42,13 @@
     "value": "已鎖定精英部隊"
   },
   "/lotus/language/alerts/assassinationdesc12": {
-    "value": "Enemy Ambassador Located"
+    "value": "发现敌方大使"
   },
   "/lotus/language/alerts/assassinationdesc13": {
-    "value": "Enemy Robotic Archetype Located"
+    "value": "发现敌方机器人"
   },
   "/lotus/language/alerts/assassinationdesc14": {
-    "value": "Enemy Officer Located"
+    "value": "发现敌方军官"
   },
   "/lotus/language/alerts/assassinationdesc15": {
     "value": "已鎖定敵人VIP"
@@ -57,103 +57,103 @@
     "value": "已鎖定敵人船指揮官"
   },
   "/lotus/language/alerts/assassinationdesc3": {
-    "value": "Enemy Research Scientist Located"
+    "value": "发现敌方科学家"
   },
   "/lotus/language/alerts/assassinationdesc4": {
-    "value": "Enemy Bureaucrat Located"
+    "value": "发现敌方官僚"
   },
   "/lotus/language/alerts/assassinationdesc5": {
-    "value": "Enemy Munitions Officer Located"
+    "value": "发现敌方弹药官"
   },
   "/lotus/language/alerts/assassinationdesc6": {
-    "value": "Enemy Diplomat Located"
+    "value": "发现敌方外交官"
   },
   "/lotus/language/alerts/assassinationdesc7": {
-    "value": "Enemy Spy Located"
+    "value": "发现敌方间谍"
   },
   "/lotus/language/alerts/assassinationdesc8": {
-    "value": "Enemy Assassin Located"
+    "value": "发现敌方刺客"
   },
   "/lotus/language/alerts/assassinationdesc9": {
-    "value": "Enemy Operative Located"
+    "value": "发现敌方行动员"
   },
   "/lotus/language/alerts/capturedesc1": {
-    "value": "Fugitive Located"
+    "value": "发现逃犯"
   },
   "/lotus/language/alerts/capturedesc10": {
-    "value": "Enemy Research Scientist Located"
+    "value": "发现敌方科学家"
   },
   "/lotus/language/alerts/capturedesc11": {
-    "value": "Enemy Weapons Trader Located"
+    "value": "发现敌方武器商人"
   },
   "/lotus/language/alerts/capturedesc12": {
-    "value": "Enemy Conspirator Located"
+    "value": "发现敌方间谍"
   },
   "/lotus/language/alerts/capturedesc13": {
-    "value": "Relic Hunter Located"
+    "value": "发现遗物猎人"
   },
   "/lotus/language/alerts/capturedesc14": {
-    "value": "Enemy Courier Located"
+    "value": "发现敌方信使"
   },
   "/lotus/language/alerts/capturedesc15": {
-    "value": "Capture And Interrogate Enemy Operative"
+    "value": "捕获和讯问敌方行动员"
   },
   "/lotus/language/alerts/capturedesc2": {
-    "value": "Enemy Operative Located"
+    "value": "发现敌方行动员"
   },
   "/lotus/language/alerts/capturedesc3": {
-    "value": "Enemy Spy Located"
+    "value": "发现敌方间谍"
   },
   "/lotus/language/alerts/capturedesc4": {
-    "value": "Enemy Assassin Located"
+    "value": "发现敌方刺客"
   },
   "/lotus/language/alerts/capturedesc5": {
-    "value": "Enemy Diplomat Located"
+    "value": "发现敌方外交官"
   },
   "/lotus/language/alerts/capturedesc6": {
-    "value": "Subdue Enemy Ship's Commander"
+    "value": "战胜敌方舰长"
   },
   "/lotus/language/alerts/capturedesc7": {
-    "value": "Subdue Facility Commander"
+    "value": "战胜敌方设施指挥官"
   },
   "/lotus/language/alerts/capturedesc8": {
-    "value": "Blackmarket Trader Located"
+    "value": "发现黑市交易者"
   },
   "/lotus/language/alerts/capturedesc9": {
-    "value": "Research Facility Director Located"
+    "value": "发现研究设施主任"
   },
   "/lotus/language/alerts/corpuslootship": {
-    "value": "Corpus Treasury Ship Located"
+    "value": "发现CORPUS金库船"
   },
   "/lotus/language/alerts/counterinteldesc1": {
-    "value": "Network Vulnerability Detected"
+    "value": "检测到网络漏洞"
   },
   "/lotus/language/alerts/counterinteldesc10": {
-    "value": "Enemy Comm Satellite Vulnerable"
+    "value": "敌方通信卫星易受攻击"
   },
   "/lotus/language/alerts/counterinteldesc11": {
-    "value": "Reconfigure Enemy Ship's Propulsion System"
+    "value": "重新配置敌军飞船推进系统"
   },
   "/lotus/language/alerts/counterinteldesc12": {
-    "value": "Reconfigure Enemy Ship's Defense System"
+    "value": "重新配置敌人飞船防御系统"
   },
   "/lotus/language/alerts/counterinteldesc13": {
-    "value": "Reconfigure Enemy Ship's Shields"
+    "value": "重新配置敌人飞船的护盾"
   },
   "/lotus/language/alerts/counterinteldesc14": {
-    "value": "Contaminate Research Data"
+    "value": "污染研究数据"
   },
   "/lotus/language/alerts/counterinteldesc15": {
-    "value": "Reprogram Turret Targeting"
+    "value": "重新规划炮塔目标"
   },
   "/lotus/language/alerts/counterinteldesc16": {
-    "value": "Plant A Bug Inside Research Facility"
+    "value": "在研究设施内植入漏洞"
   },
   "/lotus/language/alerts/counterinteldesc17": {
-    "value": "Plant A Bug On Enemy Vessel"
+    "value": "在敌人飞船上植入漏洞"
   },
   "/lotus/language/alerts/counterinteldesc18": {
-    "value": "Plant A Bug Inside Enemy Facility"
+    "value": "在敌人设施内植入漏洞"
   },
   "/lotus/language/alerts/counterinteldesc19": {
     "value": "Corrupt The Ship's Network Protocols"
@@ -165,10 +165,10 @@
     "value": "Corrupt The Facility's Network Protocols"
   },
   "/lotus/language/alerts/counterinteldesc21": {
-    "value": "Upload Virus To Network"
+    "value": "上传病毒到网络"
   },
   "/lotus/language/alerts/counterinteldesc22": {
-    "value": "Reprogram Robotic Control Terminals"
+    "value": "重新编程机器人控制终端"
   },
   "/lotus/language/alerts/counterinteldesc23": {
     "value": "Bypass Ship's Security Measures"
@@ -1088,6 +1088,9 @@
   },
   "/lotus/powersuits/ninja/ninja": {
     "value": "Ash"
+  },
+  "/lotus/powersuits/odalisk/odalisk": {
+    "value": "Protea"
   },
   "/lotus/powersuits/pacifist/pacifist": {
     "value": "Baruuk"
@@ -5720,6 +5723,9 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimagelowpolykubrow": {
     "value": "Prisma Kubrow Glyph"
+  },
+  "/lotus/storeitems/types/storeitems/avatarimages/avatarimageproteaaction": {
+    "value": "Protea In Action Glyph"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imageashbright": {
     "value": "Ash Profile Icon"
@@ -12304,6 +12310,10 @@
     "value": "二重身",
     "desc": "部署一个魅影"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailydonateleverian": {
+    "value": "Patron",
+    "desc": "Donate to the Leverian"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "value": "忠心不二",
     "desc": "与你的库狛或库娃互动"
@@ -15313,6 +15323,12 @@
   "/lotus/types/storeitems/packages/crpcircarmorpack": {
     "value": "Porta Armor Bundle"
   },
+  "/lotus/types/storeitems/packages/crpcubinatorarmorbundle": {
+    "value": "Shi Armor Bundle"
+  },
+  "/lotus/types/storeitems/packages/crpdeadlockitemsbundle": {
+    "value": "Corpus Advantage Bundle"
+  },
   "/lotus/types/storeitems/packages/crpfncarmorpack": {
     "value": "Dendra Armor Set"
   },
@@ -15393,6 +15409,9 @@
   },
   "/lotus/types/storeitems/packages/garudabundle": {
     "value": "Garuda Collection"
+  },
+  "/lotus/types/storeitems/packages/garudadeluxeskinbundle": {
+    "value": "Garuda Hinsa Collection"
   },
   "/lotus/types/storeitems/packages/glassbundle": {
     "value": "Gara Collection"
@@ -15750,6 +15769,9 @@
   },
   "/lotus/types/storeitems/packages/prismaexcaliburpack": {
     "value": "Prisma Excalibur Bundle"
+  },
+  "/lotus/types/storeitems/packages/proteaitemsbundle": {
+    "value": "Protea Collection"
   },
   "/lotus/types/storeitems/packages/railjackarmourbundle": {
     "value": "Sigma Series Armor Bundle"
@@ -16186,6 +16208,9 @@
   "/lotus/upgrades/skins/frost/swrthreefrostzastrugahelmet": {
     "value": "S W R Three Frost Zastruga Helmet"
   },
+  "/lotus/upgrades/skins/garuda/garudadeluxeskin": {
+    "value": "Garuda Hinsa Skin"
+  },
   "/lotus/upgrades/skins/glass/glassalthelmet": {
     "value": "Gara Virago Helmet"
   },
@@ -16414,6 +16439,9 @@
   "/lotus/upgrades/skins/meleedangles/tnrailjacksugatra": {
     "value": "Sigma Series Sugatra"
   },
+  "/lotus/upgrades/skins/moapet/moapetpersonalityd": {
+    "value": "Emotion Module: Tenacious"
+  },
   "/lotus/upgrades/skins/monkeyking/monkeykingalthelmetb": {
     "value": "Wukong Macak Helmet"
   },
@@ -16434,6 +16462,12 @@
   },
   "/lotus/upgrades/skins/ninja/ninjadeluxesuit": {
     "value": "Koga Ash Skin"
+  },
+  "/lotus/upgrades/skins/odalisk/odaliskalthelmet": {
+    "value": "Protea Telema Helmet"
+  },
+  "/lotus/upgrades/skins/odalisk/odaliskalt2helmet": {
+    "value": "Protea Mavv Helmet"
   },
   "/lotus/upgrades/skins/operator/accessories/baromouthpiecea": {
     "value": "Baro Mouth Piece A"
@@ -16582,6 +16616,9 @@
   "/lotus/upgrades/skins/scarves/tnguandaoscarf": {
     "value": "Mozi Syandana"
   },
+  "/lotus/upgrades/skins/scarves/tnodalisksyandana": {
+    "value": "Rhoptron Syandana"
+  },
   "/lotus/upgrades/skins/scarves/tnrailjacksyandana": {
     "value": "Sigma Series Syandana"
   },
@@ -16702,6 +16739,9 @@
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
     "value": "Glaxion"
   },
+  "/lotus/weapons/corpus/longguns/crprubanrifle/crprubanrifle": {
+    "value": "Stahlta"
+  },
   "/lotus/weapons/corpus/longguns/crpsentamlgsniper/crpsentamlgsniper": {
     "value": "Komorex"
   },
@@ -16734,6 +16774,9 @@
   },
   "/lotus/weapons/corpus/melee/glaive/crpglaive/crpglaive": {
     "value": "Falcor"
+  },
+  "/lotus/weapons/corpus/melee/gunblade/crpgunblade/crpgunbladeweapon": {
+    "value": "Stropha"
   },
   "/lotus/weapons/corpus/melee/hammer/corpushammerweapon": {
     "value": "Arca Titron"
@@ -17610,6 +17653,9 @@
   },
   "/lotus/weapons/tenno/pistols/tnguandopistol/tnguandopistolgun": {
     "value": "毒芽"
+  },
+  "/lotus/weapons/tenno/pistols/tnodalisksmg/tnodalisksmgpistol": {
+    "value": "Velox"
   },
   "/lotus/weapons/tenno/pistols/tnpriestpistolscope/tnpriestpistolweapon": {
     "value": "丧钟"
