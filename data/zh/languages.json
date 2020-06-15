@@ -51,7 +51,7 @@
     "value": "发现敌方军官"
   },
   "/lotus/language/alerts/assassinationdesc15": {
-    "value": "已鎖定敵人VIP"
+    "value": "发现敌方狙击手"
   },
   "/lotus/language/alerts/assassinationdesc2": {
     "value": "已鎖定敵人船指揮官"
@@ -12287,8 +12287,8 @@
     "desc": "拾取15,000现金"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollecthundredresources": {
-    "value": "Gatherer",
-    "desc": "Collect 1,500 Resources"
+    "value": "收集者",
+    "desc": "收集 1,500 个资源"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
     "value": "特务",
@@ -12311,8 +12311,8 @@
     "desc": "部署一个魅影"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydonateleverian": {
-    "value": "Patron",
-    "desc": "Donate to the Leverian"
+    "value": "赞助者",
+    "desc": "为 Leverian 进行捐赠"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "value": "忠心不二",
@@ -12387,16 +12387,16 @@
     "desc": "使用病毒伤害击杀150名敌人"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
-    "value": "Hush",
-    "desc": "Kill a Kuva Thrall"
+    "value": "沉寂",
+    "desc": "击杀一个赤毒奴仆"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
-    "value": "No Mercy",
-    "desc": "Mercy Kill an Enemy"
+    "value": "不施怜悯",
+    "desc": "对一名敌人施展怜悯之击"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyrailjackhijackdestroythree": {
-    "value": "Friendly Fire",
-    "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters"
+    "value": "友军伤害",
+    "desc": "在驾驶劫持的战舰时，消灭 3 架敌方战斗机"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
     "value": "盗窃癖",
