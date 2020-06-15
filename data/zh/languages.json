@@ -12294,9 +12294,17 @@
     "value": "特务",
     "desc": "完成一场任务"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionmelee": {
+    "value": "Swordsman",
+    "desc": "Complete a Mission with only a Melee Weapon equipped"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
     "value": "枪不释手",
     "desc": "仅装备主要武器来完成一场任务"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionprimary": {
+    "value": "Hands Full",
+    "desc": "Complete a Mission with only a Primary Weapon equipped"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "天降神兵",
@@ -12390,6 +12398,10 @@
     "value": "沉寂",
     "desc": "击杀一个赤毒奴仆"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
+    "value": "Reclaimed",
+    "desc": "Clear a personal Lich Influenced Node"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
     "value": "不施怜悯",
     "desc": "对一名敌人施展怜悯之击"
@@ -12434,9 +12446,17 @@
     "value": "黑客",
     "desc": "入侵8个控制台"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
+    "value": "Deep Impact",
+    "desc": "Suspend 5 or more enemies in the air at once with a Heavy Slam Melee Attack"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "以旧换新",
     "desc": "完成3次MOD转换"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
+    "value": "Just Visiting",
+    "desc": "Visit a Featured Dojo"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "value": "完美无瑕",
@@ -12562,6 +12582,10 @@
     "value": "地球赏金猎人",
     "desc": "在夜灵平野完成5项不同的赏金任务"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
+    "value": "Explorer",
+    "desc": "Complete 3 Railjack Missions"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
     "value": "箱子猎人",
     "desc": "在3项破坏任务中找到所有储藏箱"
@@ -12609,6 +12633,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
     "value": "极速战士",
     "desc": "在 90 秒内完成一个捕获任务"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfinishlich": {
+    "value": "Choose Wisely",
+    "desc": "Kill or Convert a Kuva Lich"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
     "value": "防禦",
