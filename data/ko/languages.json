@@ -12294,9 +12294,17 @@
     "value": "Agent",
     "desc": "Complete a Mission"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionmelee": {
+    "value": "Swordsman",
+    "desc": "Complete a Mission with only a Melee Weapon equipped"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
     "value": "Sidearm",
     "desc": "Complete a Mission with only a Secondary Weapon equipped"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionprimary": {
+    "value": "Hands Full",
+    "desc": "Complete a Mission with only a Primary Weapon equipped"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "Air It Out",
@@ -12390,6 +12398,10 @@
     "value": "허쉬",
     "desc": "Kill a Kuva Thrall"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
+    "value": "Reclaimed",
+    "desc": "Clear a personal Lich Influenced Node"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
     "value": "No Mercy",
     "desc": "Mercy Kill an Enemy"
@@ -12434,9 +12446,17 @@
     "value": "Hacker",
     "desc": "Hack 8 Consoles"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
+    "value": "Deep Impact",
+    "desc": "Suspend 5 or more enemies in the air at once with a Heavy Slam Melee Attack"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "Everything Old is New Again",
     "desc": "Complete 3 Transmutations"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
+    "value": "Just Visiting",
+    "desc": "Visit a Featured Dojo"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "value": "Flawless",
@@ -12562,6 +12582,10 @@
     "value": "Earth Bounty Hunter",
     "desc": "Complete 5 different Bounties in the Plains of Eidolon"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
+    "value": "Explorer",
+    "desc": "Complete 3 Railjack Missions"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
     "value": "Cache Hunter",
     "desc": "Find all caches in 3 Sabotage missions"
@@ -12609,6 +12633,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
     "value": "Speedster",
     "desc": "Finish a Capture mission in less than 90 seconds"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfinishlich": {
+    "value": "Choose Wisely",
+    "desc": "Kill or Convert a Kuva Lich"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
     "value": "방어",
