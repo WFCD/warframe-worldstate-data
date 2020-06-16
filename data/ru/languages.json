@@ -12271,16 +12271,16 @@
     "value": "Набор Реликвий"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "value": "Glider",
-    "desc": "Kill 20 Enemies while Aim Gliding"
+    "value": "Летяга",
+    "desc": "Убейте 20 врагов во время управляемого полёта"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
-    "value": "Trampoline",
-    "desc": "Bullet Jump 150 times"
+    "value": "Батут",
+    "desc": "Совершите 150 раз прыжок-выстрел"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
-    "value": "Researcher",
-    "desc": "Scan 25 Objects or Enemies"
+    "value": "Исследователь",
+    "desc": "Просканируйте 25 объектов или врагов"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
     "value": "Сберегатель",
@@ -12307,28 +12307,28 @@
     "desc": "Выполните миссию, будучи вооружённым только основным оружием"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
-    "value": "Air It Out",
-    "desc": "Deploy an Air Support Charge in a Mission"
+    "value": "Покажи её",
+    "desc": "Вызовите воздушную поддержку в миссии"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
     "value": "Граффити",
     "desc": "Разместите глиф во время миссии"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployspecter": {
-    "value": "Doppelganger",
-    "desc": "Deploy a Specter"
+    "value": "Двойник",
+    "desc": "Используйте Спектра"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydonateleverian": {
-    "value": "Patron",
-    "desc": "Donate to the Leverian"
+    "value": "Покровитель",
+    "desc": "Пожертвуйте Левериану"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "value": "Loyalty",
     "desc": "Interact with your Kubrow or Kavat"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
-    "value": "Warning Shot",
-    "desc": "Kill 200 Enemies"
+    "value": "Предупредительный выстрел",
+    "desc": "Убейте 200 врагов"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "value": "Упоение властью",
@@ -12411,36 +12411,36 @@
     "desc": "Во время пилотирования угнанного транспортёра, уничтожьте 3 истребителя противника"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
-    "value": "Kleptomaniac",
-    "desc": "Open 20 lockers"
+    "value": "Клептоман",
+    "desc": "Откройте 20 ящиков"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupenergy": {
     "value": "Зарядка",
     "desc": "Подберите 20 энергосфер"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmedallion": {
-    "value": "The Hunt is On",
-    "desc": "Find 5 Syndicate Medallions"
+    "value": "Охота начата",
+    "desc": "Найдите 5 медальонов Синдикатов"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
-    "value": "Shiny",
-    "desc": "Pick up 8 Mods"
+    "value": "Блестяшка",
+    "desc": "Подберите 8 модов"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplacemarker": {
     "value": "Наводчик",
     "desc": "Отметьте 5 модов или ресурсов"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplayemote": {
-    "value": "Expressive",
-    "desc": "Play 1 Emote"
+    "value": "Эмоциональный",
+    "desc": "Используйте жест"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplayminigame": {
     "value": "В душе ребёнок",
     "desc": "Сыграйте в игру Frame Fighter, Happy Zephyr или Wyrmius"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
-    "value": "Accelerator",
-    "desc": "Kill 20 Enemies while Sliding"
+    "value": "Торопыга",
+    "desc": "Убейте 20 врагов во время скольжения"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
     "value": "Хакер",
@@ -12451,8 +12451,8 @@
     "desc": "Suspend 5 or more enemies in the air at once with a Heavy Slam Melee Attack"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
-    "value": "Everything Old is New Again",
-    "desc": "Complete 3 Transmutations"
+    "value": "Всё старое вновь новое",
+    "desc": "Завершите 3 трансмутации модов"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
     "value": "Just Visiting",
@@ -12503,8 +12503,8 @@
     "desc": "Завершите 3 миссии \"Мобильная Оборона\""
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletenightmaremissions": {
-    "value": "Sound Sleeper",
-    "desc": "Complete 3 Nightmare missions of any type"
+    "value": "Крепко спящий",
+    "desc": "Завершите 3 миссии \"кошмара\""
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleterescue": {
     "value": "Спасатель",
@@ -12539,12 +12539,12 @@
     "desc": "Уничтожьте Транспортёр, используя только Фронтальную Артиллерию"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
-    "value": "Gilded",
-    "desc": "Gild 1 Modular Items"
+    "value": "Улучшено",
+    "desc": "Улучшите 1 единицу модульного снаряжения"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyhijackcrewship": {
-    "value": "Confiscated",
-    "desc": "Hijack a Crewship from the enemy"
+    "value": "Конфискованный",
+    "desc": "Угоните вражеский транспортёр"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
     "value": "Тяжёлая Артиллерия",
