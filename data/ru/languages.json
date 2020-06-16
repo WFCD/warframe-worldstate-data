@@ -12291,20 +12291,20 @@
     "desc": "Соберите 1,500 ресурсов"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
-    "value": "Agent",
-    "desc": "Complete a Mission"
+    "value": "Агент",
+    "desc": "Завершите миссию"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionmelee": {
     "value": "Swordsman",
     "desc": "Complete a Mission with only a Melee Weapon equipped"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
-    "value": "Sidearm",
-    "desc": "Complete a Mission with only a Secondary Weapon equipped"
+    "value": "Личное оружие",
+    "desc": "Выполните миссию, будучи вооружённым только вторичным оружием"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionprimary": {
-    "value": "Hands Full",
-    "desc": "Complete a Mission with only a Primary Weapon equipped"
+    "value": "Занятые Руки",
+    "desc": "Выполните миссию, будучи вооружённым только основным оружием"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "Air It Out",
@@ -12331,8 +12331,8 @@
     "desc": "Kill 200 Enemies"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
-    "value": "Power Trip",
-    "desc": "Kill 150 Enemies with Abilities"
+    "value": "Упоение властью",
+    "desc": "Убейте 150 врагов способностями"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
     "value": "Детонатор",
@@ -12343,40 +12343,40 @@
     "desc": "Убейте 150 врагов, используя коррозийный урон"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithelectricity": {
-    "value": "Short Circuit",
-    "desc": "Kill 150 Enemies with Electricity Damage"
+    "value": "Короткое замыкание",
+    "desc": "Убейте 150 врагов, используя урон электричеством"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfinishers": {
     "value": "Палач",
     "desc": "Убейте 10 врагов добивающими ударами"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfire": {
-    "value": "Arsonist",
-    "desc": "Kill 150 Enemies with Heat Damage"
+    "value": "Поджигатель",
+    "desc": "Убейте 150 врагов, используя урон огнем"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfreeze": {
     "value": "Глубокая Заморозка",
-    "desc": "Kill 150 Enemies with Cold Damage"
+    "desc": "Убейте 150 врагов, используя урон холодом"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithgas": {
-    "value": "Biohazard",
-    "desc": "Kill 150 Enemies with Gas Damage"
+    "value": "Биологическая опасность",
+    "desc": "Убейте 150 врагов, используя урон газом"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithheadshots": {
-    "value": "Marksman",
-    "desc": "Kill 40 Enemies with Headshots"
+    "value": "Снайпер",
+    "desc": "Убейте 40 врагов выстрелом в голову"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
-    "value": "Attractive",
-    "desc": "Kill 150 Enemies with Magnetic damage"
+    "value": "Притягательный",
+    "desc": "Убейте 150 врагов, используя магнитный урон"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
-    "value": "Sword Dance",
-    "desc": "Kill 150 Enemies with a Melee Weapon"
+    "value": "Танец Меча",
+    "desc": "Убейте 150 врагов, используя оружие ближнего боя"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithprimary": {
-    "value": "Mow Them Down",
-    "desc": "Kill 150 Enemies with a Primary Weapon"
+    "value": "Перестрелять всех",
+    "desc": "Убейте 150 врагов, используя основное оружие"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
     "value": "Отравитель",
@@ -12387,12 +12387,12 @@
     "desc": "Убейте 150 врагов, используя радиационный урон"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithsecondary": {
-    "value": "Smaller Is Bigger",
-    "desc": "Kill 150 Enemies with a Secondary Weapon"
+    "value": "Меньше - лучше",
+    "desc": "Убейте 150 врагов, используя вторичное оружие"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
-    "value": "Sharing is Caring",
-    "desc": "Kill 150 Enemies with Viral Damage"
+    "value": "Не жмись - поделись",
+    "desc": "Убейте 150 врагов, используя вирусный урон"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
     "value": "Время молчать",
@@ -12487,7 +12487,7 @@
     "desc": "Complete 12 Conduits in Disruption"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteexterminate": {
-    "value": "Eliminator",
+    "value": "Устранитель",
     "desc": "Complete 3 Exterminate missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
