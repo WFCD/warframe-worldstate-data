@@ -32,7 +32,7 @@
         ]
     },
     {
-        "name": "Ancient Healer",
+        "name": "Ancien Guérisseur",
         "locations": [
             {
                 "last_verified": "2018-08-22",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "name": "Brood Mother",
+        "name": "Mère des Couvées",
         "locations": [
             {
                 "last_verified": "2019-04-16",
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "name": "Butcher",
+        "name": "Massacreur",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -371,7 +371,7 @@
         ]
     },
     {
-        "name": "Corrupted Butcher",
+        "name": "Massacreur Corrompu",
         "locations": [
             {
                 "last_verified": "2019-01-25",
@@ -394,7 +394,7 @@
         ]
     },
     {
-        "name": "Corrupted Crewman",
+        "name": "Homme d'Équipage Corrompu",
         "locations": [
             {
                 "last_verified": "2019-01-28",
@@ -417,7 +417,7 @@
         ]
     },
     {
-        "name": "Corrupted Heavy Gunner",
+        "name": "Mitrailleur Lourd Corrompu",
         "locations": [
             {
                 "last_verified": "2019-03-23",
@@ -449,7 +449,7 @@
         ]
     },
     {
-        "name": "Corrupted Lancer",
+        "name": "Lancier Corrompu",
         "locations": [
             {
                 "last_verified": "2018-04-15",
@@ -472,7 +472,7 @@
         ]
     },
     {
-        "name": "Corrupted Nullifier",
+        "name": "Zéro Corrompu",
         "locations": [
             {
                 "last_verified": "2019-08-14",
@@ -538,7 +538,7 @@
                 "level": "25-35",
                 "faction": "Infesté",
                 "spawn_rate": "100%",
-                "mission": "Orokin Derelict Assassination",
+                "mission": "Assassinat des Épaves Orokin",
                 "planet": "Derelict",
                 "type": "Assassinat"
             }
