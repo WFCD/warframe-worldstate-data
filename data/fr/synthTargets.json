@@ -141,13 +141,13 @@
                 "faction": "Infesté",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Capture",
-                "planet": "Derelict",
+                "planet": "Épave",
                 "type": "Capture"
             }
         ]
     },
     {
-        "name": "Bombard",
+        "name": "Bombardier",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -539,7 +539,7 @@
                 "faction": "Infesté",
                 "spawn_rate": "100%",
                 "mission": "Assassinat des Épaves Orokin",
-                "planet": "Derelict",
+                "planet": "Épave",
                 "type": "Assassinat"
             }
         ]
@@ -987,7 +987,7 @@
                 "faction": "Infesté",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Exterminate",
-                "planet": "Derelict",
+                "planet": "Épave",
                 "type": "Extermination"
             }
         ]
