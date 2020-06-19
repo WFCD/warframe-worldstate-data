@@ -1,9 +1,9 @@
 {
   "modifierTypes": {
     "SORTIE_MODIFIER_LOW_ENERGY": "Réduction d'énergie",
-    "SORTIE_MODIFIER_IMPACT": "Amélioration élémentaire des ennemis: Impact",
-    "SORTIE_MODIFIER_SLASH": "Amélioration élémentaire des ennemis: Tranchants",
-    "SORTIE_MODIFIER_PUNCTURE": "Amélioration élémentaire des ennemis: Perforation",
+    "SORTIE_MODIFIER_IMPACT": "Amélioration physique des ennemis: Impact",
+    "SORTIE_MODIFIER_SLASH": "Amélioration physique des ennemis: Tranchant",
+    "SORTIE_MODIFIER_PUNCTURE": "Amélioration physique des ennemis: Perforation",
     "SORTIE_MODIFIER_EXIMUS": "Forteresse Eximus",
     "SORTIE_MODIFIER_MAGNETIC": "Amélioration élémentaire des ennemis: Magnétique",
     "SORTIE_MODIFIER_CORROSIVE": "Amélioration élémentaire des ennemis: Corrosif",
@@ -13,7 +13,7 @@
     "SORTIE_MODIFIER_GAS": "Amélioration élémentaire des ennemis: Gaz",
     "SORTIE_MODIFIER_FIRE": "Amélioration élémentaire des ennemis: Feu",
     "SORTIE_MODIFIER_EXPLOSION": "Amélioration élémentaire des ennemis: Explosif",
-    "SORTIE_MODIFIER_FREEZE": "Amélioration élémentaire des ennemis: Froid",
+    "SORTIE_MODIFIER_FREEZE": "Amélioration élémentaire des ennemis: Glace",
     "SORTIE_MODIFIER_TOXIN": "Amélioration élémentaire des ennemis: Poison",
     "SORTIE_MODIFIER_POISON": "Amélioration élémentaire des ennemis: Poison",
     "SORTIE_MODIFIER_HAZARD_RADIATION": "Danger environnemental: Radiation",
@@ -24,11 +24,11 @@
     "SORTIE_MODIFIER_HAZARD_COLD": "Effet environnemental : Froid Extrême",
     "SORTIE_MODIFIER_ARMOR": "Armure ennemie augmentée",
     "SORTIE_MODIFIER_SHIELDS": "Boucliers ennemis augmentés",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "Restriction d’arme : Pistolet uniquement",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Restriction d’arme : Fusil à pompe uniquement",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "Restriction d’arme : Sniper uniquement",
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "Restriction d’arme : Pistolet seulement",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Restriction d’arme : Fusil à pompe seulement",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "Restriction d’arme : Sniper seulement",
     "SORTIE_MODIFIER_RIFLE_ONLY": "Restriction d’arme : Fusil d’assaut seulement",
-    "SORTIE_MODIFIER_MELEE_ONLY": "Restriction d’arme : Arme de mêlée uniquement",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Restriction d’arme : Arme de mêlée seulement",
     "SORTIE_MODIFIER_BOW_ONLY": "Restriction d’arme : Arc seulement"
   },
   "modifierDescriptions": {
