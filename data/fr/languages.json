@@ -1666,19 +1666,19 @@
     "value": "Escape Velocity"
   },
   "/lotus/storeitems/powersuits/archwing/demolitionjetpack/artillerybarrageabilitycard": {
-    "value": "Thumper"
+    "value": "Barrage"
   },
   "/lotus/storeitems/powersuits/archwing/demolitionjetpack/bigboyabilitycard": {
-    "value": "Warhead"
+    "value": "Ogive"
   },
   "/lotus/storeitems/powersuits/archwing/demolitionjetpack/demolitionjetpack": {
     "value": "Elytron"
   },
   "/lotus/storeitems/powersuits/archwing/demolitionjetpack/exhausttrailabilitycard": {
-    "value": "Core Vent"
+    "value": "Purge de Noyau"
   },
   "/lotus/storeitems/powersuits/archwing/demolitionjetpack/tntabilitycard": {
-    "value": "Bloomer"
+    "value": "Traquenard"
   },
   "/lotus/storeitems/powersuits/archwing/primejetpack/primejetpack": {
     "value": "Odonata Prime"
@@ -1687,13 +1687,13 @@
     "value": "Répulsion"
   },
   "/lotus/storeitems/powersuits/archwing/standardjetpack/fireshieldabilitycard": {
-    "value": "Energy Shell"
+    "value": "Bouclier d'Énergie"
   },
   "/lotus/storeitems/powersuits/archwing/standardjetpack/flarecountermeasureabilitycard": {
-    "value": "Disarray"
+    "value": "Artifice"
   },
   "/lotus/storeitems/powersuits/archwing/standardjetpack/missilevolleyabilitycard": {
-    "value": "Seeking Fire"
+    "value": "Tirs Guidés"
   },
   "/lotus/storeitems/powersuits/archwing/standardjetpack/standardjetpack": {
     "value": "Odonata"
@@ -1702,13 +1702,13 @@
     "value": "Intervalle"
   },
   "/lotus/storeitems/powersuits/archwing/stealthjetpack/cloakabilitycard": {
-    "value": "Penumbra"
+    "value": "Pénombre"
   },
   "/lotus/storeitems/powersuits/archwing/stealthjetpack/distractiondronesabilitycard": {
-    "value": "Fighter Escort"
+    "value": "Escorte de Combattant"
   },
   "/lotus/storeitems/powersuits/archwing/stealthjetpack/gravinstabilityabilitycard": {
-    "value": "Cosmic Crush"
+    "value": "Compression Cosmique"
   },
   "/lotus/storeitems/powersuits/archwing/stealthjetpack/stealthjetpack": {
     "value": "Itzal"
@@ -1741,16 +1741,16 @@
     "value": "Valkyr"
   },
   "/lotus/storeitems/powersuits/berserker/grappleabilitycard": {
-    "value": "Rip Line"
+    "value": "Ligne d'Arrachage"
   },
   "/lotus/storeitems/powersuits/berserker/grappleaugmentcard": {
-    "value": "Swing Line"
+    "value": "Ligne Pivotante"
   },
   "/lotus/storeitems/powersuits/berserker/intimidateabilitycard": {
     "value": "Cri de guerre"
   },
   "/lotus/storeitems/powersuits/berserker/intimidateaugmentcard": {
-    "value": "Eternal War"
+    "value": "Guerre Éternelle"
   },
   "/lotus/storeitems/powersuits/berserker/laststandabilitycard": {
     "value": "Hystérie"
@@ -1759,10 +1759,10 @@
     "value": "Hysterical Fixation"
   },
   "/lotus/storeitems/powersuits/berserker/shieldbashaugmentcard": {
-    "value": "Prolonged Paralysis"
+    "value": "Paralysie Prolongée"
   },
   "/lotus/storeitems/powersuits/berserker/shieldblastabilitycard": {
-    "value": "Paralysis"
+    "value": "Paralysie"
   },
   "/lotus/storeitems/powersuits/cowgirl/ballisticbatteryabilitycard": {
     "value": "Ballistic Battery"
@@ -5635,7 +5635,7 @@
     "value": "Targeting Receptor"
   },
   "/lotus/storeitems/types/sentinels/sentinelprecepts/thumper": {
-    "value": "Thumper"
+    "value": "Barrage"
   },
   "/lotus/storeitems/types/sentinels/sentinelprecepts/vaporize": {
     "value": "Vaporize"
