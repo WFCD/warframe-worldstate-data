@@ -43,13 +43,13 @@
   },
   "challenges": {
     "PVPTimedChallengeKillsPrimaryEASY": {
-      "title": "Primary Target",
-      "description": "Kill 1 enemy with your Primary Weapon",
+      "title": "Cible principale",
+      "description": "Tuez 1 ennemi avec votre Arme Principale",
       "standing": 500
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
-      "title": "Primary Target",
-      "description": "Kill 4 enemies with your Primary Weapon",
+      "title": "Cible principale",
+      "description": "Tuez 4 ennemis avec votre Arme Principale",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
@@ -58,13 +58,13 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
-      "title": "Secondary Target",
-      "description": "Kill 1 enemy with your Secondary Weapon",
+      "title": "Cible secondaire",
+      "description": "Tuez 1 ennemi avec votre Arme Principale",
       "standing": 500
     },
     "PVPTimedChallengeKillsSecondaryMEDIUM": {
-      "title": "Secondary Target",
-      "description": "Kill 4 enemies with your Secondary Weapon",
+      "title": "Cible secondaire",
+      "description": "Tuez 4 ennemis avec votre Arme Principale",
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
@@ -88,12 +88,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsComboEASY": {
-      "title": "Dexterity",
+      "title": "Dextérité",
       "description": "Kill 1 opponent using two of Melee, Guns, and Abilities",
       "standing": 500
     },
     "PVPTimedChallengeKillsComboMEDIUM": {
-      "title": "Dexterity",
+      "title": "Dextérité",
       "description": "Kill 4 opponents using two of Melee, Guns, and Abilities",
       "standing": 1500
     },
@@ -178,12 +178,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
-      "title": "Gladiator",
+      "title": "Gladiateur",
       "description": "Get 1 Melee kill",
       "standing": 500
     },
     "PVPTimedChallengeKillsMeleeMEDIUM": {
-      "title": "Gladiator",
+      "title": "Gladiateur",
       "description": "Get 4 Melee kills",
       "standing": 1500
     },
