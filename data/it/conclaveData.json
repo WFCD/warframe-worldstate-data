@@ -34,41 +34,41 @@
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
       "value": "day_root",
-      "description": "Daily Category"
+      "description": "Categoria Settimanale"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
       "value": "modified round",
-      "description": "Modified Round"
+      "description": "Round Modificato"
     }
   },
   "challenges": {
     "PVPTimedChallengeKillsPrimaryEASY": {
-      "title": "Primary Target",
-      "description": "Kill 1 enemy with your Primary Weapon",
+      "title": "Bersaglio primario",
+      "description": "Uccidi 1 nemico con la tua Arma Primaria",
       "standing": 500
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
-      "title": "Primary Target",
-      "description": "Kill 4 enemies with your Primary Weapon",
+      "title": "Bersaglio primario",
+      "description": "Uccidi 4 nemici con la tua Arma Primaria",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
-      "title": "Focused Primary Target",
-      "description": "Kill 3 enemies with your Primary Weapon in a match",
+      "title": "Obiettivo Primario Mirato",
+      "description": "Uccidi 3 nemici con la tua Arma Primaria in una partita",
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
-      "title": "Secondary Target",
-      "description": "Kill 1 enemy with your Secondary Weapon",
+      "title": "Bersaglio Secondario",
+      "description": "Uccidi 1 nemico con la tua arma secondaria",
       "standing": 500
     },
     "PVPTimedChallengeKillsSecondaryMEDIUM": {
-      "title": "Secondary Target",
-      "description": "Kill 4 enemies with your Secondary Weapon",
+      "title": "Bersaglio Secondario",
+      "description": "Uccidi 4 nemici con la tua arma secondaria",
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
-      "title": "Focused Secondary Target",
+      "title": "Obiettivo secondario mirato",
       "description": "Kill 3 enemies with your Secondary Weapon in a match",
       "standing": 3000
     },
