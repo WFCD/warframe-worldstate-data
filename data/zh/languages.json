@@ -861,7 +861,7 @@
     "value": "Rathuum Prisoner Coordinates"
   },
   "/lotus/language/items/orokinreactor": {
-    "value": "Orokin Reactor"
+    "value": "Orokin 反应炉"
   },
   "/lotus/language/locations/relaystationtennocon": {
     "value": "TennoCon Relay"
@@ -3682,13 +3682,13 @@
     "value": "Omega Isotope"
   },
   "/lotus/storeitems/types/items/miscitems/orokincatalyst": {
-    "value": "Orokin Catalyst"
+    "value": "Orokin 催化剂"
   },
   "/lotus/storeitems/types/items/miscitems/orokincell": {
-    "value": "Orokin Cell"
+    "value": "Orokin 电池"
   },
   "/lotus/storeitems/types/items/miscitems/orokinreactor": {
-    "value": "Orokin Reactor"
+    "value": "Orokin 反应炉"
   },
   "/lotus/storeitems/types/items/miscitems/oxiumalloy": {
     "value": "Oxium"
@@ -4525,19 +4525,19 @@
     "value": "Corrupted Bombard Specter Blueprint"
   },
   "/lotus/storeitems/types/recipes/components/formaaurablueprint": {
-    "value": "Aura Forma Blueprint"
+    "value": "光环 Forma 蓝图"
   },
   "/lotus/storeitems/types/recipes/components/formablueprint": {
-    "value": "Forma Blueprint"
+    "value": "Forma 蓝图"
   },
   "/lotus/storeitems/types/recipes/components/formaumbrablueprint": {
-    "value": "Umbra Forma Blueprint"
+    "value": "Umbra Forma 蓝图"
   },
   "/lotus/storeitems/types/recipes/components/orokincatalystblueprint": {
-    "value": "Orokin Catalyst Blueprint"
+    "value": "Orokin 催化剂蓝图"
   },
   "/lotus/storeitems/types/recipes/components/orokinreactorblueprint": {
-    "value": "Orokin Reactor Blueprint"
+    "value": "Orokin 反应炉蓝图"
   },
   "/lotus/storeitems/types/recipes/components/vorboltremoverfakeitem": {
     "value": "Ascaris Negator"
@@ -12295,16 +12295,16 @@
     "desc": "完成一场任务"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionmelee": {
-    "value": "Swordsman",
-    "desc": "Complete a Mission with only a Melee Weapon equipped"
+    "value": "剑道中人",
+    "desc": "仅装备近战武器来完成一场任务"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
     "value": "枪不释手",
     "desc": "仅装备主要武器来完成一场任务"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionprimary": {
-    "value": "Hands Full",
-    "desc": "Complete a Mission with only a Primary Weapon equipped"
+    "value": "枪不释手",
+    "desc": "仅装备主要武器来完成一场任务"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "天降神兵",
@@ -12399,8 +12399,8 @@
     "desc": "击杀一个赤毒奴仆"
   },
   "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
-    "value": "Reclaimed",
-    "desc": "Clear a personal Lich Influenced Node"
+    "value": "解放",
+    "desc": "清理一个被个人赤毒玄骸影响的节点"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
     "value": "不施怜悯",
@@ -12447,16 +12447,16 @@
     "desc": "入侵8个控制台"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
-    "value": "Deep Impact",
-    "desc": "Suspend 5 or more enemies in the air at once with a Heavy Slam Melee Attack"
+    "value": "深度冲击",
+    "desc": "使用一次重击震地近战攻击让 5 个或以上敌人同时浮空"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "以旧换新",
     "desc": "完成3次MOD转换"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
-    "value": "Just Visiting",
-    "desc": "Visit a Featured Dojo"
+    "value": "随便看看",
+    "desc": "参观一处特色道场"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "value": "完美无瑕",
@@ -12583,8 +12583,8 @@
     "desc": "在夜灵平野完成5项不同的赏金任务"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
-    "value": "Explorer",
-    "desc": "Complete 3 Railjack Missions"
+    "value": "探险家",
+    "desc": "完成 3 场航道星舰任务"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
     "value": "箱子猎人",
@@ -12628,15 +12628,15 @@
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardexterminatenoalarm": {
     "value": "寂静歼灭",
-    "desc": "完成一场30级或者更高等级的歼灭任务并且没有被发觉到"
+    "desc": "在未触发警报的状态下完成一场30级或更高等级的歼灭任务"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
     "value": "极速战士",
     "desc": "在 90 秒内完成一个捕获任务"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfinishlich": {
-    "value": "Choose Wisely",
-    "desc": "Kill or Convert a Kuva Lich"
+    "value": "明智之选",
+    "desc": "击杀或感化一位赤毒玄骸"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
     "value": "防禦",
@@ -13966,13 +13966,13 @@
     "value": "Omega Isotope"
   },
   "/lotus/types/items/miscitems/orokincatalyst": {
-    "value": "Orokin Catalyst"
+    "value": "Orokin 催化剂"
   },
   "/lotus/types/items/miscitems/orokincell": {
-    "value": "Orokin Cell"
+    "value": "Orokin 电池"
   },
   "/lotus/types/items/miscitems/orokinreactor": {
-    "value": "Orokin Reactor"
+    "value": "Orokin 反应炉"
   },
   "/lotus/types/items/miscitems/oxiumalloy": {
     "value": "Oxium"
@@ -14269,13 +14269,13 @@
     "value": "Pvp Tenno Avatar"
   },
   "/lotus/types/recipes/components/formablueprint": {
-    "value": "Forma Blueprint"
+    "value": "Forma 蓝图"
   },
   "/lotus/types/recipes/components/orokincatalystblueprint": {
-    "value": "Orokin Catalyst Blueprint"
+    "value": "Orokin 催化剂蓝图"
   },
   "/lotus/types/recipes/components/orokinreactorblueprint": {
-    "value": "Orokin Reactor Blueprint"
+    "value": "Orokin 反应炉蓝图"
   },
   "/lotus/types/recipes/components/utilityunlockerblueprint": {
     "value": "Exilus Adapter Blueprint"
@@ -15292,7 +15292,7 @@
     "value": "Atlas Karst Collection"
   },
   "/lotus/types/storeitems/packages/auraformathreepack": {
-    "value": "Aura Forma Bundle"
+    "value": "光环 Forma 组合包"
   },
   "/lotus/types/storeitems/packages/bansheedeluxeskinbundle": {
     "value": "Banshee Soprana Bundle"
