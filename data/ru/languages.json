@@ -5727,6 +5727,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageproteaaction": {
     "value": "Protea In Action Glyph"
   },
+  "/lotus/storeitems/types/storeitems/avatarimages/avatarimagexakuaction": {
+    "value": "Xaku In Action Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/imageashbright": {
     "value": "Глиф Эша"
   },
@@ -13493,6 +13496,9 @@
   },
   "/lotus/types/game/enemyspecs/specialmissionspecs/disruptioncorpusamalgams": {
     "value": "Сбой Амальгамы"
+  },
+  "/lotus/types/game/enemyspecs/infestedsurvivalb": {
+    "value": "Invested Survival"
   },
   "/lotus/types/game/events/orbeventglyphone": {
     "value": "Data-hash 1"
