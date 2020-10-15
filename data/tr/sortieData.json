@@ -6,7 +6,7 @@
     "SORTIE_MODIFIER_PUNCTURE": "Enemy Physical Enhancement: Puncture",
     "SORTIE_MODIFIER_EXIMUS": "Eximus Kalesi",
     "SORTIE_MODIFIER_MAGNETIC": "Enemy Elemental Enhancement: Magnetic",
-    "SORTIE_MODIFIER_CORROSIVE": "Enemy Elemental Enhancement: Corrosive",
+    "SORTIE_MODIFIER_CORROSIVE": "Düşman Element Geliştirmesi: Paslanma",
     "SORTIE_MODIFIER_VIRAL": "Enemy Elemental Enhancement: Viral",
     "SORTIE_MODIFIER_ELECTRICITY": "Enemy Elemental Enhancement: Electricity",
     "SORTIE_MODIFIER_RADIATION": "Düşman Element Geliştirmesi: Radyasyon",
@@ -126,7 +126,7 @@
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
       "name": "Corrupted Vor",
-      "faction": "Corrupted"
+      "faction": "Orokin"
     }
   },
   "endStates": [
@@ -141,13 +141,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -177,7 +177,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -186,13 +186,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -201,13 +201,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -216,13 +216,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -231,13 +231,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -261,13 +261,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -276,13 +276,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -291,13 +291,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -306,13 +306,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -327,7 +327,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -350,7 +350,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -365,7 +365,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -380,7 +380,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -395,7 +395,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -428,13 +428,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -464,7 +464,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -473,13 +473,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -488,13 +488,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -503,13 +503,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -518,13 +518,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -548,13 +548,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -563,13 +563,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -578,13 +578,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -593,13 +593,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -614,7 +614,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -637,7 +637,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -652,7 +652,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -667,7 +667,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -700,13 +700,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -736,7 +736,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -745,13 +745,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -760,13 +760,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -775,13 +775,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -790,13 +790,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -820,13 +820,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -835,13 +835,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Savunma",
             "Suikast"
           ]
@@ -850,13 +850,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -865,13 +865,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -886,7 +886,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -909,7 +909,7 @@
             "Savunma",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -924,7 +924,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -939,7 +939,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -972,13 +972,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Survival",
+            "Hayatta Kalma",
+            "Hayatta Kalma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1008,7 +1008,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1017,13 +1017,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1032,13 +1032,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1047,13 +1047,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1062,13 +1062,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1092,13 +1092,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1107,13 +1107,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -1122,13 +1122,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1137,13 +1137,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1158,7 +1158,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -1181,7 +1181,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1196,7 +1196,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1211,7 +1211,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1244,13 +1244,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1280,7 +1280,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1289,13 +1289,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1304,13 +1304,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1319,13 +1319,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1334,13 +1334,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1364,13 +1364,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1379,13 +1379,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -1394,13 +1394,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1409,13 +1409,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1430,7 +1430,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -1453,7 +1453,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1468,7 +1468,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1483,7 +1483,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1516,13 +1516,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1552,7 +1552,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1561,13 +1561,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1576,13 +1576,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1591,13 +1591,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1606,13 +1606,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1636,13 +1636,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1651,13 +1651,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -1666,13 +1666,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1681,13 +1681,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1702,7 +1702,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -1725,7 +1725,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1740,7 +1740,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1755,7 +1755,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1788,13 +1788,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1824,7 +1824,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -1837,9 +1837,9 @@
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1848,13 +1848,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1863,13 +1863,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1878,13 +1878,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1908,13 +1908,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1923,13 +1923,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -1938,13 +1938,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1953,13 +1953,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -1974,7 +1974,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -1997,7 +1997,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2012,7 +2012,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2027,7 +2027,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2060,13 +2060,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2096,7 +2096,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2105,13 +2105,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2120,13 +2120,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2135,13 +2135,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2150,13 +2150,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2165,7 +2165,7 @@
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -2180,13 +2180,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2195,13 +2195,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -2210,13 +2210,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2225,13 +2225,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2246,7 +2246,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -2269,7 +2269,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2284,7 +2284,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2299,7 +2299,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2332,13 +2332,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2368,7 +2368,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2381,9 +2381,9 @@
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2392,13 +2392,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2407,13 +2407,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2422,13 +2422,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2452,13 +2452,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2467,13 +2467,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -2482,13 +2482,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2497,13 +2497,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2518,7 +2518,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -2541,7 +2541,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2556,7 +2556,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2571,7 +2571,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2604,13 +2604,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2640,7 +2640,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2649,13 +2649,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Sabotaj",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2664,13 +2664,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2679,13 +2679,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2694,13 +2694,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2715,7 +2715,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2730,7 +2730,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2739,13 +2739,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -2754,13 +2754,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2769,13 +2769,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2790,7 +2790,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -2813,7 +2813,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2828,7 +2828,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2843,7 +2843,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2876,13 +2876,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2897,7 +2897,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2912,7 +2912,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -2921,13 +2921,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2936,13 +2936,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2951,13 +2951,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2966,13 +2966,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -2996,13 +2996,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3011,13 +3011,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -3026,13 +3026,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3041,13 +3041,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3062,7 +3062,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -3085,7 +3085,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3100,7 +3100,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3115,7 +3115,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3148,13 +3148,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3184,7 +3184,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3193,13 +3193,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3208,13 +3208,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3223,13 +3223,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3238,13 +3238,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3259,7 +3259,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3268,13 +3268,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3283,13 +3283,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -3298,13 +3298,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3313,13 +3313,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3334,7 +3334,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -3357,7 +3357,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3372,7 +3372,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3381,13 +3381,13 @@
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3420,13 +3420,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3456,7 +3456,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3465,13 +3465,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3480,13 +3480,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3495,13 +3495,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3510,13 +3510,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3525,7 +3525,7 @@
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -3540,13 +3540,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3555,13 +3555,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -3570,13 +3570,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Hive",
             "Suikast"
           ]
@@ -3585,13 +3585,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3606,7 +3606,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -3629,7 +3629,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3644,7 +3644,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3659,7 +3659,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3692,13 +3692,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3728,7 +3728,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3737,13 +3737,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3752,13 +3752,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3767,13 +3767,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3782,13 +3782,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3812,13 +3812,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3827,13 +3827,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -3842,7 +3842,7 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -3857,13 +3857,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Hive",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -3878,7 +3878,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -3901,7 +3901,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3916,7 +3916,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3931,7 +3931,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -3964,13 +3964,13 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -4000,7 +4000,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -4009,13 +4009,13 @@
           "name": "Mars",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
-            "Interception",
+            "Engelleme",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -4024,13 +4024,13 @@
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -4039,13 +4039,13 @@
           "name": "Satürn",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -4054,13 +4054,13 @@
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -4084,13 +4084,13 @@
           "name": "Plüton",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -4099,13 +4099,13 @@
           "name": "Ceres",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -4114,13 +4114,13 @@
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Survival",
+            "Hayatta Kalma",
             "Hive",
             "Suikast"
           ]
@@ -4129,13 +4129,13 @@
           "name": "Sedna",
           "missions": [
             "Exterminate",
-            "Survival",
+            "Hayatta Kalma",
             "Kurtarma",
             "Sabotaj",
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Casus",
             "Suikast"
           ]
@@ -4150,7 +4150,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Kaçırma",
             "Suikast"
           ]
@@ -4173,7 +4173,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -4188,7 +4188,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
@@ -4203,7 +4203,7 @@
             "Casus",
             "Savunma",
             "Mobil Savunma",
-            "Interception",
+            "Engelleme",
             "Exterminate",
             "Suikast"
           ]
