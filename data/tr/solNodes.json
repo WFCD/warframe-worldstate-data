@@ -122,7 +122,7 @@
   "SolNode24": {
     "value": "Oro (Dünya)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode25": {
     "value": "Callisto (Jüpiter)",
@@ -162,7 +162,7 @@
   "SolNode32": {
     "value": "Tethys (Saturn)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode33": {
     "value": "Ariel (Uranus)",
@@ -257,7 +257,7 @@
   "SolNode51": {
     "value": "Hades (Pluto)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode52": {
     "value": "Portia (Uranus)",
@@ -267,7 +267,7 @@
   "SolNode53": {
     "value": "Themisto (Jupiter)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode54": {
     "value": "Silvanus (Mars)",
@@ -497,7 +497,7 @@
   "SolNode99": {
     "value": "War (Mars)",
     "enemy": "Grineer",
-    "type": "Assassinate"
+    "type": "Suikast"
   },
   "SolNode100": {
     "value": "Elara (Jupiter)",
@@ -522,12 +522,12 @@
   "SolNode104": {
     "value": "Fossa (Venus)",
     "enemy": "Corpus",
-    "type": "Assassinate"
+    "type": "Suikast"
   },
   "SolNode105": {
     "value": "Titania (Uranus)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode106": {
     "value": "Alator (Mars)",
@@ -542,7 +542,7 @@
   "SolNode108": {
     "value": "Tolstoj (Mercury)",
     "enemy": "Grineer",
-    "type": "Assassinate"
+    "type": "Suikast"
   },
   "SolNode109": {
     "value": "Linea (Venus)",
@@ -637,7 +637,7 @@
   "SolNode127": {
     "value": "Psamathe (Neptune)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode128": {
     "value": "E Gate (Venus)",
@@ -722,7 +722,7 @@
   "SolNode144": {
     "value": "Exta (Ceres)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode145": {
     "value": "Egeria (Ceres)",
@@ -963,7 +963,7 @@
   "SolNode193": {
     "value": "Merrow (Sedna)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode194": {
     "value": "Ponaturi (Sedna)",
@@ -1046,7 +1046,7 @@
   "SolNode210": {
     "value": "Naamah (Europa)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode211": {
     "value": "Ose (Europa)",
@@ -1212,17 +1212,17 @@
   "SolNode712": {
     "value": "Magnacidium (Deimos)",
     "enemy": "Infested",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode740": {
     "value": "The Ropalolyst (Jupiter)",
     "enemy": "Sentient",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode741": {
     "value": "Koro (Kuva Fortress)",
     "enemy": "Grineer",
-    "type": "Assault"
+    "type": "Saldırı"
   },
   "SolNode742": {
     "value": "Nabuk (Kuva Fortress)",
@@ -1437,7 +1437,7 @@
   "SettlementNode20": {
     "value": "Iliad (Phobos)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "MercuryHUB": {
     "value": "Larunda Relay (Mercury)",
@@ -1607,12 +1607,12 @@
   "EventNode28": {
     "value": "Satürn",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "EventNode29": {
     "value": "Satürn",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "EventNode30": {
     "value": "Ganymede (Jupiter)",
@@ -1867,7 +1867,7 @@
   "/Lotus/Types/Keys/SortieBossKeyPhorid": {
     "value": "Sortie Boss: Phorid",
     "enemy": "Infested",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil Proxima)",
