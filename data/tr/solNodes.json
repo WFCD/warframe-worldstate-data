@@ -92,7 +92,7 @@
   "SolNode18": {
     "value": "Rhea (Satürn)",
     "enemy": "Grineer",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode19": {
     "value": "Enceladus (Satürn)",
@@ -122,12 +122,12 @@
   "SolNode24": {
     "value": "Oro (Dünya)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode25": {
     "value": "Callisto (Jüpiter)",
     "enemy": "Corpus",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode26": {
     "value": "Lith (Dünya)",
@@ -162,7 +162,7 @@
   "SolNode32": {
     "value": "Tethys (Saturn)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode33": {
     "value": "Ariel (Uranus)",
@@ -217,7 +217,7 @@
   "SolNode43": {
     "value": "Cerberus (Pluto)",
     "enemy": "Corpus",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode44": {
     "value": "Mimas (Saturn)",
@@ -257,7 +257,7 @@
   "SolNode51": {
     "value": "Hades (Pluto)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode52": {
     "value": "Portia (Uranus)",
@@ -267,7 +267,7 @@
   "SolNode53": {
     "value": "Themisto (Jupiter)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode54": {
     "value": "Silvanus (Mars)",
@@ -322,7 +322,7 @@
   "SolNode64": {
     "value": "Umbriel (Uranus)",
     "enemy": "Grineer",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode65": {
     "value": "Gradivus (Mars)",
@@ -347,7 +347,7 @@
   "SolNode69": {
     "value": "Ophelia (Uranus)",
     "enemy": "Grineer",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode70": {
     "value": "Cassini (Saturn)",
@@ -375,7 +375,7 @@
     "type": "Mobil Savunma"
   },
   "SolNode75": {
-    "value": "Cervantes (Earth)",
+    "value": "Cervantes (Dünya)",
     "enemy": "Grineer",
     "type": "Sabotaj"
   },
@@ -395,7 +395,7 @@
     "type": "Kurtarma"
   },
   "SolNode79": {
-    "value": "Cambria (Earth)",
+    "value": "Cambria (Dünya)",
     "enemy": "Grineer",
     "type": "Casus"
   },
@@ -427,7 +427,7 @@
   "SolNode85": {
     "value": "Gaia (Earth)",
     "enemy": "Grineer",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode86": {
     "value": "Aegaeon (Saturn)",
@@ -445,7 +445,7 @@
     "type": "Casus"
   },
   "SolNode89": {
-    "value": "Mariana (Earth)",
+    "value": "Mariana (Dünya)",
     "enemy": "Grineer",
     "type": "Exterminate"
   },
@@ -472,7 +472,7 @@
   "SolNode94": {
     "value": "Apollodorus (Mercury)",
     "enemy": "Infested",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode95": {
     "value": "Thalassa (Neptune)",
@@ -482,7 +482,7 @@
   "SolNode96": {
     "value": "Titan (Saturn)",
     "enemy": "Grineer",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode97": {
     "value": "Amalthea (Jupiter)",
@@ -497,12 +497,12 @@
   "SolNode99": {
     "value": "War (Mars)",
     "enemy": "Grineer",
-    "type": "Assassinate"
+    "type": "Suikast"
   },
   "SolNode100": {
     "value": "Elara (Jupiter)",
     "enemy": "Corpus",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode101": {
     "value": "Kiliken (Venus)",
@@ -522,17 +522,17 @@
   "SolNode104": {
     "value": "Fossa (Venus)",
     "enemy": "Corpus",
-    "type": "Assassinate"
+    "type": "Suikast"
   },
   "SolNode105": {
     "value": "Titania (Uranus)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode106": {
     "value": "Alator (Mars)",
     "enemy": "Grineer",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode107": {
     "value": "Venera (Venus)",
@@ -542,7 +542,7 @@
   "SolNode108": {
     "value": "Tolstoj (Mercury)",
     "enemy": "Grineer",
-    "type": "Assassinate"
+    "type": "Suikast"
   },
   "SolNode109": {
     "value": "Linea (Venus)",
@@ -617,7 +617,7 @@
   "SolNode123": {
     "value": "V Prime (Venus)",
     "enemy": "Corpus",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode124": {
     "value": "Trinculo (Uranus)",
@@ -637,7 +637,7 @@
   "SolNode127": {
     "value": "Psamathe (Neptune)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode128": {
     "value": "E Gate (Venus)",
@@ -722,7 +722,7 @@
   "SolNode144": {
     "value": "Exta (Ceres)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode145": {
     "value": "Egeria (Ceres)",
@@ -732,12 +732,12 @@
   "SolNode146": {
     "value": "Draco (Ceres)",
     "enemy": "Grineer",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode147": {
     "value": "Cinxia (Ceres)",
     "enemy": "Grineer",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode148": {
     "value": "Cerium (Ceres)"
@@ -828,7 +828,7 @@
   "SolNode166": {
     "value": "Nimus (Eris)",
     "enemy": "Infested",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode167": {
     "value": "Oestrus (Eris)",
@@ -858,7 +858,7 @@
   "SolNode172": {
     "value": "Xini (Eris)",
     "enemy": "Infested",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode173": {
     "value": "Solium (Eris)",
@@ -923,7 +923,7 @@
   "SolNode185": {
     "value": "Berehynia (Sedna)",
     "enemy": "Grineer",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode186": {
     "value": "Phithale (Sedna)",
@@ -933,7 +933,7 @@
   "SolNode187": {
     "value": "Selkie (Sedna)",
     "enemy": "Grineer",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode188": {
     "value": "Kelpie (Sedna)",
@@ -963,7 +963,7 @@
   "SolNode193": {
     "value": "Merrow (Sedna)",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode194": {
     "value": "Ponaturi (Sedna)",
@@ -1046,12 +1046,12 @@
   "SolNode210": {
     "value": "Naamah (Europa)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode211": {
     "value": "Ose (Europa)",
     "enemy": "Corpus",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode212": {
     "value": "Paimon (Europa)",
@@ -1114,7 +1114,7 @@
   "SolNode224": {
     "value": "Odin (Mercury)",
     "enemy": "Grineer",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode225": {
     "value": "Suisei (Mercury)",
@@ -1162,7 +1162,7 @@
   "SolNode405": {
     "value": "Ani (Void)",
     "enemy": "Orokin",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode406": {
     "value": "Ukko (Void)",
@@ -1182,7 +1182,7 @@
   "SolNode409": {
     "value": "Mot (Void)",
     "enemy": "Orokin",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode410": {
     "value": "Aten (Void)",
@@ -1197,65 +1197,65 @@
   "SolNode412": {
     "value": "Mithra (Void)",
     "enemy": "Orokin",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "SolNode413": {
     "value": "SolNode413 (Void)",
-    "enemy": "Corrupted",
+    "enemy": "Orokin",
     "type": "Ancient Retribution"
   },
   "SolNode711": {
     "value": "Terrorren (Deimos)",
     "enemy": "Infested",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode712": {
     "value": "Magnacidium (Deimos)",
     "enemy": "Infested",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode740": {
     "value": "The Ropalolyst (Jupiter)",
     "enemy": "Sentient",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "SolNode741": {
-    "value": "Koro (Kuva Fortress)",
+    "value": "Koro (Kuva Kalesi)",
     "enemy": "Grineer",
-    "type": "Assault"
+    "type": "Saldırı"
   },
   "SolNode742": {
-    "value": "Nabuk (Kuva Fortress)",
+    "value": "Nabuk (Kuva Kalesi)",
     "enemy": "Grineer",
     "type": "Ele Geçirme"
   },
   "SolNode743": {
-    "value": "Rotuma (Kuva Fortress)",
+    "value": "Rotuma (Kuva Kalesi)",
     "enemy": "Grineer",
     "type": "Mobil Savunma"
   },
   "SolNode744": {
-    "value": "Taveuni (Kuva Fortress)",
+    "value": "Taveuni (Kuva Kalesi)",
     "enemy": "Grineer",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode745": {
-    "value": "Tamu (Kuva Fortress)",
+    "value": "Tamu (Kuva Kalesi)",
     "enemy": "Grineer",
     "type": "Kargaşa"
   },
   "SolNode746": {
-    "value": "Dakata (Kuva Fortress)",
+    "value": "Dakata (Kuva Kalesi)",
     "enemy": "Grineer",
     "type": "Extermination"
   },
   "SolNode747": {
-    "value": "Pago (Kuva Fortress)",
+    "value": "Pago (Kuva Kalesi)",
     "enemy": "Grineer",
     "type": "Casus"
   },
   "SolNode748": {
-    "value": "Garus (Kuva Fortress)",
+    "value": "Garus (Kuva Kalesi)",
     "enemy": "Grineer",
     "type": "Kurtarma"
   },
@@ -1270,7 +1270,7 @@
     "type": "Exterminate (Archwing)"
   },
   "SolNode903": {
-    "value": "Erpo (Earth)",
+    "value": "Erpo (Dünya)",
     "enemy": "Grineer",
     "type": "Mobil Savunma (Archwing)"
   },
@@ -1312,7 +1312,7 @@
   "SolNode302": {
     "value": "Tycho (Lua)",
     "enemy": "Corpus",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode304": {
     "value": "Copernicus (Lua)",
@@ -1322,7 +1322,7 @@
   "SolNode305": {
     "value": "Stöfler (Lua)",
     "enemy": "Corpus",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SolNode306": {
     "value": "Pavlov (Lua)",
@@ -1352,7 +1352,7 @@
   "SettlementNode3": {
     "value": "Stickney (Phobos)",
     "enemy": "Corpus",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "SettlementNode4": {
     "value": "Drunlo (Phobos)",
@@ -1437,7 +1437,7 @@
   "SettlementNode20": {
     "value": "Iliad (Phobos)",
     "enemy": "Corpus",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "MercuryHUB": {
     "value": "Larunda Relay (Mercury)",
@@ -1497,7 +1497,7 @@
   "EventNode4": {
     "value": "Proxy Rebellion",
     "enemy": "Corpus",
-    "type": "Survival"
+    "type": "Hayatta Kalma"
   },
   "EventNode5": {
     "value": "Birog",
@@ -1512,7 +1512,7 @@
   "EventNode7": {
     "value": "Proxy Rebellion",
     "enemy": "Corpus",
-    "type": "Interception"
+    "type": "Engelleme"
   },
   "EventNode8": {
     "value": "Corb",
@@ -1601,18 +1601,18 @@
   },
   "EventNode27": {
     "value": "Void",
-    "enemy": "Corrupted",
-    "type": "Survival"
+    "enemy": "Orokin",
+    "type": "Hayatta Kalma"
   },
   "EventNode28": {
     "value": "Satürn",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "EventNode29": {
     "value": "Satürn",
     "enemy": "Grineer",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "EventNode30": {
     "value": "Ganymede (Jupiter)",
@@ -1737,7 +1737,7 @@
   "ClanNode0": {
     "value": "Romula (Venus)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "Savunma"
   },
   "ClanNode1": {
     "value": "Malva (Venus)",
@@ -1747,7 +1747,7 @@
   "ClanNode2": {
     "value": "Coba (Earth)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "Savunma"
   },
   "ClanNode3": {
     "value": "Tikal (Earth)",
@@ -1767,7 +1767,7 @@
   "ClanNode6": {
     "value": "Larzac (Europa)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "Savunma"
   },
   "ClanNode7": {
     "value": "Cholistan (Europa)",
@@ -1777,7 +1777,7 @@
   "ClanNode8": {
     "value": "Kadesh (Mars)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "Savunma"
   },
   "ClanNode9": {
     "value": "Wahiba (Mars)",
@@ -1787,7 +1787,7 @@
   "ClanNode10": {
     "value": "Memphis (Phobos)",
     "enemy": "Infested",
-    "type": "Dark Sector Defection"
+    "type": "Sığınma"
   },
   "ClanNode11": {
     "value": "Zeugma (Phobos)",
@@ -1797,7 +1797,7 @@
   "ClanNode12": {
     "value": "Caracol (Saturn)",
     "enemy": "Infested",
-    "type": "Dark Sector Defection"
+    "type": "Sığınma"
   },
   "ClanNode13": {
     "value": "Piscinas (Saturn)",
@@ -1812,12 +1812,12 @@
   "ClanNode15": {
     "value": "Sangeru (Sedna)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "Savunma"
   },
   "ClanNode16": {
     "value": "Ur (Uranus)",
     "enemy": "Infested",
-    "type": "Dark Sector Disruption"
+    "type": "Kargaşa"
   },
   "ClanNode17": {
     "value": "Assur (Uranus)",
@@ -1827,7 +1827,7 @@
   "ClanNode18": {
     "value": "Akkad (Eris)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "Savunma"
   },
   "ClanNode19": {
     "value": "Zabala (Eris)",
@@ -1837,7 +1837,7 @@
   "ClanNode20": {
     "value": "Yursa (Neptune)",
     "enemy": "Infested",
-    "type": "Dark Sector Defection"
+    "type": "Sığınma"
   },
   "ClanNode21": {
     "value": "Kelashin (Neptune)",
@@ -1847,7 +1847,7 @@
   "ClanNode22": {
     "value": "Seimeni (Ceres)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "Savunma"
   },
   "ClanNode23": {
     "value": "Gabii (Ceres)",
@@ -1857,7 +1857,7 @@
   "ClanNode24": {
     "value": "Sechura (Pluto)",
     "enemy": "Infested",
-    "type": "Dark Sector Defense"
+    "type": "Savunma"
   },
   "ClanNode25": {
     "value": "Hieracon (Pluto)",
@@ -1867,7 +1867,7 @@
   "/Lotus/Types/Keys/SortieBossKeyPhorid": {
     "value": "Sortie Boss: Phorid",
     "enemy": "Infested",
-    "type": "Assassination"
+    "type": "Suikast"
   },
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil Proxima)",

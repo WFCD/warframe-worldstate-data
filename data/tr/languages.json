@@ -468,7 +468,7 @@
     "value": "Acquire Ship's Logs"
   },
   "/lotus/language/alerts/lotusgiftdesc": {
-    "value": "Gift From The Lotus"
+    "value": "Lotus'un Armağanı"
   },
   "/lotus/language/alerts/nightmarealertdesc": {
     "value": "Nightmare Mod Located"
@@ -798,7 +798,7 @@
     "value": "Community Goal: Kill Infested Chargers to unlock a Double Resource weekend in March!"
   },
   "/lotus/language/g1quests/waroninfestedtitle": {
-    "value": "War on Infested"
+    "value": "Infested Muharebesi"
   },
   "/lotus/language/game/areacasteracolyte": {
     "value": "Misery"
@@ -3637,7 +3637,7 @@
     "value": "Vay Hek Nav Coordinate"
   },
   "/lotus/storeitems/types/items/miscitems/infestedaladcoordinate": {
-    "value": "Mutalist Alad V Nav Coordinate"
+    "value": "Mutalist Nav Koordinatı"
   },
   "/lotus/storeitems/types/items/miscitems/juggernautparta": {
     "value": "Pulsating Tubercles"
@@ -3682,10 +3682,10 @@
     "value": "Omega Isotope"
   },
   "/lotus/storeitems/types/items/miscitems/orokincatalyst": {
-    "value": "Orokin Catalyst"
+    "value": "Orokin Katalizör"
   },
   "/lotus/storeitems/types/items/miscitems/orokincell": {
-    "value": "Orokin Cell"
+    "value": "Orokin Hücresi"
   },
   "/lotus/storeitems/types/items/miscitems/orokinreactor": {
     "value": "Orokin Reactor"
@@ -3769,7 +3769,7 @@
     "value": "Moonlight Dragonlily Extract"
   },
   "/lotus/storeitems/types/items/research/biocomponent": {
-    "value": "Mutagen Mass"
+    "value": "Mutaston Kütlesi"
   },
   "/lotus/storeitems/types/items/research/biofragment": {
     "value": "Mutagen Sample"
@@ -4534,7 +4534,7 @@
     "value": "Umbra Forma Blueprint"
   },
   "/lotus/storeitems/types/recipes/components/orokincatalystblueprint": {
-    "value": "Orokin Catalyst Blueprint"
+    "value": "Orokin Katalizör Kalıp"
   },
   "/lotus/storeitems/types/recipes/components/orokinreactorblueprint": {
     "value": "Orokin Reactor Blueprint"
@@ -12274,12 +12274,12 @@
     "value": "Relic Pack"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "value": "Glider",
+    "value": "Planör",
     "desc": "Kill 20 Enemies while Aim Gliding"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
-    "value": "Trampoline",
-    "desc": "Bullet Jump 150 times"
+    "value": "Trambolin",
+    "desc": "150 Mermi sıçrayışı yap"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
     "value": "Researcher",
@@ -12290,7 +12290,7 @@
     "desc": "Pick up 15,000 Credits"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollecthundredresources": {
-    "value": "Gatherer",
+    "value": "Toplayıcı",
     "desc": "Collect 1,500 Resources"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
@@ -12326,7 +12326,7 @@
     "desc": "Donate to the Leverian"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
-    "value": "Loyalty",
+    "value": "Sadakat",
     "desc": "Interact with your Kubrow or Kavat"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
@@ -12462,7 +12462,7 @@
     "desc": "Visit a Featured Dojo"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
-    "value": "Flawless",
+    "value": "Kusursuz",
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
@@ -12514,11 +12514,11 @@
     "desc": "Complete 3 Rescue missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesabotage": {
-    "value": "Saboteur",
+    "value": "Sabotajcı",
     "desc": "Complete 3 Sabotage missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesortie": {
-    "value": "Sortie Specialist",
+    "value": "Taarruz Uzmanı",
     "desc": "Complete 1 Sorties"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletespy": {
@@ -12538,7 +12538,7 @@
     "desc": "Complete 3 different K-Drive races in Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
-    "value": "Forward Thinking",
+    "value": "İlerici",
     "desc": "Destroy a Crewship with Forward Artillery"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
@@ -12590,7 +12590,7 @@
     "desc": "Complete 3 Railjack Missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
-    "value": "Cache Hunter",
+    "value": "Zula Avcısı",
     "desc": "Find all caches in 3 Sabotage missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
@@ -12598,7 +12598,7 @@
     "desc": "Complete 8 waves of Sanctuary Onslaught"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
-    "value": "Sanctuary Researcher",
+    "value": "Sığınak Araştırmacısı",
     "desc": "Complete 5 Scans for Cephalon Simaris"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
@@ -12650,7 +12650,7 @@
     "desc": "Kill Profit-Taker"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "value": "Survival",
+    "value": "Hayatta Kalma",
     "desc": "Complete a Survival mission reaching at least 30 minutes"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
@@ -13951,7 +13951,7 @@
     "value": "Vay Hek Nav Coordinate [Obsolete??]"
   },
   "/lotus/types/items/miscitems/infestedaladcoordinate": {
-    "value": "Mutalist Alad V Nav Coordinate"
+    "value": "Mutalist Nav Koordinatı"
   },
   "/lotus/types/items/miscitems/juggernautparta": {
     "value": "Pulsating Tubercles"
@@ -13999,10 +13999,10 @@
     "value": "Omega Isotope"
   },
   "/lotus/types/items/miscitems/orokincatalyst": {
-    "value": "Orokin Catalyst"
+    "value": "Orokin Katalizör"
   },
   "/lotus/types/items/miscitems/orokincell": {
-    "value": "Orokin Cell"
+    "value": "Orokin Hücresi"
   },
   "/lotus/types/items/miscitems/orokinreactor": {
     "value": "Orokin Reactor"
@@ -14089,7 +14089,7 @@
     "value": "Titanium"
   },
   "/lotus/types/items/research/biocomponent": {
-    "value": "Mutagen Mass"
+    "value": "Mutaston Kütlesi"
   },
   "/lotus/types/items/research/chemcomponent": {
     "value": "Patlayıcı Enjektör"
@@ -14305,7 +14305,7 @@
     "value": "Forma Kalıp"
   },
   "/lotus/types/recipes/components/orokincatalystblueprint": {
-    "value": "Orokin Catalyst Blueprint"
+    "value": "Orokin Katalizör Kalıp"
   },
   "/lotus/types/recipes/components/orokinreactorblueprint": {
     "value": "Orokin Reactor Blueprint"
@@ -14335,16 +14335,16 @@
     "value": "Sheev Blueprint"
   },
   "/lotus/types/recipes/weapons/karakwraithblueprint": {
-    "value": "Karak Wraith Blueprint"
+    "value": "Karak Wraith Kalıp"
   },
   "/lotus/types/recipes/weapons/latronwraithblueprint": {
-    "value": "Latron Wraith Blueprint"
+    "value": "Latron Wraith Kalıp"
   },
   "/lotus/types/recipes/weapons/snipetronvandalblueprint": {
     "value": "Snipetron Vandal Blueprint"
   },
   "/lotus/types/recipes/weapons/strunwraithblueprint": {
-    "value": "Strun Wraith Blueprint"
+    "value": "Strun Wraith Kalıp"
   },
   "/lotus/types/recipes/weapons/twinviperswraithblueprint": {
     "value": "Wraith Twin Vipers Blueprint"
@@ -14365,7 +14365,7 @@
     "value": "Sheev Handle"
   },
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifeheatsink": {
-    "value": "Sheev Heatsink"
+    "value": "Sheev Soğutucu"
   },
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifehilt": {
     "value": "Sheev Hilt"
@@ -14374,7 +14374,7 @@
     "value": "Karak Wraith Barrel"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithreceiver": {
-    "value": "Karak Wraith Receiver"
+    "value": "Karak Wraith Sürgü"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithstock": {
     "value": "Karak Wraith Dipçik"
@@ -14386,7 +14386,7 @@
     "value": "Latron Wraith Receiver"
   },
   "/lotus/types/recipes/weapons/weaponparts/latronwraithstock": {
-    "value": "Latron Wraith Stock"
+    "value": "Latron Wraith Dipçik"
   },
   "/lotus/types/recipes/weapons/weaponparts/snipetronvandalbarrel": {
     "value": "Snipetron Vandal Barrel"
@@ -14404,13 +14404,13 @@
     "value": "Strun Wraith Receiver"
   },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithstock": {
-    "value": "Strun Wraith Stock"
+    "value": "Strun Wraith Dipçik"
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithbarrel": {
     "value": "Wraith Twin Vipers Barrel"
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithlink": {
-    "value": "Wraith Twin Vipers Link"
+    "value": "Twin Vipers Wraith Namlu"
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithreceiver": {
     "value": "Wraith Twin Vipers Receiver"
@@ -15244,7 +15244,7 @@
     "value": "Zephyr Tengu Profile Icon"
   },
   "/lotus/types/storeitems/boosters/affinitybooster3daystoreitem": {
-    "value": "3 Day Affinity Booster"
+    "value": "3 Günlük Tecrübe Arttırıcı"
   },
   "/lotus/types/storeitems/boosters/affinitybooster7daystoreitem": {
     "value": "7 Day Affinity Booster"
@@ -15253,7 +15253,7 @@
     "value": "Affinity Booster"
   },
   "/lotus/types/storeitems/boosters/creditbooster3daystoreitem": {
-    "value": "3 Day Credit Booster"
+    "value": "3 Günlük Kredi Arttırıcı"
   },
   "/lotus/types/storeitems/boosters/creditbooster7daystoreitem": {
     "value": "7 Day Credit Booster"
@@ -15904,10 +15904,10 @@
     "value": "Okina Weapon Bundle"
   },
   "/lotus/types/storeitems/packages/threedayaffinitypack": {
-    "value": "3 Day Affinity Booster"
+    "value": "3 Günlük Tecrübe Arttırıcı"
   },
   "/lotus/types/storeitems/packages/threedaycreditpack": {
-    "value": "3 Day Credit Booster"
+    "value": "3 Günlük Kredi Arttırıcı"
   },
   "/lotus/types/storeitems/packages/threedayresourcepack": {
     "value": "3 Day Resource Booster"
