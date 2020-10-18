@@ -684,7 +684,7 @@
     "value": "Replenish your depleting oxygen supply by killing enemies and holding out for supply drops."
   },
   "/lotus/language/alerts/tacalertproxyrebellion": {
-    "value": "Tactical Alert: Proxy Rebelllion"
+    "value": "Taktiksel Alert: Proxy İsyanı"
   },
   "/lotus/language/alerts/tacalertwaterfight": {
     "value": "Tactical Alert: Dog Days"
@@ -711,10 +711,10 @@
     "value": "Operasyon: Düşman Birleşmeleri"
   },
   "/lotus/language/events/tacalerthalloweenlantern": {
-    "value": "Tactical Alert: Hallowed Flame"
+    "value": "Taktiksel Alert: Hallowed Flame"
   },
   "/lotus/language/events/tacalerthalloweenlanternendless": {
-    "value": "Tactical Alert: Hallowed Flame - Endless"
+    "value": "Taktiksel Alert: Hallowed Flame - Dayanıklılık"
   },
   "/lotus/language/g1quests/anniversary2017missiontitle": {
     "value": "Gifts of the Lotus - Stolen!"
@@ -729,7 +729,7 @@
     "value": "Find and scan data-hashes on the Orb Vallis"
   },
   "/lotus/language/g1quests/deck12glyphhunteventname": {
-    "value": "Operation: Buried Debts"
+    "value": "Operasyon: Buried Debts"
   },
   "/lotus/language/g1quests/flotillaoperation": {
     "value": "Scarlet Spear"
@@ -828,7 +828,7 @@
     "value": "Steal Vay Hek's Thrax Toxin, mix it, and poison the Infested Boil growing in the center of the plains."
   },
   "/lotus/language/infestedplainsevent/infestedplainsbountyname": {
-    "value": "Plague Star"
+    "value": "Salgın Yıldızı"
   },
   "/lotus/language/items/eventdoubleaffinitydesc": {
     "value": "Doubles the amount you get from pickups and mission rewards."
@@ -12335,11 +12335,11 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "value": "Power Trip",
-    "desc": "Kill 150 Enemies with Abilities"
+    "desc": "Yeteneklerini kullanarak 150 düşman öldür"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
     "value": "Detonator",
-    "desc": "Kill 150 Enemies with Blast Damage"
+    "desc": "Patlama hasar ile 150 düşman öldür"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithcorrosive": {
     "value": "Meltdown",
@@ -13702,7 +13702,7 @@
     "value": "Rescue the Ghoul Defector"
   },
   "/lotus/types/gameplay/eidolon/jobs/events/infestedplainsbounty": {
-    "value": "Plague Star"
+    "value": "Salgın Yıldızı"
   },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountycache": {
     "value": "Find the Hidden Artifact"
@@ -14371,7 +14371,7 @@
     "value": "Sheev Kabza"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithbarrel": {
-    "value": "Karak Wraith Barrel"
+    "value": "Karak Wraith Namlu"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithreceiver": {
     "value": "Karak Wraith Sürgü"
