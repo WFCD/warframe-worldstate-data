@@ -12294,7 +12294,7 @@
     "desc": "Collect 1,500 Resources"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
-    "value": "Agent",
+    "value": "Ajan",
     "desc": "Complete a Mission"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionmelee": {
@@ -12310,7 +12310,7 @@
     "desc": "Complete a Mission with only a Primary Weapon equipped"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
-    "value": "Air It Out",
+    "value": "Havalandır",
     "desc": "Deploy an Air Support Charge in a Mission"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
@@ -12354,7 +12354,7 @@
     "desc": "Kill 10 Enemies with Finishers"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfire": {
-    "value": "Arsonist",
+    "value": "Kundakçı",
     "desc": "Kill 150 Enemies with Heat Damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfreeze": {
@@ -12370,7 +12370,7 @@
     "desc": "Kill 40 Enemies with Headshots"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
-    "value": "Attractive",
+    "value": "Çekici",
     "desc": "Kill 150 Enemies with Magnetic damage"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
@@ -12379,7 +12379,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithprimary": {
     "value": "Mow Them Down",
-    "desc": "Kill 150 Enemies with a Primary Weapon"
+    "desc": "Birinci silahınla 150 düşman öldür"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
     "value": "Poisoner",
@@ -12387,11 +12387,11 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithradiation": {
     "value": "Reactor",
-    "desc": "Kill 150 Enemies with a Radiation Damage"
+    "desc": "Radyasyon hasarı ile 150 düşman öldür"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithsecondary": {
     "value": "Smaller Is Bigger",
-    "desc": "Kill 150 Enemies with a Secondary Weapon"
+    "desc": "İkincil silahınla 150 düşman öldür"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
     "value": "Sharing is Caring",
@@ -12399,7 +12399,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
     "value": "Hush",
-    "desc": "Kill a Kuva Thrall"
+    "desc": "Bir Kuva Thrall öldür"
   },
   "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
     "value": "Reclaimed",
@@ -12410,7 +12410,7 @@
     "desc": "Mercy Kill an Enemy"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyrailjackhijackdestroythree": {
-    "value": "Friendly Fire",
+    "value": "Dost Ateşi",
     "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
@@ -12423,7 +12423,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmedallion": {
     "value": "The Hunt is On",
-    "desc": "Find 5 Syndicate Medallions"
+    "desc": "5 Sendika Madalyonu bulun"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
     "value": "Shiny",
@@ -12442,7 +12442,7 @@
     "desc": "Play a game of Frame Fighter, Happy Zephyr, or Wyrmius"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
-    "value": "Accelerator",
+    "value": "Hızlandırıcı",
     "desc": "Kill 20 Enemies while Sliding"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
@@ -12455,10 +12455,10 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "Everything Old is New Again",
-    "desc": "Complete 3 Transmutations"
+    "desc": "3 adet mod dönüşümü tamamla"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
-    "value": "Just Visiting",
+    "value": "Sadece Ziyaret",
     "desc": "Visit a Featured Dojo"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
@@ -12466,7 +12466,7 @@
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
-    "value": "Earth Fisher",
+    "value": "Dünya Balıkçısı",
     "desc": "Catch 6 Rare Fish in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrarevenusfish": {
@@ -12474,11 +12474,11 @@
     "desc": "Catch 6 Rare Servofish in the Orb Vallis"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
-    "value": "Assassin",
+    "value": "Suikastçi",
     "desc": "Complete 3 Assassination missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
-    "value": "Jailer",
+    "value": "Gardiyan",
     "desc": "Complete 3 Capture missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
@@ -12490,7 +12490,7 @@
     "desc": "Complete 12 Conduits in Disruption"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteexterminate": {
-    "value": "Eliminator",
+    "value": "Yok Edici",
     "desc": "Complete 3 Exterminate missions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
@@ -12523,14 +12523,14 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletespy": {
     "value": "Operative",
-    "desc": "Complete 3 Spy missions"
+    "desc": "3 Casus görevi tamamla"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
     "value": "Supporter",
     "desc": "Complete 10 Syndicate misions"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
-    "value": "Animator",
+    "value": "Animatör",
     "desc": "Fully socket 3 Ayatan Sculptures"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
@@ -12566,7 +12566,7 @@
     "desc": "Kill a Tusk Thumper in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
-    "value": "Earth Miner",
+    "value": "Dünya Madencisi",
     "desc": "Mine 6 Rare Gems in the Plains of Eidolon"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
@@ -12582,8 +12582,8 @@
     "desc": "Pick up 8 Rare Mods"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
-    "value": "Earth Bounty Hunter",
-    "desc": "Complete 5 different Bounties in the Plains of Eidolon"
+    "value": "Dünya Ödül Avcısı",
+    "desc": "Eidolon ovalarında 5 farklı görev tamamlayın"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
     "value": "Explorer",
@@ -12591,10 +12591,10 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
     "value": "Zula Avcısı",
-    "desc": "Find all caches in 3 Sabotage missions"
+    "desc": "3 Sabotaj görevindeki tüm zulaları bul"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
-    "value": "Test Subject",
+    "value": "Test Objesi",
     "desc": "Complete 8 waves of Sanctuary Onslaught"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
@@ -12606,8 +12606,8 @@
     "desc": "Unlock 4 Orokin Vaults"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockrelics": {
-    "value": "Unlock Relics",
-    "desc": "Unlock 3 Relics"
+    "value": "Relik Açma",
+    "desc": "3 adet relik aç"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyuseforma": {
     "value": "Polarized",
@@ -12615,7 +12615,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
     "value": "Venus Bounty Hunter",
-    "desc": "Complete 5 different bounties in the Orb Vallis"
+    "desc": "Orb Vallis'te 5 farklı görev tamamlayın"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
     "value": "Night Terror",
@@ -12635,7 +12635,7 @@
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
     "value": "Speedster",
-    "desc": "Finish a Capture mission in less than 90 seconds"
+    "desc": "Bir ele geçirme görevini 90 saniyenin altında tamamla"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfinishlich": {
     "value": "Choose Wisely",
@@ -12671,7 +12671,7 @@
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
     "value": "Hydrolyst Hunter",
-    "desc": "Kill or Capture an Eidolon Hydrolyst"
+    "desc": "Bir Eidolon hydrolist'i öldür ya da yakala"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillropalolyst": {
     "value": "Flying High",
@@ -12690,11 +12690,11 @@
     "desc": "Survive for over 30 minutes without using Life Suport Modules in Kuva Survival"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
-    "value": "Ascendant",
-    "desc": "Complete 4 Halls of Ascension on Lua"
+    "value": "Yükselen",
+    "desc": "Lua'da 4 yükseliş koridoru tamamla"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
-    "value": "Elite Explorer",
+    "value": "Elit Kaşif",
     "desc": "Complete 8 Railjack Missions"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
@@ -12702,7 +12702,7 @@
     "desc": "Complete a Spy mission with 3 manual console hacks and no alarms"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
-    "value": "Unlock Relics",
+    "value": "Relik Açma",
     "desc": "Unlock 10 Relics"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
@@ -14329,10 +14329,10 @@
     "value": "Dera Vandal Kalıp"
   },
   "/lotus/types/recipes/weapons/grineercombatknifeprint": {
-    "value": "Sheev Blueprint"
+    "value": "Sheev Kalıp"
   },
   "/lotus/types/recipes/weapons/grineercombatknifesortieblueprint": {
-    "value": "Sheev Blueprint"
+    "value": "Sheev Kalıp"
   },
   "/lotus/types/recipes/weapons/karakwraithblueprint": {
     "value": "Karak Wraith Kalıp"
@@ -14341,7 +14341,7 @@
     "value": "Latron Wraith Kalıp"
   },
   "/lotus/types/recipes/weapons/snipetronvandalblueprint": {
-    "value": "Snipetron Vandal Blueprint"
+    "value": "Snipetron Vandal Kalıp"
   },
   "/lotus/types/recipes/weapons/strunwraithblueprint": {
     "value": "Strun Wraith Kalıp"
@@ -14368,7 +14368,7 @@
     "value": "Sheev Soğutucu"
   },
   "/lotus/types/recipes/weapons/weaponparts/grineercombatknifehilt": {
-    "value": "Sheev Hilt"
+    "value": "Sheev Kabza"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithbarrel": {
     "value": "Karak Wraith Barrel"
@@ -14389,10 +14389,10 @@
     "value": "Latron Wraith Dipçik"
   },
   "/lotus/types/recipes/weapons/weaponparts/snipetronvandalbarrel": {
-    "value": "Snipetron Vandal Barrel"
+    "value": "Snipetron Vandal Namlu"
   },
   "/lotus/types/recipes/weapons/weaponparts/snipetronvandalreceiver": {
-    "value": "Snipetron Vandal Receiver"
+    "value": "Snipetron Vandal Sürgü"
   },
   "/lotus/types/recipes/weapons/weaponparts/snipetronvandalstock": {
     "value": "Snipetron Vandal Stock"
