@@ -1,35 +1,35 @@
 {
   "modifierTypes": {
     "SORTIE_MODIFIER_LOW_ENERGY": "Enerji Azaltma",
-    "SORTIE_MODIFIER_IMPACT": "Enemy Physical Enhancement: Impact",
-    "SORTIE_MODIFIER_SLASH": "Enemy Physical Enhancement: Slash",
-    "SORTIE_MODIFIER_PUNCTURE": "Enemy Physical Enhancement: Puncture",
+    "SORTIE_MODIFIER_IMPACT": "Düşman Fiziksel Geliştirmesi: Darbe",
+    "SORTIE_MODIFIER_SLASH": "Düşman Fiziksel Geliştirmesi: Kesme",
+    "SORTIE_MODIFIER_PUNCTURE": "Düşman Fiziksel Geliştirmesi: Delme",
     "SORTIE_MODIFIER_EXIMUS": "Eximus Kalesi",
     "SORTIE_MODIFIER_MAGNETIC": "Düşman Element Geliştirmesi: Manyetik",
     "SORTIE_MODIFIER_CORROSIVE": "Düşman Element Geliştirmesi: Paslanma",
-    "SORTIE_MODIFIER_VIRAL": "Enemy Elemental Enhancement: Viral",
-    "SORTIE_MODIFIER_ELECTRICITY": "Enemy Elemental Enhancement: Electricity",
+    "SORTIE_MODIFIER_VIRAL": "Düşman Element Geliştirmesi: Virüs",
+    "SORTIE_MODIFIER_ELECTRICITY": "Düşman Element Geliştirmesi: Elektrik",
     "SORTIE_MODIFIER_RADIATION": "Düşman Element Geliştirmesi: Radyasyon",
     "SORTIE_MODIFIER_GAS": "Enemy Elemental Enhancement: Gas",
     "SORTIE_MODIFIER_FIRE": "Düşman Element Geliştirmesi: Ateş",
     "SORTIE_MODIFIER_EXPLOSION": "Düşman Element Geliştirmesi: Patlama",
-    "SORTIE_MODIFIER_FREEZE": "Enemy Elemental Enhancement: Cold",
-    "SORTIE_MODIFIER_TOXIN": "Enemy Elemental Enhancement: Toxin",
-    "SORTIE_MODIFIER_POISON": "Enemy Elemental Enhancement: Toxin",
+    "SORTIE_MODIFIER_FREEZE": "Düşman Element Geliştirmesi: Soğuk",
+    "SORTIE_MODIFIER_TOXIN": "Düşman Element Geliştirmesi: Toksin",
+    "SORTIE_MODIFIER_POISON": "Düşman Element Geliştirmesi: Toksin",
     "SORTIE_MODIFIER_HAZARD_RADIATION": "Radyasyon Teklikesi",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Environmental Hazard: Electromagnetic Anomalies",
-    "SORTIE_MODIFIER_HAZARD_FOG": "Environmental Hazard: Dense Fog",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Elektromanyetik Anormallikler",
+    "SORTIE_MODIFIER_HAZARD_FOG": "Yoğun Sis",
     "SORTIE_MODIFIER_HAZARD_FIRE": "Ateş Tehlikesi",
-    "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
-    "SORTIE_MODIFIER_HAZARD_COLD": "Environmental Effect: Extreme Cold",
+    "SORTIE_MODIFIER_HAZARD_ICE": "Kyrojenik Sızıntı",
+    "SORTIE_MODIFIER_HAZARD_COLD": "Şiddetli Soğuk",
     "SORTIE_MODIFIER_ARMOR": "Artırılmış Düşman Zırhı",
     "SORTIE_MODIFIER_SHIELDS": "Arttırılmış Düşman Kalkanları",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "Weapon Restriction: Pistol Only",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Weapon Restriction: Shotgun Only",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "Weapon Restriction: Sniper Only",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "Weapon Restriction: Assault Rifle Only",
-    "SORTIE_MODIFIER_MELEE_ONLY": "Weapon Restriction: Melee Only",
-    "SORTIE_MODIFIER_BOW_ONLY": "Weapon Restriction: Bow Only"
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "Sadece İkinci Silah",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Sadece Pompalı Tüfek",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "Sadece Nişancı",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Sadece Taarruz Tüfeği",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Sadece Yakın Dövüş",
+    "SORTIE_MODIFIER_BOW_ONLY": "Sadece Yay"
   },
   "modifierDescriptions": {
     "SORTIE_MODIFIER_LOW_ENERGY": "Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
@@ -138,7 +138,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -168,10 +168,10 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
-            "Excavation",
+            "Kazı",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -198,7 +198,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -243,7 +243,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -374,7 +374,7 @@
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
+            "Kazı",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -401,7 +401,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -425,7 +425,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -455,10 +455,10 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
-            "Excavation",
+            "Kazı",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -485,7 +485,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -530,7 +530,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -673,7 +673,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -697,7 +697,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -715,7 +715,7 @@
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
+            "Kazı",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -727,7 +727,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -757,7 +757,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -802,7 +802,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -945,7 +945,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -969,7 +969,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -987,7 +987,7 @@
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
+            "Kazı",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -999,7 +999,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1029,7 +1029,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -1074,10 +1074,10 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
-            "Excavation",
+            "Kazı",
             "Kurtarma",
             "Sabotaj",
             "Casus",
@@ -1217,7 +1217,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -1241,7 +1241,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -1271,7 +1271,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1301,7 +1301,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -1346,7 +1346,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1489,7 +1489,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -1513,7 +1513,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -1543,7 +1543,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1573,7 +1573,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -1618,7 +1618,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1761,7 +1761,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -1785,7 +1785,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -1815,7 +1815,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1845,7 +1845,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -1890,7 +1890,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2033,7 +2033,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -2057,7 +2057,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2117,7 +2117,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2162,7 +2162,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2305,7 +2305,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -2329,7 +2329,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2359,7 +2359,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2389,7 +2389,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2434,7 +2434,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2577,7 +2577,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -2601,7 +2601,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2631,7 +2631,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2661,7 +2661,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2706,7 +2706,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Casus",
@@ -2849,7 +2849,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -2873,7 +2873,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2933,7 +2933,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -2978,7 +2978,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -3121,7 +3121,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -3145,7 +3145,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -3205,7 +3205,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -3250,7 +3250,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -3393,7 +3393,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -3417,7 +3417,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -3447,7 +3447,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -3477,7 +3477,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -3522,7 +3522,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -3665,7 +3665,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -3689,7 +3689,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -3719,7 +3719,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -3749,7 +3749,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -3794,7 +3794,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -3937,7 +3937,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
@@ -3961,7 +3961,7 @@
           "missions": []
         },
         {
-          "name": "Mercury",
+          "name": "Merkür",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -3991,7 +3991,7 @@
           ]
         },
         {
-          "name": "Earth",
+          "name": "Dünya",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -4021,7 +4021,7 @@
           ]
         },
         {
-          "name": "Jupiter",
+          "name": "Jüpiter",
           "missions": [
             "Exterminate",
             "Hayatta Kalma",
@@ -4066,7 +4066,7 @@
           ]
         },
         {
-          "name": "Neptune",
+          "name": "Neptün",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -4209,7 +4209,7 @@
           ]
         },
         {
-          "name": "Kuva Fortress",
+          "name": "Kuva Kalesi",
           "missions": [
             "Savunma",
             "Savunma",
