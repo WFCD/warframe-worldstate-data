@@ -710,6 +710,12 @@
   "/lotus/language/events/amalgameventtooltip": {
     "value": "Operation: Hostile Mergers"
   },
+  "/lotus/language/events/halloweennaberusdesc": {
+    "value": "Visit Daughter for Naberus Treats"
+  },
+  "/lotus/language/events/halloweennaberusname": {
+    "value": "Nights of Naberus"
+  },
   "/lotus/language/events/tacalerthalloweenlantern": {
     "value": "Tactical Alert: Hallowed Flame"
   },
@@ -6678,6 +6684,9 @@
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingweapontoxindamagemod": {
     "value": "베노머스 클립"
   },
+  "/lotus/storeitems/upgrades/mods/archwing/rifle/expert/archwingrifledamageamountmodexpert": {
+    "value": "Primed Rubedo-Lined Barrel"
+  },
   "/lotus/storeitems/upgrades/mods/archwing/suit/archwingsuitabilitydurationmod": {
     "value": "이피션트 트랜스퍼럴"
   },
@@ -7205,6 +7214,9 @@
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagecorpusexpert": {
     "value": "프라임드 스마이트 코퍼스"
+  },
+  "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagecorruptedexpert": {
+    "value": "Primed Smite Corrupted"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagegrineerexpert": {
     "value": "프라임드 스마이트 그리니어"
