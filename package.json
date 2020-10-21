@@ -19,10 +19,10 @@
     "sinon-chai": "^3.4.0"
   },
   "scripts": {
-    "lint": "npx -p eslint eslint --ignore-path .gitignore .",
-    "lint:fix": "npx -p eslint eslint --ignore-path .gitignore . --fix",
-    "test": "npx -p nyc nyc --reporter=text mocha",
-    "coverage": "npm test && npx -p nyc nyc report --reporter=text-lcov | npx -p coveralls coveralls",
+    "lint": "npx -p eslint -y eslint --ignore-path .gitignore .",
+    "lint:fix": "npx -p eslint -y eslint --ignore-path .gitignore . --fix",
+    "test": "npx -p nyc -y nyc --reporter=text mocha",
+    "coverage": "npm test && npx -p nyc -y nyc report --reporter=text-lcov | npx -p coveralls -y coveralls",
     "sort_lang": "python tools/sort_languages.py"
   },
   "repository": {
