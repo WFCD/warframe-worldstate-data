@@ -11,18 +11,20 @@
     "chai": "^4.2.0",
     "chai-json": "^1.0.0",
     "chai-json-schema": "^1.5.1",
-    "eslint": "^6.7.2",
+    "coveralls": "^3.1.0",
+    "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "mocha": "^7.2.0",
+    "nyc": "^15.1.0",
     "sinon": "^8.1.1",
     "sinon-chai": "^3.4.0"
   },
   "scripts": {
-    "lint": "npx -p eslint -y eslint --ignore-path .gitignore .",
-    "lint:fix": "npx -p eslint -y eslint --ignore-path .gitignore . --fix",
-    "test": "npx -p nyc -y nyc --reporter=text mocha",
-    "coverage": "npm test && npx -p nyc -y nyc report --reporter=text-lcov | npx -p coveralls -y coveralls",
+    "lint": "eslint --ignore-path .gitignore .",
+    "lint:fix": "eslint --ignore-path .gitignore . --fix",
+    "test": " nyc --reporter=text mocha",
+    "coverage": "npm test && nyc report --reporter=text-lcov | coveralls",
     "sort_lang": "python tools/sort_languages.py"
   },
   "repository": {
