@@ -46,8 +46,9 @@ jobs:
       env:
         CI: true
   release:
-    needs: [lint, build]
     name: Release
+    runs-on: ubuntu-latest
+    needs: [lint, build]
     strategy:
       matrix:
         node-version: [15.x]
