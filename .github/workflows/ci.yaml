@@ -29,7 +29,6 @@ jobs:
         github_token: ${{ secrets.github_token }}
         # Enable linters
         eslint: true
-        prettier: true
   build:
     name: Test
     runs-on: ubuntu-latest
