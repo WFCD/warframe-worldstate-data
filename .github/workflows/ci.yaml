@@ -50,7 +50,7 @@ jobs:
     name: Release
     strategy:
       matrix:
-        node-version: 15.x
+        node-version: [15.x]
     steps:
       - name: Checkout
         uses: actions/checkout@v2
