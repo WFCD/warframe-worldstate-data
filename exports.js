@@ -3,7 +3,7 @@
 const safeRequire = require('./safeRequire');
 
 const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh'];
-sldkfnsd
+
 /**
  * Synthesis target information
  * @typedef {synthesisTarget}
