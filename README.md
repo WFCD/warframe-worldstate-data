@@ -4,7 +4,6 @@
 
 A repository of Warframe data for use with warframe-worldstate-parser
 
-[![Build Status](https://travis-ci.com/WFCD/warframe-worldstate-data.svg?branch=master)](https://travis-ci.com/WFCD/warframe-worldstate-data)
 [![ npm version](https://img.shields.io/npm/v/warframe-worldstate-data.svg)](https://www.npmjs.com/package/warframe-worldstate-data)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/genesis-parser/localized.svg)](https://crowdin.com/project/genesis-parser)
 [![Discord](https://img.shields.io/discord/256087517353213954.svg?logo=discord)](https://discord.gg/jGZxH9f)
