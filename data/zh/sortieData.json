@@ -1,35 +1,35 @@
 {
   "modifierTypes": {
     "SORTIE_MODIFIER_LOW_ENERGY": "能量減少",
-    "SORTIE_MODIFIER_IMPACT": "敵人的物理抗性︰衝擊",
-    "SORTIE_MODIFIER_SLASH": "敵人的物理抗性︰切割",
-    "SORTIE_MODIFIER_PUNCTURE": "敵人的物理抗性︰穿刺",
-    "SORTIE_MODIFIER_EXIMUS": "卓越者",
-    "SORTIE_MODIFIER_MAGNETIC": "敵人元素增強抗性︰ 磁力",
-    "SORTIE_MODIFIER_CORROSIVE": "敵人元素增強抗性︰ 腐蝕",
-    "SORTIE_MODIFIER_VIRAL": "敵人元素增強抗性︰ 病毒",
-    "SORTIE_MODIFIER_ELECTRICITY": "敵人元素增強抗性︰ 電擊",
-    "SORTIE_MODIFIER_RADIATION": "敵人元素增強抗性︰ 輻射",
-    "SORTIE_MODIFIER_GAS": "敵人元素增強抗性︰ 毒氣",
-    "SORTIE_MODIFIER_FIRE": "敵人元素增強抗性︰ 火焰",
-    "SORTIE_MODIFIER_EXPLOSION": "敵人元素增強抗性︰ 爆炸",
-    "SORTIE_MODIFIER_FREEZE": "敵人元素增強抗性︰ 冰凍",
-    "SORTIE_MODIFIER_TOXIN": "敵人元素增強抗性︰ 毒素",
-    "SORTIE_MODIFIER_POISON": "敵人元素增強抗性︰ 毒素",
-    "SORTIE_MODIFIER_HAZARD_RADIATION": "環境危害︰ 輻射",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "環境危害︰ 電磁異常",
-    "SORTIE_MODIFIER_HAZARD_FOG": "環境危害︰ 濃霧",
+    "SORTIE_MODIFIER_IMPACT": "敌人物理强化(冲击)",
+    "SORTIE_MODIFIER_SLASH": "敌人物理强化(切割)",
+    "SORTIE_MODIFIER_PUNCTURE": "敌人物理强化(穿刺)",
+    "SORTIE_MODIFIER_EXIMUS": "卓越者大本营",
+    "SORTIE_MODIFIER_MAGNETIC": "敌人元素强化(磁力)",
+    "SORTIE_MODIFIER_CORROSIVE": "敌人元素强化(腐蚀)",
+    "SORTIE_MODIFIER_VIRAL": "敌人元素强化(病毒)",
+    "SORTIE_MODIFIER_ELECTRICITY": "敌人元素强化(电击)",
+    "SORTIE_MODIFIER_RADIATION": "敌人元素强化(辐射)",
+    "SORTIE_MODIFIER_GAS": "敌人元素强化(毒气)",
+    "SORTIE_MODIFIER_FIRE": "敌人元素强化(火焰)",
+    "SORTIE_MODIFIER_EXPLOSION": "敌人元素强化(爆炸)",
+    "SORTIE_MODIFIER_FREEZE": "敌人元素强化(冰冻)",
+    "SORTIE_MODIFIER_TOXIN": "敌人元素强化(毒素)",
+    "SORTIE_MODIFIER_POISON": "敌人元素强化(毒素)",
+    "SORTIE_MODIFIER_HAZARD_RADIATION": "辐射灾害",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "电磁异常",
+    "SORTIE_MODIFIER_HAZARD_FOG": "浓雾",
     "SORTIE_MODIFIER_HAZARD_FIRE": "環境危害︰火災",
-    "SORTIE_MODIFIER_HAZARD_ICE": "環境影響︰ 低溫外洩",
-    "SORTIE_MODIFIER_HAZARD_COLD": "環境影響： 極端寒冷",
-    "SORTIE_MODIFIER_ARMOR": "敵人護甲強化",
-    "SORTIE_MODIFIER_SHIELDS": "敵人護盾強化",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "武器限定：手槍",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY": "武器限定：霞彈槍",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "武器限定：狙擊槍",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "武器限定：突擊步槍",
+    "SORTIE_MODIFIER_HAZARD_ICE": "低温外泄",
+    "SORTIE_MODIFIER_HAZARD_COLD": "极度寒冷",
+    "SORTIE_MODIFIER_ARMOR": "敌人护甲强化",
+    "SORTIE_MODIFIER_SHIELDS": "敌人护盾强化",
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "次要 限定",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "霰弹枪 限定",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "狙击枪 限定",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "突击步枪 限定",
     "SORTIE_MODIFIER_MELEE_ONLY": "武器限定：近戰",
-    "SORTIE_MODIFIER_BOW_ONLY": "武器限定：弓箭"
+    "SORTIE_MODIFIER_BOW_ONLY": "弓箭 限定"
   },
   "modifierDescriptions": {
     "SORTIE_MODIFIER_LOW_ENERGY": "戰甲的能量上限降低為四分之一，並且能量恢復速率也會大大降低。",
@@ -65,11 +65,11 @@
   },
   "bosses": {
     "SORTIE_BOSS_HYENA": {
-      "name": "鬚狗群",
+      "name": "鬣狗群",
       "faction": "Corpus"
     },
     "SORTIE_BOSS_KELA": {
-      "name": "Kela de Thaym",
+      "name": "Kela De Thaym",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_VOR": {
@@ -77,15 +77,15 @@
       "faction": "Grineer"
     },
     "SORTIE_BOSS_RUK": {
-      "name": "Sargus Ruk 將軍",
+      "name": "Sargas Ruk将军",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_HEK": {
-      "name": "Vay Hek 議員",
+      "name": "Vay Hek委员",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_KRIL": {
-      "name": "Lech Kril 中尉",
+      "name": "Lech Kril中尉",
       "faction": "Grineer"
     },
     "SORTIE_BOSS_TYL": {
@@ -114,14 +114,14 @@
     },
     "SORTIE_BOSS_PHORID": {
       "name": "Phorid",
-      "faction": "感染者"
+      "faction": "Infestation"
     },
     "SORTIE_BOSS_LEPHANTIS": {
       "name": "Lephantis",
-      "faction": "感染者"
+      "faction": "Infestation"
     },
     "SORTIE_BOSS_INFALAD": {
-      "name": "異融者 Alad V",
+      "name": "异融者Alad V",
       "faction": "感染者"
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
