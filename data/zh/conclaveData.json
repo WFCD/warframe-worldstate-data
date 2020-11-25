@@ -43,58 +43,58 @@
   },
   "challenges": {
     "PVPTimedChallengeKillsPrimaryEASY": {
-      "title": "Primary Target",
-      "description": "Kill 1 enemy with your Primary Weapon",
+      "title": "首要目标",
+      "description": "以主武器击杀1个敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
-      "title": "Primary Target",
-      "description": "Kill 4 enemies with your Primary Weapon",
+      "title": "首要目标",
+      "description": "以主武器击杀4个敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
-      "title": "Focused Primary Target",
-      "description": "Kill 3 enemies with your Primary Weapon in a match",
+      "title": "专注首要目标",
+      "description": "于一场竞赛中, 以主武器击杀3个敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
-      "title": "Secondary Target",
-      "description": "Kill 1 enemy with your Secondary Weapon",
+      "title": "次要目标",
+      "description": "以副武器击杀1个敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsSecondaryMEDIUM": {
-      "title": "Secondary Target",
-      "description": "Kill 4 enemies with your Secondary Weapon",
+      "title": "次要目标",
+      "description": "以副武器击杀4个敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
-      "title": "Focused Secondary Target",
-      "description": "Kill 3 enemies with your Secondary Weapon in a match",
+      "title": "专注次要目标",
+      "description": "于一场竞赛中, 以副武器击杀3个敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileSlidingEASY": {
-      "title": "Slide Strike",
-      "description": "Kill 1 enemy while Sliding",
+      "title": "滑行突击",
+      "description": "滑行时击杀1个敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileSlidingMEDIUM": {
-      "title": "Slide Strike",
-      "description": "Kill 4 enemies while Sliding",
+      "title": "滑行突击",
+      "description": "滑行时击杀4个敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileSlidingHARD": {
-      "title": "Focused Slide Strike",
-      "description": "Kill 3 enemies while Sliding in a match",
+      "title": "专注滑行突击",
+      "description": "于一场竞赛中, 滑行时击杀3个敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsComboEASY": {
-      "title": "Dexterity",
-      "description": "Kill 1 opponent using two of Melee, Guns, and Abilities",
+      "title": "技巧熟练",
+      "description": "使用近战武器、枪炮或能力任意两种组合击杀了1名对手",
       "standing": 500
     },
     "PVPTimedChallengeKillsComboMEDIUM": {
-      "title": "Dexterity",
-      "description": "Kill 4 opponents using two of Melee, Guns, and Abilities",
+      "title": "技巧熟练",
+      "description": "使用近战武器、枪炮或能力任意两种组合击杀了4名对手",
       "standing": 1500
     },
     "PVPTimedChallengeKillsComboHARD": {
