@@ -1210,12 +1210,17 @@
     "type": "Exterminate"
   },
   "SolNode711": {
-    "value": "Terrorren (Deimos)",
+    "value": "Terrorem (Deimos)",
     "enemy": "Infested",
     "type": "Hayatta Kalma"
   },
   "SolNode712": {
     "value": "Magnacidium (Deimos)",
+    "enemy": "Infested",
+    "type": "Suikast"
+  },
+  "SolNode713": {
+    "value": "Exequias (Deimos)",
     "enemy": "Infested",
     "type": "Suikast"
   },
