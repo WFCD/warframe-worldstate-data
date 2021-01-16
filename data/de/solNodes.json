@@ -1210,12 +1210,17 @@
     "type": "Auslöschung"
   },
   "SolNode711": {
-    "value": "Terrorren (Deimos)",
+    "value": "Terrorem (Deimos)",
     "enemy": "Befallene",
     "type": "Überleben"
   },
   "SolNode712": {
     "value": "Magnacidium (Deimos)",
+    "enemy": "Befallene",
+    "type": "Attentat"
+  },
+  "SolNode713": {
+    "value": "Exequias (Deimos)",
     "enemy": "Befallene",
     "type": "Attentat"
   },
