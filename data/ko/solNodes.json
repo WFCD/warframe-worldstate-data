@@ -1210,12 +1210,17 @@
     "type": "섬멸"
   },
   "SolNode711": {
-    "value": "Terrorren (Deimos)",
+    "value": "Terrorem (Deimos)",
     "enemy": "인페스티드",
     "type": "생존"
   },
   "SolNode712": {
     "value": "Magnacidium (Deimos)",
+    "enemy": "인페스티드",
+    "type": "암살"
+  },
+  "SolNode713": {
+    "value": "Exequias (Deimos)",
     "enemy": "인페스티드",
     "type": "암살"
   },

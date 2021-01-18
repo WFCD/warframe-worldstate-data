@@ -1210,12 +1210,17 @@
     "type": "Exterminio"
   },
   "SolNode711": {
-    "value": "Terrorren (Deimos)",
+    "value": "Terrorem (Deimos)",
     "enemy": "Infestados",
     "type": "Supervivencia"
   },
   "SolNode712": {
     "value": "Magnacidium (Deimos)",
+    "enemy": "Infestados",
+    "type": "Asesinato"
+  },
+  "SolNode713": {
+    "value": "Exequias (Deimos)",
     "enemy": "Infestados",
     "type": "Asesinato"
   },
