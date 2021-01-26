@@ -1134,6 +1134,11 @@
     "enemy": "Grineer",
     "type": "Free Roam"
   },
+  "SolNode229": {
+    "value": "Cambion Drift (Deimos)",
+    "enemy": "Infested",
+    "type": "Free Roam"
+  },
   "SolNode400": {
     "value": "Teshub (Void)",
     "enemy": "Orokin",
@@ -1204,10 +1209,30 @@
     "enemy": "Corrupted",
     "type": "Ancient Retribution"
   },
+  "SolNode706": {
+    "value": "Horend (Deimos)",
+    "enemy": "Infested",
+    "type": "Capture"
+  },
   "SolNode707": {
     "value": "Hyf (Deimos)",
     "enemy": "Infested",
+    "type": "Defense"
+  },
+  "SolNode708": {
+    "value": "Phlegyas (Deimos)",
+    "enemy": "Infested",
     "type": "Exterminate"
+  },
+  "SolNode709": {
+    "value": "Dirus (Deimos)",
+    "enemy": "Infested",
+    "type": "Mobile Defense"
+  },
+  "SolNode710": {
+    "value": "Formido (Deimos)",
+    "enemy": "Infested",
+    "type": "Sabotage"
   },
   "SolNode711": {
     "value": "Terrorem (Deimos)",
