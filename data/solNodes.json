@@ -140,9 +140,9 @@
     "type": "Exterminate"
   },
   "SolNode28": {
-    "value": "M Prime (Mercury)",
+    "value": "Terminus (Mercury)",
     "enemy": "Crossfire",
-    "type": "Exterminate"
+    "type": "Sabotage"
   },
   "SolNode29": {
     "value": "Oberon (Uranus)",
@@ -515,9 +515,9 @@
     "type": "Spy"
   },
   "SolNode103": {
-    "value": "Terminus (Mercury)",
-    "enemy": "Grineer",
-    "type": "Capture"
+    "value": "M Prime (Mercury)",
+    "enemy": "Crossfire",
+    "type": "Exterminate"
   },
   "SolNode104": {
     "value": "Fossa (Venus)",
