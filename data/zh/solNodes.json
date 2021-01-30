@@ -140,9 +140,9 @@
     "type": "殲滅"
   },
   "SolNode28": {
-    "value": "M Prime (水星)",
+    "value": "Terminus (Mercury)",
     "enemy": "雙方交戰",
-    "type": "殲滅"
+    "type": "破壞"
   },
   "SolNode29": {
     "value": "Oberon (天王星)",
@@ -515,9 +515,9 @@
     "type": "間諜"
   },
   "SolNode103": {
-    "value": "Terminus (水星)",
-    "enemy": "Grineer",
-    "type": "捕獲"
+    "value": "M Prime (Mercury)",
+    "enemy": "雙方交戰",
+    "type": "殲滅"
   },
   "SolNode104": {
     "value": "Fossa (金星)",
@@ -1134,6 +1134,11 @@
     "enemy": "Grineer",
     "type": "自由探索"
   },
+  "SolNode229": {
+    "value": "Cambion Drift (Deimos)",
+    "enemy": "Infested",
+    "type": "自由探索"
+  },
   "SolNode400": {
     "value": "Teshub (虚空)",
     "enemy": "奥罗金",
@@ -1190,9 +1195,9 @@
     "type": "移動防禦"
   },
   "SolNode411": {
-    "value": "SolNode411 (虚空)",
+    "value": "Marduk (Void)",
     "enemy": "奥罗金",
-    "type": "远古惩戒"
+    "type": "破壞"
   },
   "SolNode412": {
     "value": "Mithra (虚空)",
@@ -1204,10 +1209,30 @@
     "enemy": "墮落",
     "type": "远古惩戒"
   },
+  "SolNode706": {
+    "value": "Horend (Deimos)",
+    "enemy": "Infested",
+    "type": "捕獲"
+  },
   "SolNode707": {
     "value": "Hyf (Deimos)",
     "enemy": "Infested",
+    "type": "防禦"
+  },
+  "SolNode708": {
+    "value": "Phlegyas (Deimos)",
+    "enemy": "Infested",
     "type": "殲滅"
+  },
+  "SolNode709": {
+    "value": "Dirus (Deimos)",
+    "enemy": "Infested",
+    "type": "移動防禦"
+  },
+  "SolNode710": {
+    "value": "Formido (Deimos)",
+    "enemy": "Infested",
+    "type": "破壞"
   },
   "SolNode711": {
     "value": "Terrorem (Deimos)",
