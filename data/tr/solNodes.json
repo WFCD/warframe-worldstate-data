@@ -140,9 +140,9 @@
     "type": "Exterminate"
   },
   "SolNode28": {
-    "value": "M Prime (Merkür)",
+    "value": "Terminus (Mercury)",
     "enemy": "Crossfire",
-    "type": "Exterminate"
+    "type": "Sabotaj"
   },
   "SolNode29": {
     "value": "Oberon (Uranüs)",
@@ -515,9 +515,9 @@
     "type": "Casus"
   },
   "SolNode103": {
-    "value": "Terminus (Merkür)",
-    "enemy": "Grineer",
-    "type": "Ele Geçirme"
+    "value": "M Prime (Mercury)",
+    "enemy": "Crossfire",
+    "type": "Exterminate"
   },
   "SolNode104": {
     "value": "Fossa (Venus)",
@@ -1134,6 +1134,11 @@
     "enemy": "Grineer",
     "type": "Serbest Dolaşım"
   },
+  "SolNode229": {
+    "value": "Cambion Drift (Deimos)",
+    "enemy": "Infested",
+    "type": "Serbest Dolaşım"
+  },
   "SolNode400": {
     "value": "Teshub (Void)",
     "enemy": "Orokin",
@@ -1190,9 +1195,9 @@
     "type": "Mobil Savunma"
   },
   "SolNode411": {
-    "value": "SolNode411 (Void)",
+    "value": "Marduk (Void)",
     "enemy": "Orokin",
-    "type": "Ancient Retribution"
+    "type": "Sabotaj"
   },
   "SolNode412": {
     "value": "Mithra (Void)",
@@ -1204,10 +1209,30 @@
     "enemy": "Orokin",
     "type": "Ancient Retribution"
   },
+  "SolNode706": {
+    "value": "Horend (Deimos)",
+    "enemy": "Infested",
+    "type": "Ele Geçirme"
+  },
   "SolNode707": {
     "value": "Hyf (Deimos)",
     "enemy": "Infested",
+    "type": "Savunma"
+  },
+  "SolNode708": {
+    "value": "Phlegyas (Deimos)",
+    "enemy": "Infested",
     "type": "Exterminate"
+  },
+  "SolNode709": {
+    "value": "Dirus (Deimos)",
+    "enemy": "Infested",
+    "type": "Mobil Savunma"
+  },
+  "SolNode710": {
+    "value": "Formido (Deimos)",
+    "enemy": "Infested",
+    "type": "Sabotaj"
   },
   "SolNode711": {
     "value": "Terrorem (Deimos)",
