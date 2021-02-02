@@ -140,9 +140,9 @@
     "type": "Auslöschung"
   },
   "SolNode28": {
-    "value": "M Prime (Mercury)",
+    "value": "Terminus (Mercury)",
     "enemy": "Kreuzfeuer",
-    "type": "Auslöschung"
+    "type": "Sabotage"
   },
   "SolNode29": {
     "value": "Oberon (Uranus)",
@@ -515,9 +515,9 @@
     "type": "Spionage"
   },
   "SolNode103": {
-    "value": "Terminus (Mercury)",
-    "enemy": "Grineer",
-    "type": "Gefangennahme"
+    "value": "M Prime (Mercury)",
+    "enemy": "Kreuzfeuer",
+    "type": "Auslöschung"
   },
   "SolNode104": {
     "value": "Fossa (Venus)",
@@ -1134,6 +1134,11 @@
     "enemy": "Grineer",
     "type": "Freies Erkunden"
   },
+  "SolNode229": {
+    "value": "Cambion Drift (Deimos)",
+    "enemy": "Befallene",
+    "type": "Freies Erkunden"
+  },
   "SolNode400": {
     "value": "Teshub (Void)",
     "enemy": "Orokin",
@@ -1190,9 +1195,9 @@
     "type": "Mobile Verteidigung"
   },
   "SolNode411": {
-    "value": "SolNode411 (Void)",
+    "value": "Marduk (Void)",
     "enemy": "Orokin",
-    "type": "Ancient Retribution"
+    "type": "Sabotage"
   },
   "SolNode412": {
     "value": "Mithra (Void)",
@@ -1204,10 +1209,30 @@
     "enemy": "Korrumpierte",
     "type": "Ancient Retribution"
   },
+  "SolNode706": {
+    "value": "Horend (Deimos)",
+    "enemy": "Befallene",
+    "type": "Gefangennahme"
+  },
   "SolNode707": {
     "value": "Hyf (Deimos)",
     "enemy": "Befallene",
+    "type": "Verteidigung"
+  },
+  "SolNode708": {
+    "value": "Phlegyas (Deimos)",
+    "enemy": "Befallene",
     "type": "Auslöschung"
+  },
+  "SolNode709": {
+    "value": "Dirus (Deimos)",
+    "enemy": "Befallene",
+    "type": "Mobile Verteidigung"
+  },
+  "SolNode710": {
+    "value": "Formido (Deimos)",
+    "enemy": "Befallene",
+    "type": "Sabotage"
   },
   "SolNode711": {
     "value": "Terrorem (Deimos)",

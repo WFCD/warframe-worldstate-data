@@ -140,9 +140,9 @@
     "type": "Eksterminacja"
   },
   "SolNode28": {
-    "value": "M Prime (Mercury)",
+    "value": "Terminus (Mercury)",
     "enemy": "Crossfire",
-    "type": "Eksterminacja"
+    "type": "Sabotaż"
   },
   "SolNode29": {
     "value": "Oberon (Uranus)",
@@ -515,9 +515,9 @@
     "type": "Infiltracja"
   },
   "SolNode103": {
-    "value": "Terminus (Mercury)",
-    "enemy": "Grineer",
-    "type": "Pojmanie"
+    "value": "M Prime (Mercury)",
+    "enemy": "Crossfire",
+    "type": "Eksterminacja"
   },
   "SolNode104": {
     "value": "Fossa (Venus)",
@@ -1134,6 +1134,11 @@
     "enemy": "Grineer",
     "type": "Free Roam"
   },
+  "SolNode229": {
+    "value": "Cambion Drift (Deimos)",
+    "enemy": "Plaga",
+    "type": "Free Roam"
+  },
   "SolNode400": {
     "value": "Teshub (Void)",
     "enemy": "Orokin",
@@ -1190,9 +1195,9 @@
     "type": "Mobilna obrona"
   },
   "SolNode411": {
-    "value": "SolNode411 (Void)",
+    "value": "Marduk (Void)",
     "enemy": "Orokin",
-    "type": "Ancient Retribution"
+    "type": "Sabotaż"
   },
   "SolNode412": {
     "value": "Mithra (Void)",
@@ -1204,10 +1209,30 @@
     "enemy": "Skarzony",
     "type": "Ancient Retribution"
   },
+  "SolNode706": {
+    "value": "Horend (Deimos)",
+    "enemy": "Plaga",
+    "type": "Pojmanie"
+  },
   "SolNode707": {
     "value": "Hyf (Deimos)",
     "enemy": "Plaga",
+    "type": "Obrona"
+  },
+  "SolNode708": {
+    "value": "Phlegyas (Deimos)",
+    "enemy": "Plaga",
     "type": "Eksterminacja"
+  },
+  "SolNode709": {
+    "value": "Dirus (Deimos)",
+    "enemy": "Plaga",
+    "type": "Mobilna obrona"
+  },
+  "SolNode710": {
+    "value": "Formido (Deimos)",
+    "enemy": "Plaga",
+    "type": "Sabotaż"
   },
   "SolNode711": {
     "value": "Terrorem (Deimos)",

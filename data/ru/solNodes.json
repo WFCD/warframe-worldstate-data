@@ -140,9 +140,9 @@
     "type": "Зачистка"
   },
   "SolNode28": {
-    "value": "M Prime (Меркурий)",
+    "value": "Terminus (Mercury)",
     "enemy": "Война Зачистка",
-    "type": "Зачистка"
+    "type": "Диверсия"
   },
   "SolNode29": {
     "value": "Oberon (Уран)",
@@ -515,9 +515,9 @@
     "type": "Шпионаж"
   },
   "SolNode103": {
-    "value": "Terminus (Меркурий)",
-    "enemy": "Гринир",
-    "type": "Захват"
+    "value": "M Prime (Mercury)",
+    "enemy": "Война Зачистка",
+    "type": "Зачистка"
   },
   "SolNode104": {
     "value": "Fossa (Венера)",
@@ -1134,6 +1134,11 @@
     "enemy": "Гринир",
     "type": "Свободное перемещение"
   },
+  "SolNode229": {
+    "value": "Cambion Drift (Deimos)",
+    "enemy": "Заражённые",
+    "type": "Свободное перемещение"
+  },
   "SolNode400": {
     "value": "Teshub (Бездна)",
     "enemy": "Орокин",
@@ -1190,9 +1195,9 @@
     "type": "М. Оборона"
   },
   "SolNode411": {
-    "value": "Marduk (Бездна)",
+    "value": "Marduk (Void)",
     "enemy": "Орокин",
-    "type": "Возмездие Древних"
+    "type": "Диверсия"
   },
   "SolNode412": {
     "value": "Mithra (Бездна)",
@@ -1204,10 +1209,30 @@
     "enemy": "Порабощённые",
     "type": "Возмездие Древних"
   },
+  "SolNode706": {
+    "value": "Horend (Deimos)",
+    "enemy": "Заражённые",
+    "type": "Захват"
+  },
   "SolNode707": {
     "value": "Hyf (Деймос)",
     "enemy": "Заражённые",
+    "type": "Оборона"
+  },
+  "SolNode708": {
+    "value": "Phlegyas (Deimos)",
+    "enemy": "Заражённые",
     "type": "Зачистка"
+  },
+  "SolNode709": {
+    "value": "Dirus (Deimos)",
+    "enemy": "Заражённые",
+    "type": "Мобильная Оборона"
+  },
+  "SolNode710": {
+    "value": "Formido (Deimos)",
+    "enemy": "Заражённые",
+    "type": "Диверсия"
   },
   "SolNode711": {
     "value": "Terrorem (Деймос)",

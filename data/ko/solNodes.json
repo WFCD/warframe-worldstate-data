@@ -140,9 +140,9 @@
     "type": "섬멸"
   },
   "SolNode28": {
-    "value": "M Prime (수성)",
+    "value": "Terminus (Mercury)",
     "enemy": "크로스파이어",
-    "type": "섬멸"
+    "type": "파괴공작"
   },
   "SolNode29": {
     "value": "Oberon (천왕성)",
@@ -515,9 +515,9 @@
     "type": "첩보활동"
   },
   "SolNode103": {
-    "value": "Terminus (수성)",
-    "enemy": "그리니어",
-    "type": "생포"
+    "value": "M Prime (Mercury)",
+    "enemy": "크로스파이어",
+    "type": "섬멸"
   },
   "SolNode104": {
     "value": "Fossa (금성)",
@@ -1134,6 +1134,11 @@
     "enemy": "그리니어",
     "type": "자유 탐험"
   },
+  "SolNode229": {
+    "value": "Cambion Drift (Deimos)",
+    "enemy": "인페스티드",
+    "type": "자유 탐험"
+  },
   "SolNode400": {
     "value": "Teshub (보이드)",
     "enemy": "오로킨",
@@ -1190,9 +1195,9 @@
     "type": "모바일 방어"
   },
   "SolNode411": {
-    "value": "SolNode411 (보이드)",
+    "value": "Marduk (Void)",
     "enemy": "오로킨",
-    "type": "에인션트 레트리뷰션"
+    "type": "파괴공작"
   },
   "SolNode412": {
     "value": "Mithra (보이드)",
@@ -1204,10 +1209,30 @@
     "enemy": "커럽티드",
     "type": "에인션트 레트리뷰션"
   },
+  "SolNode706": {
+    "value": "Horend (Deimos)",
+    "enemy": "인페스티드",
+    "type": "생포"
+  },
   "SolNode707": {
     "value": "Hyf (Deimos)",
     "enemy": "인페스티드",
+    "type": "방어"
+  },
+  "SolNode708": {
+    "value": "Phlegyas (Deimos)",
+    "enemy": "인페스티드",
     "type": "섬멸"
+  },
+  "SolNode709": {
+    "value": "Dirus (Deimos)",
+    "enemy": "인페스티드",
+    "type": "모바일 방어"
+  },
+  "SolNode710": {
+    "value": "Formido (Deimos)",
+    "enemy": "인페스티드",
+    "type": "파괴공작"
   },
   "SolNode711": {
     "value": "Terrorem (Deimos)",

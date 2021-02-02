@@ -140,9 +140,9 @@
     "type": "Extermination"
   },
   "SolNode28": {
-    "value": "M Prime (Mercure)",
+    "value": "Terminus (Mercury)",
     "enemy": "Feux Croisés Extermination",
-    "type": "Extermination"
+    "type": "Sabotage"
   },
   "SolNode29": {
     "value": "Oberon (Uranus)",
@@ -515,9 +515,9 @@
     "type": "Espionnage"
   },
   "SolNode103": {
-    "value": "Terminus (Mercure)",
-    "enemy": "Grineer",
-    "type": "Capture"
+    "value": "M Prime (Mercury)",
+    "enemy": "Feux Croisés Extermination",
+    "type": "Extermination"
   },
   "SolNode104": {
     "value": "Fossa (Vénus)",
@@ -1134,6 +1134,11 @@
     "enemy": "Grineer",
     "type": "Exploration Libre"
   },
+  "SolNode229": {
+    "value": "Cambion Drift (Deimos)",
+    "enemy": "Infesté",
+    "type": "Exploration Libre"
+  },
   "SolNode400": {
     "value": "Teshub (Le Néant)",
     "enemy": "Orokin",
@@ -1190,9 +1195,9 @@
     "type": "Défense Mobile"
   },
   "SolNode411": {
-    "value": "SolNode411 (Le Néant)",
+    "value": "Marduk (Void)",
     "enemy": "Orokin",
-    "type": "Ancient Retribution"
+    "type": "Sabotage"
   },
   "SolNode412": {
     "value": "Mithra (Le Néant)",
@@ -1204,10 +1209,30 @@
     "enemy": "Corrompu",
     "type": "Ancient Retribution"
   },
+  "SolNode706": {
+    "value": "Horend (Deimos)",
+    "enemy": "Infesté",
+    "type": "Capture"
+  },
   "SolNode707": {
     "value": "Hyf (Deimos)",
     "enemy": "Infesté",
+    "type": "Défense"
+  },
+  "SolNode708": {
+    "value": "Phlegyas (Deimos)",
+    "enemy": "Infesté",
     "type": "Extermination"
+  },
+  "SolNode709": {
+    "value": "Dirus (Deimos)",
+    "enemy": "Infesté",
+    "type": "Défense Mobile"
+  },
+  "SolNode710": {
+    "value": "Formido (Deimos)",
+    "enemy": "Infesté",
+    "type": "Sabotage"
   },
   "SolNode711": {
     "value": "Terrorem (Deimos)",
