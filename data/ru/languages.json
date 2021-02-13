@@ -2646,9 +2646,6 @@
   "/lotus/storeitems/types/game/lotusweapon2d": {
     "value": "Любое"
   },
-  "/lotus/storeitems/types/game/quarterswallpapers/barowallpaper": {
-    "value": "Обои: Ки'Тиир"
-  },
   "/lotus/storeitems/types/game/playerflightjetpackitem": {
     "value": "Арчвинг"
   },
@@ -3522,6 +3519,9 @@
   "/lotus/storeitems/types/game/projections/t4voidprojectionvoltodonataprimesilver": {
     "value": "Axi V8 Relic (Exceptional)"
   },
+  "/lotus/storeitems/types/game/quarterswallpapers/barowallpaper": {
+    "value": "Обои: Ки'Тиир"
+  },
   "/lotus/storeitems/types/game/solarrails/basicsolarrail": {
     "value": "Солнечных монорельс - класс башни"
   },
@@ -3699,11 +3699,11 @@
   "/lotus/storeitems/types/items/miscitems/oxiumalloy": {
     "value": "Оксиум"
   },
-  "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
-    "value": "Сцена \"Гробница Инароса\""
-  },
   "/lotus/storeitems/types/items/miscitems/photoboothtilehydroidrelay": {
     "value": "Hydroid's Relay Scene"
+  },
+  "/lotus/storeitems/types/items/miscitems/photoboothtileinarostomb": {
+    "value": "Сцена \"Гробница Инароса\""
   },
   "/lotus/storeitems/types/items/miscitems/photoboothtileorokinextraction": {
     "value": "Сцена: Башня Орокин - Зона Эвакуации"
@@ -4246,7 +4246,7 @@
     "value": "Узнать что корпус знает об Аладе V"
   },
   "/lotus/storeitems/types/keys/infestedaladvquest/missionthree": {
-    "value": "Destroy Alad VÃ¢â‚¬â„¢s Laboratory Ship"
+    "value": "Destroy Alad V's Laboratory Ship"
   },
   "/lotus/storeitems/types/keys/infestedaladvquest/missiontwoa": {
     "value": "Саботировать зараженный корабль Алада на Бругии"
@@ -4560,9 +4560,6 @@
   "/lotus/storeitems/types/recipes/helmets/animaalthelmetblueprint": {
     "value": "Equinox Solstice Helmet Blueprint"
   },
-  "/lotus/storeitems/types/recipes/helmets/v2animaalthelmetblueprint": {
-    "value": "Equinox Clisthert Helmet Blueprint"
-  },
   "/lotus/storeitems/types/recipes/helmets/bardalthelmetblueprint": {
     "value": "Чертёж: Шлем Октавии: Каденция"
   },
@@ -4629,11 +4626,11 @@
   "/lotus/storeitems/types/recipes/helmets/nekrosshroudhelmetblueprint": {
     "value": "Чертёж: Шлем Некроса: Саван"
   },
-  "/lotus/storeitems/types/recipes/helmets/nezhaalthelmetblueprint": {
-    "value": "Чертёж: Шлем Нэчжи: Цирка"
-  },
   "/lotus/storeitems/types/recipes/helmets/nezhaalt2helmetblueprint": {
     "value": "Nezha Jinza Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/helmets/nezhaalthelmetblueprint": {
+    "value": "Чертёж: Шлем Нэчжи: Цирка"
   },
   "/lotus/storeitems/types/recipes/helmets/nidusalthelmetblueprint": {
     "value": "Чертёж: Шлем Нидуса: Прайон"
@@ -4760,6 +4757,9 @@
   },
   "/lotus/storeitems/types/recipes/helmets/statlessvoltalthelmetblueprint": {
     "value": "Volt Storm Helmet Blueprint"
+  },
+  "/lotus/storeitems/types/recipes/helmets/v2animaalthelmetblueprint": {
+    "value": "Equinox Clisthert Helmet Blueprint"
   },
   "/lotus/storeitems/types/recipes/helmets/valkyraltbhelmetblueprint": {
     "value": "Чертёж: Шлем Валькирии: Кара"
@@ -6882,11 +6882,11 @@
   "/lotus/storeitems/upgrades/mods/dualsource/melee/critdamagechargespeedmod": {
     "value": "Крушитель Органов Амальгама"
   },
-  "/lotus/storeitems/upgrades/mods/dualsource/rifle/serratedrushmod": {
-    "value": "Зазубрины Амальгама"
-  },
   "/lotus/storeitems/upgrades/mods/dualsource/pistol/multishotdodgemod": {
     "value": "Двойной Ствол Амальгама"
+  },
+  "/lotus/storeitems/upgrades/mods/dualsource/rifle/serratedrushmod": {
+    "value": "Зазубрины Амальгама"
   },
   "/lotus/storeitems/upgrades/mods/dualsource/shotgun/shotgunmedicmod": {
     "value": "Энергия Дробовика Амальгама"
@@ -7494,14 +7494,14 @@
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorpusexpert": {
     "value": "Изгнание Прайм: Корпус"
   },
+  "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorruptedexpert": {
+    "value": "Изгнание Прайм: Порабощённые"
+  },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagegrineerexpert": {
     "value": "Изгнание Прайм: Гринир"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamageinfestedexpert": {
     "value": "Изгнание Прайм: Заражённые"
-  },
-  "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorruptedexpert": {
-    "value": "Изгнание Прайм: Порабощённые"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolzoomfovmodexpert": {
     "value": "Primed Hawk Eye"
@@ -8169,11 +8169,11 @@
   "/lotus/storeitems/upgrades/mods/sentinel/sentinelhealthmaxmod": {
     "value": "Enhanced Vitality"
   },
-  "/lotus/storeitems/upgrades/mods/sentinel/sentinellootradarenemyradarmod": {
-    "value": "Животный Инстинкт"
-  },
   "/lotus/storeitems/upgrades/mods/sentinel/sentinellootradarenemyradarexpertmod": {
     "value": "Животный Инстинкт Прайм"
+  },
+  "/lotus/storeitems/upgrades/mods/sentinel/sentinellootradarenemyradarmod": {
+    "value": "Животный Инстинкт"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/sentineloverheatdamagemod": {
     "value": "Fired Up"
@@ -9480,11 +9480,11 @@
   "/lotus/storeitems/upgrades/skins/clan/orbbadgeitem": {
     "value": "Значок \"Погребённые Долги\""
   },
-  "/lotus/storeitems/upgrades/skins/clan/prismalotusemblem": {
-    "value": "Значок: Лотос Призма"
-  },
   "/lotus/storeitems/upgrades/skins/clan/orokinsabotagebadgeitem": {
     "value": "Gate Crash Emblem"
+  },
+  "/lotus/storeitems/upgrades/skins/clan/prismalotusemblem": {
+    "value": "Значок: Лотос Призма"
   },
   "/lotus/storeitems/upgrades/skins/clan/referralbadgetieraitem": {
     "value": "[Placeholder]"
@@ -10086,11 +10086,11 @@
   "/lotus/storeitems/upgrades/skins/kubrows/armor/kubrowarmorprisma": {
     "value": "Броня Кубрау: Ростэм Призма"
   },
-  "/lotus/storeitems/upgrades/skins/liset/inaroslisetskin": {
-    "value": "Скин Лисета: Кидония"
-  },
   "/lotus/storeitems/upgrades/skins/liset/gyroscope/lisetgyroscopeskinprimetrader": {
     "value": "Скин Ксифоса: Призма"
+  },
+  "/lotus/storeitems/upgrades/skins/liset/inaroslisetskin": {
+    "value": "Скин Лисета: Кидония"
   },
   "/lotus/storeitems/upgrades/skins/liset/lisetblueskyskininaros": {
     "value": "Скин Скимитара: Кидония"
@@ -10338,14 +10338,14 @@
   "/lotus/storeitems/upgrades/skins/nvidia/nvidiabratonskin": {
     "value": "Nvidia Braton"
   },
+  "/lotus/storeitems/upgrades/skins/operator/accessories/barohorn": {
+    "value": "Диадема Ки'Тиир \"Корну \""
+  },
   "/lotus/storeitems/upgrades/skins/operator/accessories/baromouthpiecea": {
     "value": "Маска Ки'Тиир \"Атмос\""
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/barotiara": {
     "value": "Диадема Ки'Тиир \"Атмос \""
-  },
-  "/lotus/storeitems/upgrades/skins/operator/accessories/barohorn": {
-    "value": "Диадема Ки'Тиир \"Корну \""
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/barovisor": {
     "value": "Окуляры Ки'Тиир \"Атмос \""
@@ -10587,9 +10587,6 @@
   "/lotus/storeitems/upgrades/skins/scarves/syndicatesmscarf": {
     "value": "Vaykor Syandana"
   },
-  "/lotus/storeitems/upgrades/skins/scarves/wraithturbinesscarf": {
-    "value": "Накидка Харконар Призрак"
-  },
   "/lotus/storeitems/upgrades/skins/scarves/turtleneckscarf": {
     "value": "Imperator Syandana"
   },
@@ -10598,6 +10595,9 @@
   },
   "/lotus/storeitems/upgrades/skins/scarves/vthornskullscarf": {
     "value": "Сандана: Геката Призма"
+  },
+  "/lotus/storeitems/upgrades/skins/scarves/wraithturbinesscarf": {
+    "value": "Накидка Харконар Призрак"
   },
   "/lotus/storeitems/upgrades/skins/scarves/yamakoprimescarf": {
     "value": "Yamako Prime Syandana"
@@ -10881,9 +10881,6 @@
   "/lotus/storeitems/upgrades/skins/sigils/masterysigil": {
     "value": "Mastery Sigil"
   },
-  "/lotus/storeitems/upgrades/skins/sigils/rhinodeluxesigil": {
-    "value": "Rhino Palatine Sigil"
-  },
   "/lotus/storeitems/upgrades/skins/sigils/orbsigil": {
     "value": "Сигил: Погребённые Долги"
   },
@@ -10895,6 +10892,9 @@
   },
   "/lotus/storeitems/upgrades/skins/sigils/ps4oneyearsigil": {
     "value": "Cycle One Sigil"
+  },
+  "/lotus/storeitems/upgrades/skins/sigils/rhinodeluxesigil": {
+    "value": "Rhino Palatine Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/sparksigil": {
     "value": "Flickering Sigil"
@@ -11313,14 +11313,14 @@
   "/lotus/storeitems/upgrades/skins/voidtrader/elixisballassword": {
     "value": "Скин Парацесиса: Эликсис"
   },
-  "/lotus/storeitems/upgrades/skins/voidtrader/elixissonicor": {
-    "value": "Скин Соникора: Эликсис"
-  },
   "/lotus/storeitems/upgrades/skins/voidtrader/elixisodonataskin": {
     "value": "Скин Одонаты: Эликсис"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/elixisopticor": {
     "value": "Скин Оптикора: Эликсис"
+  },
+  "/lotus/storeitems/upgrades/skins/voidtrader/elixissonicor": {
+    "value": "Скин Соникора: Эликсис"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/elixistigris": {
     "value": "Скин Тигриса: Эликсис"
@@ -11607,14 +11607,14 @@
   "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinburstpistols": {
     "value": "[Placeholder]"
   },
+  "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
+    "value": "Парный Коммак"
+  },
   "/lotus/storeitems/weapons/grineer/pistols/grnkohmpistol/grnkohmpistol": {
     "value": "Коммак"
   },
   "/lotus/storeitems/weapons/grineer/pistols/heatgun/grnheatgun": {
     "value": "Атомос"
-  },
-  "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
-    "value": "Парный Коммак"
   },
   "/lotus/storeitems/weapons/grineer/pistols/voidtraderbrakk/vtbrakk": {
     "value": "Мара Бракк"
@@ -12286,440 +12286,472 @@
     "value": "Набор Реликвий"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "value": "Летяга",
-    "desc": "Убейте 20 врагов во время управляемого полёта"
+    "desc": "Убейте 20 врагов во время управляемого полёта",
+    "value": "Летяга"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
-    "value": "Батут",
-    "desc": "Совершите 150 раз прыжок-выстрел"
+    "desc": "Совершите 150 раз прыжок-выстрел",
+    "value": "Батут"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
-    "value": "Исследователь",
-    "desc": "Просканируйте 25 объектов или врагов"
+    "desc": "Просканируйте 25 объектов или врагов",
+    "value": "Исследователь"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
-    "value": "Сберегатель",
-    "desc": "Подберите 15,000 кредитов"
+    "desc": "Подберите 15,000 кредитов",
+    "value": "Сберегатель"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollecthundredresources": {
-    "value": "Собиратель",
-    "desc": "Соберите 1,500 ресурсов"
+    "desc": "Соберите 1,500 ресурсов",
+    "value": "Собиратель"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
-    "value": "Агент",
-    "desc": "Завершите миссию"
+    "desc": "Завершите миссию",
+    "value": "Агент"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionmelee": {
-    "value": "Меченосец",
-    "desc": "Выполните миссию, будучи вооружённым только оружием ближнего боя"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
-    "value": "Личное оружие",
-    "desc": "Выполните миссию, будучи вооружённым только вторичным оружием"
+    "desc": "Выполните миссию, будучи вооружённым только оружием ближнего боя",
+    "value": "Меченосец"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionprimary": {
-    "value": "Занятые Руки",
-    "desc": "Выполните миссию, будучи вооружённым только основным оружием"
+    "desc": "Выполните миссию, будучи вооружённым только основным оружием",
+    "value": "Занятые Руки"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
+    "desc": "Выполните миссию, будучи вооружённым только вторичным оружием",
+    "value": "Личное оружие"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
-    "value": "Покажи её",
-    "desc": "Вызовите воздушную поддержку в миссии"
+    "desc": "Вызовите воздушную поддержку в миссии",
+    "value": "Покажи её"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
-    "value": "Граффити",
-    "desc": "Разместите глиф во время миссии"
+    "desc": "Разместите глиф во время миссии",
+    "value": "Граффити"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployspecter": {
-    "value": "Двойник",
-    "desc": "Используйте Спектра"
+    "desc": "Используйте Спектра",
+    "value": "Двойник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydonateleverian": {
-    "value": "Покровитель",
-    "desc": "Пожертвуйте Левериану"
+    "desc": "Пожертвуйте Левериану",
+    "value": "Покровитель"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
-    "value": "Лояльность",
-    "desc": "Погладьте своего кубрау или кавата"
+    "desc": "Погладьте своего кубрау или кавата",
+    "value": "Лояльность"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
-    "value": "Предупредительный выстрел",
-    "desc": "Убейте 200 врагов"
+    "desc": "Убейте 200 врагов",
+    "value": "Предупредительный выстрел"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswhileonkdrive": {
+    "desc": "Kill 20 enemies while riding a K-Drive.",
+    "value": "Surf's Up!"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
-    "value": "Упоение властью",
-    "desc": "Убейте 150 врагов способностями"
+    "desc": "Убейте 150 врагов способностями",
+    "value": "Упоение властью"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
-    "value": "Детонатор",
-    "desc": "Убейте 150 врагов, используя взрывной урон"
+    "desc": "Убейте 150 врагов, используя взрывной урон",
+    "value": "Детонатор"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithcorrosive": {
-    "value": "Прожигатель",
-    "desc": "Убейте 150 врагов, используя коррозийный урон"
+    "desc": "Убейте 150 врагов, используя коррозийный урон",
+    "value": "Прожигатель"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithelectricity": {
-    "value": "Короткое замыкание",
-    "desc": "Убейте 150 врагов, используя урон электричеством"
+    "desc": "Убейте 150 врагов, используя урон электричеством",
+    "value": "Короткое замыкание"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfinishers": {
-    "value": "Палач",
-    "desc": "Убейте 10 врагов добивающими ударами"
+    "desc": "Убейте 10 врагов добивающими ударами",
+    "value": "Палач"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfire": {
-    "value": "Поджигатель",
-    "desc": "Убейте 150 врагов, используя урон огнем"
+    "desc": "Убейте 150 врагов, используя урон огнем",
+    "value": "Поджигатель"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfreeze": {
-    "value": "Глубокая Заморозка",
-    "desc": "Убейте 150 врагов, используя урон холодом"
+    "desc": "Убейте 150 врагов, используя урон холодом",
+    "value": "Глубокая Заморозка"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithgas": {
-    "value": "Биологическая опасность",
-    "desc": "Убейте 150 врагов, используя урон газом"
+    "desc": "Убейте 150 врагов, используя урон газом",
+    "value": "Биологическая опасность"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithheadshots": {
-    "value": "Снайпер",
-    "desc": "Убейте 40 врагов выстрелом в голову"
+    "desc": "Убейте 40 врагов выстрелом в голову",
+    "value": "Снайпер"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
-    "value": "Притягательный",
-    "desc": "Убейте 150 врагов, используя магнитный урон"
+    "desc": "Убейте 150 врагов, используя магнитный урон",
+    "value": "Притягательный"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
-    "value": "Танец Меча",
-    "desc": "Убейте 150 врагов, используя оружие ближнего боя"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithprimary": {
-    "value": "Перестрелять всех",
-    "desc": "Убейте 150 врагов, используя основное оружие"
+    "desc": "Убейте 150 врагов, используя оружие ближнего боя",
+    "value": "Танец Меча"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
-    "value": "Отравитель",
-    "desc": "Убейте 150 врагов, используя урон токсином"
+    "desc": "Убейте 150 врагов, используя урон токсином",
+    "value": "Отравитель"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithprimary": {
+    "desc": "Убейте 150 врагов, используя основное оружие",
+    "value": "Перестрелять всех"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithradiation": {
-    "value": "Реактор",
-    "desc": "Убейте 150 врагов, используя радиационный урон"
+    "desc": "Убейте 150 врагов, используя радиационный урон",
+    "value": "Реактор"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithsecondary": {
-    "value": "Меньше - лучше",
-    "desc": "Убейте 150 врагов, используя вторичное оружие"
+    "desc": "Убейте 150 врагов, используя вторичное оружие",
+    "value": "Меньше - лучше"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
-    "value": "Не жмись - поделись",
-    "desc": "Убейте 150 врагов, используя вирусный урон"
+    "desc": "Убейте 150 врагов, используя вирусный урон",
+    "value": "Не жмись - поделись"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
-    "value": "Время молчать",
-    "desc": "Убейте Раба Кувы"
+    "desc": "Убейте Раба Кувы",
+    "value": "Время молчать"
   },
   "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
-    "value": "Возвращено",
-    "desc": "Зачистите узел, подверженный влиянию Лича"
+    "desc": "Зачистите узел, подверженный влиянию Лича",
+    "value": "Возвращено"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
-    "value": "Пощады не будет",
-    "desc": "Выполните добивание милосердием"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyrailjackhijackdestroythree": {
-    "value": "Дружественный огонь",
-    "desc": "Во время пилотирования угнанного транспортёра, уничтожьте 3 истребителя противника"
+    "desc": "Выполните добивание милосердием",
+    "value": "Пощады не будет"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
-    "value": "Клептоман",
-    "desc": "Откройте 20 ящиков"
+    "desc": "Откройте 20 ящиков",
+    "value": "Клептоман"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupenergy": {
-    "value": "Зарядка",
-    "desc": "Подберите 20 энергосфер"
+    "desc": "Подберите 20 энергосфер",
+    "value": "Зарядка"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmedallion": {
-    "value": "Охота начата",
-    "desc": "Найдите 5 медальонов Синдикатов"
+    "desc": "Найдите 5 медальонов Синдикатов",
+    "value": "Охота начата"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
-    "value": "Блестяшка",
-    "desc": "Подберите 8 модов"
+    "desc": "Подберите 8 модов",
+    "value": "Блестяшка"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailypilotfallenmech": {
+    "desc": "Find and pilot a Fallen Necramech on Deimos.",
+    "value": "Reanimator"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplacemarker": {
-    "value": "Наводчик",
-    "desc": "Отметьте 5 модов или ресурсов"
+    "desc": "Отметьте 5 модов или ресурсов",
+    "value": "Наводчик"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplayemote": {
-    "value": "Эмоциональный",
-    "desc": "Используйте жест"
+    "desc": "Используйте жест",
+    "value": "Эмоциональный"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplayminigame": {
-    "value": "В душе ребёнок",
-    "desc": "Сыграйте в игру Frame Fighter, Happy Zephyr или Wyrmius"
+    "desc": "Сыграйте в игру Frame Fighter, Happy Zephyr или Wyrmius",
+    "value": "В душе ребёнок"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyrailjackhijackdestroythree": {
+    "desc": "Во время пилотирования угнанного транспортёра, уничтожьте 3 истребителя противника",
+    "value": "Дружественный огонь"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyrequiemtotem": {
+    "desc": "Activate a Requiem Obelisk on Deimos.",
+    "value": "Ancient Obelisk"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
-    "value": "Торопыга",
-    "desc": "Убейте 20 врагов во время скольжения"
+    "desc": "Убейте 20 врагов во время скольжения",
+    "value": "Торопыга"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
-    "value": "Хакер",
-    "desc": "Взломайте 8 консолей"
+    "desc": "Взломайте 8 консолей",
+    "value": "Хакер"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
-    "value": "Сильное Влияние",
-    "desc": "Поднимите в воздух 5 или более врагов одновременно, используя Тяжёлые Удары ближнего боя"
+    "desc": "Поднимите в воздух 5 или более врагов одновременно, используя Тяжёлые Удары ближнего боя",
+    "value": "Сильное Влияние"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
-    "value": "Всё старое вновь новое",
-    "desc": "Завершите 3 трансмутации модов"
+    "desc": "Завершите 3 трансмутации модов",
+    "value": "Всё старое вновь новое"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
-    "value": "Зашёл на огонёк",
-    "desc": "Посетите Популярное Додзе на Звёздной Карте"
+    "desc": "Посетите Популярное Додзе на Звёздной Карте",
+    "value": "Зашёл на огонёк"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
-    "value": "Само совершенство",
-    "desc": "Отбейтесь от абордажной команды Гринир без малейшего урона вашему варфрейму"
+    "desc": "Отбейтесь от абордажной команды Гринир без малейшего урона вашему варфрейму",
+    "value": "Само совершенство"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
-    "value": "Рыбак Земли",
-    "desc": "Поймайте 6 редких рыб на Равнинах Эйдолона"
+    "desc": "Поймайте 6 редких рыб на Равнинах Эйдолона",
+    "value": "Рыбак Земли"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrarevenusfish": {
-    "value": "Рыбак Венеры",
-    "desc": "Поймайте 6 редких серворыб в Долине Сфер"
+    "desc": "Поймайте 6 редких серворыб в Долине Сфер",
+    "value": "Рыбак Венеры"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
-    "value": "Убийца",
-    "desc": "Завершите 3 миссии \"Убийство\""
+    "desc": "Завершите 3 миссии \"Убийство\"",
+    "value": "Убийца"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
-    "value": "Тюремщик",
-    "desc": "Завершите 3 миссии \"Захват\""
+    "desc": "Завершите 3 миссии \"Захват\"",
+    "value": "Тюремщик"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
-    "value": "Надёжный друг",
-    "desc": "Помогите Клему в его еженедельной миссии"
+    "desc": "Помогите Клему в его еженедельной миссии",
+    "value": "Надёжный друг"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletedisruptionconduits": {
-    "value": "Не взрывай",
-    "desc": "Защитите 12 проводников в миссии \"Сбой\""
+    "desc": "Защитите 12 проводников в миссии \"Сбой\"",
+    "value": "Не взрывай"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteexterminate": {
-    "value": "Устранитель",
-    "desc": "Завершите 3 миссии \"Зачистка\""
+    "desc": "Завершите 3 миссии \"Зачистка\"",
+    "value": "Устранитель"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
-    "value": "Оккупант",
-    "desc": "Завершите 9 миссий вторжения"
+    "desc": "Завершите 9 миссий вторжения",
+    "value": "Оккупант"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletekuva": {
-    "value": "Не бойся Жнеца",
-    "desc": "Завершите 3 миссии с Кувой"
+    "desc": "Завершите 3 миссии с Кувой",
+    "value": "Не бойся Жнеца"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletemobiledefense": {
-    "value": "Защитник",
-    "desc": "Завершите 3 миссии \"Мобильная Оборона\""
+    "desc": "Завершите 3 миссии \"Мобильная Оборона\"",
+    "value": "Защитник"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletenightmaremissions": {
-    "value": "Крепко спящий",
-    "desc": "Завершите 3 миссии \"кошмара\""
+    "desc": "Завершите 3 миссии \"кошмара\"",
+    "value": "Крепко спящий"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleterescue": {
-    "value": "Спасатель",
-    "desc": "Завершите 3 миссии \"Спасения\""
+    "desc": "Завершите 3 миссии \"Спасения\"",
+    "value": "Спасатель"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesabotage": {
-    "value": "Диверсант",
-    "desc": "Завершите 3 миссии \"Диверсия\""
+    "desc": "Завершите 3 миссии \"Диверсия\"",
+    "value": "Диверсант"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesortie": {
-    "value": "Специалист по Вылазкам",
-    "desc": "Завершите 1 Вылазку"
+    "desc": "Завершите 1 Вылазку",
+    "value": "Специалист по Вылазкам"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletespy": {
-    "value": "Шпион",
-    "desc": "Завершите 3 миссии \"Шпионажа\""
+    "desc": "Завершите 3 миссии \"Шпионажа\"",
+    "value": "Шпион"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
-    "value": "Сторонник",
-    "desc": "Завершите 10 миссий синдикатов"
+    "desc": "Завершите 10 миссий синдикатов",
+    "value": "Сторонник"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
-    "value": "Аниматор",
-    "desc": "Заполните все гнёзда у 3 скульптур Аятан"
+    "desc": "Заполните все гнёзда у 3 скульптур Аятан",
+    "value": "Аниматор"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
-    "value": "Посадка",
-    "desc": "Завершите 3 различных гонки К-Драйва в Долине Сфер"
+    "desc": "Завершите 3 различных гонки К-Драйва в Долине Сфер",
+    "value": "Посадка"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
-    "value": "Мышление наперед",
-    "desc": "Уничтожьте Транспортёр, используя только Фронтальную Артиллерию"
+    "desc": "Уничтожьте Транспортёр, используя только Фронтальную Артиллерию",
+    "value": "Мышление наперед"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyfeedhelminth": {
+    "desc": "Feed the Helminth any resource",
+    "value": "Feed The Beast"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
-    "value": "Улучшено",
-    "desc": "Улучшите 1 единицу модульного снаряжения"
+    "desc": "Улучшите 1 единицу модульного снаряжения",
+    "value": "Улучшено"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyhijackcrewship": {
-    "value": "Конфискованный",
-    "desc": "Угоните вражеский транспортёр"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
-    "value": "Тяжёлая Артиллерия",
-    "desc": "Убейте 500 врагов из оружия Арчвинга"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
-    "value": "Не предупредительный выстрел",
-    "desc": "Убейте 500 врагов"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
-    "value": "Устранитель эксимусов",
-    "desc": "Убейте 30 эксимусов"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklykillthumper": {
-    "value": "Сотрясание бивней",
-    "desc": "Одолейте Сотрясателя Бивня на Равнинах Эйдолона"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
-    "value": "Шахтёр Земли",
-    "desc": "Добудьте 6 редких ископаемых на Равнинах Эйдолона"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
-    "value": "Шахтёр Венеры",
-    "desc": "Добудьте 6 редких ископаемых в Долине Сфер"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
-    "value": "Борец за природу",
-    "desc": "Совершите 6 различных идеальных захватов животных в Долине Сфер"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
-    "value": "Усиление!",
-    "desc": "Подберите 8 редких модов"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
-    "value": "Охотник за наживой Земли",
-    "desc": "Завершите 5 различных Заказов на Равнинах Эйдолона"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
-    "value": "Исследователь",
-    "desc": "Завершите 3 миссии Рэйлджека"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
-    "value": "Охотник за секретами",
-    "desc": "Найдите все спрятанные ящики в 3 миссиях \"Диверсия\""
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
-    "value": "Испытуемый объект",
-    "desc": "Завершите 8 зон Резни в Святилище"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
-    "value": "Исследователь Святилища",
-    "desc": "Завершите 5 сканирований для Цефалона Симэриса"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
-    "value": "Грабитель хранилищ",
-    "desc": "Откройте 4 хранилища в Руинах Орокин"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockrelics": {
-    "value": "Откройте реликвии",
-    "desc": "Откройте 3 реликвии"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyuseforma": {
-    "value": "Поляризирован",
-    "desc": "Поляризуйте оружие, компаньона или варфрейм, не в Симулякруме"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
-    "value": "Охотник за наживой Венеры",
-    "desc": "Завершите 5 различных Заказов в Долине Сфер"
+    "desc": "Угоните вражеский транспортёр",
+    "value": "Конфискованный"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyisolationbounties": {
-    "value": "Vault Raider",
-    "desc": "Complete an Isolation Vault Bounty Mission on Deimos"
+    "desc": "Complete an Isolation Vault Bounty Mission on Deimos",
+    "value": "Vault Raider"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
+    "desc": "Убейте 500 врагов из оружия Арчвинга",
+    "value": "Тяжёлая Артиллерия"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
+    "desc": "Убейте 500 врагов",
+    "value": "Не предупредительный выстрел"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemiesinmech": {
+    "desc": "Kill 100 enemies with a Mech.",
+    "value": "Necralizer"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
+    "desc": "Убейте 30 эксимусов",
+    "value": "Устранитель эксимусов"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklykillthumper": {
+    "desc": "Одолейте Сотрясателя Бивня на Равнинах Эйдолона",
+    "value": "Сотрясание бивней"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
+    "desc": "Добудьте 6 редких ископаемых на Равнинах Эйдолона",
+    "value": "Шахтёр Земли"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
+    "desc": "Добудьте 6 редких ископаемых в Долине Сфер",
+    "value": "Шахтёр Венеры"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
+    "desc": "Совершите 6 различных идеальных захватов животных в Долине Сфер",
+    "value": "Борец за природу"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
+    "desc": "Подберите 8 редких модов",
+    "value": "Усиление!"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
+    "desc": "Завершите 5 различных Заказов на Равнинах Эйдолона",
+    "value": "Охотник за наживой Земли"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
+    "desc": "Завершите 3 миссии Рэйлджека",
+    "value": "Исследователь"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
+    "desc": "Найдите все спрятанные ящики в 3 миссиях \"Диверсия\"",
+    "value": "Охотник за секретами"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
+    "desc": "Завершите 8 зон Резни в Святилище",
+    "value": "Испытуемый объект"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
+    "desc": "Завершите 5 сканирований для Цефалона Симэриса",
+    "value": "Исследователь Святилища"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
+    "desc": "Откройте 4 хранилища в Руинах Орокин",
+    "value": "Грабитель хранилищ"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockrelics": {
+    "desc": "Откройте 3 реликвии",
+    "value": "Откройте реликвии"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyuseforma": {
+    "desc": "Поляризуйте оружие, компаньона или варфрейм, не в Симулякруме",
+    "value": "Поляризирован"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
+    "desc": "Завершите 5 различных Заказов в Долине Сфер",
+    "value": "Охотник за наживой Венеры"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
+    "desc": "Collect 20 different types of resources.",
+    "value": "Resource Scavenger"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
-    "value": "Ночной кошмар",
-    "desc": "Завершите 10 \"кошмарных\" миссий"
+    "desc": "Завершите 10 \"кошмарных\" миссий",
+    "value": "Ночной кошмар"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
-    "value": "Эксперт по вылазкам",
-    "desc": "Завершите 3 Вылазки"
+    "desc": "Завершите 3 Вылазки",
+    "value": "Эксперт по вылазкам"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesteelpathmissions": {
+    "desc": "Complete 5 Steel Path Missions.",
+    "value": "The Path Less Travelled"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
-    "value": "Элитный испытуемый объект",
-    "desc": "Завершите 8 зон Элитной Резни в Святилище"
+    "desc": "Завершите 8 зон Элитной Резни в Святилище",
+    "value": "Элитный испытуемый объект"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardexterminatenoalarm": {
-    "value": "Тихий устранитель",
-    "desc": "Завершите миссию \"Зачистки\" с врагами только уровня 30 или выше, избежав срабатывания сигналов тревоги"
+    "desc": "Завершите миссию \"Зачистки\" с врагами только уровня 30 или выше, избежав срабатывания сигналов тревоги",
+    "value": "Тихий устранитель"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
-    "value": "Спринтер",
-    "desc": "Завершите миссию Захвата за менее чем 90 секунд"
+    "desc": "Завершите миссию Захвата за менее чем 90 секунд",
+    "value": "Спринтер"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfinishlich": {
-    "value": "Мудрый выбор",
-    "desc": "Уничтожьте или обратите Лича Кувы"
+    "desc": "Уничтожьте или обратите Лича Кувы",
+    "value": "Мудрый выбор"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
-    "value": "Оборона",
-    "desc": "Завершите миссию \"Обороны\", достигнув как минимум 20 волны"
+    "desc": "Завершите миссию \"Обороны\", достигнув как минимум 20 волны",
+    "value": "Оборона"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
-    "value": "Извлекатель Прибыли",
-    "desc": "Уничтожьте Извлекателя Прибыли"
+    "desc": "Уничтожьте Извлекателя Прибыли",
+    "value": "Извлекатель Прибыли"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "value": "Выживание",
-    "desc": "Завершите миссию Выживания, продержавшись как минимум 30 минут"
+    "desc": "Завершите миссию Выживания, продержавшись как минимум 30 минут",
+    "value": "Выживание"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
-    "value": "Однодневный Спекулянт",
-    "desc": "Выиграйте 3 ставки подряд в одной миссии Индекса, не давая противнику заработать очков"
+    "desc": "Выиграйте 3 ставки подряд в одной миссии Индекса, не давая противнику заработать очков",
+    "value": "Однодневный Спекулянт"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillenemies": {
-    "value": "Контрольный выстрел",
-    "desc": "Убейте 1500 врагов"
+    "desc": "Убейте 1500 врагов",
+    "value": "Контрольный выстрел"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillenemiessteelpath": {
+    "desc": "Kill 100 Enemies on The Steel Path.",
+    "value": "Cold Steel"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
-    "value": "Палач эксимусов",
-    "desc": "Убейте 100 эксимусов"
+    "desc": "Убейте 100 эксимусов",
+    "value": "Палач эксимусов"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillexploiterorb": {
-    "value": "Прибыль превыше всего",
-    "desc": "Убейте Сферу Эксплуатации"
+    "desc": "Убейте Сферу Эксплуатации",
+    "value": "Прибыль превыше всего"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
-    "value": "Охотник на Гидролистов",
-    "desc": "Убейте или захватите Эйдолонского Гидролиста"
+    "desc": "Убейте или захватите Эйдолонского Гидролиста",
+    "value": "Охотник на Гидролистов"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillropalolyst": {
-    "value": "Летает высоко",
-    "desc": "Одолейте Ропалолиста"
+    "desc": "Одолейте Ропалолиста",
+    "value": "Летает высоко"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
-    "value": "Страж рощи",
-    "desc": "Одолейте 3 спектра Серебряной Рощи"
+    "desc": "Одолейте 3 спектра Серебряной Рощи",
+    "value": "Страж рощи"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillthumper": {
-    "value": "Прогулка без ритма",
-    "desc": "Одолейте Сотрясателя Доме Бивня на Равнинах Эйдолона"
+    "desc": "Одолейте Сотрясателя Доме Бивня на Равнинах Эйдолона",
+    "value": "Прогулка без ритма"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
-    "value": "Задержи дыхание",
-    "desc": "Survive for over 30 minutes without using Life Support Modules in Kuva Survival"
+    "desc": "Survive for over 30 minutes without using Life Support Modules in Kuva Survival",
+    "value": "Задержи дыхание"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
-    "value": "Вознёсшийся",
-    "desc": "Завершите 4 Зала Вознесения на Луа"
+    "desc": "Завершите 4 Зала Вознесения на Луа",
+    "value": "Вознёсшийся"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
-    "value": "Заслуженный исследователь",
-    "desc": "Завершите 8 миссий Рэйлджека"
+    "desc": "Завершите 8 миссий Рэйлджека",
+    "value": "Заслуженный исследователь"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
-    "value": "Аппаратные Помехи",
-    "desc": "Завершите миссию Шпионажа, вручную взломав 3 консоли без сигналов тревоги"
+    "desc": "Завершите миссию Шпионажа, вручную взломав 3 консоли без сигналов тревоги",
+    "value": "Аппаратные Помехи"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
-    "value": "Откройте реликвии",
-    "desc": "Откройте 10 реликвий"
+    "desc": "Откройте 10 реликвий",
+    "value": "Откройте реликвии"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Страдание"
@@ -13510,59 +13542,59 @@
   "/lotus/types/game/enemyspecs/corpusalamgamendless": {
     "value": "Бесконечные Амальгамы"
   },
-  "/lotus/types/game/enemyspecs/specialmissionspecs/disruptioncorpusamalgams": {
-    "value": "Сбой Амальгамы"
-  },
   "/lotus/types/game/enemyspecs/infestedsurvivalb": {
     "value": "Invested Survival"
   },
-  "/lotus/types/game/events/orbeventglyphone": {
-    "value": "Data-hash 1"
-  },
-  "/lotus/types/game/events/orbeventglyphtwo": {
-    "value": "Data-hash 2"
-  },
-  "/lotus/types/game/events/orbeventglyphthree": {
-    "value": "Data-hash 3"
-  },
-  "/lotus/types/game/events/orbeventglyphfour": {
-    "value": "Data-hash 4"
-  },
-  "/lotus/types/game/events/orbeventglyphfive": {
-    "value": "Data-hash 5"
-  },
-  "/lotus/types/game/events/orbeventglyphsix": {
-    "value": "Data-hash 6"
-  },
-  "/lotus/types/game/events/orbeventglyphseven": {
-    "value": "Data-hash 7"
+  "/lotus/types/game/enemyspecs/specialmissionspecs/disruptioncorpusamalgams": {
+    "value": "Сбой Амальгамы"
   },
   "/lotus/types/game/events/orbeventglypheight": {
     "value": "Data-hash 8"
   },
-  "/lotus/types/game/events/orbeventglyphnine": {
-    "value": "Data-hash 9"
-  },
-  "/lotus/types/game/events/orbeventglyphten": {
-    "value": "Data-hash 10"
-  },
   "/lotus/types/game/events/orbeventglypheleven": {
     "value": "Data-hash 11"
-  },
-  "/lotus/types/game/events/orbeventglyphtwelve": {
-    "value": "Data-hash 12"
-  },
-  "/lotus/types/game/events/orbeventglyphthirteen": {
-    "value": "Data-hash 13"
-  },
-  "/lotus/types/game/events/orbeventglyphfourteen": {
-    "value": "Data-hash 14"
   },
   "/lotus/types/game/events/orbeventglyphfifteen": {
     "value": "Data-hash 15"
   },
+  "/lotus/types/game/events/orbeventglyphfive": {
+    "value": "Data-hash 5"
+  },
+  "/lotus/types/game/events/orbeventglyphfour": {
+    "value": "Data-hash 4"
+  },
+  "/lotus/types/game/events/orbeventglyphfourteen": {
+    "value": "Data-hash 14"
+  },
+  "/lotus/types/game/events/orbeventglyphnine": {
+    "value": "Data-hash 9"
+  },
+  "/lotus/types/game/events/orbeventglyphone": {
+    "value": "Data-hash 1"
+  },
+  "/lotus/types/game/events/orbeventglyphseven": {
+    "value": "Data-hash 7"
+  },
+  "/lotus/types/game/events/orbeventglyphsix": {
+    "value": "Data-hash 6"
+  },
   "/lotus/types/game/events/orbeventglyphsixteen": {
     "value": "Data-hash 16"
+  },
+  "/lotus/types/game/events/orbeventglyphten": {
+    "value": "Data-hash 10"
+  },
+  "/lotus/types/game/events/orbeventglyphthirteen": {
+    "value": "Data-hash 13"
+  },
+  "/lotus/types/game/events/orbeventglyphthree": {
+    "value": "Data-hash 3"
+  },
+  "/lotus/types/game/events/orbeventglyphtwelve": {
+    "value": "Data-hash 12"
+  },
+  "/lotus/types/game/events/orbeventglyphtwo": {
+    "value": "Data-hash 2"
   },
   "/lotus/types/game/kubrowpet/adventurerkubrowpetpowersuit": {
     "value": "Sahasa"
@@ -13663,6 +13695,51 @@
   "/lotus/types/game/missiondecks/eidolonjobmissionrewards/tieretablecrewards": {
     "value": "Breath of the Eidolon x5, Axi L2 Relic, Cetus Wisp x2, Kuva x300, Furax Wraith Blueprint, Twirling Spire, Eidolon Lens Blueprint"
   },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablearewards": {
+    "value": "1500 Credit Cache, 50 Endo, Mytocardia Spore x5, Oxium x100, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablebrewards": {
+    "value": "1500 Credit Cache, 50 Endo, Cryotic x100, Thermal Sludge x5, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablecrewards": {
+    "value": "1500 Credit Cache, 50 Endo, Gorgaricus Spore x5, Plastids x100, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablearewards": {
+    "value": "100 Endo, 2500 Credit Cache, Mytocardia Spore x15, Oxium x200, Shelter Debt-Bond x2, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Synth Charge"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablebrewards": {
+    "value": "100 Endo, 2500 Credit Cache, Cryotic x200, Shelter Debt-Bond x2, Thermal Sludge x15, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Mecha Overdrive"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablecrewards": {
+    "value": "100 Endo, 2500 Credit Cache, Gorgaricus Spore x15, Nano Spores x200, Shelter Debt-Bond x2, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Tek Assault"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablearewards": {
+    "value": "200 Endo, Circuits x300, Madurai Lens, Medical Debt-Bond x2, Garuda Neurooptics Blueprint, Meso S8 Relic, Synth Deconstruct"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablebrewards": {
+    "value": "200 Endo, Medical Debt-Bond x2, Plastids x300, Unairu Lens, Garuda Neurooptics Blueprint, Meso S8 Relic, Mecha Recharge"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablecrewards": {
+    "value": "200 Endo, Medical Debt-Bond x2, Naramon Lens, Rubedo x300, Garuda Neurooptics Blueprint, Meso S8 Relic, Tek Enhance"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablearewards": {
+    "value": "300 Endo, Advanced Debt-Bond x2, Fieldron x2, Vazarin Lens, Neo K2 Relic, Tellurium, Synth Fiber"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablebrewards": {
+    "value": "300 Endo, Advanced Debt-Bond x2, Detonite Injector x2, Zenurik Lens, Neo G1 Relic, Tellurium, Mecha Empowered"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablecrewards": {
+    "value": "300 Endo, Advanced Debt-Bond x2, Kuva x200, Mutagen Mass x2, Neo A2 Relic, Tellurium, Tek Gravity"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablearewards": {
+    "value": "10000 Credit Cache, 400 Endo, Familiar Debt-Bond x2, Axi C3 Relic, Kuva x500, Synth Reflex"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablebrewards": {
+    "value": "10000 Credit Cache, 400 Endo, Familiar Debt-Bond x2, Axi K4 Relic, Kuva x500, Mecha Pulse"
+  },
+  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablecrewards": {
+    "value": "400 Endo, Familiar Debt-Bond x2, Neurodes, Orokin Cell, Axi L2 Relic, Kuva x500, Tek Collateral"
+  },
   "/lotus/types/game/notepacks/bardcorpuspacka": {
     "value": "Alpha Instruments"
   },
@@ -13677,6 +13754,27 @@
   },
   "/lotus/types/game/notepacks/bardgrineerpacka": {
     "value": "Druk Instruments"
+  },
+  "/lotus/types/game/projections/t2voidprojectionalertsarynprimebronze": {
+    "value": "Meso S9 Relic"
+  },
+  "/lotus/types/game/projections/t3voidprojectionalertsarynprimebronze": {
+    "value": "Neo S10 Relic"
+  },
+  "/lotus/types/game/projections/t4voidprojectionalertsarynprimebronze": {
+    "value": "Axi N6 Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortalabronze": {
+    "value": "Requiem I Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortalbbronze": {
+    "value": "Requiem II Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortalcbronze": {
+    "value": "Requiem III Relic"
+  },
+  "/lotus/types/game/projections/t5voidprojectionimmortaldbronze": {
+    "value": "Requiem IV Relic"
   },
   "/lotus/types/game/solarrails/basicsolarrail": {
     "value": "Солнечных монорельс - класс башни"
@@ -13738,6 +13836,12 @@
   "/lotus/types/gameplay/eidolon/resources/cetuswispitem": {
     "value": "Cetus Wisp"
   },
+  "/lotus/types/gameplay/grineer/brokenlight": {
+    "value": "Broken Light"
+  },
+  "/lotus/types/gameplay/grineer/doorsensordeco": {
+    "value": "Door Sensor Deco"
+  },
   "/lotus/types/gameplay/infestedmicroplanet/jobs/deimosareadefensebounty": {
     "value": "Верните то, что было нашим"
   },
@@ -13756,29 +13860,26 @@
   "/lotus/types/gameplay/infestedmicroplanet/jobs/deimosexcavatebounty": {
     "value": "Образцы керна"
   },
-  "/lotus/types/gameplay/infestedmicroplanet/jobs/deimoskeypiecesbounty": {
-    "value": "Вторсырье"
-  },
   "/lotus/types/gameplay/infestedmicroplanet/jobs/deimosgrnsurvivorbounty": {
     "value": "Грубая сила"
+  },
+  "/lotus/types/gameplay/infestedmicroplanet/jobs/deimoskeypiecesbounty": {
+    "value": "Вторсырье"
   },
   "/lotus/types/gameplay/infestedmicroplanet/jobs/deimospurifybounty": {
     "value": "Получение аномалии"
   },
-  "/lotus/types/gameplay/venus/jobs/venushelpingjobcaches": {
-    "value": "Ништяк доски"
+  "/lotus/types/gameplay/venus/jobs/venusartifactjobambush": {
+    "value": "Западня для курьера"
   },
-  "/lotus/types/gameplay/venus/jobs/venushelpingjobresource": {
-    "value": "Грязный приём"
+  "/lotus/types/gameplay/venus/jobs/venusartifactjobexcavation": {
+    "value": "Археология"
   },
-  "/lotus/types/gameplay/venus/jobs/venushelpingjobspy": {
-    "value": "Вроде законно"
+  "/lotus/types/gameplay/venus/jobs/venusartifactjobrecovery": {
+    "value": "Кровавые реликвии"
   },
-  "/lotus/types/gameplay/venus/jobs/venuspreservationjobrecovery": {
-    "value": "Защита невиновных"
-  },
-  "/lotus/types/gameplay/venus/jobs/venuspreservationjobresource": {
-    "value": "На мусор их ловушки"
+  "/lotus/types/gameplay/venus/jobs/venuschaosjobassassinate": {
+    "value": "Выжженная земля"
   },
   "/lotus/types/gameplay/venus/jobs/venuschaosjobexcavation": {
     "value": "Погрести их"
@@ -13792,11 +13893,14 @@
   "/lotus/types/gameplay/venus/jobs/venusculljobresource": {
     "value": "Отклонение и отвлечение"
   },
-  "/lotus/types/gameplay/venus/jobs/venusartifactjobexcavation": {
-    "value": "Археология"
+  "/lotus/types/gameplay/venus/jobs/venushelpingjobcaches": {
+    "value": "Ништяк доски"
   },
-  "/lotus/types/gameplay/venus/jobs/venusspyjobspy": {
-    "value": "Агент ранен"
+  "/lotus/types/gameplay/venus/jobs/venushelpingjobresource": {
+    "value": "Грязный приём"
+  },
+  "/lotus/types/gameplay/venus/jobs/venushelpingjobspy": {
+    "value": "Вроде законно"
   },
   "/lotus/types/gameplay/venus/jobs/venusinteljobrecovery": {
     "value": "Доказательство жизни"
@@ -13807,104 +13911,32 @@
   "/lotus/types/gameplay/venus/jobs/venusinteljobspy": {
     "value": "Финансовое освобождение"
   },
+  "/lotus/types/gameplay/venus/jobs/venuspreservationjobdefense": {
+    "value": "Проявление долга"
+  },
+  "/lotus/types/gameplay/venus/jobs/venuspreservationjobrecovery": {
+    "value": "Защита невиновных"
+  },
+  "/lotus/types/gameplay/venus/jobs/venuspreservationjobresource": {
+    "value": "На мусор их ловушки"
+  },
+  "/lotus/types/gameplay/venus/jobs/venusspyjobspy": {
+    "value": "Агент ранен"
+  },
   "/lotus/types/gameplay/venus/jobs/venustheftjobambush": {
     "value": "Обновление ПО"
   },
   "/lotus/types/gameplay/venus/jobs/venustheftjobexcavation": {
     "value": "Кража ресурсов"
   },
-  "/lotus/types/gameplay/venus/jobs/venuspreservationjobdefense": {
-    "value": "Проявление долга"
-  },
-  "/lotus/types/gameplay/venus/jobs/venusartifactjobambush": {
-    "value": "Западня для курьера"
-  },
-  "/lotus/types/gameplay/venus/jobs/venuschaosjobassassinate": {
-    "value": "Выжженная земля"
-  },
   "/lotus/types/gameplay/venus/jobs/venustheftjobresource": {
     "value": "Налог для налоговика"
-  },
-  "/lotus/types/gameplay/venus/jobs/venusartifactjobrecovery": {
-    "value": "Кровавые реликвии"
   },
   "/lotus/types/gameplay/venus/jobs/venuswetworkjobassassinate": {
     "value": "Холодный приём"
   },
   "/lotus/types/gameplay/venus/jobs/venuswetworkjobspy": {
     "value": "Падающая звезда"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablearewards": {
-    "value": "1500 Credit Cache, 50 Endo, Mytocardia Spore x5, Oxium x100, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablebrewards": {
-    "value": "1500 Credit Cache, 50 Endo, Cryotic x100, Thermal Sludge x5, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieratablecrewards": {
-    "value": "1500 Credit Cache, 50 Endo, Gorgaricus Spore x5, Plastids x100, Training Dept-Bond x2, 3000 Credit Cache, Garuda Chassis Blueprint, Tepa Nodule x5, Neo A2 Relic"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablearewards": {
-    "value": "100 Endo, 2500 Credit Cache, Mytocardia Spore x15, Oxium x200, Shelter Debt-Bond x2, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Synth Charge"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablebrewards": {
-    "value": "100 Endo, 2500 Credit Cache, Cryotic x200, Shelter Debt-Bond x2, Thermal Sludge x15, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Mecha Overdrive"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierbtablecrewards": {
-    "value": "100 Endo, 2500 Credit Cache, Gorgaricus Spore x15, Nano Spores x200, Shelter Debt-Bond x2, Garuda Systems Blueprint, Lith B5 Relic, Tepa Nodule x5, Tek Assault"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablearewards": {
-    "value": "200 Endo, Circuits x300, Madurai Lens, Medical Debt-Bond x2, Garuda Neurooptics Blueprint, Meso S8 Relic, Synth Deconstruct"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablebrewards": {
-    "value": "200 Endo, Medical Debt-Bond x2, Plastids x300, Unairu Lens, Garuda Neurooptics Blueprint, Meso S8 Relic, Mecha Recharge"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierctablecrewards": {
-    "value": "200 Endo, Medical Debt-Bond x2, Naramon Lens, Rubedo x300, Garuda Neurooptics Blueprint, Meso S8 Relic, Tek Enhance"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablearewards": {
-    "value": "300 Endo, Advanced Debt-Bond x2, Fieldron x2, Vazarin Lens, Neo K2 Relic, Tellurium, Synth Fiber"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablebrewards": {
-    "value": "300 Endo, Advanced Debt-Bond x2, Detonite Injector x2, Zenurik Lens, Neo G1 Relic, Tellurium, Mecha Empowered"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustierdtablecrewards": {
-    "value": "300 Endo, Advanced Debt-Bond x2, Kuva x200, Mutagen Mass x2, Neo A2 Relic, Tellurium, Tek Gravity"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablearewards": {
-    "value": "10000 Credit Cache, 400 Endo, Familiar Debt-Bond x2, Axi C3 Relic, Kuva x500, Synth Reflex"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablebrewards": {
-    "value": "10000 Credit Cache, 400 Endo, Familiar Debt-Bond x2, Axi K4 Relic, Kuva x500, Mecha Pulse"
-  },
-  "/lotus/types/game/missiondecks/venusjobmissionrewards/venustieretablecrewards": {
-    "value": "400 Endo, Familiar Debt-Bond x2, Neurodes, Orokin Cell, Axi L2 Relic, Kuva x500, Tek Collateral"
-  },
-  "/lotus/types/game/projections/t2voidprojectionalertsarynprimebronze": {
-    "value": "Meso S9 Relic"
-  },
-  "/lotus/types/game/projections/t3voidprojectionalertsarynprimebronze": {
-    "value": "Neo S10 Relic"
-  },
-  "/lotus/types/game/projections/t4voidprojectionalertsarynprimebronze": {
-    "value": "Axi N6 Relic"
-  },
-  "/lotus/types/game/projections/t5voidprojectionimmortalabronze": {
-    "value": "Requiem I Relic"
-  },
-  "/lotus/types/game/projections/t5voidprojectionimmortalbbronze": {
-    "value": "Requiem II Relic"
-  },
-  "/lotus/types/game/projections/t5voidprojectionimmortalcbronze": {
-    "value": "Requiem III Relic"
-  },
-  "/lotus/types/game/projections/t5voidprojectionimmortaldbronze": {
-    "value": "Requiem IV Relic"
-  },
-  "/lotus/types/gameplay/grineer/brokenlight": {
-    "value": "Broken Light"
-  },
-  "/lotus/types/gameplay/grineer/doorsensordeco": {
-    "value": "Door Sensor Deco"
   },
   "/lotus/types/items/fusiontreasures/orofusexb": {
     "value": "Ayr Ayatan Sculpture"
@@ -15466,14 +15498,14 @@
   "/lotus/types/storeitems/packages/fomorianrevengemodpack": {
     "value": "Eyes Of Blight Mod Pack"
   },
+  "/lotus/types/storeitems/packages/fomorianrevengeskinpack": {
+    "value": "Eyes Of Blight Skin Pack"
+  },
   "/lotus/types/storeitems/packages/fortunamegabundle": {
     "value": "Fortuna Grand Bundle"
   },
   "/lotus/types/storeitems/packages/fortunatwoweaponbundle": {
     "value": "Vallis Domination Collection"
-  },
-  "/lotus/types/storeitems/packages/fomorianrevengeskinpack": {
-    "value": "Eyes Of Blight Skin Pack"
   },
   "/lotus/types/storeitems/packages/frostdeluxeskinbundle": {
     "value": "Frost Harka Bundle"
@@ -15481,14 +15513,14 @@
   "/lotus/types/storeitems/packages/frostpack": {
     "value": "Stay Frosty Pack"
   },
-  "/lotus/types/storeitems/packages/gaussbundle": {
-    "value": "Gauss Collection"
-  },
   "/lotus/types/storeitems/packages/garudabundle": {
     "value": "Garuda Collection"
   },
   "/lotus/types/storeitems/packages/garudadeluxeskinbundle": {
     "value": "Garuda Hinsa Collection"
+  },
+  "/lotus/types/storeitems/packages/gaussbundle": {
+    "value": "Gauss Collection"
   },
   "/lotus/types/storeitems/packages/glassbundle": {
     "value": "Gara Collection"
@@ -15775,11 +15807,11 @@
   "/lotus/types/storeitems/packages/ornateweaponbundle": {
     "value": "Tekelu Weapon Bundle"
   },
-  "/lotus/types/storeitems/packages/orokinsabotagemodpack": {
-    "value": "Gate Crash Mod Pack"
-  },
   "/lotus/types/storeitems/packages/orokinreactorandcatalystbundle": {
     "value": "Orokin Upgrade Pack"
+  },
+  "/lotus/types/storeitems/packages/orokinsabotagemodpack": {
+    "value": "Gate Crash Mod Pack"
   },
   "/lotus/types/storeitems/packages/ostronshipdecopacka": {
     "value": "Reclamator Pack"
@@ -16441,11 +16473,11 @@
   "/lotus/upgrades/skins/holstercustomizations/rifleupperback": {
     "value": "Rifle Upper Back"
   },
-  "/lotus/upgrades/skins/ironframe/shieldalthelmet": {
-    "value": "Hildryn Asuron Helmet"
-  },
   "/lotus/upgrades/skins/infestation/nidusalthelmet": {
     "value": "Nidus Myxini Helmet"
+  },
+  "/lotus/upgrades/skins/ironframe/shieldalthelmet": {
+    "value": "Hildryn Asuron Helmet"
   },
   "/lotus/upgrades/skins/jade/nyxalternateskin": {
     "value": "Скин Никс \"Бессмертный\""
@@ -16528,23 +16560,23 @@
   "/lotus/upgrades/skins/necro/nekrosalternateskin": {
     "value": "Скин Некроса \"Бессмертный\""
   },
+  "/lotus/upgrades/skins/nezha/nezhaalt2helmet": {
+    "value": "Nezha Jinza Helmet"
+  },
   "/lotus/upgrades/skins/ninja/ashalternateskin": {
     "value": "Скин Эша \"Бессмертный\""
   },
   "/lotus/upgrades/skins/ninja/ashdeluxeskin": {
     "value": "Ash Shroud Skin"
   },
-  "/lotus/upgrades/skins/nezha/nezhaalt2helmet": {
-    "value": "Nezha Jinza Helmet"
-  },
   "/lotus/upgrades/skins/ninja/ninjadeluxesuit": {
     "value": "Скин Эша Кога"
   },
-  "/lotus/upgrades/skins/odalisk/odaliskalthelmet": {
-    "value": "Protea Telema Helmet"
-  },
   "/lotus/upgrades/skins/odalisk/odaliskalt2helmet": {
     "value": "Protea Mavv Helmet"
+  },
+  "/lotus/upgrades/skins/odalisk/odaliskalthelmet": {
+    "value": "Protea Telema Helmet"
   },
   "/lotus/upgrades/skins/operator/accessories/baromouthpiecea": {
     "value": "Baro Mouth Piece A"
@@ -17626,11 +17658,11 @@
   "/lotus/weapons/tenno/melee/swords/threeleaf/threeleaf": {
     "value": "Three Leaf"
   },
-  "/lotus/weapons/tenno/melee/swords/tnrailjackgreatkatana/tnrailjackgreatkatanaweapon": {
-    "value": "Pennant"
-  },
   "/lotus/weapons/tenno/melee/swords/tnorapier/tnorapier": {
     "value": "Destreza"
+  },
+  "/lotus/weapons/tenno/melee/swords/tnrailjackgreatkatana/tnrailjackgreatkatanaweapon": {
+    "value": "Pennant"
   },
   "/lotus/weapons/tenno/melee/swords/tntwohandedkatana/tntwohandedkatana": {
     "value": "Tatsu"
@@ -17836,7 +17868,7 @@
   "/lotus/weapons/voidtrader/vtdetron": {
     "value": "Мара Детрон"
   },
-  "ProjectIndex": {
+  "projectindex": {
     "value": "Очки Индекса"
   }
 }
