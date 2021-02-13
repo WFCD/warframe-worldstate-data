@@ -25,7 +25,7 @@
     "lint:fix": "eslint --ignore-path .gitignore . --fix",
     "test": " nyc --reporter=text mocha",
     "coverage": "npm test && nyc report --reporter=text-lcov | coveralls",
-    "sort_lang": "python tools/sort_languages.py"
+    "sort": "python tools/sort_languages.py"
   },
   "repository": {
     "type": "git",
@@ -67,5 +67,35 @@
   },
   "engines": {
     "node": ">=8.17.0"
+  },
+  "eslintIgnore": [],
+  "eslintConfig": {
+    "extends": "airbnb-base",
+    "parserOptions": {
+      "sourceType": "script"
+    },
+    "rules": {
+      "valid-jsdoc": ["error", {
+        "requireReturn": false,
+        "requireReturnDescription": false,
+        "preferType": {
+          "String": "string",
+          "Number": "number",
+          "Boolean": "boolean",
+          "Function": "function",
+          "object": "Object",
+          "date": "Date",
+          "error": "Error"
+        },
+        "prefer": {
+          "return": "returns"
+        }
+      }],
+      "strict": ["error", "safe"],
+      "linebreak-style": "off",
+      "no-restricted-syntax": ["off"],
+      "no-await-in-loop": "off",
+      "import/no-unresolved": 0
+    }
   }
 }

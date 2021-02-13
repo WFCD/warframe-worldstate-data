@@ -38,3 +38,11 @@ jspm_packages
 .node_repl_history
 
 test
+tools/
+data/languages_sorted.json
+.github/
+crowdin.yml
+.mergify.yml
+.eslintrc
+
+warframe-worldstate-data*.tgz

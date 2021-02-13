@@ -35,3 +35,6 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+data/languages_sorted.json
+warframe-worldstate-data*.tgz

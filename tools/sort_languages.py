@@ -7,6 +7,6 @@ with open(os.path.join(data_dir, "languages.json")) as f:
     data = json.load(f)
 
 with open(os.path.join(data_dir, "languages_sorted.json"), "w") as f:
-    f.write(json.dumps(data, indent=4, sort_keys=True))
+    f.write(json.dumps(data, indent=2, sort_keys=True))
 
 print("language.json has been sorted!")
