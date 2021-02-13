@@ -20,7 +20,7 @@ const languagesSchema = {
   },
   type: 'object',
   patternProperties: {
-    '^/ee|^/lotus|^[0-9a-f]+$|^ProjectIndex$': { $ref: '#/definitions/language' },
+    '^/ee|^/lotus|^[0-9a-z]+$': { $ref: '#/definitions/language' },
   },
 };
 
