@@ -149,76 +149,76 @@
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
       "title": "Protivzdušný Úder",
-      "description": "Kill 1 Airborne enemy",
+      "description": "Zabijte 1 vzdušného nepřítele",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
       "title": "Protivzdušný Úder",
-      "description": "Kill 4 Airborne enemies",
+      "description": "Zabijte 4 vzdušné nepřátele",
       "standing": 1500
     },
     "PVPTimedChallengeKillsTargetInAirHARD": {
-      "title": "Focused Anti-air Strike",
-      "description": "Kill 3 Airborne enemies in a match",
+      "title": "Zaměřený Protivzdušný Úder",
+      "description": "Zabijte 3 vzdušné nepřátele v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
-      "title": "Air Strike",
-      "description": "Kill 1 enemy while Airborne",
+      "title": "Vzdušný Úder",
+      "description": "Zabijte 1 nepřítele ve vzduchu",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirMEDIUM": {
-      "title": "Air Strike",
-      "description": "Kill 4 enemies while Airborne",
+      "title": "Vzdušný Úder",
+      "description": "Zabijte 4 nepřátele ve vzduchu",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
-      "title": "Focused Air Strike",
-      "description": "Kill 3 enemies while Airborne in a match",
+      "title": "Zaměřený Vzdušný Úder",
+      "description": "Zabijte 3 nepřátele ve vzuchu v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
-      "title": "Gladiator",
-      "description": "Get 1 Melee kill",
+      "title": "Gladiátor",
+      "description": "Získej 1 zabití zblízka",
       "standing": 500
     },
     "PVPTimedChallengeKillsMeleeMEDIUM": {
-      "title": "Gladiator",
-      "description": "Get 4 Melee kills",
+      "title": "Gladiátor",
+      "description": "Získej 4 zabití zblízka",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMeleeHARD": {
-      "title": "Focused Gladiator",
-      "description": "Get 3 Melee kills in a match",
+      "title": "Zaměřený Gladiator",
+      "description": "Získej 3 zabití zblízka v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
-      "title": "Void-Painter",
-      "description": "Get 1 Warframe Ability kills",
+      "title": "Void-Malíř",
+      "description": "Zabijte 1 nepřítele pomocí schopností",
       "standing": 500
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
-      "title": "Void-Painter",
-      "description": "Get 4 Warframe Ability kills",
+      "title": "Void-Malíř",
+      "description": "Zabijte 4 nepřátele pomocí schopností",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPowerHARD": {
-      "title": "Focused Void-Painter",
-      "description": "Get 3 Warframe Ability kills in a match",
+      "title": "Zaměřeno Void-Malíř",
+      "description": "Zabijte 3 nepřátele pomocí schopností v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsHeadShotsEASY": {
-      "title": "Shootist",
-      "description": "Get 1 Headshot kill",
+      "title": "Střelec",
+      "description": "Získejte 1 zabití pomocí střely do hlavy",
       "standing": 500
     },
     "PVPTimedChallengeKillsHeadShotsMEDIUM": {
-      "title": "Shootist",
-      "description": "Get 4 Headshot kills",
+      "title": "Střelec",
+      "description": "Získejte 4 zabití pomocí střely do hlavy",
       "standing": 1500
     },
     "PVPTimedChallengeKillsHeadShotsHARD": {
-      "title": "Focused Shootist",
+      "title": "Zaměřený Střelec",
       "description": "Get 3 Headshot kills in a match",
       "standing": 3000
     },
@@ -385,16 +385,16 @@
   },
   "affectors": {
     "PVPTimedAffectorSuperEnergy": {
-      "title": "Energy Surge",
-      "description": "Energy Surge - Regain energy at a faster pace"
+      "title": "Přepětí Energie",
+      "description": "Přepětí Energie - Obovte enegii co nejrychlejším tempem"
     },
     "PVPTimedAffectorSuperMeleeDamage": {
-      "title": "Extra Melee Damage",
-      "description": "Extra Melee Damage - Melee Damage is increased"
+      "title": "Extra Poškození Zblízka",
+      "description": "Extra Poškození Zblízka - Poškození na blízko je zvětšeno"
     },
     "PVPTimedAffectorSuperEverything": {
-      "title": "Extra Damage",
-      "description": "Extra Damage - All damage is increased"
+      "title": "Extra Poškození",
+      "description": "Extra Poškození - Veškeré poškození je zvětšeno"
     }
   }
 }
