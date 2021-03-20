@@ -179,27 +179,27 @@
     },
     "PVPTimedChallengeKillsMeleeEASY": {
       "title": "Gladiátor",
-      "description": "Získej 1 zabití zblízka",
+      "description": "Získejte 1 zabití zblízka",
       "standing": 500
     },
     "PVPTimedChallengeKillsMeleeMEDIUM": {
       "title": "Gladiátor",
-      "description": "Získej 4 zabití zblízka",
+      "description": "Získejte 4 zabití zblízka",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMeleeHARD": {
       "title": "Zaměřený Gladiator",
-      "description": "Získej 3 zabití zblízka v zápase",
+      "description": "Získejte 3 zabití zblízka v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
       "title": "Void-Malíř",
-      "description": "Zabijte 1 nepřítele pomocí schopností",
+      "description": "Získejte 1 zabití nepřátele pomocí schopností",
       "standing": 500
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
       "title": "Void-Malíř",
-      "description": "Zabijte 4 nepřátele pomocí schopností",
+      "description": "Získejte 4 zabití nepřátelů pomocí schopností",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPowerHARD": {
@@ -219,66 +219,66 @@
     },
     "PVPTimedChallengeKillsHeadShotsHARD": {
       "title": "Zaměřený Střelec",
-      "description": "Get 3 Headshot kills in a match",
+      "description": "Získejte 3 zabití pomocí střely do hlavy v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
-      "title": "Domination",
-      "description": "Kill 1 enemy without them killing you",
+      "title": "Převaha",
+      "description": "Zabijte 1 nepřítele, aniž by vás zabil",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakDominationMEDIUM": {
-      "title": "Domination",
-      "description": "Kill 4 enemies without them killing you",
+      "title": "Převaha",
+      "description": "Zabijte 4 nepřátele, aniž by vás zabili",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakDominationHARD": {
-      "title": "Focused Domination",
-      "description": "Kill 3 enemies without them killing you in a match",
+      "title": "Zaměřená Převaha",
+      "description": "Zabijte 3 nepřátele, aniž by vás zabili v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPaybackEASY": {
       "title": "Revenge",
-      "description": "Kill 1 enemy that have killed you",
+      "description": "Zabijte 1 nepřítele, který vás zabil",
       "standing": 500
     },
     "PVPTimedChallengeKillsPaybackMEDIUM": {
       "title": "Revenge",
-      "description": "Kill 4 enemies that have killed you",
+      "description": "Zabijte 4 nepřátele, kteří vás zabili",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPaybackHARD": {
-      "title": "Focused Revenge",
-      "description": "Kill 3 enemies that have killed you in a match",
+      "title": "Zaměřená Pomsta",
+      "description": "Zabijte 3 nepřátele, kteří vás zabili v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
-      "title": "Liberator",
-      "description": "Return your team's Cephalon 1 time",
+      "title": "Osvoboditel",
+      "description": "Vraťte Cephalon vašeho týmu 1 krát",
       "standing": 500
     },
     "PVPTimedChallengeFlagReturnMEDIUM": {
-      "title": "Liberator",
-      "description": "Return your team's Cephalon 4 times",
+      "title": "Osvoboditel",
+      "description": "Vraťte Cephalon vašeho týmu 4 krát",
       "standing": 1500
     },
     "PVPTimedChallengeFlagCaptureEASY": {
-      "title": "Bandit",
-      "description": "Capture 1 Cephalon",
+      "title": "Bandita",
+      "description": "Obsaďte 1 Cephalon",
       "standing": 500
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
-      "title": "Bandit",
-      "description": "Capture 4 Cephalons",
+      "title": "Bandita",
+      "description": "Obsaďte 4 Cephalony",
       "standing": 1500
     },
     "PVPTimedChallengeSpeedballCatchesEASY": {
-      "title": "Heads Up!",
+      "title": "Hlavy Vzhůru!",
       "description": "Catch 3 Passes from teammates",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
-      "title": "Heads Up!",
+      "title": "Hlavy Vzhůru!",
       "description": "Catch 10 Passes from teammates",
       "standing": 3000
     },
