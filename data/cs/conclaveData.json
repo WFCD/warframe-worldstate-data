@@ -1,19 +1,19 @@
 {
   "modes": {
     "PVPMODE_ALL": {
-      "value": "Any Mode"
+      "value": "Jakýkoliv Mód"
     },
     "PVPMODE_DEATHMATCH": {
       "value": "Annihilation"
     },
     "PVPMODE_TEAMDEATHMATCH": {
-      "value": "Team Annihilation"
+      "value": "Týmové Annihilation"
     },
     "PVPMODE_NONE": {
-      "value": "None"
+      "value": "Žádný"
     },
     "PVPMODE_CAPTURETHEFLAG": {
-      "value": "Capture the Cephalon"
+      "value": "Obsazení Cephalonu"
     },
     "PVPMODE_SPEEDBALL": {
       "value": "Lunaro"
@@ -22,54 +22,54 @@
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
       "value": "week",
-      "description": "Weekly"
+      "description": "Týdenní"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "week_root",
-      "description": "Weekly Category"
+      "description": "Týdenní kategorie"
     },
     "PVPChallengeTypeCategory_DAILY": {
       "value": "day",
-      "description": "Daily"
+      "description": "Denní"
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
       "value": "day_root",
-      "description": "Daily Category"
+      "description": "Denní kategorie"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
       "value": "modified round",
-      "description": "Modified Round"
+      "description": "Upravené kolo"
     }
   },
   "challenges": {
     "PVPTimedChallengeKillsPrimaryEASY": {
-      "title": "Primary Target",
-      "description": "Kill 1 enemy with your Primary Weapon",
+      "title": "Hlavní Cíl",
+      "description": "Zabijte 1 nepřátele pomocí vaší Primární Zbraně",
       "standing": 500
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
-      "title": "Primary Target",
-      "description": "Kill 4 enemies with your Primary Weapon",
+      "title": "Hlavní Cíl",
+      "description": "Zabijte 4 nepřátele pomocí vaší Primarní Zbraně",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
-      "title": "Focused Primary Target",
-      "description": "Kill 3 enemies with your Primary Weapon in a match",
+      "title": "Zaměřený Primární Cíl",
+      "description": "Zabijte 3 nepřátele pomocí vaší Primární Zbraně v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
-      "title": "Secondary Target",
-      "description": "Kill 1 enemy with your Secondary Weapon",
+      "title": "Sekundární Cíl",
+      "description": "Zabijte 1 nepřátele pomocí vaší Sekundární Zbraně",
       "standing": 500
     },
     "PVPTimedChallengeKillsSecondaryMEDIUM": {
-      "title": "Secondary Target",
-      "description": "Kill 4 enemies with your Secondary Weapon",
+      "title": "Sekundární Cíl",
+      "description": "Zabijte 4 nepřátele pomocí vaší Sekundární Zbraně",
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
-      "title": "Focused Secondary Target",
-      "description": "Kill 3 enemies with your Secondary Weapon in a match",
+      "title": "Zaměřený Sekundární Cíl",
+      "description": "Zabijte 3 nepřátele pomocí vaší Sekundární Zbraně v zápase",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileSlidingEASY": {
