@@ -1,0 +1,400 @@
+{
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "Jakýkoliv Mód"
+    },
+    "PVPMODE_DEATHMATCH": {
+      "value": "Annihilation"
+    },
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "Týmové Annihilation"
+    },
+    "PVPMODE_NONE": {
+      "value": "Žádný"
+    },
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "Obsazení Cephalonu"
+    },
+    "PVPMODE_SPEEDBALL": {
+      "value": "Lunaro"
+    }
+  },
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "week",
+      "description": "Týdenní"
+    },
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "week_root",
+      "description": "Týdenní kategorie"
+    },
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "day",
+      "description": "Denní"
+    },
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "day_root",
+      "description": "Denní kategorie"
+    },
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "modified round",
+      "description": "Upravené kolo"
+    }
+  },
+  "challenges": {
+    "PVPTimedChallengeKillsPrimaryEASY": {
+      "title": "Hlavní Cíl",
+      "description": "Zabijte 1 nepřátele pomocí vaší Primární Zbraně",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsPrimaryMEDIUM": {
+      "title": "Hlavní Cíl",
+      "description": "Zabijte 4 nepřátele pomocí vaší Primarní Zbraně",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsPrimaryHARD": {
+      "title": "Zaměřený Primární Cíl",
+      "description": "Zabijte 3 nepřátele pomocí vaší Primární Zbraně v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsSecondaryEASY": {
+      "title": "Sekundární Cíl",
+      "description": "Zabijte 1 nepřátele pomocí vaší Sekundární Zbraně",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsSecondaryMEDIUM": {
+      "title": "Sekundární Cíl",
+      "description": "Zabijte 4 nepřátele pomocí vaší Sekundární Zbraně",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsSecondaryHARD": {
+      "title": "Zaměřený Sekundární Cíl",
+      "description": "Zabijte 3 nepřátele pomocí vaší Sekundární Zbraně v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsWhileSlidingEASY": {
+      "title": "Klouzací Úder",
+      "description": "Zabijte 1 nepřítele při klouzání po podlaze",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsWhileSlidingMEDIUM": {
+      "title": "Klouzací Úder",
+      "description": "Zabijte 4 nepřátele při klouzání po podlaze",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsWhileSlidingHARD": {
+      "title": "Zaměřený Klouzací Úder",
+      "description": "Zabijte 3 nepřátele při klouzání po podlaze v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsComboEASY": {
+      "title": "Šikovnost",
+      "description": "Zabijte 1 soupeře pomocí dvou z Melee, Zbraní a Schopností",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsComboMEDIUM": {
+      "title": "Šikovnost",
+      "description": "Zabijte 4 soupeře pomocí dvou z Melee, Zbraní a Schopností",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsComboHARD": {
+      "title": "Zaměřená Šikovnost",
+      "description": "Zabijte 3 soupeře pomocí dvou z Melee, Zbraní a Schopností v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsMultiEASY": {
+      "title": "Všestrannost",
+      "description": "Zabijte 1 soupeře pomocí Melee, Zbraní a Schopností",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsMultiMEDIUM": {
+      "title": "Všestrannost",
+      "description": "Zabijte 4 soupeře pomocí Melee, Zbraní a Schopností",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsMultiHARD": {
+      "title": "Zaměřená Všestrannost",
+      "description": "Zabijte 3 soupeře pomocí Melee, Zbraní a Schopností v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakEASY": {
+      "title": "Série Zabití",
+      "description": "Splňte 1 Sérii Zabití",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakMEDIUM": {
+      "title": "Série Zabití",
+      "description": "Splňte 3 Série Zabití",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakHARD": {
+      "title": "Zaměřené Série Zabití",
+      "description": "Splňte 2 Série Zabití v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakStoppedEASY": {
+      "title": "Série Zastavena",
+      "description": "Zabijte 1 nepřítele v Sérii Zabití",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
+      "title": "Série Zastavena",
+      "description": "Zabijte 3 nepřátele v Sérii Zabití",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakStoppedHARD": {
+      "title": "Zaměřená Série Zastavena",
+      "description": "Zabijte 2 nepřátele v Séríi Zabití v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsTargetInAirEASY": {
+      "title": "Protivzdušný Úder",
+      "description": "Zabijte 1 vzdušného nepřítele",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsTargetInAirMEDIUM": {
+      "title": "Protivzdušný Úder",
+      "description": "Zabijte 4 vzdušné nepřátele",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsTargetInAirHARD": {
+      "title": "Zaměřený Protivzdušný Úder",
+      "description": "Zabijte 3 vzdušné nepřátele v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsWhileInAirEASY": {
+      "title": "Vzdušný Úder",
+      "description": "Zabijte 1 nepřítele ve vzduchu",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsWhileInAirMEDIUM": {
+      "title": "Vzdušný Úder",
+      "description": "Zabijte 4 nepřátele ve vzduchu",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsWhileInAirHARD": {
+      "title": "Zaměřený Vzdušný Úder",
+      "description": "Zabijte 3 nepřátele ve vzuchu v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsMeleeEASY": {
+      "title": "Gladiátor",
+      "description": "Získejte 1 zabití zblízka",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsMeleeMEDIUM": {
+      "title": "Gladiátor",
+      "description": "Získejte 4 zabití zblízka",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsMeleeHARD": {
+      "title": "Zaměřený Gladiator",
+      "description": "Získejte 3 zabití zblízka v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsPowerEASY": {
+      "title": "Void-Malíř",
+      "description": "Získejte 1 zabití nepřátele pomocí schopností",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsPowerMEDIUM": {
+      "title": "Void-Malíř",
+      "description": "Získejte 4 zabití nepřátelů pomocí schopností",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsPowerHARD": {
+      "title": "Zaměřeno Void-Malíř",
+      "description": "Zabijte 3 nepřátele pomocí schopností v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsHeadShotsEASY": {
+      "title": "Střelec",
+      "description": "Získejte 1 zabití pomocí střely do hlavy",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsHeadShotsMEDIUM": {
+      "title": "Střelec",
+      "description": "Získejte 4 zabití pomocí střely do hlavy",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsHeadShotsHARD": {
+      "title": "Zaměřený Střelec",
+      "description": "Získejte 3 zabití pomocí střely do hlavy v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakDominationEASY": {
+      "title": "Převaha",
+      "description": "Zabijte 1 nepřítele, aniž by vás zabil",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakDominationMEDIUM": {
+      "title": "Převaha",
+      "description": "Zabijte 4 nepřátele, aniž by vás zabili",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakDominationHARD": {
+      "title": "Zaměřená Převaha",
+      "description": "Zabijte 3 nepřátele, aniž by vás zabili v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsPaybackEASY": {
+      "title": "Revenge",
+      "description": "Zabijte 1 nepřítele, který vás zabil",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsPaybackMEDIUM": {
+      "title": "Revenge",
+      "description": "Zabijte 4 nepřátele, kteří vás zabili",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsPaybackHARD": {
+      "title": "Zaměřená Pomsta",
+      "description": "Zabijte 3 nepřátele, kteří vás zabili v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeFlagReturnEASY": {
+      "title": "Osvoboditel",
+      "description": "Vraťte Cephalon vašeho týmu 1 krát",
+      "standing": 500
+    },
+    "PVPTimedChallengeFlagReturnMEDIUM": {
+      "title": "Osvoboditel",
+      "description": "Vraťte Cephalon vašeho týmu 4 krát",
+      "standing": 1500
+    },
+    "PVPTimedChallengeFlagCaptureEASY": {
+      "title": "Bandita",
+      "description": "Obsaďte 1 Cephalon",
+      "standing": 500
+    },
+    "PVPTimedChallengeFlagCaptureMEDIUM": {
+      "title": "Bandita",
+      "description": "Obsaďte 4 Cephalony",
+      "standing": 1500
+    },
+    "PVPTimedChallengeSpeedballCatchesEASY": {
+      "title": "Hlavy Vzhůru!",
+      "description": "Chyťte 3 přihrávky od spoluhráčů",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballCatchesMEDIUM": {
+      "title": "Hlavy Vzhůru!",
+      "description": "Chyťte 10 nahrávek od spoluhráčů",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballCatchesHARD": {
+      "title": "Zaměřeno Hlavu Vzhůru!",
+      "description": "Chyťte 6 přihrávek od spoluhráčů v zápase",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballInterceptionsEASY": {
+      "title": "Zachycení!",
+      "description": "Zachyťte 3 přihrávky od soupeřů",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
+      "title": "Zachycení!",
+      "description": "Zachyťte 6 přihrávek od soupeřů",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballInterceptionsHARD": {
+      "title": "Zaměřené Zachycení!",
+      "description": "Zachyťe 3 přihrávky soupeřů v zápase",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballStealsEASY": {
+      "title": "Chyťte a Sejměte",
+      "description": "Ukradněte míč 3 krát",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballStealsMEDIUM": {
+      "title": "Chyťte a Sejměte",
+      "description": "Ukradněte míč 6 krát",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballStealsHARD": {
+      "title": "Zaměřené Chytnutí a Sejmutí",
+      "description": "Ukradněte míč 3 krát v zápase",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballChecksEASY": {
+      "title": "Blokáda",
+      "description": "Udeřte do 3 soupeřů nesoucí míč 3 krát",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballChecksMEDIUM": {
+      "title": "Blokáda",
+      "description": "Udeřte do 10 soupeřů nesoucí míč 3 krát",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballChecksHARD": {
+      "title": "Zaměřená Blokáda",
+      "description": "Udeřte do 6 soupeřů nesoucí míč 3 krát",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballPassesEASY": {
+      "title": "Odešlete to!",
+      "description": "Dokončete 3 Úspěšné přihrávky svým spoluhráčům",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballPassesMEDIUM": {
+      "title": "Odešlete to!",
+      "description": "Dokončete 6 Úspěšné přihrávky svým spoluhráčům",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballPassesHARD": {
+      "title": "Zaměření na Odeslání!",
+      "description": "Dokončete 3 Úspěšné přihrávky svým spoluhráčům v zápase",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballGoalsEASY": {
+      "title": "Gól!",
+      "description": "Získejte 2 góly",
+      "standing": 1000
+    },
+    "PVPTimedChallengeMatchCompleteEASY": {
+      "title": "Vidět to Skrz",
+      "description": "Dokončete 1 zápas",
+      "standing": 500
+    },
+    "PVPTimedChallengeMatchCompleteMEDIUM": {
+      "title": "Vidět to Skrz",
+      "description": "Donočete 4 zápasy",
+      "standing": 1500
+    },
+    "PVPTimedChallengeWeeklyStandardSet": {
+      "title": "Týdenní Mise",
+      "description": "Týdenní Mise",
+      "standing": 50000
+    },
+    "PVPTimedChallengeGameModeWins": {
+      "title": "Zápas Vyhrán",
+      "description": "Vyhrajte 6 zápasů libovolného typu",
+      "standing": 0
+    },
+    "PVPTimedChallengeGameModeComplete": {
+      "title": "Zápas Dokončen",
+      "description": "Splňte 20 zápasů libovolného typu",
+      "standing": 0
+    },
+    "PVPTimedChallengeOtherChallengeCompleteANY": {
+      "title": "Podmínky",
+      "description": "Splňte 10 Denních výzev",
+      "standing": 0
+    }
+  },
+  "affectors": {
+    "PVPTimedAffectorSuperEnergy": {
+      "title": "Přepětí Energie",
+      "description": "Přepětí Energie - Obovte enegii co nejrychlejším tempem"
+    },
+    "PVPTimedAffectorSuperMeleeDamage": {
+      "title": "Extra Poškození Zblízka",
+      "description": "Extra Poškození Zblízka - Poškození na blízko je zvětšeno"
+    },
+    "PVPTimedAffectorSuperEverything": {
+      "title": "Extra Poškození",
+      "description": "Extra Poškození - Veškeré poškození je zvětšeno"
+    }
+  }
+}
