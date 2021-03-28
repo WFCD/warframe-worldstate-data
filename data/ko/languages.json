@@ -969,6 +969,9 @@
   "/lotus/objects/tenno/props/titaniacodexentrycdeco": {
     "value": "Titania Codex Entry C Deco"
   },
+  "/lotus/powersuits/alchemist/alchemist": {
+    "value": "Lavos"
+  },
   "/lotus/powersuits/antimatter/anti": {
     "value": "노바"
   },
@@ -3941,6 +3944,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/frostbobblehead": {
     "value": "노글 스태츄 - 프로스트"
+  },
+  "/lotus/storeitems/types/items/shipdecos/garvlatroxposter": {
+    "value": "Garv & Latrox Poster"
   },
   "/lotus/storeitems/types/items/shipdecos/grineerexcavationbossbobblehead": {
     "value": "노글 스태츄 - 보릴"
@@ -13539,6 +13545,9 @@
   "/lotus/types/game/catbrowpet/mirrorcatbrowpetpowersuit": {
     "value": "Adarza"
   },
+  "/lotus/types/game/crewship/ships/railjack": {
+    "value": "Railjack"
+  },
   "/lotus/types/game/decorations/miningmachineobjective": {
     "value": "Mining Machine Objective"
   },
@@ -14481,6 +14490,9 @@
   "/lotus/types/sentinels/sentinelpowersuits/dethcubepowersuit": {
     "value": "Deth Cube"
   },
+  "/lotus/types/sentinels/sentinelpowersuits/empyreansentinelpowersuit": {
+    "value": "Nautilus"
+  },
   "/lotus/types/sentinels/sentinelpowersuits/gubberpowersuit": {
     "value": "진"
   },
@@ -15360,6 +15372,9 @@
   "/lotus/types/storeitems/packages/acolytenogglebundle": {
     "value": "어콜라이트 노글 팩"
   },
+  "/lotus/types/storeitems/packages/alchemistframeitemsbundle": {
+    "value": "Lavos Collection"
+  },
   "/lotus/types/storeitems/packages/alternatearrowskinsbundle": {
     "value": "어드벤투스 애로우 컬렉션"
   },
@@ -15398,6 +15413,9 @@
   },
   "/lotus/types/storeitems/packages/brassandgoldbundle": {
     "value": "오르몰루 스킨 번들"
+  },
+  "/lotus/types/storeitems/packages/brokenframeitemsbundle": {
+    "value": "Xaku Collection"
   },
   "/lotus/types/storeitems/packages/candycanescythepack": {
     "value": "스피어민트 사이드"
@@ -15450,8 +15468,20 @@
   "/lotus/types/storeitems/packages/crpindextwoitempack": {
     "value": "콰로 컬렉션"
   },
+  "/lotus/types/storeitems/packages/deimositemsbundle": {
+    "value": "Deimos Infested Bundle"
+  },
+  "/lotus/types/storeitems/packages/deimossupporterpack3storeitem": {
+    "value": "Deimos Swarm Supporter Pack"
+  },
   "/lotus/types/storeitems/packages/defenseeventpack": {
     "value": "데스큐브가 쏘는 주말 이벤트"
+  },
+  "/lotus/types/storeitems/packages/deluxebundles/zephyrdeluxeskinbundle": {
+    "value": "Zephyr Harrier Collection"
+  },
+  "/lotus/types/storeitems/packages/deluxebundles/zephyrdlxoperatorbundle": {
+    "value": "Operator Harrier Collection"
   },
   "/lotus/types/storeitems/packages/demolitionarchwingbundle": {
     "value": "엘리트론 울티메이텀 번들"
@@ -15461,6 +15491,9 @@
   },
   "/lotus/types/storeitems/packages/djinndeluxecompletebundle": {
     "value": "가잘 컴플리트 컬렉션"
+  },
+  "/lotus/types/storeitems/packages/discordprimeaccesstier3storeitem": {
+    "value": "Discord Prime Access Complete Bundle"
   },
   "/lotus/types/storeitems/packages/domestikdronesbundle": {
     "value": "Domestik Drones Bundle"
@@ -15474,8 +15507,17 @@
   "/lotus/types/storeitems/packages/electricpack": {
     "value": "볼트 밸류 패키지"
   },
+  "/lotus/types/storeitems/packages/empyreansentaccessorybundle": {
+    "value": "Nautilus Sentinel Cosmetic Bundle"
+  },
+  "/lotus/types/storeitems/packages/empyreansentinelbundle": {
+    "value": "Nautilus Sentinel Bundle"
+  },
   "/lotus/types/storeitems/packages/equinoxdeluxeskinbundle": {
     "value": "Equinox Antonym Collection"
+  },
+  "/lotus/types/storeitems/packages/essentialdamagemodpack": {
+    "value": "Essential Base Damage Mod Pack"
   },
   "/lotus/types/storeitems/packages/excaliburdeluxeskinbundle": {
     "value": "Excalibur Zato Collection"
@@ -15515,6 +15557,9 @@
   },
   "/lotus/types/storeitems/packages/frostpack": {
     "value": "스테이 프로스티 팩"
+  },
+  "/lotus/types/storeitems/packages/garadeluxeskinbundle": {
+    "value": "가라 컬렉션"
   },
   "/lotus/types/storeitems/packages/garudabundle": {
     "value": "Garuda Collection"
@@ -15756,6 +15801,9 @@
   "/lotus/types/storeitems/packages/nemesisnyxbundle": {
     "value": "네메시스 컴플리트 번들"
   },
+  "/lotus/types/storeitems/packages/newplayerxpcosmeticsbundle": {
+    "value": "Oscira Collection"
+  },
   "/lotus/types/storeitems/packages/nezhadeluxeskinbundle": {
     "value": "Nezha Empyrean Collection"
   },
@@ -15864,6 +15912,9 @@
   "/lotus/types/storeitems/packages/priestbundle": {
     "value": "해로우 컬렉션"
   },
+  "/lotus/types/storeitems/packages/primeaccess1tier3storeitem": {
+    "value": "Prime Access Complete Bundle"
+  },
   "/lotus/types/storeitems/packages/primeaccess2storeitem": {
     "value": "새린 프라임 액세스 팩"
   },
@@ -15875,6 +15926,9 @@
   },
   "/lotus/types/storeitems/packages/primeaccessstoreitem": {
     "value": "프라임 액세스 팩"
+  },
+  "/lotus/types/storeitems/packages/primevaulta": {
+    "value": "Prime Vault Pack"
   },
   "/lotus/types/storeitems/packages/primevaultc": {
     "value": "Prime Unvaulted: Fire & Ice Packs"
@@ -15890,6 +15944,9 @@
   },
   "/lotus/types/storeitems/packages/railjackarmourpistolbundle": {
     "value": "Empyrean Grand Bundle"
+  },
+  "/lotus/types/storeitems/packages/railjackbundle": {
+    "value": "Railjack Captain's Bundle"
   },
   "/lotus/types/storeitems/packages/revenantbundle": {
     "value": "Revenant Collection"
@@ -16151,6 +16208,9 @@
   },
   "/lotus/upgrades/mods/fusionbundles/alertfusionbundlesmall": {
     "value": "80 엔도"
+  },
+  "/lotus/upgrades/mods/fusionbundles/markettier3fusionbundle": {
+    "value": "1000 Endo"
   },
   "/lotus/upgrades/mods/pvpmods/warframe/morehealthlessbulletjumpmod": {
     "value": "More Health Less Bullet Jump Mod"
@@ -16560,6 +16620,9 @@
   "/lotus/upgrades/skins/monkeyking/wukongdeluxeskin": {
     "value": "Wukong Samadhi Skin"
   },
+  "/lotus/upgrades/skins/necramech/necramechcskin": {
+    "value": "Bruntspar Necramech Skin"
+  },
   "/lotus/upgrades/skins/necro/nekrosalternateskin": {
     "value": "네크로스 이모탈 스킨"
   },
@@ -16757,6 +16820,9 @@
   },
   "/lotus/upgrades/skins/sigils/syndicatesigilsteelmeridiank": {
     "value": "Syndicate Sigil Steel Meridian K"
+  },
+  "/lotus/upgrades/skins/tengu/zephyrdeluxeskin": {
+    "value": "Zephyr Harrier Skin"
   },
   "/lotus/upgrades/skins/trapper/vaubanalternateskin": {
     "value": "바우반 이모탈 스킨"
