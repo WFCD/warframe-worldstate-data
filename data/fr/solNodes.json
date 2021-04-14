@@ -1904,13 +1904,83 @@
     "enemy": "Infesté",
     "type": "Assassinat"
   },
+  "CrewBattleNode503": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode504": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escarmouche"
+  },
   "CrewBattleNode505": {
-    "value": "Champ de Guerre Ruse (Proxima du Voile)",
+    "value": "Ruse War Field (Veil)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
+  "CrewBattleNode509": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escarmouche"
+  },
   "CrewBattleNode510": {
-    "value": "Point Gian (Proxima du Voile)",
+    "value": "Gian Point (Veil)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode511": {
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode512": {
+    "value": "Orvin Haarc (Venus)",
+    "enemy": "Corpus",
+    "type": "Extermination"
+  },
+  "CrewBattleNode516": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode518": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode521": {
+    "value": "Enkidu Ice Drifts (Neptune)",
+    "enemy": "Grineer",
+    "type": "Volatile"
+  },
+  "CrewBattleNode522": {
+    "value": "Beacon Shield Ring (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode524": {
+    "value": "Sovereign Grasp (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode527": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode529": {
+    "value": "Profit Margin (Pluto)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode530": {
+    "value": "Kaiso's Rest (Pluto)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode535": {
+    "value": "Vand Cluster (Saturn)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
