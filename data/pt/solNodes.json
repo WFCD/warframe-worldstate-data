@@ -1302,7 +1302,7 @@
   "SolNode902": {
     "value": "Montes (Vênus)",
     "enemy": "Corpus",
-    "type": "Extermínio (Archwing)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode903": {
     "value": "Erpo (Terra)",
@@ -1312,7 +1312,7 @@
   "SolNode904": {
     "value": "Syrtis (Marte)",
     "enemy": "Grineer",
-    "type": "Extermínio (Archwing)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode905": {
     "value": "Galilea (Júpiter)",
@@ -1904,13 +1904,83 @@
     "enemy": "Infestado",
     "type": "Assassinato"
   },
+  "CrewBattleNode503": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode504": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Skirmish"
+  },
   "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil Proxima)",
+    "value": "Ruse War Field (Veil)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
+  "CrewBattleNode509": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Skirmish"
+  },
   "CrewBattleNode510": {
-    "value": "Gian Point (Veil Proxima)",
+    "value": "Gian Point (Veil)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode511": {
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode512": {
+    "value": "Orvin Haarc (Venus)",
+    "enemy": "Corpus",
+    "type": "Extermínio"
+  },
+  "CrewBattleNode516": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode518": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode521": {
+    "value": "Enkidu Ice Drifts (Neptune)",
+    "enemy": "Grineer",
+    "type": "Volatile"
+  },
+  "CrewBattleNode522": {
+    "value": "Beacon Shield Ring (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode524": {
+    "value": "Sovereign Grasp (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode527": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode529": {
+    "value": "Profit Margin (Pluto)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode530": {
+    "value": "Kaiso's Rest (Pluto)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode535": {
+    "value": "Vand Cluster (Saturn)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
