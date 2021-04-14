@@ -1302,7 +1302,7 @@
   "SolNode902": {
     "value": "Montes (금성)",
     "enemy": "코퍼스",
-    "type": "섬멸 (아크윙)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode903": {
     "value": "Erpo (지구)",
@@ -1312,7 +1312,7 @@
   "SolNode904": {
     "value": "Syrtis (화성)",
     "enemy": "그리니어",
-    "type": "섬멸 (아크윙)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode905": {
     "value": "Galilea (목성)",
@@ -1904,13 +1904,83 @@
     "enemy": "인페스티드",
     "type": "암살"
   },
+  "CrewBattleNode503": {
+    "value": "???",
+    "enemy": "코퍼스",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode504": {
+    "value": "???",
+    "enemy": "코퍼스",
+    "type": "Skirmish"
+  },
   "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil Proxima)",
+    "value": "Ruse War Field (Veil)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
+  "CrewBattleNode509": {
+    "value": "???",
+    "enemy": "코퍼스",
+    "type": "Skirmish"
+  },
   "CrewBattleNode510": {
-    "value": "Gian Point (Veil Proxima)",
+    "value": "Gian Point (Veil)",
+    "enemy": "그리니어",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode511": {
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "그리니어",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode512": {
+    "value": "Orvin Haarc (Venus)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
+  "CrewBattleNode516": {
+    "value": "???",
+    "enemy": "코퍼스",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode518": {
+    "value": "???",
+    "enemy": "코퍼스",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode521": {
+    "value": "Enkidu Ice Drifts (Neptune)",
+    "enemy": "그리니어",
+    "type": "Volatile"
+  },
+  "CrewBattleNode522": {
+    "value": "Beacon Shield Ring (Venus)",
+    "enemy": "코퍼스",
+    "type": "Volatile"
+  },
+  "CrewBattleNode524": {
+    "value": "Sovereign Grasp (Venus)",
+    "enemy": "코퍼스",
+    "type": "Volatile"
+  },
+  "CrewBattleNode527": {
+    "value": "???",
+    "enemy": "코퍼스",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode529": {
+    "value": "Profit Margin (Pluto)",
+    "enemy": "코퍼스",
+    "type": "Volatile"
+  },
+  "CrewBattleNode530": {
+    "value": "Kaiso's Rest (Pluto)",
+    "enemy": "그리니어",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode535": {
+    "value": "Vand Cluster (Saturn)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
