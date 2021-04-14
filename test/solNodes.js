@@ -41,8 +41,7 @@ const solNodesSchema = {
         'Defense',
         'Disruption',
         'Excavation',
-        'Exterminate',
-        'Exterminate (Archwing)',
+        'Extermination (Archwing)',
         'Extermination',
         'Free Roam',
         'Hijack',
@@ -62,6 +61,7 @@ const solNodesSchema = {
         'Skirmish',
         'Spy',
         'Survival',
+        'Volatile',
       ],
     },
     solNode: {
