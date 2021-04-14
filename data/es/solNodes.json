@@ -1302,7 +1302,7 @@
   "SolNode902": {
     "value": "Montes (Venus)",
     "enemy": "Corpus",
-    "type": "Exterminio (Archwing)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode903": {
     "value": "Erpo (Tierra)",
@@ -1312,7 +1312,7 @@
   "SolNode904": {
     "value": "Syrtis (Marte)",
     "enemy": "Grineer",
-    "type": "Exterminio (Archwing)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode905": {
     "value": "Galilea (Júpiter)",
@@ -1904,13 +1904,83 @@
     "enemy": "Infestados",
     "type": "Asesinato"
   },
+  "CrewBattleNode503": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escaramuza"
+  },
+  "CrewBattleNode504": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escaramuza"
+  },
   "CrewBattleNode505": {
-    "value": "Campo de guerra Ruse (Próxima Velo)",
+    "value": "Ruse War Field (Veil)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
+  "CrewBattleNode509": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escaramuza"
+  },
   "CrewBattleNode510": {
-    "value": "Punto Gian (Próxima Velo)",
+    "value": "Gian Point (Veil)",
+    "enemy": "Grineer",
+    "type": "Escaramuza"
+  },
+  "CrewBattleNode511": {
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Escaramuza"
+  },
+  "CrewBattleNode512": {
+    "value": "Orvin Haarc (Venus)",
+    "enemy": "Corpus",
+    "type": "Exterminio"
+  },
+  "CrewBattleNode516": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escaramuza"
+  },
+  "CrewBattleNode518": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escaramuza"
+  },
+  "CrewBattleNode521": {
+    "value": "Enkidu Ice Drifts (Neptune)",
+    "enemy": "Grineer",
+    "type": "Volatile"
+  },
+  "CrewBattleNode522": {
+    "value": "Beacon Shield Ring (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode524": {
+    "value": "Sovereign Grasp (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode527": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escaramuza"
+  },
+  "CrewBattleNode529": {
+    "value": "Profit Margin (Pluto)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode530": {
+    "value": "Kaiso's Rest (Pluto)",
+    "enemy": "Grineer",
+    "type": "Escaramuza"
+  },
+  "CrewBattleNode535": {
+    "value": "Vand Cluster (Saturn)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
