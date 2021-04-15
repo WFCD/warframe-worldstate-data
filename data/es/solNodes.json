@@ -1905,8 +1905,8 @@
     "type": "Asesinato"
   },
   "CrewBattleNode503": {
-    "value": "???",
-    "enemy": "Corpus",
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode504": {
@@ -1935,18 +1935,18 @@
     "type": "Escaramuza"
   },
   "CrewBattleNode512": {
-    "value": "Orvin Haarc (Venus)",
+    "value": "Orvin-Haarc (Venus)",
     "enemy": "Corpus",
     "type": "Exterminio"
   },
   "CrewBattleNode516": {
-    "value": "???",
-    "enemy": "Corpus",
+    "value": "Nu-gua Mines (Neptune)",
+    "enemy": "Exterminio",
     "type": "Escaramuza"
   },
   "CrewBattleNode518": {
-    "value": "???",
-    "enemy": "Corpus",
+    "value": "Ogal Cluster (Earth)",
+    "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode521": {
@@ -1955,9 +1955,9 @@
     "type": "Volatile"
   },
   "CrewBattleNode522": {
-    "value": "Beacon Shield Ring (Venus)",
+    "value": "Bifrost Echo (Venus)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "Exterminio"
   },
   "CrewBattleNode524": {
     "value": "Sovereign Grasp (Venus)",
@@ -1965,9 +1965,9 @@
     "type": "Volatile"
   },
   "CrewBattleNode527": {
-    "value": "???",
+    "value": "Seven Sirens (Venus)",
     "enemy": "Corpus",
-    "type": "Escaramuza"
+    "type": "Exterminio"
   },
   "CrewBattleNode529": {
     "value": "Profit Margin (Pluto)",
@@ -1983,6 +1983,16 @@
     "value": "Vand Cluster (Saturn)",
     "enemy": "Grineer",
     "type": "Escaramuza"
+  },
+  "CrewBattleNode538": {
+    "value": "Calabash (Veil)",
+    "enemy": "Exterminio",
+    "type": "Volatile"
+  },
+  "CrewBattleNode539": {
+    "value": "Numina (Veil)",
+    "enemy": "Corpus",
+    "type": "Volatile"
   },
   "CrewBattleNode550": {
     "value": "Red Nsu (Próxima Velo)",
