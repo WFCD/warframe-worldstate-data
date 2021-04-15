@@ -1904,15 +1904,95 @@
     "enemy": "Infesté",
     "type": "Assassinat"
   },
-  "CrewBattleNode505": {
-    "value": "Champ de Guerre Ruse (Proxima du Voile)",
+  "CrewBattleNode503": {
+    "value": "Bendar Cluster (Earth)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
-  "CrewBattleNode510": {
-    "value": "Point Gian (Proxima du Voile)",
+  "CrewBattleNode504": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode505": {
+    "value": "Ruse War Field (Veil)",
     "enemy": "Grineer",
     "type": "Escarmouche"
+  },
+  "CrewBattleNode509": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode510": {
+    "value": "Gian Point (Veil)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode511": {
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode512": {
+    "value": "Orvin-Haarc (Venus)",
+    "enemy": "Corpus",
+    "type": "Extermination"
+  },
+  "CrewBattleNode516": {
+    "value": "Nu-gua Mines (Neptune)",
+    "enemy": "Extermination",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode518": {
+    "value": "Ogal Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode521": {
+    "value": "Enkidu Ice Drifts (Neptune)",
+    "enemy": "Grineer",
+    "type": "Volatile"
+  },
+  "CrewBattleNode522": {
+    "value": "Bifrost Echo (Venus)",
+    "enemy": "Corpus",
+    "type": "Extermination"
+  },
+  "CrewBattleNode524": {
+    "value": "Sovereign Grasp (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode527": {
+    "value": "Seven Sirens (Venus)",
+    "enemy": "Corpus",
+    "type": "Extermination"
+  },
+  "CrewBattleNode529": {
+    "value": "Profit Margin (Pluto)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode530": {
+    "value": "Kaiso's Rest (Pluto)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode535": {
+    "value": "Vand Cluster (Saturn)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode538": {
+    "value": "Calabash (Veil)",
+    "enemy": "Extermination",
+    "type": "Volatile"
+  },
+  "CrewBattleNode539": {
+    "value": "Numina (Veil)",
+    "enemy": "Corpus",
+    "type": "Volatile"
   },
   "CrewBattleNode550": {
     "value": "Réseau Nsu (Proxima du Voile)",

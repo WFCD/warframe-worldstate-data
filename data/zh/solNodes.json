@@ -1302,7 +1302,7 @@
   "SolNode902": {
     "value": "Montes (金星)",
     "enemy": "Corpus",
-    "type": "殲滅 (Archwing)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode903": {
     "value": "Erpo (地球)",
@@ -1312,7 +1312,7 @@
   "SolNode904": {
     "value": "Syrtis (火星)",
     "enemy": "Grineer",
-    "type": "殲滅 (Archwing)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode905": {
     "value": "Galilea (木星)",
@@ -1904,15 +1904,95 @@
     "enemy": "Infested",
     "type": "刺殺"
   },
-  "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil Proxima)",
+  "CrewBattleNode503": {
+    "value": "Bendar Cluster (Earth)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
-  "CrewBattleNode510": {
-    "value": "Gian Point (Veil Proxima)",
+  "CrewBattleNode504": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode505": {
+    "value": "Ruse War Field (Veil)",
     "enemy": "Grineer",
     "type": "Skirmish"
+  },
+  "CrewBattleNode509": {
+    "value": "???",
+    "enemy": "Corpus",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode510": {
+    "value": "Gian Point (Veil)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode511": {
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode512": {
+    "value": "Orvin-Haarc (Venus)",
+    "enemy": "Corpus",
+    "type": "殲滅"
+  },
+  "CrewBattleNode516": {
+    "value": "Nu-gua Mines (Neptune)",
+    "enemy": "殲滅",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode518": {
+    "value": "Ogal Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode521": {
+    "value": "Enkidu Ice Drifts (Neptune)",
+    "enemy": "Grineer",
+    "type": "Volatile"
+  },
+  "CrewBattleNode522": {
+    "value": "Bifrost Echo (Venus)",
+    "enemy": "Corpus",
+    "type": "歼灭"
+  },
+  "CrewBattleNode524": {
+    "value": "Sovereign Grasp (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode527": {
+    "value": "Seven Sirens (Venus)",
+    "enemy": "Corpus",
+    "type": "歼灭"
+  },
+  "CrewBattleNode529": {
+    "value": "Profit Margin (Pluto)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
+  "CrewBattleNode530": {
+    "value": "Kaiso's Rest (Pluto)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode535": {
+    "value": "Vand Cluster (Saturn)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode538": {
+    "value": "Calabash (Veil)",
+    "enemy": "殲滅",
+    "type": "Volatile"
+  },
+  "CrewBattleNode539": {
+    "value": "Numina (Veil)",
+    "enemy": "Corpus",
+    "type": "Volatile"
   },
   "CrewBattleNode550": {
     "value": "Nsu Grid (Veil Proxima)",

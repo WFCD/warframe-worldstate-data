@@ -1302,7 +1302,7 @@
   "SolNode902": {
     "value": "Montes (Венера)",
     "enemy": "Корпус",
-    "type": "Зачистка (Арчвинг)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode903": {
     "value": "Erpo (Земля)",
@@ -1312,7 +1312,7 @@
   "SolNode904": {
     "value": "Syrtis (Марс)",
     "enemy": "Гринир",
-    "type": "Зачистка (Арчвинг)"
+    "type": "Extermination (Archwing)"
   },
   "SolNode905": {
     "value": "Galilea (Юпитер)",
@@ -1904,15 +1904,95 @@
     "enemy": "Заражённые",
     "type": "Убийство"
   },
-  "CrewBattleNode505": {
-    "value": "Поле Битвы Рус (Проксима Вуали)",
+  "CrewBattleNode503": {
+    "value": "Bendar Cluster (Earth)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
-  "CrewBattleNode510": {
-    "value": "Точка Джан (Проксима Вуали)",
+  "CrewBattleNode504": {
+    "value": "???",
+    "enemy": "Корпус",
+    "type": "Стычка"
+  },
+  "CrewBattleNode505": {
+    "value": "Ruse War Field (Veil)",
     "enemy": "Гринир",
     "type": "Стычка"
+  },
+  "CrewBattleNode509": {
+    "value": "???",
+    "enemy": "Корпус",
+    "type": "Стычка"
+  },
+  "CrewBattleNode510": {
+    "value": "Gian Point (Veil)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
+  "CrewBattleNode511": {
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
+  "CrewBattleNode512": {
+    "value": "Orvin-Haarc (Venus)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "CrewBattleNode516": {
+    "value": "Nu-gua Mines (Neptune)",
+    "enemy": "Зачистка",
+    "type": "Стычка"
+  },
+  "CrewBattleNode518": {
+    "value": "Ogal Cluster (Earth)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
+  "CrewBattleNode521": {
+    "value": "Enkidu Ice Drifts (Neptune)",
+    "enemy": "Гринир",
+    "type": "Volatile"
+  },
+  "CrewBattleNode522": {
+    "value": "Bifrost Echo (Venus)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "CrewBattleNode524": {
+    "value": "Sovereign Grasp (Venus)",
+    "enemy": "Корпус",
+    "type": "Volatile"
+  },
+  "CrewBattleNode527": {
+    "value": "Seven Sirens (Venus)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
+  "CrewBattleNode529": {
+    "value": "Profit Margin (Pluto)",
+    "enemy": "Корпус",
+    "type": "Volatile"
+  },
+  "CrewBattleNode530": {
+    "value": "Kaiso's Rest (Pluto)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
+  "CrewBattleNode535": {
+    "value": "Vand Cluster (Saturn)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
+  "CrewBattleNode538": {
+    "value": "Calabash (Veil)",
+    "enemy": "Зачистка",
+    "type": "Volatile"
+  },
+  "CrewBattleNode539": {
+    "value": "Numina (Veil)",
+    "enemy": "Корпус",
+    "type": "Volatile"
   },
   "CrewBattleNode550": {
     "value": "Нсу Локус (Проксима Вуали)",
