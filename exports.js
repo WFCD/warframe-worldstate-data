@@ -2,7 +2,7 @@
 
 const safeRequire = require('./safeRequire');
 
-const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs'];
+const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr'];
 
 /**
  * Synthesis target information
