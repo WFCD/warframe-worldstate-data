@@ -1904,6 +1904,11 @@
     "enemy": "Заражённые",
     "type": "Убийство"
   },
+  "CrewBattleNode501": {
+    "value": "Mordo Cluster (Saturn)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
   "CrewBattleNode503": {
     "value": "Bendar Cluster (Earth)",
     "enemy": "Гринир",
@@ -1920,8 +1925,8 @@
     "type": "Стычка"
   },
   "CrewBattleNode509": {
-    "value": "???",
-    "enemy": "Корпус",
+    "value": "Iota Temple (Earth)",
+    "enemy": "Гринир",
     "type": "Стычка"
   },
   "CrewBattleNode510": {
@@ -1976,6 +1981,11 @@
   },
   "CrewBattleNode530": {
     "value": "Kaiso's Rest (Pluto)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
+  "CrewBattleNode534": {
+    "value": "Lupal Pass (Saturn)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
