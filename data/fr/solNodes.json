@@ -1904,6 +1904,11 @@
     "enemy": "Infesté",
     "type": "Assassinat"
   },
+  "CrewBattleNode501": {
+    "value": "Mordo Cluster (Saturn)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
   "CrewBattleNode503": {
     "value": "Bendar Cluster (Earth)",
     "enemy": "Grineer",
@@ -1920,8 +1925,8 @@
     "type": "Escarmouche"
   },
   "CrewBattleNode509": {
-    "value": "???",
-    "enemy": "Corpus",
+    "value": "Iota Temple (Earth)",
+    "enemy": "Grineer",
     "type": "Escarmouche"
   },
   "CrewBattleNode510": {
@@ -1976,6 +1981,11 @@
   },
   "CrewBattleNode530": {
     "value": "Kaiso's Rest (Pluto)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode534": {
+    "value": "Lupal Pass (Saturn)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
