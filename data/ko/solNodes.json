@@ -1904,6 +1904,11 @@
     "enemy": "인페스티드",
     "type": "암살"
   },
+  "CrewBattleNode501": {
+    "value": "Mordo Cluster (Saturn)",
+    "enemy": "그리니어",
+    "type": "Skirmish"
+  },
   "CrewBattleNode503": {
     "value": "Bendar Cluster (Earth)",
     "enemy": "그리니어",
@@ -1920,8 +1925,8 @@
     "type": "Skirmish"
   },
   "CrewBattleNode509": {
-    "value": "???",
-    "enemy": "코퍼스",
+    "value": "Iota Temple (Earth)",
+    "enemy": "그리니어",
     "type": "Skirmish"
   },
   "CrewBattleNode510": {
@@ -1976,6 +1981,11 @@
   },
   "CrewBattleNode530": {
     "value": "Kaiso's Rest (Pluto)",
+    "enemy": "그리니어",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode534": {
+    "value": "Lupal Pass (Saturn)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
