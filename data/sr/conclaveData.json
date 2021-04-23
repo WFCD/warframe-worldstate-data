@@ -1,19 +1,19 @@
 {
   "modes": {
     "PVPMODE_ALL": {
-      "value": "Any Mode"
+      "value": "Bilo koji mod"
     },
     "PVPMODE_DEATHMATCH": {
-      "value": "Annihilation"
+      "value": "Uništenje"
     },
     "PVPMODE_TEAMDEATHMATCH": {
-      "value": "Team Annihilation"
+      "value": "Timsko uništenje"
     },
     "PVPMODE_NONE": {
-      "value": "None"
+      "value": "Nijedan"
     },
     "PVPMODE_CAPTURETHEFLAG": {
-      "value": "Capture the Cephalon"
+      "value": "Zarobi Cephalon-a"
     },
     "PVPMODE_SPEEDBALL": {
       "value": "Lunaro"
@@ -22,7 +22,7 @@
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
       "value": "week",
-      "description": "Weekly"
+      "description": "Nedeljno"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "week_root",
