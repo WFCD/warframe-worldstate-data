@@ -4035,6 +4035,9 @@
   "/lotus/storeitems/types/items/shipdecos/sarynbobblehead": {
     "value": "Estátua Noggle: Saryn"
   },
+  "/lotus/storeitems/types/items/shipdecos/tarotcardtennoconc": {
+    "value": "Deimos Veolicpod Prex"
+  },
   "/lotus/storeitems/types/items/shipdecos/trinitybobblehead": {
     "value": "Estátua Noggle: Trinity"
   },
@@ -9099,6 +9102,15 @@
   "/lotus/storeitems/upgrades/skins/armor/infestedfins/infestedfinslegrightarmor": {
     "value": "Iliac Ankle Plate"
   },
+  "/lotus/storeitems/upgrades/skins/armor/necraarmor/necraarmora": {
+    "value": "Mulciber Shoulder Plate"
+  },
+  "/lotus/storeitems/upgrades/skins/armor/necraarmor/necraarmorc": {
+    "value": "Mulciber Chest Plate"
+  },
+  "/lotus/storeitems/upgrades/skins/armor/necraarmor/necraarmorl": {
+    "value": "Mulciber Leg Plate"
+  },
   "/lotus/storeitems/upgrades/skins/armor/primesetone/primesetonearmleftarmor": {
     "value": "Targis Prime Arm Shoulder Plates"
   },
@@ -9695,6 +9707,9 @@
   },
   "/lotus/storeitems/upgrades/skins/dragon/chromaaltbhelmet": {
     "value": "Chroma Amaru Helmet"
+  },
+  "/lotus/storeitems/upgrades/skins/dragon/chromaalternateskin": {
+    "value": "Chroma Immortal Skin"
   },
   "/lotus/storeitems/upgrades/skins/dragon/chromanobleanims": {
     "value": "Chroma Noble Animation Set"
