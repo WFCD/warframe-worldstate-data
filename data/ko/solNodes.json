@@ -1910,7 +1910,7 @@
     "type": "Skirmish"
   },
   "CrewBattleNode503": {
-    "value": "Bendar Cluster (Earth)",
+    "value": "Korm's Belt (Earth)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
@@ -1954,15 +1954,20 @@
     "enemy": "그리니어",
     "type": "Skirmish"
   },
+  "CrewBattleNode519": {
+    "value": "Bifrost Echo (Venus)",
+    "enemy": "코퍼스",
+    "type": "섬멸"
+  },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
     "enemy": "그리니어",
     "type": "Volatile"
   },
   "CrewBattleNode522": {
-    "value": "Bifrost Echo (Venus)",
+    "value": "Beacon Shield Ring (Venus)",
     "enemy": "코퍼스",
-    "type": "섬멸"
+    "type": "Volatile"
   },
   "CrewBattleNode524": {
     "value": "Sovereign Grasp (Venus)",

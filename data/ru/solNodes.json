@@ -1910,7 +1910,7 @@
     "type": "Стычка"
   },
   "CrewBattleNode503": {
-    "value": "Bendar Cluster (Earth)",
+    "value": "Korm's Belt (Earth)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
@@ -1954,15 +1954,20 @@
     "enemy": "Гринир",
     "type": "Стычка"
   },
+  "CrewBattleNode519": {
+    "value": "Bifrost Echo (Venus)",
+    "enemy": "Корпус",
+    "type": "Зачистка"
+  },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
     "enemy": "Гринир",
     "type": "Volatile"
   },
   "CrewBattleNode522": {
-    "value": "Bifrost Echo (Venus)",
+    "value": "Beacon Shield Ring (Venus)",
     "enemy": "Корпус",
-    "type": "Зачистка"
+    "type": "Volatile"
   },
   "CrewBattleNode524": {
     "value": "Sovereign Grasp (Venus)",

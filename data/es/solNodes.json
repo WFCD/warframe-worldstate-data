@@ -1910,7 +1910,7 @@
     "type": "Escaramuza"
   },
   "CrewBattleNode503": {
-    "value": "Bendar Cluster (Earth)",
+    "value": "Korm's Belt (Earth)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
@@ -1954,15 +1954,20 @@
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
+  "CrewBattleNode519": {
+    "value": "Bifrost Echo (Venus)",
+    "enemy": "Corpus",
+    "type": "Exterminio"
+  },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
     "enemy": "Grineer",
     "type": "Volatile"
   },
   "CrewBattleNode522": {
-    "value": "Bifrost Echo (Venus)",
+    "value": "Beacon Shield Ring (Venus)",
     "enemy": "Corpus",
-    "type": "Exterminio"
+    "type": "Volatile"
   },
   "CrewBattleNode524": {
     "value": "Sovereign Grasp (Venus)",
