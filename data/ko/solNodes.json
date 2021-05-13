@@ -1909,15 +1909,20 @@
     "enemy": "그리니어",
     "type": "Skirmish"
   },
-  "CrewBattleNode503": {
-    "value": "Korm's Belt (Earth)",
+  "CrewBattleNode502": {
+    "value": "Sover Strait (Earth)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
-  "CrewBattleNode504": {
-    "value": "???",
+  "CrewBattleNode503": {
+    "value": "Bifrost Echo (Venus)",
     "enemy": "코퍼스",
-    "type": "Skirmish"
+    "type": "섬멸"
+  },
+  "CrewBattleNode504": {
+    "value": "Arva Vector (Neptune)",
+    "enemy": "코퍼스",
+    "type": "방어"
   },
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil)",
@@ -1935,14 +1940,24 @@
     "type": "Skirmish"
   },
   "CrewBattleNode511": {
-    "value": "Bendar Cluster (Earth)",
-    "enemy": "그리니어",
-    "type": "Skirmish"
+    "value": "Beacon Shield Ring (Venus)",
+    "enemy": "코퍼스",
+    "type": "Volatile"
   },
   "CrewBattleNode512": {
     "value": "Orvin-Haarc (Venus)",
     "enemy": "코퍼스",
     "type": "섬멸"
+  },
+  "CrewBattleNode513": {
+    "value": "Vesper Strait (Venus)",
+    "enemy": "코퍼스",
+    "type": "Orphix"
+  },
+  "CrewBattleNode514": {
+    "value": "Falling Glory (Venus)",
+    "enemy": "코퍼스",
+    "type": "방어"
   },
   "CrewBattleNode516": {
     "value": "Nu-gua Mines (Neptune)",
@@ -1955,29 +1970,44 @@
     "type": "Skirmish"
   },
   "CrewBattleNode519": {
-    "value": "Bifrost Echo (Venus)",
-    "enemy": "코퍼스",
-    "type": "섬멸"
+    "value": "Korm's Belt (Earth)",
+    "enemy": "그리니어",
+    "type": "Skirmish"
   },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
-    "enemy": "그리니어",
+    "enemy": "코퍼스",
     "type": "Volatile"
   },
   "CrewBattleNode522": {
-    "value": "Beacon Shield Ring (Venus)",
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "그리니어",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode523": {
+    "value": "Mammon's Prospect (Neptune)",
     "enemy": "코퍼스",
-    "type": "Volatile"
+    "type": "Orphix"
   },
   "CrewBattleNode524": {
-    "value": "Sovereign Grasp (Venus)",
+    "value": "Sovereign Grasp (Neptune)",
     "enemy": "코퍼스",
     "type": "Volatile"
   },
+  "CrewBattleNode526": {
+    "value": "Khufu Envoy (Pluto)",
+    "enemy": "코퍼스",
+    "type": "Orphix"
+  },
   "CrewBattleNode527": {
-    "value": "Seven Sirens (Venus)",
+    "value": "Seven Sirens (Pluto)",
     "enemy": "코퍼스",
     "type": "섬멸"
+  },
+  "CrewBattleNode528": {
+    "value": "Obol Crossing (Pluto)",
+    "enemy": "코퍼스",
+    "type": "방어"
   },
   "CrewBattleNode529": {
     "value": "Profit Margin (Pluto)",
@@ -1985,7 +2015,12 @@
     "type": "Volatile"
   },
   "CrewBattleNode530": {
-    "value": "Kaiso's Rest (Pluto)",
+    "value": "Kasio's Rest (Saturn)",
+    "enemy": "그리니어",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode533": {
+    "value": "Nodo Gap (Saturn)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
@@ -1999,6 +2034,11 @@
     "enemy": "그리니어",
     "type": "Skirmish"
   },
+  "CrewBattleNode536": {
+    "value": "Peregrine Axis (Pluto)",
+    "enemy": "코퍼스",
+    "type": "Orphix"
+  },
   "CrewBattleNode538": {
     "value": "Calabash (Veil)",
     "enemy": "코퍼스",
@@ -2009,33 +2049,48 @@
     "enemy": "코퍼스",
     "type": "Volatile"
   },
+  "CrewBattleNode540": {
+    "value": "Arc Silver (Veil)",
+    "enemy": "코퍼스",
+    "type": "방어"
+  },
+  "CrewBattleNode541": {
+    "value": "Erato (Veil)",
+    "enemy": "코퍼스",
+    "type": "Orphix"
+  },
+  "CrewBattleNode542": {
+    "value": "Lu-yan (Veil)",
+    "enemy": "코퍼스",
+    "type": "Volatile"
+  },
   "CrewBattleNode550": {
-    "value": "Nsu Grid (Veil Proxima)",
+    "value": "Nsu Grid (Veil)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
   "CrewBattleNode551": {
-    "value": "Ganalen's Grave (Veil Proxima)",
+    "value": "Ganalen's Grave (Veil)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
   "CrewBattleNode552": {
-    "value": "Rya (Veil Proxima)",
+    "value": "Rya (Veil)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
   "CrewBattleNode553": {
-    "value": "Flexa (Veil Proxima)",
+    "value": "Flexa (Veil)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
   "CrewBattleNode554": {
-    "value": "H-2 Cloud (Veil Proxima)",
+    "value": "H-2 Cloud (Veil)",
     "enemy": "그리니어",
     "type": "Skirmish"
   },
   "CrewBattleNode555": {
-    "value": "R-9 Cloud (Veil Proxima)",
+    "value": "R-9 Cloud (Veil)",
     "enemy": "그리니어",
     "type": "Skirmish"
   }
