@@ -52,6 +52,7 @@ const solNodesSchema = {
         'Mobile Defense',
         'Mobile Defense (Archwing)',
         'Orokin Sabotage',
+        'Orphix',
         'Pursuit (Archwing)',
         'Relay',
         'Rescue',
