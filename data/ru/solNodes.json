@@ -1909,15 +1909,20 @@
     "enemy": "Гринир",
     "type": "Стычка"
   },
-  "CrewBattleNode503": {
-    "value": "Korm's Belt (Earth)",
+  "CrewBattleNode502": {
+    "value": "Sover Strait (Earth)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
-  "CrewBattleNode504": {
-    "value": "???",
+  "CrewBattleNode503": {
+    "value": "Bifrost Echo (Venus)",
     "enemy": "Корпус",
-    "type": "Стычка"
+    "type": "Зачистка"
+  },
+  "CrewBattleNode504": {
+    "value": "Arva Vector (Neptune)",
+    "enemy": "Корпус",
+    "type": "Оборона"
   },
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil)",
@@ -1935,14 +1940,24 @@
     "type": "Стычка"
   },
   "CrewBattleNode511": {
-    "value": "Bendar Cluster (Earth)",
-    "enemy": "Гринир",
-    "type": "Стычка"
+    "value": "Beacon Shield Ring (Venus)",
+    "enemy": "Корпус",
+    "type": "Volatile"
   },
   "CrewBattleNode512": {
     "value": "Orvin-Haarc (Venus)",
     "enemy": "Корпус",
     "type": "Зачистка"
+  },
+  "CrewBattleNode513": {
+    "value": "Vesper Strait (Venus)",
+    "enemy": "Корпус",
+    "type": "Orphix"
+  },
+  "CrewBattleNode514": {
+    "value": "Falling Glory (Venus)",
+    "enemy": "Корпус",
+    "type": "Оборона"
   },
   "CrewBattleNode516": {
     "value": "Nu-gua Mines (Neptune)",
@@ -1955,29 +1970,44 @@
     "type": "Стычка"
   },
   "CrewBattleNode519": {
-    "value": "Bifrost Echo (Venus)",
-    "enemy": "Корпус",
-    "type": "Зачистка"
+    "value": "Korm's Belt (Earth)",
+    "enemy": "Гринир",
+    "type": "Стычка"
   },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
-    "enemy": "Гринир",
+    "enemy": "Корпус",
     "type": "Volatile"
   },
   "CrewBattleNode522": {
-    "value": "Beacon Shield Ring (Venus)",
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
+  "CrewBattleNode523": {
+    "value": "Mammon's Prospect (Neptune)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Orphix"
   },
   "CrewBattleNode524": {
-    "value": "Sovereign Grasp (Venus)",
+    "value": "Sovereign Grasp (Neptune)",
     "enemy": "Корпус",
     "type": "Volatile"
   },
+  "CrewBattleNode526": {
+    "value": "Khufu Envoy (Pluto)",
+    "enemy": "Корпус",
+    "type": "Orphix"
+  },
   "CrewBattleNode527": {
-    "value": "Seven Sirens (Venus)",
+    "value": "Seven Sirens (Pluto)",
     "enemy": "Корпус",
     "type": "Зачистка"
+  },
+  "CrewBattleNode528": {
+    "value": "Obol Crossing (Pluto)",
+    "enemy": "Корпус",
+    "type": "Оборона"
   },
   "CrewBattleNode529": {
     "value": "Profit Margin (Pluto)",
@@ -1985,7 +2015,12 @@
     "type": "Volatile"
   },
   "CrewBattleNode530": {
-    "value": "Kaiso's Rest (Pluto)",
+    "value": "Kasio's Rest (Saturn)",
+    "enemy": "Гринир",
+    "type": "Стычка"
+  },
+  "CrewBattleNode533": {
+    "value": "Nodo Gap (Saturn)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
@@ -1999,6 +2034,11 @@
     "enemy": "Гринир",
     "type": "Стычка"
   },
+  "CrewBattleNode536": {
+    "value": "Peregrine Axis (Pluto)",
+    "enemy": "Корпус",
+    "type": "Orphix"
+  },
   "CrewBattleNode538": {
     "value": "Calabash (Veil)",
     "enemy": "Корпус",
@@ -2009,33 +2049,48 @@
     "enemy": "Корпус",
     "type": "Volatile"
   },
+  "CrewBattleNode540": {
+    "value": "Arc Silver (Veil)",
+    "enemy": "Корпус",
+    "type": "Оборона"
+  },
+  "CrewBattleNode541": {
+    "value": "Erato (Veil)",
+    "enemy": "Корпус",
+    "type": "Orphix"
+  },
+  "CrewBattleNode542": {
+    "value": "Lu-yan (Veil)",
+    "enemy": "Корпус",
+    "type": "Volatile"
+  },
   "CrewBattleNode550": {
-    "value": "Нсу Локус (Проксима Вуали)",
+    "value": "Nsu Grid (Veil)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
   "CrewBattleNode551": {
-    "value": "Могила Ганалена (Проксима Вуали)",
+    "value": "Ganalen's Grave (Veil)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
   "CrewBattleNode552": {
-    "value": "Рия (Проксима Вуали)",
+    "value": "Rya (Veil)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
   "CrewBattleNode553": {
-    "value": "Флекса (Проксима Вуали)",
+    "value": "Flexa (Veil)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
   "CrewBattleNode554": {
-    "value": "Облако H-2 (Проксима Вуали)",
+    "value": "H-2 Cloud (Veil)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
   "CrewBattleNode555": {
-    "value": "Облако R-9 (Проксима Вуали)",
+    "value": "R-9 Cloud (Veil)",
     "enemy": "Гринир",
     "type": "Стычка"
   }
