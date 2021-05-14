@@ -1909,15 +1909,20 @@
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
-  "CrewBattleNode503": {
-    "value": "Korm's Belt (Earth)",
+  "CrewBattleNode502": {
+    "value": "Sover Strait (Earth)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
-  "CrewBattleNode504": {
-    "value": "???",
+  "CrewBattleNode503": {
+    "value": "Bifrost Echo (Venus)",
     "enemy": "Corpus",
-    "type": "Escarmouche"
+    "type": "Extermination"
+  },
+  "CrewBattleNode504": {
+    "value": "Arva Vector (Neptune)",
+    "enemy": "Corpus",
+    "type": "Défense"
   },
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil)",
@@ -1935,14 +1940,24 @@
     "type": "Escarmouche"
   },
   "CrewBattleNode511": {
-    "value": "Bendar Cluster (Earth)",
-    "enemy": "Grineer",
-    "type": "Escarmouche"
+    "value": "Beacon Shield Ring (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
   },
   "CrewBattleNode512": {
     "value": "Orvin-Haarc (Venus)",
     "enemy": "Corpus",
     "type": "Extermination"
+  },
+  "CrewBattleNode513": {
+    "value": "Vesper Strait (Venus)",
+    "enemy": "Corpus",
+    "type": "Orphix"
+  },
+  "CrewBattleNode514": {
+    "value": "Falling Glory (Venus)",
+    "enemy": "Corpus",
+    "type": "Défense"
   },
   "CrewBattleNode516": {
     "value": "Nu-gua Mines (Neptune)",
@@ -1955,29 +1970,44 @@
     "type": "Escarmouche"
   },
   "CrewBattleNode519": {
-    "value": "Bifrost Echo (Venus)",
-    "enemy": "Corpus",
-    "type": "Extermination"
+    "value": "Korm's Belt (Earth)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
   },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
-    "enemy": "Grineer",
+    "enemy": "Corpus",
     "type": "Volatile"
   },
   "CrewBattleNode522": {
-    "value": "Beacon Shield Ring (Venus)",
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode523": {
+    "value": "Mammon's Prospect (Neptune)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "Orphix"
   },
   "CrewBattleNode524": {
-    "value": "Sovereign Grasp (Venus)",
+    "value": "Sovereign Grasp (Neptune)",
     "enemy": "Corpus",
     "type": "Volatile"
   },
+  "CrewBattleNode526": {
+    "value": "Khufu Envoy (Pluto)",
+    "enemy": "Corpus",
+    "type": "Orphix"
+  },
   "CrewBattleNode527": {
-    "value": "Seven Sirens (Venus)",
+    "value": "Seven Sirens (Pluto)",
     "enemy": "Corpus",
     "type": "Extermination"
+  },
+  "CrewBattleNode528": {
+    "value": "Obol Crossing (Pluto)",
+    "enemy": "Corpus",
+    "type": "Défense"
   },
   "CrewBattleNode529": {
     "value": "Profit Margin (Pluto)",
@@ -1985,7 +2015,12 @@
     "type": "Volatile"
   },
   "CrewBattleNode530": {
-    "value": "Kaiso's Rest (Pluto)",
+    "value": "Kasio's Rest (Saturn)",
+    "enemy": "Grineer",
+    "type": "Escarmouche"
+  },
+  "CrewBattleNode533": {
+    "value": "Nodo Gap (Saturn)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
@@ -1999,6 +2034,11 @@
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
+  "CrewBattleNode536": {
+    "value": "Peregrine Axis (Pluto)",
+    "enemy": "Corpus",
+    "type": "Orphix"
+  },
   "CrewBattleNode538": {
     "value": "Calabash (Veil)",
     "enemy": "Corpus",
@@ -2009,33 +2049,48 @@
     "enemy": "Corpus",
     "type": "Volatile"
   },
+  "CrewBattleNode540": {
+    "value": "Arc Silver (Veil)",
+    "enemy": "Corpus",
+    "type": "Défense"
+  },
+  "CrewBattleNode541": {
+    "value": "Erato (Veil)",
+    "enemy": "Corpus",
+    "type": "Orphix"
+  },
+  "CrewBattleNode542": {
+    "value": "Lu-yan (Veil)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
   "CrewBattleNode550": {
-    "value": "Réseau Nsu (Proxima du Voile)",
+    "value": "Nsu Grid (Veil)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
   "CrewBattleNode551": {
-    "value": "Tombe de Ganalen (Proxima du Voile)",
+    "value": "Ganalen's Grave (Veil)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
   "CrewBattleNode552": {
-    "value": "Rya (Proxima du Voile)",
+    "value": "Rya (Veil)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
   "CrewBattleNode553": {
-    "value": "Flexa (Proxima du Voile)",
+    "value": "Flexa (Veil)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
   "CrewBattleNode554": {
-    "value": "Nuage H-2 (Proxima du Voile)",
+    "value": "H-2 Cloud (Veil)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   },
   "CrewBattleNode555": {
-    "value": "Nuage R-9 (Proxima du Voile)",
+    "value": "R-9 Cloud (Veil)",
     "enemy": "Grineer",
     "type": "Escarmouche"
   }

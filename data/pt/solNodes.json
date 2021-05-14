@@ -1909,15 +1909,20 @@
     "enemy": "Grineer",
     "type": "Skirmish"
   },
-  "CrewBattleNode503": {
-    "value": "Korm's Belt (Earth)",
+  "CrewBattleNode502": {
+    "value": "Sover Strait (Earth)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
-  "CrewBattleNode504": {
-    "value": "???",
+  "CrewBattleNode503": {
+    "value": "Bifrost Echo (Venus)",
     "enemy": "Corpus",
-    "type": "Skirmish"
+    "type": "Extermínio"
+  },
+  "CrewBattleNode504": {
+    "value": "Arva Vector (Neptune)",
+    "enemy": "Corpus",
+    "type": "Defesa"
   },
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil)",
@@ -1935,14 +1940,24 @@
     "type": "Skirmish"
   },
   "CrewBattleNode511": {
-    "value": "Bendar Cluster (Earth)",
-    "enemy": "Grineer",
-    "type": "Skirmish"
+    "value": "Beacon Shield Ring (Venus)",
+    "enemy": "Corpus",
+    "type": "Volatile"
   },
   "CrewBattleNode512": {
     "value": "Orvin-Haarc (Venus)",
     "enemy": "Corpus",
     "type": "Extermínio"
+  },
+  "CrewBattleNode513": {
+    "value": "Vesper Strait (Venus)",
+    "enemy": "Corpus",
+    "type": "Orphix"
+  },
+  "CrewBattleNode514": {
+    "value": "Falling Glory (Venus)",
+    "enemy": "Corpus",
+    "type": "Defesa"
   },
   "CrewBattleNode516": {
     "value": "Nu-gua Mines (Neptune)",
@@ -1955,29 +1970,44 @@
     "type": "Skirmish"
   },
   "CrewBattleNode519": {
-    "value": "Bifrost Echo (Venus)",
-    "enemy": "Corpus",
-    "type": "Extermínio"
+    "value": "Korm's Belt (Earth)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
   },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
-    "enemy": "Grineer",
+    "enemy": "Corpus",
     "type": "Volatile"
   },
   "CrewBattleNode522": {
-    "value": "Beacon Shield Ring (Venus)",
+    "value": "Bendar Cluster (Earth)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode523": {
+    "value": "Mammon's Prospect (Neptune)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "Orphix"
   },
   "CrewBattleNode524": {
-    "value": "Sovereign Grasp (Venus)",
+    "value": "Sovereign Grasp (Neptune)",
     "enemy": "Corpus",
     "type": "Volatile"
   },
+  "CrewBattleNode526": {
+    "value": "Khufu Envoy (Pluto)",
+    "enemy": "Corpus",
+    "type": "Orphix"
+  },
   "CrewBattleNode527": {
-    "value": "Seven Sirens (Venus)",
+    "value": "Seven Sirens (Pluto)",
     "enemy": "Corpus",
     "type": "Extermínio"
+  },
+  "CrewBattleNode528": {
+    "value": "Obol Crossing (Pluto)",
+    "enemy": "Corpus",
+    "type": "Defesa"
   },
   "CrewBattleNode529": {
     "value": "Profit Margin (Pluto)",
@@ -1985,7 +2015,12 @@
     "type": "Volatile"
   },
   "CrewBattleNode530": {
-    "value": "Kaiso's Rest (Pluto)",
+    "value": "Kasio's Rest (Saturn)",
+    "enemy": "Grineer",
+    "type": "Skirmish"
+  },
+  "CrewBattleNode533": {
+    "value": "Nodo Gap (Saturn)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
@@ -1999,6 +2034,11 @@
     "enemy": "Grineer",
     "type": "Skirmish"
   },
+  "CrewBattleNode536": {
+    "value": "Peregrine Axis (Pluto)",
+    "enemy": "Corpus",
+    "type": "Orphix"
+  },
   "CrewBattleNode538": {
     "value": "Calabash (Veil)",
     "enemy": "Corpus",
@@ -2009,33 +2049,48 @@
     "enemy": "Corpus",
     "type": "Volatile"
   },
+  "CrewBattleNode540": {
+    "value": "Arc Silver (Veil)",
+    "enemy": "Corpus",
+    "type": "Defesa"
+  },
+  "CrewBattleNode541": {
+    "value": "Erato (Veil)",
+    "enemy": "Corpus",
+    "type": "Orphix"
+  },
+  "CrewBattleNode542": {
+    "value": "Lu-yan (Veil)",
+    "enemy": "Corpus",
+    "type": "Volatile"
+  },
   "CrewBattleNode550": {
-    "value": "Nsu Grid (Veil Proxima)",
+    "value": "Nsu Grid (Veil)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode551": {
-    "value": "Ganalen's Grave (Veil Proxima)",
+    "value": "Ganalen's Grave (Veil)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode552": {
-    "value": "Rya (Veil Proxima)",
+    "value": "Rya (Veil)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode553": {
-    "value": "Flexa (Veil Proxima)",
+    "value": "Flexa (Veil)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode554": {
-    "value": "H-2 Cloud (Veil Proxima)",
+    "value": "H-2 Cloud (Veil)",
     "enemy": "Grineer",
     "type": "Skirmish"
   },
   "CrewBattleNode555": {
-    "value": "R-9 Cloud (Veil Proxima)",
+    "value": "R-9 Cloud (Veil)",
     "enemy": "Grineer",
     "type": "Skirmish"
   }
