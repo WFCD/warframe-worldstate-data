@@ -5137,10 +5137,10 @@
     "value": "Onorix Handle"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archcannonbarrel": {
-    "value": "Corvas Barrel"
+    "value": "黑鸦 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archcannonreceiver": {
-    "value": "Corvas Receiver"
+    "value": "黑鸦 黑鸦"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archcannonstock": {
     "value": "Corvas Stock"
@@ -5185,10 +5185,10 @@
     "value": "野猪 Prime 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/boarprimereceiver": {
-    "value": "Boar Prime Receiver"
+    "value": "野猪 Prime 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/boarprimestock": {
-    "value": "Boar Prime Stock"
+    "value": "野猪 Prime 枪托"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/boltorprimebarrel": {
     "value": "螺钉步枪 Prime 枪管"
@@ -5374,7 +5374,7 @@
     "value": "预言者 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/vorspistolreceiver": {
-    "value": "Seer Pistol Receiver"
+    "value": "预言者 枪机"
   },
   "/lotus/storeitems/types/restoratives/cipher": {
     "value": "Cipher"
@@ -6667,7 +6667,7 @@
     "value": "Hollowed Bullets"
   },
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingrifledamageamountmod": {
-    "value": "Rubedo-lined Barrel"
+    "value": "红晶枪管"
   },
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingriflefireiterationsmod": {
     "value": "Dual Rounds"
@@ -6685,7 +6685,7 @@
     "value": "Modified Munitions"
   },
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingweaponelectricitydamagemod": {
-    "value": "Electrified Barrel"
+    "value": "带电枪管"
   },
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingweaponfiredamagemod": {
     "value": "Combustion Rounds"
@@ -6697,7 +6697,7 @@
     "value": "Venomous Clip"
   },
   "/lotus/storeitems/upgrades/mods/archwing/rifle/expert/archwingrifledamageamountmodexpert": {
-    "value": "Primed Rubedo-Lined Barrel"
+    "value": "红晶枪管 Prime"
   },
   "/lotus/storeitems/upgrades/mods/archwing/suit/archwingsuitabilitydurationmod": {
     "value": "Efficient Transferral"
@@ -7390,7 +7390,7 @@
     "value": "Heated Charge"
   },
   "/lotus/storeitems/upgrades/mods/pistol/beginner/weaponfireiterationsmodbeginner": {
-    "value": "Barrel Diffusion"
+    "value": "弹头扩散"
   },
   "/lotus/storeitems/upgrades/mods/pistol/beginner/weaponfireratemodbeginner": {
     "value": "Gunslinger"
@@ -7486,7 +7486,7 @@
     "value": "Primed Heated Charge"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponfireiterationsmodexpert": {
-    "value": "Barrel Diffusion"
+    "value": "弹头扩散"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponfireratemodexpert": {
     "value": "Primed Gunslinger"
@@ -7591,7 +7591,7 @@
     "value": "Heated Charge"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponfireiterationsmod": {
-    "value": "Barrel Diffusion"
+    "value": "弹头扩散"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponfireratemod": {
     "value": "Gunslinger"
@@ -7672,7 +7672,7 @@
     "value": "Full Capacity"
   },
   "/lotus/storeitems/upgrades/mods/pvpmods/pistol/lessrecoilsmallermagpistolmod": {
-    "value": "Hydraulic Barrel"
+    "value": "液压枪管"
   },
   "/lotus/storeitems/upgrades/mods/pvpmods/pistol/marktargetadddamagemod": {
     "value": "Tactical Espionage"
@@ -11530,7 +11530,7 @@
     "value": "北海巨妖"
   },
   "/lotus/storeitems/weapons/grineer/grineerpistol/grnscopedpistolplayer": {
-    "value": "Seer"
+    "value": "预言者"
   },
   "/lotus/storeitems/weapons/grineer/longguns/acidprimary/acidrifle": {
     "value": "[Placeholder]"
@@ -11551,10 +11551,10 @@
     "value": "Prisma Grinlok"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerm16homage/grineerm16rifle": {
-    "value": "Karak"
+    "value": "卡拉克"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerm16homage/karakwraith": {
-    "value": "Karak Wraith"
+    "value": "卡拉克 亡魂"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineersawbladegun/sawbladegun": {
     "value": "Miter"
@@ -11647,7 +11647,7 @@
     "value": "Viper Wraith"
   },
   "/lotus/storeitems/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
-    "value": "Wraith Twin Vipers"
+    "value": "双子蝰蛇 亡魂"
   },
   "/lotus/storeitems/weapons/infested/longguns/infcrpshockswarm/infcrpshockswarmrifle": {
     "value": "Mutalist Quanta"
@@ -11713,7 +11713,7 @@
     "value": "Mk1-skana"
   },
   "/lotus/storeitems/weapons/mk1series/mk1strun": {
-    "value": "Mk1-strun"
+    "value": "Mk1-斯特朗"
   },
   "/lotus/storeitems/weapons/syndicates/arbitersofhexis/pistols/ahakbolto": {
     "value": "Telos Akbolto"
@@ -12262,19 +12262,19 @@
     "value": "Sobek"
   },
   "/lotus/storeitems/weapons/tenno/shotgun/fullautoshotgun": {
-    "value": "Boar"
+    "value": "野猪"
   },
   "/lotus/storeitems/weapons/tenno/shotgun/primeboar": {
-    "value": "Boar Prime"
+    "value": "野猪 Prime"
   },
   "/lotus/storeitems/weapons/tenno/shotgun/quadshotgun": {
     "value": "Hek"
   },
   "/lotus/storeitems/weapons/tenno/shotgun/shotgun": {
-    "value": "Strun"
+    "value": "斯特朗"
   },
   "/lotus/storeitems/weapons/tenno/shotgun/shotgunvandal": {
-    "value": "Strun Wraith"
+    "value": "斯特朗 亡魂"
   },
   "/lotus/storeitems/weapons/tenno/throwingweapons/cylidagger/cylidagger": {
     "value": "[Placeholder]"
@@ -14410,7 +14410,7 @@
     "value": "希芙 蓝图"
   },
   "/lotus/types/recipes/weapons/karakwraithblueprint": {
-    "value": "Karak Wraith Blueprint"
+    "value": "卡拉克 亡魂 蓝图"
   },
   "/lotus/types/recipes/weapons/latronwraithblueprint": {
     "value": "拉特昂 亡魂 蓝图"
@@ -14419,10 +14419,10 @@
     "value": "Snipetron Vandal Blueprint"
   },
   "/lotus/types/recipes/weapons/strunwraithblueprint": {
-    "value": "Strun Wraith Blueprint"
+    "value": "斯特朗 亡魂 蓝图"
   },
   "/lotus/types/recipes/weapons/twinviperswraithblueprint": {
-    "value": "Wraith Twin Vipers Blueprint"
+    "value": "双子蝰蛇 亡魂 蓝图"
   },
   "/lotus/types/recipes/weapons/weaponparts/deravandalbarrel": {
     "value": "德拉 破坏者 枪管"
@@ -14449,10 +14449,10 @@
     "value": "卡拉克 亡魂 枪管"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithreceiver": {
-    "value": "Karak Wraith Receiver"
+    "value": "卡拉克 亡魂 枪机"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithstock": {
-    "value": "Karak Wraith Stock"
+    "value": "卡拉克 亡魂 枪托"
   },
   "/lotus/types/recipes/weapons/weaponparts/latronwraithbarrel": {
     "value": "拉特昂 亡魂 枪管"
@@ -14476,19 +14476,19 @@
     "value": "斯特朗 亡魂 枪管"
   },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithreceiver": {
-    "value": "Strun Wraith Receiver"
+    "value": "斯特朗 亡魂 枪机"
   },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithstock": {
-    "value": "Strun Wraith Stock"
+    "value": "斯特朗 亡魂 枪托"
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithbarrel": {
     "value": "双子蝰蛇 亡魂 枪管"
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithlink": {
-    "value": "Wraith Twin Vipers Link"
+    "value": "双子蝰蛇 亡魂 连接器"
   },
   "/lotus/types/recipes/weapons/weaponparts/twinviperswraithreceiver": {
-    "value": "Wraith Twin Vipers Receiver"
+    "value": "双子蝰蛇 亡魂 枪机"
   },
   "/lotus/types/restoratives/deployables/lisetturretavatar": {
     "value": "Liset Turret Avatar"
@@ -17044,7 +17044,7 @@
     "value": "Kracken"
   },
   "/lotus/weapons/grineer/grineerpistol/grnscopedpistolplayer": {
-    "value": "Seer"
+    "value": "预言者"
   },
   "/lotus/weapons/grineer/longguns/burstrifle/grnburstrifle": {
     "value": "Hind"
@@ -17062,7 +17062,7 @@
     "value": "G L A Rifle"
   },
   "/lotus/weapons/grineer/longguns/grineerm16homage/grineerm16rifle": {
-    "value": "Karak"
+    "value": "卡拉克"
   },
   "/lotus/weapons/grineer/longguns/grineerm16homage/karakwraith": {
     "value": "Velocitus"
@@ -17191,7 +17191,7 @@
     "value": "Atomos"
   },
   "/lotus/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
-    "value": "Wraith Twin Vipers"
+    "value": "双子蝰蛇 亡魂"
   },
   "/lotus/weapons/grineer/shield/shieldattachment": {
     "value": "Shield Attachment"
@@ -17263,7 +17263,7 @@
     "value": "MK1-Kunai"
   },
   "/lotus/weapons/mk1series/mk1strun": {
-    "value": "MK1 Strun"
+    "value": "MK1 斯特朗"
   },
   "/lotus/weapons/syndicates/arbitersofhexis/longguns/ahboltor": {
     "value": "Telos Boltor"
@@ -17896,19 +17896,19 @@
     "value": "鳄神"
   },
   "/lotus/weapons/tenno/shotgun/fullautoshotgun": {
-    "value": "Boar"
+    "value": "野猪"
   },
   "/lotus/weapons/tenno/shotgun/primeboar": {
-    "value": "Boar Prime"
+    "value": "野猪 Prime"
   },
   "/lotus/weapons/tenno/shotgun/quadshotgun": {
     "value": "Hek"
   },
   "/lotus/weapons/tenno/shotgun/shotgun": {
-    "value": "Strun"
+    "value": "斯特朗"
   },
   "/lotus/weapons/tenno/shotgun/shotgunvandal": {
-    "value": "Strun Wraith"
+    "value": "斯特朗 亡魂"
   },
   "/lotus/weapons/tenno/throwingweapons/glasskunai/glasskunaiweapon": {
     "value": "齐射玻刃"
