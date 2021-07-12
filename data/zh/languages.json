@@ -5122,7 +5122,7 @@
     "value": "Brokk Hammer Skin Blueprint"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/akbroncoprimelink": {
-    "value": "Akbronco Prime Link"
+    "value": "野马双枪 Prime 连接器"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/ankyrosprimeblade": {
     "value": "Ankyros Prime Blade"
@@ -5140,7 +5140,7 @@
     "value": "黑鸦 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archcannonreceiver": {
-    "value": "黑鸦 黑鸦"
+    "value": "黑鸦 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archcannonstock": {
     "value": "Corvas Stock"
@@ -5218,22 +5218,22 @@
     "value": "野马 Prime 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/broncoprimereceiver": {
-    "value": "Bronco Prime Receiver"
+    "value": "野马 Prime 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/burstonprimebarrel": {
     "value": "伯斯顿 Prime 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/burstonprimereceiver": {
-    "value": "Burston Prime Receiver"
+    "value": "伯斯顿 Prime 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/burstonprimestock": {
-    "value": "Burston Prime Stock"
+    "value": "伯斯顿 Prime 枪托"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/detronbarrel": {
     "value": "德特昂 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/detronreceiver": {
-    "value": "Detron Receiver"
+    "value": "德特昂 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/glaiveprimeblade": {
     "value": "战刃 Prime 刀片"
@@ -5344,7 +5344,7 @@
     "value": "暗杀者 Prime 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/sicarusprimereceiver": {
-    "value": "Sicarus Prime Receiver"
+    "value": "暗杀者 Prime 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/somaprimebarrel": {
     "value": "月神 Prime 枪管"
@@ -5365,10 +5365,10 @@
     "value": "瓦斯托 Prime 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/vectisprimereceiver": {
-    "value": "Vectis Prime Receiver"
+    "value": "瓦斯托 Prime 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/vectisprimestock": {
-    "value": "Vectis Prime Stock"
+    "value": "瓦斯托 Prime 枪托"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/vorspistolbarrel": {
     "value": "预言者 枪管"
@@ -11497,7 +11497,7 @@
     "value": "Lecta"
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpushandshotgun/corpushandcannon": {
-    "value": "Detron"
+    "value": "德特昂"
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpusminigun/corpusminigun": {
     "value": "Cestra"
@@ -11746,7 +11746,7 @@
     "value": "Aklato"
   },
   "/lotus/storeitems/weapons/tenno/akimbo/akimboshotgun": {
-    "value": "Akbronco"
+    "value": "野马双枪"
   },
   "/lotus/storeitems/weapons/tenno/akimbo/akimboviperpistols": {
     "value": "Twin Vipers"
@@ -11761,7 +11761,7 @@
     "value": "瓦斯托双枪"
   },
   "/lotus/storeitems/weapons/tenno/akimbo/primeakimboshotgun": {
-    "value": "Akbronco Prime"
+    "value": "野马双枪 Prime"
   },
   "/lotus/storeitems/weapons/tenno/archwing/melee/archaxe/archaxeweapon": {
     "value": "Onorix"
@@ -11830,13 +11830,13 @@
     "value": "螺钉步枪 Prime"
   },
   "/lotus/storeitems/weapons/tenno/longguns/primeburston/primeburston": {
-    "value": "Burston Prime"
+    "value": "伯斯顿 Prime"
   },
   "/lotus/storeitems/weapons/tenno/longguns/primesoma/primesomarifle": {
     "value": "月神 Prime"
   },
   "/lotus/storeitems/weapons/tenno/longguns/primevectis/primevectisrifle": {
-    "value": "Vectis Prime"
+    "value": "瓦斯托 Prime"
   },
   "/lotus/storeitems/weapons/tenno/longguns/tnoleveraction/tnoleveractionrifle": {
     "value": "Sybaris"
@@ -12151,16 +12151,16 @@
     "value": "Furis"
   },
   "/lotus/storeitems/weapons/tenno/pistol/broncoprime": {
-    "value": "Bronco Prime"
+    "value": "野马 Prime"
   },
   "/lotus/storeitems/weapons/tenno/pistol/burstpistol": {
-    "value": "Sicarus"
+    "value": "暗杀者"
   },
   "/lotus/storeitems/weapons/tenno/pistol/crossbow": {
     "value": "Bolto"
   },
   "/lotus/storeitems/weapons/tenno/pistol/handshotgun": {
-    "value": "Bronco"
+    "value": "野马"
   },
   "/lotus/storeitems/weapons/tenno/pistol/heavypistol": {
     "value": "雷克斯"
@@ -12196,7 +12196,7 @@
     "value": "雷克斯 Prime"
   },
   "/lotus/storeitems/weapons/tenno/pistols/primesicarus/primesicaruspistol": {
-    "value": "Sicarus Prime"
+    "value": "暗杀者 Prime"
   },
   "/lotus/storeitems/weapons/tenno/pistols/primevasto/primevastopistol": {
     "value": "瓦斯托 Prime"
@@ -12226,7 +12226,7 @@
     "value": "布莱顿 Prime"
   },
   "/lotus/storeitems/weapons/tenno/rifle/burstrifle": {
-    "value": "Burston"
+    "value": "伯斯顿"
   },
   "/lotus/storeitems/weapons/tenno/rifle/heavyrifle": {
     "value": "Gorgon"
@@ -12250,7 +12250,7 @@
     "value": "月神"
   },
   "/lotus/storeitems/weapons/tenno/rifle/tennosniperrifle": {
-    "value": "Vectis"
+    "value": "瓦斯托"
   },
   "/lotus/storeitems/weapons/tenno/rifle/vandalsniperrifle": {
     "value": "狙击特昂 破坏者"
@@ -16990,7 +16990,7 @@
     "value": "Galvacord"
   },
   "/lotus/weapons/corpus/pistols/corpushandshotgun/corpushandcannon": {
-    "value": "Detron"
+    "value": "德特昂"
   },
   "/lotus/weapons/corpus/pistols/corpusminigun/corpusminigun": {
     "value": "Cestra"
@@ -17266,7 +17266,7 @@
     "value": "MK1 斯特朗"
   },
   "/lotus/weapons/syndicates/arbitersofhexis/longguns/ahboltor": {
-    "value": "Telos Boltor"
+    "value": "终极 螺钉步枪"
   },
   "/lotus/weapons/syndicates/arbitersofhexis/melee/ahboltace": {
     "value": "Telos Boltace"
@@ -17332,7 +17332,7 @@
     "value": "AkLato"
   },
   "/lotus/weapons/tenno/akimbo/akimboshotgun": {
-    "value": "AkBronco"
+    "value": "野马双枪"
   },
   "/lotus/weapons/tenno/akimbo/akimboviperpistols": {
     "value": "Twin Vipers"
@@ -17350,7 +17350,7 @@
     "value": "瓦斯托双枪"
   },
   "/lotus/weapons/tenno/akimbo/primeakimboshotgun": {
-    "value": "AkBronco Prime"
+    "value": "野马双枪 Prime"
   },
   "/lotus/weapons/tenno/archwing/melee/archaxe/archaxeweapon": {
     "value": "Onorix"
@@ -17446,7 +17446,7 @@
     "value": "螺钉步枪 Prime"
   },
   "/lotus/weapons/tenno/longguns/primeburston/primeburston": {
-    "value": "Burston Prime"
+    "value": "伯斯顿 Prime"
   },
   "/lotus/weapons/tenno/longguns/primesoma/primesomarifle": {
     "value": "月神 Prime"
@@ -17458,7 +17458,7 @@
     "value": "Tigris Prime"
   },
   "/lotus/weapons/tenno/longguns/primevectis/primevectisrifle": {
-    "value": "Prime Vectis"
+    "value": "瓦斯托 Prime"
   },
   "/lotus/weapons/tenno/longguns/repeatingcrossbow/repeatingcrossbow": {
     "value": "Zhuge"
@@ -17767,10 +17767,10 @@
     "value": "Furis"
   },
   "/lotus/weapons/tenno/pistol/broncoprime": {
-    "value": "Bronco Prime"
+    "value": "野马 Prime"
   },
   "/lotus/weapons/tenno/pistol/burstpistol": {
-    "value": "Sicarus"
+    "value": "暗杀者"
   },
   "/lotus/weapons/tenno/pistol/crossbow": {
     "value": "Ballistica"
@@ -17818,7 +17818,7 @@
     "value": "雷克斯 Prime"
   },
   "/lotus/weapons/tenno/pistols/primesicarus/primesicaruspistol": {
-    "value": "Sicarus Prime"
+    "value": "暗杀者 Prime"
   },
   "/lotus/weapons/tenno/pistols/primevasto/primevastopistol": {
     "value": "瓦斯托 Prime"
@@ -17860,7 +17860,7 @@
     "value": "布莱顿 Prime"
   },
   "/lotus/weapons/tenno/rifle/burstrifle": {
-    "value": "Burston"
+    "value": "伯斯顿"
   },
   "/lotus/weapons/tenno/rifle/heavyrifle": {
     "value": "Gorgon"
@@ -17884,7 +17884,7 @@
     "value": "月神"
   },
   "/lotus/weapons/tenno/rifle/tennosniperrifle": {
-    "value": "Vectis"
+    "value": "瓦斯托"
   },
   "/lotus/weapons/tenno/rifle/vandalsniperrifle": {
     "value": "狙击特昂 破坏者"
