@@ -2254,7 +2254,7 @@
     "value": "Tesla"
   },
   "/lotus/storeitems/powersuits/trapper/zaptrapaugmentcard": {
-    "value": "Tesla Link"
+    "value": "特斯拉陷阱"
   },
   "/lotus/storeitems/powersuits/trinity/blessingabilitycard": {
     "value": "Blessing"
@@ -5143,7 +5143,7 @@
     "value": "黑鸦 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archcannonstock": {
-    "value": "Corvas Stock"
+    "value": "黑鸦 枪托"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archhammerhandle": {
     "value": "Rathbone Handle"
@@ -5155,16 +5155,16 @@
     "value": "什长双枪 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archheavypistolsreceiver": {
-    "value": "Decurion Receiver"
+    "value": "什长双枪 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archrailgunbarrel": {
     "value": "极速电磁步枪 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archrailgunreceiver": {
-    "value": "Velocitus Receiver"
+    "value": "极速电磁步枪 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archrailgunstock": {
-    "value": "Velocitus Stock"
+    "value": "极速电磁步枪 枪托"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archrocketcrossbowbarrel": {
     "value": "巨浪枪管"
@@ -5203,7 +5203,7 @@
     "value": "布拉克 枪管"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/brakkreceiver": {
-    "value": "Brakk Receiver"
+    "value": "布拉克 枪机"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/bratonprimebarrel": {
     "value": "布莱顿 Prime 枪管"
@@ -8149,13 +8149,13 @@
     "value": "Ferocity"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowlinkarmourmaxmod": {
-    "value": "Link Armor"
+    "value": "护甲连结"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowlinkhealthmaxmod": {
-    "value": "Link Health"
+    "value": "生命值连结"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowlinkshieldmaxmod": {
-    "value": "Link Shields"
+    "value": "护盾连结"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowmasterbleedoutmod": {
     "value": "Loyal Companion"
@@ -8203,7 +8203,7 @@
     "value": "Flechette"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/beginner/weaponclipmaxmodbeginner": {
-    "value": "Ammo Stock"
+    "value": "霰弹扩充"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/beginner/weaponcritchancemodbeginner": {
     "value": "Blunderbuss"
@@ -8302,7 +8302,7 @@
     "value": "Flechette"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponclipmaxmodexpert": {
-    "value": "Ammo Stock"
+    "value": "霰弹扩充"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponcritchancemodexpert": {
     "value": "Blunderbuss"
@@ -8371,7 +8371,7 @@
     "value": "Flechette"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/weaponclipmaxmod": {
-    "value": "Ammo Stock"
+    "value": "霰弹扩充"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/weaponcritchancemod": {
     "value": "Blunderbuss"
@@ -11620,7 +11620,7 @@
     "value": "Stug"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineerhandshotgun/grineerhandcannon": {
-    "value": "Brakk"
+    "value": "布拉克"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineerleveractionpistol/glapistol": {
     "value": "Marelok"
@@ -11779,7 +11779,7 @@
     "value": "Prisma Veritux"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/archwingheavypistols/archheavypistols": {
-    "value": "Dual Decurion"
+    "value": "什长双枪"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/foldingmachinegun/archmachinegun": {
     "value": "Imperator"
@@ -11788,10 +11788,10 @@
     "value": "Imperator Vandal"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/launchgrenade/archcannon": {
-    "value": "Corvas"
+    "value": "黑鸦"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/railgun/archrailgun": {
-    "value": "Velocitus"
+    "value": "极速电磁步枪"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/repurposedgrineerantiaircraftgun/repurposedgrineerantiaircraftgun": {
     "value": "Imperator"
@@ -17065,7 +17065,7 @@
     "value": "卡拉克"
   },
   "/lotus/weapons/grineer/longguns/grineerm16homage/karakwraith": {
-    "value": "Velocitus"
+    "value": "极速电磁步枪"
   },
   "/lotus/weapons/grineer/longguns/grineersawbladegun/sawbladegun": {
     "value": "Miter"
@@ -17380,7 +17380,7 @@
     "value": "Cyngas Arch-gun"
   },
   "/lotus/weapons/tenno/archwing/primary/archwingheavypistols/archheavypistols": {
-    "value": "Dual Decurion"
+    "value": "什长双枪"
   },
   "/lotus/weapons/tenno/archwing/primary/foldingmachinegun/archmachinegun": {
     "value": "Imperator"
@@ -17389,7 +17389,7 @@
     "value": "Imperator Vandal"
   },
   "/lotus/weapons/tenno/archwing/primary/launchgrenade/archcannon": {
-    "value": "Corvas"
+    "value": "黑鸦"
   },
   "/lotus/weapons/tenno/archwing/primary/railgun/archrailgun": {
     "value": "Arch Railgun"
