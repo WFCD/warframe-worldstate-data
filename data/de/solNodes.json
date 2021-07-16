@@ -1994,6 +1994,11 @@
     "enemy": "Corpus",
     "type": "Volatile"
   },
+  "CrewBattleNode525": {
+    "value": "Brom Cluster (Neptune)",
+    "enemy": "Corpus",
+    "type": "Spionage"
+  },
   "CrewBattleNode526": {
     "value": "Khufu Envoy (Pluto)",
     "enemy": "Corpus",
@@ -2018,6 +2023,11 @@
     "value": "Kasio's Rest (Saturn)",
     "enemy": "Grineer",
     "type": "Skirmish"
+  },
+  "CrewBattleNode531": {
+    "value": "Fenton's Field (Pluto)",
+    "enemy": "Corpus",
+    "type": "Überleben"
   },
   "CrewBattleNode533": {
     "value": "Nodo Gap (Saturn)",
