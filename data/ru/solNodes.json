@@ -1994,6 +1994,11 @@
     "enemy": "Корпус",
     "type": "Volatile"
   },
+  "CrewBattleNode525": {
+    "value": "Brom Cluster (Neptune)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
+  },
   "CrewBattleNode526": {
     "value": "Посланник Хуфу (Плутон)",
     "enemy": "Корпус",
@@ -2018,6 +2023,11 @@
     "value": "Перевал Казио (Сатурн)",
     "enemy": "Гринир",
     "type": "Стычка"
+  },
+  "CrewBattleNode531": {
+    "value": "Fenton's Field (Pluto)",
+    "enemy": "Корпус",
+    "type": "Выживание"
   },
   "CrewBattleNode533": {
     "value": "Разрыв Нодо (Сатурн)",
