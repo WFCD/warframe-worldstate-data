@@ -1994,6 +1994,11 @@
     "enemy": "코퍼스",
     "type": "Volatile"
   },
+  "CrewBattleNode525": {
+    "value": "Brom Cluster (Neptune)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
+  },
   "CrewBattleNode526": {
     "value": "Khufu Envoy (Pluto)",
     "enemy": "코퍼스",
@@ -2018,6 +2023,11 @@
     "value": "Kasio's Rest (Saturn)",
     "enemy": "그리니어",
     "type": "Skirmish"
+  },
+  "CrewBattleNode531": {
+    "value": "Fenton's Field (Pluto)",
+    "enemy": "코퍼스",
+    "type": "생존"
   },
   "CrewBattleNode533": {
     "value": "Nodo Gap (Saturn)",
