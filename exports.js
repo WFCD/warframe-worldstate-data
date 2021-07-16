@@ -63,6 +63,7 @@ const enUS = {
   tutorials: require('./data/tutorials.json'),
   upgradeTypes: require('./data/upgradeTypes.json'),
   synthTargets: require('./data/synthTargets.json'),
+  steelPath: require('./data/steelPath.json'),
 };
 /* eslint-enable global-require */
 
@@ -98,6 +99,7 @@ locales.forEach((locale) => {
     tutorials: safeRequire(`./data/${locale}/tutorials.json`, []),
     upgradeTypes: safeRequire(`./data/${locale}/upgradeTypes.json`, []),
     synthTargets: safeRequire(`./data/${locale}/synthTargets.json`, []),
+    steelPath: safeRequire(`./data/${locale}/steelPath.json`, []),
   };
 });
 
