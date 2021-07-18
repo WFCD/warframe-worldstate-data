@@ -1959,6 +1959,11 @@
     "enemy": "Corpus",
     "type": "防禦"
   },
+  "CrewBattleNode515": {
+    "value": "Luckless Expanse (Venus)",
+    "enemy": "Corpus",
+    "type": "生存"
+  },
   "CrewBattleNode516": {
     "value": "Nu-gua Mines (Neptune)",
     "enemy": "Corpus",
@@ -2073,6 +2078,11 @@
     "value": "Lu-yan (Veil)",
     "enemy": "Corpus",
     "type": "Volatile"
+  },
+  "CrewBattleNode543": {
+    "value": "Sambir Cloud (Veil)",
+    "enemy": "Corpus",
+    "type": "間諜"
   },
   "CrewBattleNode550": {
     "value": "Nsu Grid (Veil)",
