@@ -1959,6 +1959,11 @@
     "enemy": "Корпус",
     "type": "Оборона"
   },
+  "CrewBattleNode515": {
+    "value": "Luckless Expanse (Venus)",
+    "enemy": "Корпус",
+    "type": "Выживание"
+  },
   "CrewBattleNode516": {
     "value": "Рудники Ню-гуа (Нептун)",
     "enemy": "Корпус",
@@ -2073,6 +2078,11 @@
     "value": "Лу-янь (Вуаль)",
     "enemy": "Корпус",
     "type": "Volatile"
+  },
+  "CrewBattleNode543": {
+    "value": "Sambir Cloud (Veil)",
+    "enemy": "Корпус",
+    "type": "Шпионаж"
   },
   "CrewBattleNode550": {
     "value": "Локус Нсу (Вуаль)",

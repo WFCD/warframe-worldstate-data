@@ -1959,6 +1959,11 @@
     "enemy": "코퍼스",
     "type": "방어"
   },
+  "CrewBattleNode515": {
+    "value": "Luckless Expanse (Venus)",
+    "enemy": "코퍼스",
+    "type": "생존"
+  },
   "CrewBattleNode516": {
     "value": "Nu-gua Mines (Neptune)",
     "enemy": "코퍼스",
@@ -2073,6 +2078,11 @@
     "value": "Lu-yan (Veil)",
     "enemy": "코퍼스",
     "type": "Volatile"
+  },
+  "CrewBattleNode543": {
+    "value": "Sambir Cloud (Veil)",
+    "enemy": "코퍼스",
+    "type": "첩보활동"
   },
   "CrewBattleNode550": {
     "value": "Nsu Grid (Veil)",
