@@ -37,7 +37,7 @@
     },
     {
         "regex": "avenger",
-        "name": "Arcane Avenger",
+        "name": "Arcane Vengeance",
         "effect": "Sur réception de dégâts 3.5% / 7% / 10.5% / 14% de chance de donner 7.5% / 15% / 22.5% / 30% Chance de critique additive pour 2 / 4 / 6 / 8 Secondes",
         "rarity": "Peu commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -55,7 +55,7 @@
     },
     {
         "regex": "barrier",
-        "name": "Arcane Barrier",
+        "name": "Arcane Barrière",
         "effect": "Sur réception de dégâts, 1% / 2% / 4% de chance de recharger instantanément le Bouclier",
         "rarity": "Rare",
         "location": "Changeant, vérifiez la table de drop",
@@ -109,7 +109,7 @@
     },
     {
         "regex": "grace",
-        "name": "Arcane Grace",
+        "name": "Arcane Grâce",
         "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
         "rarity": "Rare",
         "location": "Changeant, vérifiez la table de drop",
@@ -118,7 +118,7 @@
     },
     {
         "regex": "guardian",
-        "name": "Arcane Guardian",
+        "name": "Arcane Gardien",
         "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
         "rarity": "Commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -136,7 +136,7 @@
     },
     {
         "regex": "ice",
-        "name": "Arcane Ice",
+        "name": "Arcane Glace",
         "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
         "rarity": "Peu commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -154,7 +154,7 @@
     },
     {
         "regex": "nullifier",
-        "name": "Arcane Nullifier",
+        "name": "Arcane Zéro",
         "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
         "rarity": "Peu commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -262,7 +262,7 @@
     },
     {
         "regex": "warmth",
-        "name": "Arcane Warmth",
+        "name": "Arcane Chaleur",
         "effect": "20% / 40% / 60% / 80% chance to resist Cold proc",
         "rarity": "Peu commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -274,7 +274,7 @@
         "name": "Magus Vigor",
         "effect": "50 / 100 / 150 / 200 Increased Health",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
         "info": "http://warframe.wikia.com/wiki/Magus_Vigor"
     },
@@ -283,7 +283,7 @@
         "name": "Magus Husk",
         "effect": "25 / 50 / 75 / 100 Increased Armor",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/MagusHusk.png/revision/latest/scale-to-width-down/350?cb=20171129163018",
         "info": "http://warframe.wikia.com/wiki/Magus_Husk"
     },
@@ -292,7 +292,7 @@
         "name": "Magus Cloud",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
         "info": "http://warframe.wikia.com/wiki/Magus_Cloud"
     },
@@ -301,7 +301,7 @@
         "name": "Magus Cadence",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for 15% / 30% / 45% / 60% Increased sprint speed for 2 / 4 / 6 / 8 Seconds",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/MagusCadence.png/revision/latest/scale-to-width-down/350?cb=20171129163011",
         "info": "http://warframe.wikia.com/wiki/Magus_Cadence"
     },
@@ -310,7 +310,7 @@
         "name": "Magus Replenish",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/MagusReplenish.png/revision/latest/scale-to-width-down/350?cb=20171129163024",
         "info": "http://warframe.wikia.com/wiki/Magus_Replenish"
     },
@@ -319,7 +319,7 @@
         "name": "Magus Elevate",
         "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/MagusElevate.png/revision/latest/scale-to-width-down/350?cb=20171129163015",
         "info": "http://warframe.wikia.com/wiki/Magus_Elevate"
     },
@@ -328,7 +328,7 @@
         "name": "Magus Nourish",
         "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/MagusNourish.png/revision/latest/scale-to-width-down/350?cb=20171129163020",
         "info": "http://warframe.wikia.com/wiki/Magus_Nourish"
     },
@@ -337,7 +337,7 @@
         "name": "Virtuos Null",
         "effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/VirtuosNull.png/revision/latest?cb=20171129163035",
         "info": "http://warframe.wikia.com/wiki/Virtuos_Null"
     },
@@ -346,7 +346,7 @@
         "name": "Virtuos Tempo",
         "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
         "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
     },
@@ -355,7 +355,7 @@
         "name": "Virtuos Fury",
         "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
         "info": "http://warframe.wikia.com/wiki/Virtuos_Fury"
     },
@@ -364,7 +364,7 @@
         "name": "Virtuos Strike",
         "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/VirtuosStrike.png/revision/latest/scale-to-width-down/350?cb=20171129163040",
         "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
     },
@@ -373,7 +373,7 @@
         "name": "Virtuos Shadow",
         "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Multiplicative critical chance for 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
         "info": "http://warframe.wikia.com/wiki/Virtuos_Shadow"
     },
@@ -382,7 +382,7 @@
         "name": "Virtuos Ghost",
         "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Increased status chance for 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
-        "location": "Plumes",
+        "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d6/VirtuosGhost.png/revision/latest/scale-to-width-down/350?cb=20171129163032",
         "info": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
     },
