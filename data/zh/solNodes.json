@@ -1162,7 +1162,7 @@
   "SolNode404": {
     "value": "Stribog (虚空)",
     "enemy": "奥罗金",
-    "type": "Orokin Sabotage"
+    "type": "Orokin 破壞"
   },
   "SolNode405": {
     "value": "Ani (虚空)",
@@ -1302,7 +1302,7 @@
   "SolNode902": {
     "value": "Montes (金星)",
     "enemy": "Corpus",
-    "type": "Extermination (Archwing)"
+    "type": "殲滅 (Archwing)"
   },
   "SolNode903": {
     "value": "Erpo (地球)",
@@ -1312,7 +1312,7 @@
   "SolNode904": {
     "value": "Syrtis (火星)",
     "enemy": "Grineer",
-    "type": "Extermination (Archwing)"
+    "type": "殲滅 (Archwing)"
   },
   "SolNode905": {
     "value": "Galilea (木星)",
@@ -1900,19 +1900,19 @@
     "type": "黑暗地帶挖掘"
   },
   "/Lotus/Types/Keys/SortieBossKeyPhorid": {
-    "value": "Sortie Boss: Phorid",
+    "value": "突击 Boss: Phorid",
     "enemy": "Infested",
     "type": "刺殺"
   },
   "CrewBattleNode501": {
     "value": "Mordo Cluster (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode502": {
     "value": "Sover Strait (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode503": {
     "value": "Bifrost Echo (Venus)",
@@ -1927,22 +1927,22 @@
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode509": {
     "value": "Iota Temple (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode510": {
     "value": "Gian Point (Veil)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode511": {
     "value": "Beacon Shield Ring (Venus)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode512": {
     "value": "Orvin-Haarc (Venus)",
@@ -1952,7 +1952,7 @@
   "CrewBattleNode513": {
     "value": "Vesper Strait (Venus)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode514": {
     "value": "Falling Glory (Venus)",
@@ -1972,32 +1972,32 @@
   "CrewBattleNode518": {
     "value": "Ogal Cluster (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode519": {
     "value": "Korm's Belt (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode522": {
     "value": "Bendar Cluster (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode523": {
     "value": "Mammon's Prospect (Neptune)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode524": {
     "value": "Sovereign Grasp (Neptune)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode525": {
     "value": "Brom Cluster (Neptune)",
@@ -2007,7 +2007,7 @@
   "CrewBattleNode526": {
     "value": "Khufu Envoy (Pluto)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode527": {
     "value": "Seven Sirens (Pluto)",
@@ -2022,12 +2022,12 @@
   "CrewBattleNode529": {
     "value": "Profit Margin (Pluto)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode530": {
     "value": "Kasio's Rest (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode531": {
     "value": "Fenton's Field (Pluto)",
@@ -2037,22 +2037,22 @@
   "CrewBattleNode533": {
     "value": "Nodo Gap (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode534": {
     "value": "Lupal Pass (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode535": {
     "value": "Vand Cluster (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode536": {
     "value": "Peregrine Axis (Pluto)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode538": {
     "value": "Calabash (Veil)",
@@ -2062,7 +2062,7 @@
   "CrewBattleNode539": {
     "value": "Numina (Veil)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode540": {
     "value": "Arc Silver (Veil)",
@@ -2072,12 +2072,12 @@
   "CrewBattleNode541": {
     "value": "Erato (Veil)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode542": {
     "value": "Lu-yan (Veil)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode543": {
     "value": "Sambir Cloud (Veil)",
@@ -2087,31 +2087,31 @@
   "CrewBattleNode550": {
     "value": "Nsu Grid (Veil)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode551": {
     "value": "Ganalen's Grave (Veil)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode552": {
     "value": "Rya (Veil)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode553": {
     "value": "Flexa (Veil)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode554": {
     "value": "H-2 Cloud (Veil)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode555": {
     "value": "R-9 Cloud (Veil)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   }
 }
