@@ -234,8 +234,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Trickery"
     },
     {
-        "regex": "ultimatum",
-        "name": "Arcane Ultimatum",
+        "regex": "通牒",
+        "name": "通牒赋能",
         "effect": "On finisher, 25% / 50% / 75% / 100% chance\to give 150 / 300 / 450 / 600 Armor\nfor 10 / 20 / 30 / 40 seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
@@ -243,8 +243,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Ultimatum"
     },
     {
-        "regex": "velocity",
-        "name": "Arcane Velocity",
+        "regex": "迅速",
+        "name": "迅速赋能",
         "effect": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
