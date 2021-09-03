@@ -126,8 +126,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Guardian"
     },
     {
-        "regex": "healing",
-        "name": "Arcane Healing",
+        "regex": "复原",
+        "name": "复原赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -135,8 +135,8 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
     },
     {
-        "regex": "ice",
-        "name": "Arcane Ice",
+        "regex": "冰冷",
+        "name": "冰冷赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -144,8 +144,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Ice"
     },
     {
-        "regex": "momentum",
-        "name": "Arcane Momentum",
+        "regex": "动量",
+        "name": "动量赋能",
         "effect": "On critical hit, 10% / 20% / 30% / 40% chance\nto give 25% / 50% / 75% / 100% Fire Rate on Snipers\nfor 2 / 4 / 6 / 8 seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
@@ -153,8 +153,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Momentum"
     },
     {
-        "regex": "nullifier",
-        "name": "Arcane Nullifier",
+        "regex": "消磁",
+        "name": "消磁赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -162,8 +162,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Nullifier"
     },
     {
-        "regex": "phantasm",
-        "name": "Arcane Phantasm",
+        "regex": "幻象",
+        "name": "幻象赋能",
         "effect": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -171,8 +171,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Phantasm"
     },
     {
-        "regex": "precision",
-        "name": "Arcane Precision",
+        "regex": "精确",
+        "name": "精确赋能",
         "effect": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
