@@ -6,16 +6,16 @@
         "rarity": "罕见",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0d/ArcaneAgility.png/revision/latest?cb=20180306222818",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Acceleration"
+        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Acceleration"
     },
     {
         "regex": "aegis",
         "name": "Arcane Aegis",
         "effect": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/ArcaneAegis.png/revision/latest?cb=20180307005157",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Aegis"
+        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Aegis"
     },
     {
         "regex": "agility",
@@ -24,7 +24,7 @@
         "rarity": "罕见",
         "location": "Changing, check droptable",
         "thumbnail": "https://static.wikia.nocookie.net/warframe/images/0/0d/ArcaneAgility.png/revision/latest/scale-to-width-down/350?cb=20180306222818",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Agility"
+        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Agility"
     },
     {
         "regex": "arachne",
@@ -33,7 +33,7 @@
         "rarity": "罕见",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/ArcaneArachne.png/revision/latest?cb=20180307093502",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Arachne"
+        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Arachne"
     },
     {
         "regex": "avenger",
@@ -42,7 +42,7 @@
         "rarity": "罕见",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ab/ArcaneAvenger.png/revision/latest?cb=20180307102651",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Avenger"
+        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Avenger"
     },
     {
         "regex": "awakening",
@@ -51,13 +51,13 @@
         "rarity": "常见",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ae/ArcaneAwakening.png/revision/latest?cb=20180306223000",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Awakening"
+        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Awakening"
     },
     {
         "regex": "barrier",
         "name": "Arcane Barrier",
         "effect": "When DAMAGED, 1% / 2% / 3% / 4% chance to Full Shield Recovery",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f1/ArcaneBarrier.png/revision/latest?cb=20180306223903",
         "info": "http://warframe.wikia.com/wiki/Arcane_Barrier"
@@ -75,7 +75,7 @@
         "regex": "deflection",
         "name": "Arcane Deflection",
         "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/ArcaneDeflection.png/revision/latest?cb=20180306223029",
         "info": "http://warframe.wikia.com/wiki/Arcane_Deflection"
@@ -84,7 +84,7 @@
         "regex": "energize",
         "name": "Arcane Energize",
         "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/96/ArcaneEnergize.png/revision/latest?cb=20180306223752",
         "info": "http://warframe.wikia.com/wiki/Arcane_Energize"
@@ -111,7 +111,7 @@
         "regex": "grace",
         "name": "Arcane Grace",
         "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneGrace.png/revision/latest?cb=20180306223812",
         "info": "http://warframe.wikia.com/wiki/Arcane_Grace"
@@ -129,7 +129,7 @@
         "regex": "healing",
         "name": "Arcane Healing",
         "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "http://warframe.wikia.com/wiki/Arcane_Healing",
         "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
@@ -183,7 +183,7 @@
         "regex": "pulse",
         "name": "Arcane Pulse",
         "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8a/ArcanePulse.png/revision/latest?cb=20180307230924",
         "info": "http://warframe.wikia.com/wiki/Arcane_Pulse"
@@ -201,7 +201,7 @@
         "regex": "resistance",
         "name": "Arcane Resistance",
         "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcaneResistance.png/revision/latest?cb=20180306223202",
         "info": "http://warframe.wikia.com/wiki/Arcane_Resistance"
@@ -255,7 +255,7 @@
         "regex": "victory",
         "name": "Arcane Victory",
         "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
-        "rarity": "Rare",
+        "rarity": "稀有",
         "location": "Changing, check droptable",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9b/ArcaneVictory.png/revision/latest?cb=20180306004336",
         "info": "http://warframe.wikia.com/wiki/Arcane_Victory"
