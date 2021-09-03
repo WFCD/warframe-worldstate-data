@@ -1,7 +1,7 @@
 [
     {
-        "regex": "acceleration",
-        "name": "Arcane Acceleration",
+        "regex": "加速",
+        "name": "加速赋能",
         "effect": "On critical hit, 5% / 10% / 15% / 20% chance\nto give 15% / 30% / 45% / 60% Fire Rate to Rifles\nfor 1.5 / 3 / 4.5 / 6 Seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -9,8 +9,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Acceleration"
     },
     {
-        "regex": "aegis",
-        "name": "Arcane Aegis",
+        "regex": "神盾",
+        "name": "神盾赋能",
         "effect": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -18,8 +18,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Aegis"
     },
     {
-        "regex": "agility",
-        "name": "Arcane Agility",
+        "regex": "灵敏",
+        "name": "灵敏赋能",
         "effect": "When DAMAGED 3% / 6% / 9% / 16% chance \nto give 10% / 20% / 30% / 40% Movement Speed\nfor2 / 4 / 6 / 8 Seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -27,8 +27,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Agility"
     },
     {
-        "regex": "arachne",
-        "name": "Arcane Arachne",
+        "regex": "蜘蛛",
+        "name": "蜘蛛赋能",
         "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
