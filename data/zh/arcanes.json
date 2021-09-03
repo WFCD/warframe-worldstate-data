@@ -180,8 +180,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Precision"
     },
     {
-        "regex": "pulse",
-        "name": "Arcane Pulse",
+        "regex": "生机",
+        "name": "生机赋能",
         "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -189,8 +189,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Pulse"
     },
     {
-        "regex": "rage",
-        "name": "Arcane Rage",
+        "regex": "愤怒",
+        "name": "愤怒赋能",
         "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 30% / 60% / 90% / 120% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -198,8 +198,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Rage"
     },
     {
-        "regex": "resistance",
-        "name": "Arcane Resistance",
+        "regex": "抗毒",
+        "name": "抗毒赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -207,8 +207,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Resistance"
     },
     {
-        "regex": "strike",
-        "name": "Arcane Strike",
+        "regex": "速攻",
+        "name": "速攻赋能",
         "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
@@ -226,7 +226,7 @@
     },
     {
         "regex": "詭計",
-        "name": "Arcane Trickery",
+        "name": "詭計 賦能",
         "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
@@ -360,7 +360,7 @@
         "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Fury"
     },
     {
-        "regex": "strike",
+        "regex": "速攻",
         "name": "Virtuos Strike",
         "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "罕见",
