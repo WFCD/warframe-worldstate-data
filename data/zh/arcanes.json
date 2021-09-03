@@ -54,8 +54,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Awakening"
     },
     {
-        "regex": "barrier",
-        "name": "Arcane Barrier",
+        "regex": "壁垒",
+        "name": "壁垒赋能",
         "effect": "When DAMAGED, 1% / 2% / 3% / 4% chance to Full Shield Recovery",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -63,8 +63,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Barrier"
     },
     {
-        "regex": "consequence",
-        "name": "Arcane Consequence",
+        "regex": "结果",
+        "name": "结果赋能",
         "effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -72,8 +72,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Consequence"
     },
     {
-        "regex": "deflection",
-        "name": "Arcane Deflection",
+        "regex": "偏折",
+        "name": "偏折赋能",
         "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -81,8 +81,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Deflection"
     },
     {
-        "regex": "energize",
-        "name": "Arcane Energize",
+        "regex": "充沛",
+        "name": "充沛赋能",
         "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -90,8 +90,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Energize"
     },
     {
-        "regex": "eruption",
-        "name": "Arcane Eruption",
+        "regex": "爆发",
+        "name": "爆发赋能",
         "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -99,8 +99,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Eruption"
     },
     {
-        "regex": "fury",
-        "name": "Arcane Fury",
+        "regex": "狂怒",
+        "name": "狂怒赋能",
         "effect": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -108,8 +108,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Fury"
     },
     {
-        "regex": "grace",
-        "name": "Arcane Grace",
+        "regex": "优雅",
+        "name": "优雅赋能",
         "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -117,8 +117,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Grace"
     },
     {
-        "regex": "guardian",
-        "name": "Arcane Guardian",
+        "regex": "保卫者",
+        "name": "保卫者赋能",
         "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
@@ -351,7 +351,7 @@
         "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Tempo"
     },
     {
-        "regex": "fury",
+        "regex": "狂怒",
         "name": "Virtuos Fury",
         "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "罕见",
