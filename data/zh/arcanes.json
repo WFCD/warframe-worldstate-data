@@ -279,8 +279,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Magus_Vigor"
     },
     {
-        "regex": "husk",
-        "name": "Magus Husk",
+        "regex": "外壳",
+        "name": "魔导 外壳",
         "effect": "25 / 50 / 75 / 100 Increased Armor",
         "rarity": "罕见",
         "location": "夜羽",
@@ -288,8 +288,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Magus_Husk"
     },
     {
-        "regex": "cloud",
-        "name": "Magus Cloud",
+        "regex": "游云",
+        "name": "魔导 游云",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
         "rarity": "罕见",
         "location": "夜羽",
@@ -297,8 +297,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Magus_Cloud"
     },
     {
-        "regex": "cadence",
-        "name": "Magus Cadence",
+        "regex": "韵律",
+        "name": "魔导 韵律",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for 15% / 30% / 45% / 60% Increased sprint speed for 2 / 4 / 6 / 8 Seconds",
         "rarity": "罕见",
         "location": "夜羽",
@@ -306,8 +306,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Magus_Cadence"
     },
     {
-        "regex": "replenish",
-        "name": "Magus Replenish",
+        "regex": "充盈",
+        "name": "魔导 充盈",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
         "rarity": "罕见",
         "location": "夜羽",
@@ -315,8 +315,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Magus_Replenish"
     },
     {
-        "regex": "elevate",
-        "name": "Magus Elevate",
+        "regex": "振奋",
+        "name": "魔导 振奋",
         "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
         "rarity": "罕见",
         "location": "夜羽",
@@ -324,8 +324,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Magus_Elevate"
     },
     {
-        "regex": "nourish",
-        "name": "Magus Nourish",
+        "regex": "滋养",
+        "name": "魔导 滋养",
         "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
         "rarity": "罕见",
         "location": "夜羽",
@@ -333,8 +333,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Magus_Nourish"
     },
     {
-        "regex": "null",
-        "name": "Virtuos Null",
+        "regex": "空无",
+        "name": "正直 空无",
         "effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
         "rarity": "罕见",
         "location": "夜羽",
@@ -343,7 +343,7 @@
     },
     {
         "regex": "節奏",
-        "name": "Virtuos Tempo",
+        "name": "正直 节奏",
         "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
         "rarity": "罕见",
         "location": "夜羽",
@@ -352,7 +352,7 @@
     },
     {
         "regex": "狂怒",
-        "name": "Virtuos Fury",
+        "name": "正直 狂怒",
         "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "罕见",
         "location": "夜羽",
@@ -361,7 +361,7 @@
     },
     {
         "regex": "速攻",
-        "name": "Virtuos Strike",
+        "name": "正直 打击",
         "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "罕见",
         "location": "夜羽",
