@@ -1,7 +1,7 @@
 [
     {
         "regex": "加速",
-        "name": "加速赋能",
+        "name": "加速 赋能",
         "effect": "On critical hit, 5% / 10% / 15% / 20% chance\nto give 15% / 30% / 45% / 60% Fire Rate to Rifles\nfor 1.5 / 3 / 4.5 / 6 Seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -10,7 +10,7 @@
     },
     {
         "regex": "神盾",
-        "name": "神盾赋能",
+        "name": "神盾 赋能",
         "effect": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -19,7 +19,7 @@
     },
     {
         "regex": "灵敏",
-        "name": "灵敏赋能",
+        "name": "灵敏 赋能",
         "effect": "When DAMAGED 3% / 6% / 9% / 16% chance \nto give 10% / 20% / 30% / 40% Movement Speed\nfor2 / 4 / 6 / 8 Seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -28,7 +28,7 @@
     },
     {
         "regex": "蜘蛛",
-        "name": "蜘蛛赋能",
+        "name": "蜘蛛 赋能",
         "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -37,7 +37,7 @@
     },
     {
         "regex": "复仇者",
-        "name": "复仇者赋能",
+        "name": "复仇者 赋能",
         "effect": "When DAMAGED 3.5% / 7% / 10.5% / 14% chance\nfor 7.5% / 15% / 22.5% / 30% Additive Critical Chance\nfor 2 / 4 / 6 / 8 Seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -46,7 +46,7 @@
     },
     {
         "regex": "觉醒",
-        "name": "觉醒赋能",
+        "name": "觉醒 赋能",
         "effect": "On RELOAD 10% / 20% / 30% / 40% chance\nto add 25% / 50% / 75% / 100% Damage to Secondaries\n for 4 / 8 / 12 / 16 Seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
@@ -55,7 +55,7 @@
     },
     {
         "regex": "壁垒",
-        "name": "壁垒赋能",
+        "name": "壁垒 赋能",
         "effect": "When DAMAGED, 1% / 2% / 3% / 4% chance to Full Shield Recovery",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -64,7 +64,7 @@
     },
     {
         "regex": "结果",
-        "name": "结果赋能",
+        "name": "结果 赋能",
         "effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -73,7 +73,7 @@
     },
     {
         "regex": "偏折",
-        "name": "偏折赋能",
+        "name": "偏折 赋能",
         "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -91,7 +91,7 @@
     },
     {
         "regex": "爆发",
-        "name": "爆发赋能",
+        "name": "爆发 赋能",
         "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -109,7 +109,7 @@
     },
     {
         "regex": "优雅",
-        "name": "优雅赋能",
+        "name": "优雅 赋能",
         "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -118,7 +118,7 @@
     },
     {
         "regex": "保卫者",
-        "name": "保卫者赋能",
+        "name": "保卫者 赋能",
         "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
@@ -127,7 +127,7 @@
     },
     {
         "regex": "复原",
-        "name": "复原赋能",
+        "name": "复原 赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -136,7 +136,7 @@
     },
     {
         "regex": "冰冷",
-        "name": "冰冷赋能",
+        "name": "冰冷 赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -154,7 +154,7 @@
     },
     {
         "regex": "消磁",
-        "name": "消磁赋能",
+        "name": "消磁 赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -163,7 +163,7 @@
     },
     {
         "regex": "幻象",
-        "name": "幻象赋能",
+        "name": "幻象 赋能",
         "effect": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -181,7 +181,7 @@
     },
     {
         "regex": "生机",
-        "name": "生机赋能",
+        "name": "生机 赋能",
         "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -190,7 +190,7 @@
     },
     {
         "regex": "愤怒",
-        "name": "愤怒赋能",
+        "name": "愤怒 赋能",
         "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 30% / 60% / 90% / 120% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -199,7 +199,7 @@
     },
     {
         "regex": "抗毒",
-        "name": "抗毒赋能",
+        "name": "抗毒 赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -208,7 +208,7 @@
     },
     {
         "regex": "速攻",
-        "name": "速攻赋能",
+        "name": "速攻 赋能",
         "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
@@ -252,8 +252,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Velocity"
     },
     {
-        "regex": "victory",
-        "name": "Arcane Victory",
+        "regex": "胜利",
+        "name": "胜利 赋能",
         "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
@@ -261,8 +261,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Victory"
     },
     {
-        "regex": "warmth",
-        "name": "Arcane Warmth",
+        "regex": "温暖",
+        "name": "温暖 赋能",
         "effect": "20% / 40% / 60% / 80% chance to resist Cold proc",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
@@ -270,8 +270,8 @@
         "info": "https://warframe.huijiwiki.com/wiki/Arcane_Warmth"
     },
     {
-        "regex": "vigor",
-        "name": "Magus Vigor",
+        "regex": "活力",
+        "name": "魔导活力",
         "effect": "50 / 100 / 150 / 200 Increased Health",
         "rarity": "罕见",
         "location": "夜羽",
