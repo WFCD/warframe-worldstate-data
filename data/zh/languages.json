@@ -5617,7 +5617,7 @@
     "value": "Crowd Dispersion"
   },
   "/lotus/storeitems/types/sentinels/sentinelprecepts/ghost": {
-    "value": "Ghost"
+    "value": "幽灵"
   },
   "/lotus/storeitems/types/sentinels/sentinelprecepts/guardian": {
     "value": "Guardian"
@@ -6409,40 +6409,40 @@
     "value": "Any"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/armourondamage": {
-    "value": "Arcane Guardian"
+    "value": "保卫者 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/corrosiveprocresist": {
     "value": "Arcane Protection"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/critchanceondamage": {
-    "value": "复仇者赋能"
+    "value": "复仇者 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/electricityprocresist": {
-    "value": "Arcane Resistance"
+    "value": "抗毒 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/explosionprocresist": {
     "value": "Arcane Support"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/fireprocresist": {
-    "value": "Arcane Ice"
+    "value": "冰冷 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/freezeprocresist": {
-    "value": "Arcane Warmth"
+    "value": "温暖 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/gasprocresist": {
     "value": "Arcane Liquid"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/healthregenondamage": {
-    "value": "Arcane Grace"
+    "value": "优雅 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/impactprocresist": {
     "value": "Arcane Shield"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/instantshieldondamage": {
-    "value": "Arcane Barrier"
+    "value": "壁垒 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/magneticprocresist": {
-    "value": "Arcane Nullifier"
+    "value": "消磁 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/poisonprocresist": {
     "value": "Arcane Detoxifier"
@@ -6451,19 +6451,19 @@
     "value": "Arcane Defense"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/radiationprocresist": {
-    "value": "Arcane Healing"
+    "value": "复原 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/reflectdamageonparry": {
     "value": "Arcane Vengeance"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/slashprocresist": {
-    "value": "Arcane Deflection"
+    "value": "偏折 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/speedondamage": {
-    "value": "灵敏赋能"
+    "value": "灵敏 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/speedonparry": {
-    "value": "Arcane Phantasm"
+    "value": "幻象 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/viralprocresist": {
     "value": "Arcane Purity"
@@ -6472,19 +6472,19 @@
     "value": "Arcane Mercy"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/offensive/healthregenonheadshot": {
-    "value": "Arcane Victory"
+    "value": "胜利 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/offensive/invisibilityonfinisher": {
-    "value": "Arcane Trickery"
+    "value": "詭計 賦能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/offensive/longgundamageonheadshot": {
-    "value": "Arcane Rage"
+    "value": "愤怒 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/offensive/longgunspeedoncrit": {
-    "value": "加速赋能"
+    "value": "加速 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/offensive/meleespeedonhit": {
-    "value": "Arcane Strike"
+    "value": "速攻 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/utility/abilitydurationoncast": {
     "value": "Arcane Focus"
@@ -6499,13 +6499,13 @@
     "value": "Arcane Temperance"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/utility/pistoldamageonreload": {
-    "value": "觉醒赋能"
+    "value": "觉醒 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/utility/radialhealonhealthpickup": {
-    "value": "Arcane Pulse"
+    "value": "生机 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/utility/radialknockdownonenergypickup": {
-    "value": "Arcane Eruption"
+    "value": "爆发 赋能"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/utility/slowerbleedoutonpredeath": {
     "value": "Arcane Survival"
@@ -8626,7 +8626,7 @@
     "value": "Resilient Focus"
   },
   "/lotus/storeitems/upgrades/mods/warframe/avatardamagetoenergymod": {
-    "value": "Rage"
+    "value": "狂暴化"
   },
   "/lotus/storeitems/upgrades/mods/warframe/avatarenemyradarmod": {
     "value": "Enemy Sense"
@@ -8857,7 +8857,7 @@
     "value": "Antitoxin"
   },
   "/lotus/storeitems/upgrades/mods/warframe/expert/avatardamagetoenergymodexpert": {
-    "value": "Rage"
+    "value": "狂暴化"
   },
   "/lotus/storeitems/upgrades/mods/warframe/expert/avatarenemyradarmodexpert": {
     "value": "Enemy Sense"
@@ -8935,7 +8935,7 @@
     "value": "Shock Absorbers"
   },
   "/lotus/storeitems/upgrades/mods/warframe/intermediate/avatardamagetoenergymodintermediate": {
-    "value": "Rage"
+    "value": "狂暴化"
   },
   "/lotus/storeitems/upgrades/mods/warframe/intermediate/avatargroundfiredmgmodintermediate": {
     "value": "Provoked"
@@ -9478,7 +9478,7 @@
     "value": "Cicero Crisis Emblem"
   },
   "/lotus/storeitems/upgrades/skins/clan/leaderbadgeghostitem": {
-    "value": "Ghost Leader Emblem"
+    "value": "魂之领导者徽章"
   },
   "/lotus/storeitems/upgrades/skins/clan/leaderbadgemoonitem": {
     "value": "Moon Leader Emblem"

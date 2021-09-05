@@ -140,7 +140,7 @@
     "type": "殲滅"
   },
   "SolNode28": {
-    "value": "Terminus (Mercury)",
+    "value": "Terminus (水星)",
     "enemy": "雙方交戰",
     "type": "破壞"
   },
@@ -515,7 +515,7 @@
     "type": "間諜"
   },
   "SolNode103": {
-    "value": "M Prime (Mercury)",
+    "value": "M Prime (水星)",
     "enemy": "雙方交戰",
     "type": "殲滅"
   },
@@ -645,7 +645,7 @@
     "type": "殲滅"
   },
   "SolNode129": {
-    "value": "Orb Vallis (Venus)",
+    "value": "奥布山谷 (金星)",
     "enemy": "Corpus",
     "type": "自由探索"
   },
@@ -1130,12 +1130,12 @@
     "value": "Verdi (水星)"
   },
   "SolNode228": {
-    "value": "Plains of Eidolon (Earth)",
+    "value": "夜灵平野(地球)",
     "enemy": "Grineer",
     "type": "自由探索"
   },
   "SolNode229": {
-    "value": "Cambion Drift (Deimos)",
+    "value": "魔胎之境 (火卫二)",
     "enemy": "Infested",
     "type": "自由探索"
   },
@@ -1162,7 +1162,7 @@
   "SolNode404": {
     "value": "Stribog (虚空)",
     "enemy": "奥罗金",
-    "type": "Orokin Sabotage"
+    "type": "Orokin 破壞"
   },
   "SolNode405": {
     "value": "Ani (虚空)",
@@ -1195,7 +1195,7 @@
     "type": "移動防禦"
   },
   "SolNode411": {
-    "value": "Marduk (Void)",
+    "value": "Marduk (虚空)",
     "enemy": "奥罗金",
     "type": "破壞"
   },
@@ -1210,47 +1210,47 @@
     "type": "远古惩戒"
   },
   "SolNode706": {
-    "value": "Horend (Deimos)",
+    "value": "Horend (火卫二)",
     "enemy": "Infested",
     "type": "捕獲"
   },
   "SolNode707": {
-    "value": "Hyf (Deimos)",
+    "value": "Hyf (火卫二)",
     "enemy": "Infested",
     "type": "防禦"
   },
   "SolNode708": {
-    "value": "Phlegyas (Deimos)",
+    "value": "Phlegyas (火卫二)",
     "enemy": "Infested",
     "type": "殲滅"
   },
   "SolNode709": {
-    "value": "Dirus (Deimos)",
+    "value": "Dirus (火卫二)",
     "enemy": "Infested",
     "type": "移動防禦"
   },
   "SolNode710": {
-    "value": "Formido (Deimos)",
+    "value": "Formido (火卫二)",
     "enemy": "Infested",
     "type": "破壞"
   },
   "SolNode711": {
-    "value": "Terrorem (Deimos)",
+    "value": "Terrorem (火卫二)",
     "enemy": "Infested",
     "type": "生存"
   },
   "SolNode712": {
-    "value": "Magnacidium (Deimos)",
+    "value": "Magnacidium (火卫二)",
     "enemy": "Infested",
     "type": "刺殺"
   },
   "SolNode713": {
-    "value": "Exequias (Deimos)",
+    "value": "Exequias (火卫二)",
     "enemy": "Infested",
     "type": "刺殺"
   },
   "SolNode740": {
-    "value": "The Ropalolyst (Jupiter)",
+    "value": "蝠力使 (木星)",
     "enemy": "Sentient",
     "type": "刺殺"
   },
@@ -1302,7 +1302,7 @@
   "SolNode902": {
     "value": "Montes (金星)",
     "enemy": "Corpus",
-    "type": "Extermination (Archwing)"
+    "type": "殲滅 (Archwing)"
   },
   "SolNode903": {
     "value": "Erpo (地球)",
@@ -1312,7 +1312,7 @@
   "SolNode904": {
     "value": "Syrtis (火星)",
     "enemy": "Grineer",
-    "type": "Extermination (Archwing)"
+    "type": "殲滅 (Archwing)"
   },
   "SolNode905": {
     "value": "Galilea (木星)",
@@ -1520,7 +1520,7 @@
     "type": "远古惩戒"
   },
   "EventNode2": {
-    "value": "Operation Gate Crash",
+    "value": "行动代号：摧毁传送门",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
@@ -1530,7 +1530,7 @@
     "type": "远古惩戒"
   },
   "EventNode4": {
-    "value": "Proxy Rebellion",
+    "value": "机械叛乱",
     "enemy": "Corpus",
     "type": "生存"
   },
@@ -1540,12 +1540,12 @@
     "type": "远古惩戒"
   },
   "EventNode6": {
-    "value": "Tyl Reygor Seal Lab",
+    "value": "Tyl Reygor 深海研究所",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
   "EventNode7": {
-    "value": "Proxy Rebellion",
+    "value": "机械叛乱",
     "enemy": "Corpus",
     "type": "攔截"
   },
@@ -1555,7 +1555,7 @@
     "type": "远古惩戒"
   },
   "EventNode9": {
-    "value": "Operation Gate Crash Pt. 2",
+    "value": "行动代号：摧毁传送门 Pt. 2",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
@@ -1570,37 +1570,37 @@
     "type": "远古惩戒"
   },
   "EventNode12": {
-    "value": "Operation Cryotic Front",
+    "value": "行动代号：永冻晶矿前线",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
   "EventNode13": {
-    "value": "Shifting Sands",
+    "value": "流沙",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
   "EventNode14": {
-    "value": "Gate Crash",
+    "value": "摧毁传送门",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
   "EventNode15": {
-    "value": "Operation Cryotic Front",
+    "value": "行动代号：永冻晶矿前线",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
   "EventNode16": {
-    "value": "Operation Cryotic Front",
+    "value": "行动代号：永冻晶矿前线",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
   "EventNode17": {
-    "value": "Proxy Rebellion",
+    "value": "机械叛乱",
     "enemy": "Corpus",
     "type": "防禦"
   },
   "EventNode18": {
-    "value": "Proxy Rebellion",
+    "value": "机械叛乱",
     "enemy": "Corpus",
     "type": "防禦"
   },
@@ -1610,12 +1610,12 @@
     "type": "防禦"
   },
   "EventNode20": {
-    "value": "Tyl Regor Sea Lab",
+    "value": "Tyl Regor 深海研究所",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
   "EventNode22": {
-    "value": "Tyl Regor Sea Lab",
+    "value": "Tyl Regor 深海研究所",
     "enemy": "Sentient",
     "type": "远古惩戒"
   },
@@ -1685,12 +1685,12 @@
     "type": "競技場"
   },
   "EventNode762": {
-    "value": "The Index pt 2",
+    "value": "指數之場 Pt 2",
     "enemy": "Corpus",
     "type": "競技場"
   },
   "EventNode763": {
-    "value": "The Index Endurance",
+    "value": "指數之場：耐久",
     "enemy": "Corpus",
     "type": "競技場"
   },
@@ -1765,7 +1765,7 @@
     "type": "武形密儀"
   },
   "PvpNode14": {
-    "value": "Conclave: Quick Steel",
+    "value": "武形秘仪：急速锋刃",
     "enemy": "Tenno",
     "type": "武形密儀"
   },
@@ -1790,12 +1790,12 @@
     "type": "黑暗地帶挖掘"
   },
   "ClanNode4": {
-    "value": "Sinai (Jupiter)",
+    "value": "Sinai (木星)",
     "enemy": "Infested",
     "type": "黑暗地帶生存"
   },
   "ClanNode5": {
-    "value": "Cameria (Jupiter)",
+    "value": "Cameria (木星)",
     "enemy": "Infested",
     "type": "黑暗地帶生存"
   },
@@ -1900,19 +1900,19 @@
     "type": "黑暗地帶挖掘"
   },
   "/Lotus/Types/Keys/SortieBossKeyPhorid": {
-    "value": "Sortie Boss: Phorid",
+    "value": "突击 Boss: Phorid",
     "enemy": "Infested",
     "type": "刺殺"
   },
   "CrewBattleNode501": {
     "value": "Mordo Cluster (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode502": {
     "value": "Sover Strait (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode503": {
     "value": "Bifrost Echo (Venus)",
@@ -1925,24 +1925,24 @@
     "type": "防禦"
   },
   "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil)",
+    "value": "Ruse 战场 (面纱)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode509": {
     "value": "Iota Temple (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode510": {
-    "value": "Gian Point (Veil)",
+    "value": "Gian 点 (面纱)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode511": {
     "value": "Beacon Shield Ring (Venus)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode512": {
     "value": "Orvin-Haarc (Venus)",
@@ -1952,7 +1952,7 @@
   "CrewBattleNode513": {
     "value": "Vesper Strait (Venus)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode514": {
     "value": "Falling Glory (Venus)",
@@ -1972,32 +1972,32 @@
   "CrewBattleNode518": {
     "value": "Ogal Cluster (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode519": {
     "value": "Korm's Belt (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode521": {
     "value": "Enkidu Ice Drifts (Neptune)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode522": {
     "value": "Bendar Cluster (Earth)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode523": {
     "value": "Mammon's Prospect (Neptune)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode524": {
     "value": "Sovereign Grasp (Neptune)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode525": {
     "value": "Brom Cluster (Neptune)",
@@ -2007,7 +2007,7 @@
   "CrewBattleNode526": {
     "value": "Khufu Envoy (Pluto)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode527": {
     "value": "Seven Sirens (Pluto)",
@@ -2022,12 +2022,12 @@
   "CrewBattleNode529": {
     "value": "Profit Margin (Pluto)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode530": {
     "value": "Kasio's Rest (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode531": {
     "value": "Fenton's Field (Pluto)",
@@ -2037,81 +2037,81 @@
   "CrewBattleNode533": {
     "value": "Nodo Gap (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode534": {
     "value": "Lupal Pass (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode535": {
     "value": "Vand Cluster (Saturn)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode536": {
     "value": "Peregrine Axis (Pluto)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode538": {
-    "value": "Calabash (Veil)",
+    "value": "蒲芦 (面纱)",
     "enemy": "Corpus",
     "type": "殲滅"
   },
   "CrewBattleNode539": {
-    "value": "Numina (Veil)",
+    "value": "努秘 (面纱)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode540": {
-    "value": "Arc Silver (Veil)",
+    "value": "曲银之地 (面纱)",
     "enemy": "Corpus",
     "type": "防禦"
   },
   "CrewBattleNode541": {
-    "value": "Erato (Veil)",
+    "value": "深情之域 (面纱)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "奧菲斯"
   },
   "CrewBattleNode542": {
-    "value": "Lu-yan (Veil)",
+    "value": "鹿岩 (面纱)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "爆发"
   },
   "CrewBattleNode543": {
-    "value": "Sambir Cloud (Veil)",
+    "value": "萨米尔星云 (面纱)",
     "enemy": "Corpus",
     "type": "間諜"
   },
   "CrewBattleNode550": {
-    "value": "Nsu Grid (Veil)",
+    "value": "恩斯尤区格 (面纱)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode551": {
-    "value": "Ganalen's Grave (Veil)",
+    "value": "Ganalen 之墓 (面纱)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode552": {
-    "value": "Rya (Veil)",
+    "value": "Rya (面纱)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode553": {
-    "value": "Flexa (Veil)",
+    "value": "弗雷沙 (面纱)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode554": {
-    "value": "H-2 Cloud (Veil)",
+    "value": "H-2 星云 (面纱)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   },
   "CrewBattleNode555": {
-    "value": "R-9 Cloud (Veil)",
+    "value": "R-9 星云 (面纱)",
     "enemy": "Grineer",
-    "type": "Skirmish"
+    "type": "前哨战"
   }
 }
