@@ -1,6 +1,6 @@
 [
     {
-        "regex": "acceleration",
+        "regex": "Beschleunigung",
         "name": "Arcane Acceleration",
         "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance \n15% / 30% / 45% / 60% Feuerrate für Gewehre\nfür 1.5 / 3 / 4.5 / 6 Sekunden zu bekommen",
         "rarity": "Ungewöhnlich",
@@ -15,7 +15,7 @@
         "rarity": "Selten",
         "location": "Ändere, überprüfe Droptabelle",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/ArcaneAegis.png/revision/latest?cb=20180307005157&path-prefix=de",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Aegis"
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_%C3%84gis"
     },
     {
         "regex": "agility",
