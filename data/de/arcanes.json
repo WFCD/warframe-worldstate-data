@@ -9,7 +9,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Agilit%C3%A4t"
     },
     {
-        "regex": "aegis",
+        "regex": "Ägis",
         "name": "Arkana: Ägis",
         "effect": "Beim Erleiden von Schaden 1,5% / 3% / 4. % / 6% Chance\n15 / 30 / 45 / 60 Schildregeneration pro Sekunde\nfür 5 / 10 / 15 / 20 Sekunden zu geben",
         "rarity": "Selten",
@@ -18,7 +18,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_%C3%84gis"
     },
     {
-        "regex": "agility",
+        "regex": "Agilität",
         "name": "Arcane Agility",
         "effect": "Beim Erleiden von Schaden 3% / 6% / 9% / 16% Chance \n10% / 20% / 30% / 40% Bewegungsgeschwindigkeit\nfür 2 / 4 / 6 / 8 Sekunden zu geben",
         "rarity": "Ungewöhnlich",
@@ -81,7 +81,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Deflektion"
     },
     {
-        "regex": "energize",
+        "regex": "Antrieb",
         "name": "Arkana: Antrieb",
         "effect": "Beim Aufsammeln von Energie 10% / 20% / 30% / 40% Chance\n25 / 50 / 75 / 100 Energie von Verbündeten\ninnerhalb von 5 / 10 / 15 / 20 Metern aufzufüllen",
         "rarity": "Selten",
@@ -108,7 +108,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Furie"
     },
     {
-        "regex": "grace",
+        "regex": "Anmut",
         "name": "Arcane Grace",
         "effect": "Beim Erleiden von Schaden 1.5% / 3% / 4.5% / 6% Chance\nauf 1% / 2% / 3% / 4% Lebensregeneration pro Sekunde für 1.5 / 3 / 4.5 / 6 Sekunden zu erhalten",
         "rarity": "Selten",
@@ -117,7 +117,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Anmut"
     },
     {
-        "regex": "guardian",
+        "regex": "Beschützer",
         "name": "Arcane Guardian",
         "effect": "Beim Erleiden von Schaden 5% / 10% / 15% / 20% Chance\n150 / 300 / 450 / 600 Rüstung\nfür 5 / 10 / 15 / 20 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
@@ -162,7 +162,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Nullfeld"
     },
     {
-        "regex": "phantasm",
+        "regex": "Phantasma",
         "name": "Arcane Phantasm",
         "effect": "Beim Blocken 4% / 8% / 12% / 16% Chance\n5% / 10% / 15% / 20% erhöhte Bewegungsgeschwindigkeit\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -171,7 +171,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Phantasma"
     },
     {
-        "regex": "precision",
+        "regex": "Präzision",
         "name": "Arkana: Präzision",
         "effect": "Bei Kopftreffer 20% / 40% / 60% / 80% Chance\n30% / 60% / 90% / 120% erhöhten Schaden für Sekundärwaffen\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -180,7 +180,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Pr%C3%A4zision"
     },
     {
-        "regex": "pulse",
+        "regex": "Puls",
         "name": "Arcane Pulse",
         "effect": "Beim Aufheben von Leben 5% / 10% / 15% / 20% Chance\n25 / 50 / 75 / 100 Leben von Verbündeten\ninnerhalb von 5 / 10 / 15 / 20 Metern zu heilen",
         "rarity": "Selten",
@@ -189,7 +189,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Puls"
     },
     {
-        "regex": "rage",
+        "regex": "Rage",
         "name": "Arcane Rage",
         "effect": "Bei Kopftreffer 2.5% / 5% / 7.5% / 10% Chance\n30% / 60% / 90% / 120% erhöhten Schaden für Primärwaffen\nfür 4 / 8 / 12 / 16 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -198,7 +198,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Rage"
     },
     {
-        "regex": "resistance",
+        "regex": "Widerstand",
         "name": "Arcane Resistance",
         "effect": "20% / 40% / 60% / 80% Chance Elektrizitätsschaden zu widerstehen",
         "rarity": "Selten",
@@ -207,7 +207,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Widerstand"
     },
     {
-        "regex": "strike",
+        "regex": "Hieb",
         "name": "Arcane Strike",
         "effect": "Bei Treffer 2.5% / 5% / 7.5% / 10% Chance\n10% / 20% / 30% / 40% erhöhte Angriffsgeschwindigkeit für Nahkampfwaffen\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
@@ -360,7 +360,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Fury"
     },
     {
-        "regex": "strike",
+        "regex": "Hieb",
         "name": "Virtuos: Schlag",
         "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance 15% / 30% / 45% / 60% erhöhten kritischen Schaden für 1 / 2 / 3 / 4 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
