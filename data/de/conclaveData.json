@@ -53,7 +53,7 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
-      "title": "Focused Primary Target",
+      "title": "Fokussiertes Hauptziel",
       "description": "Töte 3 Gegner mit deiner primären Waffe",
       "standing": 3000
     },
@@ -68,168 +68,168 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
-      "title": "Focused Secondary Target",
+      "title": "Fokussiertes Sekundäres Ziel",
       "description": "Töte 3 Gegner mit deiner sekundären Waffe",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileSlidingEASY": {
-      "title": "Slide Strike",
-      "description": "Kill 1 enemy while Sliding",
+      "title": "Rutsch Angriff",
+      "description": "Töte einen Gegner während dem Rutschen",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileSlidingMEDIUM": {
-      "title": "Slide Strike",
-      "description": "Kill 4 enemies while Sliding",
+      "title": "Rutsch Angriff",
+      "description": "Töte 4 Gegner während dem Rutschen",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileSlidingHARD": {
-      "title": "Focused Slide Strike",
-      "description": "Kill 3 enemies while Sliding in a match",
+      "title": "Fokusierter Rutsch Angriff",
+      "description": "Töte 3 Gegner während dem Rutschen in einem Match",
       "standing": 3000
     },
     "PVPTimedChallengeKillsComboEASY": {
       "title": "Geschicklichkeit",
-      "description": "Kill 1 opponent using two of Melee, Guns, and Abilities",
+      "description": "Töte einen Gegner mit 2 der folgenden: Nahkampf, Waffen und Fähigkeiten",
       "standing": 500
     },
     "PVPTimedChallengeKillsComboMEDIUM": {
       "title": "Geschicklichkeit",
-      "description": "Kill 4 opponents using two of Melee, Guns, and Abilities",
+      "description": "Töte 4 Gegner mit 2 der folgenden: Nahkampf, Waffen und Fähigkeiten",
       "standing": 1500
     },
     "PVPTimedChallengeKillsComboHARD": {
-      "title": "Focused Dexterity",
-      "description": "Kill 3 opponents using two of Melee, Guns, and Abilities in a match",
+      "title": "Fokussierte Geschicklichkeit",
+      "description": "Töte 3 Gegner mit 2 der folgenden: Nahkampf, Waffen und Fähigkeiten",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMultiEASY": {
       "title": "Vielseitigkeit",
-      "description": "Kill 1 opponent using Melee, Guns, and Abilities",
+      "description": "Töte einen Gegner mit Nahkampf, Schusswaffen und Fähigkeiten",
       "standing": 500
     },
     "PVPTimedChallengeKillsMultiMEDIUM": {
       "title": "Vielseitigkeit",
-      "description": "Kill 4 opponents using Melee, Guns, and Abilities",
+      "description": "Töte 4 Gegner mit Nahkampf, Schusswaffen und Fähigkeiten",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMultiHARD": {
-      "title": "Focused Versatility",
-      "description": "Kill 3 opponents using Melee, Guns, and Abilities in a match",
+      "title": "Fokussierte Vielseitigkeit",
+      "description": "Töte 3 Gegner mit Nahkampf, Schusswaffen und Fähigkeiten in einer Runde",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakEASY": {
       "title": "Kill-Serie",
-      "description": "Go on 1 Kill Streak",
+      "description": "Erreiche eine 1 Kill Serie",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakMEDIUM": {
       "title": "Kill-Serie",
-      "description": "Go on 3 Kill Streaks",
+      "description": "Erreiche eine 3 Abschuss Serie",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakHARD": {
       "title": "Fokussierte Kill-Serie",
-      "description": "Go on 2 Kill Streaks in a match",
+      "description": "Erreiche eine 2 Abschuss Serie in einer Runde",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
-      "title": "Streak Stopped",
-      "description": "Kill 1 enemy on a Kill Streak",
+      "title": "Killserie gestoppt",
+      "description": "Töte einen Gegner auf einer Killserie",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
-      "title": "Streak Stopped",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "title": "Killserie gestoppt",
+      "description": "Töte 3 Gegner auf einer Killserie",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
-      "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "title": "Fokussierte Serie gestoppt",
+      "description": "Töte 2 Gegner auf einer Killserie in einer Runde",
       "standing": 3000
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
       "title": "Anti-air Strike",
-      "description": "Kill 1 Airborne enemy",
+      "description": "Töte 1 Feind in der Luft",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
       "title": "Anti-air Strike",
-      "description": "Kill 4 Airborne enemies",
+      "description": "Töte 4 Feinde in der Luft",
       "standing": 1500
     },
     "PVPTimedChallengeKillsTargetInAirHARD": {
       "title": "Focused Anti-air Strike",
-      "description": "Kill 3 Airborne enemies in a match",
+      "description": "Töte 3 Gegner während sie in der Luft sind in einem Spiel",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
-      "title": "Air Strike",
-      "description": "Kill 1 enemy while Airborne",
+      "title": "Luftschlag",
+      "description": "Töte einen Gegner aus der Luft",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirMEDIUM": {
-      "title": "Air Strike",
-      "description": "Kill 4 enemies while Airborne",
+      "title": "Luftschlag",
+      "description": "Töte 4 Gegner aus der Luft",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
-      "title": "Focused Air Strike",
-      "description": "Kill 3 enemies while Airborne in a match",
+      "title": "Fokussierter Luftschlag",
+      "description": "Töte 3 Gegner aus der Luft in einem Match",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
       "title": "Gladiator",
-      "description": "Get 1 Melee kill",
+      "description": "Erziele einen Nahkampfkill",
       "standing": 500
     },
     "PVPTimedChallengeKillsMeleeMEDIUM": {
       "title": "Gladiator",
-      "description": "Get 4 Melee kills",
+      "description": "Erziele 4 Nahkampfkill's",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMeleeHARD": {
-      "title": "Focused Gladiator",
-      "description": "Get 3 Melee kills in a match",
+      "title": "Fokussierter Gladiator",
+      "description": "Erziele 3 Nahkampfkill's in einem Spiel",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
-      "title": "Void-Painter",
-      "description": "Get 1 Warframe Ability kills",
+      "title": "Void-Maler",
+      "description": "Erziele einen Warframe Fähigkeitskill",
       "standing": 500
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
-      "title": "Void-Painter",
-      "description": "Get 4 Warframe Ability kills",
+      "title": "Void-Maler",
+      "description": "Erziele 4 Warframe Fähigkeitskill's",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPowerHARD": {
-      "title": "Focused Void-Painter",
-      "description": "Get 3 Warframe Ability kills in a match",
+      "title": "Fokussierter Void-Maler",
+      "description": "Erziele 3 Warframe Fähigkeitskill's in einer Runde",
       "standing": 3000
     },
     "PVPTimedChallengeKillsHeadShotsEASY": {
       "title": "Shootist",
-      "description": "Get 1 Headshot kill",
+      "description": "Erziele einen Kopfschusskill",
       "standing": 500
     },
     "PVPTimedChallengeKillsHeadShotsMEDIUM": {
       "title": "Shootist",
-      "description": "Get 4 Headshot kills",
+      "description": "Erziele 4 Kopfschusskill's",
       "standing": 1500
     },
     "PVPTimedChallengeKillsHeadShotsHARD": {
-      "title": "Focused Shootist",
-      "description": "Get 3 Headshot kills in a match",
+      "title": "Fokussierter Schütze",
+      "description": "Erziele 3 Headshotkill's in einem Spiel",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
       "title": "Domination",
-      "description": "Kill 1 enemy without them killing you",
+      "description": "Töte einen Feind, ohne dass er dich tötet",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakDominationMEDIUM": {
       "title": "Domination",
-      "description": "Kill 4 enemies without them killing you",
+      "description": "Töte 4 Feinde, ohne dass sie dich töten",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakDominationHARD": {
@@ -379,14 +379,14 @@
     },
     "PVPTimedChallengeOtherChallengeCompleteANY": {
       "title": "Conditioning",
-      "description": "Complete 10 Daily Challenges",
+      "description": "Schließe 10 tägliche Herausforderungen ab",
       "standing": 0
     }
   },
   "affectors": {
     "PVPTimedAffectorSuperEnergy": {
-      "title": "Energy Surge",
-      "description": "Energy Surge - Regain energy at a faster pace"
+      "title": "Energieschub",
+      "description": "Energieschub - Energie schneller zurückgewinnen"
     },
     "PVPTimedAffectorSuperMeleeDamage": {
       "title": "Extra Nahkampfschaden",
