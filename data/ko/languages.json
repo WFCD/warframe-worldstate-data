@@ -716,6 +716,12 @@
   "/lotus/language/events/halloweennaberusname": {
     "value": "Nights of Naberus"
   },
+  "/lotus/language/events/primevaulttrader": {
+    "value": "Prime Resurgence"
+  },
+  "/lotus/language/events/primevaulttraderdesc": {
+    "value": "Assemble the Prime Vanguard! For a limited time only, trade Aya with Varzia Dax in exchange for Vault Relics or Regal Aya for instant access to Prime Warframes, Weapons and Gear to reinforce your Arsenal for the coming war."
+  },
   "/lotus/language/events/tacalerthalloweenlantern": {
     "value": "Tactical Alert: Hallowed Flame"
   },
@@ -17960,6 +17966,9 @@
   },
   "/lotus/weapons/voidtrader/vtdetron": {
     "value": "마라 데트론"
+  },
+  "primevaulttrader": {
+    "value": "Varzia Dax"
   },
   "projectindex": {
     "value": "인덱스 포인트"
