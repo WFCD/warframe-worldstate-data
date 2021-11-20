@@ -53,7 +53,7 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
-      "title": "Focused Primary Target",
+      "title": "Cible Principale Désignée",
       "description": "Kill 3 enemies with your Primary Weapon in a match",
       "standing": 3000
     },
@@ -163,12 +163,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
-      "title": "Air Strike",
+      "title": "Attaque aérienne",
       "description": "Kill 1 enemy while Airborne",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirMEDIUM": {
-      "title": "Air Strike",
+      "title": "Attaque aérienne",
       "description": "Kill 4 enemies while Airborne",
       "standing": 1500
     },
@@ -253,12 +253,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
-      "title": "Liberator",
+      "title": "Libérateur",
       "description": "Return your team's Cephalon 1 time",
       "standing": 500
     },
     "PVPTimedChallengeFlagReturnMEDIUM": {
-      "title": "Liberator",
+      "title": "Libérateur",
       "description": "Return your team's Cephalon 4 times",
       "standing": 1500
     },
