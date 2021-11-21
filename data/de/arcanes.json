@@ -378,7 +378,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Shadow"
     },
     {
-        "regex": "ghost",
+        "regex": "Geist",
         "name": "Virtuos: Geist",
         "effect": "Bei Kopftreffer 10% / 20% / 30% / 40% Chance 15% / 30% / 45% / 60% zusätzliche Statuschance für 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -396,7 +396,7 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Brave"
     },
     {
-        "regex": "valor",
+        "regex": "Tapferkeit",
         "name": "Exodia: Tapferkeit",
         "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance 50% / 100% / 150% / 200% erhöhten Kanalisierungsschaden für 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -405,7 +405,7 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Valor"
     },
     {
-        "regex": "might",
+        "regex": "Macht",
         "name": "Exodia: Macht",
         "effect": "Bei Finisher 12.5% / 25% / 37.5% / 50% Chance 7.5% / 15% / 22.5% / 30% Lebensraub für 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -414,7 +414,7 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Might"
     },
     {
-        "regex": "triumph",
+        "regex": "Triumph",
         "name": "Exodia: Triumph",
         "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 50% / 100% / 150% / 200% erhöhten Kanalisierungsschaden für 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -423,39 +423,39 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Triumph"
     },
     {
-        "regex": "hunt",
+        "regex": "Jagd",
         "name": "Exodia: Jagd",
         "effect": "Bei Schmetterangriff 20% / 30% / 40% / 50% Chance Gegner in einem 6m / 8m / 10m / 12m Radius heranzuziehen",
         "rarity": "Ungewöhnlich",
         "location": "Hok's Schmiede",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/ExodiaHunt.png/revision/latest/scale-to-width-down/350?cb=20171129163001",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Hunt"
+        "info": "https://warframe.fandom.com/de/wiki/Exodia:_Jagd"
     },
     {
-        "regex": "force",
+        "regex": "Kraft",
         "name": "Exodia: Kraft",
         "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 80% / 100% / 120% / 150% Waffenschaden in 5m / 6m / 7m / 8m Radius zu verursachen",
         "rarity": "Ungewöhnlich",
         "location": "Hok's Schmiede",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/62/ExodiaForce.png/revision/latest/scale-to-width-down/350?cb=20171129162958",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Force"
+        "info": "https://warframe.fandom.com/de/wiki/Exodia:_Kraft"
     },
     {
-        "regex": "contagion",
+        "regex": "Infektion",
         "name": "Exodia: Infektion",
         "effect": "Nach einem Doppel- oder Projektilsprung: Nahkampfangriffe während des Zielgleitens verschießen ein Projektil, nachdem 30m zurückgelegt wurden wird der Projektilschaden um 100% / 200% / 300% / 400% erhöht, Rechweite ist von Gravitation abhängig",
         "rarity": "Ungewöhnlich",
-        "location": "Event Syndicate (Plague Star)",
+        "location": "Event-Syndikat (Plagenstern)",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/ExodiaContagion.png/revision/latest/scale-to-width-down/350?cb=20171129162953",
         "info": "http://warframe.wikia.com/wiki/Exodia_Contagion"
     },
     {
-        "regex": "epidemic",
+        "regex": "Epidemie",
         "name": "Exodia: Epidemie",
         "effect": "Nach einem Doppel- oder Projektilsprung: Stampfattacke sendet eine Schockwelle nach vorne aus, welche Gegner für 1s / 2s / 3s / 4s in die Luft befördert und Virusschaden bis zu 33m entfernt verursacht",
         "rarity": "Ungewöhnlich",
-        "location": "Event Syndicate (Plague Star)",
+        "location": "Event-Syndikat (Plagenstern)",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/ExodiaEpidemic.png/revision/latest/scale-to-width-down/350?cb=20171129162956",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Epidemic"
+        "info": "https://warframe.fandom.com/de/wiki/Exodia:_Epidemie"
     }
 ]
