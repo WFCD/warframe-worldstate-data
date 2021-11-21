@@ -208,12 +208,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsHeadShotsEASY": {
-      "title": "Shootist",
+      "title": "Schütze",
       "description": "Erziele einen Kopfschusskill",
       "standing": 500
     },
     "PVPTimedChallengeKillsHeadShotsMEDIUM": {
-      "title": "Shootist",
+      "title": "Schütze",
       "description": "Erziele 4 Kopfschusskill's",
       "standing": 1500
     },
@@ -223,33 +223,33 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
-      "title": "Domination",
+      "title": "Herrschaft",
       "description": "Töte einen Feind, ohne dass er dich tötet",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakDominationMEDIUM": {
-      "title": "Domination",
+      "title": "Herrschaft",
       "description": "Töte 4 Feinde, ohne dass sie dich töten",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakDominationHARD": {
-      "title": "Focused Domination",
-      "description": "Kill 3 enemies without them killing you in a match",
+      "title": "Fokussierte Herrschaft",
+      "description": "Töte 3 Gegner in einer Runde ohne das du stirbst",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPaybackEASY": {
       "title": "Revenge",
-      "description": "Kill 1 enemy that have killed you",
+      "description": "Töte einen Gegner der dich getötet hat",
       "standing": 500
     },
     "PVPTimedChallengeKillsPaybackMEDIUM": {
       "title": "Revenge",
-      "description": "Kill 4 enemies that have killed you",
+      "description": "Töte 4 Gegner, die dich getötet haben",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPaybackHARD": {
-      "title": "Focused Revenge",
-      "description": "Kill 3 enemies that have killed you in a match",
+      "title": "Fokussierte Rache",
+      "description": "Töte 3 Gegner in einer Runde die dich getötet haben",
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
@@ -328,7 +328,7 @@
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksHARD": {
-      "title": "Focused Blockade",
+      "title": "Fokussierte Blockade",
       "description": "Strike opponents carrying the ball 6 times in a match",
       "standing": 6000
     },
@@ -354,26 +354,26 @@
     },
     "PVPTimedChallengeMatchCompleteEASY": {
       "title": "See it Through",
-      "description": "Complete 1 match",
+      "description": "Schließe 1 Spiel ab",
       "standing": 500
     },
     "PVPTimedChallengeMatchCompleteMEDIUM": {
       "title": "See it Through",
-      "description": "Complete 4 matches",
+      "description": "Schließe 4 Spiele ab",
       "standing": 1500
     },
     "PVPTimedChallengeWeeklyStandardSet": {
-      "title": "Weekly Mission",
-      "description": "Weekly Mission",
+      "title": "Wöchentliche Mission",
+      "description": "Wöchentliche Mission",
       "standing": 50000
     },
     "PVPTimedChallengeGameModeWins": {
-      "title": "Match Won",
-      "description": "Win 6 matches of any Game Type",
+      "title": "Runde gewonnen",
+      "description": "Gewinne 6 Spiele eines beliebigen Spieltyps",
       "standing": 0
     },
     "PVPTimedChallengeGameModeComplete": {
-      "title": "Match Complete",
+      "title": "Runde abgeschlossen",
       "description": "Complete 20 matches of any Game Type",
       "standing": 0
     },
