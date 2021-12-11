@@ -6,7 +6,7 @@ const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr
 
 /**
  * Synthesis target information
- * @typedef {synthesisTarget}
+ * @typedef {Object} SynthesisTarget
  * @property {string} name Name of the target
  * @property {Object[]} locations Array of verified locations
  * @property {string} locations.last_verified Date string for the last verified date
@@ -19,12 +19,29 @@ const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr
  */
 
 /**
+ * Arcane Data
+ * @typedef {Object} Arcane
+ * @deprecated
+ * @property {string} regex regex string to allow mapping
+ * @property {string} name name of Arcane
+ * @property {string} effect what the arcane does
+ * @property {string} rarity How rare the arcane is
+ * @property {string} location Where it drops
+ * @property {string} thumbnail Wiki thumbnail url
+ * @property {string} info Wiki Page URL
+ */
+
+/**
+ * Conclave Data
+ * @typedef {Object} Conclave
+ */
+
+/**
  * Bundles all the data for a particular language
- * @typedef {WorldstateLangBundle}
- *
- * @property {Arcane[]} arcanes Array of arcane data
- * @property {Object}   conclave Data for translating PvP categories and types
- * @deprecated @property {Object} events Data for converting event tags to useable event data.
+ * @typedef {Object} WorldstateLangBundle
+ * @property {Arcane[]} arcanes Deprecated: Array of arcane data
+ * @property {Conclave} conclave Data for translating PvP categories and types
+ * @property {Object} events Deprecated: Data for converting event tags to useable event data.
  *    Deprecated in favor of keeping values in languages.json
  * @property {Object} factions Faction universal name to plain-usage name
  * @property {Object} fissureModifiers Map of fissures to "Warframeified" tier names and numbers
@@ -35,9 +52,10 @@ const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr
  * @property {Object} persistentEnemy Region mapping for indicies to planets
  * @property {Object} solNodes Nodes in the Sol system, with enemy type and node information
  * @property {Object} sortie Sortie-specific mapping for modifier type, description, and boss
- * @property {Object[]} tutorials Official tutorials. Not many have been released in a long time.
+ * @property {Array<Object>} tutorials Official tutorials.
+ *                                      Not many have been released in a long time.
  * @property {Object} upgradeTypes Global upgrade types that are modified by #operationTypes
- * @property {synthesisTarget[]} synthTargets Synthesis target data for
+ * @property {Array<SynthesisTarget>} synthTargets Synthesis target data for
  *  optimal locations to find targets.
  */
 
