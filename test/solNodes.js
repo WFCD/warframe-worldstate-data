@@ -77,7 +77,7 @@ const solNodesSchema = {
   },
   type: 'object',
   patternProperties: {
-    'Node\\d|HUB$|^/Lotus': { $ref: '#/definitions/solNode' },
+    'Node\\d|HUB\\d?$|^/Lotus': { $ref: '#/definitions/solNode' },
   },
 };
 
