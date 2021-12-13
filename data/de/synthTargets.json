@@ -39,7 +39,7 @@
                 "level": "10-15",
                 "faction": "Befallene",
                 "spawn_rate": "100%",
-                "mission": "Hepit (Unconfirmed)",
+                "mission": "Hepit (Unbestätigt)",
                 "planet": "Void",
                 "type": "Gefangennahme"
             }
@@ -119,7 +119,7 @@
         "locations": [
             {
                 "last_verified": "2019-01-23",
-                "level": "23-33",
+                "level": "2019-02-03",
                 "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Cholistan",
@@ -141,7 +141,7 @@
                 "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Capture",
-                "planet": "Derelict",
+                "planet": "Wrack",
                 "type": "Gefangennahme"
             }
         ]
@@ -539,7 +539,7 @@
                 "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Orokin Wrack Attentat",
-                "planet": "Derelict",
+                "planet": "Wrack",
                 "type": "Attentat"
             }
         ]
@@ -940,7 +940,7 @@
                 "level": "30-40",
                 "faction": "Grineer",
                 "spawn_rate": "100%",
-                "mission": "Selkie (Unconfirmed)",
+                "mission": "Selkie (Unbestätigt)",
                 "planet": "Sedna",
                 "type": "Überleben"
             }
@@ -963,7 +963,7 @@
                 "level": "21-23",
                 "faction": "Corpus",
                 "spawn_rate": "100%",
-                "mission": "Orias (Unconfirmed)",
+                "mission": "Orias (Unbestätigt)",
                 "planet": "Europa",
                 "type": "Rettung"
             }
@@ -987,7 +987,7 @@
                 "faction": "Befallene",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Exterminate",
-                "planet": "Derelict",
+                "planet": "Wrack",
                 "type": "Auslöschung"
             }
         ]
