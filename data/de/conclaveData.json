@@ -253,98 +253,98 @@
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
-      "title": "Liberator",
-      "description": "Return your team's Cephalon 1 time",
+      "title": "Befreier",
+      "description": "Bringe den Cephalon deines Teams einmal zurück",
       "standing": 500
     },
     "PVPTimedChallengeFlagReturnMEDIUM": {
-      "title": "Liberator",
-      "description": "Return your team's Cephalon 4 times",
+      "title": "Befreier",
+      "description": "Bringe den Cephalon deines Teams 4 mal zurück",
       "standing": 1500
     },
     "PVPTimedChallengeFlagCaptureEASY": {
       "title": "Bandit",
-      "description": "Capture 1 Cephalon",
+      "description": "Erobere 1 Cephalon",
       "standing": 500
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
       "title": "Bandit",
-      "description": "Capture 4 Cephalons",
+      "description": "Erobere 4 Cephalons",
       "standing": 1500
     },
     "PVPTimedChallengeSpeedballCatchesEASY": {
-      "title": "Heads Up!",
-      "description": "Catch 3 Passes from teammates",
+      "title": "Vorsicht!",
+      "description": "Fange 3 Pässe von Teammitgliedern",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
-      "title": "Heads Up!",
-      "description": "Catch 10 Passes from teammates",
+      "title": "Vorsicht!",
+      "description": "Fange 10 Pässe von Teammitgliedern",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballCatchesHARD": {
-      "title": "Focused Heads Up!",
-      "description": "Catch 6 Passes from teammates in a match",
+      "title": "Fokussierte Vorsicht!",
+      "description": "Fange 6 Pässe von Teamkameraden in einem Spiel",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballInterceptionsEASY": {
-      "title": "Interception!",
-      "description": "Intercept 3 Passes from opponents",
+      "title": "Abfangen!",
+      "description": "3 Pässe von Gegnern abfangen",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
-      "title": "Interception!",
-      "description": "Intercept 6 Passes from opponents",
+      "title": "Abfangen!",
+      "description": "6 Pässe von Gegnern abfangen",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballInterceptionsHARD": {
-      "title": "Focused Interception!",
-      "description": "Intercept 3 Passes from opponents in a match",
+      "title": "Fokussiertes Abfang!",
+      "description": "Fange 3 Pässe von Gegnern in einem Spiel ab",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballStealsEASY": {
-      "title": "Snatch and Grab",
-      "description": "Steal the ball 3 times",
+      "title": "Abnehmen und schnappen",
+      "description": "Stiehle den Ball 3 mal",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballStealsMEDIUM": {
-      "title": "Snatch and Grab",
-      "description": "Steal the ball 6 times",
+      "title": "Abnehmen und schnappen",
+      "description": "Stiehle den Ball 6 mal",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballStealsHARD": {
-      "title": "Focused Snatch and Grab",
-      "description": "Steal the ball 3 times in a match",
+      "title": "Fokussiertes abnehmen und schnappen",
+      "description": "Stiehle den Ball 3 mal in einem Spiel",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksEASY": {
       "title": "Blockade",
-      "description": "Strike opponents carrying the ball 3 times",
+      "description": "Treffe Gegner die den Ball tragen 3 mal",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
       "title": "Blockade",
-      "description": "Strike opponents carrying the ball 10 times",
+      "description": "Treffe Gegner die den Ball tragen 10 mal",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksHARD": {
       "title": "Fokussierte Blockade",
-      "description": "Strike opponents carrying the ball 6 times in a match",
+      "description": "Treffe Gegner die den Ball tragen 6 mal",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballPassesEASY": {
-      "title": "Send It!",
-      "description": "Complete 3 Successful Passes to teammates",
+      "title": "Werf ihn!",
+      "description": "Schließe 3 erfolgreiche Pässe an Teammitglieder ab",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballPassesMEDIUM": {
-      "title": "Send It!",
-      "description": "Complete 6 Successful Passes to teammates",
+      "title": "Werf ihn!",
+      "description": "Schließe 6 erfolgreiche Pässe an Teammitglieder ab",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballPassesHARD": {
-      "title": "Focused Send It!",
-      "description": "Complete 3 Successful Passes to teammates in a match",
+      "title": "Fokussierter Wurf!",
+      "description": "Schließe 3 erfolgreiche Pässe an Teammitglieder ab",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballGoalsEASY": {
@@ -353,12 +353,12 @@
       "standing": 1000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
-      "title": "See it Through",
+      "title": "Durchsehen",
       "description": "Schließe 1 Spiel ab",
       "standing": 500
     },
     "PVPTimedChallengeMatchCompleteMEDIUM": {
-      "title": "See it Through",
+      "title": "Durchsehen",
       "description": "Schließe 4 Spiele ab",
       "standing": 1500
     },
@@ -374,11 +374,11 @@
     },
     "PVPTimedChallengeGameModeComplete": {
       "title": "Runde abgeschlossen",
-      "description": "Complete 20 matches of any Game Type",
+      "description": "Gewinne 20 Spiele eines beliebigen Spieltyps",
       "standing": 0
     },
     "PVPTimedChallengeOtherChallengeCompleteANY": {
-      "title": "Conditioning",
+      "title": "Bedingungen",
       "description": "Schließe 10 tägliche Herausforderungen ab",
       "standing": 0
     }

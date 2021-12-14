@@ -36,7 +36,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Arachnid"
     },
     {
-        "regex": "avenger",
+        "regex": "Rächer",
         "name": "Arcane Avenger",
         "effect": "Beim Erleiden von Schaden 3.5% / 7% / 10.5% / 14% Chance \n7.5% / 15% / 22.5% / 30% zusätzlich kritische Trefferchance\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -45,7 +45,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_R%C3%A4cher"
     },
     {
-        "regex": "awakening",
+        "regex": "Erwachen",
         "name": "Arkane Erwachen",
         "effect": "Beim Nachladen 10% / 20% / 30% / 40% Chance\n25% / 50% / 75% / 100% zusätzlichen Schaden für Sekundärwaffen\nfür 4 / 8 / 12 / 16 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
@@ -54,7 +54,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Erwachen"
     },
     {
-        "regex": "barrier",
+        "regex": "Barriere",
         "name": "Arcane Barrier",
         "effect": "Beim Erleiden von Schaden 1% / 2% / 3% / 4% Chance Schilde wieder vollständig aufzuladen",
         "rarity": "Selten",
@@ -63,7 +63,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Barriere"
     },
     {
-        "regex": "consequence",
+        "regex": "Konsequenz",
         "name": "Arkana: Konsequenz",
         "effect": "Bei Kopftreffer 25% / 50% / 75% / 100% Chance\n10% / 20% / 30% / 40% erhöhtes Zielgleiten/Wandhalten\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -72,7 +72,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Konsequenz"
     },
     {
-        "regex": "deflection",
+        "regex": "Deflektion",
         "name": "Arcane Deflection",
         "effect": "20% / 40% / 60% / 80% Chance dem Schnittstatuseffekt zu wiederstehen",
         "rarity": "Selten",
@@ -90,7 +90,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Antrieb"
     },
     {
-        "regex": "eruption",
+        "regex": "Eruption",
         "name": "Arcane Eruption",
         "effect": "Beim Aufsammeln von Energie 5% / 10% / 15% / 20% Chance\nGegner innerhalb von 5 / 10 / 15 / 20 Metern umzuwerfen",
         "rarity": "Ungewöhnlich",
@@ -99,7 +99,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Eruption"
     },
     {
-        "regex": "fury",
+        "regex": "Furie",
         "name": "Arkana: Furie",
         "effect": "Bei kritischem Treffer 10% / 20% / 30% / 40% Chance\n30% / 60% / 90% / 120% erhöhten Nahkampfschaden\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -126,7 +126,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Besch%C3%BCtzer"
     },
     {
-        "regex": "healing",
+        "regex": "Heilung",
         "name": "Arcane Healing",
         "effect": "20% / 40% / 60% / 80% Chance Strahlungsschaden zu widerstehen",
         "rarity": "Selten",
@@ -135,7 +135,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Heilung"
     },
     {
-        "regex": "ice",
+        "regex": "Eis",
         "name": "Arcane Ice",
         "effect": "20% / 40% / 60% / 80% Chance Hitzeschaden zu widerstehen",
         "rarity": "Ungewöhnlich",
@@ -144,7 +144,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Eis"
     },
     {
-        "regex": "momentum",
+        "regex": "Momentum",
         "name": "Arkana: Momentum",
         "effect": "Bei kritischem Treffer 10% / 20% / 30% / 40% Chance\n25% / 50% / 75% / 100% Feuerrate für Sniper\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
@@ -153,7 +153,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Momentum"
     },
     {
-        "regex": "nullifier",
+        "regex": "Nullfeld",
         "name": "Arcane Nullifier",
         "effect": "20% / 40% / 60% / 80% Chance Magnetismusschaden zu widerstehen",
         "rarity": "Ungewöhnlich",
@@ -216,7 +216,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Hieb"
     },
     {
-        "regex": "tempo",
+        "regex": "Tempo",
         "name": "Arkana: Tempo",
         "effect": "Bei kritischem Treffer 2.5% / 5% / 7.5% / 10% Chance\n15% / 30% / 45% / 60% erhöhte Feuerrate für Schrotflinten\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
@@ -225,7 +225,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Tempo"
     },
     {
-        "regex": "trickery",
+        "regex": "Trickserei",
         "name": "Arcane Trickery",
         "effect": "Nach Finisher 2.5% / 5% / 7.5% / 10% Chance\nfür 5 / 10 / 15 / 20 Sekunden unsichtbar zu werden",
         "rarity": "Gewöhnlich",
@@ -234,7 +234,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Trickserei"
     },
     {
-        "regex": "ultimatum",
+        "regex": "Ultimatum",
         "name": "Arkana: Ultimatum",
         "effect": "Nach Finisher 25% / 50% / 75% / 100% Chance 150 / 300 / 450 / 600 Rüstung\nfür 10 / 20 / 30 / 40 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
@@ -243,7 +243,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Ultimatum"
     },
     {
-        "regex": "velocity",
+        "regex": "Geschwindigkeit",
         "name": "Arkana: Geschwindigkeit",
         "effect": "Bei kritischem Treffer 15% / 30% / 45% / 60% Chance\n20% / 40% / 60% / 80% erhöhte Feuerrate für Sekundärwaffen\nfür 1.5 / 3 / 4.5 / 6 Sekunden zu erhalten",
         "rarity": "Gewöhnlich",
@@ -252,7 +252,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Geschwindigkeit"
     },
     {
-        "regex": "victory",
+        "regex": "Sieg",
         "name": "Arcane Victory",
         "effect": "Bei Kopftreffer 2% / 4% / 6% / 8% Chance\n0.5% / 1.0% / 1.5% / 2.0% Lebensregeneration pro Sekunde\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Selten",
@@ -261,7 +261,7 @@
         "info": "https://warframe.fandom.com/de/wiki/Arkana:_Sieg"
     },
     {
-        "regex": "warmth",
+        "regex": "Wärme",
         "name": "Arcane Warmth",
         "effect": "20% / 40% / 60% / 80% Chance Kälteschaden zu widerstehen",
         "rarity": "Ungewöhnlich",
@@ -333,7 +333,7 @@
         "info": "http://warframe.wikia.com/wiki/Magus_Nourish"
     },
     {
-        "regex": "null",
+        "regex": "Nullfeld",
         "name": "Virtuos: Leere",
         "effect": "Bei Kill 5% / 10% / 15% / 20% erhöhte Verstärker-Energieregeneration für 1 / 2 / 3 / 4 Sekunden",
         "rarity": "Ungewöhnlich",
@@ -342,7 +342,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Null"
     },
     {
-        "regex": "tempo",
+        "regex": "Tempo",
         "name": "Virtuos: Tempo",
         "effect": "Bei Kill 15% / 30% / 45% / 60% Chance 15% / 30% / 45% / 60% erhöhte Feuerrrate für 2 / 4 / 6 / 8 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
@@ -351,7 +351,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
     },
     {
-        "regex": "fury",
+        "regex": "Furie",
         "name": "Virtuos: Wut",
         "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 7.5% / 15% / 22.5% / 30% erhöhten Schaden für 1 / 2 / 3 / 4 Sekunden zu erhalten",
         "rarity": "Ungewöhnlich",
