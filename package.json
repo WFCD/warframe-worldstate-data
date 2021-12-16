@@ -22,7 +22,7 @@
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "lint:fix": "eslint --ignore-path .gitignore . --fix",
-    "test": " nyc --reporter=text mocha",
+    "test": " nyc mocha",
     "coverage": "npm test && nyc report --reporter=text-lcov | coveralls",
     "sort": "python tools/sort_languages.py"
   },
@@ -104,5 +104,16 @@
       "no-await-in-loop": "off",
       "import/no-unresolved": 0
     }
-  }
+  },
+  "nyc": {
+    "exclude": [
+      "test/**"
+    ],
+    "reporter": [
+      "lcov",
+      "text"
+    ],
+    "skip-full": true
+  },
+  "mocha": {}
 }
