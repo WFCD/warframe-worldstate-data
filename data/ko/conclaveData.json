@@ -381,6 +381,16 @@
       "title": "Conditioning",
       "description": "Complete 10 Daily Challenges",
       "standing": 0
+    },
+    "PVPTimedChallengeSpeedballGoalsHARD": {
+      "title": "Focused Goal!",
+      "description": "Score 4 Goals in a match",
+      "standing": 6000
+    },
+    "PVPTimedChallengeKillsPayback_MEDIUM": {
+      "title": "리벤지",
+      "description": "Kill 3 enemies that have killed you",
+      "standing": 1500
     }
   },
   "affectors": {

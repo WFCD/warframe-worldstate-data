@@ -13863,6 +13863,12 @@
   "/lotus/types/gameplay/eidolon/jobs/events/infestedplainsbounty": {
     "value": "Plague Star"
   },
+  "/lotus/types/gameplay/eidolon/jobs/narmer/attritionbountyext": {
+    "value": "For the Unum (New War)"
+  },
+  "/lotus/types/gameplay/eidolon/jobs/narmer/attritionbountylib": {
+    "value": "Bring Them Home (New War)"
+  },
   "/lotus/types/gameplay/eidolon/jobs/reclamationbountycache": {
     "value": "Find the Hidden Artifact"
   },
@@ -13913,6 +13919,12 @@
   },
   "/lotus/types/gameplay/infestedmicroplanet/jobs/deimospurifybounty": {
     "value": "Anomaly Retrieval"
+  },
+  "/lotus/types/gameplay/venus/jobs/narmer/narmervenusculljobexterminate": {
+    "value": "Crush the Cult (New War)"
+  },
+  "/lotus/types/gameplay/venus/jobs/narmer/narmervenustheftjobexcavation": {
+    "value": "Digging for Narmer (New War)"
   },
   "/lotus/types/gameplay/venus/jobs/venusartifactjobambush": {
     "value": "Courier Ambush"
