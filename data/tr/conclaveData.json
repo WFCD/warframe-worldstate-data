@@ -132,15 +132,30 @@
       "description": "Go on 2 Kill Streaks in a match",
       "standing": 3000
     },
+    "PVPTimedChallengeKillsStreakStopped_EASY": {
+      "title": "Streak Stopped",
+      "description": "Kill 1 enemy on a Kill Streak",
+      "standing": 500
+    },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
       "title": "Streak Stopped",
       "description": "Kill 1 enemy on a Kill Streak",
       "standing": 500
     },
+    "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
+      "title": "Streak Stopped",
+      "description": "Kill 3 enemies on a Kill Streak",
+      "standing": 1500
+    },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
       "title": "Streak Stopped",
       "description": "Kill 3 enemies on a Kill Streak",
       "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakStopped_HARD": {
+      "title": "Focused Streak Stopped",
+      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
       "title": "Focused Streak Stopped",

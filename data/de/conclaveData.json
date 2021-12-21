@@ -132,15 +132,30 @@
       "description": "Erreiche eine 2 Abschuss Serie in einer Runde",
       "standing": 3000
     },
+    "PVPTimedChallengeKillsStreakStopped_EASY": {
+      "title": "Killserie gestoppt",
+      "description": "Töte einen Gegner auf einer Killserie",
+      "standing": 500
+    },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
       "title": "Killserie gestoppt",
       "description": "Töte einen Gegner auf einer Killserie",
       "standing": 500
     },
+    "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
+      "title": "Killserie gestoppt",
+      "description": "Töte 3 Gegner auf einer Killserie",
+      "standing": 1500
+    },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
       "title": "Killserie gestoppt",
       "description": "Töte 3 Gegner auf einer Killserie",
       "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakStopped_HARD": {
+      "title": "Fokussierte Serie gestoppt",
+      "description": "Töte 2 Gegner auf einer Killserie in einer Runde",
+      "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
       "title": "Fokussierte Serie gestoppt",
