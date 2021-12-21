@@ -132,15 +132,30 @@
       "description": "Splňte 2 Série Zabití v zápase",
       "standing": 3000
     },
+    "PVPTimedChallengeKillsStreakStopped_EASY": {
+      "title": "Série Zastavena",
+      "description": "Zabijte 1 nepřítele v Sérii Zabití",
+      "standing": 500
+    },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
       "title": "Série Zastavena",
       "description": "Zabijte 1 nepřítele v Sérii Zabití",
       "standing": 500
     },
+    "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
+      "title": "Série Zastavena",
+      "description": "Zabijte 3 nepřátele v Sérii Zabití",
+      "standing": 1500
+    },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
       "title": "Série Zastavena",
       "description": "Zabijte 3 nepřátele v Sérii Zabití",
       "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakStopped_HARD": {
+      "title": "Zaměřená Série Zastavena",
+      "description": "Zabijte 2 nepřátele v Séríi Zabití v zápase",
+      "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
       "title": "Zaměřená Série Zastavena",
