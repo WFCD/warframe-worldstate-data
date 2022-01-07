@@ -249,32 +249,32 @@
     },
     "PVPTimedChallengeKillsStreakDominationHARD": {
       "title": "Focused Domination",
-      "description": "Kill 3 enemies without them killing you in a match",
+      "description": "Убейте 3 оппонентов, не умирая, за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPaybackEASY": {
       "title": "Месть",
-      "description": "Kill 1 enemy that have killed you",
+      "description": "Убейте 1 оппонента, убившего вас",
       "standing": 500
     },
     "PVPTimedChallengeKillsPaybackMEDIUM": {
       "title": "Месть",
-      "description": "Kill 4 enemies that have killed you",
+      "description": "Убейте 4 оппонентов, убивших вас",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPaybackHARD": {
       "title": "Focused Revenge",
-      "description": "Kill 3 enemies that have killed you in a match",
+      "description": "Убейте 3 оппонентов, убивших вас, за матч",
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
       "title": "Liberator",
-      "description": "Return your team's Cephalon 1 time",
+      "description": "Верните 1 Цефалон Вашей команды",
       "standing": 500
     },
     "PVPTimedChallengeFlagReturnMEDIUM": {
       "title": "Liberator",
-      "description": "Return your team's Cephalon 4 times",
+      "description": "Верните 4 Цефалонов Вашей команды",
       "standing": 1500
     },
     "PVPTimedChallengeFlagCaptureEASY": {
@@ -329,17 +329,17 @@
     },
     "PVPTimedChallengeSpeedballStealsHARD": {
       "title": "Focused Snatch and Grab",
-      "description": "Steal the ball 3 times in a match",
+      "description": "Завладейте мячом 3 раза за матч",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksEASY": {
       "title": "Blockade",
-      "description": "Strike opponents carrying the ball 3 times",
+      "description": "Блокировать 3 раз оппонентов с мячом",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
       "title": "Blockade",
-      "description": "Strike opponents carrying the ball 10 times",
+      "description": "Блокировать 10 раз оппонентов с мячом",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksHARD": {
@@ -348,13 +348,13 @@
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballPassesEASY": {
-      "title": "Send It!",
-      "description": "Complete 3 Successful Passes to teammates",
+      "title": "Бросай его!",
+      "description": "Передать 3 раза мяч товарищам по команде",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballPassesMEDIUM": {
-      "title": "Send It!",
-      "description": "Complete 6 Successful Passes to teammates",
+      "title": "Бросай его!",
+      "description": "Передать 6 раз мяч товарищам по команде",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballPassesHARD": {
