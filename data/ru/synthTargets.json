@@ -14,7 +14,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Гринир против Зараженных",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Меркурий",
@@ -39,7 +39,7 @@
                 "level": "10-15",
                 "faction": "Заражение",
                 "spawn_rate": "100%",
-                "mission": "Hepit (Unconfirmed)",
+                "mission": "Hepit (Не подтверждено)",
                 "planet": "Бездна",
                 "type": "Захват"
             }
@@ -141,7 +141,7 @@
                 "faction": "Заражение",
                 "spawn_rate": "100%",
                 "mission": "Захват Руин Орокин",
-                "planet": "Derelict",
+                "planet": "Руины",
                 "type": "Захват"
             }
         ]
@@ -275,20 +275,20 @@
             {
                 "last_verified": "2019-06-27",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Гринир против Зараженных",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Меркурий",
-                "type": "Crossfire Sabotage"
+                "type": "Перестрелка Диверсия"
             },
             {
                 "last_verified": "2019-09-01",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "Гринир против Зараженных",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "Меркурий",
-                "type": "Crossfire Exterminate"
+                "type": "Перестрелка Зачистка"
             },
             {
                 "last_verified": "2019-06-27",
@@ -509,7 +509,7 @@
             {
                 "last_verified": "2019-05-30",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "Гринир против Зараженных",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Европа",
@@ -538,8 +538,8 @@
                 "level": "25-35",
                 "faction": "Заражение",
                 "spawn_rate": "100%",
-                "mission": "Orokin Derelict Assassination",
-                "planet": "Derelict",
+                "mission": "Руины Орокин: Убийство",
+                "planet": "Руины",
                 "type": "Убийство"
             }
         ]
@@ -874,20 +874,20 @@
             {
                 "last_verified": "2019-01-13",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "Гринир против Зараженных",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "Меркурий",
-                "type": "Crossfire Sabotage"
+                "type": "Перестрелка Диверсия"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "Гринир против Зараженных",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "Меркурий",
-                "type": "Crossfire Exterminate"
+                "type": "Перестрелка Зачистка"
             }
         ]
     },
@@ -940,7 +940,7 @@
                 "level": "30-40",
                 "faction": "Гринир",
                 "spawn_rate": "100%",
-                "mission": "Selkie (Unconfirmed)",
+                "mission": "Selkie (Не подтверждено)",
                 "planet": "Седна",
                 "type": "Выживание"
             }
@@ -963,7 +963,7 @@
                 "level": "21-23",
                 "faction": "Корпус",
                 "spawn_rate": "100%",
-                "mission": "Orias (Unconfirmed)",
+                "mission": "Orias (Не подтверждено)",
                 "planet": "Европа",
                 "type": "Спасение"
             }
@@ -987,7 +987,7 @@
                 "faction": "Заражение",
                 "spawn_rate": "100%",
                 "mission": "Зачиска Руин Орокин",
-                "planet": "Derelict",
+                "planet": "Руины",
                 "type": "Зачистка"
             }
         ]
@@ -1144,7 +1144,7 @@
             {
                 "last_verified": "2019-01-19",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "Гринир против Зараженных",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Европа",
