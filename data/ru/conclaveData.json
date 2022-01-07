@@ -134,47 +134,47 @@
     },
     "PVPTimedChallengeKillsStreakStopped_EASY": {
       "title": "Серия Прервана",
-      "description": "Убейте 1 врага в Серии Убийств",
+      "description": "Убейте 1 врага подряд",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
       "title": "Серия Прервана",
-      "description": "Убейте 1 врага в Серии Убийств",
+      "description": "Убейте 1 врага подряд",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
       "title": "Серия Прервана",
-      "description": "Убейте 3 врагов в Серии Убийств",
+      "description": "Убейте 3 врагов подряд",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
       "title": "Серия Прервана",
-      "description": "Убейте 3 врагов в Серии Убийств",
+      "description": "Убейте 3 врагов подряд",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStopped_HARD": {
       "title": "Focused Streak Stopped",
-      "description": "Убейте 2 врагов в Серии Убийств за матч",
+      "description": "Убейте 2 врагов подряд за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
       "title": "Focused Streak Stopped",
-      "description": "Убейте 2 врагов в Серии Убийств за матч",
+      "description": "Убейте 2 врагов подряд за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
-      "title": "Anti-air Strike",
+      "title": "Анти Воздушный Удар",
       "description": "Убейте 1 оппонента, находящегося в воздухе",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
-      "title": "Anti-air Strike",
-      "description": "Kill 4 Airborne enemies",
+      "title": "Анти Воздушный Удар",
+      "description": "Убейте 4 оппонентов, которые находятся в воздухе",
       "standing": 1500
     },
     "PVPTimedChallengeKillsTargetInAirHARD": {
       "title": "Focused Anti-air Strike",
-      "description": "Kill 3 Airborne enemies in a match",
+      "description": "Убейте 3 оппонентов, которые находятся в воздухе за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
@@ -184,12 +184,12 @@
     },
     "PVPTimedChallengeKillsWhileInAirMEDIUM": {
       "title": "Воздушный Удар",
-      "description": "Kill 4 enemies while Airborne",
+      "description": "Убейте 4 оппонентов, находясь в воздухе",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
       "title": "Focused Air Strike",
-      "description": "Kill 3 enemies while Airborne in a match",
+      "description": "Убейте 3 оппонентов за матч, находясь в воздухе",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
@@ -219,7 +219,7 @@
     },
     "PVPTimedChallengeKillsPowerHARD": {
       "title": "Focused Void-Painter",
-      "description": "Get 3 Warframe Ability kills in a match",
+      "description": "Убейте 3 оппонентов Способностями за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsHeadShotsEASY": {
@@ -229,22 +229,22 @@
     },
     "PVPTimedChallengeKillsHeadShotsMEDIUM": {
       "title": "Стрелок",
-      "description": "Get 4 Headshot kills",
+      "description": "Убейте 4 оппонентов в голову",
       "standing": 1500
     },
     "PVPTimedChallengeKillsHeadShotsHARD": {
       "title": "Focused Shootist",
-      "description": "Get 3 Headshot kills in a match",
+      "description": "Убейте 3 оппонентов в голову за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
-      "title": "Domination",
-      "description": "Kill 1 enemy without them killing you",
+      "title": "Превосходство",
+      "description": "Убейте 1 оппонента, не умирая",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakDominationMEDIUM": {
-      "title": "Domination",
-      "description": "Kill 4 enemies without them killing you",
+      "title": "Превосходство",
+      "description": "Убейте 4 оппонентов, не умирая",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakDominationHARD": {
