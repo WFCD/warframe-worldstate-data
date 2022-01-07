@@ -49,12 +49,12 @@
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
       "title": "Основная Цель",
-      "description": "Убейте 4 врага, используя основное оружие",
+      "description": "Убейте 4 оппонента, используя основное оружие",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
       "title": "Focused Primary Target",
-      "description": "Kill 3 enemies with your Primary Weapon in a match",
+      "description": "Убейте 3 оппонента, используя Основное Оружие, за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
@@ -88,33 +88,33 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsComboEASY": {
-      "title": "Dexterity",
-      "description": "Kill 1 opponent using two of Melee, Guns, and Abilities",
+      "title": "Ловкость",
+      "description": "Убейте 1 оппонента, используя любые два из: Оружие Ближнего Боя, Стрелковое Оружие, Способности",
       "standing": 500
     },
     "PVPTimedChallengeKillsComboMEDIUM": {
-      "title": "Dexterity",
-      "description": "Kill 4 opponents using two of Melee, Guns, and Abilities",
+      "title": "Ловкость",
+      "description": "Убейте 4 оппонентов, используя любые два из: Оружие Ближнего Боя, Стрелковое Оружие, Способности",
       "standing": 1500
     },
     "PVPTimedChallengeKillsComboHARD": {
       "title": "Focused Dexterity",
-      "description": "Kill 3 opponents using two of Melee, Guns, and Abilities in a match",
+      "description": "Убейте 3 оппонентов, используя любые два из: Оружие Ближнего Боя, Стрелковое Оружие, Способности за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMultiEASY": {
-      "title": "Versatility",
-      "description": "Kill 1 opponent using Melee, Guns, and Abilities",
+      "title": "Гибкость",
+      "description": "Убейте 1 оппонента, используя: Оружие Ближнего Боя, Стрелковое Оружие, Способности",
       "standing": 500
     },
     "PVPTimedChallengeKillsMultiMEDIUM": {
-      "title": "Versatility",
-      "description": "Kill 4 opponents using Melee, Guns, and Abilities",
+      "title": "Гибкость",
+      "description": "Убейте 4 оппонентов, используя: Оружие Ближнего Боя, Стрелковое Оружие, Способности",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMultiHARD": {
       "title": "Focused Versatility",
-      "description": "Kill 3 opponents using Melee, Guns, and Abilities in a match",
+      "description": "Убейте 3 оппонентов, используя: Оружие Ближнего Боя, Стрелковое Оружие, Способности за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakEASY": {
@@ -124,7 +124,7 @@
     },
     "PVPTimedChallengeKillsStreakMEDIUM": {
       "title": "Серия Убийств",
-      "description": "Go on 3 Kill Streaks",
+      "description": "Совершите серию из 3 Убийств",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakHARD": {
@@ -133,33 +133,33 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStopped_EASY": {
-      "title": "Streak Stopped",
-      "description": "Kill 1 enemy on a Kill Streak",
+      "title": "Серия Прервана",
+      "description": "Убейте 1 врага в Серии Убийств",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
-      "title": "Streak Stopped",
-      "description": "Kill 1 enemy on a Kill Streak",
+      "title": "Серия Прервана",
+      "description": "Убейте 1 врага в Серии Убийств",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
-      "title": "Streak Stopped",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "title": "Серия Прервана",
+      "description": "Убейте 3 врагов в Серии Убийств",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
-      "title": "Streak Stopped",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "title": "Серия Прервана",
+      "description": "Убейте 3 врагов в Серии Убийств",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStopped_HARD": {
       "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "description": "Убейте 2 врагов в Серии Убийств за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
       "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "description": "Убейте 2 врагов в Серии Убийств за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
