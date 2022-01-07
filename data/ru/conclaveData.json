@@ -188,7 +188,7 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
-      "title": "Focused Air Strike",
+      "title": "Идеальный Воздушный Удар",
       "description": "Убейте 3 оппонентов за матч, находясь в воздухе",
       "standing": 3000
     },
@@ -313,8 +313,8 @@
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballInterceptionsHARD": {
-      "title": "Focused Interception!",
-      "description": "Intercept 3 Passes from opponents in a match",
+      "title": "Идеальный Перехват!",
+      "description": "Перехватите 3 передачи оппонентов за матч",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballStealsEASY": {
@@ -348,23 +348,23 @@
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballPassesEASY": {
-      "title": "Бросай его!",
-      "description": "Передать 3 раза мяч товарищам по команде",
+      "title": "Send It!",
+      "description": "Передать 3 раз мяч товарищам по команде",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballPassesMEDIUM": {
-      "title": "Бросай его!",
+      "title": "Send It!",
       "description": "Передать 6 раз мяч товарищам по команде",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballPassesHARD": {
       "title": "Focused Send It!",
-      "description": "Complete 3 Successful Passes to teammates in a match",
+      "description": "Передать 3 раз мяч товарищам по команде за матч",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballGoalsEASY": {
-      "title": "Goal!",
-      "description": "Score 2 Goals",
+      "title": "Гол!",
+      "description": "Забить 2 Гола",
       "standing": 1000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
@@ -378,8 +378,8 @@
       "standing": 1500
     },
     "PVPTimedChallengeWeeklyStandardSet": {
-      "title": "Weekly Mission",
-      "description": "Weekly Mission",
+      "title": "Еженедельная Миссия",
+      "description": "Еженедельная Миссия",
       "standing": 50000
     },
     "PVPTimedChallengeGameModeWins": {
@@ -398,13 +398,13 @@
       "standing": 0
     },
     "PVPTimedChallengeSpeedballGoalsHARD": {
-      "title": "Focused Goal!",
-      "description": "Score 4 Goals in a match",
+      "title": "Идеальный Гол!",
+      "description": "Забейте 4 Гола за матч",
       "standing": 6000
     },
     "PVPTimedChallengeKillsPayback_MEDIUM": {
       "title": "Месть",
-      "description": "Kill 3 enemies that have killed you",
+      "description": "Убейте 3 оппонентов, убивших вас",
       "standing": 1500
     }
   },
