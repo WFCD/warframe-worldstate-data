@@ -141,7 +141,7 @@
                 "faction": "Заражение",
                 "spawn_rate": "100%",
                 "mission": "Захват Руин Орокин",
-                "planet": "Derelict",
+                "planet": "Руины",
                 "type": "Захват"
             }
         ]
@@ -539,7 +539,7 @@
                 "faction": "Заражение",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Assassination",
-                "planet": "Derelict",
+                "planet": "Руины",
                 "type": "Убийство"
             }
         ]
@@ -940,7 +940,7 @@
                 "level": "30-40",
                 "faction": "Гринир",
                 "spawn_rate": "100%",
-                "mission": "Selkie (Unconfirmed)",
+                "mission": "Selkie (Не подтверждено)",
                 "planet": "Седна",
                 "type": "Выживание"
             }
@@ -963,7 +963,7 @@
                 "level": "21-23",
                 "faction": "Корпус",
                 "spawn_rate": "100%",
-                "mission": "Orias (Unconfirmed)",
+                "mission": "Orias (Не подтверждено)",
                 "planet": "Европа",
                 "type": "Спасение"
             }
@@ -987,7 +987,7 @@
                 "faction": "Заражение",
                 "spawn_rate": "100%",
                 "mission": "Зачиска Руин Орокин",
-                "planet": "Derelict",
+                "planet": "Руины",
                 "type": "Зачистка"
             }
         ]
