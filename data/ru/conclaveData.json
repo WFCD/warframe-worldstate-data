@@ -22,11 +22,11 @@
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
       "value": "недельный",
-      "description": "Weekly"
+      "description": "Еженедельно"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "недельное испытание",
-      "description": "Weekly Category"
+      "description": "Еженедельная категория"
     },
     "PVPChallengeTypeCategory_DAILY": {
       "value": "day",
@@ -49,7 +49,7 @@
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
       "title": "Основная Цель",
-      "description": "Kill 4 enemies with your Primary Weapon",
+      "description": "Убейте 4 врага, используя основное оружие",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
