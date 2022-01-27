@@ -3,27 +3,31 @@ pull_request_rules:
     conditions:
       - "approved-reviews-by=@WFCD/node-libraries"
       - "author=wfcd-bot-boi"
-      - "status-success=Travis CI - Branch"
-      - "status-success=Travis CI - Pull Request"
+      - "status-success=Actions / Lint (15.x) (pull_request)"
+      - "status-success=Actions / Test (15.x) (pull_request)"
+      - "status-success=Actions / Test (14.x) (pull_request)"
+      - "status-success=Actions / Test (13.x) (pull_request)"
+      - "status-success=Actions / Test (12.x) (pull_request)"
+      - "status-success=Actions / Test (11.x) (pull_request)"
       - "status-success=WIP"
       - "status-success=codeclimate"
       - "status-success=security/snyk (TobiTenno)"
     actions:
       merge:
         method: squash
-        strict: true
-        strict_method: rebase
   - name: Automerge snyk PRs that Pass
     conditions:
       - "approved-reviews-by=@WFCD/node-libraries"
       - "author=snyk-bot"
-      - "status-success=Travis CI - Branch"
-      - "status-success=Travis CI - Pull Request"
+      - "status-success=Actions / Lint (15.x) (pull_request)"
+      - "status-success=Actions / Test (15.x) (pull_request)"
+      - "status-success=Actions / Test (14.x) (pull_request)"
+      - "status-success=Actions / Test (13.x) (pull_request)"
+      - "status-success=Actions / Test (12.x) (pull_request)"
+      - "status-success=Actions / Test (11.x) (pull_request)"
       - "status-success=WIP"
       - "status-success=codeclimate"
       - "status-success=security/snyk (TobiTenno)"
     actions:
       merge:
         method: squash
-        strict: true
-        strict_method: rebase
