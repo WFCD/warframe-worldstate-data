@@ -145,7 +145,7 @@
     },
     {
         "regex": "élan",
-        "name": "Arcane Momentum",
+        "name": "Arcane Élan",
         "effect": "On critical hit, 10% / 20% / 30% / 40% chance\nto give 25% / 50% / 75% / 100% Fire Rate on Snipers\nfor 2 / 4 / 6 / 8 seconds",
         "rarity": "Commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -172,7 +172,7 @@
     },
     {
         "regex": "précision",
-        "name": "Arcane Precision",
+        "name": "Arcane Précision",
         "effect": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
         "rarity": "Peu commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -244,7 +244,7 @@
     },
     {
         "regex": "vélocité",
-        "name": "Arcane Velocity",
+        "name": "Arcane Vélocité",
         "effect": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
         "rarity": "Commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -271,7 +271,7 @@
     },
     {
         "regex": "vigueur",
-        "name": "Magus Vigor",
+        "name": "Magus Vigueur",
         "effect": "50 / 100 / 150 / 200 Increased Health",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -280,7 +280,7 @@
     },
     {
         "regex": "coquille",
-        "name": "Magus Husk",
+        "name": "Magus Coquille",
         "effect": "25 / 50 / 75 / 100 Increased Armor",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -289,7 +289,7 @@
     },
     {
         "regex": "nuage",
-        "name": "Magus Cloud",
+        "name": "Magus Nuage",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -307,7 +307,7 @@
     },
     {
         "regex": "alimentation",
-        "name": "Magus Replenish",
+        "name": "Magus Alimentation",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -316,7 +316,7 @@
     },
     {
         "regex": "magnification",
-        "name": "Magus Elevate",
+        "name": "Magus Magnification",
         "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -324,8 +324,8 @@
         "info": "http://warframe.wikia.com/wiki/Magus_Elevate"
     },
     {
-        "regex": "nourish",
-        "name": "Magus Nourish",
+        "regex": "sustentation",
+        "name": "Magus Sustentation",
         "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -334,7 +334,7 @@
     },
     {
         "regex": "null",
-        "name": "Virtuos Null",
+        "name": "Virtuos Zéro",
         "effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -352,7 +352,7 @@
     },
     {
         "regex": "furie",
-        "name": "Virtuos Fury",
+        "name": "Virtuos Furie",
         "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -361,7 +361,7 @@
     },
     {
         "regex": "attaque",
-        "name": "Virtuos Strike",
+        "name": "Virtuos Attaque",
         "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -370,7 +370,7 @@
     },
     {
         "regex": "ombre",
-        "name": "Virtuos Shadow",
+        "name": "Virtuos Ombre",
         "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Multiplicative critical chance for 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -379,7 +379,7 @@
     },
     {
         "regex": "fantôme",
-        "name": "Virtuos Ghost",
+        "name": "Virtuos Fantôme",
         "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Increased status chance for 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
         "location": "Les Plumes",
@@ -396,7 +396,7 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Brave"
     },
     {
-        "regex": "valor",
+        "regex": "bravoure",
         "name": "Exodia Valor",
         "effect": "On critical hit, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased channeling damage for 3 / 6 / 9 / 12 Seconds",
         "rarity": "Peu commun",
@@ -405,7 +405,7 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Valor"
     },
     {
-        "regex": "might",
+        "regex": "puissance",
         "name": "Exodia Might",
         "effect": "On finishers, 12.5% / 25% / 37.5% / 50% chance for 7.5% / 15% / 22.5% / 30% Lifesteal for 2 / 4 / 6 / 8 seconds",
         "rarity": "Peu commun",
@@ -414,7 +414,7 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Might"
     },
     {
-        "regex": "triumph",
+        "regex": "triomphe",
         "name": "Exodia Triumph",
         "effect": "On status effect, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased Channeling damage 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
@@ -423,7 +423,7 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Triumph"
     },
     {
-        "regex": "hunt",
+        "regex": "chasse",
         "name": "Exodia Hunt",
         "effect": "On slam attack, 20% / 30% / 40% / 50% chance to pull in nearby enemies within 6m / 8m / 10m / 12m",
         "rarity": "Peu commun",
@@ -450,7 +450,7 @@
         "info": "http://warframe.wikia.com/wiki/Exodia_Contagion"
     },
     {
-        "regex": "epidemic",
+        "regex": "épidémie",
         "name": "Exodia Epidemic",
         "effect": "After a double jump or bullet jump, on slam attack, Projects damaging wave that suspends enemies in the air, dealing Viral damage up to 33m away for 1s / 2s / 3s / 4s",
         "rarity": "Peu commun",
