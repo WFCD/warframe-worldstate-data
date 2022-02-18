@@ -353,7 +353,7 @@
     {
         "regex": "furie",
         "name": "Virtuos Furie",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
+        "effect": "Sur effet de statut, 5% / 10% / 15% / 20% de chance pour 7.5% / 15% / 22,5% / 30% de dégâts supplémentaires pendant 1 / 2 / 3 / 4 secondes",
         "rarity": "Peu commun",
         "location": "Les Plumes",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
@@ -397,7 +397,7 @@
     },
     {
         "regex": "bravoure",
-        "name": "Exodia Valor",
+        "name": "Exodia Bravoure",
         "effect": "On critical hit, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased channeling damage for 3 / 6 / 9 / 12 Seconds",
         "rarity": "Peu commun",
         "location": "Hok's Anvil",
@@ -406,7 +406,7 @@
     },
     {
         "regex": "puissance",
-        "name": "Exodia Might",
+        "name": "Exodia Puissance",
         "effect": "On finishers, 12.5% / 25% / 37.5% / 50% chance for 7.5% / 15% / 22.5% / 30% Lifesteal for 2 / 4 / 6 / 8 seconds",
         "rarity": "Peu commun",
         "location": "Hok's Anvil",
@@ -415,8 +415,8 @@
     },
     {
         "regex": "triomphe",
-        "name": "Exodia Triumph",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased Channeling damage 3 / 6 / 9 / 12 seconds",
+        "name": "Exodia Triomphe",
+        "effect": "Sur effet de statut, 5% / 10% / 15% / 20% de chance pour 50% / 100% / 150% / 200% d'augmentation des dégâts de canalisation 3 / 6 / 9 / 12 secondes",
         "rarity": "Peu commun",
         "location": "Hok's Anvil",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/00/ExodiaTriumph.png/revision/latest/scale-to-width-down/350?cb=20171129163006",
@@ -424,7 +424,7 @@
     },
     {
         "regex": "chasse",
-        "name": "Exodia Hunt",
+        "name": "Exodia Chasse",
         "effect": "On slam attack, 20% / 30% / 40% / 50% chance to pull in nearby enemies within 6m / 8m / 10m / 12m",
         "rarity": "Peu commun",
         "location": "Hok's Anvil",
@@ -442,7 +442,7 @@
     },
     {
         "regex": "contagion",
-        "name": "Exodia Contation",
+        "name": "Exodia Contagion",
         "effect": "After a double jump or bullet jump, on air attack, 100% / 200% / 300% / 400% projectile damage after 30m, range determined by gravity",
         "rarity": "Peu commun",
         "location": "Event Syndicate (Plague Star)",
@@ -451,7 +451,7 @@
     },
     {
         "regex": "épidémie",
-        "name": "Exodia Epidemic",
+        "name": "Exodia Épidémie",
         "effect": "After a double jump or bullet jump, on slam attack, Projects damaging wave that suspends enemies in the air, dealing Viral damage up to 33m away for 1s / 2s / 3s / 4s",
         "rarity": "Peu commun",
         "location": "Event Syndicate (Plague Star)",
