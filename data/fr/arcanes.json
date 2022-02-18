@@ -126,7 +126,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Guardian"
     },
     {
-        "regex": "healing",
+        "regex": "guérison",
         "name": "Arcane Healing",
         "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
         "rarity": "Rare",
@@ -135,7 +135,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
     },
     {
-        "regex": "ice",
+        "regex": "glace",
         "name": "Arcane Glace",
         "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
         "rarity": "Peu commun",
@@ -144,7 +144,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Ice"
     },
     {
-        "regex": "momentum",
+        "regex": "élan",
         "name": "Arcane Momentum",
         "effect": "On critical hit, 10% / 20% / 30% / 40% chance\nto give 25% / 50% / 75% / 100% Fire Rate on Snipers\nfor 2 / 4 / 6 / 8 seconds",
         "rarity": "Commun",
@@ -153,7 +153,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Momentum"
     },
     {
-        "regex": "nullifier",
+        "regex": "zéro",
         "name": "Arcane Zéro",
         "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
         "rarity": "Peu commun",
@@ -162,7 +162,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Nullifier"
     },
     {
-        "regex": "phantasm",
+        "regex": "fantasme",
         "name": "Arcane Phantasm",
         "effect": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
@@ -171,7 +171,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Phantasm"
     },
     {
-        "regex": "precision",
+        "regex": "précision",
         "name": "Arcane Precision",
         "effect": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
         "rarity": "Peu commun",
@@ -180,7 +180,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Precision"
     },
     {
-        "regex": "pulse",
+        "regex": "pulsation",
         "name": "Arcane Pulse",
         "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
         "rarity": "Rare",
@@ -198,7 +198,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Rage"
     },
     {
-        "regex": "resistance",
+        "regex": "résistance",
         "name": "Arcane Resistance",
         "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
         "rarity": "Rare",
@@ -207,7 +207,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Resistance"
     },
     {
-        "regex": "strike",
+        "regex": "attaque",
         "name": "Arcane Strike",
         "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
         "rarity": "Commun",
@@ -225,7 +225,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Tempo"
     },
     {
-        "regex": "trickery",
+        "regex": "tromperie",
         "name": "Arcane Trickery",
         "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
         "rarity": "Commun",
@@ -243,7 +243,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Ultimatum"
     },
     {
-        "regex": "velocity",
+        "regex": "vélocité",
         "name": "Arcane Velocity",
         "effect": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
         "rarity": "Commun",
@@ -252,7 +252,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Velocity"
     },
     {
-        "regex": "victory",
+        "regex": "victoire",
         "name": "Arcane Victory",
         "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
         "rarity": "Rare",
@@ -261,7 +261,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Victory"
     },
     {
-        "regex": "warmth",
+        "regex": "chaleur",
         "name": "Arcane Chaleur",
         "effect": "20% / 40% / 60% / 80% chance to resist Cold proc",
         "rarity": "Peu commun",
@@ -270,7 +270,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Warmth"
     },
     {
-        "regex": "vigor",
+        "regex": "vigueur",
         "name": "Magus Vigor",
         "effect": "50 / 100 / 150 / 200 Increased Health",
         "rarity": "Peu commun",
@@ -279,7 +279,7 @@
         "info": "http://warframe.wikia.com/wiki/Magus_Vigor"
     },
     {
-        "regex": "husk",
+        "regex": "coquille",
         "name": "Magus Husk",
         "effect": "25 / 50 / 75 / 100 Increased Armor",
         "rarity": "Peu commun",
@@ -288,7 +288,7 @@
         "info": "http://warframe.wikia.com/wiki/Magus_Husk"
     },
     {
-        "regex": "cloud",
+        "regex": "nuage",
         "name": "Magus Cloud",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
         "rarity": "Peu commun",
@@ -306,7 +306,7 @@
         "info": "http://warframe.wikia.com/wiki/Magus_Cadence"
     },
     {
-        "regex": "replenish",
+        "regex": "alimentation",
         "name": "Magus Replenish",
         "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
         "rarity": "Peu commun",
@@ -315,7 +315,7 @@
         "info": "http://warframe.wikia.com/wiki/Magus_Replenish"
     },
     {
-        "regex": "elevate",
+        "regex": "magnification",
         "name": "Magus Elevate",
         "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
         "rarity": "Peu commun",
@@ -360,7 +360,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Fury"
     },
     {
-        "regex": "strike",
+        "regex": "attaque",
         "name": "Virtuos Strike",
         "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "Peu commun",
@@ -369,7 +369,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
     },
     {
-        "regex": "shadow",
+        "regex": "ombre",
         "name": "Virtuos Shadow",
         "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Multiplicative critical chance for 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
@@ -378,7 +378,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Shadow"
     },
     {
-        "regex": "ghost",
+        "regex": "fantôme",
         "name": "Virtuos Ghost",
         "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Increased status chance for 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
