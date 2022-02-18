@@ -1,6 +1,6 @@
 [
     {
-        "regex": "acceleration",
+        "regex": "accélération",
         "name": "Arcane Acceleration",
         "effect": "Sur coup critique, 5% / 10% / 15% / 20% change de donner 15% / 30% / 45% / 60% Cadence de tir pour Fusils pour 1.5 / 3 / 4.5 / 6 secondes",
         "rarity": "Peu commun",
@@ -9,8 +9,8 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Acceleration"
     },
     {
-        "regex": "aegis",
-        "name": "Arcane Aegis",
+        "regex": "égide",
+        "name": "Arcane Égide",
         "effect": "Sur réception de dégâts 1.5% / 3% / 4.5% / 6% de chance de donner 15 / 30 / 45 / 60 Régénération de bouclier par sec pour 5 / 10 / 15 / 20 Secondes",
         "rarity": "Rare",
         "location": "Changeant, vérifiez la table de drop",
@@ -18,7 +18,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Aegis"
     },
     {
-        "regex": "agility",
+        "regex": "agilité",
         "name": "Arcane Agility",
         "effect": "Sur réception de dégâts 3% / 6% / 9% / 16% de chance de donner 10% / 20% / 30% / 40% Vitesse de déplacement pour 2 / 4 / 6 / 8 Secondes",
         "rarity": "Peu commun",
@@ -36,7 +36,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Arachne"
     },
     {
-        "regex": "avenger",
+        "regex": "vengeance",
         "name": "Arcane Vengeance",
         "effect": "Sur réception de dégâts 3.5% / 7% / 10.5% / 14% de chance de donner 7.5% / 15% / 22.5% / 30% Chance de critique additive pour 2 / 4 / 6 / 8 Secondes",
         "rarity": "Peu commun",
@@ -45,7 +45,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Avenger"
     },
     {
-        "regex": "awakening",
+        "regex": "éveil",
         "name": "Arcane Awakening",
         "effect": "Sur Rechargement 10% / 20% / 30% / 40% de chance d'ajouter 25% / 50% / 75% / 100% Dégâts au Secondaires pour 4 / 8 / 12 / 16 Secondes",
         "rarity": "Commun",
@@ -54,7 +54,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Awakening"
     },
     {
-        "regex": "barrier",
+        "regex": "barrière",
         "name": "Arcane Barrière",
         "effect": "Sur réception de dégâts, 1% / 2% / 4% de chance de recharger instantanément le Bouclier",
         "rarity": "Rare",
@@ -63,8 +63,8 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Barrier"
     },
     {
-        "regex": "consequence",
-        "name": "Arcane Consequence",
+        "regex": "conséquence",
+        "name": "Arcane Conséquence",
         "effect": "Sur tir à la tête, 25% / 50% / 75% / 100% chance d'améliorer de 10% / 20% / 30% / 40% la Visée planée / Prise murale pour 3 / 6 / 9 / 12 Secondes",
         "rarity": "Peu commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -72,7 +72,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Consequence"
     },
     {
-        "regex": "deflection",
+        "regex": "déviation",
         "name": "Arcane Deflection",
         "effect": "20 % / 40 % / 60 % / 80 % chance de résister à un effet de status Tranchant",
         "rarity": "Rare",
@@ -81,8 +81,8 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Deflection"
     },
     {
-        "regex": "energize",
-        "name": "Arcane Energize",
+        "regex": "énergétique",
+        "name": "Arcane Énergétique",
         "effect": "Sur énergie ramassée, 10% / 20% / 30% / 40% de chance de donner 25 / 50 / 75 / 100 d'énergie aux alliés proche à moins de 5 / 10 / 15 / 20 Mètres",
         "rarity": "Rare",
         "location": "Changeant, vérifiez la table de drop",
@@ -90,7 +90,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Energize"
     },
     {
-        "regex": "eruption",
+        "regex": "éruption",
         "name": "Arcane Eruption",
         "effect": "Sur énergie ramassée, 5% / 10% / 15% / 20% de chance de Renverser les Ennemis proches à moins de 5 / 10 / 15 / 20 Mètres",
         "rarity": "Peu commun",
@@ -99,8 +99,8 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Eruption"
     },
     {
-        "regex": "fury",
-        "name": "Arcane Fury",
+        "regex": "furie",
+        "name": "Arcane Furie",
         "effect": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
         "rarity": "Peu commun",
         "location": "Changeant, vérifiez la table de drop",
@@ -108,7 +108,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Fury"
     },
     {
-        "regex": "grace",
+        "regex": "grâce",
         "name": "Arcane Grâce",
         "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
         "rarity": "Rare",
@@ -117,7 +117,7 @@
         "info": "http://warframe.wikia.com/wiki/Arcane_Grace"
     },
     {
-        "regex": "guardian",
+        "regex": "gardien",
         "name": "Arcane Gardien",
         "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
         "rarity": "Commun",
@@ -351,7 +351,7 @@
         "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
     },
     {
-        "regex": "fury",
+        "regex": "furie",
         "name": "Virtuos Fury",
         "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
         "rarity": "Peu commun",
