@@ -12527,6 +12527,18 @@
     "desc": "Visit a Featured Dojo",
     "value": "Just Visiting"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailyafirmshake": {
+    "desc": "Shake the hand of a fellow Tenno using the Handshake Emote",
+    "value": "A Firm Handshake"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailytwoforone": {
+    "desc": "Pierce and kill 2 or more enemies in a single Bow shot",
+    "value": "Two For One"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailybuilderstouch": {
+    "desc": "Builder's Touch",
+    "value": "Calim an item from your Foundry"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
     "value": "Flawless"
@@ -12794,6 +12806,14 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "desc": "Unlock 10 Relics",
     "value": "Unlock Relics"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardantiquarian": {
+    "desc": "Open one of each era/tier of Relic (Lith, Meso, Neo, Axi)",
+    "value": "Antiquarian"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardterminated": {
+    "desc": "Destroy 3 Necramech vault guardians",
+    "value": "Terminated"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
