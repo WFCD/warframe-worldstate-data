@@ -16,6 +16,7 @@
     "eslint-plugin-import": "^2.18.2",
     "mocha": "^7.2.0",
     "nyc": "^15.1.0",
+    "precommit-hook": "^3.0.0",
     "sinon": "^8.1.1",
     "sinon-chai": "^3.4.0"
   },
@@ -24,7 +25,8 @@
     "lint:fix": "eslint --ignore-path .gitignore . --fix",
     "test": " nyc mocha",
     "coverage": "npm test && nyc report --reporter=text-lcov | coveralls",
-    "sort": "python tools/sort_languages.py"
+    "sort": "python tools/sort_languages.py",
+    "validate": "npm run lint:fix && npm run test && git add -u ."
   },
   "repository": {
     "type": "git",
@@ -115,5 +117,10 @@
     ],
     "skip-full": true
   },
-  "mocha": {}
+  "mocha": {},
+  "pre-commit": [
+    "lint",
+    "validate",
+    "test"
+  ]
 }
