@@ -12539,6 +12539,18 @@
     "desc": "Builder's Touch",
     "value": "Calim an item from your Foundry"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailydeathfromabove": {
+    "desc": "Death from Above",
+    "value": "Kill 10 enemies with ground slams"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyaugmentation": {
+    "desc": "Augmentation",
+    "value": "Install an Augment Mod on your Warframe"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailytoppingoffthetank": {
+    "desc": "Topping Off the Tank",
+    "value": "Successfully defend an Excavator without allowing it to run out of power"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
     "value": "Flawless"
@@ -12707,6 +12719,18 @@
     "desc": "Complete 5 different bounties in the Orb Vallis",
     "value": "Venus Bounty Hunter"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
+    "desc": "Night and Day",
+    "value": "Collect 15 Vome or Fass Residue in the Cambion Drift"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
+    "desc": "Loyalty",
+    "value": "Gain a total of 5,000 Standing across all Syndicate factions"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklymadlab": {
+    "desc": "Mad Lab",
+    "value": "Plunder one of Alad V's secret laboratories on Jupiter"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Collect 20 different types of resources.",
     "value": "Resource Scavenger"
@@ -12814,6 +12838,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardterminated": {
     "desc": "Destroy 3 Necramech vault guardians",
     "value": "Terminated"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthepriceoffreedom": {
+    "desc": "The Price of Freedom",
+    "value": "Free one Captured Solaris using a Granum Crown"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "미저리"
