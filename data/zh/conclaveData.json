@@ -144,112 +144,112 @@
     },
     "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
       "title": "连续击杀终结",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "description": "击杀 3 名正在连续击杀状态中的敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
       "title": "连续击杀终结",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "description": "击杀 3 名正在连续击杀状态中的敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStopped_HARD": {
-      "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "title": "专注连续击杀终结",
+      "description": "在一场比赛中, 击杀 2 名正在连续击杀状态中的敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
-      "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "title": "专注连续击杀终结",
+      "description": "在一场比赛中, 击杀 2 名正在连续击杀状态中的敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
-      "title": "Anti-air Strike",
-      "description": "Kill 1 Airborne enemy",
+      "title": "反空袭",
+      "description": "击杀 1 名空中的敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
-      "title": "Anti-air Strike",
-      "description": "Kill 4 Airborne enemies",
+      "title": "反空袭",
+      "description": "击杀 4 名空中的敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsTargetInAirHARD": {
-      "title": "Focused Anti-air Strike",
-      "description": "Kill 3 Airborne enemies in a match",
+      "title": "专注反空袭",
+      "description": "在一场比赛中, 击杀 3 名空中的敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
-      "title": "Air Strike",
-      "description": "Kill 1 enemy while Airborne",
+      "title": "空袭",
+      "description": "滞留空中时击杀 1 名敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirMEDIUM": {
-      "title": "Air Strike",
-      "description": "Kill 4 enemies while Airborne",
+      "title": "空袭",
+      "description": "滞留空中时击杀 4 名敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
-      "title": "Focused Air Strike",
-      "description": "Kill 3 enemies while Airborne in a match",
+      "title": "专注空袭",
+      "description": "在一场比赛中, 滞留空中时击杀 3 名敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
-      "title": "Gladiator",
-      "description": "Get 1 Melee kill",
+      "title": "角斗士",
+      "description": "以近战击杀敌人 1 次",
       "standing": 500
     },
     "PVPTimedChallengeKillsMeleeMEDIUM": {
-      "title": "Gladiator",
-      "description": "Get 4 Melee kills",
+      "title": "角斗士",
+      "description": "以近战击杀敌人 4 次",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMeleeHARD": {
-      "title": "Focused Gladiator",
-      "description": "Get 3 Melee kills in a match",
+      "title": "专注角斗士",
+      "description": "在一场比赛中, 以近战击杀敌人 3 次",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
-      "title": "Void-Painter",
-      "description": "Get 1 Warframe Ability kills",
+      "title": "虚空绘师",
+      "description": "以Warframe的能力击杀敌人 1 次",
       "standing": 500
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
-      "title": "Void-Painter",
-      "description": "Get 4 Warframe Ability kills",
+      "title": "虚空绘师",
+      "description": "以Warframe的能力击杀敌人 4 次",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPowerHARD": {
-      "title": "Focused Void-Painter",
-      "description": "Get 3 Warframe Ability kills in a match",
+      "title": "专注虚空绘师",
+      "description": "在一场比赛中, 以Warframe的能力击杀敌人 3 次",
       "standing": 3000
     },
     "PVPTimedChallengeKillsHeadShotsEASY": {
-      "title": "Shootist",
-      "description": "Get 1 Headshot kill",
+      "title": "神枪手",
+      "description": "爆头击杀 1 次",
       "standing": 500
     },
     "PVPTimedChallengeKillsHeadShotsMEDIUM": {
-      "title": "Shootist",
-      "description": "Get 4 Headshot kills",
+      "title": "神枪手",
+      "description": "爆头击杀 4 次",
       "standing": 1500
     },
     "PVPTimedChallengeKillsHeadShotsHARD": {
-      "title": "Focused Shootist",
-      "description": "Get 3 Headshot kills in a match",
+      "title": "专注神枪手",
+      "description": "在一场比赛中, 爆头击杀 3 次",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
-      "title": "Domination",
-      "description": "Kill 1 enemy without them killing you",
+      "title": "支配",
+      "description": "在不被他们击杀的情况下, 击杀 1 名对手",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakDominationMEDIUM": {
-      "title": "Domination",
-      "description": "Kill 4 enemies without them killing you",
+      "title": "支配",
+      "description": "在不被他们击杀的情况下, 击杀 4 名对手",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakDominationHARD": {
-      "title": "Focused Domination",
-      "description": "Kill 3 enemies without them killing you in a match",
+      "title": "专注支配",
+      "description": "在一场比赛中, 在不被他们击杀的情况下, 击杀 3 名对手",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPaybackEASY": {
@@ -263,7 +263,7 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsPaybackHARD": {
-      "title": "Focused Revenge",
+      "title": "专注复仇",
       "description": "Kill 3 enemies that have killed you in a match",
       "standing": 3000
     },
