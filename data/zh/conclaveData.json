@@ -254,97 +254,97 @@
     },
     "PVPTimedChallengeKillsPaybackEASY": {
       "title": "Revenge",
-      "description": "Kill 1 enemy that have killed you",
+      "description": "击杀 1 名曾经杀掉你的敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsPaybackMEDIUM": {
       "title": "Revenge",
-      "description": "Kill 4 enemies that have killed you",
+      "description": "击杀 4 名曾经杀掉你的敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPaybackHARD": {
       "title": "专注复仇",
-      "description": "Kill 3 enemies that have killed you in a match",
+      "description": "在一场比赛中, 击杀 3 名曾经杀掉你的敌人",
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
-      "title": "Liberator",
-      "description": "Return your team's Cephalon 1 time",
+      "title": "救星",
+      "description": "将队上的中枢归还 1 次",
       "standing": 500
     },
     "PVPTimedChallengeFlagReturnMEDIUM": {
-      "title": "Liberator",
-      "description": "Return your team's Cephalon 4 times",
+      "title": "救星",
+      "description": "将队上的中枢归还 4 次",
       "standing": 1500
     },
     "PVPTimedChallengeFlagCaptureEASY": {
-      "title": "Bandit",
-      "description": "Capture 1 Cephalon",
+      "title": "恶棍",
+      "description": "夺取 1 个中枢",
       "standing": 500
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
-      "title": "Bandit",
-      "description": "Capture 4 Cephalons",
+      "title": "恶棍",
+      "description": "夺取 4 个中枢",
       "standing": 1500
     },
     "PVPTimedChallengeSpeedballCatchesEASY": {
-      "title": "Heads Up!",
-      "description": "Catch 3 Passes from teammates",
+      "title": "注意!",
+      "description": "传球给队友 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
-      "title": "Heads Up!",
-      "description": "Catch 10 Passes from teammates",
+      "title": "注意!",
+      "description": "传球给队友 10 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballCatchesHARD": {
-      "title": "Focused Heads Up!",
-      "description": "Catch 6 Passes from teammates in a match",
+      "title": "集中注意!",
+      "description": "在一场比赛中, 传球给队友 6 次",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballInterceptionsEASY": {
-      "title": "Interception!",
-      "description": "Intercept 3 Passes from opponents",
+      "title": "拦截",
+      "description": "拦球 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
-      "title": "Interception!",
-      "description": "Intercept 6 Passes from opponents",
+      "title": "拦截",
+      "description": "拦球 6 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballInterceptionsHARD": {
-      "title": "Focused Interception!",
-      "description": "Intercept 3 Passes from opponents in a match",
+      "title": "专注拦截",
+      "description": "在一场比赛中, 拦球 3 次",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballStealsEASY": {
-      "title": "Snatch and Grab",
-      "description": "Steal the ball 3 times",
+      "title": "夺取",
+      "description": "偷球 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballStealsMEDIUM": {
-      "title": "Snatch and Grab",
-      "description": "Steal the ball 6 times",
+      "title": "夺取",
+      "description": "偷球 6 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballStealsHARD": {
-      "title": "Focused Snatch and Grab",
-      "description": "Steal the ball 3 times in a match",
+      "title": "专注夺取",
+      "description": "在一场比赛中, 偷球 3 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksEASY": {
-      "title": "Blockade",
-      "description": "Strike opponents carrying the ball 3 times",
+      "title": "门都没有!",
+      "description": "殴打带球的对手 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
-      "title": "Blockade",
-      "description": "Strike opponents carrying the ball 10 times",
+      "title": "门都没有!",
+      "description": "殴打带球的对手 10 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksHARD": {
-      "title": "Focused Blockade",
-      "description": "Strike opponents carrying the ball 6 times in a match",
+      "title": "专注门都没有!",
+      "description": "在一场比赛中, 殴打带球的对手 6 次",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballPassesEASY": {
