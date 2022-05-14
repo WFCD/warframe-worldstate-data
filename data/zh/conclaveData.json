@@ -26,7 +26,7 @@
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "周根目录",
-      "description": "Weekly Category"
+      "description": "每周挑战"
     },
     "PVPChallengeTypeCategory_DAILY": {
       "value": "日",
@@ -34,11 +34,11 @@
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
       "value": "天根目录",
-      "description": "Daily Category"
+      "description": "每日挑战"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
       "value": "修改回合",
-      "description": "Modified Round"
+      "description": "修改回合"
     }
   },
   "challenges": {
@@ -98,328 +98,328 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsComboHARD": {
-      "title": "Focused Dexterity",
-      "description": "Kill 3 opponents using two of Melee, Guns, and Abilities in a match",
+      "title": "专注熟练技巧",
+      "description": "在一场比赛中, 使用近战武器、枪炮或能力任意两种组合击杀 3 名对手",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMultiEASY": {
-      "title": "Versatility",
-      "description": "Kill 1 opponent using Melee, Guns, and Abilities",
+      "title": "技巧熟练",
+      "description": "使用近战武器、枪炮或能力任意两种击杀 1 名对手",
       "standing": 500
     },
     "PVPTimedChallengeKillsMultiMEDIUM": {
-      "title": "Versatility",
-      "description": "Kill 4 opponents using Melee, Guns, and Abilities",
+      "title": "技巧熟练",
+      "description": "使用近战武器、枪炮或能力任意两种击杀 4 名对手",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMultiHARD": {
-      "title": "Focused Versatility",
-      "description": "Kill 3 opponents using Melee, Guns, and Abilities in a match",
+      "title": "专注技巧熟练",
+      "description": "在一场比赛中, 使用近战武器、枪炮或能力任意两种击杀 3 名对手",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakEASY": {
-      "title": "Kill Streak",
-      "description": "Go on 1 Kill Streak",
+      "title": "连续击杀",
+      "description": "获得 1 次连续击杀",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakMEDIUM": {
-      "title": "Kill Streak",
-      "description": "Go on 3 Kill Streaks",
+      "title": "连续击杀",
+      "description": "获得 3 次连续击杀",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakHARD": {
-      "title": "Focused Kill Streak",
-      "description": "Go on 2 Kill Streaks in a match",
+      "title": "专注连续击杀",
+      "description": "在一场比赛中, 获得 2 次连续击杀",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStopped_EASY": {
-      "title": "Streak Stopped",
-      "description": "Kill 1 enemy on a Kill Streak",
+      "title": "连续击杀终结",
+      "description": "击杀 1 名正在连续击杀状态中的敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
-      "title": "Streak Stopped",
-      "description": "Kill 1 enemy on a Kill Streak",
+      "title": "连续击杀终结",
+      "description": "击杀 1 名正在连续击杀状态中的敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
-      "title": "Streak Stopped",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "title": "连续击杀终结",
+      "description": "击杀 3 名正在连续击杀状态中的敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
-      "title": "Streak Stopped",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "title": "连续击杀终结",
+      "description": "击杀 3 名正在连续击杀状态中的敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStopped_HARD": {
-      "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "title": "专注连续击杀终结",
+      "description": "在一场比赛中, 击杀 2 名正在连续击杀状态中的敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
-      "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "title": "专注连续击杀终结",
+      "description": "在一场比赛中, 击杀 2 名正在连续击杀状态中的敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
-      "title": "Anti-air Strike",
-      "description": "Kill 1 Airborne enemy",
+      "title": "反空袭",
+      "description": "击杀 1 名空中的敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
-      "title": "Anti-air Strike",
-      "description": "Kill 4 Airborne enemies",
+      "title": "反空袭",
+      "description": "击杀 4 名空中的敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsTargetInAirHARD": {
-      "title": "Focused Anti-air Strike",
-      "description": "Kill 3 Airborne enemies in a match",
+      "title": "专注反空袭",
+      "description": "在一场比赛中, 击杀 3 名空中的敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
-      "title": "Air Strike",
-      "description": "Kill 1 enemy while Airborne",
+      "title": "空袭",
+      "description": "滞留空中时击杀 1 名敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirMEDIUM": {
-      "title": "Air Strike",
-      "description": "Kill 4 enemies while Airborne",
+      "title": "空袭",
+      "description": "滞留空中时击杀 4 名敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
-      "title": "Focused Air Strike",
-      "description": "Kill 3 enemies while Airborne in a match",
+      "title": "专注空袭",
+      "description": "在一场比赛中, 滞留空中时击杀 3 名敌人",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
-      "title": "Gladiator",
-      "description": "Get 1 Melee kill",
+      "title": "角斗士",
+      "description": "以近战击杀敌人 1 次",
       "standing": 500
     },
     "PVPTimedChallengeKillsMeleeMEDIUM": {
-      "title": "Gladiator",
-      "description": "Get 4 Melee kills",
+      "title": "角斗士",
+      "description": "以近战击杀敌人 4 次",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMeleeHARD": {
-      "title": "Focused Gladiator",
-      "description": "Get 3 Melee kills in a match",
+      "title": "专注角斗士",
+      "description": "在一场比赛中, 以近战击杀敌人 3 次",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
-      "title": "Void-Painter",
-      "description": "Get 1 Warframe Ability kills",
+      "title": "虚空绘师",
+      "description": "以Warframe的能力击杀敌人 1 次",
       "standing": 500
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
-      "title": "Void-Painter",
-      "description": "Get 4 Warframe Ability kills",
+      "title": "虚空绘师",
+      "description": "以Warframe的能力击杀敌人 4 次",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPowerHARD": {
-      "title": "Focused Void-Painter",
-      "description": "Get 3 Warframe Ability kills in a match",
+      "title": "专注虚空绘师",
+      "description": "在一场比赛中, 以Warframe的能力击杀敌人 3 次",
       "standing": 3000
     },
     "PVPTimedChallengeKillsHeadShotsEASY": {
-      "title": "Shootist",
-      "description": "Get 1 Headshot kill",
+      "title": "神枪手",
+      "description": "爆头击杀 1 次",
       "standing": 500
     },
     "PVPTimedChallengeKillsHeadShotsMEDIUM": {
-      "title": "Shootist",
-      "description": "Get 4 Headshot kills",
+      "title": "神枪手",
+      "description": "爆头击杀 4 次",
       "standing": 1500
     },
     "PVPTimedChallengeKillsHeadShotsHARD": {
-      "title": "Focused Shootist",
-      "description": "Get 3 Headshot kills in a match",
+      "title": "专注神枪手",
+      "description": "在一场比赛中, 爆头击杀 3 次",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
-      "title": "Domination",
-      "description": "Kill 1 enemy without them killing you",
+      "title": "支配",
+      "description": "在不被他们击杀的情况下, 击杀 1 名对手",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakDominationMEDIUM": {
-      "title": "Domination",
-      "description": "Kill 4 enemies without them killing you",
+      "title": "支配",
+      "description": "在不被他们击杀的情况下, 击杀 4 名对手",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakDominationHARD": {
-      "title": "Focused Domination",
-      "description": "Kill 3 enemies without them killing you in a match",
+      "title": "专注支配",
+      "description": "在一场比赛中, 在不被他们击杀的情况下, 击杀 3 名对手",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPaybackEASY": {
       "title": "Revenge",
-      "description": "Kill 1 enemy that have killed you",
+      "description": "击杀 1 名曾经杀掉你的敌人",
       "standing": 500
     },
     "PVPTimedChallengeKillsPaybackMEDIUM": {
       "title": "Revenge",
-      "description": "Kill 4 enemies that have killed you",
+      "description": "击杀 4 名曾经杀掉你的敌人",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPaybackHARD": {
-      "title": "Focused Revenge",
-      "description": "Kill 3 enemies that have killed you in a match",
+      "title": "专注复仇",
+      "description": "在一场比赛中, 击杀 3 名曾经杀掉你的敌人",
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
-      "title": "Liberator",
-      "description": "Return your team's Cephalon 1 time",
+      "title": "救星",
+      "description": "将队上的中枢归还 1 次",
       "standing": 500
     },
     "PVPTimedChallengeFlagReturnMEDIUM": {
-      "title": "Liberator",
-      "description": "Return your team's Cephalon 4 times",
+      "title": "救星",
+      "description": "将队上的中枢归还 4 次",
       "standing": 1500
     },
     "PVPTimedChallengeFlagCaptureEASY": {
-      "title": "Bandit",
-      "description": "Capture 1 Cephalon",
+      "title": "恶棍",
+      "description": "夺取 1 个中枢",
       "standing": 500
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
-      "title": "Bandit",
-      "description": "Capture 4 Cephalons",
+      "title": "恶棍",
+      "description": "夺取 4 个中枢",
       "standing": 1500
     },
     "PVPTimedChallengeSpeedballCatchesEASY": {
-      "title": "Heads Up!",
-      "description": "Catch 3 Passes from teammates",
+      "title": "注意!",
+      "description": "传球给队友 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
-      "title": "Heads Up!",
-      "description": "Catch 10 Passes from teammates",
+      "title": "注意!",
+      "description": "传球给队友 10 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballCatchesHARD": {
-      "title": "Focused Heads Up!",
-      "description": "Catch 6 Passes from teammates in a match",
+      "title": "集中注意!",
+      "description": "在一场比赛中, 传球给队友 6 次",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballInterceptionsEASY": {
-      "title": "Interception!",
-      "description": "Intercept 3 Passes from opponents",
+      "title": "拦截",
+      "description": "拦球 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
-      "title": "Interception!",
-      "description": "Intercept 6 Passes from opponents",
+      "title": "拦截",
+      "description": "拦球 6 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballInterceptionsHARD": {
-      "title": "Focused Interception!",
-      "description": "Intercept 3 Passes from opponents in a match",
+      "title": "专注拦截",
+      "description": "在一场比赛中, 拦球 3 次",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballStealsEASY": {
-      "title": "Snatch and Grab",
-      "description": "Steal the ball 3 times",
+      "title": "夺取",
+      "description": "偷球 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballStealsMEDIUM": {
-      "title": "Snatch and Grab",
-      "description": "Steal the ball 6 times",
+      "title": "夺取",
+      "description": "偷球 6 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballStealsHARD": {
-      "title": "Focused Snatch and Grab",
-      "description": "Steal the ball 3 times in a match",
+      "title": "专注夺取",
+      "description": "在一场比赛中, 偷球 3 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksEASY": {
-      "title": "Blockade",
-      "description": "Strike opponents carrying the ball 3 times",
+      "title": "门都没有!",
+      "description": "殴打带球的对手 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
-      "title": "Blockade",
-      "description": "Strike opponents carrying the ball 10 times",
+      "title": "门都没有!",
+      "description": "殴打带球的对手 10 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksHARD": {
-      "title": "Focused Blockade",
-      "description": "Strike opponents carrying the ball 6 times in a match",
+      "title": "专注门都没有!",
+      "description": "在一场比赛中, 殴打带球的对手 6 次",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballPassesEASY": {
-      "title": "Send It!",
-      "description": "Complete 3 Successful Passes to teammates",
+      "title": "使命必达!",
+      "description": "成功传球给队友 3 次",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballPassesMEDIUM": {
-      "title": "Send It!",
-      "description": "Complete 6 Successful Passes to teammates",
+      "title": "使命必达!",
+      "description": "成功传球给队友 6 次",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballPassesHARD": {
-      "title": "Focused Send It!",
-      "description": "Complete 3 Successful Passes to teammates in a match",
+      "title": "专注使命必达!",
+      "description": "在一场比赛中, 成功传球给队友 3 次",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballGoalsEASY": {
-      "title": "Goal!",
-      "description": "Score 2 Goals",
+      "title": "进球!",
+      "description": "获得 2 分",
       "standing": 1000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
-      "title": "See it Through",
-      "description": "Complete 1 match",
+      "title": "紧盯目标",
+      "description": "完成 1 次比赛",
       "standing": 500
     },
     "PVPTimedChallengeMatchCompleteMEDIUM": {
-      "title": "See it Through",
-      "description": "Complete 4 matches",
+      "title": "紧盯目标",
+      "description": "完成 4 次比赛",
       "standing": 1500
     },
     "PVPTimedChallengeWeeklyStandardSet": {
-      "title": "Weekly Mission",
-      "description": "Weekly Mission",
+      "title": "每周任务",
+      "description": "每周任务",
       "standing": 50000
     },
     "PVPTimedChallengeGameModeWins": {
-      "title": "Match Won",
-      "description": "Win 6 matches of any Game Type",
+      "title": "竞赛胜利",
+      "description": "在任何模式中赢得 6 场比赛",
       "standing": 0
     },
     "PVPTimedChallengeGameModeComplete": {
-      "title": "Match Complete",
-      "description": "Complete 20 matches of any Game Type",
+      "title": "竞赛完成",
+      "description": "在任何模式中完成 20 场比赛",
       "standing": 0
     },
     "PVPTimedChallengeOtherChallengeCompleteANY": {
-      "title": "Conditioning",
-      "description": "Complete 10 Daily Challenges",
+      "title": "状态",
+      "description": "完成 10 项日常挑战",
       "standing": 0
     },
     "PVPTimedChallengeSpeedballGoalsHARD": {
-      "title": "Focused Goal!",
-      "description": "Score 4 Goals in a match",
+      "title": "专注进球!",
+      "description": "在一场比赛中, 获得 2 分",
       "standing": 6000
     },
     "PVPTimedChallengeKillsPayback_MEDIUM": {
       "title": "Revenge",
-      "description": "Kill 3 enemies that have killed you",
+      "description": "击杀 3 名曾经杀掉你的敌人",
       "standing": 1500
     }
   },
   "affectors": {
     "PVPTimedAffectorSuperEnergy": {
-      "title": "Energy Surge",
-      "description": "Energy Surge - Regain energy at a faster pace"
+      "title": "能量覆涌",
+      "description": "能量覆涌 – 能量生成加快"
     },
     "PVPTimedAffectorSuperMeleeDamage": {
-      "title": "Extra Melee Damage",
-      "description": "Extra Melee Damage - Melee Damage is increased"
+      "title": "额外近战伤害",
+      "description": "额外近战伤害 – 近战伤害增加"
     },
     "PVPTimedAffectorSuperEverything": {
-      "title": "Extra Damage",
-      "description": "Extra Damage - All damage is increased"
+      "title": "每回合额外伤害",
+      "description": "每回合额外伤害 – 伤害增加"
     }
   }
 }
