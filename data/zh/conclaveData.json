@@ -399,27 +399,27 @@
     },
     "PVPTimedChallengeSpeedballGoalsHARD": {
       "title": "专注进球!",
-      "description": "Score 4 Goals in a match",
+      "description": "在一场比赛中, 获得 2 分",
       "standing": 6000
     },
     "PVPTimedChallengeKillsPayback_MEDIUM": {
       "title": "Revenge",
-      "description": "Kill 3 enemies that have killed you",
+      "description": "击杀 3 名曾经杀掉你的敌人",
       "standing": 1500
     }
   },
   "affectors": {
     "PVPTimedAffectorSuperEnergy": {
-      "title": "Energy Surge",
-      "description": "Energy Surge - Regain energy at a faster pace"
+      "title": "能量覆涌",
+      "description": "能量覆涌 – 能量生成加快"
     },
     "PVPTimedAffectorSuperMeleeDamage": {
-      "title": "Extra Melee Damage",
-      "description": "Extra Melee Damage - Melee Damage is increased"
+      "title": "额外近战伤害",
+      "description": "额外近战伤害 – 近战伤害增加"
     },
     "PVPTimedAffectorSuperEverything": {
-      "title": "Extra Damage",
-      "description": "Extra Damage - All damage is increased"
+      "title": "每回合额外伤害",
+      "description": "每回合额外伤害 – 伤害增加"
     }
   }
 }
