@@ -26,7 +26,7 @@
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "周根目录",
-      "description": "Weekly Category"
+      "description": "每周挑战"
     },
     "PVPChallengeTypeCategory_DAILY": {
       "value": "日",
@@ -34,11 +34,11 @@
     },
     "PVPChallengeTypeCategory_DAILY_ROOT": {
       "value": "天根目录",
-      "description": "Daily Category"
+      "description": "每日挑战"
     },
     "PVPChallengeTypeCategory_MODEAFFECTOR": {
       "value": "修改回合",
-      "description": "Modified Round"
+      "description": "修改回合"
     }
   },
   "challenges": {
@@ -98,7 +98,7 @@
       "standing": 1500
     },
     "PVPTimedChallengeKillsComboHARD": {
-      "title": "Focused Dexterity",
+      "title": "熟练技巧",
       "description": "Kill 3 opponents using two of Melee, Guns, and Abilities in a match",
       "standing": 3000
     },
