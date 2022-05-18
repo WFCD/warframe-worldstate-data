@@ -12551,6 +12551,18 @@
     "desc": "Successfully defend an Excavator without allowing it to run out of power",
     "value": "Topping Off the Tank"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailyliquidation": {
+    "desc": "Sell any item in your Inventory for Credits",
+    "value": "Liquidation"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailymediseasondailymedic": {
+    "desc": "Revive a fellow Tenno or a Companion",
+    "value": "Medic"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyswatter": {
+    "desc": "Kill 3 Drones or Ospreys with your Melee Weapon",
+    "value": "Swatter"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
     "value": "Flawless"
@@ -12730,6 +12742,14 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklymadlab": {
     "desc": "Plunder one of Alad V's secret laboratories on Jupiter",
     "value": "Mad Lab"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklybloodthirsty": {
+    "desc": "Kill 20 enemies in 5 seconds",
+    "value": "Bloodthirsty"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklytheoldways": {
+    "desc": "Complete 1 mission with only a single pistol and a glaive equipped",
+    "value": "The Old Ways"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Collect 20 different types of resources.",
