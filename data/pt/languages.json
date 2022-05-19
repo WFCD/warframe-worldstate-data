@@ -12536,20 +12536,32 @@
     "value": "Two For One"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybuilderstouch": {
-    "desc": "Builder's Touch",
-    "value": "Calim an item from your Foundry"
+    "desc": "Claim an item from your Foundry",
+    "value": "Builder's Touch"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeathfromabove": {
-    "desc": "Death from Above",
-    "value": "Kill 10 enemies with ground slams"
+    "desc": "Kill 10 enemies with ground slams",
+    "value": "Death from Above"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaugmentation": {
-    "desc": "Augmentation",
-    "value": "Install an Augment Mod on your Warframe"
+    "desc": "Install an Augment Mod on your Warframe",
+    "value": "Augmentation"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytoppingoffthetank": {
-    "desc": "Topping Off the Tank",
-    "value": "Successfully defend an Excavator without allowing it to run out of power"
+    "desc": "Successfully defend an Excavator without allowing it to run out of power",
+    "value": "Topping Off the Tank"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyliquidation": {
+    "desc": "Sell any item in your Inventory for Credits",
+    "value": "Liquidation"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailymediseasondailymedic": {
+    "desc": "Revive a fellow Tenno or a Companion",
+    "value": "Medic"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyswatter": {
+    "desc": "Kill 3 Drones or Ospreys with your Melee Weapon",
+    "value": "Swatter"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
@@ -12720,16 +12732,24 @@
     "value": "Venus Bounty Hunter"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
-    "desc": "Night and Day",
-    "value": "Collect 15 Vome or Fass Residue in the Cambion Drift"
+    "desc": "Collect 15 Vome or Fass Residue in the Cambion Drift",
+    "value": "Night and Day"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
-    "desc": "Loyalty",
-    "value": "Gain a total of 5,000 Standing across all Syndicate factions"
+    "desc": "Gain a total of 5,000 Standing across all Syndicate factions",
+    "value": "Loyalty"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklymadlab": {
-    "desc": "Mad Lab",
-    "value": "Plunder one of Alad V's secret laboratories on Jupiter"
+    "desc": "Plunder one of Alad V's secret laboratories on Jupiter",
+    "value": "Mad Lab"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklybloodthirsty": {
+    "desc": "Kill 20 enemies in 5 seconds",
+    "value": "Bloodthirsty"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklytheoldways": {
+    "desc": "Complete 1 mission with only a single pistol and a glaive equipped",
+    "value": "The Old Ways"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Collect 20 different types of resources.",
@@ -12784,7 +12804,7 @@
     "value": "Kill Shot"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillenemiessteelpath": {
-    "desc": "Kill 100 Enemies on The Steel Path.",
+    "desc": "Kill 1,000 Enemies on The Steel Path.",
     "value": "Cold Steel"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
@@ -12840,8 +12860,8 @@
     "value": "Terminated"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthepriceoffreedom": {
-    "desc": "The Price of Freedom",
-    "value": "Free one Captured Solaris using a Granum Crown"
+    "desc": "Free one Captured Solaris using a Granum Crown",
+    "value": "The Price of Freedom"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
