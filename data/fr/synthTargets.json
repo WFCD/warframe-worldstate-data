@@ -1,6 +1,7 @@
 [
     {
         "name": "Ancien Disruptif",
+        "imageKey": "ancient_disruptor",
         "locations": [
             {
                 "last_verified": "2019-02-24",
@@ -14,7 +15,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "8-10",
-                "faction": "Grineer VS Infestés",
+                "faction": "Feux Croisés Extermination",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Mercure",
@@ -33,6 +34,7 @@
     },
     {
         "name": "Ancien Guérisseur",
+        "imageKey": "ancient_healer",
         "locations": [
             {
                 "last_verified": "2018-08-22",
@@ -47,6 +49,7 @@
     },
     {
         "name": "Anti MOA [Research]",
+        "imageKey": "anti_moa",
         "locations": [
             {
                 "last_verified": "2019-07-01",
@@ -79,6 +82,7 @@
     },
     {
         "name": "Arid Eviscerator [Research]",
+        "imageKey": "arid_eviscerator",
         "locations": [
             {
                 "last_verified": "2018-04-16",
@@ -93,6 +97,7 @@
     },
     {
         "name": "Ballista",
+        "imageKey": "ballista",
         "locations": [
             {
                 "last_verified": "2019-02-15",
@@ -116,6 +121,7 @@
     },
     {
         "name": "Boiler",
+        "imageKey": "boiler",
         "locations": [
             {
                 "last_verified": "2019-01-23",
@@ -148,6 +154,7 @@
     },
     {
         "name": "Bombardier",
+        "imageKey": "bombard",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -189,6 +196,7 @@
     },
     {
         "name": "Mère des Couvées",
+        "imageKey": "brood_mother",
         "locations": [
             {
                 "last_verified": "2019-04-16",
@@ -230,6 +238,7 @@
     },
     {
         "name": "Massacreur",
+        "imageKey": "butcher",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -271,24 +280,25 @@
     },
     {
         "name": "Charger",
+        "imageKey": "charger",
         "locations": [
             {
                 "last_verified": "2019-06-27",
                 "level": "8-10",
-                "faction": "Grineer VS Infestés",
+                "faction": "Feux Croisés Extermination",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Mercure",
-                "type": "Crossfire Sabotage"
+                "type": "Sabotage"
             },
             {
                 "last_verified": "2019-09-01",
                 "level": "7-9",
-                "faction": "Grineer VS Infestés",
+                "faction": "Feux Croisés Extermination",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "Mercure",
-                "type": "Crossfire Exterminate"
+                "type": "Extermination"
             },
             {
                 "last_verified": "2019-06-27",
@@ -303,6 +313,7 @@
     },
     {
         "name": "Commander",
+        "imageKey": "commander",
         "locations": [
             {
                 "last_verified": "2018-05-08",
@@ -317,6 +328,7 @@
     },
     {
         "name": "Corrupted Ancient [Research]",
+        "imageKey": "corrupted_ancient",
         "locations": [
             {
                 "last_verified": "2019-02-05",
@@ -349,6 +361,7 @@
     },
     {
         "name": "Corrupted Bombard",
+        "imageKey": "corrupted_bombard",
         "locations": [
             {
                 "last_verified": "2019-06-05",
@@ -372,6 +385,7 @@
     },
     {
         "name": "Massacreur Corrompu",
+        "imageKey": "corrupted_butcher",
         "locations": [
             {
                 "last_verified": "2019-01-25",
@@ -395,6 +409,7 @@
     },
     {
         "name": "Homme d'Équipage Corrompu",
+        "imageKey": "corrupted_crewman",
         "locations": [
             {
                 "last_verified": "2019-01-28",
@@ -418,6 +433,7 @@
     },
     {
         "name": "Mitrailleur Lourd Corrompu",
+        "imageKey": "corrupted_heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-03-23",
@@ -450,6 +466,7 @@
     },
     {
         "name": "Lancier Corrompu",
+        "imageKey": "corrupted_lancer",
         "locations": [
             {
                 "last_verified": "2018-04-15",
@@ -473,6 +490,7 @@
     },
     {
         "name": "Zéro Corrompu",
+        "imageKey": "corrupted_nullifier",
         "locations": [
             {
                 "last_verified": "2019-08-14",
@@ -487,6 +505,7 @@
     },
     {
         "name": "Crawler",
+        "imageKey": "crawler",
         "locations": [
             {
                 "last_verified": "2018-04-06",
@@ -509,7 +528,7 @@
             {
                 "last_verified": "2019-05-30",
                 "level": "18-20",
-                "faction": "Grineer VS Infestés",
+                "faction": "Feux Croisés Extermination",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europe",
@@ -546,6 +565,7 @@
     },
     {
         "name": "Homme d'Équipage [Research]",
+        "imageKey": "crewman",
         "locations": [
             {
                 "last_verified": "2019-08-16",
@@ -560,6 +580,7 @@
     },
     {
         "name": "Maître Drahk",
+        "imageKey": "drahk_master",
         "locations": [
             {
                 "last_verified": "2019-01-31",
@@ -583,6 +604,7 @@
     },
     {
         "name": "Homme d'Équipage d'Élite",
+        "imageKey": "elite_crewman",
         "locations": [
             {
                 "last_verified": "2019-09-28",
@@ -615,6 +637,7 @@
     },
     {
         "name": "Éviscérateur",
+        "imageKey": "eviscerator",
         "locations": [
             {
                 "last_verified": "2019-01-24",
@@ -656,6 +679,7 @@
     },
     {
         "name": "Fusion MOA",
+        "imageKey": "fusion_moa",
         "locations": [
             {
                 "last_verified": "2019-01-29",
@@ -697,6 +721,7 @@
     },
     {
         "name": "Guardsman [Research]",
+        "imageKey": "guardsman",
         "locations": [
             {
                 "last_verified": "2019-11-23",
@@ -729,6 +754,7 @@
     },
     {
         "name": "Heavy Gunner",
+        "imageKey": "heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -770,6 +796,7 @@
     },
     {
         "name": "Hellion",
+        "imageKey": "hellion",
         "locations": [
             {
                 "last_verified": "2019-08-15",
@@ -802,6 +829,7 @@
     },
     {
         "name": "Lancier [Research]",
+        "imageKey": "lancer",
         "locations": [
             {
                 "last_verified": "2019-02-14",
@@ -852,6 +880,7 @@
     },
     {
         "name": "Leaper",
+        "imageKey": "leaper",
         "locations": [
             {
                 "last_verified": "2019-01-13",
@@ -874,25 +903,26 @@
             {
                 "last_verified": "2019-01-13",
                 "level": "8-10",
-                "faction": "Grineer VS Infestés",
+                "faction": "Feux Croisés Extermination",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "Mercure",
-                "type": "Crossfire Sabotage"
+                "type": "Sabotage"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "7-9",
-                "faction": "Grineer VS Infestés",
+                "faction": "Feux Croisés Extermination",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "Mercure",
-                "type": "Crossfire Exterminate"
+                "type": "Extermination"
             }
         ]
     },
     {
         "name": "MOA",
+        "imageKey": "moa",
         "locations": [
             {
                 "last_verified": "2019-04-04",
@@ -925,6 +955,7 @@
     },
     {
         "name": "Napalm",
+        "imageKey": "napalm",
         "locations": [
             {
                 "last_verified": "2019-01-21",
@@ -948,6 +979,7 @@
     },
     {
         "name": "Homme d'Équipage Zéro",
+        "imageKey": "nullifier_crewman",
         "locations": [
             {
                 "last_verified": "2019-06-27",
@@ -971,6 +1003,7 @@
     },
     {
         "name": "Coureur [Research]",
+        "imageKey": "runner",
         "locations": [
             {
                 "last_verified": "2018-01-06",
@@ -986,7 +1019,7 @@
                 "level": "34-38",
                 "faction": "Infesté",
                 "spawn_rate": "100%",
-                "mission": "Orokin Derelict Exterminate",
+                "mission": "Orokin Derelict Extermination",
                 "planet": "Épave",
                 "type": "Extermination"
             }
@@ -994,6 +1027,7 @@
     },
     {
         "name": "Scorch",
+        "imageKey": "scorch",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -1026,6 +1060,7 @@
     },
     {
         "name": "Scorpion",
+        "imageKey": "scorpion",
         "locations": [
             {
                 "last_verified": "2019-02-02",
@@ -1058,6 +1093,7 @@
     },
     {
         "name": "Seeker / Frontier Seeker",
+        "imageKey": "seeker",
         "locations": [
             {
                 "last_verified": "2020-03-10",
@@ -1099,6 +1135,7 @@
     },
     {
         "name": "Lancier à Bouclier",
+        "imageKey": "shield_lancer",
         "locations": [
             {
                 "last_verified": "2019-01-30",
@@ -1140,11 +1177,12 @@
     },
     {
         "name": "Swarm-Mutalist MOA",
+        "imageKey": "swarm-mutalist_moa",
         "locations": [
             {
                 "last_verified": "2019-01-19",
                 "level": "18-20",
-                "faction": "Grineer VS Infestés",
+                "faction": "Feux Croisés Extermination",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europe",
@@ -1172,6 +1210,7 @@
     },
     {
         "name": "Trooper",
+        "imageKey": "trooper",
         "locations": [
             {
                 "last_verified": "2019-01-22",

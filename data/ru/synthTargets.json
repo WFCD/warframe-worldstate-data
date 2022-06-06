@@ -1,11 +1,12 @@
 [
     {
         "name": "Древний Разрушитель",
+        "imageKey": "ancient_disruptor",
         "locations": [
             {
                 "last_verified": "2019-02-24",
                 "level": "6-16",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "Земля",
@@ -14,7 +15,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "8-10",
-                "faction": "Гринир против Зараженных",
+                "faction": "Война Зачистка",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Меркурий",
@@ -23,7 +24,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Эрида",
@@ -33,11 +34,12 @@
     },
     {
         "name": "Древний Целитель",
+        "imageKey": "ancient_healer",
         "locations": [
             {
                 "last_verified": "2018-08-22",
                 "level": "10-15",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Hepit (Не подтверждено)",
                 "planet": "Бездна",
@@ -47,6 +49,7 @@
     },
     {
         "name": "Анти МОА [Research]",
+        "imageKey": "anti_moa",
         "locations": [
             {
                 "last_verified": "2019-07-01",
@@ -79,6 +82,7 @@
     },
     {
         "name": "Пустынный Потрошитель [Research]",
+        "imageKey": "arid_eviscerator",
         "locations": [
             {
                 "last_verified": "2018-04-16",
@@ -93,6 +97,7 @@
     },
     {
         "name": "Баллиста",
+        "imageKey": "ballista",
         "locations": [
             {
                 "last_verified": "2019-02-15",
@@ -116,11 +121,12 @@
     },
     {
         "name": "Фурункулер",
+        "imageKey": "boiler",
         "locations": [
             {
                 "last_verified": "2019-01-23",
                 "level": "23-33",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Cholistan",
                 "planet": "Европа",
@@ -129,7 +135,7 @@
             {
                 "last_verified": "2019-01-23",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Эрида",
@@ -138,7 +144,7 @@
             {
                 "last_verified": "2019-01-23",
                 "level": "25-35",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Захват Руин Орокин",
                 "planet": "Руины",
@@ -148,6 +154,7 @@
     },
     {
         "name": "Бомбардировщик",
+        "imageKey": "bombard",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -189,11 +196,12 @@
     },
     {
         "name": "Мать Выводка",
+        "imageKey": "brood_mother",
         "locations": [
             {
                 "last_verified": "2019-04-16",
                 "level": "6-16",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "Земля",
@@ -202,7 +210,7 @@
             {
                 "last_verified": "2019-01-26",
                 "level": "15-25",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Gabii",
                 "planet": "Церера",
@@ -211,7 +219,7 @@
             {
                 "last_verified": "2019-01-29",
                 "level": "25-35",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Assur",
                 "planet": "Уран",
@@ -220,7 +228,7 @@
             {
                 "last_verified": "2019-01-26",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Эрида",
@@ -230,6 +238,7 @@
     },
     {
         "name": "Мясник",
+        "imageKey": "butcher",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -271,29 +280,30 @@
     },
     {
         "name": "Инфестоид",
+        "imageKey": "charger",
         "locations": [
             {
                 "last_verified": "2019-06-27",
                 "level": "8-10",
-                "faction": "Гринир против Зараженных",
+                "faction": "Война Зачистка",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Меркурий",
-                "type": "Перестрелка Диверсия"
+                "type": "Диверсия"
             },
             {
                 "last_verified": "2019-09-01",
                 "level": "7-9",
-                "faction": "Гринир против Зараженных",
+                "faction": "Война Зачистка",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "Меркурий",
-                "type": "Перестрелка Зачистка"
+                "type": "Зачистка"
             },
             {
                 "last_verified": "2019-06-27",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Эрида",
@@ -303,6 +313,7 @@
     },
     {
         "name": "Командир",
+        "imageKey": "commander",
         "locations": [
             {
                 "last_verified": "2018-05-08",
@@ -317,6 +328,7 @@
     },
     {
         "name": "Порабощённый Древний [Research]",
+        "imageKey": "corrupted_ancient",
         "locations": [
             {
                 "last_verified": "2019-02-05",
@@ -349,6 +361,7 @@
     },
     {
         "name": "Порабощённый Бомбардировщик",
+        "imageKey": "corrupted_bombard",
         "locations": [
             {
                 "last_verified": "2019-06-05",
@@ -372,6 +385,7 @@
     },
     {
         "name": "Порабощённый Мясник",
+        "imageKey": "corrupted_butcher",
         "locations": [
             {
                 "last_verified": "2019-01-25",
@@ -395,6 +409,7 @@
     },
     {
         "name": "Порабощённый Солдат Корпуса",
+        "imageKey": "corrupted_crewman",
         "locations": [
             {
                 "last_verified": "2019-01-28",
@@ -418,6 +433,7 @@
     },
     {
         "name": "Порабощённый Пулемётчик",
+        "imageKey": "corrupted_heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-03-23",
@@ -450,6 +466,7 @@
     },
     {
         "name": "Порабощённый Солдат Гринир",
+        "imageKey": "corrupted_lancer",
         "locations": [
             {
                 "last_verified": "2018-04-15",
@@ -473,6 +490,7 @@
     },
     {
         "name": "Порабощённый Нуллификатор",
+        "imageKey": "corrupted_nullifier",
         "locations": [
             {
                 "last_verified": "2019-08-14",
@@ -487,11 +505,12 @@
     },
     {
         "name": "Ползун",
+        "imageKey": "crawler",
         "locations": [
             {
                 "last_verified": "2018-04-06",
                 "level": "6-16",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "Земля",
@@ -500,7 +519,7 @@
             {
                 "last_verified": "2018-05-13",
                 "level": "6-11",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Apollodorus",
                 "planet": "Меркурий",
@@ -509,7 +528,7 @@
             {
                 "last_verified": "2019-05-30",
                 "level": "18-20",
-                "faction": "Гринир против Зараженных",
+                "faction": "Война Зачистка",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Европа",
@@ -518,7 +537,7 @@
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Эрида",
@@ -527,7 +546,7 @@
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "Эрида",
@@ -536,7 +555,7 @@
             {
                 "last_verified": "2018-03-20",
                 "level": "25-35",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Руины Орокин: Убийство",
                 "planet": "Руины",
@@ -546,6 +565,7 @@
     },
     {
         "name": "Солдат Корпуса [Research]",
+        "imageKey": "crewman",
         "locations": [
             {
                 "last_verified": "2019-08-16",
@@ -560,6 +580,7 @@
     },
     {
         "name": "Повелитель Драков",
+        "imageKey": "drahk_master",
         "locations": [
             {
                 "last_verified": "2019-01-31",
@@ -583,6 +604,7 @@
     },
     {
         "name": "Элитный солдат Корпуса",
+        "imageKey": "elite_crewman",
         "locations": [
             {
                 "last_verified": "2019-09-28",
@@ -615,6 +637,7 @@
     },
     {
         "name": "Потрошитель",
+        "imageKey": "eviscerator",
         "locations": [
             {
                 "last_verified": "2019-01-24",
@@ -656,6 +679,7 @@
     },
     {
         "name": "Гибридный МОА",
+        "imageKey": "fusion_moa",
         "locations": [
             {
                 "last_verified": "2019-01-29",
@@ -697,6 +721,7 @@
     },
     {
         "name": "Охранник [Research]",
+        "imageKey": "guardsman",
         "locations": [
             {
                 "last_verified": "2019-11-23",
@@ -729,6 +754,7 @@
     },
     {
         "name": "Пулемётчик",
+        "imageKey": "heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -770,6 +796,7 @@
     },
     {
         "name": "Изгнанник",
+        "imageKey": "hellion",
         "locations": [
             {
                 "last_verified": "2019-08-15",
@@ -802,6 +829,7 @@
     },
     {
         "name": "Солдат Гринир [Research]",
+        "imageKey": "lancer",
         "locations": [
             {
                 "last_verified": "2019-02-14",
@@ -852,11 +880,12 @@
     },
     {
         "name": "Прыгун",
+        "imageKey": "leaper",
         "locations": [
             {
                 "last_verified": "2019-01-13",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Эрида",
@@ -865,7 +894,7 @@
             {
                 "last_verified": "2018-09-23",
                 "level": "6-16",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "Земля",
@@ -874,25 +903,26 @@
             {
                 "last_verified": "2019-01-13",
                 "level": "8-10",
-                "faction": "Гринир против Зараженных",
+                "faction": "Война Зачистка",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "Меркурий",
-                "type": "Перестрелка Диверсия"
+                "type": "Диверсия"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "7-9",
-                "faction": "Гринир против Зараженных",
+                "faction": "Война Зачистка",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "Меркурий",
-                "type": "Перестрелка Зачистка"
+                "type": "Зачистка"
             }
         ]
     },
     {
         "name": "МОА Шагоход",
+        "imageKey": "moa",
         "locations": [
             {
                 "last_verified": "2019-04-04",
@@ -925,6 +955,7 @@
     },
     {
         "name": "Огнемётчик",
+        "imageKey": "napalm",
         "locations": [
             {
                 "last_verified": "2019-01-21",
@@ -948,6 +979,7 @@
     },
     {
         "name": "Нуллификатор Корпуса",
+        "imageKey": "nullifier_crewman",
         "locations": [
             {
                 "last_verified": "2019-06-27",
@@ -971,11 +1003,12 @@
     },
     {
         "name": "Бегун [Research]",
+        "imageKey": "runner",
         "locations": [
             {
                 "last_verified": "2018-01-06",
                 "level": "34-38",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Saxis",
                 "planet": "Эрида",
@@ -984,9 +1017,9 @@
             {
                 "last_verified": "2018-08-31",
                 "level": "34-38",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
-                "mission": "Зачиска Руин Орокин",
+                "mission": "Orokin Derelict Extermination",
                 "planet": "Руины",
                 "type": "Зачистка"
             }
@@ -994,6 +1027,7 @@
     },
     {
         "name": "Напалм",
+        "imageKey": "scorch",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -1026,6 +1060,7 @@
     },
     {
         "name": "Скорпион",
+        "imageKey": "scorpion",
         "locations": [
             {
                 "last_verified": "2019-02-02",
@@ -1058,6 +1093,7 @@
     },
     {
         "name": "Искатель / Пограничный Искатель",
+        "imageKey": "seeker",
         "locations": [
             {
                 "last_verified": "2020-03-10",
@@ -1099,6 +1135,7 @@
     },
     {
         "name": "Щитоносец",
+        "imageKey": "shield_lancer",
         "locations": [
             {
                 "last_verified": "2019-01-30",
@@ -1140,11 +1177,12 @@
     },
     {
         "name": "Роевик-Муталист МОА",
+        "imageKey": "swarm-mutalist_moa",
         "locations": [
             {
                 "last_verified": "2019-01-19",
                 "level": "18-20",
-                "faction": "Гринир против Зараженных",
+                "faction": "Война Зачистка",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Европа",
@@ -1153,7 +1191,7 @@
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "Эрида",
@@ -1162,7 +1200,7 @@
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Заражение",
+                "faction": "Заражённые",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "Эрида",
@@ -1172,6 +1210,7 @@
     },
     {
         "name": "Пехотинец",
+        "imageKey": "trooper",
         "locations": [
             {
                 "last_verified": "2019-01-22",
