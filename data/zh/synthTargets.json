@@ -1,11 +1,12 @@
 [
     {
         "name": "远古干扰者",
+        "imageKey": "ancient_disruptor",
         "locations": [
             {
                 "last_verified": "2019-02-24",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "地球",
@@ -14,7 +15,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "雙方交戰",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "水星",
@@ -23,7 +24,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "鬩神星",
@@ -33,11 +34,12 @@
     },
     {
         "name": "远古治愈者",
+        "imageKey": "ancient_healer",
         "locations": [
             {
                 "last_verified": "2018-08-22",
                 "level": "10-15",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Hepit (未确认)",
                 "planet": "虚空",
@@ -47,6 +49,7 @@
     },
     {
         "name": "逆进恐鸟 [Research]",
+        "imageKey": "anti_moa",
         "locations": [
             {
                 "last_verified": "2019-07-01",
@@ -55,7 +58,7 @@
                 "spawn_rate": "100%",
                 "mission": "Acheron",
                 "planet": "冥王星",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2020-01-28",
@@ -64,7 +67,7 @@
                 "spawn_rate": "100%",
                 "mission": "Baal",
                 "planet": "歐羅巴",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "0000-00-00",
@@ -79,6 +82,7 @@
     },
     {
         "name": "沙漠开膛者 [Research]",
+        "imageKey": "arid_eviscerator",
         "locations": [
             {
                 "last_verified": "2018-04-16",
@@ -93,6 +97,7 @@
     },
     {
         "name": "弩炮",
+        "imageKey": "ballista",
         "locations": [
             {
                 "last_verified": "2019-02-15",
@@ -116,11 +121,12 @@
     },
     {
         "name": "痈裂者",
+        "imageKey": "boiler",
         "locations": [
             {
                 "last_verified": "2019-01-23",
                 "level": "23-33",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Cholistan",
                 "planet": "歐羅巴",
@@ -129,7 +135,7 @@
             {
                 "last_verified": "2019-01-23",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "鬩神星",
@@ -138,7 +144,7 @@
             {
                 "last_verified": "2019-01-23",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Capture",
                 "planet": "Orokin 遺跡船",
@@ -148,6 +154,7 @@
     },
     {
         "name": "轰击者",
+        "imageKey": "bombard",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -189,11 +196,12 @@
     },
     {
         "name": "病变虫母",
+        "imageKey": "brood_mother",
         "locations": [
             {
                 "last_verified": "2019-04-16",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "地球",
@@ -202,7 +210,7 @@
             {
                 "last_verified": "2019-01-26",
                 "level": "15-25",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Gabii",
                 "planet": "穀神星",
@@ -211,7 +219,7 @@
             {
                 "last_verified": "2019-01-29",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Assur",
                 "planet": "天王星",
@@ -220,7 +228,7 @@
             {
                 "last_verified": "2019-01-26",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "鬩神星",
@@ -230,6 +238,7 @@
     },
     {
         "name": "屠夫",
+        "imageKey": "butcher",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -271,29 +280,30 @@
     },
     {
         "name": "疾冲者",
+        "imageKey": "charger",
         "locations": [
             {
                 "last_verified": "2019-06-27",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "雙方交戰",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "水星",
-                "type": "多方交战 破坏"
+                "type": "破壞"
             },
             {
                 "last_verified": "2019-09-01",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "雙方交戰",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "水星",
-                "type": "多方交战 歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-06-27",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "鬩神星",
@@ -303,6 +313,7 @@
     },
     {
         "name": "指挥官",
+        "imageKey": "commander",
         "locations": [
             {
                 "last_verified": "2018-05-08",
@@ -311,12 +322,13 @@
                 "spawn_rate": "100%",
                 "mission": "Telesto",
                 "planet": "土星",
-                "type": "歼灭"
+                "type": "殲滅"
             }
         ]
     },
     {
         "name": "远古堕落者 [Research]",
+        "imageKey": "corrupted_ancient",
         "locations": [
             {
                 "last_verified": "2019-02-05",
@@ -349,6 +361,7 @@
     },
     {
         "name": "堕落轰击者",
+        "imageKey": "corrupted_bombard",
         "locations": [
             {
                 "last_verified": "2019-06-05",
@@ -357,7 +370,7 @@
                 "spawn_rate": "100%",
                 "mission": "Oxomoco",
                 "planet": "虚空",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-01-12",
@@ -372,6 +385,7 @@
     },
     {
         "name": "堕落屠夫",
+        "imageKey": "corrupted_butcher",
         "locations": [
             {
                 "last_verified": "2019-01-25",
@@ -389,12 +403,13 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "虚空",
-                "type": "歼灭"
+                "type": "殲滅"
             }
         ]
     },
     {
         "name": "堕落船员",
+        "imageKey": "corrupted_crewman",
         "locations": [
             {
                 "last_verified": "2019-01-28",
@@ -403,7 +418,7 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "虚空",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-01-28",
@@ -418,6 +433,7 @@
     },
     {
         "name": "堕落重型机枪手",
+        "imageKey": "corrupted_heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-03-23",
@@ -435,7 +451,7 @@
                 "spawn_rate": "100%",
                 "mission": "Teshub",
                 "planet": "虚空",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-03-23",
@@ -450,6 +466,7 @@
     },
     {
         "name": "堕落枪兵",
+        "imageKey": "corrupted_lancer",
         "locations": [
             {
                 "last_verified": "2018-04-15",
@@ -473,6 +490,7 @@
     },
     {
         "name": "堕落虚能者",
+        "imageKey": "corrupted_nullifier",
         "locations": [
             {
                 "last_verified": "2019-08-14",
@@ -481,17 +499,18 @@
                 "spawn_rate": "78%",
                 "mission": "Oxomoco",
                 "planet": "虚空",
-                "type": "歼灭"
+                "type": "殲滅"
             }
         ]
     },
     {
         "name": "爬行者",
+        "imageKey": "crawler",
         "locations": [
             {
                 "last_verified": "2018-04-06",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "地球",
@@ -500,7 +519,7 @@
             {
                 "last_verified": "2018-05-13",
                 "level": "6-11",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Apollodorus",
                 "planet": "水星",
@@ -509,16 +528,16 @@
             {
                 "last_verified": "2019-05-30",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "雙方交戰",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "歐羅巴",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "鬩神星",
@@ -527,7 +546,7 @@
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "鬩神星",
@@ -536,7 +555,7 @@
             {
                 "last_verified": "2018-03-20",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Orokin 遗迹 刺杀",
                 "planet": "Orokin 遺跡船",
@@ -546,6 +565,7 @@
     },
     {
         "name": "船员 [Research]",
+        "imageKey": "crewman",
         "locations": [
             {
                 "last_verified": "2019-08-16",
@@ -560,6 +580,7 @@
     },
     {
         "name": "爪喀驯兽师",
+        "imageKey": "drahk_master",
         "locations": [
             {
                 "last_verified": "2019-01-31",
@@ -583,6 +604,7 @@
     },
     {
         "name": "精英船员",
+        "imageKey": "elite_crewman",
         "locations": [
             {
                 "last_verified": "2019-09-28",
@@ -615,6 +637,7 @@
     },
     {
         "name": "开膛者",
+        "imageKey": "eviscerator",
         "locations": [
             {
                 "last_verified": "2019-01-24",
@@ -656,6 +679,7 @@
     },
     {
         "name": "熔岩恐鸟",
+        "imageKey": "fusion_moa",
         "locations": [
             {
                 "last_verified": "2019-01-29",
@@ -697,6 +721,7 @@
     },
     {
         "name": "禁卫 [Research]",
+        "imageKey": "guardsman",
         "locations": [
             {
                 "last_verified": "2019-11-23",
@@ -729,6 +754,7 @@
     },
     {
         "name": "重型机枪手",
+        "imageKey": "heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -770,6 +796,7 @@
     },
     {
         "name": "恶徒",
+        "imageKey": "hellion",
         "locations": [
             {
                 "last_verified": "2019-08-15",
@@ -802,6 +829,7 @@
     },
     {
         "name": "枪兵 [Research]",
+        "imageKey": "lancer",
         "locations": [
             {
                 "last_verified": "2019-02-14",
@@ -828,7 +856,7 @@
                 "spawn_rate": "100%",
                 "mission": "Pantheon",
                 "planet": "水星",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-06-24",
@@ -852,11 +880,12 @@
     },
     {
         "name": "奔跳者",
+        "imageKey": "leaper",
         "locations": [
             {
                 "last_verified": "2019-01-13",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "鬩神星",
@@ -865,7 +894,7 @@
             {
                 "last_verified": "2018-09-23",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "地球",
@@ -874,25 +903,26 @@
             {
                 "last_verified": "2019-01-13",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "雙方交戰",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "水星",
-                "type": "多方交战 破坏"
+                "type": "破壞"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "雙方交戰",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "水星",
-                "type": "多方交战 歼灭"
+                "type": "殲滅"
             }
         ]
     },
     {
         "name": "恐鸟",
+        "imageKey": "moa",
         "locations": [
             {
                 "last_verified": "2019-04-04",
@@ -919,12 +949,13 @@
                 "spawn_rate": "100%",
                 "mission": "E-Gate",
                 "planet": "金星",
-                "type": "歼灭"
+                "type": "殲滅"
             }
         ]
     },
     {
         "name": "火焰轰击者",
+        "imageKey": "napalm",
         "locations": [
             {
                 "last_verified": "2019-01-21",
@@ -948,6 +979,7 @@
     },
     {
         "name": "虚能船员",
+        "imageKey": "nullifier_crewman",
         "locations": [
             {
                 "last_verified": "2019-06-27",
@@ -971,29 +1003,31 @@
     },
     {
         "name": "狂奔者 [Research]",
+        "imageKey": "runner",
         "locations": [
             {
                 "last_verified": "2018-01-06",
                 "level": "34-38",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Saxis",
                 "planet": "鬩神星",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2018-08-31",
                 "level": "34-38",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
-                "mission": "Orokin Derelict Exterminate",
+                "mission": "Orokin Derelict Extermination",
                 "planet": "Orokin 遺跡船",
-                "type": "歼灭"
+                "type": "殲滅"
             }
         ]
     },
     {
         "name": "Scorch",
+        "imageKey": "scorch",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -1026,6 +1060,7 @@
     },
     {
         "name": "天蝎",
+        "imageKey": "scorpion",
         "locations": [
             {
                 "last_verified": "2019-02-02",
@@ -1058,6 +1093,7 @@
     },
     {
         "name": "追踪者 / 前线追踪者",
+        "imageKey": "seeker",
         "locations": [
             {
                 "last_verified": "2020-03-10",
@@ -1066,7 +1102,7 @@
                 "spawn_rate": "100%",
                 "mission": "E-Prime",
                 "planet": "地球",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-11-28",
@@ -1099,6 +1135,7 @@
     },
     {
         "name": "盾枪兵",
+        "imageKey": "shield_lancer",
         "locations": [
             {
                 "last_verified": "2019-01-30",
@@ -1107,7 +1144,7 @@
                 "spawn_rate": "75%",
                 "mission": "Pantheon",
                 "planet": "水星",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-01-30",
@@ -1140,20 +1177,21 @@
     },
     {
         "name": "异融胞群恐鸟",
+        "imageKey": "swarm-mutalist_moa",
         "locations": [
             {
                 "last_verified": "2019-01-19",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "雙方交戰",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "歐羅巴",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "鬩神星",
@@ -1162,7 +1200,7 @@
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "Infested",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "鬩神星",
@@ -1172,6 +1210,7 @@
     },
     {
         "name": "骑兵",
+        "imageKey": "trooper",
         "locations": [
             {
                 "last_verified": "2019-01-22",
@@ -1189,7 +1228,7 @@
                 "spawn_rate": "100%",
                 "mission": "E Prime",
                 "planet": "地球",
-                "type": "歼灭"
+                "type": "殲滅"
             },
             {
                 "last_verified": "2019-01-22",
@@ -1216,7 +1255,7 @@
                 "spawn_rate": "100%",
                 "mission": "Adaro",
                 "planet": "賽德娜",
-                "type": "歼灭"
+                "type": "殲滅"
             }
         ]
     }
