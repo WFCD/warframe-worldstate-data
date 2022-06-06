@@ -27,7 +27,6 @@ const solNodesSchema = {
       enum: [
         'Ancient Retribution',
         'Arena',
-        'Assassinate',
         'Assassination',
         'Assault',
         'Capture',

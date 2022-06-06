@@ -23,7 +23,7 @@
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "lint:fix": "eslint --ignore-path .gitignore . --fix",
-    "test": " nyc mocha",
+    "test": "nyc mocha",
     "coverage": "npm test && nyc report --reporter=text-lcov | coveralls",
     "sort": "python tools/sort_languages.py",
     "validate": "npm run lint:fix && npm run test && git add -u ."
@@ -119,8 +119,6 @@
   },
   "mocha": {},
   "pre-commit": [
-    "lint",
-    "validate",
-    "test"
+    "validate"
   ]
 }
