@@ -1,11 +1,12 @@
 [
     {
         "name": "에인션트 디스럽터",
+        "imageKey": "ancient_disruptor",
         "locations": [
             {
                 "last_verified": "2019-02-24",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "지구",
@@ -14,7 +15,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "크로스파이어",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "수성",
@@ -23,7 +24,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "에리스",
@@ -33,11 +34,12 @@
     },
     {
         "name": "Ancient Healer",
+        "imageKey": "ancient_healer",
         "locations": [
             {
                 "last_verified": "2018-08-22",
                 "level": "10-15",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Hepit (Unconfirmed)",
                 "planet": "Void",
@@ -47,6 +49,7 @@
     },
     {
         "name": "Anti MOA [Research]",
+        "imageKey": "anti_moa",
         "locations": [
             {
                 "last_verified": "2019-07-01",
@@ -79,6 +82,7 @@
     },
     {
         "name": "Arid Eviscerator [Research]",
+        "imageKey": "arid_eviscerator",
         "locations": [
             {
                 "last_verified": "2018-04-16",
@@ -93,6 +97,7 @@
     },
     {
         "name": "Ballista",
+        "imageKey": "ballista",
         "locations": [
             {
                 "last_verified": "2019-02-15",
@@ -116,11 +121,12 @@
     },
     {
         "name": "Boiler",
+        "imageKey": "boiler",
         "locations": [
             {
                 "last_verified": "2019-01-23",
                 "level": "23-33",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Cholistan",
                 "planet": "유로파",
@@ -129,7 +135,7 @@
             {
                 "last_verified": "2019-01-23",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "에리스",
@@ -138,7 +144,7 @@
             {
                 "last_verified": "2019-01-23",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "버려진 오로킨 함선 생포 미션",
                 "planet": "Derelict",
@@ -148,6 +154,7 @@
     },
     {
         "name": "Bombard",
+        "imageKey": "bombard",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -189,11 +196,12 @@
     },
     {
         "name": "Brood Mother",
+        "imageKey": "brood_mother",
         "locations": [
             {
                 "last_verified": "2019-04-16",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "지구",
@@ -202,7 +210,7 @@
             {
                 "last_verified": "2019-01-26",
                 "level": "15-25",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Gabii",
                 "planet": "세레스",
@@ -211,7 +219,7 @@
             {
                 "last_verified": "2019-01-29",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Assur",
                 "planet": "천왕성",
@@ -220,7 +228,7 @@
             {
                 "last_verified": "2019-01-26",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "에리스",
@@ -230,6 +238,7 @@
     },
     {
         "name": "Butcher",
+        "imageKey": "butcher",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -271,29 +280,30 @@
     },
     {
         "name": "Charger",
+        "imageKey": "charger",
         "locations": [
             {
                 "last_verified": "2019-06-27",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "크로스파이어",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "수성",
-                "type": "Crossfire Sabotage"
+                "type": "파괴공작"
             },
             {
                 "last_verified": "2019-09-01",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "크로스파이어",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "수성",
-                "type": "Crossfire Exterminate"
+                "type": "섬멸"
             },
             {
                 "last_verified": "2019-06-27",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "에리스",
@@ -303,6 +313,7 @@
     },
     {
         "name": "Commander",
+        "imageKey": "commander",
         "locations": [
             {
                 "last_verified": "2018-05-08",
@@ -317,6 +328,7 @@
     },
     {
         "name": "Corrupted Ancient [Research]",
+        "imageKey": "corrupted_ancient",
         "locations": [
             {
                 "last_verified": "2019-02-05",
@@ -349,6 +361,7 @@
     },
     {
         "name": "Corrupted Bombard",
+        "imageKey": "corrupted_bombard",
         "locations": [
             {
                 "last_verified": "2019-06-05",
@@ -372,6 +385,7 @@
     },
     {
         "name": "Corrupted Butcher",
+        "imageKey": "corrupted_butcher",
         "locations": [
             {
                 "last_verified": "2019-01-25",
@@ -395,6 +409,7 @@
     },
     {
         "name": "Corrupted Crewman",
+        "imageKey": "corrupted_crewman",
         "locations": [
             {
                 "last_verified": "2019-01-28",
@@ -418,6 +433,7 @@
     },
     {
         "name": "Corrupted Heavy Gunner",
+        "imageKey": "corrupted_heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-03-23",
@@ -450,6 +466,7 @@
     },
     {
         "name": "Corrupted Lancer",
+        "imageKey": "corrupted_lancer",
         "locations": [
             {
                 "last_verified": "2018-04-15",
@@ -473,6 +490,7 @@
     },
     {
         "name": "Corrupted Nullifier",
+        "imageKey": "corrupted_nullifier",
         "locations": [
             {
                 "last_verified": "2019-08-14",
@@ -487,11 +505,12 @@
     },
     {
         "name": "Crawler",
+        "imageKey": "crawler",
         "locations": [
             {
                 "last_verified": "2018-04-06",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "지구",
@@ -500,7 +519,7 @@
             {
                 "last_verified": "2018-05-13",
                 "level": "6-11",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Apollodorus",
                 "planet": "수성",
@@ -509,7 +528,7 @@
             {
                 "last_verified": "2019-05-30",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "크로스파이어",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "유로파",
@@ -518,7 +537,7 @@
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "에리스",
@@ -527,7 +546,7 @@
             {
                 "last_verified": "2019-03-07",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "에리스",
@@ -536,7 +555,7 @@
             {
                 "last_verified": "2018-03-20",
                 "level": "25-35",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Assassination",
                 "planet": "Derelict",
@@ -546,6 +565,7 @@
     },
     {
         "name": "Crewman [Research]",
+        "imageKey": "crewman",
         "locations": [
             {
                 "last_verified": "2019-08-16",
@@ -560,6 +580,7 @@
     },
     {
         "name": "Drahk Master",
+        "imageKey": "drahk_master",
         "locations": [
             {
                 "last_verified": "2019-01-31",
@@ -583,6 +604,7 @@
     },
     {
         "name": "Elite Crewman",
+        "imageKey": "elite_crewman",
         "locations": [
             {
                 "last_verified": "2019-09-28",
@@ -615,6 +637,7 @@
     },
     {
         "name": "Eviscerator",
+        "imageKey": "eviscerator",
         "locations": [
             {
                 "last_verified": "2019-01-24",
@@ -656,6 +679,7 @@
     },
     {
         "name": "Fusion MOA",
+        "imageKey": "fusion_moa",
         "locations": [
             {
                 "last_verified": "2019-01-29",
@@ -697,6 +721,7 @@
     },
     {
         "name": "Guardsman [Research]",
+        "imageKey": "guardsman",
         "locations": [
             {
                 "last_verified": "2019-11-23",
@@ -729,6 +754,7 @@
     },
     {
         "name": "Heavy Gunner",
+        "imageKey": "heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -770,6 +796,7 @@
     },
     {
         "name": "Hellion",
+        "imageKey": "hellion",
         "locations": [
             {
                 "last_verified": "2019-08-15",
@@ -802,6 +829,7 @@
     },
     {
         "name": "Lancer [Research]",
+        "imageKey": "lancer",
         "locations": [
             {
                 "last_verified": "2019-02-14",
@@ -852,11 +880,12 @@
     },
     {
         "name": "Leaper",
+        "imageKey": "leaper",
         "locations": [
             {
                 "last_verified": "2019-01-13",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "에리스",
@@ -865,7 +894,7 @@
             {
                 "last_verified": "2018-09-23",
                 "level": "6-16",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Tikal",
                 "planet": "지구",
@@ -874,25 +903,26 @@
             {
                 "last_verified": "2019-01-13",
                 "level": "8-10",
-                "faction": "Grineer VS Infestation",
+                "faction": "크로스파이어",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "수성",
-                "type": "Crossfire Sabotage"
+                "type": "파괴공작"
             },
             {
                 "last_verified": "2018-09-23",
                 "level": "7-9",
-                "faction": "Grineer VS Infestation",
+                "faction": "크로스파이어",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "수성",
-                "type": "Crossfire Exterminate"
+                "type": "섬멸"
             }
         ]
     },
     {
         "name": "MOA",
+        "imageKey": "moa",
         "locations": [
             {
                 "last_verified": "2019-04-04",
@@ -925,6 +955,7 @@
     },
     {
         "name": "Napalm",
+        "imageKey": "napalm",
         "locations": [
             {
                 "last_verified": "2019-01-21",
@@ -948,6 +979,7 @@
     },
     {
         "name": "Nullifier Crewman",
+        "imageKey": "nullifier_crewman",
         "locations": [
             {
                 "last_verified": "2019-06-27",
@@ -971,11 +1003,12 @@
     },
     {
         "name": "Runner [Research]",
+        "imageKey": "runner",
         "locations": [
             {
                 "last_verified": "2018-01-06",
                 "level": "34-38",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Saxis",
                 "planet": "에리스",
@@ -984,9 +1017,9 @@
             {
                 "last_verified": "2018-08-31",
                 "level": "34-38",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
-                "mission": "버려진 오로킨 함선 섬멸 미션",
+                "mission": "Orokin Derelict Extermination",
                 "planet": "Derelict",
                 "type": "섬멸"
             }
@@ -994,6 +1027,7 @@
     },
     {
         "name": "스코치",
+        "imageKey": "scorch",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -1026,6 +1060,7 @@
     },
     {
         "name": "Scorpion",
+        "imageKey": "scorpion",
         "locations": [
             {
                 "last_verified": "2019-02-02",
@@ -1058,6 +1093,7 @@
     },
     {
         "name": "Seeker / Frontier Seeker",
+        "imageKey": "seeker",
         "locations": [
             {
                 "last_verified": "2020-03-10",
@@ -1099,6 +1135,7 @@
     },
     {
         "name": "Shield Lancer",
+        "imageKey": "shield_lancer",
         "locations": [
             {
                 "last_verified": "2019-01-30",
@@ -1140,11 +1177,12 @@
     },
     {
         "name": "Swarm-Mutalist MOA",
+        "imageKey": "swarm-mutalist_moa",
         "locations": [
             {
                 "last_verified": "2019-01-19",
                 "level": "18-20",
-                "faction": "Grineer VS Infestation",
+                "faction": "크로스파이어",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "유로파",
@@ -1153,7 +1191,7 @@
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Isos",
                 "planet": "에리스",
@@ -1162,7 +1200,7 @@
             {
                 "last_verified": "2019-01-19",
                 "level": "32-36",
-                "faction": "Infestation",
+                "faction": "인페스티드",
                 "spawn_rate": "100%",
                 "mission": "Brugia",
                 "planet": "에리스",
@@ -1172,6 +1210,7 @@
     },
     {
         "name": "Trooper",
+        "imageKey": "trooper",
         "locations": [
             {
                 "last_verified": "2019-01-22",
