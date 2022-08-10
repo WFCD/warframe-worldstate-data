@@ -12759,6 +12759,10 @@
     "desc": "Complete 1 mission with only a single pistol and a glaive equipped",
     "value": "The Old Ways"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyeternalguardian": {
+    "desc": "Complete 3 Void Armageddon missions",
+    "value": "Eternal Guardian"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Collect 20 different types of resources.",
     "value": "Resource Scavenger"
@@ -12874,6 +12878,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthemanymadewhole": {
     "desc": "Convert 10 Riven Slivers into a Riven Mod",
     "value": "The Many Made Whole"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardriseofthemachine": {
+    "desc": "Kill 300 enemies using a Necramech without getting destroyed",
+    "value": "Rise of the Machine"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
