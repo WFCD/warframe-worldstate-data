@@ -1302,7 +1302,7 @@
   "SolNode902": {
     "value": "Montes (Венера)",
     "enemy": "Корпус",
-    "type": "Extermination (Archwing)"
+    "type": "Зачистка (Арчвинг)"
   },
   "SolNode903": {
     "value": "Erpo (Земля)",
@@ -1312,7 +1312,7 @@
   "SolNode904": {
     "value": "Syrtis (Марс)",
     "enemy": "Гринир",
-    "type": "Extermination (Archwing)"
+    "type": "Зачистка (Арчвинг)"
   },
   "SolNode905": {
     "value": "Galilea (Юпитер)",
@@ -1510,7 +1510,7 @@
     "type": "Реле"
   },
   "TradeHUB1": {
-    "value": "Maroo's Bazaar (Mars)",
+    "value": "Базар Мэру (Марс)",
     "enemy": "Корпус",
     "type": "Реле"
   },
@@ -1930,7 +1930,7 @@
     "type": "Оборона"
   },
   "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil)",
+    "value": "Поле битвы Рюс (Вуаль)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
@@ -1940,14 +1940,14 @@
     "type": "Стычка"
   },
   "CrewBattleNode510": {
-    "value": "Gian Point (Veil)",
+    "value": "Точка Джан (Вуаль)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
   "CrewBattleNode511": {
     "value": "Защитное Кольцо Маяка (Венера)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Налёт"
   },
   "CrewBattleNode512": {
     "value": "Орвин-Хаарк (Венера)",
@@ -1965,7 +1965,7 @@
     "type": "Оборона"
   },
   "CrewBattleNode515": {
-    "value": "Luckless Expanse (Venus)",
+    "value": "Бездольная Ширь (Венера)",
     "enemy": "Корпус",
     "type": "Выживание"
   },
@@ -2002,10 +2002,10 @@
   "CrewBattleNode524": {
     "value": "Суверенная Хватка (Нептун)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Налёт"
   },
   "CrewBattleNode525": {
-    "value": "Brom Cluster (Neptune)",
+    "value": "Кластер Брома (Нептун)",
     "enemy": "Корпус",
     "type": "Шпионаж"
   },
@@ -2027,7 +2027,7 @@
   "CrewBattleNode529": {
     "value": "Предел Прибыли (Плутон)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Налёт"
   },
   "CrewBattleNode530": {
     "value": "Перевал Казио (Сатурн)",
@@ -2035,7 +2035,7 @@
     "type": "Стычка"
   },
   "CrewBattleNode531": {
-    "value": "Fenton's Field (Pluto)",
+    "value": "Фентоново Поле (Плутон)",
     "enemy": "Корпус",
     "type": "Выживание"
   },
@@ -2067,7 +2067,7 @@
   "CrewBattleNode539": {
     "value": "Нумина (Вуаль)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Налёт"
   },
   "CrewBattleNode540": {
     "value": "Серебряная Дуга (Вуаль)",
@@ -2085,7 +2085,7 @@
     "type": "Выживание"
   },
   "CrewBattleNode543": {
-    "value": "Sambir Cloud (Veil)",
+    "value": "Облако Сабмира (Вуаль)",
     "enemy": "Корпус",
     "type": "Шпионаж"
   },
@@ -2095,12 +2095,12 @@
     "type": "Стычка"
   },
   "CrewBattleNode551": {
-    "value": "Ganalen's Grave (Veil)",
+    "value": "Могила Ганалена (Вуаль)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
   "CrewBattleNode552": {
-    "value": "Rya (Veil)",
+    "value": "Риа (Вуаль)",
     "enemy": "Гринир",
     "type": "Стычка"
   },
