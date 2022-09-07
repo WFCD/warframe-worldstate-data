@@ -12767,6 +12767,10 @@
     "desc": "Complete 4 different Bounties in the Zariman",
     "value": "Zariman Bounty Hunter"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyhighground": {
+    "desc": "Complete 3 Void Flood missions",
+    "value": "High Ground"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Collect 20 different types of resources.",
     "value": "Resource Scavenger"
@@ -12886,6 +12890,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardriseofthemachine": {
     "desc": "Kill 300 enemies using a Necramech without getting destroyed",
     "value": "Rise of the Machine"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfallenangel": {
+    "desc": "Defeat 5 Void Angels in the Zariman",
+    "value": "Fallen Angel"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
