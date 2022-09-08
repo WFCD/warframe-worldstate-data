@@ -127,6 +127,22 @@
     "SORTIE_BOSS_CORRUPTED_VOR": {
       "name": "Vor corrupto",
       "faction": "Corruptos"
+    },
+    "SORTIE_BOSS_BOREAL": {
+      "name": "Archon Boreal",
+      "faction": "Narmer"
+    },
+    "SORTIE_BOSS_AMAR": {
+      "name": "Archon Amar",
+      "faction": "Narmer"
+    },
+    "SORTIE_BOSS_NIRA": {
+      "name": "Archon Nira",
+      "faction": "Narmer"
+    },
+    "SORTIE_BOSS_PAAZUL": {
+      "name": "Archon Paazul",
+      "faction": "Narmer"
     }
   },
   "endStates": [
