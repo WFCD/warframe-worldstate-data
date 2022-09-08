@@ -20,6 +20,7 @@ const sortieDataSchema = {
             'Corrupted',
             'Grineer',
             'Infestation',
+            'Narmer',
           ],
         },
       },
