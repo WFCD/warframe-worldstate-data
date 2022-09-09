@@ -97,7 +97,7 @@
     },
     {
         "name": "Баллиста",
-        "imageKey": "баллиста",
+        "imageKey": "ballista",
         "locations": [
             {
                 "last_verified": "2019-02-15",
@@ -154,7 +154,7 @@
     },
     {
         "name": "Бомбардировщик",
-        "imageKey": "бомбардир",
+        "imageKey": "bombard",
         "locations": [
             {
                 "last_verified": "2019-01-20",
@@ -238,7 +238,7 @@
     },
     {
         "name": "Мясник",
-        "imageKey": "мясник",
+        "imageKey": "butcher",
         "locations": [
             {
                 "last_verified": "2019-02-26",
@@ -313,7 +313,7 @@
     },
     {
         "name": "Командир",
-        "imageKey": "командир",
+        "imageKey": "commander",
         "locations": [
             {
                 "last_verified": "2018-05-08",
@@ -409,7 +409,7 @@
     },
     {
         "name": "Порабощённый Солдат Корпуса",
-        "imageKey": "порабощённый_солдат_корпуса",
+        "imageKey": "corrupted_crewman",
         "locations": [
             {
                 "last_verified": "2019-01-28",
@@ -466,7 +466,7 @@
     },
     {
         "name": "Порабощённый Солдат Гринир",
-        "imageKey": "порабощённый_солдат_гринир",
+        "imageKey": "corrupted_lancer",
         "locations": [
             {
                 "last_verified": "2018-04-15",
@@ -505,7 +505,7 @@
     },
     {
         "name": "Ползун",
-        "imageKey": "ползун",
+        "imageKey": "crawler",
         "locations": [
             {
                 "last_verified": "2018-04-06",
@@ -565,7 +565,7 @@
     },
     {
         "name": "Солдат Корпуса [Research]",
-        "imageKey": "солдат_корпуса",
+        "imageKey": "crewman",
         "locations": [
             {
                 "last_verified": "2019-08-16",
@@ -754,7 +754,7 @@
     },
     {
         "name": "Пулемётчик",
-        "imageKey": "тяжёлый_пулемётчик",
+        "imageKey": "heavy_gunner",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -829,7 +829,7 @@
     },
     {
         "name": "Солдат Гринир [Research]",
-        "imageKey": "солдат_гринир",
+        "imageKey": "lancer",
         "locations": [
             {
                 "last_verified": "2019-02-14",
@@ -880,7 +880,7 @@
     },
     {
         "name": "Прыгун",
-        "imageKey": "прыгун",
+        "imageKey": "leaper",
         "locations": [
             {
                 "last_verified": "2019-01-13",
@@ -922,7 +922,7 @@
     },
     {
         "name": "МОА Шагоход",
-        "imageKey": "моа",
+        "imageKey": "moa",
         "locations": [
             {
                 "last_verified": "2019-04-04",
@@ -955,7 +955,7 @@
     },
     {
         "name": "Огнемётчик",
-        "imageKey": "напалм",
+        "imageKey": "napalm",
         "locations": [
             {
                 "last_verified": "2019-01-21",
@@ -1003,7 +1003,7 @@
     },
     {
         "name": "Бегун [Research]",
-        "imageKey": "бегун",
+        "imageKey": "runner",
         "locations": [
             {
                 "last_verified": "2018-01-06",
@@ -1027,7 +1027,7 @@
     },
     {
         "name": "Напалм",
-        "imageKey": "поджигатель",
+        "imageKey": "scorch",
         "locations": [
             {
                 "last_verified": "2019-08-13",
@@ -1060,7 +1060,7 @@
     },
     {
         "name": "Скорпион",
-        "imageKey": "скорпион",
+        "imageKey": "scorpion",
         "locations": [
             {
                 "last_verified": "2019-02-02",
@@ -1093,7 +1093,7 @@
     },
     {
         "name": "Искатель / Пограничный Искатель",
-        "imageKey": "искатель",
+        "imageKey": "seeker",
         "locations": [
             {
                 "last_verified": "2020-03-10",
@@ -1135,7 +1135,7 @@
     },
     {
         "name": "Щитоносец",
-        "imageKey": "солдат_с_щитом",
+        "imageKey": "shield_lancer",
         "locations": [
             {
                 "last_verified": "2019-01-30",
@@ -1210,7 +1210,7 @@
     },
     {
         "name": "Пехотинец",
-        "imageKey": "пехотинец",
+        "imageKey": "trooper",
         "locations": [
             {
                 "last_verified": "2019-01-22",
