@@ -12453,7 +12453,7 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
     "desc": "使用病毒伤害击杀150名敌人",
-    "value": "有毒共享"
+    "value": "Go Viral"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
     "desc": "击杀一个赤毒奴仆",
@@ -12763,6 +12763,14 @@
     "desc": "Complete 3 Void Armageddon missions",
     "value": "Eternal Guardian"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyzarimanbountyhunter": {
+    "desc": "Complete 4 different Bounties in the Zariman",
+    "value": "Zariman Bounty Hunter"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyhighground": {
+    "desc": "Complete 3 Void Flood missions",
+    "value": "High Ground"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Collect 20 different types of resources.",
     "value": "Resource Scavenger"
@@ -12883,9 +12891,9 @@
     "desc": "Kill 300 enemies using a Necramech without getting destroyed",
     "value": "Rise of the Machine"
   },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyzarimanbountyhunter": {
-    "desc": "Complete 4 different Bounties in the Zariman",
-    "value": "Zariman Bounty Hunter"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfallenangel": {
+    "desc": "Defeat 5 Void Angels in the Zariman",
+    "value": "Fallen Angel"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "苦难"
