@@ -7,6 +7,8 @@ chai.use(require('chai-json-schema'));
 chai.should();
 chai.tv4.banUnknown = true;
 
+const syndicates = Object.keys(require('../data/syndicatesData.json'));
+
 const languagesSchema = {
   definitions: {
     language: {
@@ -19,10 +21,9 @@ const languagesSchema = {
     },
   },
   type: 'object',
-  patternProperties: {
-    '^/ee|^/lotus|^[0-9a-z]+$': { $ref: '#/definitions/language' },
-  },
+  patternProperties: {},
 };
+languagesSchema.patternProperties[`^/ee|^/lotus|^/Lotus|${syndicates.join('|')}|^[0-9a-z]+$`] = { $ref: '#/definitions/language' };
 
 describe('languages.json', () => {
   it('should be a valid JSON file', () => {
