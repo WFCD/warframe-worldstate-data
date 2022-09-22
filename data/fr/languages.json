@@ -1107,7 +1107,7 @@
   "/lotus/powersuits/ninja/ninja": {
     "value": "Ash"
   },
-  "/lotus/powersuits/odalisk/odalisk": {
+  "/Lotus/Powersuits/Odalisk/Odalisk": {
     "value": "Protea"
   },
   "/lotus/powersuits/pacifist/pacifist": {
@@ -18105,5 +18105,143 @@
   },
   "projectindex": {
     "value": "Points d'Index"
+  },
+  "ArbitersSyndicate": {
+    "value": "Les Arbitres de Hexis"
+  },
+  "CephalonSudaSyndicate": {
+    "value": "Le Cephalon Suda"
+  },
+  "NewLokaSyndicate": {
+    "value": "Le Nouveau Loka"
+  },
+  "PerrinSyndicate": {
+    "value": "La Séquence Perrin"
+  },
+  "SteelMeridianSyndicate": {
+    "value": "Le Méridien d'Acier"
+  },
+  "RedVeilSyndicate": {
+    "value": "Le Voile Rouge"
+  },
+  "CetusSyndicate": {
+    "value": "Ostron"
+  },
+  "QuillsSyndicate": {
+    "value": "Les Plumes"
+  },
+  "AssassinsSyndicate": {
+    "value": "Assassins"
+  },
+  "EventSyndicate": {
+    "value": "Opérations syndicales"
+  },
+  "SolarisSyndicate": {
+    "value": "Union Solaris"
+  },
+  "VoxSyndicate": {
+    "value": "Vox Solaris"
+  },
+  "VentKidsSyndicate": {
+    "value": "Orphelins des Conduits"
+  },
+  "EntratiSyndicate": {
+    "value": "Entrati"
+  },
+  "NecraloidSyndicate": {
+    "value": "Necraloïde"
+  },
+  "KahlSyndicate": {
+    "value": "Kahl's Garrison"
+  },
+  "ZarimanSyndicate": {
+    "value": "The Holdfasts"
+  },
+  "RadioLegionSyndicate": {
+    "value": "The Wolf of Saturn Six"
+  },
+  "RadioLegion2Syndicate": {
+    "value": "The Emissary"
+  },
+  "RadioLegion3Syndicate": {
+    "value": "Glassmaker"
+  },
+  "RadioLegionIntermissionSyndicate": {
+    "value": "Intermission"
+  },
+  "RadioLegionIntermission2Syndicate": {
+    "value": "Intermission II"
+  },
+  "RadioLegionIntermission3Syndicate": {
+    "value": "Intermission III"
+  },
+  "RadioLegionIntermission4Syndicate": {
+    "value": "Nora's Choice"
+  },
+  "RadioLegionIntermission5Syndicate": {
+    "value": "Nora's Mix Volume 1"
+  },
+  "RadioLegionIntermission6Syndicate": {
+    "value": "Nora's Mix Volume 2"
+  },
+  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/TitaniaDeluxeIISkinBundle": {
+    "value": "Titania Donann Collection"
+  },
+  "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb": {
+    "value": "Aegrit"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerVoidshellBundle": {
+    "value": "Void Adornment Bundle II"
+  },
+  "/Lotus/Upgrades/Skins/Armor/SWPiercingEyeShoulderArmor/SWPiercingEyeShoulderArmor": {
+    "value": "Piercing Eye Shoulder Armor"
+  },
+  "/Lotus/Upgrades/Skins/Odalisk/ProteaDeluxeSkin": {
+    "value": "Protea Caladrius Skin"
+  },
+  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/ProteaDeluxeSkinBundle": {
+    "value": "Proteus Caladrius Collection"
+  },
+  "/Lotus/Upgrades/Skins/Effects/NarmerEvolvingEphemeraA": {
+    "value": "Fog of War Ephemera"
+  },
+  "/Lotus/Types/StoreItems/Packages/StyanaxVoidshellSkinBundle": {
+    "value": "Styanax Voidshell Collection"
+  },
+  "/Lotus/Upgrades/Skins/Weapons/LongGuns/CorpusSpearGunSkin": {
+    "value": "Monitivus Thrown Weapon Skin"
+  },
+  "/Lotus/Types/StoreItems/Packages/FormaPack": {
+    "value": "Forma 3-Pack"
+  },
+  "/Lotus/Weapons/Tenno/LongGuns/TnHopliteSpear/TnHopliteSpearGunWeapon": {
+    "value": "Afentis"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerCommunityPack": {
+    "value": "Styanax Gallantry Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/StyanaxBundle": {
+    "value": "Styanax Gallantry Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerSupporterPack": {
+    "value": "Veilbreaker Warrior Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackB": {
+    "value": "Chrysalith Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackA": {
+    "value": "Emergence Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackC": {
+    "value": "15 Regal Aya"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackB": {
+    "value": "7 Regal Aya"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackA": {
+    "value": "3 Regal Aya"
+  },
+  "/Lotus/Weapons/Grineer/Melee/GrnSharbola/GrnSharbolaWeapon": {
+    "value": "Slaytra"
   }
 }
