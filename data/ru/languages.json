@@ -3459,8 +3459,8 @@
   "/lotus/storeitems/types/game/projections/t4voidprojectionosilver": {
     "value": "Реликвия Акси C1 (Необычная)"
   },
-  "/lotus/storeitems/types/game/projections/t4voidprojectionpbronze": {
-    "value": "Реликвия Акси A2 (Нетронутая)"
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
+    "value": "Axi A2 Relic (Intact)"
   },
   "/lotus/storeitems/types/game/projections/t4voidprojectionpgold": {
     "value": "Реликвия Акси A2 (Бесподобная)"
@@ -3903,8 +3903,8 @@
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationa": {
     "value": "Орнамент: Махд Люксум"
   },
-  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationb": {
-    "value": "Орнамент: Акка Люксум"
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB": {
+    "value": "Akka Luxxum Ornament"
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationc": {
     "value": "Орнамент: Заг Люксум"
@@ -3954,7 +3954,7 @@
   "/lotus/storeitems/types/items/shipdecos/frostbobblehead": {
     "value": "Фигурка - Фрост"
   },
-  "/lotus/storeitems/types/items/shipdecos/garvlatroxposter": {
+  "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
     "value": "Garv & Latrox Poster"
   },
   "/lotus/storeitems/types/items/shipdecos/grineerexcavationbossbobblehead": {
@@ -4023,8 +4023,8 @@
   "/lotus/storeitems/types/items/shipdecos/orbiterpictureframebaro": {
     "value": "Дисплей: Аргайл"
   },
-  "/lotus/storeitems/types/items/shipdecos/parazonposter": {
-    "value": "Постер: Паразон"
+  "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
+    "value": "Parazon Poster"
   },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Пьедестал Прайм"
@@ -4333,16 +4333,16 @@
     "value": "Башня 1 Захват"
   },
   "/lotus/storeitems/types/keys/orokincapturekeyb": {
-    "value": "Башня 2 Захват"
+    "value": "Tower II Capture"
   },
   "/lotus/storeitems/types/keys/orokincapturekeyc": {
-    "value": "Башня 3 Захват"
+    "value": "Tower III Capture"
   },
   "/lotus/storeitems/types/keys/orokindefensekeya": {
     "value": "Башня 1 Оборона"
   },
   "/lotus/storeitems/types/keys/orokindefensekeyb": {
-    "value": "Башня 2 Оборона"
+    "value": "Tower II Defense"
   },
   "/lotus/storeitems/types/keys/orokindefensekeyc": {
     "value": "Башня 3 Оборона"
@@ -4354,7 +4354,7 @@
     "value": "Башня 2 Выживание"
   },
   "/lotus/storeitems/types/keys/orokinkeyc": {
-    "value": "Башня 2 Зачистка"
+    "value": "Tower II Exterminate"
   },
   "/lotus/storeitems/types/keys/orokinkeyd": {
     "value": "Башня 2 Выживание"
@@ -5409,14 +5409,14 @@
   "/lotus/storeitems/types/restoratives/consumable/ancienthealerball": {
     "value": "Спектр Древний Целитель"
   },
-  "/lotus/storeitems/types/restoratives/consumable/assassinbait": {
-    "value": "Маяк Сталкера"
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
+    "value": "Stalker Beacon"
   },
-  "/lotus/storeitems/types/restoratives/consumable/assassinbaitb": {
-    "value": "Маяк охотника Зануки"
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitB": {
+    "value": "Zanuka Hunter Beacon"
   },
-  "/lotus/storeitems/types/restoratives/consumable/assassinbaitc": {
-    "value": "Маяк Грастрагской Тройки"
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC": {
+    "value": "Grustrag Three Beacon"
   },
   "/lotus/storeitems/types/restoratives/consumable/barofireworkscrate": {
     "value": "10x Ki'teer Fireworks"
@@ -5802,7 +5802,7 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagebansheereverbdark": {
     "value": "Глиф Банши \"Реверб\""
   },
-  "/lotus/storeitems/types/storeitems/avatarimages/imagebarokiteer": {
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer": {
     "value": "Baro Ki'teer Glyph"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagechromaamarubright": {
@@ -6708,8 +6708,8 @@
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingweapontoxindamagemod": {
     "value": "Venomous Clip"
   },
-  "/lotus/storeitems/upgrades/mods/archwing/rifle/expert/archwingrifledamageamountmodexpert": {
-    "value": "Ствол из Рубедо Прайм"
+  "/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert": {
+    "value": "Primed Rubedo-Lined Barrel"
   },
   "/lotus/storeitems/upgrades/mods/archwing/suit/archwingsuitabilitydurationmod": {
     "value": "Efficient Transferral"
@@ -7452,8 +7452,8 @@
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corruptedmaxclipreloadspeedpistol": {
     "value": "Tainted Clip"
   },
-  "/lotus/storeitems/upgrades/mods/pistol/dualstat/electeventpistolmod": {
-    "value": "Тряска"
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod": {
+    "value": "Jolt"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/fireeventpistolmod": {
     "value": "Напалм"
@@ -7518,8 +7518,8 @@
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolconvertammomodexpert": {
     "value": "Мутатор Прайм: Пистолет"
   },
-  "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorpusexpert": {
-    "value": "Изгнание Прайм: Корпус"
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert": {
+    "value": "Primed Expel Corpus"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorruptedexpert": {
     "value": "Изгнание Прайм: Порабощённые"
@@ -8151,8 +8151,8 @@
   "/lotus/storeitems/upgrades/mods/rifle/weaponzoomfovmod": {
     "value": "Eagle Eye"
   },
-  "/lotus/storeitems/upgrades/mods/sentinel/kubrow/expert/kubrowpackleaderexpertmod": {
-    "value": "Вожак Стаи Прайм"
+  "/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod": {
+    "value": "Primed Pack Leader"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowclonedfinishermod": {
     "value": "Savagery"
@@ -8352,8 +8352,8 @@
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponreloadspeedmodexpert": {
     "value": "Primed Tactical Pump"
   },
-  "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunconvertammomodexpert": {
-    "value": "Мутатор Прайм: Дробовик"
+  "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert": {
+    "value": "Primed Shotgun Ammo Mutation"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorpusexpert": {
     "value": "Зачистка Прайм: Корпус"
@@ -9012,13 +9012,13 @@
   "/lotus/storeitems/upgrades/skins/antimatter/unlockantimatternoble": {
     "value": "Nova Noble Animation Set"
   },
-  "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmoura": {
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourA": {
     "value": "Ki'teer Shoulder Plates"
   },
-  "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmourc": {
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourC": {
     "value": "Ki'teer Chest Plate"
   },
-  "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmourl": {
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourL": {
     "value": "Ki'teer Leg Plates"
   },
   "/lotus/storeitems/upgrades/skins/armor/baroarmourtwo/baroarmourtwoa": {
@@ -9411,7 +9411,7 @@
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorhalloweena": {
     "value": "Броня Кавата: Вайсар - День Мертвых"
   },
-  "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorvoidtradera": {
+  "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA": {
     "value": "Ki'teer Kavat Armor"
   },
   "/lotus/storeitems/upgrades/skins/clan/aggressioneventcorpusbadgeitem": {
@@ -10161,8 +10161,8 @@
   "/lotus/storeitems/upgrades/skins/liset/lisetskinkotora": {
     "value": "Liset Kotara Skin"
   },
-  "/lotus/storeitems/upgrades/skins/liset/lisetskinvoidtrader": {
-    "value": "Скин Лисет: Призма"
+  "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader": {
+    "value": "Liset Prisma Skin"
   },
   "/lotus/storeitems/upgrades/skins/loki/lokiagileanims": {
     "value": "Loki Agile Animation Set"
@@ -10383,7 +10383,7 @@
   "/lotus/storeitems/upgrades/skins/nvidia/nvidiabratonskin": {
     "value": "Nvidia Braton"
   },
-  "/lotus/storeitems/upgrades/skins/operator/accessories/barohorn": {
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
     "value": "Ki'teer Cornu Diadem"
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/baromouthpiecea": {
@@ -10548,7 +10548,7 @@
   "/lotus/storeitems/upgrades/skins/scarves/barocape": {
     "value": "Ki'teer Syandana"
   },
-  "/lotus/storeitems/upgrades/skins/scarves/barocape2scarf": {
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf": {
     "value": "Ki'teer Razza Synadana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/brassandgoldscarf": {
@@ -11247,7 +11247,7 @@
   "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticegorgon": {
     "value": "Скин Горгоны: Тосун"
   },
-  "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticetwingrakatas": {
+  "/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas": {
     "value": "Twin Grakatas Towsun Skin"
   },
   "/lotus/storeitems/upgrades/skins/tengu/tenguagileanims": {
@@ -11622,7 +11622,7 @@
   "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/prismadualcleavers": {
     "value": "Парные Секачи Призма"
   },
-  "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/wraithmacheteweapon": {
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
     "value": "Мачете Призрак"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineertylaxeandboar/regoraxeshield": {
@@ -18243,5 +18243,20 @@
   },
   "/Lotus/Weapons/Grineer/Melee/GrnSharbola/GrnSharbolaWeapon": {
     "value": "Слайтра"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
+    "value": "Fae Path Ephemera"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm": {
+    "value": "Reshantur Cult Spear Skin"
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon": {
+    "value": "Halikar Wraith"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
+    "value": "Prisma Dual Decurions"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/DomsFinalDrink": {
+    "value": "Aged Claret of Denas"
   }
 }
