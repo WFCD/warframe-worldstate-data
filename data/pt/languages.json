@@ -3459,7 +3459,7 @@
   "/lotus/storeitems/types/game/projections/t4voidprojectionosilver": {
     "value": "Axi C1 Relic (Exceptional)"
   },
-  "/lotus/storeitems/types/game/projections/t4voidprojectionpbronze": {
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
     "value": "Axi A2 Relic (Intact)"
   },
   "/lotus/storeitems/types/game/projections/t4voidprojectionpgold": {
@@ -3903,7 +3903,7 @@
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationa": {
     "value": "Mahd Luxxum Ornament"
   },
-  "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationb": {
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB": {
     "value": "Akka Luxxum Ornament"
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationc": {
@@ -3954,7 +3954,7 @@
   "/lotus/storeitems/types/items/shipdecos/frostbobblehead": {
     "value": "Estátua Noggle: Frost"
   },
-  "/lotus/storeitems/types/items/shipdecos/garvlatroxposter": {
+  "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
     "value": "Garv & Latrox Poster"
   },
   "/lotus/storeitems/types/items/shipdecos/grineerexcavationbossbobblehead": {
@@ -4023,7 +4023,7 @@
   "/lotus/storeitems/types/items/shipdecos/orbiterpictureframebaro": {
     "value": "Display - Argyle"
   },
-  "/lotus/storeitems/types/items/shipdecos/parazonposter": {
+  "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
     "value": "Parazon Poster"
   },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
@@ -4333,16 +4333,16 @@
     "value": "Tower I Capture"
   },
   "/lotus/storeitems/types/keys/orokincapturekeyb": {
-    "value": "Tower Ii Capture"
+    "value": "Tower II Capture"
   },
   "/lotus/storeitems/types/keys/orokincapturekeyc": {
-    "value": "Tower Iii Capture"
+    "value": "Tower III Capture"
   },
   "/lotus/storeitems/types/keys/orokindefensekeya": {
     "value": "Tower I Defense"
   },
   "/lotus/storeitems/types/keys/orokindefensekeyb": {
-    "value": "Tower Ii Defense"
+    "value": "Tower II Defense"
   },
   "/lotus/storeitems/types/keys/orokindefensekeyc": {
     "value": "Tower Iii Defense"
@@ -4354,7 +4354,7 @@
     "value": "Tower I Survival"
   },
   "/lotus/storeitems/types/keys/orokinkeyc": {
-    "value": "Tower Ii Exterminate"
+    "value": "Tower II Exterminate"
   },
   "/lotus/storeitems/types/keys/orokinkeyd": {
     "value": "Tower Ii Survival"
@@ -5409,14 +5409,14 @@
   "/lotus/storeitems/types/restoratives/consumable/ancienthealerball": {
     "value": "Espectro: Ancient Healer"
   },
-  "/lotus/storeitems/types/restoratives/consumable/assassinbait": {
-    "value": "Sinalizador: Stalker"
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
+    "value": "Stalker Beacon"
   },
-  "/lotus/storeitems/types/restoratives/consumable/assassinbaitb": {
-    "value": "Sinalizador: Zanuka Hunter"
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitB": {
+    "value": "Zanuka Hunter Beacon"
   },
-  "/lotus/storeitems/types/restoratives/consumable/assassinbaitc": {
-    "value": "Sinalizador: Grustrag Three"
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC": {
+    "value": "Grustrag Three Beacon"
   },
   "/lotus/storeitems/types/restoratives/consumable/barofireworkscrate": {
     "value": "10x Ki'teer Fireworks"
@@ -5802,7 +5802,7 @@
   "/lotus/storeitems/types/storeitems/avatarimages/imagebansheereverbdark": {
     "value": "Ícone de Perfil: Banshee Reverb"
   },
-  "/lotus/storeitems/types/storeitems/avatarimages/imagebarokiteer": {
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer": {
     "value": "Baro Ki'teer Glyph"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagechromaamarubright": {
@@ -6708,7 +6708,7 @@
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingweapontoxindamagemod": {
     "value": "Venomous Clip"
   },
-  "/lotus/storeitems/upgrades/mods/archwing/rifle/expert/archwingrifledamageamountmodexpert": {
+  "/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert": {
     "value": "Primed Rubedo-Lined Barrel"
   },
   "/lotus/storeitems/upgrades/mods/archwing/suit/archwingsuitabilitydurationmod": {
@@ -7452,7 +7452,7 @@
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corruptedmaxclipreloadspeedpistol": {
     "value": "Tainted Clip"
   },
-  "/lotus/storeitems/upgrades/mods/pistol/dualstat/electeventpistolmod": {
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod": {
     "value": "Jolt"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/fireeventpistolmod": {
@@ -7518,7 +7518,7 @@
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolconvertammomodexpert": {
     "value": "Primed Pistol Ammo Mutation"
   },
-  "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorpusexpert": {
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert": {
     "value": "Primed Expel Corpus"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorruptedexpert": {
@@ -8151,7 +8151,7 @@
   "/lotus/storeitems/upgrades/mods/rifle/weaponzoomfovmod": {
     "value": "Eagle Eye"
   },
-  "/lotus/storeitems/upgrades/mods/sentinel/kubrow/expert/kubrowpackleaderexpertmod": {
+  "/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod": {
     "value": "Primed Pack Leader"
   },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowclonedfinishermod": {
@@ -8352,7 +8352,7 @@
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponreloadspeedmodexpert": {
     "value": "Primed Tactical Pump"
   },
-  "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunconvertammomodexpert": {
+  "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert": {
     "value": "Primed Shotgun Ammo Mutation"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorpusexpert": {
@@ -9012,13 +9012,13 @@
   "/lotus/storeitems/upgrades/skins/antimatter/unlockantimatternoble": {
     "value": "Animações: Nova Nobre"
   },
-  "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmoura": {
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourA": {
     "value": "Ki'teer Shoulder Plates"
   },
-  "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmourc": {
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourC": {
     "value": "Ki'teer Chest Plate"
   },
-  "/lotus/storeitems/upgrades/skins/armor/baroarmour/baroarmourl": {
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourL": {
     "value": "Ki'teer Leg Plates"
   },
   "/lotus/storeitems/upgrades/skins/armor/baroarmourtwo/baroarmourtwoa": {
@@ -9411,7 +9411,7 @@
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorhalloweena": {
     "value": "Wysar Day Of The Dead Kavat Armor"
   },
-  "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorvoidtradera": {
+  "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA": {
     "value": "Ki'teer Kavat Armor"
   },
   "/lotus/storeitems/upgrades/skins/clan/aggressioneventcorpusbadgeitem": {
@@ -10161,7 +10161,7 @@
   "/lotus/storeitems/upgrades/skins/liset/lisetskinkotora": {
     "value": "Liset Kotara Skin"
   },
-  "/lotus/storeitems/upgrades/skins/liset/lisetskinvoidtrader": {
+  "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader": {
     "value": "Liset Prisma Skin"
   },
   "/lotus/storeitems/upgrades/skins/loki/lokiagileanims": {
@@ -10383,7 +10383,7 @@
   "/lotus/storeitems/upgrades/skins/nvidia/nvidiabratonskin": {
     "value": "Nvidia Braton"
   },
-  "/lotus/storeitems/upgrades/skins/operator/accessories/barohorn": {
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
     "value": "Ki'teer Cornu Diadem"
   },
   "/lotus/storeitems/upgrades/skins/operator/accessories/baromouthpiecea": {
@@ -10548,7 +10548,7 @@
   "/lotus/storeitems/upgrades/skins/scarves/barocape": {
     "value": "Ki'teer Syandana"
   },
-  "/lotus/storeitems/upgrades/skins/scarves/barocape2scarf": {
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf": {
     "value": "Ki'teer Razza Synadana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/brassandgoldscarf": {
@@ -11247,7 +11247,7 @@
   "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticegorgon": {
     "value": "Gorgon Towsun Skin"
   },
-  "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticetwingrakatas": {
+  "/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas": {
     "value": "Twin Grakatas Towsun Skin"
   },
   "/lotus/storeitems/upgrades/skins/tengu/tenguagileanims": {
@@ -11622,7 +11622,7 @@
   "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/prismadualcleavers": {
     "value": "Prisma Dual Cleavers"
   },
-  "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/wraithmacheteweapon": {
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
     "value": "Machete Wraith"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineertylaxeandboar/regoraxeshield": {
@@ -18243,5 +18243,20 @@
   },
   "/Lotus/Weapons/Grineer/Melee/GrnSharbola/GrnSharbolaWeapon": {
     "value": "Slaytra"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
+    "value": "Fae Path Ephemera"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm": {
+    "value": "Reshantur Cult Spear Skin"
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon": {
+    "value": "Halikar Wraith"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
+    "value": "Prisma Dual Decurions"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/DomsFinalDrink": {
+    "value": "Aged Claret of Denas"
   }
 }
