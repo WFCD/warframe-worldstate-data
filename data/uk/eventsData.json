@@ -1,26 +1,26 @@
 {
   "tags": {
     "KelaEvent": {
-      "value": "Operation: Rathuum"
+      "value": "Операція Ратум"
     },
     "KelaEventB": {
-      "value": "Operation: Rathuum pt. 2"
+      "value": "Операція Ратум частина 2"
     },
     "KelaEventBonus": {
-      "value": "Endless Rathuum"
+      "value": "Нескінченний Ратум"
     }
   },
   "scoreVariables": {
     "KelaEvent": {
       "value": {
-        "value": "100 Judgement Points"
+        "value": "100 балів Правосуддя"
       }
     }
   },
   "scoreMaxTags": {
     "KelaEventMax": {
       "value": {
-        "value": "100 Judgement Points"
+        "value": "100 балів Правосуддя"
       }
     }
   }
