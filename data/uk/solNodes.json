@@ -152,7 +152,7 @@
   "SolNode30": {
     "value": "Olympus (Mars)",
     "enemy": "Ґрінери",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "SolNode31": {
     "value": "Anthe (Saturn)",
@@ -437,7 +437,7 @@
   "SolNode87": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "SolNode88": {
     "value": "Adrastea (Jupiter)",
@@ -592,7 +592,7 @@
   "SolNode118": {
     "value": "Laomedeia (Neptune)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "SolNode119": {
     "value": "Caloris (Mercury)",
@@ -647,7 +647,7 @@
   "SolNode129": {
     "value": "Orb Vallis (Venus)",
     "enemy": "Корпус",
-    "type": "Free Roam"
+    "type": "Мандри"
   },
   "SolNode130": {
     "value": "Lares (Mercury)",
@@ -883,7 +883,7 @@
   "SolNode177": {
     "value": "Kappa (Sedna)",
     "enemy": "Ґрінери",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "SolNode178": {
     "value": "Hyosube (Sedna)",
@@ -1132,12 +1132,12 @@
   "SolNode228": {
     "value": "Plains of Eidolon (Earth)",
     "enemy": "Ґрінери",
-    "type": "Free Roam"
+    "type": "Мандри"
   },
   "SolNode229": {
     "value": "Cambion Drift (Deimos)",
     "enemy": "Заражені",
-    "type": "Free Roam"
+    "type": "Мандри"
   },
   "SolNode400": {
     "value": "Teshub (Void)",
@@ -1277,7 +1277,7 @@
   "SolNode745": {
     "value": "Tamu (Kuva Fortress)",
     "enemy": "Ґрінери",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "SolNode746": {
     "value": "Dakata (Kuva Fortress)",
@@ -1372,7 +1372,7 @@
   "SolNode308": {
     "value": "Apollo (Lua)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "SettlementNode1": {
     "value": "Roche (Phobos)",
@@ -1657,22 +1657,22 @@
   "EventNode30": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "EventNode31": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "EventNode32": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "EventNode33": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Disruption"
+    "type": "Прорив"
   },
   "EventNode34": {
     "value": "Earth",
