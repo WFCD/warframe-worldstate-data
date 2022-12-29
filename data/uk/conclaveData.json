@@ -1,0 +1,425 @@
+{
+  "modes": {
+    "PVPMODE_ALL": {
+      "value": "Any Mode"
+    },
+    "PVPMODE_DEATHMATCH": {
+      "value": "Annihilation"
+    },
+    "PVPMODE_TEAMDEATHMATCH": {
+      "value": "Team Annihilation"
+    },
+    "PVPMODE_NONE": {
+      "value": "None"
+    },
+    "PVPMODE_CAPTURETHEFLAG": {
+      "value": "Capture the Cephalon"
+    },
+    "PVPMODE_SPEEDBALL": {
+      "value": "Lunaro"
+    }
+  },
+  "categories": {
+    "PVPChallengeTypeCategory_WEEKLY": {
+      "value": "week",
+      "description": "Weekly"
+    },
+    "PVPChallengeTypeCategory_WEEKLY_ROOT": {
+      "value": "week_root",
+      "description": "Weekly Category"
+    },
+    "PVPChallengeTypeCategory_DAILY": {
+      "value": "day",
+      "description": "Daily"
+    },
+    "PVPChallengeTypeCategory_DAILY_ROOT": {
+      "value": "day_root",
+      "description": "Daily Category"
+    },
+    "PVPChallengeTypeCategory_MODEAFFECTOR": {
+      "value": "modified round",
+      "description": "Modified Round"
+    }
+  },
+  "challenges": {
+    "PVPTimedChallengeKillsPrimaryEASY": {
+      "title": "Primary Target",
+      "description": "Kill 1 enemy with your Primary Weapon",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsPrimaryMEDIUM": {
+      "title": "Primary Target",
+      "description": "Kill 4 enemies with your Primary Weapon",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsPrimaryHARD": {
+      "title": "Focused Primary Target",
+      "description": "Kill 3 enemies with your Primary Weapon in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsSecondaryEASY": {
+      "title": "Secondary Target",
+      "description": "Kill 1 enemy with your Secondary Weapon",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsSecondaryMEDIUM": {
+      "title": "Secondary Target",
+      "description": "Kill 4 enemies with your Secondary Weapon",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsSecondaryHARD": {
+      "title": "Focused Secondary Target",
+      "description": "Kill 3 enemies with your Secondary Weapon in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsWhileSlidingEASY": {
+      "title": "Slide Strike",
+      "description": "Kill 1 enemy while Sliding",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsWhileSlidingMEDIUM": {
+      "title": "Slide Strike",
+      "description": "Kill 4 enemies while Sliding",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsWhileSlidingHARD": {
+      "title": "Focused Slide Strike",
+      "description": "Kill 3 enemies while Sliding in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsComboEASY": {
+      "title": "Dexterity",
+      "description": "Kill 1 opponent using two of Melee, Guns, and Abilities",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsComboMEDIUM": {
+      "title": "Dexterity",
+      "description": "Kill 4 opponents using two of Melee, Guns, and Abilities",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsComboHARD": {
+      "title": "Focused Dexterity",
+      "description": "Kill 3 opponents using two of Melee, Guns, and Abilities in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsMultiEASY": {
+      "title": "Versatility",
+      "description": "Kill 1 opponent using Melee, Guns, and Abilities",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsMultiMEDIUM": {
+      "title": "Versatility",
+      "description": "Kill 4 opponents using Melee, Guns, and Abilities",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsMultiHARD": {
+      "title": "Focused Versatility",
+      "description": "Kill 3 opponents using Melee, Guns, and Abilities in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakEASY": {
+      "title": "Kill Streak",
+      "description": "Go on 1 Kill Streak",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakMEDIUM": {
+      "title": "Kill Streak",
+      "description": "Go on 3 Kill Streaks",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakHARD": {
+      "title": "Focused Kill Streak",
+      "description": "Go on 2 Kill Streaks in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakStopped_EASY": {
+      "title": "Streak Stopped",
+      "description": "Kill 1 enemy on a Kill Streak",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakStoppedEASY": {
+      "title": "Streak Stopped",
+      "description": "Kill 1 enemy on a Kill Streak",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
+      "title": "Streak Stopped",
+      "description": "Kill 3 enemies on a Kill Streak",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
+      "title": "Streak Stopped",
+      "description": "Kill 3 enemies on a Kill Streak",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakStopped_HARD": {
+      "title": "Focused Streak Stopped",
+      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakStoppedHARD": {
+      "title": "Focused Streak Stopped",
+      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsTargetInAirEASY": {
+      "title": "Anti-air Strike",
+      "description": "Kill 1 Airborne enemy",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsTargetInAirMEDIUM": {
+      "title": "Anti-air Strike",
+      "description": "Kill 4 Airborne enemies",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsTargetInAirHARD": {
+      "title": "Focused Anti-air Strike",
+      "description": "Kill 3 Airborne enemies in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsWhileInAirEASY": {
+      "title": "Air Strike",
+      "description": "Kill 1 enemy while Airborne",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsWhileInAirMEDIUM": {
+      "title": "Air Strike",
+      "description": "Kill 4 enemies while Airborne",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsWhileInAirHARD": {
+      "title": "Focused Air Strike",
+      "description": "Kill 3 enemies while Airborne in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsMeleeEASY": {
+      "title": "Gladiator",
+      "description": "Get 1 Melee kill",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsMeleeMEDIUM": {
+      "title": "Gladiator",
+      "description": "Get 4 Melee kills",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsMeleeHARD": {
+      "title": "Focused Gladiator",
+      "description": "Get 3 Melee kills in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsPowerEASY": {
+      "title": "Void-Painter",
+      "description": "Get 1 Warframe Ability kills",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsPowerMEDIUM": {
+      "title": "Void-Painter",
+      "description": "Get 4 Warframe Ability kills",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsPowerHARD": {
+      "title": "Focused Void-Painter",
+      "description": "Get 3 Warframe Ability kills in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsHeadShotsEASY": {
+      "title": "Shootist",
+      "description": "Get 1 Headshot kill",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsHeadShotsMEDIUM": {
+      "title": "Shootist",
+      "description": "Get 4 Headshot kills",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsHeadShotsHARD": {
+      "title": "Focused Shootist",
+      "description": "Get 3 Headshot kills in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsStreakDominationEASY": {
+      "title": "Domination",
+      "description": "Kill 1 enemy without them killing you",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsStreakDominationMEDIUM": {
+      "title": "Domination",
+      "description": "Kill 4 enemies without them killing you",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsStreakDominationHARD": {
+      "title": "Focused Domination",
+      "description": "Kill 3 enemies without them killing you in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeKillsPaybackEASY": {
+      "title": "Revenge",
+      "description": "Kill 1 enemy that have killed you",
+      "standing": 500
+    },
+    "PVPTimedChallengeKillsPaybackMEDIUM": {
+      "title": "Revenge",
+      "description": "Kill 4 enemies that have killed you",
+      "standing": 1500
+    },
+    "PVPTimedChallengeKillsPaybackHARD": {
+      "title": "Focused Revenge",
+      "description": "Kill 3 enemies that have killed you in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeFlagReturnEASY": {
+      "title": "Liberator",
+      "description": "Return your team's Cephalon 1 time",
+      "standing": 500
+    },
+    "PVPTimedChallengeFlagReturnMEDIUM": {
+      "title": "Liberator",
+      "description": "Return your team's Cephalon 4 times",
+      "standing": 1500
+    },
+    "PVPTimedChallengeFlagCaptureEASY": {
+      "title": "Bandit",
+      "description": "Capture 1 Cephalon",
+      "standing": 500
+    },
+    "PVPTimedChallengeFlagCaptureMEDIUM": {
+      "title": "Bandit",
+      "description": "Capture 4 Cephalons",
+      "standing": 1500
+    },
+    "PVPTimedChallengeSpeedballCatchesEASY": {
+      "title": "Heads Up!",
+      "description": "Catch 3 Passes from teammates",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballCatchesMEDIUM": {
+      "title": "Heads Up!",
+      "description": "Catch 10 Passes from teammates",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballCatchesHARD": {
+      "title": "Focused Heads Up!",
+      "description": "Catch 6 Passes from teammates in a match",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballInterceptionsEASY": {
+      "title": "Interception!",
+      "description": "Intercept 3 Passes from opponents",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
+      "title": "Interception!",
+      "description": "Intercept 6 Passes from opponents",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballInterceptionsHARD": {
+      "title": "Focused Interception!",
+      "description": "Intercept 3 Passes from opponents in a match",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballStealsEASY": {
+      "title": "Snatch and Grab",
+      "description": "Steal the ball 3 times",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballStealsMEDIUM": {
+      "title": "Snatch and Grab",
+      "description": "Steal the ball 6 times",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballStealsHARD": {
+      "title": "Focused Snatch and Grab",
+      "description": "Steal the ball 3 times in a match",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballChecksEASY": {
+      "title": "Blockade",
+      "description": "Strike opponents carrying the ball 3 times",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballChecksMEDIUM": {
+      "title": "Blockade",
+      "description": "Strike opponents carrying the ball 10 times",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballChecksHARD": {
+      "title": "Focused Blockade",
+      "description": "Strike opponents carrying the ball 6 times in a match",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballPassesEASY": {
+      "title": "Send It!",
+      "description": "Complete 3 Successful Passes to teammates",
+      "standing": 1000
+    },
+    "PVPTimedChallengeSpeedballPassesMEDIUM": {
+      "title": "Send It!",
+      "description": "Complete 6 Successful Passes to teammates",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballPassesHARD": {
+      "title": "Focused Send It!",
+      "description": "Complete 3 Successful Passes to teammates in a match",
+      "standing": 6000
+    },
+    "PVPTimedChallengeSpeedballGoalsEASY": {
+      "title": "Goal!",
+      "description": "Score 2 Goals",
+      "standing": 1000
+    },
+    "PVPTimedChallengeMatchCompleteEASY": {
+      "title": "See it Through",
+      "description": "Complete 1 match",
+      "standing": 500
+    },
+    "PVPTimedChallengeMatchCompleteMEDIUM": {
+      "title": "See it Through",
+      "description": "Complete 4 matches",
+      "standing": 1500
+    },
+    "PVPTimedChallengeWeeklyStandardSet": {
+      "title": "Weekly Mission",
+      "description": "Weekly Mission",
+      "standing": 50000
+    },
+    "PVPTimedChallengeGameModeWins": {
+      "title": "Match Won",
+      "description": "Win 6 matches of any Game Type",
+      "standing": 0
+    },
+    "PVPTimedChallengeGameModeComplete": {
+      "title": "Match Complete",
+      "description": "Complete 20 matches of any Game Type",
+      "standing": 0
+    },
+    "PVPTimedChallengeOtherChallengeCompleteANY": {
+      "title": "Conditioning",
+      "description": "Complete 10 Daily Challenges",
+      "standing": 0
+    },
+    "PVPTimedChallengeSpeedballGoalsHARD": {
+      "title": "Focused Goal!",
+      "description": "Score 4 Goals in a match",
+      "standing": 6000
+    },
+    "PVPTimedChallengeKillsPayback_MEDIUM": {
+      "title": "Revenge",
+      "description": "Kill 3 enemies that have killed you",
+      "standing": 1500
+    }
+  },
+  "affectors": {
+    "PVPTimedAffectorSuperEnergy": {
+      "title": "Energy Surge",
+      "description": "Energy Surge - Regain energy at a faster pace"
+    },
+    "PVPTimedAffectorSuperMeleeDamage": {
+      "title": "Extra Melee Damage",
+      "description": "Extra Melee Damage - Melee Damage is increased"
+    },
+    "PVPTimedAffectorSuperEverything": {
+      "title": "Extra Damage",
+      "description": "Extra Damage - All damage is increased"
+    }
+  }
+}
