@@ -1,21 +1,21 @@
 {
   "modifierTypes": {
     "SORTIE_MODIFIER_LOW_ENERGY": "Energy Reduction",
-    "SORTIE_MODIFIER_IMPACT": "Enemy Physical Enhancement: Impact",
-    "SORTIE_MODIFIER_SLASH": "Enemy Physical Enhancement: Slash",
-    "SORTIE_MODIFIER_PUNCTURE": "Enemy Physical Enhancement: Puncture",
-    "SORTIE_MODIFIER_EXIMUS": "Eximus Stronghold",
-    "SORTIE_MODIFIER_MAGNETIC": "Enemy Elemental Enhancement: Magnetic",
-    "SORTIE_MODIFIER_CORROSIVE": "Enemy Elemental Enhancement: Corrosive",
-    "SORTIE_MODIFIER_VIRAL": "Enemy Elemental Enhancement: Viral",
-    "SORTIE_MODIFIER_ELECTRICITY": "Enemy Elemental Enhancement: Electricity",
-    "SORTIE_MODIFIER_RADIATION": "Enemy Elemental Enhancement: Radiation",
-    "SORTIE_MODIFIER_GAS": "Enemy Elemental Enhancement: Gas",
-    "SORTIE_MODIFIER_FIRE": "Enemy Elemental Enhancement: Heat",
-    "SORTIE_MODIFIER_EXPLOSION": "Enemy Elemental Enhancement: Blast",
-    "SORTIE_MODIFIER_FREEZE": "Enemy Elemental Enhancement: Cold",
-    "SORTIE_MODIFIER_TOXIN": "Enemy Elemental Enhancement: Toxin",
-    "SORTIE_MODIFIER_POISON": "Enemy Elemental Enhancement: Toxin",
+    "SORTIE_MODIFIER_IMPACT": "Фізичне посилення ворогів: ударна",
+    "SORTIE_MODIFIER_SLASH": "Фізичне посилення ворогів: різальна",
+    "SORTIE_MODIFIER_PUNCTURE": "Фізичне посилення ворогів: пробивна",
+    "SORTIE_MODIFIER_EXIMUS": "Твердиня ексімів",
+    "SORTIE_MODIFIER_MAGNETIC": "Стихійне посилення ворогів: магнітна",
+    "SORTIE_MODIFIER_CORROSIVE": "Стихійне посилення ворогів: корозійна",
+    "SORTIE_MODIFIER_VIRAL": "Стихійне посилення ворогів: вірусна",
+    "SORTIE_MODIFIER_ELECTRICITY": "Стихійне посилення ворогів: електрична",
+    "SORTIE_MODIFIER_RADIATION": "Стихійне посилення ворогів: радіаційна",
+    "SORTIE_MODIFIER_GAS": "Стихійне посилення ворогів: газова",
+    "SORTIE_MODIFIER_FIRE": "Стихійне посилення ворогів: термічна",
+    "SORTIE_MODIFIER_EXPLOSION": "Стихійне посилення ворогів: вибухова",
+    "SORTIE_MODIFIER_FREEZE": "Стихійне посилення ворогів: крижана",
+    "SORTIE_MODIFIER_TOXIN": "Стихійне посилення ворогів: токсична",
+    "SORTIE_MODIFIER_POISON": "Стихійне посилення ворогів: токсична",
     "SORTIE_MODIFIER_HAZARD_RADIATION": "Environmental Hazard: Radiation Pockets",
     "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Environmental Hazard: Electromagnetic Anomalies",
     "SORTIE_MODIFIER_HAZARD_FOG": "Environmental Hazard: Dense Fog",
@@ -24,30 +24,30 @@
     "SORTIE_MODIFIER_HAZARD_COLD": "Environmental Effect: Extreme Cold",
     "SORTIE_MODIFIER_ARMOR": "Augmented Enemy Armor",
     "SORTIE_MODIFIER_SHIELDS": "Enhanced Enemy Shields",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "Weapon Restriction: Pistol Only",
-    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Weapon Restriction: Shotgun Only",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "Weapon Restriction: Sniper Only",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "Weapon Restriction: Assault Rifle Only",
-    "SORTIE_MODIFIER_MELEE_ONLY": "Weapon Restriction: Melee Only",
-    "SORTIE_MODIFIER_BOW_ONLY": "Weapon Restriction: Bow Only"
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "Обмеження: пістолети",
+    "SORTIE_MODIFIER_SHOTGUN_ONLY": "Обмеження: рушниці",
+    "SORTIE_MODIFIER_SNIPER_ONLY": "Обмеження: снайперські гвинтівки",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Обмеження: гвинтівки",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Обмеження: холодна зброя",
+    "SORTIE_MODIFIER_BOW_ONLY": "Обмеження: луки"
   },
   "modifierDescriptions": {
     "SORTIE_MODIFIER_LOW_ENERGY": "Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
-    "SORTIE_MODIFIER_IMPACT": "Enemies can deal enhanced impact damage. Finishing damage is not resisted.",
-    "SORTIE_MODIFIER_SLASH": "Enemies can deal enhanced slash damage. Finishing damage is not resisted.",
-    "SORTIE_MODIFIER_PUNCTURE": "Enemies can deal enhanced puncture damage. Finishing damage is not resisted.",
+    "SORTIE_MODIFIER_IMPACT": "У ворогів збільшена ударна шкода. Шкода від добивання не зменшується.",
+    "SORTIE_MODIFIER_SLASH": "У ворогів збільшена різальна шкода. Шкода від добивання не зменшується.",
+    "SORTIE_MODIFIER_PUNCTURE": "У ворогів збільшена пробивна шкода. Шкода від добивання не зменшується.",
     "SORTIE_MODIFIER_EXIMUS": "Eximus units have a much higher spawn rate in this mission. Some of their auras stack.",
-    "SORTIE_MODIFIER_MAGNETIC": "Enemies deal increased Magnetic damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_CORROSIVE": "Enemies deal increased Corrosive damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_VIRAL": "Enemies deal increased Viral damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_ELECTRICITY": "Enemies deal increased Electric damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_RADIATION": "Enemies deal increased Radiation damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_GAS": "Enemies deal increased Gas damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_FIRE": "Enemies deal increased Heat damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_EXPLOSION": "Enemies deal increased Blast damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_FREEZE": "Enemies deal increased Cold damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_TOXIN": "Enemies deal increased Toxin damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_POISON": "Enemies deal increased Toxin damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_MAGNETIC": "У ворогів збільшена ударна шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_CORROSIVE": "У ворогів збільшена корозійна шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_VIRAL": "У ворогів збільшена вірусна шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_ELECTRICITY": "У ворогів збільшена електрична шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_RADIATION": "У ворогів збільшена радіаційна шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_GAS": "У ворогів збільшена газова шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_FIRE": "У ворогів збільшена термічна шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_EXPLOSION": "У ворогів збільшена вибухова шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_FREEZE": "У ворогів збільшена крижана шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_TOXIN": "У ворогів збільшена токсична шкода, також мають підвищений опір до вказаного типу шкоди.",
+    "SORTIE_MODIFIER_POISON": "У ворогів збільшена токсична шкода, також мають підвищений опір до вказаного типу шкоди.",
     "SORTIE_MODIFIER_HAZARD_RADIATION": "Any damage received will impart radiation effects, and so will green clouds around the tileset.",
     "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Reduced Gravity. Blue blobs that deal magnetic procs placed through out the tileset.",
     "SORTIE_MODIFIER_HAZARD_FOG": "Limited visibility in the tileset due to dense fog. Forced night cycle on planets like earth.",
@@ -66,51 +66,51 @@
   "bosses": {
     "SORTIE_BOSS_HYENA": {
       "name": "Hyena Pack",
-      "faction": "Corpus"
+      "faction": "Корпус"
     },
     "SORTIE_BOSS_KELA": {
       "name": "Kela De Thaym",
-      "faction": "Grineer"
+      "faction": "Ґрінери"
     },
     "SORTIE_BOSS_VOR": {
       "name": "Captain Vor",
-      "faction": "Grineer"
+      "faction": "Ґрінери"
     },
     "SORTIE_BOSS_RUK": {
       "name": "General Sargas Ruk",
-      "faction": "Grineer"
+      "faction": "Ґрінери"
     },
     "SORTIE_BOSS_HEK": {
       "name": "Councilor Vay Hek",
-      "faction": "Grineer"
+      "faction": "Ґрінери"
     },
     "SORTIE_BOSS_KRIL": {
       "name": "Lech Kril",
-      "faction": "Grineer"
+      "faction": "Ґрінери"
     },
     "SORTIE_BOSS_TYL": {
       "name": "Tyl Regor",
-      "faction": "Grineer"
+      "faction": "Ґрінери"
     },
     "SORTIE_BOSS_JACKAL": {
       "name": "Jackal",
-      "faction": "Corpus"
+      "faction": "Корпус"
     },
     "SORTIE_BOSS_ALAD": {
       "name": "Alad V",
-      "faction": "Corpus"
+      "faction": "Корпус"
     },
     "SORTIE_BOSS_AMBULAS": {
       "name": "Ambulas",
-      "faction": "Corpus"
+      "faction": "Корпус"
     },
     "SORTIE_BOSS_NEF": {
       "name": "Nef Anyo",
-      "faction": "Corpus"
+      "faction": "Корпус"
     },
     "SORTIE_BOSS_RAPTOR": {
       "name": "Raptor",
-      "faction": "Corpus"
+      "faction": "Корпус"
     },
     "SORTIE_BOSS_PHORID": {
       "name": "Phorid",
@@ -126,7 +126,7 @@
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
       "name": "Corrupted Vor",
-      "faction": "Corrupted"
+      "faction": "Уярмлені"
     },
     "SORTIE_BOSS_BOREAL": {
       "name": "Archon Boreal",
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -229,7 +229,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -274,7 +274,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -289,7 +289,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -319,7 +319,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -357,7 +357,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -486,7 +486,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -516,7 +516,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -561,7 +561,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -576,7 +576,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -606,7 +606,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -644,7 +644,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -758,7 +758,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -788,7 +788,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -833,7 +833,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -848,7 +848,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -878,7 +878,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -916,7 +916,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1030,7 +1030,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1060,7 +1060,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1105,7 +1105,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1120,7 +1120,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1150,7 +1150,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1188,7 +1188,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1302,7 +1302,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1332,7 +1332,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1377,7 +1377,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1392,7 +1392,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1422,7 +1422,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1460,7 +1460,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1574,7 +1574,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1604,7 +1604,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1649,7 +1649,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1664,7 +1664,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1694,7 +1694,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1732,7 +1732,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1846,7 +1846,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -1876,7 +1876,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1921,7 +1921,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1936,7 +1936,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -1966,7 +1966,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2004,7 +2004,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2118,7 +2118,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2148,7 +2148,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2193,7 +2193,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2208,7 +2208,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2238,7 +2238,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2276,7 +2276,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2390,7 +2390,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Exterminate",
@@ -2420,7 +2420,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2465,7 +2465,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2480,7 +2480,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2510,7 +2510,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2548,7 +2548,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2662,7 +2662,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2692,7 +2692,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2737,7 +2737,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2752,7 +2752,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2782,7 +2782,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2820,7 +2820,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -2934,7 +2934,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -2964,7 +2964,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3009,7 +3009,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3024,7 +3024,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3054,7 +3054,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3092,7 +3092,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -3206,7 +3206,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3236,7 +3236,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3281,7 +3281,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3296,7 +3296,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3326,7 +3326,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3364,7 +3364,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -3478,7 +3478,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3508,7 +3508,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3553,7 +3553,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3568,7 +3568,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3598,7 +3598,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3636,7 +3636,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -3750,7 +3750,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3780,7 +3780,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3825,7 +3825,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3840,7 +3840,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3870,7 +3870,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -3908,7 +3908,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
@@ -4022,7 +4022,7 @@
           ]
         },
         {
-          "name": "Mars",
+          "name": "Марс",
           "missions": [
             "Exterminate",
             "Survival",
@@ -4052,7 +4052,7 @@
           ]
         },
         {
-          "name": "Saturn",
+          "name": "Сатурн",
           "missions": [
             "Exterminate",
             "Survival",
@@ -4097,7 +4097,7 @@
           ]
         },
         {
-          "name": "Pluto",
+          "name": "Плутон",
           "missions": [
             "Exterminate",
             "Survival",
@@ -4112,7 +4112,7 @@
           ]
         },
         {
-          "name": "Ceres",
+          "name": "Церера",
           "missions": [
             "Exterminate",
             "Survival",
@@ -4142,7 +4142,7 @@
           ]
         },
         {
-          "name": "Sedna",
+          "name": "Седна",
           "missions": [
             "Exterminate",
             "Survival",
@@ -4180,7 +4180,7 @@
           "missions": []
         },
         {
-          "name": "Phobos",
+          "name": "Фобос",
           "missions": [
             "Exterminate",
             "Excavation",
