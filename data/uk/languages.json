@@ -12343,36 +12343,36 @@
     "value": "Дослідник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
-    "desc": "Pick up 15,000 Credits",
-    "value": "Saver"
+    "desc": "Зберіть потрібну кількість кредитів. Зібрано: 0/15 000",
+    "value": "Заощаджувач"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollecthundredresources": {
-    "desc": "Collect 1,500 Resources",
-    "value": "Gatherer"
+    "desc": "Підберіть ресурси. Підібрано: 0/1 500",
+    "value": "Збирач"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
-    "desc": "Complete a Mission",
-    "value": "Agent"
+    "desc": "Завершіть завдання.",
+    "value": "Агент"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionmelee": {
-    "desc": "Complete a Mission with only a Melee Weapon equipped",
-    "value": "Swordsman"
+    "desc": "Завершіть завдання лише зі спорядженою холодною зброєю.",
+    "value": "Фехтувальник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionprimary": {
-    "desc": "Complete a Mission with only a Primary Weapon equipped",
-    "value": "Hands Full"
+    "desc": "Завершіть завдання лише зі спорядженою основною зброєю.",
+    "value": "Руки зайняті"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
-    "desc": "Complete a Mission with only a Secondary Weapon equipped",
-    "value": "Sidearm"
+    "desc": "Завершіть завдання лише зі спорядженою допоміжною зброєю.",
+    "value": "Вестерн"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
-    "desc": "Deploy an Air Support Charge in a Mission",
-    "value": "Air It Out"
+    "desc": "Викличте підтримку з повітря на завданні.",
+    "value": "Провітримо"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
     "desc": "Deploy a Glyph while in a mission",
-    "value": "Graffiti"
+    "value": "Графіті"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployspecter": {
     "desc": "Deploy a Specter",
