@@ -12331,16 +12331,16 @@
     "value": "Relic Pack"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "desc": "Kill 20 Enemies while Aim Gliding",
-    "value": "Glider"
+    "desc": "Убийте ворогів під час прицілювання в повітрі. Убито: 0/20",
+    "value": "Пір’їна"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
-    "desc": "Bullet Jump 150 times",
-    "value": "Trampoline"
+    "desc": "Здійсніть гвинтові стрибки. Стрибків здійснено: 0/150",
+    "value": "Батут"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
-    "desc": "Scan 25 Objects or Enemies",
-    "value": "Researcher"
+    "desc": "Зчитайте об’єкти чи ворогів. Зчитано: 0/25",
+    "value": "Дослідник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
     "desc": "Pick up 15,000 Credits",
