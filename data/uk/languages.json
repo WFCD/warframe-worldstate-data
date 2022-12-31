@@ -12331,23 +12331,23 @@
     "value": "Relic Pack"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "desc": "Убийте ворогів під час прицілювання в повітрі. Убито: 0/20",
+    "desc": "Убийте 20 ворогів під час прицілювання в повітрі.",
     "value": "Пір’їна"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
-    "desc": "Здійсніть гвинтові стрибки. Стрибків здійснено: 0/150",
+    "desc": "Здійсніть 150 гвинтових стрибків.",
     "value": "Батут"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
-    "desc": "Зчитайте об’єкти чи ворогів. Зчитано: 0/25",
+    "desc": "Зчитайте 25 об’єкти чи ворогів.",
     "value": "Дослідник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
-    "desc": "Зберіть потрібну кількість кредитів. Зібрано: 0/15 000",
+    "desc": "Зберіть 15 000 кредитів.",
     "value": "Заощаджувач"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollecthundredresources": {
-    "desc": "Підберіть ресурси. Підібрано: 0/1 500",
+    "desc": "Підберіть 1 500 ресурсів.",
     "value": "Збирач"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
@@ -12387,39 +12387,39 @@
     "value": "Відданість"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
-    "desc": "Убийте ворогів. Убито: 0/200",
+    "desc": "Убийте 200 ворогів.",
     "value": "Попереджувальний постріл"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswhileonkdrive": {
-    "desc": "Убийте ворогів, катаючись на к-драйві. Убито: 0/20",
+    "desc": "Убийте 20 ворогів, катаючись на к-драйві.",
     "value": "Лови хвилю!"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
-    "desc": "Убийте ворогів за допомогою здібностей. Убито: 0/150",
+    "desc": "Убийте 150 ворогів за допомогою здібностей.",
     "value": "Підкорювач волі"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
-    "desc": "Убийте ворогів <DT_EXPLOSION>вибуховою шкодою. Убито: 0/150",
+    "desc": "Убийте 150 ворогів <DT_EXPLOSION>вибуховою шкодою.",
     "value": "Підривник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithcorrosive": {
-    "desc": "Убийте ворогів <DT_CORROSIVE>корозійною шкодою. Убито: 0/150",
+    "desc": "Убийте 150 ворогів <DT_CORROSIVE>корозійною шкодою.",
     "value": "Розплавитель"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithelectricity": {
-    "desc": "Убийте ворогів <DT_ELECTRICITY>електричною шкодою. Убито: 0/150",
+    "desc": "Убийте 150 ворогів <DT_ELECTRICITY>електричною шкодою.",
     "value": "Коротке замикання"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfinishers": {
-    "desc": "Убийте ворогів добиванням. Убито: 0/10",
+    "desc": "Убийте 10 ворогів добиванням.",
     "value": "Кат"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfire": {
-    "desc": "Убийте ворогів <DT_FIRE>термічною шкодою. Убито: 0/150",
+    "desc": "Убийте 150 ворогів <DT_FIRE>термічною шкодою.",
     "value": "Палій"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfreeze": {
-    "desc": "Убийте ворогів <DT_FREEZE>крижаною шкодою. Убито: 0/150",
+    "desc": "Убийте 150 ворогів <DT_FREEZE>крижаною шкодою.",
     "value": "Глибоке замороження"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithgas": {
@@ -12427,35 +12427,35 @@
     "value": "Біологічний руйнівник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithheadshots": {
-    "desc": "Убийте ворогів влучанням у голову. Убито: 0/40",
+    "desc": "Убийте 40 ворогів влучанням у голову.",
     "value": "Вправний стрілець"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
-    "desc": "Убийте ворогів <DT_MAGNETIC>магнетичною шкодою. Убито: 0/150",
+    "desc": "Убийте 150 ворогів <DT_MAGNETIC>магнетичною шкодою.",
     "value": "Зваблювач"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
-    "desc": "Убийте ворогів холодною зброєю. Убито: 0/150",
+    "desc": "Убийте 150 ворогів холодною зброєю.",
     "value": "Танець клинка"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
-    "desc": "Убийте ворогів <DT_POISON>токсичною шкодою. Убито: 0/150",
+    "desc": "Убийте 150 ворогів <DT_POISON>токсичною шкодою.",
     "value": "Отруйник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithprimary": {
-    "desc": "Убийте ворогів основною зброєю. Убито: 0/150",
+    "desc": "Убийте 150 ворогів основною зброєю.",
     "value": "Скошування"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithradiation": {
-    "desc": "Убийте ворогів <DT_RADIATION>радіаційною шкодою. Убито: 0/150",
+    "desc": "Убийте 150 ворогів <DT_RADIATION>радіаційною шкодою.",
     "value": "Реактор"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithsecondary": {
-    "desc": "Убийте ворогів допоміжною зброєю. Убито: 0/150",
+    "desc": "Убийте 150 ворогів допоміжною зброєю.",
     "value": "Менше, отже краще"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
-    "desc": "Убийте ворогів <DT_VIRAL>вірусною шкодою. Убито: 0/150.",
+    "desc": "Убийте 150 ворогів <DT_VIRAL>вірусною шкодою.",
     "value": "Уперед, вірусе!"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
@@ -12471,19 +12471,19 @@
     "value": "Криваве милосердя"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
-    "desc": "Відчиніть шафки. Відчинено: 0/20",
+    "desc": "Відчиніть 20 шафок.",
     "value": "Клептоман"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupenergy": {
-    "desc": "Підберіть згустки енергії. Підібрано: 0/20",
+    "desc": "Підберіть 20 згустків енергії.",
     "value": "Енергійчик"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmedallion": {
-    "desc": "Знайдіть медальйони синдикату в грі наодинці. Знайдено: 0/5",
+    "desc": "Знайдіть 5 медальйонів синдикату в грі наодинці.",
     "value": "Полювання розпочато"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
-    "desc": "Підберіть модифікатори. Підібрано: 0/8",
+    "desc": "Підберіть 8 модифікаторів.",
     "value": "Лискуче"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypilotfallenmech": {
@@ -12491,7 +12491,7 @@
     "value": "Реаніматор"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplacemarker": {
-    "desc": "Позначте модифікатори чи ресурси. Позначено: 0/5",
+    "desc": "Позначте 5 модифікаторів чи ресурсів.",
     "value": "Зв’язковий"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplayemote": {
@@ -12511,11 +12511,11 @@
     "value": "Прадавній обеліск"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
-    "desc": "Убийте ворогів під час ковзання. Убито: 0/20",
+    "desc": "Убийте 20 ворогів під час ковзання.",
     "value": "Блискавка"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
-    "desc": "Зламайте консолі. Зламано: 0/8",
+    "desc": "Зламайте 8 консолей.",
     "value": "Гакер"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
