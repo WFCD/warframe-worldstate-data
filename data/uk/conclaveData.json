@@ -179,17 +179,17 @@
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
       "title": "Air Strike",
-      "description": "Kill 1 enemy while Airborne",
+      "description": "Убийте 1 ворога, доки ви в повітрі",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirMEDIUM": {
       "title": "Air Strike",
-      "description": "Kill 4 enemies while Airborne",
+      "description": "Убийте 4 ворогів, доки ви в повітрі",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
       "title": "Focused Air Strike",
-      "description": "Kill 3 enemies while Airborne in a match",
+      "description": "Убийте 3 ворогів, доки ви в повітрі за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
@@ -278,12 +278,12 @@
       "standing": 1500
     },
     "PVPTimedChallengeFlagCaptureEASY": {
-      "title": "Bandit",
-      "description": "Capture 1 Cephalon",
+      "title": "Розбійник",
+      "description": "Захопіть цефалона 1 раз",
       "standing": 500
     },
     "PVPTimedChallengeFlagCaptureMEDIUM": {
-      "title": "Bandit",
+      "title": "Розбійник",
       "description": "Захопіть цефалона 4 рази",
       "standing": 1500
     },
@@ -348,18 +348,18 @@
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballPassesEASY": {
-      "title": "Send It!",
-      "description": "Complete 3 Successful Passes to teammates",
+      "title": "Передача!",
+      "description": "Здійсніть 3 паси",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballPassesMEDIUM": {
-      "title": "Send It!",
-      "description": "Complete 6 Successful Passes to teammates",
+      "title": "Передача!",
+      "description": "Здійсніть 6 пасів",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballPassesHARD": {
-      "title": "Focused Send It!",
-      "description": "Complete 3 Successful Passes to teammates in a match",
+      "title": "Виняткова передача!",
+      "description": "Здійсніть 3 паси за матч",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballGoalsEASY": {
@@ -368,13 +368,13 @@
       "standing": 1000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
-      "title": "See it Through",
-      "description": "Complete 1 match",
+      "title": "Бачити наскрізь",
+      "description": "Зіграйте 1 матч",
       "standing": 500
     },
     "PVPTimedChallengeMatchCompleteMEDIUM": {
-      "title": "See it Through",
-      "description": "Complete 4 matches",
+      "title": "Бачити наскрізь",
+      "description": "Зіграйте 4 матчі",
       "standing": 1500
     },
     "PVPTimedChallengeWeeklyStandardSet": {
