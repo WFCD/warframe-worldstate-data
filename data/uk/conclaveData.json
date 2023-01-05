@@ -43,18 +43,18 @@
   },
   "challenges": {
     "PVPTimedChallengeKillsPrimaryEASY": {
-      "title": "Primary Target",
-      "description": "Kill 1 enemy with your Primary Weapon",
+      "title": "Основна ціль",
+      "description": "Убийте 1 ворога за допомогою основної зброї",
       "standing": 500
     },
     "PVPTimedChallengeKillsPrimaryMEDIUM": {
-      "title": "Primary Target",
-      "description": "Kill 4 enemies with your Primary Weapon",
+      "title": "Основна ціль",
+      "description": "Убийте 4 ворогів за допомогою основної зброї",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPrimaryHARD": {
-      "title": "Focused Primary Target",
-      "description": "Kill 3 enemies with your Primary Weapon in a match",
+      "title": "Виняткова основна ціль",
+      "description": "Убийте 3 ворогів за матч за допомогою основної зброї",
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
@@ -178,17 +178,17 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
-      "title": "Air Strike",
+      "title": "Повітряний удар",
       "description": "Убийте 1 ворога, доки ви в повітрі",
       "standing": 500
     },
     "PVPTimedChallengeKillsWhileInAirMEDIUM": {
-      "title": "Air Strike",
+      "title": "Повітряний удар",
       "description": "Убийте 4 ворогів, доки ви в повітрі",
       "standing": 1500
     },
     "PVPTimedChallengeKillsWhileInAirHARD": {
-      "title": "Focused Air Strike",
+      "title": "Винятковий повітряний удар",
       "description": "Убийте 3 ворогів, доки ви в повітрі за матч",
       "standing": 3000
     },
@@ -238,18 +238,18 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakDominationEASY": {
-      "title": "Domination",
+      "title": "Панування",
       "description": "Убийте 1 ворога і не дайте йому вбити вас",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakDominationMEDIUM": {
-      "title": "Domination",
-      "description": "Kill 4 enemies without them killing you",
+      "title": "Панування",
+      "description": "Убийте 4 ворогів і не дайте їм вбити вас",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakDominationHARD": {
-      "title": "Focused Domination",
-      "description": "Kill 3 enemies without them killing you in a match",
+      "title": "Виняткове панування",
+      "description": "Убийте 3 ворогів за матч і не дайте їм вбити вас",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPaybackEASY": {
@@ -333,17 +333,17 @@
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksEASY": {
-      "title": "Blockade",
+      "title": "Блокада",
       "description": "Збийте 3 ворогів, що несуть м’яча",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballChecksMEDIUM": {
-      "title": "Blockade",
+      "title": "Блокада",
       "description": "Збийте 10 ворогів, що несуть м’яча",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballChecksHARD": {
-      "title": "Focused Blockade",
+      "title": "Виняткова блокада",
       "description": "Збийте 6 ворогів, що несуть м’яча за матч",
       "standing": 6000
     },
