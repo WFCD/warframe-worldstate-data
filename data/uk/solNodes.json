@@ -5,7 +5,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode1": {
-    "value": "Galatea (Neptune)",
+    "value": "Галатея (Нептун)",
     "enemy": "Корпус",
     "type": "Capture"
   },
@@ -30,7 +30,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode6": {
-    "value": "Despina (Neptune)",
+    "value": "Деспіна (Нептун)",
     "enemy": "Корпус",
     "type": "Excavation"
   },
@@ -85,7 +85,7 @@
     "type": "Excavation"
   },
   "SolNode17": {
-    "value": "Proteus (Neptune)",
+    "value": "Протей (Нептун)",
     "enemy": "Корпус",
     "type": "Defense"
   },
@@ -152,7 +152,7 @@
   "SolNode30": {
     "value": "Olympus (Mars)",
     "enemy": "Ґрінери",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "SolNode31": {
     "value": "Anthe (Saturn)",
@@ -245,7 +245,7 @@
     "type": "Rescue"
   },
   "SolNode49": {
-    "value": "Larissa (Neptune)",
+    "value": "Ларисса (Нептун)",
     "enemy": "Корпус",
     "type": "Mobile Defense"
   },
@@ -285,7 +285,7 @@
     "type": "Sabotage"
   },
   "SolNode57": {
-    "value": "Sao (Neptune)",
+    "value": "Сао (Нептун)",
     "enemy": "Корпус",
     "type": "Sabotage"
   },
@@ -310,7 +310,7 @@
     "type": "Sabotage"
   },
   "SolNode62": {
-    "value": "Neso (Neptune)",
+    "value": "Несо (Нептун)",
     "enemy": "Корпус",
     "type": "Extermination"
   },
@@ -390,7 +390,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode78": {
-    "value": "Triton (Neptune)",
+    "value": "Тритон (Нептун)",
     "enemy": "Корпус",
     "type": "Rescue"
   },
@@ -420,7 +420,7 @@
     "type": "Mobile Defense"
   },
   "SolNode84": {
-    "value": "Nereid (Neptune)",
+    "value": "Нереїда (Нептун)",
     "enemy": "Корпус",
     "type": "Hijack"
   },
@@ -437,7 +437,7 @@
   "SolNode87": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "SolNode88": {
     "value": "Adrastea (Jupiter)",
@@ -590,9 +590,9 @@
     "type": "Ancient Retribution"
   },
   "SolNode118": {
-    "value": "Laomedeia (Neptune)",
+    "value": "Лаомедея (Нептун)",
     "enemy": "Корпус",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "SolNode119": {
     "value": "Caloris (Mercury)",
@@ -635,7 +635,7 @@
     "type": "Rescue"
   },
   "SolNode127": {
-    "value": "Psamathe (Neptune)",
+    "value": "Псамафа (Нептун)",
     "enemy": "Корпус",
     "type": "Assassination"
   },
@@ -883,7 +883,7 @@
   "SolNode177": {
     "value": "Kappa (Sedna)",
     "enemy": "Ґрінери",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "SolNode178": {
     "value": "Hyosube (Sedna)",
@@ -1205,7 +1205,7 @@
     "type": "Interception"
   },
   "SolNode413": {
-    "value": "SolNode413 (Void)",
+    "value": "SolNode413 (Порожнеча)",
     "enemy": "Уярмлені",
     "type": "Ancient Retribution"
   },
@@ -1277,7 +1277,7 @@
   "SolNode745": {
     "value": "Tamu (Kuva Fortress)",
     "enemy": "Ґрінери",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "SolNode746": {
     "value": "Dakata (Kuva Fortress)",
@@ -1330,7 +1330,7 @@
     "type": "Interception (Archwing)"
   },
   "SolNode908": {
-    "value": "Salacia (Neptune)",
+    "value": "Салація (Нептун)",
     "enemy": "Корпус",
     "type": "Mobile Defense (Archwing)"
   },
@@ -1372,7 +1372,7 @@
   "SolNode308": {
     "value": "Apollo (Lua)",
     "enemy": "Корпус",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "SettlementNode1": {
     "value": "Roche (Phobos)",
@@ -1657,22 +1657,22 @@
   "EventNode30": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "EventNode31": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "EventNode32": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "EventNode33": {
     "value": "Ganymede (Jupiter)",
     "enemy": "Корпус",
-    "type": "Прорив"
+    "type": "Завада підриву"
   },
   "EventNode34": {
     "value": "Earth",
@@ -1875,12 +1875,12 @@
     "type": "Dark Sector Survival"
   },
   "ClanNode20": {
-    "value": "Yursa (Neptune)",
+    "value": "Юрза (Нептун)",
     "enemy": "Заражені",
     "type": "Dark Sector Defection"
   },
   "ClanNode21": {
-    "value": "Kelashin (Neptune)",
+    "value": "Келашін (Нептун)",
     "enemy": "Заражені",
     "type": "Dark Sector Survival"
   },
@@ -1925,7 +1925,7 @@
     "type": "Extermination"
   },
   "CrewBattleNode504": {
-    "value": "Arva Vector (Neptune)",
+    "value": "Вектор Арви (Нептун)",
     "enemy": "Корпус",
     "type": "Defense"
   },
@@ -1970,7 +1970,7 @@
     "type": "Survival"
   },
   "CrewBattleNode516": {
-    "value": "Nu-gua Mines (Neptune)",
+    "value": "Копальні Ну-ґуа (Нептун)",
     "enemy": "Корпус",
     "type": "Extermination"
   },
@@ -1985,7 +1985,7 @@
     "type": "Skirmish"
   },
   "CrewBattleNode521": {
-    "value": "Enkidu Ice Drifts (Neptune)",
+    "value": "Енкідуйські крижані уламки (Нептун)",
     "enemy": "Корпус",
     "type": "Survival"
   },
@@ -1995,17 +1995,17 @@
     "type": "Skirmish"
   },
   "CrewBattleNode523": {
-    "value": "Mammon's Prospect (Neptune)",
+    "value": "Мамонська Перспектива (Нептун)",
     "enemy": "Корпус",
     "type": "Orphix"
   },
   "CrewBattleNode524": {
-    "value": "Sovereign Grasp (Neptune)",
+    "value": "Величний Хват (Нептун)",
     "enemy": "Корпус",
     "type": "Volatile"
   },
   "CrewBattleNode525": {
-    "value": "Brom Cluster (Neptune)",
+    "value": "Скупчення Брома (Нептун)",
     "enemy": "Корпус",
     "type": "Spy"
   },
