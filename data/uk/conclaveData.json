@@ -193,33 +193,33 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsMeleeEASY": {
-      "title": "Gladiator",
-      "description": "Get 1 Melee kill",
+      "title": "Боєць",
+      "description": "Убийте 1 ворога врукопаш",
       "standing": 500
     },
     "PVPTimedChallengeKillsMeleeMEDIUM": {
-      "title": "Gladiator",
-      "description": "Get 4 Melee kills",
+      "title": "Боєць",
+      "description": "Убийте 4 ворогів врукопаш",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMeleeHARD": {
-      "title": "Focused Gladiator",
-      "description": "Get 3 Melee kills in a match",
+      "title": "Винятковий боєць",
+      "description": "Убийте 3 ворогів врукопаш за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsPowerEASY": {
-      "title": "Void-Painter",
-      "description": "Get 1 Warframe Ability kills",
+      "title": "Митець Порожнечі",
+      "description": "Убийте 1 ворога здібностями ворфрейма",
       "standing": 500
     },
     "PVPTimedChallengeKillsPowerMEDIUM": {
-      "title": "Void-Painter",
-      "description": "Get 4 Warframe Ability kills",
+      "title": "Митець Порожнечі",
+      "description": "Убийте 4 ворогів здібностями ворфрейма",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPowerHARD": {
-      "title": "Focused Void-Painter",
-      "description": "Get 3 Warframe Ability kills in a match",
+      "title": "Винятковий митець Порожнечі",
+      "description": "Убийте 3 ворогів здібностями ворфрейма за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsHeadShotsEASY": {
@@ -259,12 +259,12 @@
     },
     "PVPTimedChallengeKillsPaybackMEDIUM": {
       "title": "Revenge",
-      "description": "Kill 4 enemies that have killed you",
+      "description": "Убийте 4 ворогів, що вбили вас",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPaybackHARD": {
-      "title": "Focused Revenge",
-      "description": "Kill 3 enemies that have killed you in a match",
+      "title": "Виняткова помста",
+      "description": "Убийте 3 ворогів, що вбили вас за матч",
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
@@ -288,32 +288,32 @@
       "standing": 1500
     },
     "PVPTimedChallengeSpeedballCatchesEASY": {
-      "title": "Heads Up!",
-      "description": "Catch 3 Passes from teammates",
+      "title": "Увага!",
+      "description": "Прийміть 3 паси від товаришів",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballCatchesMEDIUM": {
-      "title": "Heads Up!",
-      "description": "Catch 10 Passes from teammates",
+      "title": "Увага!",
+      "description": "Прийміть 10 пасів від товаришів",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballCatchesHARD": {
-      "title": "Focused Heads Up!",
-      "description": "Catch 6 Passes from teammates in a match",
+      "title": "Виняткова увага!",
+      "description": "Прийміть 6 пасів від товаришів за матч",
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballInterceptionsEASY": {
-      "title": "Interception!",
+      "title": "Перехоплення!",
       "description": "Перехопіть 3 ворожих паси",
       "standing": 1000
     },
     "PVPTimedChallengeSpeedballInterceptionsMEDIUM": {
-      "title": "Interception!",
+      "title": "Перехоплення!",
       "description": "Перехопіть 6 ворожих пасів",
       "standing": 3000
     },
     "PVPTimedChallengeSpeedballInterceptionsHARD": {
-      "title": "Focused Interception!",
+      "title": "Виняткове перехоплення!",
       "description": "Перехопіть 3 ворожих паси за матч",
       "standing": 6000
     },
@@ -383,18 +383,18 @@
       "standing": 50000
     },
     "PVPTimedChallengeGameModeWins": {
-      "title": "Match Won",
+      "title": "Перемога в матчі",
       "description": "Win 6 matches of any Game Type",
       "standing": 0
     },
     "PVPTimedChallengeGameModeComplete": {
-      "title": "Match Complete",
-      "description": "Complete 20 matches of any Game Type",
+      "title": "Матч зіграно",
+      "description": "Візьміть участь у 20 матчах будь-якого типу",
       "standing": 0
     },
     "PVPTimedChallengeOtherChallengeCompleteANY": {
-      "title": "Conditioning",
-      "description": "Complete 10 Daily Challenges",
+      "title": "Загартування",
+      "description": "Виконайте 10 щоденних випробувань",
       "standing": 0
     },
     "PVPTimedChallengeSpeedballGoalsHARD": {
@@ -404,7 +404,7 @@
     },
     "PVPTimedChallengeKillsPayback_MEDIUM": {
       "title": "Revenge",
-      "description": "Kill 3 enemies that have killed you",
+      "description": "Убийте 3 ворогів, що вбили вас",
       "standing": 1500
     }
   },
