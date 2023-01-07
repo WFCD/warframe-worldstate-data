@@ -1,7 +1,7 @@
 {
   "modes": {
     "PVPMODE_ALL": {
-      "value": "Any Mode"
+      "value": "Будь-який режим"
     },
     "PVPMODE_DEATHMATCH": {
       "value": "Винищення"
@@ -22,7 +22,7 @@
   "categories": {
     "PVPChallengeTypeCategory_WEEKLY": {
       "value": "week",
-      "description": "Weekly"
+      "description": "Щотижневі"
     },
     "PVPChallengeTypeCategory_WEEKLY_ROOT": {
       "value": "week_root",
@@ -103,18 +103,18 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsMultiEASY": {
-      "title": "Versatility",
-      "description": "Kill 1 opponent using Melee, Guns, and Abilities",
+      "title": "Спеціаліст",
+      "description": "Убийте 1 ворогіа будь-яким способом — врукопаш, стрілецькою зброєю чи здібностями",
       "standing": 500
     },
     "PVPTimedChallengeKillsMultiMEDIUM": {
-      "title": "Versatility",
-      "description": "Kill 4 opponents using Melee, Guns, and Abilities",
+      "title": "Спеціаліст",
+      "description": "Убийте 4 ворогів будь-яким способом — врукопаш, стрілецькою зброєю чи здібностями",
       "standing": 1500
     },
     "PVPTimedChallengeKillsMultiHARD": {
-      "title": "Focused Versatility",
-      "description": "Kill 3 opponents using Melee, Guns, and Abilities in a match",
+      "title": "Винятковий спеціаліст",
+      "description": "Убийте 3 ворогів будь-яким способом — врукопаш, стрілецькою зброєю чи здібностями за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakEASY": {
