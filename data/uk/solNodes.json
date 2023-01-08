@@ -347,7 +347,7 @@
   "SolNode69": {
     "value": "Офелія (Уран)",
     "enemy": "Ґрінери",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode70": {
     "value": "Кассіні (Сатурн)",
@@ -407,7 +407,7 @@
   "SolNode81": {
     "value": "Palus (Pluto)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode82": {
     "value": "Каліпсо (Сатурн)",
@@ -472,7 +472,7 @@
   "SolNode94": {
     "value": "Apollodorus (Mercury)",
     "enemy": "Заражені",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode95": {
     "value": "Thalassa (Neptune)",
@@ -482,7 +482,7 @@
   "SolNode96": {
     "value": "Титан (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode97": {
     "value": "Amalthea (Jupiter)",
@@ -502,7 +502,7 @@
   "SolNode100": {
     "value": "Elara (Jupiter)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode101": {
     "value": "Кілікен (Венера)",
@@ -617,7 +617,7 @@
   "SolNode123": {
     "value": "V-Прайм (Венера)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode124": {
     "value": "Trinculo (Uranus)",
@@ -732,7 +732,7 @@
   "SolNode146": {
     "value": "Draco (Ceres)",
     "enemy": "Ґрінери",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode147": {
     "value": "Cinxia (Ceres)",
@@ -823,12 +823,12 @@
   "SolNode165": {
     "value": "Sporid (Eris)",
     "enemy": "Заражені",
-    "type": "Hive Sabotage"
+    "type": "Саботаж лігва"
   },
   "SolNode166": {
     "value": "Nimus (Eris)",
     "enemy": "Заражені",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode167": {
     "value": "Oestrus (Eris)",
@@ -933,7 +933,7 @@
   "SolNode187": {
     "value": "Selkie (Sedna)",
     "enemy": "Ґрінери",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode188": {
     "value": "Kelpie (Sedna)",
@@ -1162,12 +1162,12 @@
   "SolNode404": {
     "value": "Stribog (Void)",
     "enemy": "Орокіни",
-    "type": "Orokin Sabotage"
+    "type": "Саботаж орокінів"
   },
   "SolNode405": {
     "value": "Ani (Void)",
     "enemy": "Орокіни",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode406": {
     "value": "Ukko (Void)",
@@ -1187,7 +1187,7 @@
   "SolNode409": {
     "value": "Mot (Void)",
     "enemy": "Орокіни",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode410": {
     "value": "Aten (Void)",
@@ -1237,7 +1237,7 @@
   "SolNode711": {
     "value": "Terrorem (Deimos)",
     "enemy": "Заражені",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode712": {
     "value": "Magnacidium (Deimos)",
@@ -1272,7 +1272,7 @@
   "SolNode744": {
     "value": "Taveuni (Kuva Fortress)",
     "enemy": "Ґрінери",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode745": {
     "value": "Tamu (Kuva Fortress)",
@@ -1347,7 +1347,7 @@
   "SolNode302": {
     "value": "Tycho (Lua)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode304": {
     "value": "Copernicus (Lua)",
@@ -1357,7 +1357,7 @@
   "SolNode305": {
     "value": "Stöfler (Lua)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SolNode306": {
     "value": "Pavlov (Lua)",
@@ -1387,7 +1387,7 @@
   "SettlementNode3": {
     "value": "Stickney (Phobos)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "SettlementNode4": {
     "value": "Drunlo (Phobos)",
@@ -1477,42 +1477,42 @@
   "MercuryHUB": {
     "value": "Larunda Relay (Mercury)",
     "enemy": "Ґрінери",
-    "type": "Relay"
+    "type": "Реле"
   },
   "VenusHUB": {
     "value": "Реле «Веспер» (Венера)",
     "enemy": "Корпус",
-    "type": "Relay"
+    "type": "Реле"
   },
   "EarthHUB": {
     "value": "Strata Relay (Earth)",
     "enemy": "Ґрінери",
-    "type": "Relay"
+    "type": "Реле"
   },
   "SaturnHUB": {
     "value": "Реле «Кронія» (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Relay"
+    "type": "Реле"
   },
   "ErisHUB": {
     "value": "Kuiper Relay (Eris)",
     "enemy": "Заражені",
-    "type": "Relay"
+    "type": "Реле"
   },
   "EuropaHUB": {
     "value": "Leonov Relay (Europa)",
     "enemy": "Корпус",
-    "type": "Relay"
+    "type": "Реле"
   },
   "PlutoHUB": {
     "value": "Orcus Relay (Pluto)",
     "enemy": "Корпус",
-    "type": "Relay"
+    "type": "Реле"
   },
   "TradeHUB1": {
     "value": "Maroo's Bazaar (Mars)",
     "enemy": "Корпус",
-    "type": "Relay"
+    "type": "Реле"
   },
   "EventNode0": {
     "value": "Balor",
@@ -1537,7 +1537,7 @@
   "EventNode4": {
     "value": "Proxy Rebellion",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "EventNode5": {
     "value": "Birog",
@@ -1642,7 +1642,7 @@
   "EventNode27": {
     "value": "Void",
     "enemy": "Уярмлені",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "EventNode28": {
     "value": "Сатурн",
@@ -1777,132 +1777,132 @@
   "ClanNode0": {
     "value": "Ромула (Венера)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defense"
+    "type": "Темний сектор — оборона"
   },
   "ClanNode1": {
     "value": "Мальфа (Венера)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode2": {
     "value": "Coba (Earth)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defense"
+    "type": "Темний сектор — оборона"
   },
   "ClanNode3": {
     "value": "Tikal (Earth)",
     "enemy": "Заражені",
-    "type": "Dark Sector Excavation"
+    "type": "Темний сектор — видобуток"
   },
   "ClanNode4": {
     "value": "Sinai (Jupiter)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode5": {
     "value": "Cameria (Jupiter)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode6": {
     "value": "Larzac (Europa)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defense"
+    "type": "Темний сектор — оборона"
   },
   "ClanNode7": {
     "value": "Cholistan (Europa)",
     "enemy": "Заражені",
-    "type": "Dark Sector Excavation"
+    "type": "Темний сектор — видобуток"
   },
   "ClanNode8": {
     "value": "Kadesh (Mars)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defense"
+    "type": "Темний сектор — оборона"
   },
   "ClanNode9": {
     "value": "Wahiba (Mars)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode10": {
     "value": "Memphis (Phobos)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defection"
+    "type": "Темний сектор — супровід дезертирів"
   },
   "ClanNode11": {
     "value": "Zeugma (Phobos)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode12": {
     "value": "Караколь (Сатурн)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defection"
+    "type": "Темний сектор — супровід дезертирів"
   },
   "ClanNode13": {
     "value": "Пішинас (Сатурн)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode14": {
     "value": "Amarna (Sedna)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode15": {
     "value": "Sangeru (Sedna)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defense"
+    "type": "Темний сектор — оборона"
   },
   "ClanNode16": {
     "value": "Ур (Уран)",
     "enemy": "Заражені",
-    "type": "Dark Sector Disruption"
+    "type": "Темний сектор — завада підриву"
   },
   "ClanNode17": {
     "value": "Ашшур (Уран)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode18": {
     "value": "Akkad (Eris)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defense"
+    "type": "Темний сектор — оборона"
   },
   "ClanNode19": {
     "value": "Zabala (Eris)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode20": {
     "value": "Юрза (Нептун)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defection"
+    "type": "Темний сектор — супровід дезертирів"
   },
   "ClanNode21": {
     "value": "Келашін (Нептун)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode22": {
     "value": "Seimeni (Ceres)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defense"
+    "type": "Темний сектор — оборона"
   },
   "ClanNode23": {
     "value": "Gabii (Ceres)",
     "enemy": "Заражені",
-    "type": "Dark Sector Survival"
+    "type": "Темний сектор — виживання"
   },
   "ClanNode24": {
     "value": "Sechura (Pluto)",
     "enemy": "Заражені",
-    "type": "Dark Sector Defense"
+    "type": "Темний сектор — оборона"
   },
   "ClanNode25": {
     "value": "Hieracon (Pluto)",
     "enemy": "Заражені",
-    "type": "Dark Sector Excavation"
+    "type": "Темний сектор — видобуток"
   },
   "/Lotus/Types/Keys/SortieBossKeyPhorid": {
     "value": "Sortie Boss: Phorid",
@@ -1967,7 +1967,7 @@
   "CrewBattleNode515": {
     "value": "Безталанний простір (Венера)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "CrewBattleNode516": {
     "value": "Копальні Ну-ґуа (Нептун)",
@@ -1987,7 +1987,7 @@
   "CrewBattleNode521": {
     "value": "Енкідуйські крижані уламки (Нептун)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "CrewBattleNode522": {
     "value": "Bendar Cluster (Earth)",
@@ -2037,7 +2037,7 @@
   "CrewBattleNode531": {
     "value": "Fenton's Field (Pluto)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "CrewBattleNode533": {
     "value": "Розрив Нодо (Сатурн)",
@@ -2082,7 +2082,7 @@
   "CrewBattleNode542": {
     "value": "Лу-янь (Вуаль)",
     "enemy": "Корпус",
-    "type": "Survival"
+    "type": "Виживання"
   },
   "CrewBattleNode543": {
     "value": "Хмара Самбіра (Вуаль)",
