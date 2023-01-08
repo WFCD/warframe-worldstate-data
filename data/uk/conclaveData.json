@@ -58,18 +58,18 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsSecondaryEASY": {
-      "title": "Secondary Target",
-      "description": "Kill 1 enemy with your Secondary Weapon",
+      "title": "Другорядна ціль",
+      "description": "Убийте 1 ворога за допомогою допоміжної зброї",
       "standing": 500
     },
     "PVPTimedChallengeKillsSecondaryMEDIUM": {
-      "title": "Secondary Target",
-      "description": "Kill 4 enemies with your Secondary Weapon",
+      "title": "Другорядна ціль",
+      "description": "Убийте 4 ворогів за допомогою допоміжної зброї",
       "standing": 1500
     },
     "PVPTimedChallengeKillsSecondaryHARD": {
-      "title": "Focused Secondary Target",
-      "description": "Kill 3 enemies with your Secondary Weapon in a match",
+      "title": "Виняткова другорядна ціль",
+      "description": "Убийте 3 ворогів за допомогою допоміжної зброї за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileSlidingEASY": {
@@ -268,12 +268,12 @@
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
-      "title": "Liberator",
+      "title": "Визволитель",
       "description": "Поверніть свого цефалона 1 раз",
       "standing": 500
     },
     "PVPTimedChallengeFlagReturnMEDIUM": {
-      "title": "Liberator",
+      "title": "Визволитель",
       "description": "Поверніть свого цефалона 4 рази",
       "standing": 1500
     },
