@@ -22,7 +22,7 @@
   "SolNode4": {
     "value": "Ахерон (Плутон)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode5": {
     "value": "Perdita (Uranus)",
@@ -50,17 +50,17 @@
     "type": "Шпигунство"
   },
   "SolNode10": {
-    "value": "Thebe (Jupiter)",
+    "value": "Теба (Юпітер)",
     "enemy": "Корпус",
     "type": "Саботаж"
   },
   "SolNode11": {
     "value": "Тарсис (Марс)",
     "enemy": "Корпус",
-    "type": "Hijack"
+    "type": "Викрадення"
   },
   "SolNode12": {
-    "value": "Elion (Mercury)",
+    "value": "Еліон (Меркурій)",
     "enemy": "Ґрінери",
     "type": "Мобільна оборона"
   },
@@ -71,11 +71,11 @@
   },
   "SolNode14": {
     "value": "Ультор (Марс)",
-    "enemy": "Crossfire",
-    "type": "Extermination"
+    "enemy": "Сутичка",
+    "type": "Винищення"
   },
   "SolNode15": {
-    "value": "Pacific (Earth)",
+    "value": "Пацифік (Земля)",
     "enemy": "Ґрінери",
     "type": "Порятунок"
   },
@@ -102,12 +102,12 @@
   "SolNode20": {
     "value": "Телесто (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode21": {
     "value": "Нарцис (Плутон)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode22": {
     "value": "Тессера (Венера)",
@@ -120,28 +120,28 @@
     "type": "Перехоплення"
   },
   "SolNode24": {
-    "value": "Oro (Earth)",
+    "value": "Оро (Земля)",
     "enemy": "Ґрінери",
     "type": "Убивство"
   },
   "SolNode25": {
-    "value": "Callisto (Jupiter)",
+    "value": "Каллісто (Юпітер)",
     "enemy": "Корпус",
     "type": "Перехоплення"
   },
   "SolNode26": {
-    "value": "Lith (Earth)",
+    "value": "Літ (Земля)",
     "enemy": "Ґрінери",
     "type": "Оборона"
   },
   "SolNode27": {
-    "value": "E Prime (Earth)",
+    "value": "E-Прайм (Земля)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode28": {
-    "value": "Terminus (Mercury)",
-    "enemy": "Crossfire",
+    "value": "Термін (Меркурій)",
+    "enemy": "Сутичка",
     "type": "Саботаж"
   },
   "SolNode29": {
@@ -172,7 +172,7 @@
   "SolNode34": {
     "value": "Сікоракса (Уран)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode35": {
     "value": "Аркадія (Марс)",
@@ -195,7 +195,7 @@
     "type": "Мобільна оборона"
   },
   "SolNode39": {
-    "value": "Everest (Earth)",
+    "value": "Еверест (Земля)",
     "enemy": "Ґрінери",
     "type": "Видобуток"
   },
@@ -265,7 +265,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode53": {
-    "value": "Themisto (Jupiter)",
+    "value": "Темісто (Юпітер)",
     "enemy": "Корпус",
     "type": "Убивство"
   },
@@ -292,10 +292,10 @@
   "SolNode58": {
     "value": "Еллада (Марс)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode59": {
-    "value": "Eurasia (Earth)",
+    "value": "Євразія (Земля)",
     "enemy": "Ґрінери",
     "type": "Мобільна оборона"
   },
@@ -312,10 +312,10 @@
   "SolNode62": {
     "value": "Несо (Нептун)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode63": {
-    "value": "Mantle (Earth)",
+    "value": "Мантія (Земля)",
     "enemy": "Ґрінери",
     "type": "Захоплення"
   },
@@ -365,17 +365,17 @@
     "type": "Оборона"
   },
   "SolNode73": {
-    "value": "Ananke (Jupiter)",
+    "value": "Ананке (Юпітер)",
     "enemy": "Корпус",
     "type": "Захоплення"
   },
   "SolNode74": {
-    "value": "Carme (Jupiter)",
+    "value": "Карме (Юпітер)",
     "enemy": "Корпус",
     "type": "Мобільна оборона"
   },
   "SolNode75": {
-    "value": "Cervantes (Earth)",
+    "value": "Сервантес (Земля)",
     "enemy": "Ґрінери",
     "type": "Саботаж"
   },
@@ -395,7 +395,7 @@
     "type": "Порятунок"
   },
   "SolNode79": {
-    "value": "Cambria (Earth)",
+    "value": "Камбрія (Земля)",
     "enemy": "Ґрінери",
     "type": "Шпигунство"
   },
@@ -422,10 +422,10 @@
   "SolNode84": {
     "value": "Нереїда (Нептун)",
     "enemy": "Корпус",
-    "type": "Hijack"
+    "type": "Викрадення"
   },
   "SolNode85": {
-    "value": "Gaia (Earth)",
+    "value": "Ґая (Земля)",
     "enemy": "Ґрінери",
     "type": "Перехоплення"
   },
@@ -435,19 +435,19 @@
     "type": "Ancient Retribution"
   },
   "SolNode87": {
-    "value": "Ganymede (Jupiter)",
+    "value": "Ганімед (Юпітер)",
     "enemy": "Корпус",
     "type": "Завада підриву"
   },
   "SolNode88": {
-    "value": "Adrastea (Jupiter)",
+    "value": "Адрастея (Юпітер)",
     "enemy": "Корпус",
     "type": "Шпигунство"
   },
   "SolNode89": {
-    "value": "Mariana (Earth)",
+    "value": "Маріана (Земля)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode90": {
     "value": "Miranda",
@@ -470,7 +470,7 @@
     "type": "Мобільна оборона"
   },
   "SolNode94": {
-    "value": "Apollodorus (Mercury)",
+    "value": "Аполлодор (Меркурій)",
     "enemy": "Заражені",
     "type": "Виживання"
   },
@@ -485,7 +485,7 @@
     "type": "Виживання"
   },
   "SolNode97": {
-    "value": "Amalthea (Jupiter)",
+    "value": "Амальтея (Юпітер)",
     "enemy": "Корпус",
     "type": "Шпигунство"
   },
@@ -500,7 +500,7 @@
     "type": "Убивство"
   },
   "SolNode100": {
-    "value": "Elara (Jupiter)",
+    "value": "Елара (Юпітер)",
     "enemy": "Корпус",
     "type": "Виживання"
   },
@@ -515,9 +515,9 @@
     "type": "Шпигунство"
   },
   "SolNode103": {
-    "value": "M Prime (Mercury)",
-    "enemy": "Crossfire",
-    "type": "Extermination"
+    "value": "М-Прайм (Меркурій)",
+    "enemy": "Сутичка",
+    "type": "Винищення"
   },
   "SolNode104": {
     "value": "Фосса (Венера)",
@@ -540,7 +540,7 @@
     "type": "Захоплення"
   },
   "SolNode108": {
-    "value": "Tolstoj (Mercury)",
+    "value": "Толстой (Меркурій)",
     "enemy": "Ґрінери",
     "type": "Убивство"
   },
@@ -572,7 +572,7 @@
   "SolNode114": {
     "value": "Пак (Уран)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode115": {
     "value": "Quirinus (Mars)",
@@ -595,7 +595,7 @@
     "type": "Завада підриву"
   },
   "SolNode119": {
-    "value": "Caloris (Mercury)",
+    "value": "Калоріс (Меркурій)",
     "enemy": "Ґрінери",
     "type": "Порятунок"
   },
@@ -605,9 +605,9 @@
     "type": "Ancient Retribution"
   },
   "SolNode121": {
-    "value": "Carpo (Jupiter)",
+    "value": "Карпо (Юпітер)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode122": {
     "value": "Стефано (Уран)",
@@ -625,12 +625,12 @@
     "type": "Ancient Retribution"
   },
   "SolNode125": {
-    "value": "Io (Jupiter)",
+    "value": "Іо (Юпітер)",
     "enemy": "Корпус",
     "type": "Оборона"
   },
   "SolNode126": {
-    "value": "Metis (Jupiter)",
+    "value": "Метіс (Юпітер)",
     "enemy": "Корпус",
     "type": "Порятунок"
   },
@@ -642,7 +642,7 @@
   "SolNode128": {
     "value": "Брама E (Венера)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode129": {
     "value": "Долина Куль (Венера)",
@@ -650,17 +650,17 @@
     "type": "Мандри"
   },
   "SolNode130": {
-    "value": "Lares (Mercury)",
+    "value": "Лари (Меркурій)",
     "enemy": "Ґрінери",
     "type": "Оборона"
   },
   "SolNode131": {
-    "value": "Pallas (Ceres)",
+    "value": "Паллант (Церера)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode132": {
-    "value": "Bode (Ceres)",
+    "value": "Боде (Церера)",
     "enemy": "Ґрінери",
     "type": "Шпигунство"
   },
@@ -675,7 +675,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode135": {
-    "value": "Thon (Ceres)",
+    "value": "Тон (Церера)",
     "enemy": "Ґрінери",
     "type": "Саботаж"
   },
@@ -685,27 +685,27 @@
     "type": "Ancient Retribution"
   },
   "SolNode137": {
-    "value": "Nuovo (Ceres)",
+    "value": "Нуово (Церера)",
     "enemy": "Ґрінери",
     "type": "Порятунок"
   },
   "SolNode138": {
-    "value": "Ludi (Ceres)",
+    "value": "Луді (Церера)",
     "enemy": "Ґрінери",
-    "type": "Hijack"
+    "type": "Викрадення"
   },
   "SolNode139": {
-    "value": "Lex (Ceres)",
+    "value": "Лекс (Церера)",
     "enemy": "Ґрінери",
     "type": "Захоплення"
   },
   "SolNode140": {
-    "value": "Kiste (Ceres)",
+    "value": "Кісте (Церера)",
     "enemy": "Ґрінери",
     "type": "Мобільна оборона"
   },
   "SolNode141": {
-    "value": "Ker (Ceres)",
+    "value": "Кер (Церера)",
     "enemy": "Ґрінери",
     "type": "Саботаж"
   },
@@ -720,7 +720,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode144": {
-    "value": "Exta (Ceres)",
+    "value": "Екста (Церера)",
     "enemy": "Ґрінери",
     "type": "Убивство"
   },
@@ -730,12 +730,12 @@
     "type": "Ancient Retribution"
   },
   "SolNode146": {
-    "value": "Draco (Ceres)",
+    "value": "Дракон (Церера)",
     "enemy": "Ґрінери",
     "type": "Виживання"
   },
   "SolNode147": {
-    "value": "Cinxia (Ceres)",
+    "value": "Цинксія (Церера)",
     "enemy": "Ґрінери",
     "type": "Перехоплення"
   },
@@ -743,7 +743,7 @@
     "value": "Cerium (Ceres)"
   },
   "SolNode149": {
-    "value": "Casta (Ceres)",
+    "value": "Каста (Церера)",
     "enemy": "Ґрінери",
     "type": "Оборона"
   },
@@ -763,7 +763,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode153": {
-    "value": "Brugia (Eris)",
+    "value": "Бруґія (Ерида)",
     "enemy": "Заражені",
     "type": "Порятунок"
   },
@@ -808,7 +808,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode162": {
-    "value": "Isos (Eris)",
+    "value": "Ізос (Ерида)",
     "enemy": "Заражені",
     "type": "Захоплення"
   },
@@ -816,7 +816,7 @@
     "value": "Ixodes (Eris)"
   },
   "SolNode164": {
-    "value": "Kala-azar (Eris)",
+    "value": "Кала-азар (Ерида)",
     "enemy": "Заражені",
     "type": "Оборона"
   },
@@ -826,12 +826,12 @@
     "type": "Саботаж лігва"
   },
   "SolNode166": {
-    "value": "Nimus (Eris)",
+    "value": "Німус (Ерида)",
     "enemy": "Заражені",
     "type": "Виживання"
   },
   "SolNode167": {
-    "value": "Oestrus (Eris)",
+    "value": "Еструс (Ерида)",
     "enemy": "Заражені",
     "type": "Мобільна оборона"
   },
@@ -851,17 +851,17 @@
     "type": "Ancient Retribution"
   },
   "SolNode171": {
-    "value": "Saxis (Eris)",
+    "value": "Саксис (Ерида)",
     "enemy": "Заражені",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode172": {
-    "value": "Xini (Eris)",
+    "value": "Ксини (Ерида)",
     "enemy": "Заражені",
     "type": "Перехоплення"
   },
   "SolNode173": {
-    "value": "Solium (Eris)",
+    "value": "Соліум (Ерида)",
     "enemy": "Заражені",
     "type": "Мобільна оборона"
   },
@@ -871,9 +871,9 @@
     "type": "Ancient Retribution"
   },
   "SolNode175": {
-    "value": "Naeglar (Eris)",
+    "value": "Неглер (Ерида)",
     "enemy": "Заражені",
-    "type": "Hive"
+    "type": "Лігво"
   },
   "SolNode176": {
     "value": "Viver (Eris)",
@@ -881,7 +881,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode177": {
-    "value": "Kappa (Sedna)",
+    "value": "Каппа (Седна)",
     "enemy": "Ґрінери",
     "type": "Завада підриву"
   },
@@ -901,9 +901,9 @@
     "type": "Ancient Retribution"
   },
   "SolNode181": {
-    "value": "Adaro (Sedna)",
+    "value": "Адаро (Седна)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode182": {
     "value": "Camenae (Sedna)",
@@ -911,17 +911,17 @@
     "type": "Ancient Retribution"
   },
   "SolNode183": {
-    "value": "Vodyanoi (Sedna)",
+    "value": "Водяник (Седна)",
     "enemy": "Ґрінери",
-    "type": "Arena"
+    "type": "Арена"
   },
   "SolNode184": {
-    "value": "Rusalka (Sedna)",
+    "value": "Русалка (Седна)",
     "enemy": "Ґрінери",
     "type": "Захоплення"
   },
   "SolNode185": {
-    "value": "Berehynia (Sedna)",
+    "value": "Берегиня (Седна)",
     "enemy": "Ґрінери",
     "type": "Перехоплення"
   },
@@ -931,29 +931,29 @@
     "type": "Саботаж"
   },
   "SolNode187": {
-    "value": "Selkie (Sedna)",
+    "value": "Селкі (Седна)",
     "enemy": "Ґрінери",
     "type": "Виживання"
   },
   "SolNode188": {
-    "value": "Kelpie (Sedna)",
+    "value": "Кельпі (Седна)",
     "enemy": "Ґрінери",
     "type": "Шпигунство"
   },
   "SolNode189": {
-    "value": "Naga (Sedna)",
+    "value": "Наг (Седна)",
     "enemy": "Ґрінери",
     "type": "Порятунок"
   },
   "SolNode190": {
-    "value": "Nakki (Sedna)",
+    "value": "Няккі (Седна)",
     "enemy": "Ґрінери",
-    "type": "Arena"
+    "type": "Арена"
   },
   "SolNode191": {
-    "value": "Marid (Sedna)",
+    "value": "Марид (Седна)",
     "enemy": "Ґрінери",
-    "type": "Hijack"
+    "type": "Викрадення"
   },
   "SolNode192": {
     "value": "Tikoloshe (Sedna)",
@@ -961,7 +961,7 @@
     "type": "Шпигунство"
   },
   "SolNode193": {
-    "value": "Merrow (Sedna)",
+    "value": "Мору (Седна)",
     "enemy": "Ґрінери",
     "type": "Убивство"
   },
@@ -971,12 +971,12 @@
     "type": "Ancient Retribution"
   },
   "SolNode195": {
-    "value": "Hydron (Sedna)",
+    "value": "Гідрон (Седна)",
     "enemy": "Ґрінери",
     "type": "Оборона"
   },
   "SolNode196": {
-    "value": "Charybdis (Sedna)",
+    "value": "Харібда (Седна)",
     "enemy": "Ґрінери",
     "type": "Мобільна оборона"
   },
@@ -991,9 +991,9 @@
     "type": "Ancient Retribution"
   },
   "SolNode199": {
-    "value": "Yam (Sedna)",
+    "value": "Ям (Седна)",
     "enemy": "Ґрінери",
-    "type": "Arena"
+    "type": "Арена"
   },
   "SolNode200": {
     "value": "Veles (Sedna)",
@@ -1011,19 +1011,19 @@
     "type": "Ancient Retribution"
   },
   "SolNode203": {
-    "value": "Abaddon (Europa)",
+    "value": "Абаддон (Європа)",
     "enemy": "Корпус",
     "type": "Захоплення"
   },
   "SolNode204": {
-    "value": "Armaros (Europa)",
+    "value": "Армарос (Європа)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode205": {
-    "value": "Baal (Europa)",
+    "value": "Баал (Європа)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode206": {
     "value": "Eligor (Europa)"
@@ -1039,22 +1039,22 @@
     "type": "Ancient Retribution"
   },
   "SolNode209": {
-    "value": "Morax (Europa)",
+    "value": "Моракс (Європа)",
     "enemy": "Корпус",
     "type": "Мобільна оборона"
   },
   "SolNode210": {
-    "value": "Naamah (Europa)",
+    "value": "Наама (Європа)",
     "enemy": "Корпус",
     "type": "Убивство"
   },
   "SolNode211": {
-    "value": "Ose (Europa)",
+    "value": "Осе (Європа)",
     "enemy": "Корпус",
     "type": "Перехоплення"
   },
   "SolNode212": {
-    "value": "Paimon (Europa)",
+    "value": "Паймон (Європа)",
     "enemy": "Корпус",
     "type": "Оборона"
   },
@@ -1062,22 +1062,22 @@
     "value": "Shax (Europa)"
   },
   "SolNode214": {
-    "value": "Sorath (Europa)",
+    "value": "Сорат (Європа)",
     "enemy": "Корпус",
-    "type": "Hijack"
+    "type": "Викрадення"
   },
   "SolNode215": {
-    "value": "Valac (Europa)",
+    "value": "Валак (Європа)",
     "enemy": "Корпус",
     "type": "Шпигунство"
   },
   "SolNode216": {
-    "value": "Valefor (Europa)",
+    "value": "Валефор (Європа)",
     "enemy": "Корпус",
     "type": "Видобуток"
   },
   "SolNode217": {
-    "value": "Orias (Europa)",
+    "value": "Ориас (Європа)",
     "enemy": "Корпус",
     "type": "Порятунок"
   },
@@ -1092,7 +1092,7 @@
     "type": "Ancient Retribution"
   },
   "SolNode220": {
-    "value": "Kokabiel (Europa)",
+    "value": "Кокабіїл (Європа)",
     "enemy": "Корпус",
     "type": "Саботаж"
   },
@@ -1107,100 +1107,100 @@
     "type": "Ancient Retribution"
   },
   "SolNode223": {
-    "value": "Boethius (Mercury)",
+    "value": "Боецій (Меркурій)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode224": {
-    "value": "Odin (Mercury)",
+    "value": "Одін (Меркурій)",
     "enemy": "Ґрінери",
     "type": "Перехоплення"
   },
   "SolNode225": {
-    "value": "Suisei (Mercury)",
+    "value": "Суйсей (Меркурій)",
     "enemy": "Ґрінери",
     "type": "Шпигунство"
   },
   "SolNode226": {
-    "value": "Pantheon (Mercury)",
+    "value": "Пантеон (Меркурій)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode227": {
     "value": "Verdi (Mercury)"
   },
   "SolNode228": {
-    "value": "Plains of Eidolon (Earth)",
+    "value": "Рівнини Ейдолонів (Земля)",
     "enemy": "Ґрінери",
     "type": "Мандри"
   },
   "SolNode229": {
-    "value": "Cambion Drift (Deimos)",
+    "value": "Кембіонська течія (Деймос)",
     "enemy": "Заражені",
     "type": "Мандри"
   },
   "SolNode400": {
-    "value": "Teshub (Void)",
+    "value": "Тешуб (Порожнеча)",
     "enemy": "Орокіни",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode401": {
-    "value": "Hepit (Void)",
+    "value": "Гепіта (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Захоплення"
   },
   "SolNode402": {
-    "value": "Taranis (Void)",
+    "value": "Тараніс (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Оборона"
   },
   "SolNode403": {
-    "value": "Tiwaz (Void)",
+    "value": "Тейваз (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Мобільна оборона"
   },
   "SolNode404": {
-    "value": "Stribog (Void)",
+    "value": "Стрибог (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Саботаж орокінів"
   },
   "SolNode405": {
-    "value": "Ani (Void)",
+    "value": "Ані (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Виживання"
   },
   "SolNode406": {
-    "value": "Ukko (Void)",
+    "value": "Укко (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Захоплення"
   },
   "SolNode407": {
-    "value": "Oxomoco (Void)",
+    "value": "Оксомоко (Порожнеча)",
     "enemy": "Орокіни",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode408": {
-    "value": "Belenus (Void)",
+    "value": "Белен (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Оборона"
   },
   "SolNode409": {
-    "value": "Mot (Void)",
+    "value": "Мот (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Виживання"
   },
   "SolNode410": {
-    "value": "Aten (Void)",
+    "value": "Атон (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Мобільна оборона"
   },
   "SolNode411": {
-    "value": "Marduk (Void)",
+    "value": "Мардук (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Саботаж"
   },
   "SolNode412": {
-    "value": "Mithra (Void)",
+    "value": "Мітра (Порожнеча)",
     "enemy": "Орокіни",
     "type": "Перехоплення"
   },
@@ -1210,87 +1210,87 @@
     "type": "Ancient Retribution"
   },
   "SolNode706": {
-    "value": "Horend (Deimos)",
+    "value": "Горенд (Деймос)",
     "enemy": "Заражені",
     "type": "Захоплення"
   },
   "SolNode707": {
-    "value": "Hyf (Deimos)",
+    "value": "Гюф (Деймос)",
     "enemy": "Заражені",
     "type": "Оборона"
   },
   "SolNode708": {
-    "value": "Phlegyas (Deimos)",
+    "value": "Флегій (Деймос)",
     "enemy": "Заражені",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode709": {
-    "value": "Dirus (Deimos)",
+    "value": "Дірус (Деймос)",
     "enemy": "Заражені",
     "type": "Мобільна оборона"
   },
   "SolNode710": {
-    "value": "Formido (Deimos)",
+    "value": "Формідо (Деймос)",
     "enemy": "Заражені",
     "type": "Саботаж"
   },
   "SolNode711": {
-    "value": "Terrorem (Deimos)",
+    "value": "Терорем (Деймос)",
     "enemy": "Заражені",
     "type": "Виживання"
   },
   "SolNode712": {
-    "value": "Magnacidium (Deimos)",
+    "value": "Маґнацидій (Деймос)",
     "enemy": "Заражені",
     "type": "Убивство"
   },
   "SolNode713": {
-    "value": "Exequias (Deimos)",
+    "value": "Екзекʼяс (Деймос)",
     "enemy": "Заражені",
     "type": "Убивство"
   },
   "SolNode740": {
-    "value": "The Ropalolyst (Jupiter)",
+    "value": "Ропалолист (Юпітер)",
     "enemy": "Свідомі",
     "type": "Убивство"
   },
   "SolNode741": {
-    "value": "Koro (Kuva Fortress)",
+    "value": "Коро (Кувова фортеця)",
     "enemy": "Ґрінери",
-    "type": "Assault"
+    "type": "Штурм"
   },
   "SolNode742": {
-    "value": "Nabuk (Kuva Fortress)",
+    "value": "Набук (Кувова фортеця)",
     "enemy": "Ґрінери",
     "type": "Захоплення"
   },
   "SolNode743": {
-    "value": "Rotuma (Kuva Fortress)",
+    "value": "Ротума (Кувова фортеця)",
     "enemy": "Ґрінери",
     "type": "Мобільна оборона"
   },
   "SolNode744": {
-    "value": "Taveuni (Kuva Fortress)",
+    "value": "Тавеуні (Кувова фортеця)",
     "enemy": "Ґрінери",
     "type": "Виживання"
   },
   "SolNode745": {
-    "value": "Tamu (Kuva Fortress)",
+    "value": "Таму (Кувова фортеця)",
     "enemy": "Ґрінери",
     "type": "Завада підриву"
   },
   "SolNode746": {
-    "value": "Dakata (Kuva Fortress)",
+    "value": "Даката (Кувова фортеця)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode747": {
-    "value": "Pago (Kuva Fortress)",
+    "value": "Паґо (Кувова фортеця)",
     "enemy": "Ґрінери",
     "type": "Шпигунство"
   },
   "SolNode748": {
-    "value": "Garus (Kuva Fortress)",
+    "value": "Гарус (Кувова фортеця)",
     "enemy": "Ґрінери",
     "type": "Порятунок"
   },
@@ -1302,27 +1302,27 @@
   "SolNode902": {
     "value": "Монтес (Венера)",
     "enemy": "Корпус",
-    "type": "Extermination (Archwing)"
+    "type": "Винищення (арквінґ)"
   },
   "SolNode903": {
-    "value": "Erpo (Earth)",
+    "value": "Ерпо (Земля)",
     "enemy": "Ґрінери",
     "type": "Мобільна оборона (арквінґ)"
   },
   "SolNode904": {
     "value": "Сідра (Марс)",
     "enemy": "Ґрінери",
-    "type": "Extermination (Archwing)"
+    "type": "Винищення (арквінґ)"
   },
   "SolNode905": {
-    "value": "Galilea (Jupiter)",
+    "value": "Галілея (Юпітер)",
     "enemy": "Корпус",
     "type": "Саботаж (арквінґ)"
   },
   "SolNode906": {
     "value": "Пандора (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Pursuit (Archwing)"
+    "type": "Погоня (арквінґ)"
   },
   "SolNode907": {
     "value": "Целум (Уран)",
@@ -1335,57 +1335,57 @@
     "type": "Мобільна оборона (арквінґ)"
   },
   "SolNode300": {
-    "value": "Plato (Lua)",
+    "value": "Платон (Луа)",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SolNode301": {
-    "value": "Grimaldi (Lua)",
+    "value": "Грімальді (Луа)",
     "enemy": "Ґрінери",
     "type": "Мобільна оборона"
   },
   "SolNode302": {
-    "value": "Tycho (Lua)",
+    "value": "Тихо (Луа)",
     "enemy": "Корпус",
     "type": "Виживання"
   },
   "SolNode304": {
-    "value": "Copernicus (Lua)",
+    "value": "Коперник (Луа)",
     "enemy": "Ґрінери",
     "type": "Мобільна оборона"
   },
   "SolNode305": {
-    "value": "Stöfler (Lua)",
+    "value": "Штефлер (Луа)",
     "enemy": "Корпус",
     "type": "Виживання"
   },
   "SolNode306": {
-    "value": "Pavlov (Lua)",
+    "value": "Павлов (Луа)",
     "enemy": "Корпус",
     "type": "Шпигунство"
   },
   "SolNode307": {
-    "value": "Zeipel (Lua)",
+    "value": "Цейпель (Луа)",
     "enemy": "Корпус",
     "type": "Порятунок"
   },
   "SolNode308": {
-    "value": "Apollo (Lua)",
+    "value": "Аполлон (Луа)",
     "enemy": "Корпус",
     "type": "Завада підриву"
   },
   "SettlementNode1": {
-    "value": "Roche (Phobos)",
+    "value": "Рош (Фобос)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "SettlementNode2": {
-    "value": "Skyresh (Phobos)",
+    "value": "Скайреш (Фобос)",
     "enemy": "Корпус",
     "type": "Захоплення"
   },
   "SettlementNode3": {
-    "value": "Stickney (Phobos)",
+    "value": "Стікні (Фобос)",
     "enemy": "Корпус",
     "type": "Виживання"
   },
@@ -1420,17 +1420,17 @@
     "type": "Ancient Retribution"
   },
   "SettlementNode10": {
-    "value": "Kepler (Phobos)",
+    "value": "Кеплер (Фобос)",
     "enemy": "Корпус",
-    "type": "Rush (Archwing)"
+    "type": "Стрімкий напад (арквінґ)"
   },
   "SettlementNode11": {
-    "value": "Gulliver (Phobos)",
+    "value": "Ґуллівер (Фобос)",
     "enemy": "Корпус",
     "type": "Оборона"
   },
   "SettlementNode12": {
-    "value": "Monolith (Phobos)",
+    "value": "Моноліт (Фобос)",
     "enemy": "Корпус",
     "type": "Порятунок"
   },
@@ -1440,12 +1440,12 @@
     "type": "Ancient Retribution"
   },
   "SettlementNode14": {
-    "value": "Shklovsky (Phobos)",
+    "value": "Шкловський (Фобос)",
     "enemy": "Корпус",
     "type": "Шпигунство"
   },
   "SettlementNode15": {
-    "value": "Sharpless (Phobos)",
+    "value": "Шарплесс (Фобос)",
     "enemy": "Корпус",
     "type": "Мобільна оборона"
   },
@@ -1470,12 +1470,12 @@
     "type": "Ancient Retribution"
   },
   "SettlementNode20": {
-    "value": "Iliad (Phobos)",
+    "value": "Іліада (Фобос)",
     "enemy": "Корпус",
     "type": "Убивство"
   },
   "MercuryHUB": {
-    "value": "Larunda Relay (Mercury)",
+    "value": "Реле«Ларунда» (Меркурій)",
     "enemy": "Ґрінери",
     "type": "Реле"
   },
@@ -1485,7 +1485,7 @@
     "type": "Реле"
   },
   "EarthHUB": {
-    "value": "Strata Relay (Earth)",
+    "value": "Реле «Страта» (Земля)",
     "enemy": "Ґрінери",
     "type": "Реле"
   },
@@ -1495,17 +1495,17 @@
     "type": "Реле"
   },
   "ErisHUB": {
-    "value": "Kuiper Relay (Eris)",
+    "value": "Реле «Койпер» (Ерида)",
     "enemy": "Заражені",
     "type": "Реле"
   },
   "EuropaHUB": {
-    "value": "Leonov Relay (Europa)",
+    "value": "Реле «Леонов» (Європа)",
     "enemy": "Корпус",
     "type": "Реле"
   },
   "PlutoHUB": {
-    "value": "Orcus Relay (Pluto)",
+    "value": "Реле «Орк» (Плутон)",
     "enemy": "Корпус",
     "type": "Реле"
   },
@@ -1627,20 +1627,20 @@
   "EventNode24": {
     "value": "Earth",
     "enemy": "Ґрінери",
-    "type": "Arena"
+    "type": "Арена"
   },
   "EventNode25": {
     "value": "Earth",
     "enemy": "Ґрінери",
-    "type": "Arena"
+    "type": "Арена"
   },
   "EventNode26": {
     "value": "Earth",
     "enemy": "Ґрінери",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "EventNode27": {
-    "value": "Void",
+    "value": "Порожнеча",
     "enemy": "Уярмлені",
     "type": "Виживання"
   },
@@ -1655,49 +1655,49 @@
     "type": "Убивство"
   },
   "EventNode30": {
-    "value": "Ganymede (Jupiter)",
+    "value": "Ганімед (Юпітер)",
     "enemy": "Корпус",
     "type": "Завада підриву"
   },
   "EventNode31": {
-    "value": "Ganymede (Jupiter)",
+    "value": "Ганімед (Юпітер)",
     "enemy": "Корпус",
     "type": "Завада підриву"
   },
   "EventNode32": {
-    "value": "Ganymede (Jupiter)",
+    "value": "Ганімед (Юпітер)",
     "enemy": "Корпус",
     "type": "Завада підриву"
   },
   "EventNode33": {
-    "value": "Ganymede (Jupiter)",
+    "value": "Ганімед (Юпітер)",
     "enemy": "Корпус",
     "type": "Завада підриву"
   },
   "EventNode34": {
     "value": "Earth",
     "enemy": "Ґрінери",
-    "type": "Arena"
+    "type": "Арена"
   },
   "EventNode35": {
     "value": "Earth",
     "enemy": "Ґрінери",
-    "type": "Arena"
+    "type": "Арена"
   },
   "EventNode761": {
-    "value": "The Index",
+    "value": "Індекс",
     "enemy": "Корпус",
-    "type": "Arena"
+    "type": "Арена"
   },
   "EventNode762": {
-    "value": "The Index pt 2",
+    "value": "Індекс частина 2",
     "enemy": "Корпус",
-    "type": "Arena"
+    "type": "Арена"
   },
   "EventNode763": {
     "value": "The Index Endurance",
     "enemy": "Корпус",
-    "type": "Arena"
+    "type": "Арена"
   },
   "PvpNode0": {
     "value": "Конклав: Захоплення цефалона",
@@ -1785,32 +1785,32 @@
     "type": "Темний сектор — виживання"
   },
   "ClanNode2": {
-    "value": "Coba (Earth)",
+    "value": "Коба (Земля)",
     "enemy": "Заражені",
     "type": "Темний сектор — оборона"
   },
   "ClanNode3": {
-    "value": "Tikal (Earth)",
+    "value": "Тікаль (Земля)",
     "enemy": "Заражені",
     "type": "Темний сектор — видобуток"
   },
   "ClanNode4": {
-    "value": "Sinai (Jupiter)",
+    "value": "Синай (Юпітер)",
     "enemy": "Заражені",
     "type": "Темний сектор — виживання"
   },
   "ClanNode5": {
-    "value": "Cameria (Jupiter)",
+    "value": "Камерія (Юпітер)",
     "enemy": "Заражені",
     "type": "Темний сектор — виживання"
   },
   "ClanNode6": {
-    "value": "Larzac (Europa)",
+    "value": "Ларзак (Європа)",
     "enemy": "Заражені",
     "type": "Темний сектор — оборона"
   },
   "ClanNode7": {
-    "value": "Cholistan (Europa)",
+    "value": "Чолістан (Європа)",
     "enemy": "Заражені",
     "type": "Темний сектор — видобуток"
   },
@@ -1825,12 +1825,12 @@
     "type": "Темний сектор — виживання"
   },
   "ClanNode10": {
-    "value": "Memphis (Phobos)",
+    "value": "Мемфіс (Фобос)",
     "enemy": "Заражені",
     "type": "Темний сектор — супровід дезертирів"
   },
   "ClanNode11": {
-    "value": "Zeugma (Phobos)",
+    "value": "Зевгма (Фобос)",
     "enemy": "Заражені",
     "type": "Темний сектор — виживання"
   },
@@ -1845,12 +1845,12 @@
     "type": "Темний сектор — виживання"
   },
   "ClanNode14": {
-    "value": "Amarna (Sedna)",
+    "value": "Амарна (Седна)",
     "enemy": "Заражені",
     "type": "Темний сектор — виживання"
   },
   "ClanNode15": {
-    "value": "Sangeru (Sedna)",
+    "value": "Сангеру (Седна)",
     "enemy": "Заражені",
     "type": "Темний сектор — оборона"
   },
@@ -1865,12 +1865,12 @@
     "type": "Темний сектор — виживання"
   },
   "ClanNode18": {
-    "value": "Akkad (Eris)",
+    "value": "Аккад (Ерида)",
     "enemy": "Заражені",
     "type": "Темний сектор — оборона"
   },
   "ClanNode19": {
-    "value": "Zabala (Eris)",
+    "value": "Забала (Ерида)",
     "enemy": "Заражені",
     "type": "Темний сектор — виживання"
   },
@@ -1885,22 +1885,22 @@
     "type": "Темний сектор — виживання"
   },
   "ClanNode22": {
-    "value": "Seimeni (Ceres)",
+    "value": "Сеймені (Церера)",
     "enemy": "Заражені",
     "type": "Темний сектор — оборона"
   },
   "ClanNode23": {
-    "value": "Gabii (Ceres)",
+    "value": "Ґабій (Церера)",
     "enemy": "Заражені",
     "type": "Темний сектор — виживання"
   },
   "ClanNode24": {
-    "value": "Sechura (Pluto)",
+    "value": "Сечура (Плутон)",
     "enemy": "Заражені",
     "type": "Темний сектор — оборона"
   },
   "ClanNode25": {
-    "value": "Hieracon (Pluto)",
+    "value": "Ієракон (Плутон)",
     "enemy": "Заражені",
     "type": "Темний сектор — видобуток"
   },
@@ -1912,17 +1912,17 @@
   "CrewBattleNode501": {
     "value": "Скупчення Мордо (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode502": {
-    "value": "Sover Strait (Earth)",
+    "value": "Перешийок Совера (Земля)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode503": {
     "value": "Відлуння Біфроста (Венера)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "CrewBattleNode504": {
     "value": "Вектор Арви (Нептун)",
@@ -1932,22 +1932,22 @@
   "CrewBattleNode505": {
     "value": "Ruse War Field (Veil)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode509": {
-    "value": "Iota Temple (Earth)",
+    "value": "Храм Йоти (Земля)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode510": {
     "value": "Gian Point (Veil)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode511": {
     "value": "Захисне кільце маяка (Венера)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Наліт"
   },
   "CrewBattleNode512": {
     "value": "Орвін-Гаарк (Венера)",
@@ -1957,7 +1957,7 @@
   "CrewBattleNode513": {
     "value": "Перешийок Веспера (Венера)",
     "enemy": "Корпус",
-    "type": "Orphix"
+    "type": "Орфікс"
   },
   "CrewBattleNode514": {
     "value": "Спадна Слава(Венера)",
@@ -1972,17 +1972,17 @@
   "CrewBattleNode516": {
     "value": "Копальні Ну-ґуа (Нептун)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "CrewBattleNode518": {
-    "value": "Ogal Cluster (Earth)",
+    "value": "Скупчення Оґала (Земля)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode519": {
-    "value": "Korm's Belt (Earth)",
+    "value": "Пояс Корма (Земля)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode521": {
     "value": "Енкідуйські крижані уламки (Нептун)",
@@ -1990,19 +1990,19 @@
     "type": "Виживання"
   },
   "CrewBattleNode522": {
-    "value": "Bendar Cluster (Earth)",
+    "value": "Скупчення Бендара (Земля)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode523": {
     "value": "Мамонська Перспектива (Нептун)",
     "enemy": "Корпус",
-    "type": "Orphix"
+    "type": "Орфікс"
   },
   "CrewBattleNode524": {
     "value": "Величний Хват (Нептун)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Наліт"
   },
   "CrewBattleNode525": {
     "value": "Скупчення Брома (Нептун)",
@@ -2010,64 +2010,64 @@
     "type": "Шпигунство"
   },
   "CrewBattleNode526": {
-    "value": "Khufu Envoy (Pluto)",
+    "value": "Посланець Хуфу (Плутон)",
     "enemy": "Корпус",
-    "type": "Orphix"
+    "type": "Орфікс"
   },
   "CrewBattleNode527": {
-    "value": "Seven Sirens (Pluto)",
+    "value": "Сім Сирен (Плутон)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "CrewBattleNode528": {
-    "value": "Obol Crossing (Pluto)",
+    "value": "Перехрестя Обола (Плутон)",
     "enemy": "Корпус",
     "type": "Оборона"
   },
   "CrewBattleNode529": {
-    "value": "Profit Margin (Pluto)",
+    "value": "Граничний Прибуток (Плутон)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Наліт"
   },
   "CrewBattleNode530": {
     "value": "Перевал Казіо (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode531": {
-    "value": "Fenton's Field (Pluto)",
+    "value": "Поле Фентона (Плутон)",
     "enemy": "Корпус",
     "type": "Виживання"
   },
   "CrewBattleNode533": {
     "value": "Розрив Нодо (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode534": {
     "value": "Прохід Лупал (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode535": {
     "value": "Скупчення Ванда (Сатурн)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode536": {
-    "value": "Peregrine Axis (Pluto)",
+    "value": "Вісь Сапсана (Плутон)",
     "enemy": "Корпус",
-    "type": "Orphix"
+    "type": "Орфікс"
   },
   "CrewBattleNode538": {
     "value": "Калабаш (Вуаль)",
     "enemy": "Корпус",
-    "type": "Extermination"
+    "type": "Винищення"
   },
   "CrewBattleNode539": {
     "value": "Нуміна (Вуаль)",
     "enemy": "Корпус",
-    "type": "Volatile"
+    "type": "Наліт"
   },
   "CrewBattleNode540": {
     "value": "Срібна Арка (Вуаль)",
@@ -2077,7 +2077,7 @@
   "CrewBattleNode541": {
     "value": "Ерато (Вуаль)\"",
     "enemy": "Корпус",
-    "type": "Orphix"
+    "type": "Орфікс"
   },
   "CrewBattleNode542": {
     "value": "Лу-янь (Вуаль)",
@@ -2092,31 +2092,31 @@
   "CrewBattleNode550": {
     "value": "Сітка Нсу (Вуаль)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode551": {
     "value": "Ganalen's Grave (Veil)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode552": {
     "value": "Rya (Veil)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode553": {
     "value": "Флекса (Вуаль)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode554": {
     "value": "Хмара H-2 (Вуаль)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   },
   "CrewBattleNode555": {
     "value": "Хмара R-9 (Вуаль)",
     "enemy": "Ґрінери",
-    "type": "Skirmish"
+    "type": "Сутичка"
   }
 }
