@@ -17,7 +17,7 @@
     "SORTIE_MODIFIER_TOXIN": "Стихійне посилення ворогів: токсична",
     "SORTIE_MODIFIER_POISON": "Стихійне посилення ворогів: токсична",
     "SORTIE_MODIFIER_HAZARD_RADIATION": "Environmental Hazard: Radiation Pockets",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Environmental Hazard: Electromagnetic Anomalies",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Умови: Електромагнетичні аномалії",
     "SORTIE_MODIFIER_HAZARD_FOG": "Environmental Hazard: Dense Fog",
     "SORTIE_MODIFIER_HAZARD_FIRE": "Environmental Hazard: Fire",
     "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
@@ -49,7 +49,7 @@
     "SORTIE_MODIFIER_TOXIN": "У ворогів збільшена токсична шкода, також мають підвищений опір до вказаного типу шкоди.",
     "SORTIE_MODIFIER_POISON": "У ворогів збільшена токсична шкода, також мають підвищений опір до вказаного типу шкоди.",
     "SORTIE_MODIFIER_HAZARD_RADIATION": "Any damage received will impart radiation effects, and so will green clouds around the tileset.",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Reduced Gravity. Blue blobs that deal magnetic procs placed through out the tileset.",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Знижена сила тяжіння. На завданні трапляються сині згустки, які накладають магнетичний статус.",
     "SORTIE_MODIFIER_HAZARD_FOG": "Limited visibility in the tileset due to dense fog. Forced night cycle on planets like earth.",
     "SORTIE_MODIFIER_HAZARD_FIRE": "The tileset has a fire hazard. Warframe health is halved. Meltdown Iminent.",
     "SORTIE_MODIFIER_HAZARD_ICE": "Maximum Shield Capacity is halved. Ice patches that cause cold procs.",
@@ -157,195 +157,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -360,75 +360,75 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "16",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -444,195 +444,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -647,60 +647,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -716,195 +716,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Defense",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Оборона",
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -919,60 +919,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Defense",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Оборона",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -988,195 +988,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Survival",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Виживання",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -1191,60 +1191,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -1260,195 +1260,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -1463,60 +1463,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -1532,195 +1532,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -1735,60 +1735,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -1804,195 +1804,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -2007,60 +2007,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -2076,195 +2076,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -2279,60 +2279,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -2348,45 +2348,45 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -2394,149 +2394,149 @@
           "missions": [
             "Exterminate",
             "Exterminate",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -2551,60 +2551,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -2620,195 +2620,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Rescue",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Порятунок",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Sabotage",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Саботаж",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Spy",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Шпигунство",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -2823,60 +2823,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -2892,195 +2892,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -3095,60 +3095,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -3164,195 +3164,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -3367,60 +3367,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -3436,195 +3436,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hive",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -3639,60 +3639,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -3708,195 +3708,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Spy",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Шпигунство",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Spy",
-            "Mobile Defense",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Шпигунство",
+            "Мобільна оборона",
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
             "Hive",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -3911,60 +3911,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
@@ -3980,195 +3980,195 @@
           "name": "Mercury",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Venus",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Defense",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Оборона",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Earth",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Марс",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Interception",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Перехоплення",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Jupiter",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Сатурн",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Uranus",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Neptune",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Excavation",
-            "Spy",
-            "Assassination"
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Видобуток",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Плутон",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Церера",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Eris",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Survival",
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Виживання",
             "Hive",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Седна",
           "missions": [
             "Exterminate",
-            "Survival",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
-            "Spy",
-            "Assassination"
+            "Виживання",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
+            "Шпигунство",
+            "Убивство"
           ]
         },
         {
           "name": "Europa",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Hijack",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
@@ -4183,60 +4183,60 @@
           "name": "Фобос",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "17",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Lua",
           "missions": [
             "Exterminate",
-            "Excavation",
-            "Rescue",
-            "Sabotage",
-            "Spy",
-            "Defense",
-            "Mobile Defense",
-            "Interception",
+            "Видобуток",
+            "Порятунок",
+            "Саботаж",
+            "Шпигунство",
+            "Оборона",
+            "Мобільна оборона",
+            "Перехоплення",
             "Exterminate",
-            "Assassination"
+            "Убивство"
           ]
         },
         {
           "name": "Kuva Fortress",
           "missions": [
-            "Defense",
-            "Defense",
-            "Defense",
+            "Оборона",
+            "Оборона",
+            "Оборона",
             "Exterminate",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Defense",
-            "Assassination"
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Оборона",
+            "Убивство"
           ]
         }
       ]
