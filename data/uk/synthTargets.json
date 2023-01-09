@@ -15,7 +15,7 @@
             {
                 "last_verified": "2019-02-24",
                 "level": "8-10",
-                "faction": "Crossfire",
+                "faction": "Сутичка",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Mercury",
@@ -42,7 +42,7 @@
                 "faction": "Заражені",
                 "spawn_rate": "100%",
                 "mission": "Hepit (Unconfirmed)",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Захоплення"
             }
         ]
@@ -58,7 +58,7 @@
                 "spawn_rate": "100%",
                 "mission": "Acheron",
                 "planet": "Плутон",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2020-01-28",
@@ -67,7 +67,7 @@
                 "spawn_rate": "100%",
                 "mission": "Baal",
                 "planet": "Europa",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "0000-00-00",
@@ -285,7 +285,7 @@
             {
                 "last_verified": "2019-06-27",
                 "level": "8-10",
-                "faction": "Crossfire",
+                "faction": "Сутичка",
                 "spawn_rate": "100%",
                 "mission": "Terminus",
                 "planet": "Mercury",
@@ -294,11 +294,11 @@
             {
                 "last_verified": "2019-09-01",
                 "level": "7-9",
-                "faction": "Crossfire",
+                "faction": "Сутичка",
                 "spawn_rate": "100%",
                 "mission": "M Prime",
                 "planet": "Mercury",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-06-27",
@@ -322,7 +322,7 @@
                 "spawn_rate": "100%",
                 "mission": "Telesto",
                 "planet": "Сатурн",
-                "type": "Extermination"
+                "type": "Винищення"
             }
         ]
     },
@@ -336,7 +336,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Захоплення"
             },
             {
@@ -345,7 +345,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Stribog",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Саботаж"
             },
             {
@@ -354,7 +354,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Ani",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Виживання"
             }
         ]
@@ -369,8 +369,8 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Oxomoco",
-                "planet": "Void",
-                "type": "Extermination"
+                "planet": "Порожнеча",
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-01-12",
@@ -378,7 +378,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Marduk",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Саботаж"
             }
         ]
@@ -393,7 +393,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "94%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Захоплення"
             },
             {
@@ -402,8 +402,8 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void",
-                "type": "Extermination"
+                "planet": "Порожнеча",
+                "type": "Винищення"
             }
         ]
     },
@@ -417,8 +417,8 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void",
-                "type": "Extermination"
+                "planet": "Порожнеча",
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-01-28",
@@ -426,7 +426,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Захоплення"
             }
         ]
@@ -441,7 +441,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Захоплення"
             },
             {
@@ -450,8 +450,8 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Teshub",
-                "planet": "Void",
-                "type": "Extermination"
+                "planet": "Порожнеча",
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-03-23",
@@ -459,7 +459,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Захоплення"
             }
         ]
@@ -474,7 +474,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Hepit",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Захоплення"
             },
             {
@@ -483,7 +483,7 @@
                 "faction": "Орокіни",
                 "spawn_rate": "100%",
                 "mission": "Ukko",
-                "planet": "Void",
+                "planet": "Порожнеча",
                 "type": "Захоплення"
             }
         ]
@@ -498,8 +498,8 @@
                 "faction": "Орокіни",
                 "spawn_rate": "78%",
                 "mission": "Oxomoco",
-                "planet": "Void",
-                "type": "Extermination"
+                "planet": "Порожнеча",
+                "type": "Винищення"
             }
         ]
     },
@@ -528,11 +528,11 @@
             {
                 "last_verified": "2019-05-30",
                 "level": "18-20",
-                "faction": "Crossfire",
+                "faction": "Сутичка",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europa",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-03-07",
@@ -748,7 +748,7 @@
                 "spawn_rate": "100%",
                 "mission": "Ludi",
                 "planet": "Церера",
-                "type": "Hijack"
+                "type": "Викрадення"
             }
         ]
     },
@@ -856,7 +856,7 @@
                 "spawn_rate": "100%",
                 "mission": "Pantheon",
                 "planet": "Mercury",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-06-24",
@@ -903,7 +903,7 @@
             {
                 "last_verified": "2019-01-13",
                 "level": "8-10",
-                "faction": "Crossfire",
+                "faction": "Сутичка",
                 "spawn_rate": "92%",
                 "mission": "Terminus",
                 "planet": "Mercury",
@@ -912,11 +912,11 @@
             {
                 "last_verified": "2018-09-23",
                 "level": "7-9",
-                "faction": "Crossfire",
+                "faction": "Сутичка",
                 "spawn_rate": "33%",
                 "mission": "M Prime",
                 "planet": "Mercury",
-                "type": "Extermination"
+                "type": "Винищення"
             }
         ]
     },
@@ -949,7 +949,7 @@
                 "spawn_rate": "100%",
                 "mission": "E-Gate",
                 "planet": "Venus",
-                "type": "Extermination"
+                "type": "Винищення"
             }
         ]
     },
@@ -1012,7 +1012,7 @@
                 "spawn_rate": "100%",
                 "mission": "Saxis",
                 "planet": "Eris",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2018-08-31",
@@ -1021,7 +1021,7 @@
                 "spawn_rate": "100%",
                 "mission": "Orokin Derelict Extermination",
                 "planet": "Derelict",
-                "type": "Extermination"
+                "type": "Винищення"
             }
         ]
     },
@@ -1102,7 +1102,7 @@
                 "spawn_rate": "100%",
                 "mission": "E-Prime",
                 "planet": "Earth",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-11-28",
@@ -1144,7 +1144,7 @@
                 "spawn_rate": "75%",
                 "mission": "Pantheon",
                 "planet": "Mercury",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-01-30",
@@ -1182,11 +1182,11 @@
             {
                 "last_verified": "2019-01-19",
                 "level": "18-20",
-                "faction": "Crossfire",
+                "faction": "Сутичка",
                 "spawn_rate": "100%",
                 "mission": "Armaros",
                 "planet": "Europa",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-01-19",
@@ -1228,7 +1228,7 @@
                 "spawn_rate": "100%",
                 "mission": "E Prime",
                 "planet": "Earth",
-                "type": "Extermination"
+                "type": "Винищення"
             },
             {
                 "last_verified": "2019-01-22",
@@ -1255,7 +1255,7 @@
                 "spawn_rate": "100%",
                 "mission": "Adaro",
                 "planet": "Седна",
-                "type": "Extermination"
+                "type": "Винищення"
             }
         ]
     }
