@@ -164,17 +164,17 @@
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
       "title": "Anti-air Strike",
-      "description": "Kill 1 Airborne enemy",
+      "description": "Убийте 1 ворога, доки він в повітрі",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
       "title": "Anti-air Strike",
-      "description": "Kill 4 Airborne enemies",
+      "description": "Убийте 4 ворогів, доки вони в повітрі",
       "standing": 1500
     },
     "PVPTimedChallengeKillsTargetInAirHARD": {
       "title": "Focused Anti-air Strike",
-      "description": "Убийте за матч 3 ворогів, доки вони в повітрі",
+      "description": "Убийте 3 ворогів, доки вони в повітрі за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsWhileInAirEASY": {
