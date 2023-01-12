@@ -88,18 +88,18 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsComboEASY": {
-      "title": "Dexterity",
-      "description": "Kill 1 opponent using two of Melee, Guns, and Abilities",
+      "title": "Спритник",
+      "description": "Убийте 1 супротивника будь-якими двома способами — врукопаш, стрілецькою зброєю чи здібностями",
       "standing": 500
     },
     "PVPTimedChallengeKillsComboMEDIUM": {
-      "title": "Dexterity",
-      "description": "Kill 4 opponents using two of Melee, Guns, and Abilities",
+      "title": "Спритник",
+      "description": "Убийте 4 супротивників будь-якими двома способами — врукопаш, стрілецькою зброєю чи здібностями",
       "standing": 1500
     },
     "PVPTimedChallengeKillsComboHARD": {
-      "title": "Focused Dexterity",
-      "description": "Kill 3 opponents using two of Melee, Guns, and Abilities in a match",
+      "title": "Винятковий спритник",
+      "description": "Убийте 3 супротивників будь-якими двома способами — врукопаш, стрілецькою зброєю чи здібностями за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsMultiEASY": {
@@ -163,17 +163,17 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
-      "title": "Anti-air Strike",
+      "title": "Протиповітряний залп",
       "description": "Убийте 1 ворога, доки він в повітрі",
       "standing": 500
     },
     "PVPTimedChallengeKillsTargetInAirMEDIUM": {
-      "title": "Anti-air Strike",
+      "title": "Протиповітряний залп",
       "description": "Убийте 4 ворогів, доки вони в повітрі",
       "standing": 1500
     },
     "PVPTimedChallengeKillsTargetInAirHARD": {
-      "title": "Focused Anti-air Strike",
+      "title": "Винятковий протиповітряний залп",
       "description": "Убийте 3 ворогів, доки вони в повітрі за матч",
       "standing": 3000
     },
