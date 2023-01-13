@@ -133,33 +133,33 @@
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStopped_EASY": {
-      "title": "Streak Stopped",
-      "description": "Kill 1 enemy on a Kill Streak",
+      "title": "Руйнівник серії",
+      "description": "Убийте 1 ворога, який має серію вбивств",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStoppedEASY": {
-      "title": "Streak Stopped",
-      "description": "Kill 1 enemy on a Kill Streak",
+      "title": "Руйнівник серії",
+      "description": "Убийте 1 ворога, який має серію вбивств",
       "standing": 500
     },
     "PVPTimedChallengeKillsStreakStopped_MEDIUM": {
-      "title": "Streak Stopped",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "title": "Руйнівник серії",
+      "description": "Убийте 3 ворогів, які мають серію вбивств",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStoppedMEDIUM": {
-      "title": "Streak Stopped",
-      "description": "Kill 3 enemies on a Kill Streak",
+      "title": "Руйнівник серії",
+      "description": "Убийте 3 ворогів, які мають серію вбивств",
       "standing": 1500
     },
     "PVPTimedChallengeKillsStreakStopped_HARD": {
-      "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "title": "Винятковий руйнівник серії",
+      "description": "Убийте 2 ворогів, які мають серію вбивств за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsStreakStoppedHARD": {
-      "title": "Focused Streak Stopped",
-      "description": "Kill 2 enemies on a Kill Streak in a match",
+      "title": "Винятковий руйнівник серії",
+      "description": "Убийте 2 ворогів, які мають серію вбивств за матч",
       "standing": 3000
     },
     "PVPTimedChallengeKillsTargetInAirEASY": {
@@ -363,8 +363,8 @@
       "standing": 6000
     },
     "PVPTimedChallengeSpeedballGoalsEASY": {
-      "title": "Goal!",
-      "description": "Score 2 Goals",
+      "title": "Гол!",
+      "description": "Закиньте 2 голи",
       "standing": 1000
     },
     "PVPTimedChallengeMatchCompleteEASY": {
@@ -398,8 +398,8 @@
       "standing": 0
     },
     "PVPTimedChallengeSpeedballGoalsHARD": {
-      "title": "Focused Goal!",
-      "description": "Score 4 Goals in a match",
+      "title": "Винятковий гол!",
+      "description": "Закиньте 4 голи за матч",
       "standing": 6000
     },
     "PVPTimedChallengeKillsPayback_MEDIUM": {
