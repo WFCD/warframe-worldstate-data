@@ -91,7 +91,7 @@
     },
     {
         "regex": "виверження",
-        "name": "Arcane Eruption",
+        "name": "Містичне виверження",
         "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
         "rarity": "Незвичайний",
         "location": "Changing, check droptable",
@@ -109,7 +109,7 @@
     },
     {
         "regex": "благодать",
-        "name": "Arcane Grace",
+        "name": "Містична благодать",
         "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
         "rarity": "Рідкісний",
         "location": "Changing, check droptable",
@@ -127,7 +127,7 @@
     },
     {
         "regex": "зцілення",
-        "name": "Arcane Healing",
+        "name": "Містичне зцілення",
         "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
         "rarity": "Рідкісний",
         "location": "Changing, check droptable",
@@ -136,7 +136,7 @@
     },
     {
         "regex": "стужа",
-        "name": "Arcane Ice",
+        "name": "Містична стужа",
         "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
         "rarity": "Незвичайний",
         "location": "Changing, check droptable",
@@ -154,7 +154,7 @@
     },
     {
         "regex": "занулення",
-        "name": "Arcane Nullifier",
+        "name": "Містичне занулення",
         "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
         "rarity": "Незвичайний",
         "location": "Changing, check droptable",
