@@ -97,7 +97,7 @@
       "faction": "Корпус"
     },
     "SORTIE_BOSS_ALAD": {
-      "name": "Alad V",
+      "name": "Алад В",
       "faction": "Корпус"
     },
     "SORTIE_BOSS_AMBULAS": {
@@ -2066,7 +2066,7 @@
       ]
     },
     {
-      "bossName": "Alad V",
+      "bossName": "Алад В",
       "regions": [
         {
           "name": "0",
@@ -4243,7 +4243,7 @@
     }
   ],
   "modifiers": [
-    "+ Enemy armor/shield",
+    "+ Ворожий захист/щит",
     "Environmental hazard",
     "Enemy damage resistance",
     "Зменшення енергії",
