@@ -2413,7 +2413,7 @@
     "value": "Unleashed"
   },
   "/lotus/storeitems/types/game/basecosmeticenhancer": {
-    "value": "Arcane"
+    "value": "Містифікатор"
   },
   "/lotus/storeitems/types/game/catbrowpet/catbrowgeneticsignature": {
     "value": "Kavat Genetic Code"
@@ -2515,7 +2515,7 @@
     "value": "Anyo Grey"
   },
   "/lotus/storeitems/types/game/kubrowpet/colors/kubrowpetcolorvibrantb": {
-    "value": "Ambulas Black"
+    "value": "Амбуласово-чорний"
   },
   "/lotus/storeitems/types/game/kubrowpet/colors/kubrowpetcolorvibrantc": {
     "value": "Shadow Grey"
@@ -2533,7 +2533,7 @@
     "value": "Phorid Red"
   },
   "/lotus/storeitems/types/game/kubrowpet/colors/kubrowpetcolorvibrantg": {
-    "value": "Alad Blue"
+    "value": "Аладо-синій"
   },
   "/lotus/storeitems/types/game/kubrowpet/colors/kubrowpetcolorvibranth": {
     "value": "Venus Brown"
@@ -3553,7 +3553,7 @@
     "value": "Orokin Void Key"
   },
   "/lotus/storeitems/types/items/emotes/agreeemote": {
-    "value": "Agree"
+    "value": "Згода"
   },
   "/lotus/storeitems/types/items/emotes/baroemote": {
     "value": "Ki'teer Presence"
@@ -3601,10 +3601,10 @@
     "value": "Nitain Extract"
   },
   "/lotus/storeitems/types/items/miscitems/alloyplate": {
-    "value": "Alloy Plate"
+    "value": "Пластини сплаву"
   },
   "/lotus/storeitems/types/items/miscitems/alphacorruptorresource": {
-    "value": "Alpha Corruptor"
+    "value": "Альфа-спотворювач"
   },
   "/lotus/storeitems/types/items/miscitems/archwingnavcode": {
     "value": "Orokin Archive"
@@ -3844,7 +3844,7 @@
     "value": "Morning Yellow"
   },
   "/lotus/storeitems/types/items/research/dojocolors/dojocoloriceplanetd": {
-    "value": "Anti Violet"
+    "value": "Антифіолетовий"
   },
   "/lotus/storeitems/types/items/research/dojocolors/dojocoloriceplanete": {
     "value": "Railgun Blue"
@@ -4570,10 +4570,10 @@
     "value": "Exilus Weapon Adapter Blueprint"
   },
   "/lotus/storeitems/types/recipes/cosmeticenhancerblueprint": {
-    "value": "Arcane"
+    "value": "Містифікатор"
   },
   "/lotus/storeitems/types/recipes/cosmeticenhancerfakeitem": {
-    "value": "Arcane"
+    "value": "Містифікатор"
   },
   "/lotus/storeitems/types/recipes/darkswordblueprint": {
     "value": "Dark Sword Blueprint"
@@ -5137,10 +5137,10 @@
     "value": "Акбронко-прайм: спаровувач"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/ankyrosprimeblade": {
-    "value": "Ankyros Prime Blade"
+    "value": "Анкирос-прайм: клинок"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/ankyrosprimegauntlet": {
-    "value": "Ankyros Prime Gauntlet"
+    "value": "Анкирос-прайм: рукавиця"
   },
   "/lotus/storeitems/types/recipes/weapons/weaponparts/archaxeblade": {
     "value": "Onorix Blade"
@@ -5404,7 +5404,7 @@
     "value": "Medium Team Shield Restore"
   },
   "/lotus/storeitems/types/restoratives/consumable/alphacorruptor": {
-    "value": "Alpha Corruptor"
+    "value": "Альфа-спотворювач"
   },
   "/lotus/storeitems/types/restoratives/consumable/ancienthealerball": {
     "value": "Ancient Healer Specter"
@@ -5419,7 +5419,7 @@
     "value": "Grustrag Three Beacon"
   },
   "/lotus/storeitems/types/restoratives/consumable/barofireworkscrate": {
-    "value": "10x Ki'teer Fireworks"
+    "value": "Феєрверки Кі’Тіра x 10"
   },
   "/lotus/storeitems/types/restoratives/consumable/betacorruptor": {
     "value": "Beta Corruptor"
@@ -5431,7 +5431,7 @@
     "value": "Charger Specter"
   },
   "/lotus/storeitems/types/restoratives/consumable/corruptedheavygunnerball": {
-    "value": "5x Corrupted Heavy Gunner Specter"
+    "value": "Тінь уярмленої кулеметниці x 5"
   },
   "/lotus/storeitems/types/restoratives/consumable/corruptedlancerball": {
     "value": "Corrupted Lancer Specter"
@@ -6436,7 +6436,7 @@
     "value": "Arcane Support"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/fireprocresist": {
-    "value": "Arcane Ice"
+    "value": "Містична стужа"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/freezeprocresist": {
     "value": "Arcane Warmth"
@@ -6445,7 +6445,7 @@
     "value": "Arcane Liquid"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/healthregenondamage": {
-    "value": "Arcane Grace"
+    "value": "Містична благодать"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/impactprocresist": {
     "value": "Arcane Shield"
@@ -6454,7 +6454,7 @@
     "value": "Arcane Barrier"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/magneticprocresist": {
-    "value": "Arcane Nullifier"
+    "value": "Містичне занулення"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/poisonprocresist": {
     "value": "Arcane Detoxifier"
@@ -6463,7 +6463,7 @@
     "value": "Arcane Defense"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/radiationprocresist": {
-    "value": "Arcane Healing"
+    "value": "Містичне зцілення"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/defensive/reflectdamageonparry": {
     "value": "Arcane Vengeance"
@@ -6517,7 +6517,7 @@
     "value": "Arcane Pulse"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/utility/radialknockdownonenergypickup": {
-    "value": "Arcane Eruption"
+    "value": "Містичне виверження"
   },
   "/lotus/storeitems/upgrades/cosmeticenhancers/utility/slowerbleedoutonpredeath": {
     "value": "Arcane Survival"
@@ -10258,7 +10258,7 @@
     "value": "Limbo Noble Animation Set"
   },
   "/lotus/storeitems/upgrades/skins/meleedangles/baroinarosmeleedangle": {
-    "value": "Anpu Sugatra"
+    "value": "Суґатра «Анпу»"
   },
   "/lotus/storeitems/upgrades/skins/meleedangles/baromeleedangle": {
     "value": "Ki'teer Sugatra"
@@ -10810,7 +10810,7 @@
     "value": "Blade And Gun Sigil"
   },
   "/lotus/storeitems/upgrades/skins/sigils/bosssigilaladv": {
-    "value": "Alad V Sigil"
+    "value": "Сиґіл «Алад В»"
   },
   "/lotus/storeitems/upgrades/skins/sigils/bosssigilambulas": {
     "value": "Ambulas Sigil"
@@ -11350,7 +11350,7 @@
     "value": "Ki'teer Arrow Skin"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroinarospolearmskin": {
-    "value": "Anpu Staff Skin"
+    "value": "Вигляд «Анпу» для посоха"
   },
   "/lotus/storeitems/upgrades/skins/voidtrader/baroscythemacheteskin": {
     "value": "Machete Syachid Skin"
@@ -14123,10 +14123,10 @@
     "value": "Nitain Extract"
   },
   "/lotus/types/items/miscitems/alloyplate": {
-    "value": "Alloy Plate"
+    "value": "Пластини сплаву"
   },
   "/lotus/types/items/miscitems/alphacorruptorresource": {
-    "value": "Alpha Corruptor"
+    "value": "Альфа-спотворювач"
   },
   "/lotus/types/items/miscitems/archwingnavcode": {
     "value": "Orokin Archive"
@@ -17096,7 +17096,7 @@
     "value": "Quanta Vandal"
   },
   "/lotus/weapons/corpus/longguns/crpshotgun/crpshotgun": {
-    "value": "Arca Plasmor"
+    "value": "Арка-Плазмор"
   },
   "/lotus/weapons/corpus/longguns/crpsplitlaser/crpsplitlaser": {
     "value": "Convectrix"
@@ -17120,7 +17120,7 @@
     "value": "Stropha"
   },
   "/lotus/weapons/corpus/melee/hammer/corpushammerweapon": {
-    "value": "Arca Titron"
+    "value": "Арка-Титрон"
   },
   "/lotus/weapons/corpus/melee/kickandpunch/kickpunchweapon": {
     "value": "Obex"
@@ -17165,7 +17165,7 @@
     "value": "Plinx"
   },
   "/lotus/weapons/corpus/pistols/sniperpistol/crpscopegun": {
-    "value": "Arca Scisco"
+    "value": "Арка-Сциско"
   },
   "/lotus/weapons/grineer/emplacements/grndeployablecover/aridgrndeployablecover": {
     "value": "Arid Grn Deployable Cover"
