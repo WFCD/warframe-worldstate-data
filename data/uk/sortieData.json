@@ -65,35 +65,35 @@
   },
   "bosses": {
     "SORTIE_BOSS_HYENA": {
-      "name": "Hyena Pack",
+      "name": "Зграя гієн",
       "faction": "Корпус"
     },
     "SORTIE_BOSS_KELA": {
-      "name": "Kela De Thaym",
+      "name": "Кела Де Тейм",
       "faction": "Ґрінери"
     },
     "SORTIE_BOSS_VOR": {
-      "name": "Captain Vor",
+      "name": "Капітан Вор",
       "faction": "Ґрінери"
     },
     "SORTIE_BOSS_RUK": {
-      "name": "General Sargas Ruk",
+      "name": "Генерал Сарґас Рук",
       "faction": "Ґрінери"
     },
     "SORTIE_BOSS_HEK": {
-      "name": "Councilor Vay Hek",
+      "name": "Радник Вей Гек",
       "faction": "Ґрінери"
     },
     "SORTIE_BOSS_KRIL": {
-      "name": "Lech Kril",
+      "name": "Лек Кріл",
       "faction": "Ґрінери"
     },
     "SORTIE_BOSS_TYL": {
-      "name": "Tyl Regor",
+      "name": "Тил Реґор",
       "faction": "Ґрінери"
     },
     "SORTIE_BOSS_JACKAL": {
-      "name": "Jackal",
+      "name": "Шакал",
       "faction": "Корпус"
     },
     "SORTIE_BOSS_ALAD": {
@@ -101,7 +101,7 @@
       "faction": "Корпус"
     },
     "SORTIE_BOSS_AMBULAS": {
-      "name": "Ambulas",
+      "name": "Амбулас",
       "faction": "Корпус"
     },
     "SORTIE_BOSS_NEF": {
@@ -109,40 +109,40 @@
       "faction": "Корпус"
     },
     "SORTIE_BOSS_RAPTOR": {
-      "name": "Raptor",
+      "name": "Раптор",
       "faction": "Корпус"
     },
     "SORTIE_BOSS_PHORID": {
-      "name": "Phorid",
-      "faction": "Infestation"
+      "name": "Горбач",
+      "faction": "Зараження"
     },
     "SORTIE_BOSS_LEPHANTIS": {
-      "name": "Lephantis",
-      "faction": "Infestation"
+      "name": "Лефантис",
+      "faction": "Зараження"
     },
     "SORTIE_BOSS_INFALAD": {
-      "name": "Mutalist Alad V",
-      "faction": "Infestation"
+      "name": "Асимільований Алад В",
+      "faction": "Зараження"
     },
     "SORTIE_BOSS_CORRUPTED_VOR": {
-      "name": "Corrupted Vor",
+      "name": "Уярмлений Вор",
       "faction": "Уярмлені"
     },
     "SORTIE_BOSS_BOREAL": {
-      "name": "Archon Boreal",
-      "faction": "Narmer"
+      "name": "Архонт Бореаль",
+      "faction": "Нармер"
     },
     "SORTIE_BOSS_AMAR": {
-      "name": "Archon Amar",
-      "faction": "Narmer"
+      "name": "Архонт Амар",
+      "faction": "Нармер"
     },
     "SORTIE_BOSS_NIRA": {
-      "name": "Archon Nira",
-      "faction": "Narmer"
+      "name": "Архонтка Найра",
+      "faction": "Нармер"
     },
     "SORTIE_BOSS_PAAZUL": {
-      "name": "Archon Paazul",
-      "faction": "Narmer"
+      "name": "Архонт Паазул",
+      "faction": "Нармер"
     }
   },
   "endStates": [
