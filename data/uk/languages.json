@@ -3655,7 +3655,7 @@
     "value": "Vay Hek Nav Coordinate"
   },
   "/lotus/storeitems/types/items/miscitems/infestedaladcoordinate": {
-    "value": "Mutalist Alad V Nav Coordinate"
+    "value": "Навкоординати асимільованого Алада В"
   },
   "/lotus/storeitems/types/items/miscitems/juggernautparta": {
     "value": "Pulsating Tubercles"
@@ -3787,13 +3787,13 @@
     "value": "Moonlight Dragonlily Extract"
   },
   "/lotus/storeitems/types/items/research/biocomponent": {
-    "value": "Mutagen Mass"
+    "value": "Мутагенна маса"
   },
   "/lotus/storeitems/types/items/research/biofragment": {
     "value": "Mutagen Sample"
   },
   "/lotus/storeitems/types/items/research/chemcomponent": {
-    "value": "Detonite Injector"
+    "value": "Детонітовий упорскувач"
   },
   "/lotus/storeitems/types/items/research/chemfragment": {
     "value": "Detonite Ampule"
@@ -3880,7 +3880,7 @@
     "value": "Tharsis Brown"
   },
   "/lotus/storeitems/types/items/research/energycomponent": {
-    "value": "Fieldron"
+    "value": "Полетрон"
   },
   "/lotus/storeitems/types/items/research/energyfragment": {
     "value": "Fieldron Sample"
@@ -11575,7 +11575,7 @@
     "value": "Karak"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerm16homage/karakwraith": {
-    "value": "Karak Wraith"
+    "value": "Карак-примара"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineersawbladegun/sawbladegun": {
     "value": "Miter"
@@ -11866,7 +11866,7 @@
     "value": "Attica"
   },
   "/lotus/storeitems/weapons/tenno/longguns/wraithlatron/wraithlatron": {
-    "value": "Latron Wraith"
+    "value": "Пагуба-примара"
   },
   "/lotus/storeitems/weapons/tenno/melee/axe/axeweapon": {
     "value": "Scindo"
@@ -12295,7 +12295,7 @@
     "value": "Strun"
   },
   "/lotus/storeitems/weapons/tenno/shotgun/shotgunvandal": {
-    "value": "Strun Wraith"
+    "value": "Стран-примара"
   },
   "/lotus/storeitems/weapons/tenno/throwingweapons/cylidagger/cylidagger": {
     "value": "[Placeholder]"
@@ -14178,7 +14178,7 @@
     "value": "Vay Hek Nav Coordinate [Obsolete??]"
   },
   "/lotus/types/items/miscitems/infestedaladcoordinate": {
-    "value": "Mutalist Alad V Nav Coordinate"
+    "value": "Навкоординати асимільованого Алада В"
   },
   "/lotus/types/items/miscitems/juggernautparta": {
     "value": "Pulsating Tubercles"
@@ -14316,13 +14316,13 @@
     "value": "Titanium"
   },
   "/lotus/types/items/research/biocomponent": {
-    "value": "Mutagen Mass"
+    "value": "Мутагенна маса"
   },
   "/lotus/types/items/research/chemcomponent": {
-    "value": "Detonite Injector"
+    "value": "Детонітовий упорскувач"
   },
   "/lotus/types/items/research/energycomponent": {
-    "value": "Fieldron"
+    "value": "Полетрон"
   },
   "/lotus/types/items/shipchristmasifier": {
     "value": "Christmas Decorations"
@@ -14562,16 +14562,16 @@
     "value": "Sheev Blueprint"
   },
   "/lotus/types/recipes/weapons/karakwraithblueprint": {
-    "value": "Karak Wraith Blueprint"
+    "value": "Карак-примара (креслення)"
   },
   "/lotus/types/recipes/weapons/latronwraithblueprint": {
-    "value": "Latron Wraith Blueprint"
+    "value": "Пагуба-примара (креслення)"
   },
   "/lotus/types/recipes/weapons/snipetronvandalblueprint": {
     "value": "Snipetron Vandal Blueprint"
   },
   "/lotus/types/recipes/weapons/strunwraithblueprint": {
-    "value": "Strun Wraith Blueprint"
+    "value": "Стран-примара (креслення)"
   },
   "/lotus/types/recipes/weapons/twinviperswraithblueprint": {
     "value": "Wraith Twin Vipers Blueprint"
@@ -14598,22 +14598,22 @@
     "value": "Sheev Hilt"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithbarrel": {
-    "value": "Karak Wraith Barrel"
+    "value": "Карак-примара: ствол"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithreceiver": {
-    "value": "Karak Wraith Receiver"
+    "value": "Карак-примара: ствольна коробка"
   },
   "/lotus/types/recipes/weapons/weaponparts/karakwraithstock": {
-    "value": "Karak Wraith Stock"
+    "value": "Карак-примара: ложе"
   },
   "/lotus/types/recipes/weapons/weaponparts/latronwraithbarrel": {
-    "value": "Latron Wraith Barrel"
+    "value": "Пагуба-примара: ствол"
   },
   "/lotus/types/recipes/weapons/weaponparts/latronwraithreceiver": {
-    "value": "Latron Wraith Receiver"
+    "value": "Пагуба-примара: ствольна коробка"
   },
   "/lotus/types/recipes/weapons/weaponparts/latronwraithstock": {
-    "value": "Latron Wraith Stock"
+    "value": "Пагуба-примара: ложе"
   },
   "/lotus/types/recipes/weapons/weaponparts/snipetronvandalbarrel": {
     "value": "Snipetron Vandal Barrel"
@@ -14625,10 +14625,10 @@
     "value": "Snipetron Vandal Stock"
   },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithbarrel": {
-    "value": "Strun Wraith Barrel"
+    "value": "Стран-примара: ствол"
   },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithreceiver": {
-    "value": "Strun Wraith Receiver"
+    "value": "Стран-примара: ствольна коробка"
   },
   "/lotus/types/recipes/weapons/weaponparts/strunwraithstock": {
     "value": "Strun Wraith Stock"
@@ -17649,7 +17649,7 @@
     "value": "Фульмін"
   },
   "/lotus/weapons/tenno/longguns/wraithlatron/wraithlatron": {
-    "value": "Latron Wraith"
+    "value": "Пагуба-примара"
   },
   "/lotus/weapons/tenno/melee/axe/axeweapon": {
     "value": "Scindo"
@@ -18060,7 +18060,7 @@
     "value": "Strun"
   },
   "/lotus/weapons/tenno/shotgun/shotgunvandal": {
-    "value": "Strun Wraith"
+    "value": "Стран-примара"
   },
   "/lotus/weapons/tenno/throwingweapons/glasskunai/glasskunaiweapon": {
     "value": "Фузілаї"
