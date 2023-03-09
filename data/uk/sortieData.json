@@ -16,8 +16,8 @@
     "SORTIE_MODIFIER_FREEZE": "Стихійне посилення ворогів: крижана",
     "SORTIE_MODIFIER_TOXIN": "Стихійне посилення ворогів: токсична шкода",
     "SORTIE_MODIFIER_POISON": "Стихійне посилення ворогів: токсична шкода",
-    "SORTIE_MODIFIER_HAZARD_RADIATION": "Environmental Hazard: Radiation Pockets",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Умови: Електромагнетичні аномалії",
+    "SORTIE_MODIFIER_HAZARD_RADIATION": "Радіаційна небезпека",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Електромагнетичні аномалії",
     "SORTIE_MODIFIER_HAZARD_FOG": "Environmental Hazard: Dense Fog",
     "SORTIE_MODIFIER_HAZARD_FIRE": "Environmental Hazard: Fire",
     "SORTIE_MODIFIER_HAZARD_ICE": "Environmental Effect: Cryogenic Leakage",
@@ -32,7 +32,7 @@
     "SORTIE_MODIFIER_BOW_ONLY": "Обмеження: лише луки"
   },
   "modifierDescriptions": {
-    "SORTIE_MODIFIER_LOW_ENERGY": "Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.",
+    "SORTIE_MODIFIER_LOW_ENERGY": "Максимальний запас енергії ворфрейма зменшено вчетверо. Аура «Накопичувач енергії» менш ефективна.",
     "SORTIE_MODIFIER_IMPACT": "У ворогів збільшена ударна шкода. Шкода від добивання не зменшується.",
     "SORTIE_MODIFIER_SLASH": "У ворогів збільшена різальна шкода. Шкода від добивання не зменшується.",
     "SORTIE_MODIFIER_PUNCTURE": "У ворогів збільшена пробивна шкода. Шкода від добивання не зменшується.",
@@ -69,7 +69,7 @@
       "faction": "Корпус"
     },
     "SORTIE_BOSS_KELA": {
-      "name": "Кела Де Тейм",
+      "name": "Кела де Тейм",
       "faction": "Ґрінери"
     },
     "SORTIE_BOSS_VOR": {
