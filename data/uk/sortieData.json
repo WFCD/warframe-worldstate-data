@@ -54,14 +54,14 @@
     "SORTIE_MODIFIER_HAZARD_FIRE": "The tileset has a fire hazard. Warframe health is halved. Meltdown Iminent.",
     "SORTIE_MODIFIER_HAZARD_ICE": "Maximum Shield Capacity is halved. Ice patches that cause cold procs.",
     "SORTIE_MODIFIER_HAZARD_COLD": "Mobility is significantly reduced. Sprinting is disabled for this mode.",
-    "SORTIE_MODIFIER_ARMOR": "Enemies have Improved/Added armor. Corrosive Projection effects are halved.",
+    "SORTIE_MODIFIER_ARMOR": "Вороги мають покращений/збійльшений захист. Ефект «Викиду корозії» зменшений удвічі.",
     "SORTIE_MODIFIER_SHIELDS": "Вороги оснащені міцнішими щитами. Рекомендоване накладання магнетичних ефектів стану.",
-    "SORTIE_MODIFIER_SECONDARY_ONLY": "Only secondary weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
+    "SORTIE_MODIFIER_SECONDARY_ONLY": "На цьому завданні можна використовувати тільки допоміжна зброя, будь-який інший тип зброї заборонений та буде видалений автоматично, якщо споряджено.",
     "SORTIE_MODIFIER_SHOTGUN_ONLY": "На цьому завданні можна використовувати тільки рушниці, будь-який інший тип зброї заборонений та буде видалений автоматично, якщо споряджено.",
-    "SORTIE_MODIFIER_SNIPER_ONLY": "Only snipers may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "Only assault rifles may be used in this mission. Surprisingly, launchers work too. Other weapon types will be removed automatically if equipped.",
-    "SORTIE_MODIFIER_MELEE_ONLY": "Only melee weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
-    "SORTIE_MODIFIER_BOW_ONLY": "Only bows may be used in this mission, crossbows however work too! Other weapon types will be removed automatically if equipped."
+    "SORTIE_MODIFIER_SNIPER_ONLY": "На цьому завданні можна використовувати тільки снайперські гвинтівки, будь-який інший тип зброї заборонений та буде видалений автоматично, якщо споряджено.",
+    "SORTIE_MODIFIER_RIFLE_ONLY": "На цьому завданні можна використовувати тільки гвинтівки, будь-який інший тип зброї заборонений та буде видалений автоматично, якщо споряджено.",
+    "SORTIE_MODIFIER_MELEE_ONLY": "На цьому завданні можна використовувати тільки холодну зброю, будь-який інший тип зброї заборонений та буде видалений автоматично, якщо споряджено.",
+    "SORTIE_MODIFIER_BOW_ONLY": "На цьому завданні можна використовувати тільки луки, будь-який інший тип зброї заборонений та буде видалений автоматично, якщо споряджено."
   },
   "bosses": {
     "SORTIE_BOSS_HYENA": {
