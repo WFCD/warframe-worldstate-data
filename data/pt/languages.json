@@ -3996,6 +3996,9 @@
   "/lotus/storeitems/types/items/shipdecos/lisetpropcleaningdronebaro": {
     "value": "Ki'teer Domestik Drone"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
+    "value": "Flak Fighter Decoration"
+  },
   "/lotus/storeitems/types/items/shipdecos/lisetpropostrugbaro": {
     "value": "Tenno Kindred Rug"
   },
@@ -4047,6 +4050,12 @@
   "/lotus/storeitems/types/items/shipdecos/tarotcardtennoconc": {
     "value": "Deimos Veolicpod Prex"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF": {
+    "value": "Deimos Jugulus Prex"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConG": {
+    "value": "Deimos Saxum Prex"
+  },
   "/lotus/storeitems/types/items/shipdecos/trinitybobblehead": {
     "value": "Estátua Noggle: Trinity"
   },
@@ -4055,6 +4064,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/vaubanbobblehead": {
     "value": "Estátua Noggle: Vauban"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem": {
+    "value": "Archwing Articula"
   },
   "/lotus/storeitems/types/items/shipdecos/voltbobblehead": {
     "value": "Estátua Noggle: Volt"
@@ -9020,6 +9032,15 @@
   },
   "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourL": {
     "value": "Ki'teer Leg Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeA": {
+    "value": "Ki'Teer Greth Shoulder Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeC": {
+    "value": "Ki'Teer Greth Chest Plate"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeL": {
+    "value": "Ki'Teer Greth Leg Plates"
   },
   "/lotus/storeitems/upgrades/skins/armor/baroarmourtwo/baroarmourtwoa": {
     "value": "Ki'teer Foros Shoulder Plates"
