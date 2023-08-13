@@ -865,7 +865,7 @@
   },
   "/lotus/language/items/furaxwraithname": {
     "desc": "These Wraith gauntlets have been augmented for power.",
-    "value": "Furax Wraith"
+    "value": "Фуракс-примара"
   },
   "/lotus/language/items/kelaeventbadgename": {
     "desc": "Awarded to those who stood against Kela De Thaym and her Executioners.",
@@ -985,7 +985,7 @@
     "value": "Нова"
   },
   "/lotus/powersuits/antimatter/novaprime": {
-    "value": "Nova Prime"
+    "value": "Нова-прайм"
   },
   "/lotus/powersuits/archwing/demolitionjetpack/demolitionjetpack": {
     "value": "Елитрон"
@@ -1042,7 +1042,7 @@
     "value": "Екскалібур"
   },
   "/lotus/powersuits/excalibur/excaliburprime": {
-    "value": "Excalibur Prime"
+    "value": "Екскалібур-прайм"
   },
   "/lotus/powersuits/fairy/fairy": {
     "value": "Титанія"
@@ -1072,7 +1072,7 @@
     "value": "Нікс"
   },
   "/lotus/powersuits/jade/nyxprime": {
-    "value": "Nyx Prime"
+    "value": "Нікс-прайм"
   },
   "/lotus/powersuits/loki/loki": {
     "value": "Локі"
@@ -1132,7 +1132,7 @@
     "value": "Райно"
   },
   "/lotus/powersuits/rhino/rhinoprime": {
-    "value": "Rhino Prime"
+    "value": "Райно-прайм"
   },
   "/lotus/powersuits/runner/runner": {
     "value": "Ґаусс"
@@ -1669,7 +1669,7 @@
     "value": "Molecular Prime"
   },
   "/lotus/storeitems/powersuits/antimatter/novaprime": {
-    "value": "Nova Prime"
+    "value": "Нова-прайм"
   },
   "/lotus/storeitems/powersuits/antimatter/nullstarabilitycard": {
     "value": "Null Star"
@@ -1855,10 +1855,10 @@
     "value": "Firequake"
   },
   "/lotus/storeitems/powersuits/excalibur/excalibur": {
-    "value": "Excalibur"
+    "value": "Екскалібур"
   },
   "/lotus/storeitems/powersuits/excalibur/excaliburprime": {
-    "value": "Excalibur Prime"
+    "value": "Екскалібур-прайм"
   },
   "/lotus/storeitems/powersuits/excalibur/radialblindabilitycard": {
     "value": "Radial Blind"
@@ -1954,7 +1954,7 @@
     "value": "Pacifying Bolts"
   },
   "/lotus/storeitems/powersuits/jade/jade": {
-    "value": "Nyx"
+    "value": "Нікс"
   },
   "/lotus/storeitems/powersuits/jade/mindcontrolabilitycard": {
     "value": "Mind Control"
@@ -1963,7 +1963,7 @@
     "value": "Mind Freak"
   },
   "/lotus/storeitems/powersuits/jade/nyxprime": {
-    "value": "Nyx Prime"
+    "value": "Нікс-прайм"
   },
   "/lotus/storeitems/powersuits/jade/selfbulletattractorabilitycard": {
     "value": "Absorb"
@@ -2116,7 +2116,7 @@
     "value": "Teleport"
   },
   "/lotus/storeitems/powersuits/paladin/paladin": {
-    "value": "Oberon"
+    "value": "Оберон"
   },
   "/lotus/storeitems/powersuits/paladin/reckoningabilitycard": {
     "value": "Reckoning"
@@ -2155,7 +2155,7 @@
     "value": "Curative Undertow"
   },
   "/lotus/storeitems/powersuits/pirate/pirate": {
-    "value": "Hydroid"
+    "value": "Гідроїд"
   },
   "/lotus/storeitems/powersuits/pirate/tidalwaveabilitycard": {
     "value": "Tidal Surge"
@@ -2188,7 +2188,7 @@
     "value": "Ironclad Charge"
   },
   "/lotus/storeitems/powersuits/rhino/rhinoprime": {
-    "value": "Rhino Prime"
+    "value": "Райно-прайм"
   },
   "/lotus/storeitems/powersuits/rhino/rhinostompabilitycard": {
     "value": "Rhino Stomp"
@@ -11452,106 +11452,106 @@
     "value": "Redeemer Abysso Skin"
   },
   "/lotus/storeitems/weapons/cephalon/primary/cephprimary/cephprimary": {
-    "value": "Simulor"
+    "value": "Симулор"
   },
   "/lotus/storeitems/weapons/clantech/bio/aciddartpistol": {
     "value": "Акрид"
   },
   "/lotus/storeitems/weapons/clantech/bio/bioweapon": {
-    "value": "Torid"
+    "value": "Торид"
   },
   "/lotus/storeitems/weapons/clantech/chemical/flamethrower": {
-    "value": "Ignis"
+    "value": "Іґніс"
   },
   "/lotus/storeitems/weapons/clantech/chemical/flamethrowerwraith": {
     "value": "Іґніс-примара"
   },
   "/lotus/storeitems/weapons/clantech/chemical/rocketlauncher": {
-    "value": "Ogris"
+    "value": "Оґріс"
   },
   "/lotus/storeitems/weapons/clantech/energy/crpheavyrifle": {
-    "value": "Supra"
+    "value": "Супра"
   },
   "/lotus/storeitems/weapons/clantech/energy/crplaserpistol": {
-    "value": "Spectra"
+    "value": "Спектра"
   },
   "/lotus/storeitems/weapons/clantech/energy/crplaserrifle": {
-    "value": "Flux Rifle"
+    "value": "Потокова гвинтівка"
   },
   "/lotus/storeitems/weapons/clantech/energy/deravandal": {
     "value": "Дера-вандал"
   },
   "/lotus/storeitems/weapons/clantech/energy/electroprod": {
-    "value": "Prova"
+    "value": "Прова"
   },
   "/lotus/storeitems/weapons/clantech/energy/energyrifle": {
-    "value": "Dera"
+    "value": "Дера"
   },
   "/lotus/storeitems/weapons/clantech/energy/railgun": {
-    "value": "Lanka"
+    "value": "Ланка"
   },
   "/lotus/storeitems/weapons/clantech/energy/vandalelectroprod": {
     "value": "Прова-вандал"
   },
   "/lotus/storeitems/weapons/corpus/bow/longbow/crpbow": {
-    "value": "Lenz"
+    "value": "Ленц"
   },
   "/lotus/storeitems/weapons/corpus/longguns/chainlightninggun/chainlightningrifle": {
     "value": "Ампрекс"
   },
   "/lotus/storeitems/weapons/corpus/longguns/corpusump/corpusump": {
-    "value": "Tetra"
+    "value": "Тетра"
   },
   "/lotus/storeitems/weapons/corpus/longguns/corpusump/prismacorpusump": {
     "value": "Тетра-призма"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpbfg/crpbfg": {
-    "value": "Opticor"
+    "value": "Оптикор"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpbfg/vandal/vandalcrpbfg": {
     "value": "Оптикор-вандал"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
-    "value": "Glaxion"
+    "value": "Ґлаксіон"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpfreezeray/vandal/crpfreezerayvandalrifle": {
     "value": "Ґлаксіон-вандал"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
-    "value": "Quanta"
+    "value": "Кванта"
   },
   "/lotus/storeitems/weapons/corpus/longguns/crpshockrifle/quantavandal": {
     "value": "Кванта-вандал"
   },
   "/lotus/storeitems/weapons/corpus/longguns/grenadelauncher/grenadelauncher": {
-    "value": "Penta"
+    "value": "Пента"
   },
   "/lotus/storeitems/weapons/corpus/longguns/machinegun/supravandal": {
     "value": "Супра-вандал"
   },
   "/lotus/storeitems/weapons/corpus/melee/kickandpunch/kickpunchweapon": {
-    "value": "Obex"
+    "value": "Обекс"
   },
   "/lotus/storeitems/weapons/corpus/melee/polearm/corpuspolearm01/corpuspolearmweapon": {
-    "value": "Serro"
+    "value": "Серро"
   },
   "/lotus/storeitems/weapons/corpus/melee/whip/corpuswhipweapon": {
-    "value": "Lecta"
+    "value": "Лекта"
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpushandshotgun/corpushandcannon": {
-    "value": "Detron"
+    "value": "Детрон"
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpusminigun/corpusminigun": {
-    "value": "Cestra"
+    "value": "Цестра"
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpusminigun/dualcorpusminigun": {
-    "value": "Dual Cestra"
+    "value": "Парні Цестри"
   },
   "/lotus/storeitems/weapons/corpus/pistols/corpusmodularpistol/vandal/crplaserpistolvandal": {
-    "value": "Spectra Vandal"
+    "value": "Спектра-вандал"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
-    "value": "Gammacor"
+    "value": "Гаммакор"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpelectromag/crpelectromag": {
     "value": "Статикор"
@@ -11563,82 +11563,82 @@
     "value": "Анґструм-призма"
   },
   "/lotus/storeitems/weapons/grineer/grineerpistol/grineerakimbopistol": {
-    "value": "Twin Gremlins"
+    "value": "Парні Гремліни"
   },
   "/lotus/storeitems/weapons/grineer/grineerpistol/grineerlightpistol": {
-    "value": "Viper"
+    "value": "Гадюка"
   },
   "/lotus/storeitems/weapons/grineer/grineerpistol/grnheavypistol": {
     "value": "Кракен"
   },
   "/lotus/storeitems/weapons/grineer/grineerpistol/grnscopedpistolplayer": {
-    "value": "Seer"
+    "value": "Провидець"
   },
   "/lotus/storeitems/weapons/grineer/longguns/acidprimary/acidrifle": {
     "value": "[Placeholder]"
   },
   "/lotus/storeitems/weapons/grineer/longguns/burstrifle/grnburstrifle": {
-    "value": "Hind"
+    "value": "Лань"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerassaultrifle/grnassaultrifle": {
-    "value": "Grakata"
+    "value": "Ґраката"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerflakcannon/flakcannon": {
-    "value": "Drakgoon"
+    "value": "Дракґун"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerleveractionrifle/glarifle": {
-    "value": "Grinlok"
+    "value": "Ґрінлок"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerleveractionrifle/prismagrinlokweapon": {
     "value": "Ґрінлок-призма"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerm16homage/grineerm16rifle": {
-    "value": "Karak"
+    "value": "Карак"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineerm16homage/karakwraith": {
     "value": "Карак-примара"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineersawbladegun/sawbladegun": {
-    "value": "Miter"
+    "value": "Зріз"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineersniperrifle/grnsniperrifle": {
-    "value": "Vulkar"
+    "value": "Вулкар"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineersniperrifle/vulkarwraith": {
     "value": "Вулкар-примара"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grngorgsniperrifle/grngorgsniperrifle": {
-    "value": "Buzlok"
+    "value": "Базлок"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grngrenadelauncher/grngrenadelauncher": {
-    "value": "Tonkor"
+    "value": "Тонкор"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grnharpoongun/grnharpoongun": {
-    "value": "Gorgon"
+    "value": "Горгона"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grnspark/grnsparkrifle": {
-    "value": "Kohm"
+    "value": "Ком"
   },
   "/lotus/storeitems/weapons/grineer/longguns/voidtradergorgon/vtgorgon": {
     "value": "Горгона-призма"
   },
   "/lotus/storeitems/weapons/grineer/longguns/wraithgorgon/wraithgorgon": {
-    "value": "Gorgon Wraith"
+    "value": "Горгона-примара"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineerclaws/grnclaws": {
-    "value": "Ripkas"
+    "value": "Рвачі"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineercombatknife/grineercombatknife": {
     "value": "Шив"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineerjetpoweredpolearm/grineerjetpolearm": {
-    "value": "Jat Kittag"
+    "value": "Джат Кіттаґ"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/dualcleaverweapon": {
-    "value": "Dual Cleavers"
+    "value": "Парні Сікачі"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/machete": {
-    "value": "Machete"
+    "value": "Мачете"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/prismadualcleavers": {
     "value": "Парні Сікачі-призма"
@@ -11650,37 +11650,37 @@
     "value": "[Placeholder]"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineerwhip/grineerwhip": {
-    "value": "Atterax"
+    "value": "Аттеракс"
   },
   "/lotus/storeitems/weapons/grineer/melee/grnboomerang/grnboomerang": {
-    "value": "Halikar"
+    "value": "Галікар"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineerbulboussmg/prisma/prismatwingremlinsweapon": {
     "value": "Парні Гремліни-призма"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineercrossbow/grineergoogun": {
-    "value": "Stug"
+    "value": "Штуґ"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineerhandshotgun/grineerhandcannon": {
-    "value": "Brakk"
+    "value": "Брак"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineerleveractionpistol/glapistol": {
-    "value": "Marelok"
+    "value": "Мерлок"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grineermicrowavegun/grnmicrowavepistol": {
-    "value": "Nukor"
+    "value": "Нюкор"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinburstpistols": {
     "value": "[Placeholder]"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grndwuniques/grntwinkohmaks": {
-    "value": "Twin Kohmaks"
+    "value": "Парні Комаки"
   },
   "/lotus/storeitems/weapons/grineer/pistols/grnkohmpistol/grnkohmpistol": {
-    "value": "Kohmak"
+    "value": "Комак"
   },
   "/lotus/storeitems/weapons/grineer/pistols/heatgun/grnheatgun": {
-    "value": "Atomos"
+    "value": "Атомос"
   },
   "/lotus/storeitems/weapons/grineer/pistols/voidtraderbrakk/vtbrakk": {
     "value": "Mara Brakk"
@@ -11692,34 +11692,34 @@
     "value": "Парні Гадюки-примари"
   },
   "/lotus/storeitems/weapons/infested/longguns/infcrpshockswarm/infcrpshockswarmrifle": {
-    "value": "Mutalist Quanta"
+    "value": "Кванта-муталіст"
   },
   "/lotus/storeitems/weapons/infested/longguns/infestedrifle": {
-    "value": "Synapse"
+    "value": "Синапс"
   },
   "/lotus/storeitems/weapons/infested/longguns/quantafullyinfested/infquantarifle": {
-    "value": "Paracyst"
+    "value": "Парацист"
   },
   "/lotus/storeitems/weapons/infested/longguns/tentacluster/infestedshotgun": {
-    "value": "Phage"
+    "value": "Фаг"
   },
   "/lotus/storeitems/weapons/infested/melee/glaives/punctureglaive/punctureglaiveweapon": {
-    "value": "Cerata"
+    "value": "Церата"
   },
   "/lotus/storeitems/weapons/infested/melee/swords/mire/miresword": {
-    "value": "Mire"
+    "value": "Трясовина"
   },
   "/lotus/storeitems/weapons/infested/melee/swords/swordwhip/infswordwhip": {
-    "value": "Mire"
+    "value": "Трясовина"
   },
   "/lotus/storeitems/weapons/infested/melee/whip/infestedwhip/infestedwhipweapon": {
-    "value": "Scoliac"
+    "value": "Сколіак"
   },
   "/lotus/storeitems/weapons/infested/pistols/infesteddartpistol/infesteddartpistol": {
-    "value": "Tysis"
+    "value": "Тайзис"
   },
   "/lotus/storeitems/weapons/infested/pistols/infestedpistol": {
-    "value": "Embolist"
+    "value": "Емболіст"
   },
   "/lotus/storeitems/weapons/mk1series/mk1bo": {
     "value": "Mk1-bo"
@@ -11758,25 +11758,25 @@
     "value": "Mk1-strun"
   },
   "/lotus/storeitems/weapons/syndicates/arbitersofhexis/pistols/ahakbolto": {
-    "value": "Telos Akbolto"
+    "value": "Акболто-телос"
   },
   "/lotus/storeitems/weapons/syndicates/cephalonsuda/pistols/csdroidarray": {
-    "value": "Gammacor"
+    "value": "Гаммакор"
   },
   "/lotus/storeitems/weapons/syndicates/cephalonsuda/pistols/cssynoidgammacor": {
-    "value": "Synoid Gammacor"
+    "value": "Гаммакор-синоїд"
   },
   "/lotus/storeitems/weapons/syndicates/newloka/pistols/nlcastanas": {
-    "value": "Sancti Castanas"
+    "value": "Кастаньяс-санкті"
   },
   "/lotus/storeitems/weapons/syndicates/perrinsequence/pistols/psdualcestra": {
-    "value": "Secura Dual Cestra"
+    "value": "\"Парні Цестри-секура"
   },
   "/lotus/storeitems/weapons/syndicates/redveil/pistols/rvballistica": {
-    "value": "Rakta Ballistica"
+    "value": "Балістика-ракта"
   },
   "/lotus/storeitems/weapons/syndicates/steelmeridian/pistols/smmarelok": {
-    "value": "Vaykor Marelok"
+    "value": "Мерлок-вейкор"
   },
   "/lotus/storeitems/weapons/tenno/akimbo/akimboautopistols": {
     "value": "Афурис"
@@ -11791,7 +11791,7 @@
     "value": "Акбронко"
   },
   "/lotus/storeitems/weapons/tenno/akimbo/akimboviperpistols": {
-    "value": "Twin Vipers"
+    "value": "Парні Гадюки"
   },
   "/lotus/storeitems/weapons/tenno/akimbo/aklexpistols": {
     "value": "Аклекси"
@@ -11806,151 +11806,151 @@
     "value": "Акбронко-прайм"
   },
   "/lotus/storeitems/weapons/tenno/archwing/melee/archaxe/archaxeweapon": {
-    "value": "Onorix"
+    "value": "Онорікс"
   },
   "/lotus/storeitems/weapons/tenno/archwing/melee/archhammer/archhammer": {
-    "value": "Rathbone"
+    "value": "Ретбон"
   },
   "/lotus/storeitems/weapons/tenno/archwing/melee/archsword/archswordweapon": {
-    "value": "Veritux"
+    "value": "Верітукс"
   },
   "/lotus/storeitems/weapons/tenno/archwing/melee/archswordandshield/archswordshield": {
-    "value": "Centaur"
+    "value": "Кентавр"
   },
   "/lotus/storeitems/weapons/tenno/archwing/melee/voidtraderarchsword/vtarchswordweapon": {
     "value": "Верітукс-призма"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/archwingheavypistols/archheavypistols": {
-    "value": "Dual Decurion"
+    "value": "Парні Декуріони"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/foldingmachinegun/archmachinegun": {
-    "value": "Imperator"
+    "value": "Імператор"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/foldingmachinegun/archmachinegunvandal": {
-    "value": "Imperator Vandal"
+    "value": "Імператор-вандал"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/launchgrenade/archcannon": {
-    "value": "Corvas"
+    "value": "Корвас"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/railgun/archrailgun": {
-    "value": "Velocitus"
+    "value": "Велоцит"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/repurposedgrineerantiaircraftgun/repurposedgrineerantiaircraftgun": {
-    "value": "Imperator"
+    "value": "Імператор"
   },
   "/lotus/storeitems/weapons/tenno/archwing/primary/rocketartillery/archrocketcrossbow": {
-    "value": "Fluctus"
+    "value": "Флукт"
   },
   "/lotus/storeitems/weapons/tenno/bows/antlerbow/antlerbow": {
-    "value": "Cernos"
+    "value": "Цернос"
   },
   "/lotus/storeitems/weapons/tenno/bows/asymetricalbow/asymetricalbow": {
-    "value": "Daikyu"
+    "value": "Дайк’ю"
   },
   "/lotus/storeitems/weapons/tenno/bows/huntingbow": {
-    "value": "Paris"
+    "value": "Паріс"
   },
   "/lotus/storeitems/weapons/tenno/bows/primehuntingbow": {
-    "value": "Paris Prime"
+    "value": "Паріс-прайм"
   },
   "/lotus/storeitems/weapons/tenno/bows/stalkerbow": {
-    "value": "Dread"
+    "value": "Жах"
   },
   "/lotus/storeitems/weapons/tenno/longguns/dexthethird/dexthethird": {
-    "value": "Dex Sybaris"
+    "value": "Сибаріс-декс"
   },
   "/lotus/storeitems/weapons/tenno/longguns/doublebarrelshotgun/tennodoublebarrelshotgun": {
-    "value": "Tigris"
+    "value": "Тигріс"
   },
   "/lotus/storeitems/weapons/tenno/longguns/drakerifle/drakerifle": {
-    "value": "Tiberon"
+    "value": "Тіберон"
   },
   "/lotus/storeitems/weapons/tenno/longguns/miter/tnomiter": {
-    "value": "Panthera"
+    "value": "Пантера"
   },
   "/lotus/storeitems/weapons/tenno/longguns/primeboltor/primeboltor": {
-    "value": "Boltor Prime"
+    "value": "Болтор-прайм"
   },
   "/lotus/storeitems/weapons/tenno/longguns/primeburston/primeburston": {
-    "value": "Burston Prime"
+    "value": "Берстон-прайм"
   },
   "/lotus/storeitems/weapons/tenno/longguns/primesoma/primesomarifle": {
-    "value": "Soma Prime"
+    "value": "Сома-прайм"
   },
   "/lotus/storeitems/weapons/tenno/longguns/primevectis/primevectisrifle": {
-    "value": "Vectis Prime"
+    "value": "Вектис-прайм"
   },
   "/lotus/storeitems/weapons/tenno/longguns/tnoleveraction/tnoleveractionrifle": {
-    "value": "Sybaris"
+    "value": "Сибаріс"
   },
   "/lotus/storeitems/weapons/tenno/longguns/tnoprmryxbow/tnoprmryxbowweapon": {
-    "value": "Attica"
+    "value": "Аттика"
   },
   "/lotus/storeitems/weapons/tenno/longguns/wraithlatron/wraithlatron": {
     "value": "Пагуба-примара"
   },
   "/lotus/storeitems/weapons/tenno/melee/axe/axeweapon": {
-    "value": "Scindo"
+    "value": "Скіндо"
   },
   "/lotus/storeitems/weapons/tenno/melee/axe/dualaxeweapon": {
-    "value": "Dual Zoren"
+    "value": "Парні Зорени"
   },
   "/lotus/storeitems/weapons/tenno/melee/axe/dualinfestedaxesweapon": {
-    "value": "Dual Ichor"
+    "value": "Парні Іхори"
   },
   "/lotus/storeitems/weapons/tenno/melee/axe/primescindo/primescindoweapon": {
-    "value": "Scindo Prime"
+    "value": "Скіндо-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/brass knuckles/brassknuckles": {
-    "value": "Kogake"
+    "value": "Коґаке"
   },
   "/lotus/storeitems/weapons/tenno/melee/claws/tennoclaws": {
-    "value": "Venka"
+    "value": "Венка"
   },
   "/lotus/storeitems/weapons/tenno/melee/cronussword/cronuslongsword": {
-    "value": "Cronus"
+    "value": "Крон"
   },
   "/lotus/storeitems/weapons/tenno/melee/cronussword/primecronuslongsword": {
-    "value": "Dakra Prime"
+    "value": "Дакра-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/dagger/ceramicdagger": {
-    "value": "Ceramic Dagger"
+    "value": "Керамічний кинджал"
   },
   "/lotus/storeitems/weapons/tenno/melee/dagger/dagger": {
-    "value": "Heat Dagger"
+    "value": "Вогнекинджал"
   },
   "/lotus/storeitems/weapons/tenno/melee/dagger/darkdagger": {
-    "value": "Dark Dagger"
+    "value": "Темний кинджал"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualdagger/dualdagger": {
-    "value": "Fang"
+    "value": "Ікла"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualdagger/dualetherdagger": {
-    "value": "Ether Daggers"
+    "value": "Етерні кинджали"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualdagger/fangprimedagger": {
-    "value": "Fang Prime"
+    "value": "Ікла-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualkamas/dualkamas": {
-    "value": "Dual Kamas"
+    "value": "Парні Ками"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualkamas/singlekama": {
-    "value": "Kama"
+    "value": "Кама"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualshortsword/dualethersword": {
-    "value": "Dual Ether"
+    "value": "Парні Етери"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualshortsword/dualheatswords": {
-    "value": "Dual Heat Swords"
+    "value": "Парні вогнемечі"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualshortsword/dualshortsword": {
-    "value": "Dual Skana"
+    "value": "Парні Скани"
   },
   "/lotus/storeitems/weapons/tenno/melee/fist/fist": {
-    "value": "Furax"
+    "value": "Фуракс"
   },
   "/lotus/storeitems/weapons/tenno/melee/fist/furaxwraith": {
-    "value": "Furax Wraith"
+    "value": "Фуракс-примара"
   },
   "/lotus/storeitems/weapons/tenno/melee/gauntlet/gauntlet": {
     "value": "Анкирос"
@@ -11959,34 +11959,34 @@
     "value": "Анкирос-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/glaives/boomerang/boomerangweapon": {
-    "value": "Kestrel"
+    "value": "Боривітер"
   },
   "/lotus/storeitems/weapons/tenno/melee/glaives/lightglaive/lightglaiveweapon": {
-    "value": "Glaive"
+    "value": "Глефа"
   },
   "/lotus/storeitems/weapons/tenno/melee/glaives/primeglaive/primeglaiveweapon": {
-    "value": "Glaive Prime"
+    "value": "Глефа-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/greatsword/greatsword": {
-    "value": "Gram"
+    "value": "Ґрaм"
   },
   "/lotus/storeitems/weapons/tenno/melee/gunblade/tnogunblade": {
-    "value": "Redeemer"
+    "value": "Визволитель"
   },
   "/lotus/storeitems/weapons/tenno/melee/hammer/hammerweapon": {
-    "value": "Fragor"
+    "value": "Фраґор"
   },
   "/lotus/storeitems/weapons/tenno/melee/hammer/icehammer/icehammer": {
     "value": "Сибір"
   },
   "/lotus/storeitems/weapons/tenno/melee/longsword/ethersword": {
-    "value": "Ether Sword"
+    "value": "Етерний меч"
   },
   "/lotus/storeitems/weapons/tenno/melee/longsword/longsword": {
-    "value": "Skana"
+    "value": "Скана"
   },
   "/lotus/storeitems/weapons/tenno/melee/longsword/skanaprime": {
-    "value": "Skana Prime"
+    "value": "Скана-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/maces/paladinmace/paladinmaceweapon": {
     "value": "Magistar"
@@ -12112,37 +12112,37 @@
     "value": "Orthos"
   },
   "/lotus/storeitems/weapons/tenno/melee/polearms/primepolearmweapon": {
-    "value": "Orthos Prime"
+    "value": "Ортос-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/scythe/etherscytheweapon": {
-    "value": "Ether Reaper"
+    "value": "Етерний Жнець"
   },
   "/lotus/storeitems/weapons/tenno/melee/scythe/parisscythe/parisscythe": {
     "value": "Анку"
   },
   "/lotus/storeitems/weapons/tenno/melee/scythe/reaperweapon": {
-    "value": "Reaper Prime"
+    "value": "Жнець-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/scythe/stalkerscytheweapon": {
-    "value": "Hate"
+    "value": "Ненависть"
   },
   "/lotus/storeitems/weapons/tenno/melee/soma/somadualkamas": {
-    "value": "Dual Raza"
+    "value": "Парні Рази\""
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/basestaff": {
-    "value": "Bo"
+    "value": "Бо"
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/grnstaff": {
     "value": "Амфіс"
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/monkspade/tnomonkstaff": {
-    "value": "Tipedo"
+    "value": "Тіпедо"
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/primebo/primeboweapon": {
-    "value": "Bo Prime"
+    "value": "Бо-прайм"
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/staff": {
-    "value": "Bo"
+    "value": "Бо"
   },
   "/lotus/storeitems/weapons/tenno/melee/swords/cutlassandpoignard/cutlasspoignardswords": {
     "value": "Nami Skyla"
@@ -12193,7 +12193,7 @@
     "value": "Furis"
   },
   "/lotus/storeitems/weapons/tenno/pistol/broncoprime": {
-    "value": "Bronco Prime"
+    "value": "Бронко-прайм"
   },
   "/lotus/storeitems/weapons/tenno/pistol/burstpistol": {
     "value": "Sicarus"
@@ -12208,7 +12208,7 @@
     "value": "Lex"
   },
   "/lotus/storeitems/weapons/tenno/pistol/latoprime": {
-    "value": "Lato Prime"
+    "value": "Лато-прайм"
   },
   "/lotus/storeitems/weapons/tenno/pistol/latovandal": {
     "value": "Lato Vandal"
@@ -12238,10 +12238,10 @@
     "value": "Lex Prime"
   },
   "/lotus/storeitems/weapons/tenno/pistols/primesicarus/primesicaruspistol": {
-    "value": "Sicarus Prime"
+    "value": "Сикар-прайм"
   },
   "/lotus/storeitems/weapons/tenno/pistols/primevasto/primevastopistol": {
-    "value": "Vasto Prime"
+    "value": "Васто-прайм"
   },
   "/lotus/storeitems/weapons/tenno/pistols/sawnoffshotgun/tennohandshotgun": {
     "value": "Pyrana"
@@ -12265,16 +12265,16 @@
     "value": "Boltor"
   },
   "/lotus/storeitems/weapons/tenno/rifle/bratonprime": {
-    "value": "Braton Prime"
+    "value": "Братон-прайм"
   },
   "/lotus/storeitems/weapons/tenno/rifle/burstrifle": {
     "value": "Burston"
   },
   "/lotus/storeitems/weapons/tenno/rifle/heavyrifle": {
-    "value": "Gorgon"
+    "value": "Горгона"
   },
   "/lotus/storeitems/weapons/tenno/rifle/latronprime": {
-    "value": "Latron Prime"
+    "value": "Пагуба-прайм"
   },
   "/lotus/storeitems/weapons/tenno/rifle/rifle": {
     "value": "Braton"
@@ -12307,7 +12307,7 @@
     "value": "Boar"
   },
   "/lotus/storeitems/weapons/tenno/shotgun/primeboar": {
-    "value": "Boar Prime"
+    "value": "Вепр-прайм"
   },
   "/lotus/storeitems/weapons/tenno/shotgun/quadshotgun": {
     "value": "Hek"
@@ -12328,7 +12328,7 @@
     "value": "[Placeholder]"
   },
   "/lotus/storeitems/weapons/tenno/throwingweapons/primethrowingstar/primehikou": {
-    "value": "Hikou Prime"
+    "value": "Хіко-прайм"
   },
   "/lotus/storeitems/weapons/tenno/throwingweapons/stalkerkunai": {
     "value": "Despair"
@@ -17057,25 +17057,25 @@
     "value": "Акрид"
   },
   "/lotus/weapons/clantech/bio/bioweapon": {
-    "value": "Torid"
+    "value": "Торид"
   },
   "/lotus/weapons/clantech/chemical/flamethrower": {
-    "value": "Ignis"
+    "value": "Іґніс"
   },
   "/lotus/weapons/clantech/chemical/flamethrowerwraith": {
     "value": "Іґніс-примара"
   },
   "/lotus/weapons/clantech/chemical/rocketlauncher": {
-    "value": "Ogris"
+    "value": "Оґріс"
   },
   "/lotus/weapons/clantech/energy/crpheavyrifle": {
-    "value": "Supra"
+    "value": "Супра"
   },
   "/lotus/weapons/clantech/energy/crplaserpistol": {
-    "value": "Spectra"
+    "value": "Спектра"
   },
   "/lotus/weapons/clantech/energy/crplaserrifle": {
-    "value": "Prova"
+    "value": "Прова"
   },
   "/lotus/weapons/clantech/energy/deravandal": {
     "value": "Дера-вандал"
@@ -17084,10 +17084,10 @@
     "value": "Electro Prod"
   },
   "/lotus/weapons/clantech/energy/energyrifle": {
-    "value": "Dera"
+    "value": "Дера"
   },
   "/lotus/weapons/clantech/energy/railgun": {
-    "value": "Lanka"
+    "value": "Ланка"
   },
   "/lotus/weapons/clantech/energy/vandalelectroprod": {
     "value": "Прова-вандал"
@@ -17099,7 +17099,7 @@
     "value": "Ампрекс"
   },
   "/lotus/weapons/corpus/longguns/corpusump/corpusump": {
-    "value": "Tetra"
+    "value": "Тетра"
   },
   "/lotus/weapons/corpus/longguns/corpusump/prismacorpusump": {
     "value": "Тетра-призма"
@@ -17108,10 +17108,10 @@
     "value": "Conclave B F G"
   },
   "/lotus/weapons/corpus/longguns/crpbfg/crpbfg": {
-    "value": "Opticor"
+    "value": "Оптикор"
   },
   "/lotus/weapons/corpus/longguns/crpfreezeray/crpfreezerayrifle": {
-    "value": "Glaxion"
+    "value": "Ґлаксіон"
   },
   "/lotus/weapons/corpus/longguns/crprubanrifle/crprubanrifle": {
     "value": "Стальта"
@@ -17123,7 +17123,7 @@
     "value": "Екзерґіс"
   },
   "/lotus/weapons/corpus/longguns/crpshockrifle/crpshockrifle": {
-    "value": "Quanta"
+    "value": "Кванта"
   },
   "/lotus/weapons/corpus/longguns/crpshockrifle/quantavandal": {
     "value": "Кванта-вандал"
@@ -17135,7 +17135,7 @@
     "value": "Конвектрікс"
   },
   "/lotus/weapons/corpus/longguns/grenadelauncher/grenadelauncher": {
-    "value": "Penta"
+    "value": "Пента"
   },
   "/lotus/weapons/corpus/longguns/machinegun/supravandal": {
     "value": "Супра-вандал"
@@ -17156,28 +17156,28 @@
     "value": "Арка-Титрон"
   },
   "/lotus/weapons/corpus/melee/kickandpunch/kickpunchweapon": {
-    "value": "Obex"
+    "value": "Обекс"
   },
   "/lotus/weapons/corpus/melee/kickandpunch/prismaobex": {
     "value": "Обекс-призма"
   },
   "/lotus/weapons/corpus/melee/polearm/corpuspolearm01/corpuspolearmweapon": {
-    "value": "Serro"
+    "value": "Серро"
   },
   "/lotus/weapons/corpus/melee/whip/corpuswhipweapon": {
-    "value": "Lecta"
+    "value": "Лекта"
   },
   "/lotus/weapons/corpus/melee/whips/crpshockgrip/crpshockgripwhipweapon": {
     "value": "Гальвакорд"
   },
   "/lotus/weapons/corpus/pistols/corpushandshotgun/corpushandcannon": {
-    "value": "Detron"
+    "value": "Детрон"
   },
   "/lotus/weapons/corpus/pistols/corpusminigun/corpusminigun": {
-    "value": "Cestra"
+    "value": "Цестра"
   },
   "/lotus/weapons/corpus/pistols/corpusminigun/dualcorpusminigun": {
-    "value": "Dual Cestra"
+    "value": "Парні Цестри"
   },
   "/lotus/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
     "value": "Сонікор"
@@ -17216,22 +17216,22 @@
     "value": "Grineer Fortress Emplacement Standing"
   },
   "/lotus/weapons/grineer/grineerpistol/grineerakimbopistol": {
-    "value": "Twin Gremlins"
+    "value": "Парні Гремліни"
   },
   "/lotus/weapons/grineer/grineerpistol/grineerlightpistol": {
-    "value": "Viper"
+    "value": "Гадюка"
   },
   "/lotus/weapons/grineer/grineerpistol/grnheavypistol": {
     "value": "Kracken"
   },
   "/lotus/weapons/grineer/grineerpistol/grnscopedpistolplayer": {
-    "value": "Seer"
+    "value": "Провидець"
   },
   "/lotus/weapons/grineer/longguns/burstrifle/grnburstrifle": {
-    "value": "Hind"
+    "value": "Лань"
   },
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/grnassaultrifle": {
-    "value": "Grinlok"
+    "value": "Ґрінлок"
   },
   "/lotus/weapons/grineer/longguns/grineerassaultrifle/twingrakatas": {
     "value": "Парні Ґракати"
@@ -17243,13 +17243,13 @@
     "value": "G L A Rifle"
   },
   "/lotus/weapons/grineer/longguns/grineerm16homage/grineerm16rifle": {
-    "value": "Karak"
+    "value": "Карак"
   },
   "/lotus/weapons/grineer/longguns/grineerm16homage/karakwraith": {
-    "value": "Velocitus"
+    "value": "Велоцит"
   },
   "/lotus/weapons/grineer/longguns/grineersawbladegun/sawbladegun": {
-    "value": "Miter"
+    "value": "Зріз"
   },
   "/lotus/weapons/grineer/longguns/grineersniperrifle/grnsniperrifle": {
     "value": "Vulkor"
@@ -17267,16 +17267,16 @@
     "value": "Квартак"
   },
   "/lotus/weapons/grineer/longguns/grngorgsniperrifle/grngorgsniperrifle": {
-    "value": "Buzlok"
+    "value": "Базлок"
   },
   "/lotus/weapons/grineer/longguns/grngrenadelauncher/grngrenadelauncher": {
-    "value": "Tonkor"
+    "value": "Тонкор"
   },
   "/lotus/weapons/grineer/longguns/grnharpoongun/grnharpoongun": {
     "value": "Harpack"
   },
   "/lotus/weapons/grineer/longguns/grnspark/grnsparkrifle": {
-    "value": "Kohm"
+    "value": "Ком"
   },
   "/lotus/weapons/grineer/longguns/laseraimrifle/laseraimrifle": {
     "value": "Арґонак"
@@ -17285,10 +17285,10 @@
     "value": "Горгона-призма"
   },
   "/lotus/weapons/grineer/longguns/wraithgorgon/wraithgorgon": {
-    "value": "Gorgon Wraith"
+    "value": "Горгона-примара"
   },
   "/lotus/weapons/grineer/melee/grineerclaws/grnclaws": {
-    "value": "Ripkas"
+    "value": "Рвачі"
   },
   "/lotus/weapons/grineer/melee/grineercombatknife/grineercombatknife": {
     "value": "Шив"
@@ -17300,10 +17300,10 @@
     "value": "Джат Кіттаґ"
   },
   "/lotus/weapons/grineer/melee/grineermachetteandcleaver/dualcleaverweapon": {
-    "value": "Dual Cleavers"
+    "value": "Парні Сікачі"
   },
   "/lotus/weapons/grineer/melee/grineermachetteandcleaver/machete": {
-    "value": "Machete"
+    "value": "Мачете"
   },
   "/lotus/weapons/grineer/melee/grineermachetteandcleaver/prismadualcleavers": {
     "value": "Парні Сікачі-призма"
@@ -17339,16 +17339,16 @@
     "value": "Сейдон"
   },
   "/lotus/weapons/grineer/pistols/grineercrossbow/grineergoogun": {
-    "value": "Stug"
+    "value": "Штуґ"
   },
   "/lotus/weapons/grineer/pistols/grineerhandshotgun/grineerhandcannon": {
     "value": "Grineer Hand Cannon"
   },
   "/lotus/weapons/grineer/pistols/grineerleveractionpistol/glapistol": {
-    "value": "Marelok"
+    "value": "Мерлок"
   },
   "/lotus/weapons/grineer/pistols/grineermicrowavegun/grnmicrowavepistol": {
-    "value": "Nukor"
+    "value": "Нюкор"
   },
   "/lotus/weapons/grineer/pistols/grnamphispistol/grnamphispistol": {
     "value": "Квац"
@@ -17357,7 +17357,7 @@
     "value": "Парні Комаки"
   },
   "/lotus/weapons/grineer/pistols/grnkohmpistol/grnkohmpistol": {
-    "value": "Kohmak"
+    "value": "Комак"
   },
   "/lotus/weapons/grineer/pistols/grnqueenguarddualpistol/grnqueenguarddualpistols": {
     "value": "Парні Рогги"
@@ -17369,7 +17369,7 @@
     "value": "Стаба"
   },
   "/lotus/weapons/grineer/pistols/heatgun/grnheatgun": {
-    "value": "Atomos"
+    "value": "Атомос"
   },
   "/lotus/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
     "value": "Парні Гадюки-примари"
@@ -17381,22 +17381,22 @@
     "value": "Муталіст-Цернос"
   },
   "/lotus/weapons/infested/longguns/infcrpshockswarm/infcrpshockswarmrifle": {
-    "value": "Mutalist Quanta"
+    "value": "Кванта-муталіст"
   },
   "/lotus/weapons/infested/longguns/infestedrifle": {
-    "value": "Synapse"
+    "value": "Синапс"
   },
   "/lotus/weapons/infested/longguns/infwfaccompanyingpri/infestedburstrifle": {
     "value": "Гема"
   },
   "/lotus/weapons/infested/longguns/quantafullyinfested/infquantarifle": {
-    "value": "Mutalist Quanta"
+    "value": "Кванта-муталіст"
   },
   "/lotus/weapons/infested/longguns/tentacluster/infestedshotgun": {
-    "value": "Phage"
+    "value": "Фаг"
   },
   "/lotus/weapons/infested/melee/glaives/punctureglaive/punctureglaiveweapon": {
-    "value": "Cerata"
+    "value": "Церата"
   },
   "/lotus/weapons/infested/melee/infembolistscythe/infestedscythe": {
     "value": "Каустацист"
@@ -17408,7 +17408,7 @@
     "value": "Міос"
   },
   "/lotus/weapons/infested/melee/swords/mire/miresword": {
-    "value": "Mire"
+    "value": "Трясовина"
   },
   "/lotus/weapons/infested/melee/tipedostaff/inftipedostaff": {
     "value": "Лезія"
@@ -17417,10 +17417,10 @@
     "value": "Міос"
   },
   "/lotus/weapons/infested/pistols/infesteddartpistol/infesteddartpistol": {
-    "value": "Tysis"
+    "value": "Тайзис"
   },
   "/lotus/weapons/infested/pistols/infestedpistol": {
-    "value": "Embolist"
+    "value": "Емболіст"
   },
   "/lotus/weapons/infested/pistols/infproximitystars/infproximitystars": {
     "value": "Покс"
@@ -17453,7 +17453,7 @@
     "value": "Телос-Болтейс"
   },
   "/lotus/weapons/syndicates/arbitersofhexis/pistols/ahakbolto": {
-    "value": "Telos Akbolto"
+    "value": "Акболто-телос"
   },
   "/lotus/weapons/syndicates/cephalonsuda/longguns/cssimulor": {
     "value": "Синоїдальний Симулор"
@@ -17462,7 +17462,7 @@
     "value": "Синоїдальний Геліокор"
   },
   "/lotus/weapons/syndicates/cephalonsuda/pistols/csdroidarray": {
-    "value": "Gammacor"
+    "value": "Гаммакор"
   },
   "/lotus/weapons/syndicates/cephalonsuda/pistols/cssynoidgammacor": {
     "value": "Synoid Synoid Gammacor"
@@ -17474,7 +17474,7 @@
     "value": "Санкті-Маґістар"
   },
   "/lotus/weapons/syndicates/newloka/pistols/nlcastanas": {
-    "value": "Sancti Castanas"
+    "value": "Кастаньяс-санкті"
   },
   "/lotus/weapons/syndicates/perrinsequence/longguns/pspenta": {
     "value": "Секура-Пента"
@@ -17483,7 +17483,7 @@
     "value": "Секура-Лекта"
   },
   "/lotus/weapons/syndicates/perrinsequence/pistols/psdualcestra": {
-    "value": "Secura Dual Cestra"
+    "value": "\"Парні Цестри-секура"
   },
   "/lotus/weapons/syndicates/redveil/bows/rvcernos": {
     "value": "Ракта-Цернос"
@@ -17492,7 +17492,7 @@
     "value": "Темний ракта-кинджал"
   },
   "/lotus/weapons/syndicates/redveil/pistols/rvballistica": {
-    "value": "Rakta Ballistica"
+    "value": "Балістика-ракта"
   },
   "/lotus/weapons/syndicates/steelmeridian/longguns/smhek": {
     "value": "Вейкор-Гек"
@@ -17501,7 +17501,7 @@
     "value": "Вейкор-Сейдон"
   },
   "/lotus/weapons/syndicates/steelmeridian/pistols/smmarelok": {
-    "value": "Vaykor Marelok"
+    "value": "Мерлок-вейкор"
   },
   "/lotus/weapons/tenno/akimbo/akimboautopistols": {
     "value": "Афурис"
@@ -17516,7 +17516,7 @@
     "value": "AkBronco"
   },
   "/lotus/weapons/tenno/akimbo/akimboviperpistols": {
-    "value": "Twin Vipers"
+    "value": "Парні Гадюки"
   },
   "/lotus/weapons/tenno/akimbo/aklexpistols": {
     "value": "AkLex"
@@ -17534,19 +17534,19 @@
     "value": "Акбронко-прайм"
   },
   "/lotus/weapons/tenno/archwing/melee/archaxe/archaxeweapon": {
-    "value": "Onorix"
+    "value": "Онорікс"
   },
   "/lotus/weapons/tenno/archwing/melee/archhammer/archhammer": {
-    "value": "Rathbone"
+    "value": "Ретбон"
   },
   "/lotus/weapons/tenno/archwing/melee/archscythe/archscythe": {
     "value": "Косаш"
   },
   "/lotus/weapons/tenno/archwing/melee/archsword/archswordweapon": {
-    "value": "Veritux"
+    "value": "Верітукс"
   },
   "/lotus/weapons/tenno/archwing/melee/archswordandshield/archswordshield": {
-    "value": "Centaur"
+    "value": "Кентавр"
   },
   "/lotus/weapons/tenno/archwing/melee/archswordhook/archhookswordweapon": {
     "value": "Акґуза"
@@ -17561,16 +17561,16 @@
     "value": "Цинґаз"
   },
   "/lotus/weapons/tenno/archwing/primary/archwingheavypistols/archheavypistols": {
-    "value": "Dual Decurion"
+    "value": "Парні Декуріони"
   },
   "/lotus/weapons/tenno/archwing/primary/foldingmachinegun/archmachinegun": {
-    "value": "Imperator"
+    "value": "Імператор"
   },
   "/lotus/weapons/tenno/archwing/primary/foldingmachinegun/archmachinegunvandal": {
-    "value": "Imperator Vandal"
+    "value": "Імператор-вандал"
   },
   "/lotus/weapons/tenno/archwing/primary/launchgrenade/archcannon": {
-    "value": "Corvas"
+    "value": "Корвас"
   },
   "/lotus/weapons/tenno/archwing/primary/railgun/archrailgun": {
     "value": "Arch Railgun"
@@ -17579,40 +17579,40 @@
     "value": "Ґратлер"
   },
   "/lotus/weapons/tenno/archwing/primary/rocketartillery/archrocketcrossbow": {
-    "value": "Fluctus"
+    "value": "Флукт"
   },
   "/lotus/weapons/tenno/archwing/primary/tnshieldframearchgun/tnshieldframearchgun": {
     "value": "Сокирка"
   },
   "/lotus/weapons/tenno/bows/antlerbow/antlerbow": {
-    "value": "Cernos"
+    "value": "Цернос"
   },
   "/lotus/weapons/tenno/bows/asymetricalbow/asymetricalbow": {
-    "value": "Daikyu"
+    "value": "Дайк’ю"
   },
   "/lotus/weapons/tenno/bows/huntingbow": {
-    "value": "Paris"
+    "value": "Паріс"
   },
   "/lotus/weapons/tenno/bows/primecernos/primecernos": {
     "value": "Цернос-прайм"
   },
   "/lotus/weapons/tenno/bows/primehuntingbow": {
-    "value": "Paris Prime"
+    "value": "Паріс-прайм"
   },
   "/lotus/weapons/tenno/bows/stalkerbow": {
-    "value": "Dread"
+    "value": "Жах"
   },
   "/lotus/weapons/tenno/bows/valentinesconclavevariantbow": {
     "value": "Valentines Conclave Variant Bow"
   },
   "/lotus/weapons/tenno/longguns/dexthethird/dexthethird": {
-    "value": "Dex Sybaris"
+    "value": "Сибаріс-декс"
   },
   "/lotus/weapons/tenno/longguns/doublebarrelshotgun/tennodoublebarrelshotgun": {
-    "value": "Tigris"
+    "value": "Тигріс"
   },
   "/lotus/weapons/tenno/longguns/drakerifle/drakerifle": {
-    "value": "Tiberon"
+    "value": "Тіберон"
   },
   "/lotus/weapons/tenno/longguns/fiveshotsniper/fiveshotsniper": {
     "value": "Рубіко"
@@ -17621,16 +17621,16 @@
     "value": "Sundial Rifle"
   },
   "/lotus/weapons/tenno/longguns/miter/tnomiter": {
-    "value": "Panthera"
+    "value": "Пантера"
   },
   "/lotus/weapons/tenno/longguns/primeboltor/primeboltor": {
-    "value": "Boltor Prime"
+    "value": "Болтор-прайм"
   },
   "/lotus/weapons/tenno/longguns/primeburston/primeburston": {
-    "value": "Burston Prime"
+    "value": "Берстон-прайм"
   },
   "/lotus/weapons/tenno/longguns/primesoma/primesomarifle": {
-    "value": "Soma Prime"
+    "value": "Сома-прайм"
   },
   "/lotus/weapons/tenno/longguns/primesybaris/primesybarisrifle": {
     "value": "Сибарис-прайм"
@@ -17660,10 +17660,10 @@
     "value": "Коринф"
   },
   "/lotus/weapons/tenno/longguns/tnoleveraction/tnoleveractionrifle": {
-    "value": "Sybaris"
+    "value": "Сибаріс"
   },
   "/lotus/weapons/tenno/longguns/tnoprmryxbow/tnoprmryxbowweapon": {
-    "value": "Attica"
+    "value": "Аттика"
   },
   "/lotus/weapons/tenno/longguns/tnpriestspear/tnpriestspeargun": {
     "value": "Tn Priest Spear Gun"
@@ -17681,67 +17681,67 @@
     "value": "Пагуба-примара"
   },
   "/lotus/weapons/tenno/melee/axe/axeweapon": {
-    "value": "Scindo"
+    "value": "Скіндо"
   },
   "/lotus/weapons/tenno/melee/axe/dualaxeweapon": {
-    "value": "Dual Zoren"
+    "value": "Парні Зорени"
   },
   "/lotus/weapons/tenno/melee/axe/dualinfestedaxesweapon": {
-    "value": "Dual Ichor"
+    "value": "Парні Іхори"
   },
   "/lotus/weapons/tenno/melee/axe/primescindo/primescindoweapon": {
-    "value": "Scindo Prime"
+    "value": "Скіндо-прайм"
   },
   "/lotus/weapons/tenno/melee/brass knuckles/brassknuckles": {
-    "value": "Kogake"
+    "value": "Коґаке"
   },
   "/lotus/weapons/tenno/melee/claws/tennoclaws": {
-    "value": "Venka"
+    "value": "Венка"
   },
   "/lotus/weapons/tenno/melee/cronussword/cronuslongsword": {
-    "value": "Cronus"
+    "value": "Крон"
   },
   "/lotus/weapons/tenno/melee/cronussword/primecronuslongsword": {
-    "value": "Dakra Prime"
+    "value": "Дакра-прайм"
   },
   "/lotus/weapons/tenno/melee/dagger/ceramicdagger": {
-    "value": "Ceramic Dagger"
+    "value": "Керамічний кинджал"
   },
   "/lotus/weapons/tenno/melee/dagger/dagger": {
-    "value": "Heat Dagger"
+    "value": "Вогнекинджал"
   },
   "/lotus/weapons/tenno/melee/dagger/darkdagger": {
     "value": "Dark Dagger"
   },
   "/lotus/weapons/tenno/melee/dualdagger/dualdagger": {
-    "value": "Fang"
+    "value": "Ікла"
   },
   "/lotus/weapons/tenno/melee/dualdagger/dualetherdagger": {
     "value": "Dual Ether Dagger"
   },
   "/lotus/weapons/tenno/melee/dualdagger/fangprimedagger": {
-    "value": "Fang Prime"
+    "value": "Ікла-прайм"
   },
   "/lotus/weapons/tenno/melee/dualkamas/dualkamas": {
-    "value": "Dual Kamas"
+    "value": "Парні Ками"
   },
   "/lotus/weapons/tenno/melee/dualkamas/singlekama": {
-    "value": "Kama"
+    "value": "Кама"
   },
   "/lotus/weapons/tenno/melee/dualshortsword/dualethersword": {
-    "value": "Dual Ether"
+    "value": "Парні Етери"
   },
   "/lotus/weapons/tenno/melee/dualshortsword/dualheatswords": {
-    "value": "Dual Heat Swords"
+    "value": "Парні вогнемечі"
   },
   "/lotus/weapons/tenno/melee/dualshortsword/dualshortsword": {
-    "value": "Dual Ether"
+    "value": "Парні Етери"
   },
   "/lotus/weapons/tenno/melee/fist/fist": {
-    "value": "Furax"
+    "value": "Фуракс"
   },
   "/lotus/weapons/tenno/melee/fist/furaxwraith": {
-    "value": "Furax Wraith"
+    "value": "Фуракс-примара"
   },
   "/lotus/weapons/tenno/melee/gauntlet/brawlerknuckles/brawlerknuckles": {
     "value": "Текко"
@@ -17753,43 +17753,43 @@
     "value": "Анкирос-прайм"
   },
   "/lotus/weapons/tenno/melee/glaives/boomerang/boomerangweapon": {
-    "value": "Kestrel"
+    "value": "Боривітер"
   },
   "/lotus/weapons/tenno/melee/glaives/lightglaive/lightglaiveweapon": {
-    "value": "Glaive"
+    "value": "Глефа"
   },
   "/lotus/weapons/tenno/melee/glaives/primeglaive/primeglaiveweapon": {
-    "value": "Glaive Prime"
+    "value": "Глефа-прайм"
   },
   "/lotus/weapons/tenno/melee/glaives/teshinglaive/tnteshinglaivewep": {
     "value": "Орвій"
   },
   "/lotus/weapons/tenno/melee/greatsword/greatsword": {
-    "value": "Gram"
+    "value": "Ґрaм"
   },
   "/lotus/weapons/tenno/melee/gunblade/gunbladeautomatic/tnogunbladeautomatic": {
     "value": "Gunblade"
   },
   "/lotus/weapons/tenno/melee/gunblade/tnogunblade": {
-    "value": "Redeemer"
+    "value": "Визволитель"
   },
   "/lotus/weapons/tenno/melee/hammer/glasshammer/glasshammer": {
     "value": "Вольн"
   },
   "/lotus/weapons/tenno/melee/hammer/hammerweapon": {
-    "value": "Fragor"
+    "value": "Фраґор"
   },
   "/lotus/weapons/tenno/melee/hammer/icehammer/icehammer": {
     "value": "Сибір"
   },
   "/lotus/weapons/tenno/melee/longsword/ethersword": {
-    "value": "Ether Sword"
+    "value": "Етерний меч"
   },
   "/lotus/weapons/tenno/melee/longsword/longsword": {
-    "value": "Skana"
+    "value": "Скана"
   },
   "/lotus/weapons/tenno/melee/longsword/skanaprime": {
-    "value": "Skana Prime"
+    "value": "Скана-прайм"
   },
   "/lotus/weapons/tenno/melee/maces/paladinmace/paladinmaceweapon": {
     "value": "Magistar"
@@ -17810,7 +17810,7 @@
     "value": "Orthos"
   },
   "/lotus/weapons/tenno/melee/polearms/primepolearmweapon": {
-    "value": "Orthos Prime"
+    "value": "Ортос-прайм"
   },
   "/lotus/weapons/tenno/melee/polearms/tnguandaopolearm/tnguandaopolearmweapon": {
     "value": "Tn Guandao Polearm Weapon"
@@ -17828,7 +17828,7 @@
     "value": "Венка-прайм"
   },
   "/lotus/weapons/tenno/melee/scythe/etherscytheweapon": {
-    "value": "Ether Reaper"
+    "value": "Етерний Жнець"
   },
   "/lotus/weapons/tenno/melee/scythe/parisscythe/parisscythe": {
     "value": "Анку"
@@ -17837,25 +17837,25 @@
     "value": "Variant Xmas Scythe"
   },
   "/lotus/weapons/tenno/melee/scythe/reaperweapon": {
-    "value": "Reaper Prime"
+    "value": "Жнець-прайм"
   },
   "/lotus/weapons/tenno/melee/scythe/stalkerscytheweapon": {
-    "value": "Hate"
+    "value": "Ненависть"
   },
   "/lotus/weapons/tenno/melee/soma/somadualkamas": {
-    "value": "Dual Raza"
+    "value": "Парні Рази\""
   },
   "/lotus/weapons/tenno/melee/staff/grnstaff": {
     "value": "Амфіс"
   },
   "/lotus/weapons/tenno/melee/staff/monkspade/tnomonkstaff": {
-    "value": "Tipedo"
+    "value": "Тіпедо"
   },
   "/lotus/weapons/tenno/melee/staff/primebo/primeboweapon": {
-    "value": "Bo Prime"
+    "value": "Бо-прайм"
   },
   "/lotus/weapons/tenno/melee/staff/staff": {
-    "value": "Bo"
+    "value": "Бо"
   },
   "/lotus/weapons/tenno/melee/sundialaxe/sundialaxeweapon": {
     "value": "Зеністар"
@@ -17948,7 +17948,7 @@
     "value": "Furis"
   },
   "/lotus/weapons/tenno/pistol/broncoprime": {
-    "value": "Bronco Prime"
+    "value": "Бронко-прайм"
   },
   "/lotus/weapons/tenno/pistol/burstpistol": {
     "value": "Sicarus"
@@ -17963,7 +17963,7 @@
     "value": "Lex"
   },
   "/lotus/weapons/tenno/pistol/latoprime": {
-    "value": "Lato Prime"
+    "value": "Лато-прайм"
   },
   "/lotus/weapons/tenno/pistol/latovandal": {
     "value": "Lato Vandal"
@@ -17999,10 +17999,10 @@
     "value": "Lex Prime"
   },
   "/lotus/weapons/tenno/pistols/primesicarus/primesicaruspistol": {
-    "value": "Sicarus Prime"
+    "value": "Сикар-прайм"
   },
   "/lotus/weapons/tenno/pistols/primevasto/primevastopistol": {
-    "value": "Vasto Prime"
+    "value": "Васто-прайм"
   },
   "/lotus/weapons/tenno/pistols/sapientpistol/sapientpistol": {
     "value": "Акарії"
@@ -18038,16 +18038,16 @@
     "value": "Boltor"
   },
   "/lotus/weapons/tenno/rifle/bratonprime": {
-    "value": "Braton Prime"
+    "value": "Братон-прайм"
   },
   "/lotus/weapons/tenno/rifle/burstrifle": {
     "value": "Burston"
   },
   "/lotus/weapons/tenno/rifle/heavyrifle": {
-    "value": "Gorgon"
+    "value": "Горгона"
   },
   "/lotus/weapons/tenno/rifle/latronprime": {
-    "value": "Latron Prime"
+    "value": "Пагуба-прайм"
   },
   "/lotus/weapons/tenno/rifle/rifle": {
     "value": "Braton"
@@ -18071,7 +18071,7 @@
     "value": "Снайптрон-вандал"
   },
   "/lotus/weapons/tenno/shotgun/doublebarrelshotgun": {
-    "value": "Tigris"
+    "value": "Тигріс"
   },
   "/lotus/weapons/tenno/shotgun/eviseratorweapon": {
     "value": "Eviserator Weapon"
@@ -18080,7 +18080,7 @@
     "value": "Boar"
   },
   "/lotus/weapons/tenno/shotgun/primeboar": {
-    "value": "Boar Prime"
+    "value": "Вепр-прайм"
   },
   "/lotus/weapons/tenno/shotgun/quadshotgun": {
     "value": "Hek"
@@ -18104,7 +18104,7 @@
     "value": "Prime Li Dagger"
   },
   "/lotus/weapons/tenno/throwingweapons/primethrowingstar/primehikou": {
-    "value": "Hikou Prime"
+    "value": "Хіко-прайм"
   },
   "/lotus/weapons/tenno/throwingweapons/stalkerkunai": {
     "value": "Despair"
