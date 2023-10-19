@@ -33,24 +33,24 @@
   },
   "modifierDescriptions": {
     "SORTIE_MODIFIER_LOW_ENERGY": "戰甲的能量上限降低為四分之一，並且能量恢復速率也會大大降低。",
-    "SORTIE_MODIFIER_IMPACT": "Enemies can deal enhanced impact damage. Finishing damage is not resisted.",
-    "SORTIE_MODIFIER_SLASH": "Enemies can deal enhanced slash damage. Finishing damage is not resisted.",
-    "SORTIE_MODIFIER_PUNCTURE": "Enemies can deal enhanced puncture damage. Finishing damage is not resisted.",
-    "SORTIE_MODIFIER_EXIMUS": "Eximus units have a much higher spawn rate in this mission. Some of their auras stack.",
-    "SORTIE_MODIFIER_MAGNETIC": "Enemies deal increased Magnetic damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_CORROSIVE": "Enemies deal increased Corrosive damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_VIRAL": "Enemies deal increased Viral damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_ELECTRICITY": "Enemies deal increased Electric damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_RADIATION": "Enemies deal increased Radiation damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_GAS": "Enemies deal increased Gas damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_FIRE": "Enemies deal increased Heat damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_EXPLOSION": "Enemies deal increased Blast damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_FREEZE": "Enemies deal increased Cold damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_TOXIN": "Enemies deal increased Toxin damage and also have increased Immunity to said damage type.",
-    "SORTIE_MODIFIER_POISON": "Enemies deal increased Toxin damage and also have increased Immunity to said damage type.",
+    "SORTIE_MODIFIER_IMPACT": "敌人造成更高的冲击伤害，终结伤害不会被减免。",
+    "SORTIE_MODIFIER_SLASH": "敌人造成更高的切割伤害，终结伤害不会被减免。",
+    "SORTIE_MODIFIER_PUNCTURE": "敌人造成更高的穿刺伤害，终结伤害不会被减免。",
+    "SORTIE_MODIFIER_EXIMUS": "卓越者单位在这个任务中的生成率更高，并且携带的光环数量更多。",
+    "SORTIE_MODIFIER_MAGNETIC": "敌人造成更高的磁力伤害，并对磁力伤害具有更高的抗性",
+    "SORTIE_MODIFIER_CORROSIVE": "敌人造成更高的腐蚀伤害，并对腐蚀伤害具有更高的抗性",
+    "SORTIE_MODIFIER_VIRAL": "敌人造成更高的病毒伤害，并对病毒伤害具有更高的抗性",
+    "SORTIE_MODIFIER_ELECTRICITY": "敌人造成更高的电元素伤害，并对电元素伤害具有更高的抗性",
+    "SORTIE_MODIFIER_RADIATION": "敌人造成更高的辐射伤害，并对辐射伤害具有更高的抗性",
+    "SORTIE_MODIFIER_GAS": "敌人造成更高的毒气伤害，并对毒气伤害具有更高的抗性",
+    "SORTIE_MODIFIER_FIRE": "敌人造成更高的火焰伤害，并对火焰伤害具有更高的抗性",
+    "SORTIE_MODIFIER_EXPLOSION": "敌人造成更高的爆炸伤害，并对爆炸伤害具有更高的抗性",
+    "SORTIE_MODIFIER_FREEZE": "敌人造成更高的冰冻伤害，并对冰冻伤害具有更高的抗性",
+    "SORTIE_MODIFIER_TOXIN": "敌人造成更高的毒元素伤害，并对毒元素伤害具有更高的抗性",
+    "SORTIE_MODIFIER_POISON": "敌人造成更高的毒元素伤害，并对毒元素伤害具有更高的抗性",
     "SORTIE_MODIFIER_HAZARD_RADIATION": "Any damage received will impart radiation effects, and so will green clouds around the tileset.",
-    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "Reduced Gravity. Blue blobs that deal magnetic procs placed through out the tileset.",
-    "SORTIE_MODIFIER_HAZARD_FOG": "Limited visibility in the tileset due to dense fog. Forced night cycle on planets like earth.",
+    "SORTIE_MODIFIER_HAZARD_MAGNETIC": "重力减弱，蓝色磁体气泡会对穿过它的玩家造成磁力伤害。",
+    "SORTIE_MODIFIER_HAZARD_FOG": "由于浓雾在区域内聚集，区域内的可视距离受到限制。星球的强制夜间循环就像地球一样。",
     "SORTIE_MODIFIER_HAZARD_FIRE": "The tileset has a fire hazard. Warframe health is halved. Meltdown Iminent.",
     "SORTIE_MODIFIER_HAZARD_ICE": "Maximum Shield Capacity is halved. Ice patches that cause cold procs.",
     "SORTIE_MODIFIER_HAZARD_COLD": "行動能力大幅下降。此模式的衝刺功能已被禁用。",
@@ -129,20 +129,20 @@
       "faction": "堕落者"
     },
     "SORTIE_BOSS_BOREAL": {
-      "name": "Archon Boreal",
-      "faction": "Narmer"
+      "name": "诡文枭主",
+      "faction": "合一众"
     },
     "SORTIE_BOSS_AMAR": {
-      "name": "Archon Amar",
-      "faction": "Narmer"
+      "name": "欺谋狼主",
+      "faction": "合一众"
     },
     "SORTIE_BOSS_NIRA": {
-      "name": "Archon Nira",
-      "faction": "Narmer"
+      "name": "混沌蛇主",
+      "faction": "合一众"
     },
     "SORTIE_BOSS_PAAZUL": {
-      "name": "Archon Paazul",
-      "faction": "Narmer"
+      "name": "帕祖",
+      "faction": "合一众"
     }
   },
   "endStates": [
