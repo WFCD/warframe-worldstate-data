@@ -12352,7 +12352,7 @@
     "value": "Relic Pack"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "desc": "Убийте 20 ворогів під час прицілювання в повітрі.",
+    "desc": "Убийте 15 ворогів під час прицілювання в повітрі.",
     "value": "Пір’їна"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
@@ -12360,7 +12360,7 @@
     "value": "Батут"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
-    "desc": "Зчитайте 25 об’єкти чи ворогів.",
+    "desc": "Зчитайте 15 об’єкти чи ворогів.",
     "value": "Дослідник"
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
@@ -12412,8 +12412,8 @@
     "value": "Попереджувальний постріл"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswhileonkdrive": {
-    "desc": "Убийте 20 ворогів, катаючись на к-драйві.",
-    "value": "Лови хвилю!"
+    "desc": "Убийте 20 ворогів, катаючись на к-драйві, кайті, велоциподі чи Меруліні.",
+    "value": "Бурхлива їзда"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "desc": "Убийте 150 ворогів за допомогою здібностей.",
@@ -12532,7 +12532,7 @@
     "value": "Прадавній обеліск"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
-    "desc": "Убийте 20 ворогів під час ковзання.",
+    "desc": "Убийте 10 ворогів під час ковзання.",
     "value": "Блискавка"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
@@ -12544,7 +12544,7 @@
     "value": "Потужний удар"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
-    "desc": "Виконайте 3 перетворення модифікаторів.",
+    "desc": "Виконайте перетворення модифікаторів.",
     "value": "Усе нове — це добре забуте старе"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
@@ -12604,11 +12604,11 @@
     "value": "Flawless"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
-    "desc": "Наловіть 6 рідкісних риб на Рівнинах Ейдолонів.",
+    "desc": "Наловіть 3 рідкісних риби на Рівнинах Ейдолонів.",
     "value": "Риболовля на Землі"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrarevenusfish": {
-    "desc": "Наловіть 6 рідкісних риб в Долині Куль.",
+    "desc": "Наловіть 3 рідкісних риби в Долині Куль.",
     "value": "Риболовля на Венері"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
@@ -12632,7 +12632,7 @@
     "value": "Винищувач"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
-    "desc": "Завершіть 9 завдань на вторгнення.",
+    "desc": "Завершіть 6 завдань на вторгнення.",
     "value": "Загарбник"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletekuva": {
@@ -12664,7 +12664,7 @@
     "value": "Шпигун"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
-    "desc": "Завершіть 10 завдань синдикатів.",
+    "desc": "Завершіть 5 завдань синдикатів.",
     "value": "Прихильник"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
@@ -12672,7 +12672,7 @@
     "value": "Пожвавлювач"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
-    "desc": "Успішно дійдіть до фінішу в 3 різних перегонах на к-драйві в Долині Куль.",
+    "desc": "Успішно дійдіть до фінішу в 3 різних перегонах на к-драйві в Долині Куль на Венері або в Кембіонській течії на Деймосі.",
     "value": "На дошку"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
@@ -12716,15 +12716,15 @@
     "value": "Тупотіння «Бивнів»"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
-    "desc": "Видобудьте 6 рідкісних мінералів (самоцвіти або руда) на Рівнинах Ейдолонів.",
+    "desc": "Видобудьте 3 рідкісних мінерали (самоцвіти або руда) на Рівнинах Ейдолонів.",
     "value": "Рудокоп Землі"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
-    "desc": "Видобудьте 6 рідкісних мінералів (самоцвіти або руда) в Долині Куль.",
+    "desc": "Видобудьте 3 рідкісних мінерали (самоцвіти або руда) в Долині Куль.",
     "value": "Рудокоп Венери"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
-    "desc": "Здійсніть 6 різних бездоганних захоплень тварин у Долині Куль.",
+    "desc": "Здійсніть 3 різних бездоганних захоплень тварин у Долині Куль.",
     "value": "Борець з охорони природи"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
@@ -12732,7 +12732,7 @@
     "value": "Підсилення!"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
-    "desc": "Виконайте 5 різних контрактів на Рівнинах Ейдолонів.",
+    "desc": "Виконайте 3 різних контракти на Рівнинах Ейдолонів.",
     "value": "Головоріз Землі"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
@@ -12748,7 +12748,7 @@
     "value": "Суб’єкт дослідження"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
-    "desc": "Здійсніть 5 зчитувань для цефалона Симаріса.",
+    "desc": "Здійсніть 3 зчитувань для цефалона Симаріса.",
     "value": "Дослідник Заповідника"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
@@ -12764,11 +12764,11 @@
     "value": "Поляризовано"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
-    "desc": "Виконайте 5 різних контрактів в Долині Куль.",
+    "desc": "Виконайте 3 різних контракти в Долині Куль.",
     "value": "Головоріз Венери"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
-    "desc": "Зберіть 15 рештків Вом чи Фасса в Кембіонській течії.",
+    "desc": "Зберіть 10 рештків Вом чи Фасса в Кембіонській течії.",
     "value": "Ніч і день"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
@@ -12788,7 +12788,7 @@
     "value": "Старомодний спосіб"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyeternalguardian": {
-    "desc": "Завершіть 3 завдання «Армагеддон Порожнечі».",
+    "desc": "Завершіть 2 завдання «Армагеддон Порожнечі».",
     "value": "Вічний вартовий"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyzarimanbountyhunter": {
@@ -12808,7 +12808,7 @@
     "value": "Збирач ресурсів"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
-    "desc": "Завершіть 10 завдань складності «Жахіття».",
+    "desc": "Завершіть 5 завдань складності «Жахіття».",
     "value": "Нічне жахіття"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
@@ -12844,7 +12844,7 @@
     "value": "Привласнювачка"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "desc": "Завершіть завдання з виживання щонайменше через 30 хвилин від початку.",
+    "desc": "Завершіть завдання з виживання щонайменше через 20 хвилин від початку.",
     "value": "Виживання"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
@@ -18204,7 +18204,7 @@
     "value": "Glassmaker"
   },
   "RadioLegionIntermissionSyndicate": {
-    "value": "Intermission"
+    "value": "Антракт"
   },
   "RadioLegionIntermission2Syndicate": {
     "value": "Intermission II"
