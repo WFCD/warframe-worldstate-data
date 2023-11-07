@@ -12352,7 +12352,7 @@
     "value": "Набор Реликвий"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "desc": "Убейте 20 врагов во время управляемого полёта",
+    "desc": "Kill 15 Enemies while Aim Gliding",
     "value": "Летяга"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
@@ -12484,7 +12484,7 @@
     "value": "Время молчать"
   },
   "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
-    "desc": "Зачистите узел, подверженный влиянию Лича",
+    "desc": "Clear a node influenced by a Kuva Lich or a Sister of Parvos",
     "value": "Возвращено"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
@@ -12664,7 +12664,7 @@
     "value": "Шпион"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
-    "desc": "Завершите 10 миссий синдикатов",
+    "desc": "Complete 5 Syndicate misions",
     "value": "Сторонник"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
@@ -12716,11 +12716,11 @@
     "value": "Сотрясание бивней"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
-    "desc": "Добудьте 6 редких ископаемых на Равнинах Эйдолона",
+    "desc": "Mine 3 Rare Gems in the Plains of Eidolon",
     "value": "Шахтёр Земли"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
-    "desc": "Добудьте 6 редких ископаемых в Долине Сфер",
+    "desc": "Mine 3 Rare Gems in the Orb Vallis",
     "value": "Шахтёр Венеры"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
@@ -12748,7 +12748,7 @@
     "value": "Испытуемый объект"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
-    "desc": "Завершите 5 сканирований для Цефалона Симэриса",
+    "desc": "Complete 3 Scans for Cephalon Simaris",
     "value": "Исследователь Святилища"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
@@ -12764,11 +12764,11 @@
     "value": "Поляризирован"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
-    "desc": "Завершите 5 различных Заказов в Долине Сфер",
+    "desc": "Complete 3 different bounties in the Orb Vallis",
     "value": "Охотник за наживой Венеры"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
-    "desc": "Collect 15 Vome or Fass Residue in the Cambion Drift",
+    "desc": "Collect 10 Vome or Fass Residue in the Cambion Drift",
     "value": "Night and Day"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
@@ -12844,7 +12844,7 @@
     "value": "Извлекатель Прибыли"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "desc": "Завершите миссию Выживания, продержавшись как минимум 30 минут",
+    "desc": "Complete a Survival mission reaching at least 20 minutes",
     "value": "Выживание"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
@@ -12884,7 +12884,7 @@
     "value": "Прогулка без ритма"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
-    "desc": "Survive for over 30 minutes in Kuva Survival",
+    "desc": "Survive for over 20 minutes in Kuva Survival",
     "value": "Задержи дыхание"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
