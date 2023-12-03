@@ -12672,7 +12672,7 @@
     "value": "Пожвавлювач"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
-    "desc": "Успішно дійдіть до фінішу в 3 різних перегонах на к-драйві в Долині Куль на Венері або в Кембіонській течії на Деймосі.",
+    "desc": "Complete 3 different K-Drive races in Orb Vallis on Venus or in Cambion Drift on Deimos",
     "value": "На дошку"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
@@ -12934,6 +12934,18 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
     "desc": "Успішно протримайтеся щонайменше 3 хвилі в Дзеркальній обороні.",
     "value": "Кристалічна чистота"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
