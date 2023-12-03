@@ -12352,7 +12352,7 @@
     "value": "Relic Pack"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "desc": "Kill 15 Enemies while Aim Gliding",
+    "desc": "Убийте 15 ворогів під час прицілювання в повітрі.",
     "value": "Пір’їна"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
@@ -12412,8 +12412,8 @@
     "value": "Попереджувальний постріл"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswhileonkdrive": {
-    "desc": "Kill 20 enemies while riding a K-Drive, Kaithe, Velocipod or Merulina.",
-    "value": "Thrill Rider"
+    "desc": "Убийте 20 ворогів, катаючись на к-драйві, кайті, велоциподі чи Меруліні.",
+    "value": "Бурхлива їзда"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "desc": "Убийте 150 ворогів за допомогою здібностей.",
@@ -12480,11 +12480,11 @@
     "value": "Уперед, вірусе!"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
-    "desc": "Kill a Kuva Thrall or Hound",
+    "desc": "Убийте кувового раба чи гончака",
     "value": "Тихіше"
   },
   "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
-    "desc": "Clear a node influenced by a Kuva Lich or a Sister of Parvos",
+    "desc": "Звільніть вузол від впливу кувового ліча або сестри Парва",
     "value": "Окупант"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
@@ -12608,7 +12608,7 @@
     "value": "Риболовля на Землі"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrarevenusfish": {
-    "desc": "Catch 3 Rare Servofish in the Orb Vallis",
+    "desc": "Наловіть 3 рідкісних рибини в Долині Куль.",
     "value": "Риболовля на Венері"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
@@ -12664,7 +12664,7 @@
     "value": "Шпигун"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
-    "desc": "Complete 5 Syndicate misions",
+    "desc": "Завершіть 5 завдань синдикатів.",
     "value": "Прихильник"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
@@ -12672,7 +12672,7 @@
     "value": "Пожвавлювач"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
-    "desc": "Успішно дійдіть до фінішу в 3 різних перегонах на к-драйві в Долині Куль на Венері або в Кембіонській течії на Деймосі.",
+    "desc": "Complete 3 different K-Drive races in Orb Vallis on Venus or in Cambion Drift on Deimos",
     "value": "На дошку"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
@@ -12716,15 +12716,15 @@
     "value": "Тупотіння «Бивнів»"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
-    "desc": "Mine 3 Rare Gems in the Plains of Eidolon",
+    "desc": "Видобудьте 3 рідкісних самоцвіти чи руди на Рівнинах Ейдолонів.",
     "value": "Рудокоп Землі"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
-    "desc": "Mine 3 Rare Gems in the Orb Vallis",
+    "desc": "Видобудьте 3 рідкісних самоцвіти чи руди у Долині Куль.",
     "value": "Рудокоп Венери"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
-    "desc": "Complete 3 different Perfect Animal Captures in Orb Vallis",
+    "desc": "Здійсніть 3 різних бездоганних захоплень тварин у Долині Куль.",
     "value": "Борець з охорони природи"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
@@ -12732,7 +12732,7 @@
     "value": "Підсилення!"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
-    "desc": "Complete 3 different Bounties in the Plains of Eidolon",
+    "desc": "Виконайте 3 різних контракти на Рівнинах Ейдолонів.",
     "value": "Головоріз Землі"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
@@ -12748,7 +12748,7 @@
     "value": "Суб’єкт дослідження"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
-    "desc": "Complete 3 Scans for Cephalon Simaris",
+    "desc": "Здійсніть 3 зчитувань для цефалона Симаріса.",
     "value": "Дослідник Заповідника"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
@@ -12764,11 +12764,11 @@
     "value": "Поляризовано"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
-    "desc": "Complete 3 different bounties in the Orb Vallis",
+    "desc": "Виконайте 3 різних контракти в Долині Куль.",
     "value": "Головоріз Венери"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
-    "desc": "Collect 10 Vome or Fass Residue in the Cambion Drift",
+    "desc": "Зберіть 10 рештків Вом чи Фасса в Кембіонській течії.",
     "value": "Ніч і день"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
@@ -12844,7 +12844,7 @@
     "value": "Привласнювачка"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "desc": "Complete a Survival mission reaching at least 20 minutes",
+    "desc": "Завершіть завдання з виживання щонайменше через 20 хвилин від початку.",
     "value": "Виживання"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
@@ -12884,7 +12884,7 @@
     "value": "Його кроки не мали ритму…"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
-    "desc": "Survive for over 20 minutes in Kuva Survival",
+    "desc": "Протримайтеся щонайменше 20 хвилин під час завдання на виживання серед куви.",
     "value": "Затримати дихання"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
@@ -12932,8 +12932,20 @@
     "value": "Мисливець на архонтів"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
-    "desc": "Complete 3 waves of Mirror Defense",
-    "value": "Crystal Clear"
+    "desc": "Успішно протримайтеся щонайменше 3 хвилі в Дзеркальній обороні.",
+    "value": "Кристалічна чистота"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"

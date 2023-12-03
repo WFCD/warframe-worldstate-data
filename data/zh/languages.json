@@ -12672,7 +12672,7 @@
     "value": "动像者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
-    "desc": "在奥布山谷完成3轮不同的K式悬浮板比赛",
+    "desc": "Complete 3 different K-Drive races in Orb Vallis on Venus or in Cambion Drift on Deimos",
     "value": "登舰时刻"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
@@ -12934,6 +12934,18 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
     "desc": "Complete 3 waves of Mirror Defense",
     "value": "Crystal Clear"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
+    "desc": "击杀500名敌人",
+    "value": "这不是警告射击"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
+    "desc": "击杀30名卓越者",
+    "value": "卓越歼灭者"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "苦难"

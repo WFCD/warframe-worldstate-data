@@ -12672,7 +12672,7 @@
     "value": "Animator"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
-    "desc": "Complete 3 different K-Drive races in Orb Vallis",
+    "desc": "Complete 3 different K-Drive races in Orb Vallis on Venus or in Cambion Drift on Deimos",
     "value": "Now Boarding"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
@@ -12934,6 +12934,18 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
     "desc": "Complete 3 waves of Mirror Defense",
     "value": "Crystal Clear"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misère"

@@ -12672,7 +12672,7 @@
     "value": "Аниматор"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
-    "desc": "Завершите 3 различных гонки К-Драйва в Долине Сфер",
+    "desc": "Complete 3 different K-Drive races in Orb Vallis on Venus or in Cambion Drift on Deimos",
     "value": "Посадка"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
@@ -12934,6 +12934,18 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
     "desc": "Complete 3 waves of Mirror Defense",
     "value": "Crystal Clear"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
+    "desc": "Убейте 500 врагов",
+    "value": "Не предупредительный выстрел"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
+    "desc": "Убейте 30 эксимусов",
+    "value": "Устранитель эксимусов"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Страдание"
