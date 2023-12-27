@@ -12532,7 +12532,7 @@
     "value": "Древний Обелиск"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
-    "desc": "Убейте 20 врагов во время скольжения",
+    "desc": "Kill 10 Enemies while Sliding",
     "value": "Торопыга"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
@@ -12544,7 +12544,7 @@
     "value": "Сильное Влияние"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
-    "desc": "Завершите 3 трансмутации модов",
+    "desc": "Complete 1 Mod Transmutations",
     "value": "Всё старое вновь новое"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
@@ -12598,6 +12598,18 @@
   "/lotus/types/challenges/seasons/daily/seasondailyhijackcrewship": {
     "desc": "Угоните вражеский транспортёр",
     "value": "Конфискованный"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyfeedmemore": {
+    "desc": "Feed the Maw in Duviri",
+    "value": "Feed Me More"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyhelpinghand": {
+    "desc": "Rescue an animal in Duviri",
+    "value": "Helping Hand"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailysalutations": {
+    "desc": "Visit Acrithis in Duviri",
+    "value": "Salutations"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "desc": "Отбейтесь от абордажной команды Гринир без малейшего урона вашему варфрейму",
@@ -12803,12 +12815,16 @@
     "desc": "Во время пилотирования угнанного транспортёра, уничтожьте 3 истребителя противника",
     "value": "Дружественный огонь"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysolveciphers": {
+    "desc": "Hack 10 Consoles",
+    "value": "Хакер"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Соберите 20 различных типов ресурсов",
     "value": "Сборщик Ресурсов"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
-    "desc": "Завершите 10 \"кошмарных\" миссий",
+    "desc": "Complete 5 Nightmare missions of any type",
     "value": "Ночной кошмар"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
@@ -12934,6 +12950,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
     "desc": "Complete 3 waves of Mirror Defense",
     "value": "Crystal Clear"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardvitalarbiter": {
+    "desc": "Complete an Arbitration Mission",
+    "value": "Vital Arbiter"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
     "desc": "Убейте 500 врагов",
