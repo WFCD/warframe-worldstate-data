@@ -12532,7 +12532,7 @@
     "value": "Uralter Obelisk"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
-    "desc": "Kill 20 Enemies while Sliding",
+    "desc": "Kill 10 Enemies while Sliding",
     "value": "Accelerator"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
@@ -12544,7 +12544,7 @@
     "value": "Deep Impact"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
-    "desc": "Complete 3 Transmutations",
+    "desc": "Complete 1 Mod Transmutations",
     "value": "Everything Old is New Again"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
@@ -12598,6 +12598,18 @@
   "/lotus/types/challenges/seasons/daily/seasondailyhijackcrewship": {
     "desc": "Entführe ein Crewship vom Feind",
     "value": "Konfisziert"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyfeedmemore": {
+    "desc": "Feed the Maw in Duviri",
+    "value": "Feed Me More"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyhelpinghand": {
+    "desc": "Rescue an animal in Duviri",
+    "value": "Helping Hand"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailysalutations": {
+    "desc": "Visit Acrithis in Duviri",
+    "value": "Salutations"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
@@ -12803,12 +12815,16 @@
     "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters",
     "value": "Friendly Fire"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysolveciphers": {
+    "desc": "Hack 10 Consoles",
+    "value": "Hacker"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Sammle 20 verschiedene Arten von Ressourcen.",
     "value": "Resource Scavenger"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
-    "desc": "Complete 10 Nightmare missions of any type",
+    "desc": "Complete 5 Nightmare missions of any type",
     "value": "Night Terror"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
@@ -12934,6 +12950,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
     "desc": "Complete 3 waves of Mirror Defense",
     "value": "Crystal Clear"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardvitalarbiter": {
+    "desc": "Complete an Arbitration Mission",
+    "value": "Vital Arbiter"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
     "desc": "Kill 500 Enemies",
