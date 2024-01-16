@@ -3970,19 +3970,19 @@
     "value": "Noggle Statue - Arid Seeker"
   },
   "/lotus/storeitems/types/items/shipdecos/grineermarinearcticbobblehead": {
-    "value": "Noggle Statue - Arid Lancer"
+    "value": "沙漠枪兵 摇头娃娃"
   },
   "/lotus/storeitems/types/items/shipdecos/grineermarinebobblehead": {
-    "value": "Noggle Statue - Lancer"
+    "value": "枪兵 摇头娃娃"
   },
   "/lotus/storeitems/types/items/shipdecos/grineermarinedesertbobblehead": {
-    "value": "Noggle Statue - Arid Lancer"
+    "value": "沙漠枪兵 摇头娃娃"
   },
   "/lotus/storeitems/types/items/shipdecos/huladancingdoll": {
     "value": "Statuette - Dancing Doll"
   },
   "/lotus/storeitems/types/items/shipdecos/hydroidbobblehead": {
-    "value": "Noggle Statue - Hydroid"
+    "value": "Hydroid 摇头娃娃"
   },
   "/lotus/storeitems/types/items/shipdecos/kavatbust": {
     "value": "Bronze Kavat Bust"
@@ -4309,19 +4309,19 @@
     "value": "Find A Kubrow Egg In Feral Kubrow Dens"
   },
   "/lotus/storeitems/types/keys/limboquest/limbobeaconkey": {
-    "value": "Limbo Theorem"
+    "value": "Limbo定理"
   },
   "/lotus/storeitems/types/keys/limboquest/limbochassiskey": {
-    "value": "Limbo Chassis Theorem"
+    "value": "Limbo头部神经光元定理Limbo机体定理"
   },
   "/lotus/storeitems/types/keys/limboquest/limbohelmetkey": {
-    "value": "Limbo Neuroptics Theorem"
+    "value": "Limbo头部神经光元定理"
   },
   "/lotus/storeitems/types/keys/limboquest/limboquestkeychain": {
-    "value": "The Limbo Theorem"
+    "value": "Limbo定理"
   },
   "/lotus/storeitems/types/keys/limboquest/limbosystemskey": {
-    "value": "Limbo Systems Theorem"
+    "value": "Limbo系统定理"
   },
   "/lotus/storeitems/types/keys/miragequest/miragequestkeychain": {
     "value": "Hidden Messages"
@@ -7123,7 +7123,7 @@
     "value": "Molten Impact"
   },
   "/lotus/storeitems/upgrades/mods/melee/beginner/weaponfireratemodbeginner": {
-    "value": "Fury"
+    "value": "狂暴"
   },
   "/lotus/storeitems/upgrades/mods/melee/beginner/weaponfreezedamagemodbeginner": {
     "value": "North Wind"
@@ -7222,7 +7222,7 @@
     "value": "Primed Molten Impact"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponfireratemodexpert": {
-    "value": "Primed Fury"
+    "value": "狂暴Prime"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponfreezedamagemodexpert": {
     "value": "Primed North Wind"
@@ -7327,7 +7327,7 @@
     "value": "Molten Impact"
   },
   "/lotus/storeitems/upgrades/mods/melee/weaponfireratemod": {
-    "value": "Fury"
+    "value": "狂暴"
   },
   "/lotus/storeitems/upgrades/mods/melee/weaponfreezedamagemod": {
     "value": "North Wind"
@@ -7393,7 +7393,7 @@
     "value": "Trick Mag"
   },
   "/lotus/storeitems/upgrades/mods/pistol/beginner/weaponarmorpiercingdamagemodbeginner": {
-    "value": "No Return"
+    "value": "有去无回"
   },
   "/lotus/storeitems/upgrades/mods/pistol/beginner/weaponclipmaxmodbeginner": {
     "value": "Slip Magazine"
@@ -7402,7 +7402,7 @@
     "value": "Pistol Gambit"
   },
   "/lotus/storeitems/upgrades/mods/pistol/beginner/weaponcritdamagemodbeginner": {
-    "value": "Target Cracker"
+    "value": "弱点专精"
   },
   "/lotus/storeitems/upgrades/mods/pistol/beginner/weapondamageamountmodbeginner": {
     "value": "Hornet Strike"
@@ -7486,25 +7486,25 @@
     "value": "Stunning Speed"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/primedweaponcritdamagemod": {
-    "value": "Primed Target Cracker"
+    "value": "弱点专精Prime"
   },
   "/lotus/storeitems/upgrades/mods/pistol/event/ambulasevent/expert/secondaryexplosionradiusmodexpert": {
     "value": "Prime Fulmination"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponammomaxmodexpert": {
-    "value": "Trick Mag"
+    "value": "戏法增幅"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponarmorpiercingdamagemodexpert": {
-    "value": "No Return"
+    "value": "有去无回"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponclipmaxmodexpert": {
     "value": "Primed Slip Magazine"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponcritchancemodbeginnerexpert": {
-    "value": "Primed Pistol Gambit"
+    "value": "手枪精通Prime"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponcritdamagemodexpert": {
-    "value": "Target Cracker"
+    "value": "弱点专精"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponelectricitydamagemodexpert": {
     "value": "Convulsion"
@@ -7585,7 +7585,7 @@
     "value": "Trick Mag"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponarmorpiercingdamagemod": {
-    "value": "No Return"
+    "value": "有去无回"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponbeamdistancemod": {
     "value": "Ruinous Extension"
@@ -7597,7 +7597,7 @@
     "value": "Pistol Gambit"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weaponcritdamagemod": {
-    "value": "Target Cracker"
+    "value": "弱点专精"
   },
   "/lotus/storeitems/upgrades/mods/pistol/weapondamageamountmod": {
     "value": "Hornet Strike"
@@ -12124,7 +12124,7 @@
     "value": "Reaper Prime"
   },
   "/lotus/storeitems/weapons/tenno/melee/scythe/stalkerscytheweapon": {
-    "value": "Hate"
+    "value": "憎恨"
   },
   "/lotus/storeitems/weapons/tenno/melee/soma/somadualkamas": {
     "value": "Dual Raza"
@@ -12352,7 +12352,7 @@
     "value": "遗物组合包"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
-    "desc": "Kill 15 Enemies while Aim Gliding",
+    "desc": "空中瞄准时击杀 15 名敌人",
     "value": "滑翔者"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
@@ -12412,8 +12412,8 @@
     "value": "开枪警告"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswhileonkdrive": {
-    "desc": "Kill 20 enemies while riding a K-Drive, Kaithe, Velocipod or Merulina.",
-    "value": "Thrill Rider"
+    "desc": "在乘骑 K 式悬浮板时击杀 20 名敌人",
+    "value": "滑板奇兵"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "desc": "使用技能擊殺150名敵人",
@@ -12477,14 +12477,14 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
     "desc": "使用病毒伤害击杀150名敌人",
-    "value": "Go Viral"
+    "value": "有毒共享"
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
-    "desc": "Kill a Kuva Thrall or Hound",
+    "desc": "击杀一个赤毒奴仆",
     "value": "沉寂"
   },
   "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
-    "desc": "Clear a node influenced by a Kuva Lich or a Sister of Parvos",
+    "desc": "清理一个被个人赤毒玄骸影响的节点",
     "value": "解放"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
@@ -12508,8 +12508,8 @@
     "value": "闪闪发亮"
   },
   "/lotus/types/challenges/seasons/daily/seasondailypilotfallenmech": {
-    "desc": "Find and pilot a Fallen Necramech on Deimos.",
-    "value": "Reanimator"
+    "desc": "在火卫二寻找并驾驶一个倒下的殁世机甲",
+    "value": "重赋生机"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplacemarker": {
     "desc": "标记5个MOD或资源",
@@ -12528,11 +12528,11 @@
     "value": "友军伤害"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyrequiemtotem": {
-    "desc": "Activate a Requiem Obelisk on Deimos.",
-    "value": "Ancient Obelisk"
+    "desc": "在火卫二激活一座安魂方尖碑",
+    "value": "远古方尖碑"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
-    "desc": "Kill 10 Enemies while Sliding",
+    "desc": "滑行击杀 10 名敌人",
     "value": "加速者"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
@@ -12544,7 +12544,7 @@
     "value": "深度冲击"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
-    "desc": "Complete 1 Mod Transmutations",
+    "desc": "完成 1 次 Mod 转换",
     "value": "以旧换新"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
@@ -12552,63 +12552,63 @@
     "value": "随便看看"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyafirmshake": {
-    "desc": "Shake the hand of a fellow Tenno using the Handshake Emote",
-    "value": "A Firm Handshake"
+    "desc": "使用握手表情来与 Tenno 同伴握手",
+    "value": "紧紧握手"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytwoforone": {
-    "desc": "Pierce and kill 2 or more enemies in a single Bow shot",
-    "value": "Two For One"
+    "desc": "在单次弓箭射击中射穿并杀死 2 名以上的敌人",
+    "value": "一石二鸟"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybuilderstouch": {
-    "desc": "Claim an item from your Foundry",
-    "value": "Builder's Touch"
+    "desc": "从铸造厂领取一件物品",
+    "value": "制造者之触"
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeathfromabove": {
-    "desc": "Kill 10 enemies with ground slams",
-    "value": "Death from Above"
+    "desc": "使用震地攻击击杀 10 名敌人",
+    "value": "死从天降"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaugmentation": {
-    "desc": "Install an Augment Mod on your Warframe",
-    "value": "Augmentation"
+    "desc": "在你的战甲上安装一个强化MOD",
+    "value": "战甲强化"
   },
   "/lotus/types/challenges/seasons/daily/seasondailytoppingoffthetank": {
-    "desc": "Successfully defend an Excavator without allowing it to run out of power",
-    "value": "Topping Off the Tank"
+    "desc": "成功防御挖掘机并且不让挖掘机耗尽能量",
+    "value": "源源不断"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyliquidation": {
-    "desc": "Sell any item in your Inventory for Credits",
-    "value": "Liquidation"
+    "desc": "出售仓库中的任意物品以获取现金",
+    "value": "清算"
   },
   "/lotus/types/challenges/seasons/daily/seasondailymedic": {
-    "desc": "Revive a fellow Tenno or a Companion",
-    "value": "Medic"
+    "desc": "复活一名Tenno或一个同伴",
+    "value": "医师"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyswatter": {
-    "desc": "Kill 3 Drones or Ospreys with your Melee Weapon",
-    "value": "Swatter"
+    "desc": "使用近战武器来击杀 3 架无人机或鱼鹰",
+    "value": "拍打者"
   },
   "/lotus/types/challenges/seasons/daily/seasondailythepersonaltouch": {
-    "desc": "Place 1 decoration in your Orbiter",
-    "value": "The Personal Touch"
+    "desc": "在轨道飞行器或居住舱放置 1 个装饰",
+    "value": "自得其乐"
   },
   "/lotus/types/challenges/seasons/daily/seasondailystayontop": {
-    "desc": "Kill 20 enemies using a Necramech while hovering",
-    "value": "Stay on Top"
+    "desc": "让殁世机甲在空中悬浮时击杀 20 名敌人",
+    "value": "留在空中"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyhijackcrewship": {
     "desc": "劫持一艘敌方战舰",
     "value": "没收"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyfeedmemore": {
-    "desc": "Feed the Maw in Duviri",
+    "desc": "在双衍王境喂食喉兽",
     "value": "Feed Me More"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyhelpinghand": {
-    "desc": "Rescue an animal in Duviri",
+    "desc": "在双衍王境保育保育一个动物",
     "value": "Helping Hand"
   },
   "/lotus/types/challenges/seasons/daily/seasondailysalutations": {
-    "desc": "Visit Acrithis in Duviri",
+    "desc": "在双衍王境拜访言录使",
     "value": "Salutations"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
@@ -12620,7 +12620,7 @@
     "value": "地球渔者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrarevenusfish": {
-    "desc": "Catch 3 Rare Servofish in the Orb Vallis",
+    "desc": "捕获 3 个在奥布山谷稀有的伺服鱼",
     "value": "金星渔者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
@@ -12676,7 +12676,7 @@
     "value": "特工"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
-    "desc": "Complete 5 Syndicate misions",
+    "desc": "完成 5 项集团任务",
     "value": "支持者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
@@ -12684,7 +12684,7 @@
     "value": "动像者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
-    "desc": "Complete 3 different K-Drive races in Orb Vallis on Venus or in Cambion Drift on Deimos",
+    "desc": "在奥布山谷完成 3 轮不同的K式悬浮板比赛",
     "value": "登舰时刻"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
@@ -12692,8 +12692,8 @@
     "value": "前瞻思想"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyfeedhelminth": {
-    "desc": "Feed the Helminth any resource",
-    "value": "Feed The Beast"
+    "desc": "向 Helminth 饲喂任意资源",
+    "value": "喂饱野兽"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "desc": "镀金1个模块化物品",
@@ -12705,7 +12705,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyisolationbounties": {
     "desc": "在魔胎之境完成一次隔离库的赏金任务。",
-    "value": "Vault Raider"
+    "value": "在魔胎之境完成一次隔离库的赏金任务"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
     "desc": "用 Archwing 枪械击杀 500 个敌人",
@@ -12716,7 +12716,7 @@
     "value": "这不是警告射击"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemiesinmech": {
-    "desc": "Kill 100 enemies with a Mech.",
+    "desc": "宝库强袭者",
     "value": "Necralizer"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
@@ -12728,15 +12728,15 @@
     "value": "巨牙重击"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
-    "desc": "Mine 3 Rare Gems in the Plains of Eidolon",
+    "desc": "在夜灵平野开采到 3 次稀有宝石或矿石",
     "value": "地球矿工"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
-    "desc": "Mine 3 Rare Gems in the Orb Vallis",
+    "desc": "在奥布山谷开采到 3 次稀有宝石或矿石",
     "value": "金星矿工"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
-    "desc": "Complete 3 different Perfect Animal Captures in Orb Vallis",
+    "desc": "在奥布山谷中完成 3 个不同动物的完美捕获",
     "value": "保育者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
@@ -12744,7 +12744,7 @@
     "value": "增强！"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
-    "desc": "Complete 3 different Bounties in the Plains of Eidolon",
+    "desc": "在夜灵平野完成 3 个不同的赏金任务",
     "value": "地球赏金猎人"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
@@ -12760,7 +12760,7 @@
     "value": "测试对象"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
-    "desc": "Complete 3 Scans for Cephalon Simaris",
+    "desc": "完成 3 个中枢Simaris的扫描",
     "value": "圣殿研究者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
@@ -12772,59 +12772,59 @@
     "value": "解开遗物"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyuseforma": {
-    "desc": "Polarize a Weapon, Companion, or Warframe (not in Simulacrum).",
+    "desc": "使用 1 次Forma(不在幻影装置内)",
     "value": "已极化"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
-    "desc": "Complete 3 different bounties in the Orb Vallis",
+    "desc": "在奥布山谷完成 3 个不同的赏金任务",
     "value": "金星赏金猎人"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
-    "desc": "Collect 10 Vome or Fass Residue in the Cambion Drift",
-    "value": "Night and Day"
+    "desc": "在魔胎之境中收集 10 个Vome或Fass的残留物",
+    "value": "日日夜夜"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
-    "desc": "Gain a total of 5,000 Standing across all Syndicate factions",
+    "desc": "在任意一个派系或集团中获得 5,000 声望值",
     "value": "忠心不二"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklymadlab": {
-    "desc": "Plunder one of Alad V's secret laboratories on Jupiter",
-    "value": "Mad Lab"
+    "desc": "在木星上扫荡一座 Alad V 的秘密实验室",
+    "value": "疯狂实验"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklybloodthirsty": {
-    "desc": "Kill 20 enemies in 5 seconds",
-    "value": "Bloodthirsty"
+    "desc": "在 5 秒内击杀 20 名敌人",
+    "value": "大杀特杀"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklytheoldways": {
-    "desc": "Complete 1 mission with only a single pistol and a glaive equipped",
-    "value": "The Old Ways"
+    "desc": "仅装备一把手枪和战刃来完成 1 次任务",
+    "value": "老路"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyeternalguardian": {
-    "desc": "Complete 3 Void Armageddon missions",
-    "value": "Eternal Guardian"
+    "desc": "完成 3 场虚空决战任务",
+    "value": "永恒守卫"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyzarimanbountyhunter": {
-    "desc": "Complete 4 different Bounties in the Zariman",
-    "value": "Zariman Bounty Hunter"
+    "desc": "在扎里曼号完成 4 项不同的赏金任务",
+    "value": "扎里曼赏金猎人"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyhighground": {
-    "desc": "Complete 3 Void Flood missions",
-    "value": "High Ground"
+    "desc": "\"完成 3 场虚空洪流任务",
+    "value": "制高点"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackhijackdestroythree": {
     "desc": "在驾驶劫持的战舰时，消灭 3 架敌方战斗机",
     "value": "友军伤害"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysolveciphers": {
-    "desc": "Hack 10 Consoles",
+    "desc": "骇入 10 个控制台",
     "value": "黑客"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
-    "desc": "Collect 20 different types of resources.",
-    "value": "Resource Scavenger"
+    "desc": "收集 20 种不同类型的资源",
+    "value": "资源清道夫"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
-    "desc": "Complete 5 Nightmare missions of any type",
+    "desc": "完成 5 场任意类型的噩梦任务",
     "value": "暗夜之恐"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
@@ -12832,8 +12832,8 @@
     "value": "突击行家"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesteelpathmissions": {
-    "desc": "Complete 5 Steel Path Missions.",
-    "value": "The Path Less Travelled"
+    "desc": "完成 5 场钢铁之路任务",
+    "value": "罕迹之路"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
     "desc": "完成8个精英级圣殿突袭区域",
@@ -12860,7 +12860,7 @@
     "value": "利润收割者"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
-    "desc": "Complete a Survival mission reaching at least 20 minutes",
+    "desc": "完成一场至少 20 分钟的生存任务",
     "value": "生存"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
@@ -12872,8 +12872,8 @@
     "value": "杀戮"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillenemiessteelpath": {
-    "desc": "Kill 1,000 Enemies on The Steel Path.",
-    "value": "Cold Steel"
+    "desc": "在钢铁之路击杀 1,000 个敌人",
+    "value": "寒冰玄铁"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
     "desc": "击杀100名卓越者",
@@ -12900,7 +12900,7 @@
     "value": "无律之行"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
-    "desc": "Survive for over 20 minutes in Kuva Survival",
+    "desc": "在赤毒生存任务中存活超过 20 分钟",
     "value": "屏住你的呼吸"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
@@ -12920,39 +12920,39 @@
     "value": "解开遗物"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardantiquarian": {
-    "desc": "Open one of each era/tier of Relic (Lith, Meso, Neo, Axi)",
-    "value": "Antiquarian"
+    "desc": "开启每个类型的遗物(古纪、前纪、中纪、后纪)",
+    "value": "收藏家"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardterminated": {
-    "desc": "Destroy 3 Necramech vault guardians",
-    "value": "Terminated"
+    "desc": "消灭 3 名隔离库殁世机甲守卫",
+    "value": "终结者"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthepriceoffreedom": {
-    "desc": "Free one Captured Solaris using a Granum Crown",
-    "value": "The Price of Freedom"
+    "desc": "使用一枚格拉努硬币来解救一名索拉里斯人质",
+    "value": "自由的代价"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthemanymadewhole": {
-    "desc": "Convert 10 Riven Slivers into a Riven Mod",
-    "value": "The Many Made Whole"
+    "desc": "用 10 个裂罅碎块换取一张裂罅 Mod",
+    "value": "聚沙成卡"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardriseofthemachine": {
-    "desc": "Kill 300 enemies using a Necramech without getting destroyed",
-    "value": "Rise of the Machine"
+    "desc": "使用殁世机甲击杀 300 名敌人并且不被摧毁",
+    "value": "机甲崛起"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfallenangel": {
-    "desc": "Defeat 5 Void Angels in the Zariman",
-    "value": "Fallen Angel"
+    "desc": "在扎里曼击杀 5 个虚空天使",
+    "value": "堕落天使"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletearchonhunt": {
-    "desc": "Complete an Archon Hunt",
-    "value": "Archon Hunter"
+    "desc": "完成一次执刑官猎杀",
+    "value": "执刑官猎杀"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
-    "desc": "Complete 3 waves of Mirror Defense",
-    "value": "Crystal Clear"
+    "desc": "完成 3 个波次的镜像防御",
+    "value": "晶莹剔透"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardvitalarbiter": {
-    "desc": "Complete an Arbitration Mission",
+    "desc": "完成一场仲裁任务",
     "value": "Vital Arbiter"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
@@ -12964,8 +12964,8 @@
     "value": "卓越歼灭者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete"
+    "desc": "完成任意 15 项任务",
+    "value": "任务完成"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "苦难"
@@ -17477,7 +17477,7 @@
     "value": "MK1-Furis"
   },
   "/lotus/weapons/mk1series/mk1kunai": {
-    "value": "MK1-Kunai"
+    "value": "MK1-苦无"
   },
   "/lotus/weapons/mk1series/mk1strun": {
     "value": "MK1 斯特朗"
@@ -17486,43 +17486,43 @@
     "value": "终极 螺钉步枪"
   },
   "/lotus/weapons/syndicates/arbitersofhexis/melee/ahboltace": {
-    "value": "Telos Boltace"
+    "value": "终极螺钉拐刃"
   },
   "/lotus/weapons/syndicates/arbitersofhexis/pistols/ahakbolto": {
     "value": "Telos Akbolto"
   },
   "/lotus/weapons/syndicates/cephalonsuda/longguns/cssimulor": {
-    "value": "Synoid Simulor"
+    "value": "枢议重力奇点拟成枪"
   },
   "/lotus/weapons/syndicates/cephalonsuda/melee/csheliocor": {
-    "value": "Synoid Heliocor"
+    "value": "枢议赫利俄光锤"
   },
   "/lotus/weapons/syndicates/cephalonsuda/pistols/csdroidarray": {
     "value": "Gammacor"
   },
   "/lotus/weapons/syndicates/cephalonsuda/pistols/cssynoidgammacor": {
-    "value": "Synoid Synoid Gammacor"
+    "value": "枢议咖玛腕甲枪"
   },
   "/lotus/weapons/syndicates/newloka/longguns/nltigris": {
-    "value": "Sancti Tigris"
+    "value": "圣洁猛虎"
   },
   "/lotus/weapons/syndicates/newloka/melee/nlmagistar": {
-    "value": "Sancti Magistar"
+    "value": "圣洁执法者"
   },
   "/lotus/weapons/syndicates/newloka/pistols/nlcastanas": {
     "value": "Sancti Castanas"
   },
   "/lotus/weapons/syndicates/perrinsequence/longguns/pspenta": {
-    "value": "Secura Penta"
+    "value": "保障潘塔"
   },
   "/lotus/weapons/syndicates/perrinsequence/melee/pslecta": {
-    "value": "Secura Lecta"
+    "value": "保障勒克塔"
   },
   "/lotus/weapons/syndicates/perrinsequence/pistols/psdualcestra": {
     "value": "Secura Dual Cestra"
   },
   "/lotus/weapons/syndicates/redveil/bows/rvcernos": {
-    "value": "Rakta Cernos"
+    "value": "绯红西诺斯"
   },
   "/lotus/weapons/syndicates/redveil/melee/rvdarkdagger": {
     "value": "绯红暗黑匕首"
@@ -17531,7 +17531,7 @@
     "value": "Rakta Ballistica"
   },
   "/lotus/weapons/syndicates/steelmeridian/longguns/smhek": {
-    "value": "Vaykor Hek"
+    "value": "勇气海克"
   },
   "/lotus/weapons/syndicates/steelmeridian/melee/smsydon": {
     "value": "Vaykor Sydon"
@@ -17543,10 +17543,10 @@
     "value": "Afuris"
   },
   "/lotus/weapons/tenno/akimbo/akimbobolto": {
-    "value": "AkBolto"
+    "value": "螺钉双枪"
   },
   "/lotus/weapons/tenno/akimbo/akimbopistol": {
-    "value": "AkLato"
+    "value": "拉托双枪"
   },
   "/lotus/weapons/tenno/akimbo/akimboshotgun": {
     "value": "野马双枪"
@@ -17561,7 +17561,7 @@
     "value": "雷克斯双枪 Prime"
   },
   "/lotus/weapons/tenno/akimbo/dualmagnus": {
-    "value": "AkMagnus"
+    "value": "麦格努斯双枪"
   },
   "/lotus/weapons/tenno/akimbo/dualvastos": {
     "value": "瓦斯托双枪"
@@ -17876,7 +17876,7 @@
     "value": "Reaper Prime"
   },
   "/lotus/weapons/tenno/melee/scythe/stalkerscytheweapon": {
-    "value": "Hate"
+    "value": "憎恨"
   },
   "/lotus/weapons/tenno/melee/soma/somadualkamas": {
     "value": "Dual Raza"
@@ -18206,7 +18206,7 @@
     "value": "集團"
   },
   "SolarisSyndicate": {
-    "value": "索拉里斯聯盟"
+    "value": "索拉里斯联盟"
   },
   "VoxSyndicate": {
     "value": "索里拉斯之聲"
