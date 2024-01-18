@@ -12956,16 +12956,364 @@
     "value": "Vital Arbiter"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot"
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
     "desc": "Kill 30 Eximus",
     "value": "Eximus Eliminator"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions2": {
     "desc": "Complete any 15 missions",
-    "value": "Mission Complete"
+    "value": "Mission Complete II"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus2": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator II"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies2": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot II"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions3": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete III"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus3": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator III"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies3": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot III"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions4": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete IV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus4": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator IV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies4": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot IV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions5": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete V"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus5": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator V"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies5": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot V"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions6": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete VI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus6": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator VI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies6": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot VI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions7": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete VII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus7": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator VII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies7": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot VII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions8": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete VIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus8": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator VIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies8": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot VIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions9": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete IX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus9": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator IX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies9": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot IX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions10": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete X"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus10": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator X"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies10": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot X"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions11": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus11": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies11": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions12": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus12": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies12": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions13": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus13": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies13": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions14": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus14": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies14": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions15": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus15": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies15": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions16": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus16": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies16": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions17": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus17": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies17": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions18": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus18": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies18": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions19": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus19": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies19": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions20": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus20": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies20": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions21": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus21": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies21": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions22": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus22": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies22": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions23": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus23": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies23": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions24": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus24": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies24": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions25": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus25": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies25": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions26": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus26": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies26": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions27": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus27": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies27": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions28": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus28": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies28": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions29": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus29": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies29": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions30": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus30": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies30": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXX"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misère"
