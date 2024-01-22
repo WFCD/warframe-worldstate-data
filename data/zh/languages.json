@@ -865,7 +865,7 @@
   },
   "/lotus/language/items/furaxwraithname": {
     "desc": "These Wraith gauntlets have been augmented for power.",
-    "value": "Furax Wraith"
+    "value": "弗拉克斯亡魂"
   },
   "/lotus/language/items/kelaeventbadgename": {
     "desc": "Awarded to those who stood against Kela De Thaym and her Executioners.",
@@ -7180,10 +7180,10 @@
     "value": "Drifting Contact"
   },
   "/lotus/storeitems/upgrades/mods/melee/dualstat/corrupteddamagespeedmod": {
-    "value": "Spoiled Strike"
+    "value": "腐坏打击"
   },
   "/lotus/storeitems/upgrades/mods/melee/dualstat/corruptedheavydamagechargespeedmod": {
-    "value": "Corrupt Charge"
+    "value": "邪恶蓄力"
   },
   "/lotus/storeitems/upgrades/mods/melee/dualstat/electeventmeleemod": {
     "value": "Voltaic Strike"
@@ -7450,19 +7450,19 @@
     "value": "Pathogen Rounds"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corruptedcritchancefireratepistol": {
-    "value": "Creeping Bullseye"
+    "value": "匍匐靶心"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corruptedcritdamagepistol": {
-    "value": "Hollow Point"
+    "value": "空尖弹"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corrupteddamagerecoilpistol": {
-    "value": "Magnum Force"
+    "value": "重装火力"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corruptedfireratedamagepistol": {
-    "value": "Anemic Agility"
+    "value": "乏能迅敏"
   },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corruptedmaxclipreloadspeedpistol": {
-    "value": "Tainted Clip"
+    "value": "感染弹匣"
   },
   "/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod": {
     "value": "Jolt"
@@ -7894,19 +7894,19 @@
     "value": "Split Flights"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/corruptedcritratefireraterifle": {
-    "value": "Critical Delay"
+    "value": "关键延迟"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/corrupteddamagerecoilrifle": {
-    "value": "Heavy Caliber"
+    "value": "重口径"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/corruptedfireratedamagerifle": {
-    "value": "Vile Acceleration"
+    "value": "卑劣加速"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/corruptedmaxclipreloadspeedrifle": {
-    "value": "Tainted Mag"
+    "value": "腐败弹匣"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/corruptedrecoilfireraterifle": {
-    "value": "Vile Precision"
+    "value": "极恶精准"
   },
   "/lotus/storeitems/upgrades/mods/rifle/dualstat/electeventriflemod": {
     "value": "High Voltage"
@@ -8293,19 +8293,19 @@
     "value": "Chilling Reload"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/corruptedaccuracyfirerateshotgun": {
-    "value": "Tainted Shell"
+    "value": "污秽弹药"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/corruptedcritchancefirerateshotgun": {
-    "value": "Critical Deceleration"
+    "value": "降速暴击"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/corrupteddamageaccuracyshotgun": {
-    "value": "Vicious Spread"
+    "value": "恶性扩散"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/corruptedfireratedamageshotgun": {
-    "value": "Frail Momentum"
+    "value": "虚弱动能"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/corruptedmaxclipreloadspeedshotgun": {
-    "value": "Burdened Magazine"
+    "value": "过载弹匣"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/dualstat/electeventshotgunmod": {
     "value": "Shell Shock"
@@ -8815,19 +8815,19 @@
     "value": "Constitution"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/corrupteddurationrangewarframe": {
-    "value": "Narrow Minded"
+    "value": "心志偏狭"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/corruptedefficiencydurationwarframe": {
-    "value": "Fleeting Expertise"
+    "value": "弹指瞬技"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/corruptedpowerefficiencywarframe": {
-    "value": "Blind Rage"
+    "value": "盲怒"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/corruptedpowerstrengthpowerdurationwarframe": {
-    "value": "Transient Fortitude"
+    "value": "瞬时坚毅"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/corruptedrangepowerwarframe": {
-    "value": "Overextended"
+    "value": "过度延展"
   },
   "/lotus/storeitems/upgrades/mods/warframe/dualstat/fortitudemod": {
     "value": "Fortitude"
@@ -11458,7 +11458,7 @@
     "value": "Acrid"
   },
   "/lotus/storeitems/weapons/clantech/bio/bioweapon": {
-    "value": "Torid"
+    "value": "托里德"
   },
   "/lotus/storeitems/weapons/clantech/chemical/flamethrower": {
     "value": "Ignis"
@@ -11551,16 +11551,16 @@
     "value": "Spectra Vandal"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpairpistol/crpairpistolarray": {
-    "value": "Gammacor"
+    "value": "咖玛腕甲枪"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crpelectromag/crpelectromag": {
     "value": "Staticor"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
-    "value": "Angstrum"
+    "value": "安格斯壮"
   },
   "/lotus/storeitems/weapons/corpus/pistols/crphandrl/prismaangstrum": {
-    "value": "Prisma Angstrum"
+    "value": "棱晶安格斯壮"
   },
   "/lotus/storeitems/weapons/grineer/grineerpistol/grineerakimbopistol": {
     "value": "Twin Gremlins"
@@ -11599,7 +11599,7 @@
     "value": "卡拉克 亡魂"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineersawbladegun/sawbladegun": {
-    "value": "Miter"
+    "value": "米特尔"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grineersniperrifle/grnsniperrifle": {
     "value": "Vulkar"
@@ -11614,16 +11614,16 @@
     "value": "Tonkor"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grnharpoongun/grnharpoongun": {
-    "value": "Gorgon"
+    "value": "蛇发女妖"
   },
   "/lotus/storeitems/weapons/grineer/longguns/grnspark/grnsparkrifle": {
     "value": "Kohm"
   },
   "/lotus/storeitems/weapons/grineer/longguns/voidtradergorgon/vtgorgon": {
-    "value": "Prisma Gorgon"
+    "value": "棱晶蛇发女妖"
   },
   "/lotus/storeitems/weapons/grineer/longguns/wraithgorgon/wraithgorgon": {
-    "value": "Gorgon Wraith"
+    "value": "蛇发女妖亡魂"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineerclaws/grnclaws": {
     "value": "Ripkas"
@@ -11680,7 +11680,7 @@
     "value": "Kohmak"
   },
   "/lotus/storeitems/weapons/grineer/pistols/heatgun/grnheatgun": {
-    "value": "Atomos"
+    "value": "原子矿融炮"
   },
   "/lotus/storeitems/weapons/grineer/pistols/voidtraderbrakk/vtbrakk": {
     "value": "Mara Brakk"
@@ -11740,7 +11740,7 @@
     "value": "Mk1-furis"
   },
   "/lotus/storeitems/weapons/mk1series/mk1kunai": {
-    "value": "Mk1-kunai"
+    "value": "Mk1-苦无"
   },
   "/lotus/storeitems/weapons/mk1series/mk1latron": {
     "value": "Mk1-拉特昂"
@@ -11749,10 +11749,10 @@
     "value": "Mk1-雷克斯"
   },
   "/lotus/storeitems/weapons/mk1series/mk1paris": {
-    "value": "Mk1-paris"
+    "value": "Mk1-帕里斯"
   },
   "/lotus/storeitems/weapons/mk1series/mk1skana": {
-    "value": "Mk1-skana"
+    "value": "Mk1-空刃"
   },
   "/lotus/storeitems/weapons/mk1series/mk1strun": {
     "value": "Mk1-斯特朗"
@@ -11761,10 +11761,10 @@
     "value": "Telos Akbolto"
   },
   "/lotus/storeitems/weapons/syndicates/cephalonsuda/pistols/csdroidarray": {
-    "value": "Gammacor"
+    "value": "咖玛腕甲枪"
   },
   "/lotus/storeitems/weapons/syndicates/cephalonsuda/pistols/cssynoidgammacor": {
-    "value": "Synoid Gammacor"
+    "value": "枢议咖玛腕甲枪"
   },
   "/lotus/storeitems/weapons/syndicates/newloka/pistols/nlcastanas": {
     "value": "Sancti Castanas"
@@ -11848,13 +11848,13 @@
     "value": "Daikyu"
   },
   "/lotus/storeitems/weapons/tenno/bows/huntingbow": {
-    "value": "Paris"
+    "value": "帕里斯"
   },
   "/lotus/storeitems/weapons/tenno/bows/primehuntingbow": {
-    "value": "Paris Prime"
+    "value": "帕里斯 Prime"
   },
   "/lotus/storeitems/weapons/tenno/bows/stalkerbow": {
-    "value": "Dread"
+    "value": "恐惧"
   },
   "/lotus/storeitems/weapons/tenno/longguns/dexthethird/dexthethird": {
     "value": "Dex Sybaris"
@@ -11896,7 +11896,7 @@
     "value": "Dual Zoren"
   },
   "/lotus/storeitems/weapons/tenno/melee/axe/dualinfestedaxesweapon": {
-    "value": "Dual Ichor"
+    "value": "恶脓双斧"
   },
   "/lotus/storeitems/weapons/tenno/melee/axe/primescindo/primescindoweapon": {
     "value": "Scindo Prime"
@@ -11944,13 +11944,13 @@
     "value": "烈焰双剑"
   },
   "/lotus/storeitems/weapons/tenno/melee/dualshortsword/dualshortsword": {
-    "value": "Dual Skana"
+    "value": "空刃双刀"
   },
   "/lotus/storeitems/weapons/tenno/melee/fist/fist": {
-    "value": "Furax"
+    "value": "弗拉克斯"
   },
   "/lotus/storeitems/weapons/tenno/melee/fist/furaxwraith": {
-    "value": "Furax Wraith"
+    "value": "弗拉克斯亡魂"
   },
   "/lotus/storeitems/weapons/tenno/melee/gauntlet/gauntlet": {
     "value": "Ankyros"
@@ -11977,19 +11977,19 @@
     "value": "Fragor"
   },
   "/lotus/storeitems/weapons/tenno/melee/hammer/icehammer/icehammer": {
-    "value": "Sibear"
+    "value": "西伯利亚冰锤"
   },
   "/lotus/storeitems/weapons/tenno/melee/longsword/ethersword": {
     "value": "Ether Sword"
   },
   "/lotus/storeitems/weapons/tenno/melee/longsword/longsword": {
-    "value": "Skana"
+    "value": "空刃"
   },
   "/lotus/storeitems/weapons/tenno/melee/longsword/skanaprime": {
     "value": "Skana Prime"
   },
   "/lotus/storeitems/weapons/tenno/melee/maces/paladinmace/paladinmaceweapon": {
-    "value": "Magistar"
+    "value": "执法者"
   },
   "/lotus/storeitems/weapons/tenno/melee/meleetrees/axecmbonemeleetree": {
     "value": "Rending Crane"
@@ -12118,7 +12118,7 @@
     "value": "Ether Reaper"
   },
   "/lotus/storeitems/weapons/tenno/melee/scythe/parisscythe/parisscythe": {
-    "value": "Anku"
+    "value": "夺魂死神"
   },
   "/lotus/storeitems/weapons/tenno/melee/scythe/reaperweapon": {
     "value": "Reaper Prime"
@@ -12130,7 +12130,7 @@
     "value": "Dual Raza"
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/basestaff": {
-    "value": "Bo"
+    "value": "玻之武杖"
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/grnstaff": {
     "value": "Amphis"
@@ -12139,16 +12139,16 @@
     "value": "Tipedo"
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/primebo/primeboweapon": {
-    "value": "Bo Prime"
+    "value": "玻之武杖 Prime"
   },
   "/lotus/storeitems/weapons/tenno/melee/staff/staff": {
-    "value": "Bo"
+    "value": "玻之武杖"
   },
   "/lotus/storeitems/weapons/tenno/melee/swords/cutlassandpoignard/cutlasspoignardswords": {
     "value": "Nami Skyla"
   },
   "/lotus/storeitems/weapons/tenno/melee/swords/cutlassandpoignard/tennocutlass": {
-    "value": "Nami Solo"
+    "value": "海波单剑"
   },
   "/lotus/storeitems/weapons/tenno/melee/swords/darksword/darklongsword": {
     "value": "Dark Sword"
@@ -12190,7 +12190,7 @@
     "value": "Kronen"
   },
   "/lotus/storeitems/weapons/tenno/pistol/autopistol": {
-    "value": "Furis"
+    "value": "盗贼"
   },
   "/lotus/storeitems/weapons/tenno/pistol/broncoprime": {
     "value": "野马 Prime"
@@ -12208,13 +12208,13 @@
     "value": "雷克斯"
   },
   "/lotus/storeitems/weapons/tenno/pistol/latoprime": {
-    "value": "Lato Prime"
+    "value": "拉托 Prime"
   },
   "/lotus/storeitems/weapons/tenno/pistol/latovandal": {
     "value": "Lato Vandal"
   },
   "/lotus/storeitems/weapons/tenno/pistol/pistol": {
-    "value": "Lato"
+    "value": "拉托"
   },
   "/lotus/storeitems/weapons/tenno/pistol/revolverpistol": {
     "value": "瓦斯托"
@@ -12223,10 +12223,10 @@
     "value": "Ballistica"
   },
   "/lotus/storeitems/weapons/tenno/pistols/conclaveleverpistol/conclaveleverpistol": {
-    "value": "Zylok"
+    "value": "席尔火枪"
   },
   "/lotus/storeitems/weapons/tenno/pistols/dexfuris/dexfuris": {
-    "value": "Dex Furis"
+    "value": "Dex盗贼双枪"
   },
   "/lotus/storeitems/weapons/tenno/pistols/harlequingun/harlequinpistols": {
     "value": "Akzani"
@@ -12271,7 +12271,7 @@
     "value": "伯斯顿"
   },
   "/lotus/storeitems/weapons/tenno/rifle/heavyrifle": {
-    "value": "Gorgon"
+    "value": "蛇发女妖"
   },
   "/lotus/storeitems/weapons/tenno/rifle/latronprime": {
     "value": "拉特昂 Prime"
@@ -12322,7 +12322,7 @@
     "value": "[Placeholder]"
   },
   "/lotus/storeitems/weapons/tenno/throwingweapons/kunai": {
-    "value": "Kunai"
+    "value": "苦无"
   },
   "/lotus/storeitems/weapons/tenno/throwingweapons/lidagger/lidagger": {
     "value": "[Placeholder]"
@@ -12331,7 +12331,7 @@
     "value": "Hikou Prime"
   },
   "/lotus/storeitems/weapons/tenno/throwingweapons/stalkerkunai": {
-    "value": "Despair"
+    "value": "绝望"
   },
   "/lotus/storeitems/weapons/tenno/throwingweapons/stickybomb/stickybombs": {
     "value": "Castanas"
@@ -12705,7 +12705,7 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyisolationbounties": {
     "desc": "在魔胎之境完成一次隔离库的赏金任务。",
-    "value": "在魔胎之境完成一次隔离库的赏金任务"
+    "value": "宝库强袭者"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
     "desc": "用 Archwing 枪械击杀 500 个敌人",
@@ -12716,8 +12716,8 @@
     "value": "这不是警告射击"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemiesinmech": {
-    "desc": "宝库强袭者",
-    "value": "Necralizer"
+    "desc": "用殁世机甲击杀 100 个敌人",
+    "value": "机甲崛起"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
     "desc": "击杀30名卓越者",
@@ -12808,7 +12808,7 @@
     "value": "扎里曼赏金猎人"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyhighground": {
-    "desc": "\"完成 3 场虚空洪流任务",
+    "desc": "完成 3 场虚空洪流任务",
     "value": "制高点"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackhijackdestroythree": {
@@ -13049,43 +13049,43 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies8": {
     "desc": "击杀500名敌人",
-    "value": "Not a Warning Shot VIII"
+    "value": "这不是警告射击 VIII"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions9": {
     "desc": "完成任意 15 项任务",
-    "value": "Mission Complete IX"
+    "value": "任务完成 IX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus9": {
     "desc": "击杀30名卓越者",
-    "value": "Eximus Eliminator IX"
+    "value": "卓越歼灭者 IX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies9": {
     "desc": "击杀500名敌人",
-    "value": "Not a Warning Shot IX"
+    "value": "这不是警告射击 IX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions10": {
     "desc": "完成任意 15 项任务",
-    "value": "Mission Complete X"
+    "value": "任务完成 X"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus10": {
     "desc": "击杀30名卓越者",
-    "value": "Eximus Eliminator X"
+    "value": "卓越歼灭者 X"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies10": {
     "desc": "击杀500名敌人",
-    "value": "Not a Warning Shot X"
+    "value": "这不是警告射击 X"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions11": {
     "desc": "完成任意 15 项任务",
-    "value": "Mission Complete XI"
+    "value": "任务完成 XI"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus11": {
     "desc": "击杀30名卓越者",
-    "value": "Eximus Eliminator XI"
+    "value": "卓越歼灭者 XI"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies11": {
     "desc": "击杀500名敌人",
-    "value": "Not a Warning Shot XI"
+    "value": "这不是警告射击 XI"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions12": {
     "desc": "完成任意 15 项任务",
@@ -13289,31 +13289,31 @@
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies28": {
     "desc": "击杀500名敌人",
-    "value": "Not a Warning Shot XXVIII"
+    "value": "这不是警告射击 XXVIII"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions29": {
     "desc": "完成任意 15 项任务",
-    "value": "Mission Complete XXIX"
+    "value": "任务完成 XXIX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus29": {
     "desc": "击杀30名卓越者",
-    "value": "Eximus Eliminator XXIX"
+    "value": "卓越歼灭者 XXIX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies29": {
     "desc": "击杀500名敌人",
-    "value": "Not a Warning Shot XXIX"
+    "value": "这不是警告射击 XXIX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions30": {
     "desc": "完成任意 15 项任务",
-    "value": "Mission Complete XXX"
+    "value": "任务完成 XXX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus30": {
     "desc": "击杀30名卓越者",
-    "value": "Eximus Eliminator XXX"
+    "value": "卓越歼灭者 XXX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies30": {
     "desc": "击杀500名敌人",
-    "value": "Not a Warning Shot XXX"
+    "value": "这不是警告射击 XXX"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "苦难"
@@ -17057,7 +17057,7 @@
     "value": "Paris Day of the Dead Skin"
   },
   "/lotus/upgrades/skins/halloween/halloweenregoraxeshield": {
-    "value": "Ack & Brunt Day of the Dead Skin"
+    "value": "认知&冲击 亡灵节 外观"
   },
   "/lotus/upgrades/skins/halloween/halloweensarpa": {
     "value": "Sarpa Day of the Dead Skin"
@@ -17441,7 +17441,7 @@
     "value": "Acrid"
   },
   "/lotus/weapons/clantech/bio/bioweapon": {
-    "value": "Torid"
+    "value": "托里德"
   },
   "/lotus/weapons/clantech/chemical/flamethrower": {
     "value": "Ignis"
@@ -17573,7 +17573,7 @@
     "value": "Staticor"
   },
   "/lotus/weapons/corpus/pistols/crphandrl/corpushandrocketlauncher": {
-    "value": "Angstrum"
+    "value": "安格斯壮"
   },
   "/lotus/weapons/corpus/pistols/crpsentamalgpistol/crpsentamalgpistol": {
     "value": "Cyanex"
@@ -17633,7 +17633,7 @@
     "value": "极速电磁步枪"
   },
   "/lotus/weapons/grineer/longguns/grineersawbladegun/sawbladegun": {
-    "value": "Miter"
+    "value": "米特尔"
   },
   "/lotus/weapons/grineer/longguns/grineersniperrifle/grnsniperrifle": {
     "value": "Vulkor"
@@ -17666,10 +17666,10 @@
     "value": "Argonak"
   },
   "/lotus/weapons/grineer/longguns/voidtradergorgon/vtgorgon": {
-    "value": "Prisma Gorgon"
+    "value": "棱晶蛇发女妖"
   },
   "/lotus/weapons/grineer/longguns/wraithgorgon/wraithgorgon": {
-    "value": "Gorgon Wraith"
+    "value": "蛇发女妖亡魂"
   },
   "/lotus/weapons/grineer/melee/grineerclaws/grnclaws": {
     "value": "Ripkas"
@@ -17696,7 +17696,7 @@
     "value": "Machete Wraith"
   },
   "/lotus/weapons/grineer/melee/grineertylaxeandboar/regoraxeshield": {
-    "value": "Ack & Brunt"
+    "value": "亡灵节"
   },
   "/lotus/weapons/grineer/melee/grineerwhip/grineerwhip": {
     "value": "Atterak"
@@ -17753,7 +17753,7 @@
     "value": "Stubba"
   },
   "/lotus/weapons/grineer/pistols/heatgun/grnheatgun": {
-    "value": "Atomos"
+    "value": "原子矿融炮"
   },
   "/lotus/weapons/grineer/pistols/wraithtwinvipers/wraithtwinvipers": {
     "value": "双子蝰蛇 亡魂"
@@ -17810,7 +17810,7 @@
     "value": "Pox"
   },
   "/lotus/weapons/infested/pistols/infvomitgun/infvomitgunwep": {
-    "value": "Dual Toxocyst"
+    "value": "毒囊双枪"
   },
   "/lotus/weapons/mk1series/mk1bo": {
     "value": "MK1-Bo"
@@ -17819,10 +17819,10 @@
     "value": "Mk1 布莱顿"
   },
   "/lotus/weapons/mk1series/mk1furax": {
-    "value": "MK1-Furax"
+    "value": "MK1-弗拉克斯"
   },
   "/lotus/weapons/mk1series/mk1furis": {
-    "value": "MK1-Furis"
+    "value": "MK1-盗贼"
   },
   "/lotus/weapons/mk1series/mk1kunai": {
     "value": "MK1-苦无"
@@ -17846,7 +17846,7 @@
     "value": "枢议赫利俄光锤"
   },
   "/lotus/weapons/syndicates/cephalonsuda/pistols/csdroidarray": {
-    "value": "Gammacor"
+    "value": "咖玛腕甲枪"
   },
   "/lotus/weapons/syndicates/cephalonsuda/pistols/cssynoidgammacor": {
     "value": "枢议咖玛腕甲枪"
@@ -17975,16 +17975,16 @@
     "value": "Daikyu"
   },
   "/lotus/weapons/tenno/bows/huntingbow": {
-    "value": "Paris"
+    "value": "帕里斯"
   },
   "/lotus/weapons/tenno/bows/primecernos/primecernos": {
     "value": "Cernos Prime"
   },
   "/lotus/weapons/tenno/bows/primehuntingbow": {
-    "value": "Paris Prime"
+    "value": "帕里斯 Prime"
   },
   "/lotus/weapons/tenno/bows/stalkerbow": {
-    "value": "Dread"
+    "value": "恐惧"
   },
   "/lotus/weapons/tenno/bows/valentinesconclavevariantbow": {
     "value": "Valentines Conclave Variant Bow"
@@ -18071,7 +18071,7 @@
     "value": "Dual Zoren"
   },
   "/lotus/weapons/tenno/melee/axe/dualinfestedaxesweapon": {
-    "value": "Dual Ichor"
+    "value": "恶脓双斧"
   },
   "/lotus/weapons/tenno/melee/axe/primescindo/primescindoweapon": {
     "value": "Scindo Prime"
@@ -18122,10 +18122,10 @@
     "value": "Dual Ether"
   },
   "/lotus/weapons/tenno/melee/fist/fist": {
-    "value": "Furax"
+    "value": "弗拉克斯"
   },
   "/lotus/weapons/tenno/melee/fist/furaxwraith": {
-    "value": "Furax Wraith"
+    "value": "弗拉克斯亡魂"
   },
   "/lotus/weapons/tenno/melee/gauntlet/brawlerknuckles/brawlerknuckles": {
     "value": "Tekko"
@@ -18164,19 +18164,19 @@
     "value": "Fragor"
   },
   "/lotus/weapons/tenno/melee/hammer/icehammer/icehammer": {
-    "value": "Sibear"
+    "value": "西伯利亚冰锤"
   },
   "/lotus/weapons/tenno/melee/longsword/ethersword": {
     "value": "Ether Sword"
   },
   "/lotus/weapons/tenno/melee/longsword/longsword": {
-    "value": "Skana"
+    "value": "空刃"
   },
   "/lotus/weapons/tenno/melee/longsword/skanaprime": {
     "value": "Skana Prime"
   },
   "/lotus/weapons/tenno/melee/maces/paladinmace/paladinmaceweapon": {
-    "value": "Magistar"
+    "value": "执法者"
   },
   "/lotus/weapons/tenno/melee/nunchaku/nunchaku/nunchaku": {
     "value": "Nonkondi"
@@ -18215,7 +18215,7 @@
     "value": "Ether Reaper"
   },
   "/lotus/weapons/tenno/melee/scythe/parisscythe/parisscythe": {
-    "value": "Anku"
+    "value": "夺魂死神"
   },
   "/lotus/weapons/tenno/melee/scythe/parisscythe/variantxmasscythe": {
     "value": "Variant Xmas Scythe"
@@ -18236,10 +18236,10 @@
     "value": "Tipedo"
   },
   "/lotus/weapons/tenno/melee/staff/primebo/primeboweapon": {
-    "value": "Bo Prime"
+    "value": "玻之武杖 Prime"
   },
   "/lotus/weapons/tenno/melee/staff/staff": {
-    "value": "Bo"
+    "value": "玻之武杖"
   },
   "/lotus/weapons/tenno/melee/sundialaxe/sundialaxeweapon": {
     "value": "Zenistar"
@@ -18248,7 +18248,7 @@
     "value": "Nami Skyla"
   },
   "/lotus/weapons/tenno/melee/swords/cutlassandpoignard/tennocutlass": {
-    "value": "Nami Solo"
+    "value": "海波单剑"
   },
   "/lotus/weapons/tenno/melee/swords/darksword/darklongsword": {
     "value": "Dark Sword"
@@ -18329,7 +18329,7 @@
     "value": "Kronen"
   },
   "/lotus/weapons/tenno/pistol/autopistol": {
-    "value": "Furis"
+    "value": "盗贼"
   },
   "/lotus/weapons/tenno/pistol/broncoprime": {
     "value": "野马 Prime"
@@ -18347,7 +18347,7 @@
     "value": "雷克斯"
   },
   "/lotus/weapons/tenno/pistol/latoprime": {
-    "value": "Lato Prime"
+    "value": "拉托 Prime"
   },
   "/lotus/weapons/tenno/pistol/latovandal": {
     "value": "Lato Vandal"
@@ -18368,7 +18368,7 @@
     "value": "Ballistica"
   },
   "/lotus/weapons/tenno/pistols/dexfuris/dexfuris": {
-    "value": "Dex Furis"
+    "value": "Dex盗贼双枪"
   },
   "/lotus/weapons/tenno/pistols/harlequingun/harlequinpistols": {
     "value": "Akzani"
@@ -18428,7 +18428,7 @@
     "value": "伯斯顿"
   },
   "/lotus/weapons/tenno/rifle/heavyrifle": {
-    "value": "Gorgon"
+    "value": "蛇发女妖"
   },
   "/lotus/weapons/tenno/rifle/latronprime": {
     "value": "拉特昂 Prime"
@@ -18479,7 +18479,7 @@
     "value": "齐射玻刃"
   },
   "/lotus/weapons/tenno/throwingweapons/kunai": {
-    "value": "Kunai"
+    "value": "苦无"
   },
   "/lotus/weapons/tenno/throwingweapons/lidagger/lidagger": {
     "value": "旋刃飞刀"
@@ -18491,7 +18491,7 @@
     "value": "Hikou Prime"
   },
   "/lotus/weapons/tenno/throwingweapons/stalkerkunai": {
-    "value": "Despair"
+    "value": "绝望"
   },
   "/lotus/weapons/tenno/throwingweapons/stickybomb/stickybombs": {
     "value": "Hikou"
