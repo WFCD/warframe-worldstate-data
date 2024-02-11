@@ -1,11 +1,13 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import eventsData from '../data/eventsData.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnkown = true;
 
 const eventsDataSchema = {
   definitions: {
@@ -70,6 +72,6 @@ describe('eventsData.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/eventsData.json').should.be.jsonSchema(eventsDataSchema);
+    eventsData.should.be.jsonSchema(eventsDataSchema);
   });
 });

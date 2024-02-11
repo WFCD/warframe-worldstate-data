@@ -3,30 +3,36 @@
   "version": "1.0.5",
   "description": "Warframe data for use with warframe-worldstate-parser",
   "main": "exports.js",
+  "type": "module",
+  "exports": {
+    ".": "./exports.js",
+    "./utilities": "./tools/utilities.js"
+  },
   "directories": {
     "test": "test"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "@types/chai": "^4.3.11",
+    "@types/chai-json-schema": "^1.4.9",
+    "c8": "^9.1.0",
+    "chai": "^5.0.3",
     "chai-json": "^1.0.0",
-    "chai-json-schema": "^1.5.1",
-    "coveralls": "^3.1.0",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2",
-    "mocha": "^10.2.0",
-    "nyc": "^15.1.0",
+    "chai-json-schema-ajv": "^5.2.4",
+    "coveralls": "^3.1.1",
+    "install-peerdeps": "^3.0.3",
+    "mocha": "^10.3.0",
     "precommit-hook": "^3.0.0",
-    "sinon": "^8.1.1",
-    "sinon-chai": "^3.4.0"
+    "sinon": "^17.0.1",
+    "sinon-chai": "^3.7.0"
   },
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "lint:fix": "eslint --ignore-path .gitignore . --fix",
-    "test": "nyc mocha",
-    "coverage": "npm test && nyc report --reporter=text-lcov | coveralls",
-    "sort": "python tools/sort_languages.py",
-    "validate": "npm run lint:fix && npm run test && git add -u ."
+    "test": "c8 mocha",
+    "coverage": "npm test && c8 report --reporter=text-lcov | coveralls",
+    "sort": "node tools/sort_languages.py",
+    "validate": "npm run lint:fix && npm run test && git add -u .",
+    "postinstall": "install-peerdeps @wfcd/eslint-config@^1.5.0 -S"
   },
   "repository": {
     "type": "git",
@@ -67,47 +73,34 @@
     "branch": "master"
   },
   "engines": {
-    "node": ">=8.17.0"
+    "node": ">=18.19.0"
   },
-  "eslintIgnore": [],
+  "eslintIgnore": [
+    ".github/**",
+    "docs/**",
+    "data/**"
+  ],
   "eslintConfig": {
-    "extends": "airbnb-base",
+    "extends": "@wfcd/eslint-config/esm",
+    "parser": "@babel/eslint-parser",
     "parserOptions": {
-      "sourceType": "script"
-    },
-    "rules": {
-      "valid-jsdoc": [
-        "error",
-        {
-          "requireReturn": false,
-          "requireReturnDescription": false,
-          "preferType": {
-            "String": "string",
-            "Number": "number",
-            "Boolean": "boolean",
-            "Function": "function",
-            "object": "Object",
-            "date": "Date",
-            "error": "Error"
-          },
-          "prefer": {
-            "return": "returns"
-          }
-        }
-      ],
-      "strict": [
-        "error",
-        "safe"
-      ],
-      "linebreak-style": "off",
-      "no-restricted-syntax": [
-        "off"
-      ],
-      "no-await-in-loop": "off",
-      "import/no-unresolved": 0
+      "sourceType": "module",
+      "ecmaVersion": 6,
+      "ecmaFeatures": {
+        "modules": true
+      }
     }
   },
-  "nyc": {
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-class-properties",
+      "@babel/plugin-proposal-private-methods"
+    ]
+  },
+  "c8": {
     "exclude": [
       "test/**"
     ],
@@ -117,7 +110,10 @@
     ],
     "skip-full": true
   },
-  "mocha": {},
+  "mocha": {
+    "spec": "test/**/*.spec.js"
+  },
+  "prettier": "@wfcd/eslint-config/prettier",
   "pre-commit": [
     "validate"
   ]

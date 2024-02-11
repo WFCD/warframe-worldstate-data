@@ -1,11 +1,13 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import fissureModifiers from '../data/fissureModifiers.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const fissureModifiersSchema = {
   definitions: {
@@ -29,6 +31,6 @@ describe('fissureModifiers.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/fissureModifiers.json').should.be.jsonSchema(fissureModifiersSchema);
+    fissureModifiers.should.be.jsonSchema(fissureModifiersSchema);
   });
 });

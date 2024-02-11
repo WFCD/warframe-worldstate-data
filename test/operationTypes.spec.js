@@ -1,10 +1,13 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
+import operationTypes from '../data/operationTypes.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const operationTypesSchema = {
   definitions: {
@@ -29,6 +32,6 @@ describe('operationTypes.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/operationTypes.json').should.be.jsonSchema(operationTypesSchema);
+    operationTypes.should.be.jsonSchema(operationTypesSchema);
   });
 });

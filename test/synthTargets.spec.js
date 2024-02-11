@@ -1,26 +1,19 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import synthTargets from '../data/synthTargets.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const synthTargetsSchema = {
   definitions: {
     enemy: {
       type: 'string',
-      enum: [
-        'Corpus',
-        'Corrupted',
-        'Crossfire',
-        'Grineer',
-        'Infested',
-        'Orokin',
-        'Sentient',
-        'Tenno',
-      ],
+      enum: ['Corpus', 'Corrupted', 'Crossfire', 'Grineer', 'Infested', 'Orokin', 'Sentient', 'Tenno'],
     },
     missionType: {
       type: 'string',
@@ -131,6 +124,6 @@ describe('synthTargets.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/synthTargets.json').should.be.jsonSchema(synthTargetsSchema);
+    synthTargets.should.be.jsonSchema(synthTargetsSchema);
   });
 });
