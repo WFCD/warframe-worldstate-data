@@ -122,14 +122,16 @@ export const conclaveMode = (key, dataOverride = 'en') =>
 export const conclaveCategory = (key, dataOverride = 'en') =>
   key in i18n(dataOverride).conclave.categories ? i18n(dataOverride).conclave.categories[key].value : key;
 
+const fissure = (key, dataOverride = 'en') =>
+  key in i18n(dataOverride).fissureModifiers ? i18n(dataOverride).fissureModifiers[key] : key;
+
 /**
  *
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} fissure modifier data
  */
-export const fissureModifier = (key, dataOverride = 'en') =>
-  key in i18n(dataOverride).fissureModifiers ? i18n(dataOverride).fissureModifiers[key].value : key;
+export const fissureModifier = (key, dataOverride = 'en') => fissure(key, dataOverride)?.value ?? key;
 
 /**
  *
@@ -137,8 +139,7 @@ export const fissureModifier = (key, dataOverride = 'en') =>
  * @param {string} dataOverride locale for use with translation
  * @returns {number | string} fissure tier
  */
-export const fissureTier = (key, dataOverride = 'en') =>
-  key in i18n(dataOverride).fissureModifiers ? i18n(dataOverride).fissureModifiers[key].num : key;
+export const fissureTier = (key, dataOverride = 'en') => fissure(key, dataOverride).num ?? key;
 
 /**
  *
@@ -156,13 +157,15 @@ export const syndicate = (key, dataOverride = 'en') => i18n(dataOverride).syndic
  */
 export const upgrade = (key, dataOverride = 'en') => i18n(dataOverride).upgradeTypes[key]?.value ?? key;
 
+const oppo = (key, dataOverride = 'en') => i18n(dataOverride).operationTypes[key];
+
 /**
  *
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} mathematical operation value
  */
-export const operation = (key, dataOverride = 'en') => i18n(dataOverride).operationTypes[key]?.value ?? key;
+export const operation = (key, dataOverride = 'en') => oppo(key, dataOverride)?.value ?? key;
 
 /**
  *
@@ -170,21 +173,23 @@ export const operation = (key, dataOverride = 'en') => i18n(dataOverride).operat
  * @param {string} dataOverride locale for use with translation
  * @returns {string} symbol of mathematical operation
  */
-export const operationSymbol = (key, dataOverride = 'en') => i18n(dataOverride).operationTypes[key]?.symbol ?? key;
+export const operationSymbol = (key, dataOverride = 'en') => oppo(key, dataOverride)?.symbol ?? key;
+
+const sortie = (key, dataOverride = 'en') => i18n(dataOverride).sortie.bosses[key];
 
 /**
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} sortie boss name
  */
-export const sortieBoss = (key, dataOverride = 'en') => i18n(dataOverride).sortie.bosses[key]?.name ?? key;
+export const sortieBoss = (key, dataOverride = 'en') => sortie(key, dataOverride)?.name ?? key;
 
 /**
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction for a sortie based on the boss
  */
-export const sortieFaction = (key, dataOverride = 'en') => i18n(dataOverride).sortie.bosses[key]?.faction ?? key;
+export const sortieFaction = (key, dataOverride = 'en') => sortie(key, dataOverride)?.faction ?? key;
 
 /**
  *
