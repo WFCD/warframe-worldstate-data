@@ -104,14 +104,15 @@ export const missionType = (key, dataOverride = 'en') => {
   return key in i18n(dataOverride).missionTypes ? i18n(dataOverride).missionTypes[key].value : keyBased;
 };
 
+const conclave = (key, thing, dataOverride = 'en') => keyInData('conclave', dataOverride)?.[thing]?.[key]?.value ?? key;
+
 /**
  *
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} conclave mode
  */
-export const conclaveMode = (key, dataOverride = 'en') =>
-  key in i18n(dataOverride).conclave.modes ? i18n(dataOverride).conclave.modes[key].value : key;
+export const conclaveMode = (key, dataOverride = 'en') => conclave(key, 'modes', dataOverride);
 
 /**
  *
@@ -119,11 +120,9 @@ export const conclaveMode = (key, dataOverride = 'en') =>
  * @param {string} dataOverride locale for use with translation
  * @returns {string} conclave category
  */
-export const conclaveCategory = (key, dataOverride = 'en') =>
-  key in i18n(dataOverride).conclave.categories ? i18n(dataOverride).conclave.categories[key].value : key;
+export const conclaveCategory = (key, dataOverride = 'en') => conclave(key, 'categories', dataOverride);
 
-const fissure = (key, dataOverride = 'en') =>
-  key in i18n(dataOverride).fissureModifiers ? i18n(dataOverride).fissureModifiers[key] : key;
+const fissure = (key, dataOverride = 'en') => keyInData('fissureModifiers', dataOverride)?.[key] ?? key;
 
 /**
  *
