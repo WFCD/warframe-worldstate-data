@@ -4,6 +4,14 @@ const epochZero = {
   },
 };
 
+const pieceIsSmoller = (seconds, ceiling, label, timePieces) => {
+  if (seconds >= ceiling) {
+    timePieces.push(`${Math.floor(seconds / ceiling)}${label}`);
+    seconds = Math.floor(seconds) % ceiling;
+  }
+  return { seconds, timePieces };
+};
+
 /**
  * @param   {number} millis The number of milliseconds in the time delta
  * @returns {string} formatted time delta
@@ -12,24 +20,19 @@ export const timeDeltaToString = (millis) => {
   if (typeof millis !== 'number') {
     throw new TypeError('millis should be a number');
   }
-  const timePieces = [];
+
+  let timePieces = [];
   const prefix = millis < 0 ? '-' : '';
   let seconds = Math.abs(millis / 1000);
 
   // Seconds in a day
-  if (seconds >= 86400) {
-    timePieces.push(`${Math.floor(seconds / 86400)}d`);
-    seconds = Math.floor(seconds) % 86400;
-  }
+  ({ seconds, timePieces } = pieceIsSmoller(seconds, 86400, 'd', timePieces));
+
   // Seconds in an hour
-  if (seconds >= 3600) {
-    timePieces.push(`${Math.floor(seconds / 3600)}h`);
-    seconds = Math.floor(seconds) % 3600;
-  }
-  if (seconds >= 60) {
-    timePieces.push(`${Math.floor(seconds / 60)}m`);
-    seconds = Math.floor(seconds) % 60;
-  }
+  ({ seconds, timePieces } = pieceIsSmoller(seconds, 3600, 'h', timePieces));
+
+  // Seconds in a minute
+  ({ seconds, timePieces } = pieceIsSmoller(seconds, 60, 'm', timePieces));
 
   /* istanbul ignore else */
   if (seconds >= 0) {
