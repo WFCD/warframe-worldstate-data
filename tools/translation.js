@@ -20,6 +20,8 @@ export const splitResourceName = (str) =>
     .filter(Boolean)
     .join(' ');
 
+export const lastResourceName = (str) => (typeof str === 'string' ? str.split('/').slice(-1)[0] : str);
+
 const i18n = (locale = 'en') => data[locale] || data;
 
 const keyInData = (key, dataOverride) => (key in i18n(dataOverride) ? i18n(dataOverride)[key] : key);
@@ -39,7 +41,7 @@ export const faction = (key, dataOverride = 'en') => keyInData('factions', dataO
  * @returns {string} node name
  */
 export const node = (key, dataOverride = 'en') =>
-  keyInData('solNodes', dataOverride)[key]?.value ?? key.split?.('/').slice(-1)[0] ?? key;
+  keyInData('solNodes', dataOverride)[key]?.value ?? lastResourceName(key) ?? key;
 
 /**
  *
@@ -48,7 +50,7 @@ export const node = (key, dataOverride = 'en') =>
  * @returns {string} mission type of the node
  */
 export const nodeMissionType = (key, dataOverride = 'en') =>
-  key in i18n(dataOverride).solNodes ? i18n(dataOverride).solNodes[key].type : key?.split?.('/').slice(-1)[0] ?? key;
+  keyInData('solNodes', dataOverride)[key]?.type ?? lastResourceName(key) ?? key;
 
 /**
  *
@@ -57,9 +59,7 @@ export const nodeMissionType = (key, dataOverride = 'en') =>
  * @returns {string} faction that controls the node
  */
 export const nodeEnemy = (key, dataOverride = 'en') => {
-  return key in i18n(dataOverride).solNodes
-    ? i18n(dataOverride).solNodes[key].enemy
-    : key?.split?.('/').slice(-1)[0] ?? key;
+  return key in i18n(dataOverride).solNodes ? i18n(dataOverride).solNodes[key].enemy : lastResourceName(key) ?? key;
 };
 
 /**
@@ -73,7 +73,7 @@ export const languageString = (key, dataOverride = 'en') => {
   return (
     keyInData('languages', dataOverride)[lowerKey]?.value ??
     keyInData('languages', dataOverride)[key]?.value ??
-    toTitleCase(splitResourceName(String(key).split('/').slice(-1)[0])) ??
+    toTitleCase(splitResourceName(lastResourceName(String(key)))) ??
     key
   );
 };
@@ -89,7 +89,7 @@ export const languageDesc = (key, dataOverride = 'en') => {
   return (
     i18n(dataOverride).languages[lowerKey]?.desc ??
     i18n(dataOverride).languages[key]?.desc ??
-    (key ? `[PH] ${toTitleCase(splitResourceName(String(key).split('/').slice(-1)[0]))} Desc` : key)
+    (key ? `[PH] ${toTitleCase(splitResourceName(lastResourceName(String(key))))} Desc` : key)
   );
 };
 
@@ -221,7 +221,7 @@ export const region = (key, dataOverride = 'en') => (key && i18n(dataOverride).p
  * @returns {string} - The conclave challenge name for the given key
  */
 export const conclaveChallenge = (key, dataOverride = 'en') => {
-  const splitKey = String(key).split('/').slice(-1)[0];
+  const splitKey = lastResourceName(String(key));
 
   if (i18n(dataOverride).conclave?.challenges?.[splitKey]) {
     return i18n(dataOverride).conclave.challenges[splitKey];
