@@ -22,18 +22,15 @@ export const splitResourceName = (str) =>
 
 const i18n = (locale = 'en') => data[locale] || data;
 
+const keyInData = (key, dataOverride) => (key in i18n(dataOverride) ? i18n(dataOverride)[key] : key);
+
 /**
  *
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction name
  */
-export function faction(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).factions) {
-    return i18n(dataOverride).factions[key].value;
-  }
-  return key;
-}
+export const faction = (key, dataOverride = 'en') => keyInData('factions', dataOverride)[key]?.value ?? key;
 
 /**
  *
@@ -41,15 +38,8 @@ export function faction(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} node name
  */
-export function node(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).solNodes) {
-    return i18n(dataOverride).solNodes[key].value;
-  }
-  if (key) {
-    return key.split('/').slice(-1)[0];
-  }
-  return key;
-}
+export const node = (key, dataOverride = 'en') =>
+  keyInData('solNodes', dataOverride)[key]?.value ?? key.split?.('/').slice(-1)[0] ?? key;
 
 /**
  *
@@ -57,15 +47,8 @@ export function node(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} mission type of the node
  */
-export function nodeMissionType(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).solNodes) {
-    return i18n(dataOverride).solNodes[key].type;
-  }
-  if (key) {
-    return key.split('/').slice(-1)[0];
-  }
-  return key;
-}
+export const nodeMissionType = (key, dataOverride = 'en') =>
+  key in i18n(dataOverride).solNodes ? i18n(dataOverride).solNodes[key].type : key?.split?.('/').slice(-1)[0] ?? key;
 
 /**
  *
@@ -73,15 +56,11 @@ export function nodeMissionType(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction that controls the node
  */
-export function nodeEnemy(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).solNodes) {
-    return i18n(dataOverride).solNodes[key].enemy;
-  }
-  if (key) {
-    return key.split('/').slice(-1)[0];
-  }
-  return key;
-}
+export const nodeEnemy = (key, dataOverride = 'en') => {
+  return key in i18n(dataOverride).solNodes
+    ? i18n(dataOverride).solNodes[key].enemy
+    : key?.split?.('/').slice(-1)[0] ?? key;
+};
 
 /**
  *
@@ -89,19 +68,15 @@ export function nodeEnemy(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} localization for language string
  */
-export function languageString(key, dataOverride = 'en') {
+export const languageString = (key, dataOverride = 'en') => {
   const lowerKey = String(key).toLowerCase();
-  if (lowerKey in i18n(dataOverride).languages) {
-    return i18n(dataOverride).languages[lowerKey].value;
-  }
-  if (key in i18n(dataOverride).languages) {
-    return i18n(dataOverride).languages[key].value;
-  }
-  if (key) {
-    return toTitleCase(splitResourceName(String(key).split('/').slice(-1)[0]));
-  }
-  return key;
-}
+  return (
+    keyInData('languages', dataOverride)[lowerKey]?.value ??
+    keyInData('languages', dataOverride)[key]?.value ??
+    toTitleCase(splitResourceName(String(key).split('/').slice(-1)[0])) ??
+    key
+  );
+};
 
 /**
  *
@@ -109,19 +84,14 @@ export function languageString(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} localization for language description
  */
-export function languageDesc(key, dataOverride = 'en') {
+export const languageDesc = (key, dataOverride = 'en') => {
   const lowerKey = String(key).toLowerCase();
-  if (lowerKey in i18n(dataOverride).languages) {
-    return i18n(dataOverride).languages[lowerKey].desc;
-  }
-  if (key in i18n(dataOverride).languages) {
-    return i18n(dataOverride).languages[key].desc;
-  }
-  if (key) {
-    return `[PH] ${toTitleCase(splitResourceName(String(key).split('/').slice(-1)[0]))} Desc`;
-  }
-  return key;
-}
+  return (
+    i18n(dataOverride).languages[lowerKey]?.desc ??
+    i18n(dataOverride).languages[key]?.desc ??
+    (key ? `[PH] ${toTitleCase(splitResourceName(String(key).split('/').slice(-1)[0]))} Desc` : key)
+  );
+};
 
 /**
  *
@@ -129,15 +99,10 @@ export function languageDesc(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} translation for mission type
  */
-export function missionType(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).missionTypes) {
-    return i18n(dataOverride).missionTypes[key].value;
-  }
-  if (key) {
-    return toTitleCase(key.replace(/^MT_/, ''));
-  }
-  return key;
-}
+export const missionType = (key, dataOverride = 'en') => {
+  const keyBased = key && typeof key === 'string' && toTitleCase((key ?? '').replace(/^MT_/, ''));
+  return key in i18n(dataOverride).missionTypes ? i18n(dataOverride).missionTypes[key].value : keyBased;
+};
 
 /**
  *
@@ -145,12 +110,8 @@ export function missionType(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} conclave mode
  */
-export function conclaveMode(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).conclave.modes) {
-    return i18n(dataOverride).conclave.modes[key].value;
-  }
-  return key;
-}
+export const conclaveMode = (key, dataOverride = 'en') =>
+  key in i18n(dataOverride).conclave.modes ? i18n(dataOverride).conclave.modes[key].value : key;
 
 /**
  *
@@ -158,12 +119,8 @@ export function conclaveMode(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} conclave category
  */
-export function conclaveCategory(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).conclave.categories) {
-    return i18n(dataOverride).conclave.categories[key].value;
-  }
-  return key;
-}
+export const conclaveCategory = (key, dataOverride = 'en') =>
+  key in i18n(dataOverride).conclave.categories ? i18n(dataOverride).conclave.categories[key].value : key;
 
 /**
  *
@@ -171,12 +128,8 @@ export function conclaveCategory(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} fissure modifier data
  */
-export function fissureModifier(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).fissureModifiers) {
-    return i18n(dataOverride).fissureModifiers[key].value;
-  }
-  return key;
-}
+export const fissureModifier = (key, dataOverride = 'en') =>
+  key in i18n(dataOverride).fissureModifiers ? i18n(dataOverride).fissureModifiers[key].value : key;
 
 /**
  *
@@ -184,12 +137,8 @@ export function fissureModifier(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {number | string} fissure tier
  */
-export function fissureTier(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).fissureModifiers) {
-    return i18n(dataOverride).fissureModifiers[key].num;
-  }
-  return key;
-}
+export const fissureTier = (key, dataOverride = 'en') =>
+  key in i18n(dataOverride).fissureModifiers ? i18n(dataOverride).fissureModifiers[key].num : key;
 
 /**
  *
@@ -197,12 +146,7 @@ export function fissureTier(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} syndicate name
  */
-export function syndicate(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).syndicates) {
-    return i18n(dataOverride).syndicates[key].name;
-  }
-  return key;
-}
+export const syndicate = (key, dataOverride = 'en') => i18n(dataOverride).syndicates[key]?.value ?? key;
 
 /**
  *
@@ -210,12 +154,7 @@ export function syndicate(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} upgrade type
  */
-export function upgrade(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).upgradeTypes) {
-    return i18n(dataOverride).upgradeTypes[key].value;
-  }
-  return key;
-}
+export const upgrade = (key, dataOverride = 'en') => i18n(dataOverride).upgradeTypes[key]?.value ?? key;
 
 /**
  *
@@ -223,12 +162,7 @@ export function upgrade(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} mathematical operation value
  */
-export function operation(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).operationTypes) {
-    return i18n(dataOverride).operationTypes[key].value;
-  }
-  return key;
-}
+export const operation = (key, dataOverride = 'en') => i18n(dataOverride).operationTypes[key]?.value ?? key;
 
 /**
  *
@@ -236,36 +170,21 @@ export function operation(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} symbol of mathematical operation
  */
-export function operationSymbol(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).operationTypes) {
-    return i18n(dataOverride).operationTypes[key].symbol;
-  }
-  return key;
-}
+export const operationSymbol = (key, dataOverride = 'en') => i18n(dataOverride).operationTypes[key]?.symbol ?? key;
 
 /**
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} sortie boss name
  */
-export function sortieBoss(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).sortie.bosses) {
-    return i18n(dataOverride).sortie.bosses[key].name;
-  }
-  return key;
-}
+export const sortieBoss = (key, dataOverride = 'en') => i18n(dataOverride).sortie.bosses[key]?.name ?? key;
 
 /**
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction for a sortie based on the boss
  */
-export function sortieFaction(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).sortie.bosses) {
-    return i18n(dataOverride).sortie.bosses[key].faction;
-  }
-  return key;
-}
+export const sortieFaction = (key, dataOverride = 'en') => i18n(dataOverride).sortie.bosses[key]?.faction ?? key;
 
 /**
  *
@@ -273,37 +192,22 @@ export function sortieFaction(key, dataOverride = 'en') {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} sortie modifier data
  */
-export function sortieModifier(key, dataOverride = 'en') {
-  if (key in i18n(dataOverride).sortie.modifierTypes) {
-    return i18n(dataOverride).sortie.modifierTypes[key];
-  }
-  return key;
-}
+export const sortieModifier = (key, dataOverride = 'en') => i18n(dataOverride).sortie.modifierTypes?.[key] ?? key;
 
 /**
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} sortie modifier description
  */
-export function sortieModDesc(key, dataOverride = 'en') {
-  if (i18n(dataOverride).sortie.modifierDescriptions && key in i18n(dataOverride).sortie.modifierDescriptions) {
-    return i18n(dataOverride).sortie.modifierDescriptions[key];
-  }
-  return key;
-}
+export const sortieModDesc = (key, dataOverride = 'en') => i18n(dataOverride).sortie.modifierDescriptions?.[key] ?? key;
 
 /**
  * Retrieve the localized region for a given key
- * @param {string} key - The region key
+ * @param {string | number} key - The region key
  * @param {string} dataOverride - The locale to use for translations
  * @returns {string} localized region name
  */
-export function region(key, dataOverride = 'en') {
-  if (key && i18n(dataOverride).persistentEnemy.regions[key]) {
-    return i18n(dataOverride).persistentEnemy.regions[key];
-  }
-  return key;
-}
+export const region = (key, dataOverride = 'en') => (key && i18n(dataOverride).persistentEnemy?.regions[key]) ?? key;
 
 /**
  * Retrieve conclave challenge name for the given key and locale
@@ -311,7 +215,7 @@ export function region(key, dataOverride = 'en') {
  * @param {string} dataOverride locale key override
  * @returns {string} - The conclave challenge name for the given key
  */
-export function conclaveChallenge(key, dataOverride = 'en') {
+export const conclaveChallenge = (key, dataOverride = 'en') => {
   const splitKey = String(key).split('/').slice(-1)[0];
 
   if (i18n(dataOverride).conclave?.challenges?.[splitKey]) {
@@ -322,47 +226,46 @@ export function conclaveChallenge(key, dataOverride = 'en') {
     description: toTitleCase(splitResourceName(splitKey)),
     standing: 0,
   };
-}
+};
 
 /**
  * Get the steel path data for given key
  * @param {string} dataOverride - The locale to use for translations
  * @returns {string} - The steel path data for the given key
  */
-export function steelPath(dataOverride) {
-  return (i18n(dataOverride) || /* istanbul ignore next */ data).steelPath;
-}
+export const steelPath = (dataOverride = 'en') => (i18n(dataOverride) || /* istanbul ignore next */ data).steelPath;
 
 /**
  * Translate the given focus school
  * @param {string} focus The focus school to translate
  * @returns {string} The translated focus school
  */
-export function translateFocus(focus = '') {
+export const translateFocus = (focus = '') => {
+  let val = 'None';
   if (focus.includes('Focus/Attack')) {
-    return 'Madurai';
+    val = 'Madurai';
   }
   if (focus.includes('Focus/Defense')) {
-    return 'Varazin';
+    val = 'Varazin';
   }
   if (focus.includes('Focus/Tactic')) {
-    return 'Naramon';
+    val = 'Naramon';
   }
   if (focus.includes('Focus/Power')) {
-    return 'Zenurik';
+    val = 'Zenurik';
   }
   if (focus.includes('Focus/Ward')) {
-    return 'Unairu';
+    val = 'Unairu';
   }
-  return 'None';
-}
+  return val;
+};
 
 /**
  * Translate the given polarity
  * @param {string?} pol The polarity to translate
  * @returns {string} The translated polarity
  */
-export function translatePolarity(pol = '') {
+export const translatePolarity = (pol = '') => {
   if (pol.includes('AP_ATTACK')) {
     return 'Madurai';
   }
@@ -379,7 +282,7 @@ export function translatePolarity(pol = '') {
     return 'Unairu';
   }
   return 'None';
-}
+};
 
 /**
  * An object containing functions to convert in-game names to their localizations
