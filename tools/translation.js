@@ -240,6 +240,13 @@ export const conclaveChallenge = (key, dataOverride = 'en') => {
  */
 export const steelPath = (dataOverride = 'en') => (i18n(dataOverride) || /* istanbul ignore next */ data).steelPath;
 
+const focusMap = {
+  'Focus/Attack': 'Madurai',
+  'Focus/Defense': 'Varazin',
+  'Focus/Tactic': 'Naramon',
+  'Focus/Power': 'Zenurik',
+  'Focus/Ward': 'Unairu',
+};
 /**
  * Translate the given focus school
  * @param {string} focus The focus school to translate
@@ -247,22 +254,20 @@ export const steelPath = (dataOverride = 'en') => (i18n(dataOverride) || /* ista
  */
 export const translateFocus = (focus = '') => {
   let val = 'None';
-  if (focus.includes('Focus/Attack')) {
-    val = 'Madurai';
-  }
-  if (focus.includes('Focus/Defense')) {
-    val = 'Varazin';
-  }
-  if (focus.includes('Focus/Tactic')) {
-    val = 'Naramon';
-  }
-  if (focus.includes('Focus/Power')) {
-    val = 'Zenurik';
-  }
-  if (focus.includes('Focus/Ward')) {
-    val = 'Unairu';
-  }
+  Object.keys(focusMap).forEach((key) => {
+    if (focus.includes(key)) {
+      val = focusMap[key];
+    }
+  });
   return val;
+};
+
+const polarityMap = {
+  AP_ATTACK: 'Madurai',
+  AP_DEFENSE: 'Varazin',
+  AP_TACTIC: 'Naramon',
+  AP_POWER: 'Zenurik',
+  AP_WARD: 'Unairu',
 };
 
 /**
@@ -272,21 +277,11 @@ export const translateFocus = (focus = '') => {
  */
 export const translatePolarity = (pol = '') => {
   let val = 'None';
-  if (pol.includes('AP_ATTACK')) {
-    val = 'Madurai';
-  }
-  if (pol.includes('AP_DEFENSE')) {
-    val = 'Varazin';
-  }
-  if (pol.includes('AP_TACTIC')) {
-    val = 'Naramon';
-  }
-  if (pol.includes('AP_POWER')) {
-    val = 'Zenurik';
-  }
-  if (pol.includes('AP_WARD')) {
-    val = 'Unairu';
-  }
+  Object.keys(polarityMap).forEach((key) => {
+    if (pol.includes(key)) {
+      val = polarityMap[key];
+    }
+  });
   return val;
 };
 
