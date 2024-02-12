@@ -271,22 +271,23 @@ export const translateFocus = (focus = '') => {
  * @returns {string} The translated polarity
  */
 export const translatePolarity = (pol = '') => {
+  let val = 'None';
   if (pol.includes('AP_ATTACK')) {
-    return 'Madurai';
+    val = 'Madurai';
   }
   if (pol.includes('AP_DEFENSE')) {
-    return 'Varazin';
+    val = 'Varazin';
   }
   if (pol.includes('AP_TACTIC')) {
-    return 'Naramon';
+    val = 'Naramon';
   }
   if (pol.includes('AP_POWER')) {
-    return 'Zenurik';
+    val = 'Zenurik';
   }
   if (pol.includes('AP_WARD')) {
-    return 'Unairu';
+    val = 'Unairu';
   }
-  return 'None';
+  return val;
 };
 
 /**
