@@ -1,21 +1,19 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import arcanes from '../data/arcanes.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const arcanesSchema = {
   definitions: {
     rarity: {
       type: 'string',
-      enum: [
-        'Common',
-        'Uncommon',
-        'Rare',
-      ],
+      enum: ['Common', 'Uncommon', 'Rare'],
     },
   },
   type: 'array',
@@ -30,15 +28,7 @@ const arcanesSchema = {
       thumbnail: { type: 'string', foramt: 'uri' },
       info: { type: 'string', format: 'uri' },
     },
-    required: [
-      'regex',
-      'name',
-      'effect',
-      'rarity',
-      'location',
-      'thumbnail',
-      'info',
-    ],
+    required: ['regex', 'name', 'effect', 'rarity', 'location', 'thumbnail', 'info'],
   },
 };
 
@@ -48,6 +38,6 @@ describe('arcanes.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/arcanes.json').should.be.jsonSchema(arcanesSchema);
+    arcanes.should.be.jsonSchema(arcanesSchema);
   });
 });

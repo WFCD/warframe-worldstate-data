@@ -1,6 +1,4 @@
-'use strict';
-
-const safeRequire = require('./safeRequire');
+import safeImport from './safeImport.js';
 
 const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr', 'uk'];
 
@@ -37,6 +35,19 @@ const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr
  */
 
 /**
+ * Steel Path Offering
+ * @typedef {Object} SteelPathOffering
+ * @property {string} name The item being offered
+ * @property {string} cost The cost of the item
+ */
+/**
+ * Steel Path
+ * @typedef {Object} SteelPath
+ * @property {Array<SteelPathOffering>} rotation A list of offerings for the Steel Path
+ * @property {Array<SteelPathOffering>} evergreen Constantly available list of items
+ */
+
+/**
  * Bundles all the data for a particular language
  * @typedef {Object} WorldstateLangBundle
  * @property {Arcane[]} arcanes Deprecated: Array of arcane data
@@ -57,70 +68,75 @@ const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr
  * @property {Object} upgradeTypes Global upgrade types that are modified by #operationTypes
  * @property {Array<SynthesisTarget>} synthTargets Synthesis target data for
  *  optimal locations to find targets.
+ * @property {Object<string, Record<'name', string>>} syndicates Syndicate data
+ * @property {SteelPath} steelPath Steel Path mission type translations
  */
 
-/* eslint-disable global-require */
-/**
- * English United States translations bundle,
- *  default translations
- * @type {WorldstateLangBundle}
- */
-const enUS = {
-  arcanes: require('./data/arcanes.json'),
-  conclave: require('./data/conclaveData.json'),
-  events: require('./data/eventsData.json'),
-  factions: require('./data/factionsData.json'),
-  fissureModifiers: require('./data/fissureModifiers.json'),
-  languages: require('./data/languages.json'),
-  missionTypes: require('./data/missionTypes.json'),
-  operationTypes: require('./data/operationTypes.json'),
-  persistentEnemy: require('./data/persistentEnemyData.json'),
-  solNodes: require('./data/solNodes.json'),
-  sortie: require('./data/sortieData.json'),
-  syndicates: require('./data/syndicatesData.json'),
-  tutorials: require('./data/tutorials.json'),
-  upgradeTypes: require('./data/upgradeTypes.json'),
-  synthTargets: require('./data/synthTargets.json'),
-  steelPath: require('./data/steelPath.json'),
-};
-/* eslint-enable global-require */
-
-const bundle = {
+const makeBundle = async () => {
   /**
-   * English United States translations
+   * English United States translations bundle,
+   *  default translations
    * @type {WorldstateLangBundle}
    */
-  en_US: enUS,
-  en: enUS,
-  ...enUS,
-  locales,
-};
-
-locales.forEach((locale) => {
-  /**
-   * Translations bundle for $locale
-   * @type {WorldstateLangBundle}
-   */
-  bundle[locale] = {
-    arcanes: safeRequire(`./data/${locale}/arcanes.json`, []),
-    conclave: safeRequire(`./data/${locale}/conclaveData.json`, {}),
-    events: safeRequire(`./data/${locale}/eventsData.json`, {}),
-    factions: safeRequire(`./data/${locale}/factionsData.json`, {}),
-    fissureModifiers: safeRequire(`./data/${locale}/fissureModifiers.json`, {}),
-    languages: safeRequire(`./data/${locale}/languages.json`, {}),
-    missionTypes: safeRequire(`./data/${locale}/missionTypes.json`, {}),
-    operationTypes: safeRequire(`./data/${locale}/operationTypes.json`, {}),
-    persistentEnemy: safeRequire(`./data/${locale}/persistentEnemyData.json`, {}),
-    solNodes: safeRequire(`./data/${locale}/solNodes.json`, []),
-    sortie: safeRequire(`./data/${locale}/sortieData.json`, []),
-    syndicates: safeRequire(`./data/${locale}/syndicatesData.json`, []),
-    tutorials: safeRequire(`./data/${locale}/tutorials.json`, []),
-    upgradeTypes: safeRequire(`./data/${locale}/upgradeTypes.json`, []),
-    synthTargets: safeRequire(`./data/${locale}/synthTargets.json`, []),
-    steelPath: safeRequire(`./data/${locale}/steelPath.json`, []),
+  const enUS = {
+    arcanes: await safeImport('./data/arcanes.json'),
+    conclave: await safeImport('./data/conclaveData.json'),
+    events: await safeImport('./data/eventsData.json'),
+    factions: await safeImport('./data/factionsData.json'),
+    fissureModifiers: await safeImport('./data/fissureModifiers.json'),
+    languages: await safeImport('./data/languages.json'),
+    missionTypes: await safeImport('./data/missionTypes.json'),
+    operationTypes: await safeImport('./data/operationTypes.json'),
+    persistentEnemy: await safeImport('./data/persistentEnemyData.json'),
+    solNodes: await safeImport('./data/solNodes.json'),
+    sortie: await safeImport('./data/sortieData.json'),
+    syndicates: await safeImport('./data/syndicatesData.json'),
+    tutorials: await safeImport('./data/tutorials.json'),
+    upgradeTypes: await safeImport('./data/upgradeTypes.json'),
+    synthTargets: await safeImport('./data/synthTargets.json'),
+    steelPath: await safeImport('./data/steelPath.json'),
   };
-});
+  /* eslint-enable global-require */
 
-locales.push('en');
+  const bundle = {
+    /**
+     * English United States translations
+     * @type {WorldstateLangBundle}
+     */
+    en_US: enUS,
+    en: enUS,
+    ...enUS,
+    locales,
+  };
 
-module.exports = bundle;
+  // eslint-disable-next-line no-restricted-syntax
+  for await (const locale of locales) {
+    /**
+     * Translations bundle for $locale
+     * @type {WorldstateLangBundle}
+     */
+    bundle[locale] = {
+      arcanes: await safeImport(`./data/${locale}/arcanes.json`, enUS.arcanes),
+      conclave: await safeImport(`./data/${locale}/conclaveData.json`, enUS.conclave),
+      events: await safeImport(`./data/${locale}/eventsData.json`, enUS.events),
+      factions: await safeImport(`./data/${locale}/factionsData.json`, enUS.factions),
+      fissureModifiers: await safeImport(`./data/${locale}/fissureModifiers.json`, enUS.fissureModifiers),
+      languages: await safeImport(`./data/${locale}/languages.json`, enUS.languages),
+      missionTypes: await safeImport(`./data/${locale}/missionTypes.json`, enUS.missionTypes),
+      operationTypes: await safeImport(`./data/${locale}/operationTypes.json`, enUS.operationTypes),
+      persistentEnemy: await safeImport(`./data/${locale}/persistentEnemyData.json`, enUS.persistentEnemy),
+      solNodes: await safeImport(`./data/${locale}/solNodes.json`, enUS.solNodes),
+      sortie: await safeImport(`./data/${locale}/sortieData.json`, enUS.sortie),
+      syndicates: await safeImport(`./data/${locale}/syndicatesData.json`, enUS.syndicates),
+      tutorials: await safeImport(`./data/${locale}/tutorials.json`, enUS.tutorials),
+      upgradeTypes: await safeImport(`./data/${locale}/upgradeTypes.json`, enUS.upgradeTypes),
+      synthTargets: await safeImport(`./data/${locale}/synthTargets.json`, enUS.synthTargets),
+      steelPath: await safeImport(`./data/${locale}/steelPath.json`, enUS.steelPath),
+    };
+  }
+
+  locales.push('en');
+  return bundle;
+};
+
+export default await makeBundle();

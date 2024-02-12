@@ -1,11 +1,13 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import syndicatesData from '../data/syndicatesData.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const syndicatesDataSchema = {
   type: 'object',
@@ -26,6 +28,6 @@ describe('syndicatesData.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/syndicatesData.json').should.be.jsonSchema(syndicatesDataSchema);
+    syndicatesData.should.be.jsonSchema(syndicatesDataSchema);
   });
 });

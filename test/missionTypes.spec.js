@@ -1,11 +1,13 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import missionTypes from '../data/missionTypes.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const missionTypesSchema = {
   definitions: {
@@ -29,6 +31,6 @@ describe('missionTypes.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/missionTypes.json').should.be.jsonSchema(missionTypesSchema);
+    missionTypes.should.be.jsonSchema(missionTypesSchema);
   });
 });

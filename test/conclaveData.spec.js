@@ -1,11 +1,13 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import conclaveData from '../data/conclaveData.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const conclaveDataSchema = {
   definitions: {
@@ -74,6 +76,6 @@ describe('conclaveData.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/conclaveData.json').should.be.jsonSchema(conclaveDataSchema);
+    conclaveData.should.be.jsonSchema(conclaveDataSchema);
   });
 });

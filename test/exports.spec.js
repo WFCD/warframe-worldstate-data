@@ -1,16 +1,16 @@
-'use strict';
+import * as chai from 'chai';
+import sinonChai from 'sinon-chai';
+import sinon from 'sinon';
 
-/* eslint-disable no-console */
-const chai = require('chai');
-const sinonChai = require('sinon-chai');
-const sinon = require('sinon');
-
-const wsData = require('../exports');
+import safeImport from '../safeImport.js';
+import wsData from '../exports.js';
 
 chai.should();
 chai.use(sinonChai);
 
-describe('safeRequire', () => {
+const { expect } = chai;
+
+describe('safeImport', () => {
   beforeEach(() => {
     sinon.spy(console, 'debug');
   });
@@ -20,25 +20,22 @@ describe('safeRequire', () => {
     delete process.env.LOG_LEVEL;
   });
 
-  it('should log if debug is provided and no file exists', () => {
+  it('should log if debug is provided and no file exists', async () => {
     process.env.LOG_LEVEL = 'DEBUG';
-    const safeRequire = require('../safeRequire');
-    safeRequire('poop.js');
+    await safeImport('poop.js');
     // check that console.debug was called
     console.debug.should.have.been.called;
   });
 
-  it('should not log if debug is non-existant and no file exists', () => {
-    const safeRequire = require('../safeRequire');
-    safeRequire('poop.js');
+  it('should not log if debug is non-existant and no file exists', async () => {
+    await safeImport('poop.js');
     // check that console.debug was called
     console.debug.should.not.have.been.called;
   });
 
-  it('should not log if log level is error and no file exists', () => {
+  it('should not log if log level is error and no file exists', async () => {
     process.env.LOG_LEVEL = 'ERROR';
-    const safeRequire = require('../safeRequire');
-    safeRequire('poop.js');
+    await safeImport('poop.js');
     // check that console.debug was called
     console.debug.should.not.have.been.called;
   });
@@ -51,66 +48,79 @@ describe('Worldstate Data', () => {
 
   it('should have conclave data', () => {
     wsData.should.have.property('conclave');
-    wsData.conclave.should.not.be.empty;
+    expect(wsData.conclave).to.exist;
+    expect(wsData.conclave).to.not.be.empty;
   });
 
   it('should have events data', () => {
     wsData.should.have.property('events');
-    wsData.events.should.not.be.empty;
+    expect(wsData.events).to.exist;
+    expect(wsData.events).to.not.be.empty;
   });
 
   it('should have factions data', () => {
     wsData.should.have.property('factions');
-    wsData.factions.should.not.be.empty;
+    expect(wsData.factions).to.exist;
+    expect(wsData.factions).to.not.be.empty;
   });
 
   it('should have fissureModifiers data', () => {
     wsData.should.have.property('fissureModifiers');
-    wsData.fissureModifiers.should.not.be.empty;
+    expect(wsData.fissureModifiers).to.exist;
+    expect(wsData.fissureModifiers).to.not.be.empty;
   });
 
   it('should have languages data', () => {
     wsData.should.have.property('languages');
-    wsData.languages.should.not.be.empty;
+    expect(wsData.languages).to.exist;
+    expect(wsData.languages).to.not.be.empty;
   });
 
   it('should have missionTypes data', () => {
     wsData.should.have.property('missionTypes');
-    wsData.missionTypes.should.not.be.empty;
+    expect(wsData.missionTypes).to.exist;
+    expect(wsData.missionTypes).to.not.be.empty;
   });
 
   it('should have operationTypes data', () => {
     wsData.should.have.property('operationTypes');
-    wsData.operationTypes.should.not.be.empty;
+    expect(wsData.operationTypes).to.exist;
+    expect(wsData.operationTypes).to.not.be.empty;
   });
 
   it('should have persistentEnemy data', () => {
     wsData.should.have.property('persistentEnemy');
-    wsData.persistentEnemy.should.not.be.empty;
+    expect(wsData.persistentEnemy).to.exist;
+    expect(wsData.persistentEnemy).to.not.be.empty;
   });
 
   it('should have solNodes data', () => {
     wsData.should.have.property('solNodes');
-    wsData.solNodes.should.not.be.empty;
+    expect(wsData.solNodes).to.exist;
+    expect(wsData.solNodes).to.not.be.empty;
   });
 
   it('should have sortie data', () => {
     wsData.should.have.property('arcanes');
-    wsData.sortie.should.not.be.empty;
+    expect(wsData.sortie).to.exist;
+    expect(wsData.sortie).to.not.be.empty;
   });
 
   it('should have syndicates data', () => {
     wsData.should.have.property('syndicates');
-    wsData.syndicates.should.not.be.empty;
+    expect(wsData.syndicates).to.exist;
+    expect(wsData.syndicates).to.not.be.empty;
   });
 
   it('should have tutorials data', () => {
     wsData.should.have.property('tutorials');
-    wsData.tutorials.should.not.be.empty;
+    expect(wsData.tutorials).to.exist;
+    expect(wsData.tutorials).to.not.be.empty;
   });
 
   it('should have upgradeTypes data', () => {
     wsData.should.have.property('upgradeTypes');
-    wsData.upgradeTypes.should.not.be.empty;
+    expect(wsData.upgradeTypes).to.exist;
+    expect(wsData.upgradeTypes).to.not.be.empty;
   });
 });

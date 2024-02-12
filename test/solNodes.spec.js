@@ -1,26 +1,19 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import solNodes from '../data/solNodes.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const solNodesSchema = {
   definitions: {
     solNodeEnemy: {
       type: 'string',
-      enum: [
-        'Corpus',
-        'Corrupted',
-        'Crossfire',
-        'Grineer',
-        'Infested',
-        'Orokin',
-        'Sentient',
-        'Tenno',
-      ],
+      enum: ['Corpus', 'Corrupted', 'Crossfire', 'Grineer', 'Infested', 'Orokin', 'Sentient', 'Tenno'],
     },
     solNodeType: {
       type: 'string',
@@ -86,6 +79,6 @@ describe('solNodes.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/solNodes.json').should.be.jsonSchema(solNodesSchema);
+    solNodes.should.be.jsonSchema(solNodesSchema);
   });
 });

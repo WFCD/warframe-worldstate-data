@@ -1,13 +1,16 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import languages from '../data/languages.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
+const { expect } = chai;
 
-const syndicates = Object.keys(require('../data/syndicatesData.json'));
+const syndicates = Object.keys(await import('../data/syndicatesData.json', { assert: { type: 'json' } }));
 
 const languagesSchema = {
   definitions: {
@@ -23,14 +26,17 @@ const languagesSchema = {
   type: 'object',
   patternProperties: {},
 };
-languagesSchema.patternProperties[`^/ee|^/lotus|^/Lotus|${syndicates.join('|')}|^[0-9a-z]+$`] = { $ref: '#/definitions/language' };
+languagesSchema.patternProperties[`^/ee|^/lotus|^/Lotus|${syndicates.join('|')}|^[0-9a-z]+$`] = {
+  $ref: '#/definitions/language',
+};
 
 describe('languages.json', () => {
   it('should be a valid JSON file', () => {
-    './data/languages.json'.should.be.a.jsonFile();
+    expect('./data/languages.json').to.be.a.jsonFile();
   });
 
   it('should adhere to the schema', () => {
-    require('../data/languages.json').should.be.jsonSchema(languagesSchema);
+    expect(languages).to.be.jsonSchema(languagesSchema);
+    expect(languages['/ee/types/engine/mover']).to.eql({ value: 'Mover' });
   });
 });

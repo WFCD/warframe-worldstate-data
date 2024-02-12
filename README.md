@@ -24,11 +24,17 @@ npm i -S git://github.com/wfcd/warframe-worldstate-data.git
 ## Usage
 
 ```javascript
-const worldstateData = require('warframe-worldstate-data');
+import worldstateData from 'warframe-worldstate-data';
 const nodes = worldstateData.solNodes;
 
 const erpo = nodes['SolNode903'];
 const {enemy, value, type} = erpo;
+```
+
+### Utilities
+```javascript
+import utilities from 'warframe-worldstate-data/utilities';
+const {getLanguage} = utilities;
 ```
 
 ## Available data and formatting

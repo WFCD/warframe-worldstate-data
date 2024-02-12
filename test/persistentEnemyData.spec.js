@@ -1,11 +1,13 @@
-'use strict';
+import * as chai from 'chai';
+import chaiJson from 'chai-json';
+import chaiJsonSchema from 'chai-json-schema-ajv';
 
-const chai = require('chai');
-chai.use(require('chai-json'));
-chai.use(require('chai-json-schema'));
+import persistentEnemyData from '../data/persistentEnemyData.json' assert { type: 'json' };
+
+chai.use(chaiJson);
+chai.use(chaiJsonSchema);
 
 chai.should();
-chai.tv4.banUnknown = true;
 
 const persistentEnemyDataSchema = {
   definitions: {
@@ -26,6 +28,6 @@ describe('persistentEnemyData.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    require('../data/persistentEnemyData.json').should.be.jsonSchema(persistentEnemyDataSchema);
+    persistentEnemyData.should.be.jsonSchema(persistentEnemyDataSchema);
   });
 });
