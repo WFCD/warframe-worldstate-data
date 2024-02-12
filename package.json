@@ -116,5 +116,10 @@
   "prettier": "@wfcd/eslint-config/prettier",
   "pre-commit": [
     "validate"
-  ]
+  ],
+  "overrides": {
+    "sinon-chai": {
+      "chai": "^5.0.3"
+    }
+  }
 }
