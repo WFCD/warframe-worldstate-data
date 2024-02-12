@@ -239,6 +239,16 @@ export const conclaveChallenge = (key, dataOverride = 'en') => {
  */
 export const steelPath = (dataOverride = 'en') => (i18n(dataOverride) || /* istanbul ignore next */ data).steelPath;
 
+const valMapping = (key, map) => {
+  let val = 'None';
+  Object.keys(map).forEach((k) => {
+    if (key.includes(k)) {
+      val = map[k];
+    }
+  });
+  return val;
+};
+
 const focusMap = {
   'Focus/Attack': 'Madurai',
   'Focus/Defense': 'Varazin',
@@ -251,15 +261,7 @@ const focusMap = {
  * @param {string} focus The focus school to translate
  * @returns {string} The translated focus school
  */
-export const translateFocus = (focus = '') => {
-  let val = 'None';
-  Object.keys(focusMap).forEach((key) => {
-    if (focus.includes(key)) {
-      val = focusMap[key];
-    }
-  });
-  return val;
-};
+export const translateFocus = (focus = '') => valMapping(focus, focusMap);
 
 const polarityMap = {
   AP_ATTACK: 'Madurai',
@@ -274,15 +276,7 @@ const polarityMap = {
  * @param {string?} pol The polarity to translate
  * @returns {string} The translated polarity
  */
-export const translatePolarity = (pol = '') => {
-  let val = 'None';
-  Object.keys(polarityMap).forEach((key) => {
-    if (pol.includes(key)) {
-      val = polarityMap[key];
-    }
-  });
-  return val;
-};
+export const translatePolarity = (pol = '') => valMapping(pol, polarityMap);
 
 /**
  * An object containing functions to convert in-game names to their localizations
