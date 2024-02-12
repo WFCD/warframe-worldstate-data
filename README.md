@@ -34,7 +34,7 @@ const {enemy, value, type} = erpo;
 ### Utilities
 ```javascript
 import utilities from 'warframe-worldstate-data/utilities';
-const {getLanguage} = utilities;
+const { getLanguage } = utilities;
 ```
 
 ## Available data and formatting
