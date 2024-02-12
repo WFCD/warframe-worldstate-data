@@ -20,7 +20,7 @@ export const splitResourceName = (str) =>
     .filter(Boolean)
     .join(' ');
 
-export const lastResourceName = (str) => (typeof str === 'string' ? str.split('/').slice(-1)[0] : str);
+export const lastResourceName = (str) => (typeof str === 'string' ? str.split?.('/').slice?.(-1)[0] : str);
 
 const i18n = (locale = 'en') => data[locale] || data;
 
