@@ -34,14 +34,16 @@ const keyInData = (key, dataOverride) => (key in i18n(dataOverride) ? i18n(dataO
  */
 export const faction = (key, dataOverride = 'en') => keyInData('factions', dataOverride)[key]?.value ?? key;
 
+const solNode = (key, thing, dataOverride = 'en') =>
+  keyInData('solNodes', dataOverride)?.[key]?.[thing] ?? lastResourceName(key) ?? key;
+
 /**
  *
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} node name
  */
-export const node = (key, dataOverride = 'en') =>
-  keyInData('solNodes', dataOverride)[key]?.value ?? lastResourceName(key) ?? key;
+export const node = (key, dataOverride = 'en') => solNode(key, 'value', dataOverride);
 
 /**
  *
@@ -49,9 +51,7 @@ export const node = (key, dataOverride = 'en') =>
  * @param {string} dataOverride locale for use with translation
  * @returns {string} mission type of the node
  */
-export const nodeMissionType = (key, dataOverride = 'en') =>
-  keyInData('solNodes', dataOverride)[key]?.type ?? lastResourceName(key) ?? key;
-
+export const nodeMissionType = (key, dataOverride = 'en') => solNode(key, 'type', dataOverride);
 /**
  *
  * @param {string} key - The data key
