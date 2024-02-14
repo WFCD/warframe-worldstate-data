@@ -20,7 +20,7 @@ export const splitResourceName = (str) =>
     .filter(Boolean)
     .join(' ');
 
-export const lastResourceName = (str) => (typeof str === 'string' ? str.split?.('/').slice?.(-1)[0] : str);
+export const lastResourceName = (str) => (typeof str === 'string' ? str.split?.('/').reverse()[0] : str);
 
 const i18n = (locale = 'en') => data[locale] || data;
 
@@ -73,8 +73,7 @@ export const languageString = (key, dataOverride = 'en') => {
   return (
     keyInData('languages', dataOverride)[lowerKey]?.value ??
     keyInData('languages', dataOverride)[key]?.value ??
-    toTitleCase(splitResourceName(lastResourceName(String(key)))) ??
-    key
+    (key ? toTitleCase(splitResourceName(lastResourceName(String(key)))) : key)
   );
 };
 
@@ -146,7 +145,7 @@ export const fissureTier = (key, dataOverride = 'en') => fissure(key, dataOverri
  * @param {string} dataOverride locale for use with translation
  * @returns {string} syndicate name
  */
-export const syndicate = (key, dataOverride = 'en') => i18n(dataOverride).syndicates[key]?.value ?? key;
+export const syndicate = (key, dataOverride = 'en') => i18n(dataOverride).syndicates[key]?.name ?? key;
 
 /**
  *
@@ -217,7 +216,11 @@ export const region = (key, dataOverride = 'en') => (key && i18n(dataOverride).p
  * Retrieve conclave challenge name for the given key and locale
  * @param {string} key key to retrieve
  * @param {string} dataOverride locale key override
- * @returns {string} - The conclave challenge name for the given key
+ * @returns {{
+ *   title: string,
+ *   description: string,
+ *   standing: number,
+ * }} - The conclave challenge name for the given key
  */
 export const conclaveChallenge = (key, dataOverride = 'en') => {
   const splitKey = lastResourceName(String(key));

@@ -1,6 +1,9 @@
-import { should } from 'chai';
+import { expect, should } from 'chai';
 
 import {
+  translateFocus,
+  translatePolarity,
+  conclaveChallenge,
   toTitleCase,
   faction,
   node,
@@ -20,6 +23,7 @@ import {
   sortieFaction,
   sortieModifier,
   sortieModDesc,
+  syndicate,
   region,
 } from '../../tools/translation.js';
 
@@ -239,6 +243,14 @@ describe('translation', () => {
         sortieModDesc(0).should.equal(0);
       });
     });
+    describe('syndicate()', () => {
+      it("should return a translation of the key if it's found in the data", () => {
+        syndicate('ArbitersSyndicate').should.equal('Arbiters of Hexis');
+      });
+      it("should return the key if it's not found in the data", () => {
+        syndicate('notfound').should.equal('notfound');
+      });
+    });
     describe('region()', () => {
       it("should return a translation of the key if it's found in the data", () => {
         region(3).should.equal('Mars');
@@ -311,6 +323,9 @@ describe('translation', () => {
       it('defaults to english with an invalid locale', () => {
         languageString('/lotus/language/alerts/capturedesc1', 'uk').should.equal('Fugitive Located');
       });
+      it('returns Undefined if key is undefined', () => {
+        expect(languageString(undefined, 'es')).to.be.undefined;
+      });
     });
     describe('missionType()', () => {
       it("should return a translation of the key if it's found in the data", () => {
@@ -332,6 +347,18 @@ describe('translation', () => {
       });
       it("should return the key if one isn't provided", () => {
         conclaveMode(0, 'es').should.equal(0);
+      });
+    });
+    describe('conclaveChallenge()', () => {
+      it('should pull conclave challenge data', () => {
+        conclaveChallenge('PVPTimedChallengeKillsPrimaryEASY', 'en').should.have.property('title', 'Primary Target');
+        conclaveChallenge('PVPTimedChallengeKillsPrimaryEASY', 'es').should.have.property('title', 'Primary Target');
+      });
+      it('should default to useless value if not found', () => {
+        const nf = conclaveChallenge('notfound', 'es');
+        nf.should.have.property('title', 'Notfound');
+        nf.should.have.property('description', 'Notfound');
+        nf.should.have.property('standing', 0);
       });
     });
     describe('conclaveCategory()', () => {
@@ -452,6 +479,18 @@ describe('translation', () => {
       });
       it("should return the key if it's not found in the data", () => {
         region('notfound', 'es').should.equal('notfound');
+      });
+    });
+    describe('translateFocus()', () => {
+      it('should translate focus names', () => {
+        translateFocus('Focus').should.equal('None');
+        translateFocus('Focus/Attack').should.equal('Madurai');
+      });
+    });
+    describe('translatePolarity()', () => {
+      it('should translate polarities', () => {
+        translatePolarity('AP_').should.equal('None');
+        translatePolarity('AP_ATTACK').should.equal('Madurai');
       });
     });
   });

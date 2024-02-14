@@ -19,7 +19,6 @@
     "chai-json": "^1.0.0",
     "chai-json-schema-ajv": "^5.2.4",
     "coveralls": "^3.1.1",
-    "install-peerdeps": "^3.0.3",
     "mocha": "^10.3.0",
     "precommit-hook": "^3.0.0",
     "sinon": "^17.0.1",
@@ -32,7 +31,7 @@
     "coverage": "npm test && c8 report --reporter=text-lcov | coveralls",
     "sort": "node tools/sort_languages.py",
     "validate": "npm run lint:fix && npm run test && git add -u .",
-    "postinstall": "install-peerdeps @wfcd/eslint-config@^1.5.0 -S"
+    "postinstall": "npx -p install-peerdeps@latest install-peerdeps @wfcd/eslint-config@^1.5.0 -S | npx -p install-peerdeps@2.0.3 install-peerdeps @wfcd/eslint-config@^1.5.0 -S"
   },
   "repository": {
     "type": "git",
