@@ -1139,6 +1139,56 @@
     "enemy": "Infested",
     "type": "自由探索"
   },
+  "SolNode230": {
+    "value": "Everview Arc (Zariman)",
+    "enemy": "雙方交戰",
+    "type": "Void Flood"
+  },
+  "SolNode231": {
+    "value": "Halako Perimeter (Zariman)",
+    "enemy": "雙方交戰",
+    "type": "殲滅"
+  },
+  "SolNode232": {
+    "value": "Tuvul Commons (Zariman)",
+    "enemy": "雙方交戰",
+    "type": "Void Cascade"
+  },
+  "SolNode233": {
+    "value": "Oro Works (Zariman)",
+    "enemy": "雙方交戰",
+    "type": "Void Armageddon"
+  },
+  "SolNode234": {
+    "value": "Dormizone (Zariman)",
+    "enemy": "Tenno",
+    "type": "中继站"
+  },
+  "SolNode235": {
+    "value": "The Greenway (Zariman)",
+    "enemy": "雙方交戰",
+    "type": "移動防禦"
+  },
+  "SolNode236": {
+    "value": "The Duviri Experience (Duviri)",
+    "enemy": "Duviri",
+    "type": "自由探索"
+  },
+  "SolNode237": {
+    "value": "The Lone Story (Duviri)",
+    "enemy": "Duviri",
+    "type": "自由探索"
+  },
+  "SolNode238": {
+    "value": "The Circuit (Duviri)",
+    "enemy": "Duviri",
+    "type": "自由探索"
+  },
+  "ZarimanHub": {
+    "value": "Chrysalith (Zariman)",
+    "enemy": "Tenno",
+    "type": "中继站"
+  },
   "SolNode400": {
     "value": "Teshub (虚空)",
     "enemy": "奥罗金",
@@ -1209,6 +1259,11 @@
     "enemy": "墮落",
     "type": "远古惩戒"
   },
+  "SolNode450": {
+    "value": "Tyana Pass (Zariman)",
+    "enemy": "雙方交戰",
+    "type": "Mirror Defense"
+  },
   "SolNode706": {
     "value": "Horend (火卫二)",
     "enemy": "Infested",
@@ -1248,6 +1303,41 @@
     "value": "Exequias (火卫二)",
     "enemy": "Infested",
     "type": "刺殺"
+  },
+  "SolNode714": {
+    "value": "Sanctum Anatomica (Deimos)",
+    "enemy": "Tenno",
+    "type": "中继站"
+  },
+  "SolNode715": {
+    "value": "Effervo (Deimos)",
+    "enemy": "The Murmur",
+    "type": "刺殺"
+  },
+  "SolNode716": {
+    "value": "Nex (Deimos)",
+    "enemy": "The Murmur",
+    "type": "殲滅"
+  },
+  "SolNode717": {
+    "value": "Persto (Deimos)",
+    "enemy": "The Murmur",
+    "type": "生存"
+  },
+  "SolNode718": {
+    "value": "Cambire (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Alchemy"
+  },
+  "SolNode719": {
+    "value": "Munio (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Mirror Defense"
+  },
+  "SolNode720": {
+    "value": "Testudo (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Netracells"
   },
   "SolNode740": {
     "value": "蝠力使 (木星)",
