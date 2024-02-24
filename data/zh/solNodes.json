@@ -1139,6 +1139,56 @@
     "enemy": "Infested",
     "type": "自由探索"
   },
+  "SolNode230": {
+    "value": "永视弧域(扎里曼)",
+    "enemy": "雙方交戰",
+    "type": "虚空洪流"
+  },
+  "SolNode231": {
+    "value": "哈拉科防线(扎里曼)",
+    "enemy": "雙方交戰",
+    "type": "殲滅"
+  },
+  "SolNode232": {
+    "value": "涂沃主厅(扎里曼)",
+    "enemy": "雙方交戰",
+    "type": "虚空覆涌"
+  },
+  "SolNode233": {
+    "value": "奥金工场(扎里曼)",
+    "enemy": "雙方交戰",
+    "type": "Void Armageddon"
+  },
+  "SolNode234": {
+    "value": "居住舱(扎里曼)",
+    "enemy": "Tenno",
+    "type": "中继站"
+  },
+  "SolNode235": {
+    "value": "翠径(扎里曼)",
+    "enemy": "雙方交戰",
+    "type": "移動防禦"
+  },
+  "SolNode236": {
+    "value": "双衍历程(双衍王境)",
+    "enemy": "双衍王境",
+    "type": "自由探索"
+  },
+  "SolNode237": {
+    "value": "孤独纪事(双衍王境)",
+    "enemy": "双衍王境",
+    "type": "自由探索"
+  },
+  "SolNode238": {
+    "value": "无尽回廊(双衍王境)",
+    "enemy": "双衍王境",
+    "type": "自由探索"
+  },
+  "ZarimanHub": {
+    "value": "羽化之穹(扎里曼)",
+    "enemy": "Tenno",
+    "type": "中继站"
+  },
   "SolNode400": {
     "value": "Teshub (虚空)",
     "enemy": "奥罗金",
@@ -1209,6 +1259,11 @@
     "enemy": "墮落",
     "type": "远古惩戒"
   },
+  "SolNode450": {
+    "value": "Tyana Pass",
+    "enemy": "雙方交戰",
+    "type": "镜像防御"
+  },
   "SolNode706": {
     "value": "Horend (火卫二)",
     "enemy": "Infested",
@@ -1248,6 +1303,41 @@
     "value": "Exequias (火卫二)",
     "enemy": "Infested",
     "type": "刺殺"
+  },
+  "SolNode714": {
+    "value": "解剖圣所(火卫二)",
+    "enemy": "Tenno",
+    "type": "中继站"
+  },
+  "SolNode715": {
+    "value": "恶涌(火卫二)",
+    "enemy": "低语者",
+    "type": "刺殺"
+  },
+  "SolNode716": {
+    "value": "孽杀(火卫二)",
+    "enemy": "低语者",
+    "type": "殲滅"
+  },
+  "SolNode717": {
+    "value": "不灭之地(火卫二)",
+    "enemy": "低语者",
+    "type": "生存"
+  },
+  "SolNode718": {
+    "value": "异化区(火卫二)",
+    "enemy": "低语者",
+    "type": "元素转换"
+  },
+  "SolNode719": {
+    "value": "墓垒(火卫二)",
+    "enemy": "低语者",
+    "type": "镜像防御"
+  },
+  "SolNode720": {
+    "value": "孤冢(火卫二)",
+    "enemy": "低语者",
+    "type": "衰退室"
   },
   "SolNode740": {
     "value": "蝠力使 (木星)",

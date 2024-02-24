@@ -1139,6 +1139,56 @@
     "enemy": "Infesté",
     "type": "Exploration Libre"
   },
+  "SolNode230": {
+    "value": "Everview Arc (Zariman)",
+    "enemy": "Feux Croisés Extermination",
+    "type": "Void Flood"
+  },
+  "SolNode231": {
+    "value": "Halako Perimeter (Zariman)",
+    "enemy": "Feux Croisés Extermination",
+    "type": "Extermination"
+  },
+  "SolNode232": {
+    "value": "Tuvul Commons (Zariman)",
+    "enemy": "Feux Croisés Extermination",
+    "type": "Void Cascade"
+  },
+  "SolNode233": {
+    "value": "Oro Works (Zariman)",
+    "enemy": "Feux Croisés Extermination",
+    "type": "Void Armageddon"
+  },
+  "SolNode234": {
+    "value": "Dormizone (Zariman)",
+    "enemy": "Tenno",
+    "type": "Relai"
+  },
+  "SolNode235": {
+    "value": "The Greenway (Zariman)",
+    "enemy": "Feux Croisés Extermination",
+    "type": "Défense Mobile"
+  },
+  "SolNode236": {
+    "value": "The Duviri Experience (Duviri)",
+    "enemy": "Duviri",
+    "type": "Exploration Libre"
+  },
+  "SolNode237": {
+    "value": "The Lone Story (Duviri)",
+    "enemy": "Duviri",
+    "type": "Exploration Libre"
+  },
+  "SolNode238": {
+    "value": "The Circuit (Duviri)",
+    "enemy": "Duviri",
+    "type": "Exploration Libre"
+  },
+  "ZarimanHub": {
+    "value": "Chrysalith (Zariman)",
+    "enemy": "Tenno",
+    "type": "Relai"
+  },
   "SolNode400": {
     "value": "Teshub (Le Néant)",
     "enemy": "Orokin",
@@ -1209,6 +1259,11 @@
     "enemy": "Corrompu",
     "type": "Ancient Retribution"
   },
+  "SolNode450": {
+    "value": "Tyana Pass (Zariman)",
+    "enemy": "Feux Croisés Extermination",
+    "type": "Mirror Defense"
+  },
   "SolNode706": {
     "value": "Horend (Deimos)",
     "enemy": "Infesté",
@@ -1248,6 +1303,41 @@
     "value": "Exequias (Deimos)",
     "enemy": "Infesté",
     "type": "Assassinat"
+  },
+  "SolNode714": {
+    "value": "Sanctum Anatomica (Deimos)",
+    "enemy": "Tenno",
+    "type": "Relai"
+  },
+  "SolNode715": {
+    "value": "Effervo (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Assassinat"
+  },
+  "SolNode716": {
+    "value": "Nex (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Extermination"
+  },
+  "SolNode717": {
+    "value": "Persto (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Survie"
+  },
+  "SolNode718": {
+    "value": "Cambire (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Alchemy"
+  },
+  "SolNode719": {
+    "value": "Munio (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Mirror Defense"
+  },
+  "SolNode720": {
+    "value": "Testudo (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Netracells"
   },
   "SolNode740": {
     "value": "Le Ropalolyst (Jupiter)",

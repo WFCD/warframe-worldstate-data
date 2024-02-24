@@ -1139,6 +1139,56 @@
     "enemy": "Infestados",
     "type": "Recorrido libre"
   },
+  "SolNode230": {
+    "value": "Everview Arc (Zariman)",
+    "enemy": "Fuego cruzado",
+    "type": "Void Flood"
+  },
+  "SolNode231": {
+    "value": "Halako Perimeter (Zariman)",
+    "enemy": "Fuego cruzado",
+    "type": "Exterminio"
+  },
+  "SolNode232": {
+    "value": "Tuvul Commons (Zariman)",
+    "enemy": "Fuego cruzado",
+    "type": "Void Cascade"
+  },
+  "SolNode233": {
+    "value": "Oro Works (Zariman)",
+    "enemy": "Fuego cruzado",
+    "type": "Void Armageddon"
+  },
+  "SolNode234": {
+    "value": "Dormizone (Zariman)",
+    "enemy": "Tenno",
+    "type": "Repetidor"
+  },
+  "SolNode235": {
+    "value": "The Greenway (Zariman)",
+    "enemy": "Fuego cruzado",
+    "type": "Defensa móvil"
+  },
+  "SolNode236": {
+    "value": "The Duviri Experience (Duviri)",
+    "enemy": "Duviri",
+    "type": "Recorrido libre"
+  },
+  "SolNode237": {
+    "value": "The Lone Story (Duviri)",
+    "enemy": "Duviri",
+    "type": "Recorrido libre"
+  },
+  "SolNode238": {
+    "value": "The Circuit (Duviri)",
+    "enemy": "Duviri",
+    "type": "Recorrido libre"
+  },
+  "ZarimanHub": {
+    "value": "Chrysalith (Zariman)",
+    "enemy": "Tenno",
+    "type": "Repetidor"
+  },
   "SolNode400": {
     "value": "Teshub (Vacío)",
     "enemy": "Orokin",
@@ -1209,6 +1259,11 @@
     "enemy": "Corruptos",
     "type": "Retribución antigua"
   },
+  "SolNode450": {
+    "value": "Tyana Pass (Zariman)",
+    "enemy": "Fuego cruzado",
+    "type": "Mirror Defense"
+  },
   "SolNode706": {
     "value": "Horend (Deimos)",
     "enemy": "Infestados",
@@ -1248,6 +1303,41 @@
     "value": "Exequias (Deimos)",
     "enemy": "Infestados",
     "type": "Asesinato"
+  },
+  "SolNode714": {
+    "value": "Sanctum Anatomica (Deimos)",
+    "enemy": "Tenno",
+    "type": "Repetidor"
+  },
+  "SolNode715": {
+    "value": "Effervo (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Asesinato"
+  },
+  "SolNode716": {
+    "value": "Nex (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Exterminio"
+  },
+  "SolNode717": {
+    "value": "Persto (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Supervivencia"
+  },
+  "SolNode718": {
+    "value": "Cambire (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Alchemy"
+  },
+  "SolNode719": {
+    "value": "Munio (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Mirror Defense"
+  },
+  "SolNode720": {
+    "value": "Testudo (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Netracells"
   },
   "SolNode740": {
     "value": "El Ropaloulista (Júpiter)",

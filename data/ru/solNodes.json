@@ -1139,6 +1139,56 @@
     "enemy": "Заражённые",
     "type": "Свободное перемещение"
   },
+  "SolNode230": {
+    "value": "Everview Arc (Zariman)",
+    "enemy": "Война Зачистка",
+    "type": "Void Flood"
+  },
+  "SolNode231": {
+    "value": "Halako Perimeter (Zariman)",
+    "enemy": "Война Зачистка",
+    "type": "Зачистка"
+  },
+  "SolNode232": {
+    "value": "Tuvul Commons (Zariman)",
+    "enemy": "Война Зачистка",
+    "type": "Void Cascade"
+  },
+  "SolNode233": {
+    "value": "Oro Works (Zariman)",
+    "enemy": "Война Зачистка",
+    "type": "Void Armageddon"
+  },
+  "SolNode234": {
+    "value": "Dormizone (Zariman)",
+    "enemy": "Тэнно",
+    "type": "Реле"
+  },
+  "SolNode235": {
+    "value": "The Greenway (Zariman)",
+    "enemy": "Война Зачистка",
+    "type": "Мобильная Оборона"
+  },
+  "SolNode236": {
+    "value": "The Duviri Experience (Duviri)",
+    "enemy": "Duviri",
+    "type": "Свободное перемещение"
+  },
+  "SolNode237": {
+    "value": "The Lone Story (Duviri)",
+    "enemy": "Duviri",
+    "type": "Свободное перемещение"
+  },
+  "SolNode238": {
+    "value": "The Circuit (Duviri)",
+    "enemy": "Duviri",
+    "type": "Свободное перемещение"
+  },
+  "ZarimanHub": {
+    "value": "Chrysalith (Zariman)",
+    "enemy": "Тэнно",
+    "type": "Реле"
+  },
   "SolNode400": {
     "value": "Teshub (Бездна)",
     "enemy": "Орокин",
@@ -1209,6 +1259,11 @@
     "enemy": "Порабощённые",
     "type": "Возмездие Древних"
   },
+  "SolNode450": {
+    "value": "Tyana Pass (Zariman)",
+    "enemy": "Война Зачистка",
+    "type": "Mirror Defense"
+  },
   "SolNode706": {
     "value": "Horend (Деймос)",
     "enemy": "Заражённые",
@@ -1248,6 +1303,41 @@
     "value": "Exequias (Деймос)",
     "enemy": "Заражённые",
     "type": "Убийство"
+  },
+  "SolNode714": {
+    "value": "Sanctum Anatomica (Deimos)",
+    "enemy": "Тэнно",
+    "type": "Реле"
+  },
+  "SolNode715": {
+    "value": "Effervo (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Убийство"
+  },
+  "SolNode716": {
+    "value": "Nex (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Зачистка"
+  },
+  "SolNode717": {
+    "value": "Persto (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Выживание"
+  },
+  "SolNode718": {
+    "value": "Cambire (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Alchemy"
+  },
+  "SolNode719": {
+    "value": "Munio (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Mirror Defense"
+  },
+  "SolNode720": {
+    "value": "Testudo (Deimos)",
+    "enemy": "The Murmur",
+    "type": "Netracells"
   },
   "SolNode740": {
     "value": "Ропалолист (Юпитер)",
