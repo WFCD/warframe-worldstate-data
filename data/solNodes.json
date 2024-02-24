@@ -1139,30 +1139,35 @@
     "enemy": "Infested",
     "type": "Free Roam"
   },
-  "SolNode232": {
-    "value": "Tuvul Commons (Zariman)",
-    "enemy": "Grineer or Corpus",
-    "type": "Void Cascade"
-  },
   "SolNode230": {
     "value": "Everview Arc (Zariman)",
-    "enemy": "Grineer or Corpus",
+    "enemy": "Crossfire",
     "type": "Void Flood"
   },
   "SolNode231": {
     "value": "Halako Perimeter (Zariman)",
-    "enemy": "Grineer or Corpus",
-    "type": "Exterminate"
+    "enemy": "Crossfire",
+    "type": "Extermination"
   },
-  "SolNode235": {
-    "value": "The Greenway (Zariman)",
-    "enemy": "Grineer or Corpus",
-    "type": "Mobile Defense"
+  "SolNode232": {
+    "value": "Tuvul Commons (Zariman)",
+    "enemy": "Crossfire",
+    "type": "Void Cascade"
   },
   "SolNode233": {
     "value": "Oro Works (Zariman)",
-    "enemy": "Grineer or Corpus",
+    "enemy": "Crossfire",
     "type": "Void Armageddon"
+  },
+  "SolNode234": {
+    "value": "Dormizone (Zariman)",
+    "enemy": "Tenno",
+    "type": "Relay"
+  },
+  "SolNode235": {
+    "value": "The Greenway (Zariman)",
+    "enemy": "Crossfire",
+    "type": "Mobile Defense"
   },
   "SolNode236": {
     "value": "The Duviri Experience (Duviri)",
@@ -1182,12 +1187,7 @@
   "ZarimanHub": {
     "value": "Chrysalith (Zariman)",
     "enemy": "Tenno",
-    "type": "Hub"
-  },
-  "SolNode234": {
-    "value": "Dormizone (Zariman)",
-    "enemy": "Tenno",
-    "type": "Hub"
+    "type": "Relay"
   },
   "SolNode400": {
     "value": "Teshub (Void)",
@@ -1261,7 +1261,7 @@
   },
   "SolNode450": {
     "value": "Tyana Pass (Zariman)",
-    "enemy": "Grineer and Corpus",
+    "enemy": "Crossfire",
     "type": "Mirror Defense"
   },
   "SolNode706": {
@@ -1307,7 +1307,7 @@
   "SolNode714": {
     "value": "Sanctum Anatomica (Deimos)",
     "enemy": "Tenno",
-    "type": "Hub"
+    "type": "Relay"
   },
   "SolNode715": {
     "value": "Effervo (Deimos)",
@@ -1317,7 +1317,7 @@
   "SolNode716": {
     "value": "Nex (Deimos)",
     "enemy": "The Murmur",
-    "type": "Exterminate"
+    "type": "Extermination"
   },
   "SolNode717": {
     "value": "Persto (Deimos)",
