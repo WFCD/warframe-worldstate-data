@@ -833,7 +833,7 @@
   "SolNode167": {
     "value": "Oestrus (鬩神星)",
     "enemy": "Infested",
-    "type": "移動防禦"
+    "type": "Infested Salvage"
   },
   "SolNode168": {
     "value": "Phalan (鬩神星)",
@@ -1426,7 +1426,7 @@
   },
   "SolNode300": {
     "value": "Plato (月球)",
-    "enemy": "Grineer",
+    "enemy": "雙方交戰",
     "type": "殲滅"
   },
   "SolNode301": {
@@ -1441,17 +1441,17 @@
   },
   "SolNode304": {
     "value": "Copernicus (月球)",
-    "enemy": "Grineer",
+    "enemy": "Corpus",
     "type": "移動防禦"
   },
   "SolNode305": {
     "value": "Stöfler (月球)",
-    "enemy": "Corpus",
-    "type": "生存"
+    "enemy": "Grineer",
+    "type": "防禦"
   },
   "SolNode306": {
     "value": "Pavlov (月球)",
-    "enemy": "Corpus",
+    "enemy": "雙方交戰",
     "type": "間諜"
   },
   "SolNode307": {
