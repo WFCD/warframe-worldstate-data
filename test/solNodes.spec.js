@@ -51,6 +51,7 @@ const solNodesSchema = {
         'Hijack',
         'Hive',
         'Hive Sabotage',
+        'Infested Salvage',
         'Interception',
         'Interception (Archwing)',
         'Mirror Defense',
