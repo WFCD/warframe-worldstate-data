@@ -833,7 +833,7 @@
   "SolNode167": {
     "value": "Oestrus (에리스)",
     "enemy": "인페스티드",
-    "type": "모바일 방어"
+    "type": "Infested Salvage"
   },
   "SolNode168": {
     "value": "Phalan (에리스)",
@@ -1426,7 +1426,7 @@
   },
   "SolNode300": {
     "value": "Plato (루아)",
-    "enemy": "그리니어",
+    "enemy": "크로스파이어",
     "type": "섬멸"
   },
   "SolNode301": {
@@ -1441,17 +1441,17 @@
   },
   "SolNode304": {
     "value": "Copernicus (루아)",
-    "enemy": "그리니어",
+    "enemy": "코퍼스",
     "type": "모바일 방어"
   },
   "SolNode305": {
     "value": "Stöfler (루아)",
-    "enemy": "코퍼스",
-    "type": "생존"
+    "enemy": "그리니어",
+    "type": "방어"
   },
   "SolNode306": {
     "value": "Pavlov (루아)",
-    "enemy": "코퍼스",
+    "enemy": "크로스파이어",
     "type": "첩보활동"
   },
   "SolNode307": {

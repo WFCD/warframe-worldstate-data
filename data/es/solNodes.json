@@ -833,7 +833,7 @@
   "SolNode167": {
     "value": "Oestrus (Eris)",
     "enemy": "Infestados",
-    "type": "Defensa móvil"
+    "type": "Infested Salvage"
   },
   "SolNode168": {
     "value": "Phalan (Eris)",
@@ -1426,7 +1426,7 @@
   },
   "SolNode300": {
     "value": "Plato (Lua)",
-    "enemy": "Grineer",
+    "enemy": "Fuego cruzado",
     "type": "Exterminio"
   },
   "SolNode301": {
@@ -1441,17 +1441,17 @@
   },
   "SolNode304": {
     "value": "Copérnico (Lua)",
-    "enemy": "Grineer",
+    "enemy": "Corpus",
     "type": "Defensa móvil"
   },
   "SolNode305": {
     "value": "Stöfler (Lua)",
-    "enemy": "Corpus",
-    "type": "Supervivencia"
+    "enemy": "Grineer",
+    "type": "Defensa"
   },
   "SolNode306": {
     "value": "Pavlov (Lua)",
-    "enemy": "Corpus",
+    "enemy": "Fuego cruzado",
     "type": "Espionaje"
   },
   "SolNode307": {

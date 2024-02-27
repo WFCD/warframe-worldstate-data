@@ -833,7 +833,7 @@
   "SolNode167": {
     "value": "Oestrus (Эрида)",
     "enemy": "Заражённые",
-    "type": "М. Оборона"
+    "type": "Infested Salvage"
   },
   "SolNode168": {
     "value": "Phalan (Эрида)",
@@ -1426,7 +1426,7 @@
   },
   "SolNode300": {
     "value": "Plato (Луа)",
-    "enemy": "Гринир",
+    "enemy": "Война Зачистка",
     "type": "Зачистка"
   },
   "SolNode301": {
@@ -1441,17 +1441,17 @@
   },
   "SolNode304": {
     "value": "Copernicus (Луа)",
-    "enemy": "Гринир",
+    "enemy": "Корпус",
     "type": "М. Оборона"
   },
   "SolNode305": {
     "value": "Stöfler (Луа)",
-    "enemy": "Корпус",
-    "type": "Выживание"
+    "enemy": "Гринир",
+    "type": "Оборона"
   },
   "SolNode306": {
     "value": "Pavlov (Луа)",
-    "enemy": "Корпус",
+    "enemy": "Война Зачистка",
     "type": "Шпионаж"
   },
   "SolNode307": {
