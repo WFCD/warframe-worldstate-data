@@ -272,6 +272,7 @@ const polarityMap = {
   AP_TACTIC: 'Naramon',
   AP_POWER: 'Zenurik',
   AP_WARD: 'Unairu',
+  AP_UMBRA: 'Umbra',
 };
 
 /**
