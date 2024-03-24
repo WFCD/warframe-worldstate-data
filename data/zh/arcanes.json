@@ -1,461 +1,461 @@
 [
-    {
-        "regex": "加速",
-        "name": "加速 赋能",
-        "effect": "暴击命中时，步枪有5% / 10% / 15% / 20% 的概率获得持续1.5 / 3 / 4.5 / 6 秒的15% / 30% / 45% / 60% 射速提升",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0d/ArcaneAgility.png/revision/latest?cb=20180306222818",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Acceleration"
-    },
-    {
-        "regex": "神盾",
-        "name": "神盾 赋能",
-        "effect": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/ArcaneAegis.png/revision/latest?cb=20180307005157",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Aegis"
-    },
-    {
-        "regex": "灵敏",
-        "name": "灵敏 赋能",
-        "effect": "When DAMAGED 3% / 6% / 9% / 16% chance \nto give 10% / 20% / 30% / 40% Movement Speed\nfor2 / 4 / 6 / 8 Seconds",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://static.wikia.nocookie.net/warframe/images/0/0d/ArcaneAgility.png/revision/latest/scale-to-width-down/350?cb=20180306222818",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Agility"
-    },
-    {
-        "regex": "蜘蛛",
-        "name": "蜘蛛 赋能",
-        "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/ArcaneArachne.png/revision/latest?cb=20180307093502",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Arachne"
-    },
-    {
-        "regex": "复仇者",
-        "name": "复仇者 赋能",
-        "effect": "When DAMAGED 3.5% / 7% / 10.5% / 14% chance\nfor 7.5% / 15% / 22.5% / 30% Additive Critical Chance\nfor 2 / 4 / 6 / 8 Seconds",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ab/ArcaneAvenger.png/revision/latest?cb=20180307102651",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Avenger"
-    },
-    {
-        "regex": "觉醒",
-        "name": "觉醒 赋能",
-        "effect": "On RELOAD 10% / 20% / 30% / 40% chance\nto add 25% / 50% / 75% / 100% Damage to Secondaries\n for 4 / 8 / 12 / 16 Seconds",
-        "rarity": "常见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ae/ArcaneAwakening.png/revision/latest?cb=20180306223000",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Awakening"
-    },
-    {
-        "regex": "壁垒",
-        "name": "壁垒 赋能",
-        "effect": "受到伤害时，有1% / 2% / 3% / 4% 几率回复所有护盾。",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f1/ArcaneBarrier.png/revision/latest?cb=20180306223903",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Barrier"
-    },
-    {
-        "regex": "结果",
-        "name": "结果 赋能",
-        "effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/76/ArcaneConsequence.png/revision/latest?cb=20180305010312",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Consequence"
-    },
-    {
-        "regex": "偏折",
-        "name": "偏折 赋能",
-        "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/ArcaneDeflection.png/revision/latest?cb=20180306223029",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Deflection"
-    },
-    {
-        "regex": "充沛",
-        "name": "充沛 赋能",
-        "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/96/ArcaneEnergize.png/revision/latest?cb=20180306223752",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Energize"
-    },
-    {
-        "regex": "爆发",
-        "name": "爆发 赋能",
-        "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/ArcaneEruption.png/revision/latest?cb=20180306223054",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Eruption"
-    },
-    {
-        "regex": "狂怒",
-        "name": "狂怒 赋能",
-        "effect": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/be/ArcaneFury.png/revision/latest?cb=20180307230818",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Fury"
-    },
-    {
-        "regex": "优雅",
-        "name": "优雅 赋能",
-        "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneGrace.png/revision/latest?cb=20180306223812",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Grace"
-    },
-    {
-        "regex": "保卫者",
-        "name": "保卫者 赋能",
-        "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
-        "rarity": "常见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d7/ArcaneGuardian.png/revision/latest?cb=20180306223108",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Guardian"
-    },
-    {
-        "regex": "复原",
-        "name": "复原 赋能",
-        "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "http://warframe.wikia.com/wiki/Arcane_Healing",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
-    },
-    {
-        "regex": "冰冷",
-        "name": "冰冷 赋能",
-        "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/17/ArcaneIce.png/revision/latest?cb=20180305010406",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Ice"
-    },
-    {
-        "regex": "动量",
-        "name": "动量 赋能",
-        "effect": "On critical hit, 10% / 20% / 30% / 40% chance\nto give 25% / 50% / 75% / 100% Fire Rate on Snipers\nfor 2 / 4 / 6 / 8 seconds",
-        "rarity": "常见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneMomentum.png/revision/latest?cb=20180305010554",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Momentum"
-    },
-    {
-        "regex": "消磁",
-        "name": "消磁 赋能",
-        "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c3/ArcaneNullifier.png/revision/latest?cb=20180305010623",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Nullifier"
-    },
-    {
-        "regex": "幻象",
-        "name": "幻象 赋能",
-        "effect": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/36/ArcanePhantasm.png/revision/latest?cb=20180306223149",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Phantasm"
-    },
-    {
-        "regex": "精确",
-        "name": "精确 赋能",
-        "effect": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcanePrecision.png/revision/latest?cb=20180307230901",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Precision"
-    },
-    {
-        "regex": "生机",
-        "name": "生机 赋能",
-        "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8a/ArcanePulse.png/revision/latest?cb=20180307230924",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Pulse"
-    },
-    {
-        "regex": "愤怒",
-        "name": "愤怒 赋能",
-        "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 30% / 60% / 90% / 120% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneRage.png/revision/latest?cb=20180307231001",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Rage"
-    },
-    {
-        "regex": "抗毒",
-        "name": "抗毒 赋能",
-        "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcaneResistance.png/revision/latest?cb=20180306223202",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Resistance"
-    },
-    {
-        "regex": "速攻",
-        "name": "速攻 赋能",
-        "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
-        "rarity": "常见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/da/ArcaneStrike.png/revision/latest?cb=20180306223218",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Strike"
-    },
-    {
-        "regex": "節奏",
-        "name": "節奏 賦能",
-        "effect": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
-        "rarity": "常见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b7/ArcaneTempo.png/revision/latest?cb=20180305010704",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Tempo"
-    },
-    {
-        "regex": "詭計",
-        "name": "詭計 賦能",
-        "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
-        "rarity": "常见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/ArcaneTrickery.png/revision/latest?cb=20180306223307",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Trickery"
-    },
-    {
-        "regex": "通牒",
-        "name": "通牒 赋能",
-        "effect": "On finisher, 25% / 50% / 75% / 100% chance\to give 150 / 300 / 450 / 600 Armor\nfor 10 / 20 / 30 / 40 seconds",
-        "rarity": "常见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneUltimatum.png/revision/latest?cb=20181225172124",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Ultimatum"
-    },
-    {
-        "regex": "迅速",
-        "name": "迅速 赋能",
-        "effect": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
-        "rarity": "常见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5f/ArcaneVelocity.png/revision/latest?cb=20180306223405",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Velocity"
-    },
-    {
-        "regex": "胜利",
-        "name": "胜利 赋能",
-        "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
-        "rarity": "稀有",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9b/ArcaneVictory.png/revision/latest?cb=20180306004336",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Victory"
-    },
-    {
-        "regex": "温暖",
-        "name": "温暖 赋能",
-        "effect": "20% / 40% / 60% / 80% chance to resist Cold proc",
-        "rarity": "罕见",
-        "location": "更改，请查看掉落表",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b9/ArcaneWarmth.png/revision/latest?cb=20180305010756",
-        "info": "https://warframe.huijiwiki.com/wiki/Arcane_Warmth"
-    },
-    {
-        "regex": "活力",
-        "name": "魔导 活力",
-        "effect": "50 / 100 / 150 / 200 Increased Health",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
-        "info": "https://warframe.huijiwiki.com/wiki/Magus_Vigor"
-    },
-    {
-        "regex": "外壳",
-        "name": "魔导 外壳",
-        "effect": "25 / 50 / 75 / 100 Increased Armor",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/MagusHusk.png/revision/latest/scale-to-width-down/350?cb=20171129163018",
-        "info": "https://warframe.huijiwiki.com/wiki/Magus_Husk"
-    },
-    {
-        "regex": "游云",
-        "name": "魔导 游云",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
-        "info": "https://warframe.huijiwiki.com/wiki/Magus_Cloud"
-    },
-    {
-        "regex": "韵律",
-        "name": "魔导 韵律",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for 15% / 30% / 45% / 60% Increased sprint speed for 2 / 4 / 6 / 8 Seconds",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/MagusCadence.png/revision/latest/scale-to-width-down/350?cb=20171129163011",
-        "info": "https://warframe.huijiwiki.com/wiki/Magus_Cadence"
-    },
-    {
-        "regex": "充盈",
-        "name": "魔导 充盈",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/MagusReplenish.png/revision/latest/scale-to-width-down/350?cb=20171129163024",
-        "info": "https://warframe.huijiwiki.com/wiki/Magus_Replenish"
-    },
-    {
-        "regex": "振奋",
-        "name": "魔导 振奋",
-        "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/MagusElevate.png/revision/latest/scale-to-width-down/350?cb=20171129163015",
-        "info": "https://warframe.huijiwiki.com/wiki/Magus_Elevate"
-    },
-    {
-        "regex": "滋养",
-        "name": "魔导 滋养",
-        "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/MagusNourish.png/revision/latest/scale-to-width-down/350?cb=20171129163020",
-        "info": "https://warframe.huijiwiki.com/wiki/Magus_Nourish"
-    },
-    {
-        "regex": "空无",
-        "name": "正直 空无",
-        "effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/VirtuosNull.png/revision/latest?cb=20171129163035",
-        "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Null"
-    },
-    {
-        "regex": "節奏",
-        "name": "正直 节奏",
-        "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
-        "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Tempo"
-    },
-    {
-        "regex": "狂怒",
-        "name": "正直 狂怒",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
-        "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Fury"
-    },
-    {
-        "regex": "速攻",
-        "name": "正直 打击",
-        "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/VirtuosStrike.png/revision/latest/scale-to-width-down/350?cb=20171129163040",
-        "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Tempo"
-    },
-    {
-        "regex": "暗影",
-        "name": "正直 暗影",
-        "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Multiplicative critical chance for 3 / 6 / 9 / 12 seconds",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
-        "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Shadow"
-    },
-    {
-        "regex": "鬼魅",
-        "name": "正直 鬼魅",
-        "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Increased status chance for 3 / 6 / 9 / 12 seconds",
-        "rarity": "罕见",
-        "location": "夜羽",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d6/VirtuosGhost.png/revision/latest/scale-to-width-down/350?cb=20171129163032",
-        "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Ghost"
-    },
-    {
-        "regex": "勇武",
-        "name": "神威 勇武",
-        "effect": "On melee channel kill, 100% chance for 1.25 / 2.50 / 3.75 / 5.00 Increased energy regen for 1 / 2 / 3 / 4 seconds",
-        "rarity": "罕见",
-        "location": "Hok的铁砧",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/ExodiaBrave.png/revision/latest?cb=20171129162951",
-        "info": "https://warframe.huijiwiki.com/wiki/Exodia_Brave"
-    },
-    {
-        "regex": "勇猛",
-        "name": "神威 勇猛",
-        "effect": "On critical hit, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased channeling damage for 3 / 6 / 9 / 12 Seconds",
-        "rarity": "罕见",
-        "location": "Hok的铁砧",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c4/ExodiaValor.png/revision/latest?cb=20171129163009",
-        "info": "https://warframe.huijiwiki.com/wiki/Exodia_Valor"
-    },
-    {
-        "regex": "力量",
-        "name": "神威 力量",
-        "effect": "On finishers, 12.5% / 25% / 37.5% / 50% chance for 7.5% / 15% / 22.5% / 30% Lifesteal for 2 / 4 / 6 / 8 seconds",
-        "rarity": "罕见",
-        "location": "Hok的铁砧",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/12/ExodiaMight.png/revision/latest/scale-to-width-down/350?cb=20171129163004",
-        "info": "https://warframe.huijiwiki.com/wiki/Exodia_Might"
-    },
-    {
-        "regex": "凯旋",
-        "name": "神威 凯旋",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased Channeling damage 3 / 6 / 9 / 12 seconds",
-        "rarity": "罕见",
-        "location": "Hok的铁砧",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/00/ExodiaTriumph.png/revision/latest/scale-to-width-down/350?cb=20171129163006",
-        "info": "https://warframe.huijiwiki.com/wiki/Exodia_Triumph"
-    },
-    {
-        "regex": "狩猎",
-        "name": "神威 狩猎",
-        "effect": "On slam attack, 20% / 30% / 40% / 50% chance to pull in nearby enemies within 6m / 8m / 10m / 12m",
-        "rarity": "罕见",
-        "location": "Hok的铁砧",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/ExodiaHunt.png/revision/latest/scale-to-width-down/350?cb=20171129163001",
-        "info": "https://warframe.huijiwiki.com/wiki/Exodia_Hunt"
-    },
-    {
-        "regex": "气力",
-        "name": "神威 气力",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance Burst for 80% / 100% / 120% / 150% weapon damage in 5m / 6m / 7m / 8m.",
-        "rarity": "罕见",
-        "location": "Hok的铁砧",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/62/ExodiaForce.png/revision/latest/scale-to-width-down/350?cb=20171129162958",
-        "info": "https://warframe.huijiwiki.com/wiki/Exodia_Force"
-    },
-    {
-        "regex": "触染",
-        "name": "神威 触染",
-        "effect": "旋身飞跃或二段跳后: 飞身瞄准时进行近战会射出一个投射物, 并在撞击后爆炸",
-        "rarity": "罕见",
-        "location": "活动集团 (瘟疫之星)",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/ExodiaContagion.png/revision/latest/scale-to-width-down/350?cb=20171129162953",
-        "info": "https://warframe.huijiwiki.com/wiki/Exodia_Contagion"
-    },
-    {
-        "regex": "流行病",
-        "name": "神威 流行病",
-        "effect": "After a double jump or bullet jump, on slam attack, Projects damaging wave that suspends enemies in the air, dealing Viral damage up to 33m away for 1s / 2s / 3s / 4s",
-        "rarity": "罕见",
-        "location": "活动集团 (瘟疫之星)",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/ExodiaEpidemic.png/revision/latest/scale-to-width-down/350?cb=20171129162956",
-        "info": "https://warframe.huijiwiki.com/wiki/Exodia_Epidemic"
-    }
+  {
+    "regex": "加速",
+    "name": "加速 赋能",
+    "effect": "暴击命中时，步枪有5% / 10% / 15% / 20% 的概率获得持续1.5 / 3 / 4.5 / 6 秒的15% / 30% / 45% / 60% 射速提升",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0d/ArcaneAgility.png/revision/latest?cb=20180306222818",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Acceleration"
+  },
+  {
+    "regex": "神盾",
+    "name": "神盾 赋能",
+    "effect": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/ArcaneAegis.png/revision/latest?cb=20180307005157",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Aegis"
+  },
+  {
+    "regex": "灵敏",
+    "name": "灵敏 赋能",
+    "effect": "When DAMAGED 3% / 6% / 9% / 16% chance \nto give 10% / 20% / 30% / 40% Movement Speed\nfor2 / 4 / 6 / 8 Seconds",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://static.wikia.nocookie.net/warframe/images/0/0d/ArcaneAgility.png/revision/latest/scale-to-width-down/350?cb=20180306222818",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Agility"
+  },
+  {
+    "regex": "蜘蛛",
+    "name": "蜘蛛 赋能",
+    "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/ArcaneArachne.png/revision/latest?cb=20180307093502",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Arachne"
+  },
+  {
+    "regex": "复仇者",
+    "name": "复仇者 赋能",
+    "effect": "When DAMAGED 3.5% / 7% / 10.5% / 14% chance\nfor 7.5% / 15% / 22.5% / 30% Additive Critical Chance\nfor 2 / 4 / 6 / 8 Seconds",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ab/ArcaneAvenger.png/revision/latest?cb=20180307102651",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Avenger"
+  },
+  {
+    "regex": "觉醒",
+    "name": "觉醒 赋能",
+    "effect": "On RELOAD 10% / 20% / 30% / 40% chance\nto add 25% / 50% / 75% / 100% Damage to Secondaries\n for 4 / 8 / 12 / 16 Seconds",
+    "rarity": "常见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ae/ArcaneAwakening.png/revision/latest?cb=20180306223000",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Awakening"
+  },
+  {
+    "regex": "壁垒",
+    "name": "壁垒 赋能",
+    "effect": "受到伤害时，有1% / 2% / 3% / 4% 几率回复所有护盾。",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f1/ArcaneBarrier.png/revision/latest?cb=20180306223903",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Barrier"
+  },
+  {
+    "regex": "结果",
+    "name": "结果 赋能",
+    "effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/76/ArcaneConsequence.png/revision/latest?cb=20180305010312",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Consequence"
+  },
+  {
+    "regex": "偏折",
+    "name": "偏折 赋能",
+    "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/ArcaneDeflection.png/revision/latest?cb=20180306223029",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Deflection"
+  },
+  {
+    "regex": "充沛",
+    "name": "充沛 赋能",
+    "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/96/ArcaneEnergize.png/revision/latest?cb=20180306223752",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Energize"
+  },
+  {
+    "regex": "爆发",
+    "name": "爆发 赋能",
+    "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/ArcaneEruption.png/revision/latest?cb=20180306223054",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Eruption"
+  },
+  {
+    "regex": "狂怒",
+    "name": "狂怒 赋能",
+    "effect": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/be/ArcaneFury.png/revision/latest?cb=20180307230818",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Fury"
+  },
+  {
+    "regex": "优雅",
+    "name": "优雅 赋能",
+    "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneGrace.png/revision/latest?cb=20180306223812",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Grace"
+  },
+  {
+    "regex": "保卫者",
+    "name": "保卫者 赋能",
+    "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
+    "rarity": "常见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d7/ArcaneGuardian.png/revision/latest?cb=20180306223108",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Guardian"
+  },
+  {
+    "regex": "复原",
+    "name": "复原 赋能",
+    "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "http://warframe.wikia.com/wiki/Arcane_Healing",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
+  },
+  {
+    "regex": "冰冷",
+    "name": "冰冷 赋能",
+    "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/17/ArcaneIce.png/revision/latest?cb=20180305010406",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Ice"
+  },
+  {
+    "regex": "动量",
+    "name": "动量 赋能",
+    "effect": "On critical hit, 10% / 20% / 30% / 40% chance\nto give 25% / 50% / 75% / 100% Fire Rate on Snipers\nfor 2 / 4 / 6 / 8 seconds",
+    "rarity": "常见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneMomentum.png/revision/latest?cb=20180305010554",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Momentum"
+  },
+  {
+    "regex": "消磁",
+    "name": "消磁 赋能",
+    "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c3/ArcaneNullifier.png/revision/latest?cb=20180305010623",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Nullifier"
+  },
+  {
+    "regex": "幻象",
+    "name": "幻象 赋能",
+    "effect": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/36/ArcanePhantasm.png/revision/latest?cb=20180306223149",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Phantasm"
+  },
+  {
+    "regex": "精确",
+    "name": "精确 赋能",
+    "effect": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcanePrecision.png/revision/latest?cb=20180307230901",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Precision"
+  },
+  {
+    "regex": "生机",
+    "name": "生机 赋能",
+    "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8a/ArcanePulse.png/revision/latest?cb=20180307230924",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Pulse"
+  },
+  {
+    "regex": "愤怒",
+    "name": "愤怒 赋能",
+    "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 30% / 60% / 90% / 120% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneRage.png/revision/latest?cb=20180307231001",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Rage"
+  },
+  {
+    "regex": "抗毒",
+    "name": "抗毒 赋能",
+    "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcaneResistance.png/revision/latest?cb=20180306223202",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Resistance"
+  },
+  {
+    "regex": "速攻",
+    "name": "速攻 赋能",
+    "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
+    "rarity": "常见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/da/ArcaneStrike.png/revision/latest?cb=20180306223218",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Strike"
+  },
+  {
+    "regex": "節奏",
+    "name": "節奏 賦能",
+    "effect": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
+    "rarity": "常见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b7/ArcaneTempo.png/revision/latest?cb=20180305010704",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Tempo"
+  },
+  {
+    "regex": "詭計",
+    "name": "詭計 賦能",
+    "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
+    "rarity": "常见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/ArcaneTrickery.png/revision/latest?cb=20180306223307",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Trickery"
+  },
+  {
+    "regex": "通牒",
+    "name": "通牒 赋能",
+    "effect": "On finisher, 25% / 50% / 75% / 100% chance\to give 150 / 300 / 450 / 600 Armor\nfor 10 / 20 / 30 / 40 seconds",
+    "rarity": "常见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneUltimatum.png/revision/latest?cb=20181225172124",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Ultimatum"
+  },
+  {
+    "regex": "迅速",
+    "name": "迅速 赋能",
+    "effect": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
+    "rarity": "常见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5f/ArcaneVelocity.png/revision/latest?cb=20180306223405",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Velocity"
+  },
+  {
+    "regex": "胜利",
+    "name": "胜利 赋能",
+    "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
+    "rarity": "稀有",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9b/ArcaneVictory.png/revision/latest?cb=20180306004336",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Victory"
+  },
+  {
+    "regex": "温暖",
+    "name": "温暖 赋能",
+    "effect": "20% / 40% / 60% / 80% chance to resist Cold proc",
+    "rarity": "罕见",
+    "location": "更改，请查看掉落表",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b9/ArcaneWarmth.png/revision/latest?cb=20180305010756",
+    "info": "https://warframe.huijiwiki.com/wiki/Arcane_Warmth"
+  },
+  {
+    "regex": "活力",
+    "name": "魔导 活力",
+    "effect": "50 / 100 / 150 / 200 Increased Health",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
+    "info": "https://warframe.huijiwiki.com/wiki/Magus_Vigor"
+  },
+  {
+    "regex": "外壳",
+    "name": "魔导 外壳",
+    "effect": "25 / 50 / 75 / 100 Increased Armor",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/MagusHusk.png/revision/latest/scale-to-width-down/350?cb=20171129163018",
+    "info": "https://warframe.huijiwiki.com/wiki/Magus_Husk"
+  },
+  {
+    "regex": "游云",
+    "name": "魔导 游云",
+    "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
+    "info": "https://warframe.huijiwiki.com/wiki/Magus_Cloud"
+  },
+  {
+    "regex": "韵律",
+    "name": "魔导 韵律",
+    "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for 15% / 30% / 45% / 60% Increased sprint speed for 2 / 4 / 6 / 8 Seconds",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/MagusCadence.png/revision/latest/scale-to-width-down/350?cb=20171129163011",
+    "info": "https://warframe.huijiwiki.com/wiki/Magus_Cadence"
+  },
+  {
+    "regex": "充盈",
+    "name": "魔导 充盈",
+    "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/MagusReplenish.png/revision/latest/scale-to-width-down/350?cb=20171129163024",
+    "info": "https://warframe.huijiwiki.com/wiki/Magus_Replenish"
+  },
+  {
+    "regex": "振奋",
+    "name": "魔导 振奋",
+    "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/MagusElevate.png/revision/latest/scale-to-width-down/350?cb=20171129163015",
+    "info": "https://warframe.huijiwiki.com/wiki/Magus_Elevate"
+  },
+  {
+    "regex": "滋养",
+    "name": "魔导 滋养",
+    "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/MagusNourish.png/revision/latest/scale-to-width-down/350?cb=20171129163020",
+    "info": "https://warframe.huijiwiki.com/wiki/Magus_Nourish"
+  },
+  {
+    "regex": "空无",
+    "name": "正直 空无",
+    "effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/VirtuosNull.png/revision/latest?cb=20171129163035",
+    "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Null"
+  },
+  {
+    "regex": "節奏",
+    "name": "正直 节奏",
+    "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
+    "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Tempo"
+  },
+  {
+    "regex": "狂怒",
+    "name": "正直 狂怒",
+    "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
+    "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Fury"
+  },
+  {
+    "regex": "速攻",
+    "name": "正直 打击",
+    "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/VirtuosStrike.png/revision/latest/scale-to-width-down/350?cb=20171129163040",
+    "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Tempo"
+  },
+  {
+    "regex": "暗影",
+    "name": "正直 暗影",
+    "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Multiplicative critical chance for 3 / 6 / 9 / 12 seconds",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
+    "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Shadow"
+  },
+  {
+    "regex": "鬼魅",
+    "name": "正直 鬼魅",
+    "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Increased status chance for 3 / 6 / 9 / 12 seconds",
+    "rarity": "罕见",
+    "location": "夜羽",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d6/VirtuosGhost.png/revision/latest/scale-to-width-down/350?cb=20171129163032",
+    "info": "https://warframe.huijiwiki.com/wiki/Virtuos_Ghost"
+  },
+  {
+    "regex": "勇武",
+    "name": "神威 勇武",
+    "effect": "On melee channel kill, 100% chance for 1.25 / 2.50 / 3.75 / 5.00 Increased energy regen for 1 / 2 / 3 / 4 seconds",
+    "rarity": "罕见",
+    "location": "Hok的铁砧",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/ExodiaBrave.png/revision/latest?cb=20171129162951",
+    "info": "https://warframe.huijiwiki.com/wiki/Exodia_Brave"
+  },
+  {
+    "regex": "勇猛",
+    "name": "神威 勇猛",
+    "effect": "On critical hit, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased channeling damage for 3 / 6 / 9 / 12 Seconds",
+    "rarity": "罕见",
+    "location": "Hok的铁砧",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c4/ExodiaValor.png/revision/latest?cb=20171129163009",
+    "info": "https://warframe.huijiwiki.com/wiki/Exodia_Valor"
+  },
+  {
+    "regex": "力量",
+    "name": "神威 力量",
+    "effect": "On finishers, 12.5% / 25% / 37.5% / 50% chance for 7.5% / 15% / 22.5% / 30% Lifesteal for 2 / 4 / 6 / 8 seconds",
+    "rarity": "罕见",
+    "location": "Hok的铁砧",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/12/ExodiaMight.png/revision/latest/scale-to-width-down/350?cb=20171129163004",
+    "info": "https://warframe.huijiwiki.com/wiki/Exodia_Might"
+  },
+  {
+    "regex": "凯旋",
+    "name": "神威 凯旋",
+    "effect": "On status effect, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased Channeling damage 3 / 6 / 9 / 12 seconds",
+    "rarity": "罕见",
+    "location": "Hok的铁砧",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/00/ExodiaTriumph.png/revision/latest/scale-to-width-down/350?cb=20171129163006",
+    "info": "https://warframe.huijiwiki.com/wiki/Exodia_Triumph"
+  },
+  {
+    "regex": "狩猎",
+    "name": "神威 狩猎",
+    "effect": "On slam attack, 20% / 30% / 40% / 50% chance to pull in nearby enemies within 6m / 8m / 10m / 12m",
+    "rarity": "罕见",
+    "location": "Hok的铁砧",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/ExodiaHunt.png/revision/latest/scale-to-width-down/350?cb=20171129163001",
+    "info": "https://warframe.huijiwiki.com/wiki/Exodia_Hunt"
+  },
+  {
+    "regex": "气力",
+    "name": "神威 气力",
+    "effect": "On status effect, 5% / 10% / 15% / 20% chance Burst for 80% / 100% / 120% / 150% weapon damage in 5m / 6m / 7m / 8m.",
+    "rarity": "罕见",
+    "location": "Hok的铁砧",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/62/ExodiaForce.png/revision/latest/scale-to-width-down/350?cb=20171129162958",
+    "info": "https://warframe.huijiwiki.com/wiki/Exodia_Force"
+  },
+  {
+    "regex": "触染",
+    "name": "神威 触染",
+    "effect": "旋身飞跃或二段跳后: 飞身瞄准时进行近战会射出一个投射物, 并在撞击后爆炸",
+    "rarity": "罕见",
+    "location": "活动集团 (瘟疫之星)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/ExodiaContagion.png/revision/latest/scale-to-width-down/350?cb=20171129162953",
+    "info": "https://warframe.huijiwiki.com/wiki/Exodia_Contagion"
+  },
+  {
+    "regex": "流行病",
+    "name": "神威 流行病",
+    "effect": "After a double jump or bullet jump, on slam attack, Projects damaging wave that suspends enemies in the air, dealing Viral damage up to 33m away for 1s / 2s / 3s / 4s",
+    "rarity": "罕见",
+    "location": "活动集团 (瘟疫之星)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/ExodiaEpidemic.png/revision/latest/scale-to-width-down/350?cb=20171129162956",
+    "info": "https://warframe.huijiwiki.com/wiki/Exodia_Epidemic"
+  }
 ]
