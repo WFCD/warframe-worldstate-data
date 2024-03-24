@@ -1,1262 +1,1262 @@
 [
-  {
-    "name": "Древний Разрушитель",
-    "imageKey": "ancient_disruptor",
-    "locations": [
-      {
-        "last_verified": "24.02.2019",
-        "level": "6-16",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "Земля",
-        "type": "Раскопки"
-      },
-      {
-        "last_verified": "24.02.2019",
-        "level": "8-10",
-        "faction": "Война Зачистка",
-        "spawn_rate": "100%",
-        "mission": "Terminus",
-        "planet": "Меркурий",
-        "type": "Диверсия"
-      },
-      {
-        "last_verified": "24.02.2019",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Эрида",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Древний Целитель",
-    "imageKey": "ancient_healer",
-    "locations": [
-      {
-        "last_verified": "2018-08-22",
-        "level": "10-15",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Hepit (Не подтверждено)",
-        "planet": "Бездна",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Анти МОА [Research]",
-    "imageKey": "anti_moa",
-    "locations": [
-      {
-        "last_verified": "2019-07-01",
-        "level": "34-38",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Acheron",
-        "planet": "Плутон",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2020-01-28",
-        "level": "21-23",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Baal",
-        "planet": "Европа",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "0000-00-00",
-        "level": "18-33",
-        "faction": "Корпус",
-        "spawn_rate": "?%",
-        "mission": "Valefor",
-        "planet": "Европа",
-        "type": "Раскопки"
-      }
-    ]
-  },
-  {
-    "name": "Пустынный Потрошитель [Research]",
-    "imageKey": "arid_eviscerator",
-    "locations": [
-      {
-        "last_verified": "2018-04-16",
-        "level": "10-12",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "Марс",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Баллиста",
-    "imageKey": "ballista",
-    "locations": [
-      {
-        "last_verified": "2019-02-15",
-        "level": "2-4",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "Земля",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-15",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Лекс",
-        "planet": "Церера",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Фурункулер",
-    "imageKey": "boiler",
-    "locations": [
-      {
-        "last_verified": "2019-01-23",
-        "level": "23-33",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Cholistan",
-        "planet": "Европа",
-        "type": "Раскопки"
-      },
-      {
-        "last_verified": "2019-01-23",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Эрида",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-23",
-        "level": "25-35",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Захват Руин Орокин",
-        "planet": "Руины",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Бомбардировщик",
-    "imageKey": "bombard",
-    "locations": [
-      {
-        "last_verified": "2019-01-20",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Ker",
-        "planet": "Церера",
-        "type": "Диверсия"
-      },
-      {
-        "last_verified": "2019-01-08",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Лекс",
-        "planet": "Церера",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-20",
-        "level": "13-15",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "Церера",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-01-20",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Exta",
-        "planet": "Церера",
-        "type": "Убийство"
-      }
-    ]
-  },
-  {
-    "name": "Мать Выводка",
-    "imageKey": "brood_mother",
-    "locations": [
-      {
-        "last_verified": "2019-04-16",
-        "level": "6-16",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "Земля",
-        "type": "Раскопки"
-      },
-      {
-        "last_verified": "2019-01-26",
-        "level": "15-25",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Gabii",
-        "planet": "Церера",
-        "type": "Выживание"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "25-35",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Assur",
-        "planet": "Уран",
-        "type": "Выживание"
-      },
-      {
-        "last_verified": "2019-01-26",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Эрида",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Мясник",
-    "imageKey": "butcher",
-    "locations": [
-      {
-        "last_verified": "2019-02-26",
-        "level": "2-4",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "Земля",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2018-09-25",
-        "level": "6-8",
-        "faction": "Гринир",
-        "spawn_rate": "70%",
-        "mission": "Caloris",
-        "planet": "Меркурий",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-06-26",
-        "level": "7-9",
-        "faction": "Гринир",
-        "spawn_rate": "78%",
-        "mission": "Elion",
-        "planet": "Меркурий",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-26",
-        "level": "36-40",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Rusalka",
-        "planet": "Седна",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Инфестоид",
-    "imageKey": "charger",
-    "locations": [
-      {
-        "last_verified": "2019-06-27",
-        "level": "8-10",
-        "faction": "Война Зачистка",
-        "spawn_rate": "100%",
-        "mission": "Terminus",
-        "planet": "Меркурий",
-        "type": "Диверсия"
-      },
-      {
-        "last_verified": "2019-09-01",
-        "level": "7-9",
-        "faction": "Война Зачистка",
-        "spawn_rate": "100%",
-        "mission": "M Prime",
-        "planet": "Меркурий",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-06-27",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Эрида",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Командир",
-    "imageKey": "commander",
-    "locations": [
-      {
-        "last_verified": "2018-05-08",
-        "level": "22-24",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Telesto",
-        "planet": "Сатурн",
-        "type": "Зачистка"
-      }
-    ]
-  },
-  {
-    "name": "Порабощённый Древний [Research]",
-    "imageKey": "corrupted_ancient",
-    "locations": [
-      {
-        "last_verified": "2019-02-05",
-        "level": "10-15",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "Бездна",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-05",
-        "level": "20-25",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Stribog",
-        "planet": "Бездна",
-        "type": "Диверсия"
-      },
-      {
-        "last_verified": "2019-02-05",
-        "level": "20-25",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Ani",
-        "planet": "Бездна",
-        "type": "Выживание"
-      }
-    ]
-  },
-  {
-    "name": "Порабощённый Бомбардировщик",
-    "imageKey": "corrupted_bombard",
-    "locations": [
-      {
-        "last_verified": "2019-06-05",
-        "level": "30-35",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Oxomoco",
-        "planet": "Бездна",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-01-12",
-        "level": "40-45",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Marduk",
-        "planet": "Бездна",
-        "type": "Диверсия"
-      }
-    ]
-  },
-  {
-    "name": "Порабощённый Мясник",
-    "imageKey": "corrupted_butcher",
-    "locations": [
-      {
-        "last_verified": "2019-01-25",
-        "level": "10-15",
-        "faction": "Орокин",
-        "spawn_rate": "94%",
-        "mission": "Hepit",
-        "planet": "Бездна",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-25",
-        "level": "10-15",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "Бездна",
-        "type": "Зачистка"
-      }
-    ]
-  },
-  {
-    "name": "Порабощённый Солдат Корпуса",
-    "imageKey": "corrupted_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-01-28",
-        "level": "10-15",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "Бездна",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-01-28",
-        "level": "10-15",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "Бездна",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Порабощённый Пулемётчик",
-    "imageKey": "corrupted_heavy_gunner",
-    "locations": [
-      {
-        "last_verified": "2019-03-23",
-        "level": "10-15",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "Бездна",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-03-23",
-        "level": "10-15",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "Бездна",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-03-23",
-        "level": "30-35",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Ukko",
-        "planet": "Бездна",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Порабощённый Солдат Гринир",
-    "imageKey": "corrupted_lancer",
-    "locations": [
-      {
-        "last_verified": "2018-04-15",
-        "level": "10-15",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "Бездна",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-03-17",
-        "level": "30-35",
-        "faction": "Орокин",
-        "spawn_rate": "100%",
-        "mission": "Ukko",
-        "planet": "Бездна",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Порабощённый Нуллификатор",
-    "imageKey": "corrupted_nullifier",
-    "locations": [
-      {
-        "last_verified": "2019-08-14",
-        "level": "30-35",
-        "faction": "Орокин",
-        "spawn_rate": "78%",
-        "mission": "Oxomoco",
-        "planet": "Бездна",
-        "type": "Зачистка"
-      }
-    ]
-  },
-  {
-    "name": "Ползун",
-    "imageKey": "crawler",
-    "locations": [
-      {
-        "last_verified": "2018-04-06",
-        "level": "6-16",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "Земля",
-        "type": "Раскопки"
-      },
-      {
-        "last_verified": "2018-05-13",
-        "level": "6-11",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Apollodorus",
-        "planet": "Меркурий",
-        "type": "Выживание"
-      },
-      {
-        "last_verified": "2019-05-30",
-        "level": "18-20",
-        "faction": "Война Зачистка",
-        "spawn_rate": "100%",
-        "mission": "Armaros",
-        "planet": "Европа",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-03-07",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Эрида",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-03-07",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Brugia",
-        "planet": "Эрида",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2018-03-20",
-        "level": "25-35",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Руины Орокин: Убийство",
-        "planet": "Руины",
-        "type": "Убийство"
-      }
-    ]
-  },
-  {
-    "name": "Солдат Корпуса [Research]",
-    "imageKey": "crewman",
-    "locations": [
-      {
-        "last_verified": "2019-08-16",
-        "level": "25-30",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Copernicus",
-        "planet": "Луа",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Повелитель Драков",
-    "imageKey": "drahk_master",
-    "locations": [
-      {
-        "last_verified": "2019-01-31",
-        "level": "21-23",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Сатурн",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-31",
-        "level": "22-24",
-        "faction": "Гринир",
-        "spawn_rate": "90%",
-        "mission": "Anthe",
-        "planet": "Сатурн",
-        "type": "Спасение"
-      }
-    ]
-  },
-  {
-    "name": "Элитный солдат Корпуса",
-    "imageKey": "elite_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-09-28",
-        "level": "25-30",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Copernicus",
-        "planet": "Луа",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-09-28",
-        "level": "25-30",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Zeipel",
-        "planet": "Луа",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-08-16",
-        "level": "5-7",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Venera",
-        "planet": "Венера",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Потрошитель",
-    "imageKey": "eviscerator",
-    "locations": [
-      {
-        "last_verified": "2019-01-24",
-        "level": "10-12",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "Марс",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-15",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Лекс",
-        "planet": "Церера",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-15",
-        "level": "13-15",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "Церера",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-09-12",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Ker",
-        "planet": "Церера",
-        "type": "Диверсия"
-      }
-    ]
-  },
-  {
-    "name": "Гибридный МОА",
-    "imageKey": "fusion_moa",
-    "locations": [
-      {
-        "last_verified": "2019-01-29",
-        "level": "9-11",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Gradivus",
-        "planet": "Марс",
-        "type": "Диверсия"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "12-14",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Skyresh",
-        "planet": "Фобос",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "21-23",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Abaddon",
-        "planet": "Европа",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "30-34",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Hydra",
-        "planet": "Плутон",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Охранник [Research]",
-    "imageKey": "guardsman",
-    "locations": [
-      {
-        "last_verified": "2019-11-23",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Лекс",
-        "planet": "Церера",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-01",
-        "level": "13-15",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "Церера",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-02-01",
-        "level": "13-15",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Ludi",
-        "planet": "Церера",
-        "type": "Налёт"
-      }
-    ]
-  },
-  {
-    "name": "Пулемётчик",
-    "imageKey": "heavy_gunner",
-    "locations": [
-      {
-        "last_verified": "2019-08-13",
-        "level": "7-9",
-        "faction": "Гринир",
-        "spawn_rate": "77%",
-        "mission": "Elion",
-        "planet": "Меркурий",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "6-8",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Caloris",
-        "planet": "Меркурий",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Лекс",
-        "planet": "Церера",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "32-36",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Rusalka",
-        "planet": "Седна",
-        "type": "Диверсия"
-      }
-    ]
-  },
-  {
-    "name": "Изгнанник",
-    "imageKey": "hellion",
-    "locations": [
-      {
-        "last_verified": "2019-08-15",
-        "level": "10-12",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "Марс",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-03-30",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Лекс",
-        "planet": "Церера",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-03-30",
-        "level": "32-36",
-        "faction": "Гринир",
-        "spawn_rate": "90%",
-        "mission": "Rusalka",
-        "planet": "Седна",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Солдат Гринир [Research]",
-    "imageKey": "lancer",
-    "locations": [
-      {
-        "last_verified": "2019-02-14",
-        "level": "7-9",
-        "faction": "Гринир",
-        "spawn_rate": "81%",
-        "mission": "Elion",
-        "planet": "Меркурий",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "6-8",
-        "faction": "Гринир",
-        "spawn_rate": "80%",
-        "mission": "Caloris",
-        "planet": "Меркурий",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "6-8",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Pantheon",
-        "planet": "Меркурий",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-06-24",
-        "level": "21-23",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Сатурн",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "34-38",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Kappa",
-        "planet": "Седна",
-        "type": "Шпионаж"
-      }
-    ]
-  },
-  {
-    "name": "Прыгун",
-    "imageKey": "leaper",
-    "locations": [
-      {
-        "last_verified": "2019-01-13",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Эрида",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2018-09-23",
-        "level": "6-16",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "Земля",
-        "type": "Раскопки"
-      },
-      {
-        "last_verified": "2019-01-13",
-        "level": "8-10",
-        "faction": "Война Зачистка",
-        "spawn_rate": "92%",
-        "mission": "Terminus",
-        "planet": "Меркурий",
-        "type": "Диверсия"
-      },
-      {
-        "last_verified": "2018-09-23",
-        "level": "7-9",
-        "faction": "Война Зачистка",
-        "spawn_rate": "33%",
-        "mission": "M Prime",
-        "planet": "Меркурий",
-        "type": "Зачистка"
-      }
-    ]
-  },
-  {
-    "name": "МОА Шагоход",
-    "imageKey": "moa",
-    "locations": [
-      {
-        "last_verified": "2019-04-04",
-        "level": "5-7",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Venera",
-        "planet": "Венера",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-04-04",
-        "level": "5-7",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Linea",
-        "planet": "Венера",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-04-04",
-        "level": "3-5",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "E-Gate",
-        "planet": "Венера",
-        "type": "Зачистка"
-      }
-    ]
-  },
-  {
-    "name": "Огнемётчик",
-    "imageKey": "napalm",
-    "locations": [
-      {
-        "last_verified": "2019-01-21",
-        "level": "21-23",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Сатурн",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2018-08-04",
-        "level": "30-40",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Selkie (Не подтверждено)",
-        "planet": "Седна",
-        "type": "Выживание"
-      }
-    ]
-  },
-  {
-    "name": "Нуллификатор Корпуса",
-    "imageKey": "nullifier_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-06-27",
-        "level": "21-23",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Abaddon",
-        "planet": "Европа",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-04-06",
-        "level": "21-23",
-        "faction": "Корпус",
-        "spawn_rate": "100%",
-        "mission": "Orias (Не подтверждено)",
-        "planet": "Европа",
-        "type": "Спасение"
-      }
-    ]
-  },
-  {
-    "name": "Бегун [Research]",
-    "imageKey": "runner",
-    "locations": [
-      {
-        "last_verified": "2018-01-06",
-        "level": "34-38",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Saxis",
-        "planet": "Эрида",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2018-08-31",
-        "level": "34-38",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Руины Орокин: Зачистка",
-        "planet": "Руины",
-        "type": "Зачистка"
-      }
-    ]
-  },
-  {
-    "name": "Напалм",
-    "imageKey": "scorch",
-    "locations": [
-      {
-        "last_verified": "2019-08-13",
-        "level": "21-23",
-        "faction": "Гринир",
-        "spawn_rate": "95%",
-        "mission": "Cassini",
-        "planet": "Сатурн",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-16",
-        "level": "22-24",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "Сатурн",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-01-16",
-        "level": "22-24",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "ANTHE",
-        "planet": "Сатурн",
-        "type": "Спасение"
-      }
-    ]
-  },
-  {
-    "name": "Скорпион",
-    "imageKey": "scorpion",
-    "locations": [
-      {
-        "last_verified": "2019-02-02",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "58%",
-        "mission": "Лекс",
-        "planet": "Церера",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-03",
-        "level": "21-23",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Сатурн",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-03",
-        "level": "22-24",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "Сатурн",
-        "type": "Спасение"
-      }
-    ]
-  },
-  {
-    "name": "Искатель / Пограничный Искатель",
-    "imageKey": "seeker",
-    "locations": [
-      {
-        "last_verified": "2020-03-10",
-        "level": "1-3",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "E-Prime",
-        "planet": "Земля",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-11-28",
-        "level": "14-16",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Лекс",
-        "planet": "Церера",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-02-11",
-        "level": "13-15",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "Церера",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-08-09",
-        "level": "34-38",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Kappa",
-        "planet": "Седна",
-        "type": "Шпионаж"
-      }
-    ]
-  },
-  {
-    "name": "Щитоносец",
-    "imageKey": "shield_lancer",
-    "locations": [
-      {
-        "last_verified": "2019-01-30",
-        "level": "6-8",
-        "faction": "Гринир",
-        "spawn_rate": "75%",
-        "mission": "Pantheon",
-        "planet": "Меркурий",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-01-30",
-        "level": "6-8",
-        "faction": "Гринир",
-        "spawn_rate": "40%",
-        "mission": "Caloris",
-        "planet": "Меркурий",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-04-18",
-        "level": "7-9",
-        "faction": "Гринир",
-        "spawn_rate": "76%",
-        "mission": "Elion",
-        "planet": "Меркурий",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-10-21",
-        "level": "21-23",
-        "faction": "Гринир",
-        "spawn_rate": "88%",
-        "mission": "Cassini",
-        "planet": "Сатурн",
-        "type": "Захват"
-      }
-    ]
-  },
-  {
-    "name": "Роевик-Муталист МОА",
-    "imageKey": "swarm-mutalist_moa",
-    "locations": [
-      {
-        "last_verified": "2019-01-19",
-        "level": "18-20",
-        "faction": "Война Зачистка",
-        "spawn_rate": "100%",
-        "mission": "Armaros",
-        "planet": "Европа",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-01-19",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Эрида",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-19",
-        "level": "32-36",
-        "faction": "Заражённые",
-        "spawn_rate": "100%",
-        "mission": "Brugia",
-        "planet": "Эрида",
-        "type": "Спасение"
-      }
-    ]
-  },
-  {
-    "name": "Пехотинец",
-    "imageKey": "trooper",
-    "locations": [
-      {
-        "last_verified": "2019-01-22",
-        "level": "2-4",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "Земля",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "1-3",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "E Prime",
-        "planet": "Земля",
-        "type": "Зачистка"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "22-24",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "Сатурн",
-        "type": "Спасение"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "22-24",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Сатурн",
-        "type": "Захват"
-      },
-      {
-        "last_verified": "2018-09-14",
-        "level": "32-36",
-        "faction": "Гринир",
-        "spawn_rate": "100%",
-        "mission": "Adaro",
-        "planet": "Седна",
-        "type": "Зачистка"
-      }
-    ]
-  }
+    {
+        "name": "Древний Разрушитель",
+        "imageKey": "ancient_disruptor",
+        "locations": [
+            {
+                "last_verified": "24.02.2019",
+                "level": "6-16",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "Земля",
+                "type": "Раскопки"
+            },
+            {
+                "last_verified": "24.02.2019",
+                "level": "8-10",
+                "faction": "Война Зачистка",
+                "spawn_rate": "100%",
+                "mission": "Terminus",
+                "planet": "Меркурий",
+                "type": "Диверсия"
+            },
+            {
+                "last_verified": "24.02.2019",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Эрида",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Древний Целитель",
+        "imageKey": "ancient_healer",
+        "locations": [
+            {
+                "last_verified": "2018-08-22",
+                "level": "10-15",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Hepit (Не подтверждено)",
+                "planet": "Бездна",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Анти МОА [Research]",
+        "imageKey": "anti_moa",
+        "locations": [
+            {
+                "last_verified": "2019-07-01",
+                "level": "34-38",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Acheron",
+                "planet": "Плутон",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2020-01-28",
+                "level": "21-23",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Baal",
+                "planet": "Европа",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "0000-00-00",
+                "level": "18-33",
+                "faction": "Корпус",
+                "spawn_rate": "?%",
+                "mission": "Valefor",
+                "planet": "Европа",
+                "type": "Раскопки"
+            }
+        ]
+    },
+    {
+        "name": "Пустынный Потрошитель [Research]",
+        "imageKey": "arid_eviscerator",
+        "locations": [
+            {
+                "last_verified": "2018-04-16",
+                "level": "10-12",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "Марс",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Баллиста",
+        "imageKey": "ballista",
+        "locations": [
+            {
+                "last_verified": "2019-02-15",
+                "level": "2-4",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "Земля",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-15",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Лекс",
+                "planet": "Церера",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Фурункулер",
+        "imageKey": "boiler",
+        "locations": [
+            {
+                "last_verified": "2019-01-23",
+                "level": "23-33",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Cholistan",
+                "planet": "Европа",
+                "type": "Раскопки"
+            },
+            {
+                "last_verified": "2019-01-23",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Эрида",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-23",
+                "level": "25-35",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Захват Руин Орокин",
+                "planet": "Руины",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Бомбардировщик",
+        "imageKey": "bombard",
+        "locations": [
+            {
+                "last_verified": "2019-01-20",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Ker",
+                "planet": "Церера",
+                "type": "Диверсия"
+            },
+            {
+                "last_verified": "2019-01-08",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Лекс",
+                "planet": "Церера",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-20",
+                "level": "13-15",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "Церера",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-01-20",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Exta",
+                "planet": "Церера",
+                "type": "Убийство"
+            }
+        ]
+    },
+    {
+        "name": "Мать Выводка",
+        "imageKey": "brood_mother",
+        "locations": [
+            {
+                "last_verified": "2019-04-16",
+                "level": "6-16",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "Земля",
+                "type": "Раскопки"
+            },
+            {
+                "last_verified": "2019-01-26",
+                "level": "15-25",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Gabii",
+                "planet": "Церера",
+                "type": "Выживание"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "25-35",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Assur",
+                "planet": "Уран",
+                "type": "Выживание"
+            },
+            {
+                "last_verified": "2019-01-26",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Эрида",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Мясник",
+        "imageKey": "butcher",
+        "locations": [
+            {
+                "last_verified": "2019-02-26",
+                "level": "2-4",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "Земля",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2018-09-25",
+                "level": "6-8",
+                "faction": "Гринир",
+                "spawn_rate": "70%",
+                "mission": "Caloris",
+                "planet": "Меркурий",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-06-26",
+                "level": "7-9",
+                "faction": "Гринир",
+                "spawn_rate": "78%",
+                "mission": "Elion",
+                "planet": "Меркурий",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-26",
+                "level": "36-40",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Rusalka",
+                "planet": "Седна",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Инфестоид",
+        "imageKey": "charger",
+        "locations": [
+            {
+                "last_verified": "2019-06-27",
+                "level": "8-10",
+                "faction": "Война Зачистка",
+                "spawn_rate": "100%",
+                "mission": "Terminus",
+                "planet": "Меркурий",
+                "type": "Диверсия"
+            },
+            {
+                "last_verified": "2019-09-01",
+                "level": "7-9",
+                "faction": "Война Зачистка",
+                "spawn_rate": "100%",
+                "mission": "M Prime",
+                "planet": "Меркурий",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-06-27",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Эрида",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Командир",
+        "imageKey": "commander",
+        "locations": [
+            {
+                "last_verified": "2018-05-08",
+                "level": "22-24",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Telesto",
+                "planet": "Сатурн",
+                "type": "Зачистка"
+            }
+        ]
+    },
+    {
+        "name": "Порабощённый Древний [Research]",
+        "imageKey": "corrupted_ancient",
+        "locations": [
+            {
+                "last_verified": "2019-02-05",
+                "level": "10-15",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "Бездна",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-05",
+                "level": "20-25",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Stribog",
+                "planet": "Бездна",
+                "type": "Диверсия"
+            },
+            {
+                "last_verified": "2019-02-05",
+                "level": "20-25",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Ani",
+                "planet": "Бездна",
+                "type": "Выживание"
+            }
+        ]
+    },
+    {
+        "name": "Порабощённый Бомбардировщик",
+        "imageKey": "corrupted_bombard",
+        "locations": [
+            {
+                "last_verified": "2019-06-05",
+                "level": "30-35",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Oxomoco",
+                "planet": "Бездна",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-01-12",
+                "level": "40-45",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Marduk",
+                "planet": "Бездна",
+                "type": "Диверсия"
+            }
+        ]
+    },
+    {
+        "name": "Порабощённый Мясник",
+        "imageKey": "corrupted_butcher",
+        "locations": [
+            {
+                "last_verified": "2019-01-25",
+                "level": "10-15",
+                "faction": "Орокин",
+                "spawn_rate": "94%",
+                "mission": "Hepit",
+                "planet": "Бездна",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-25",
+                "level": "10-15",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "Бездна",
+                "type": "Зачистка"
+            }
+        ]
+    },
+    {
+        "name": "Порабощённый Солдат Корпуса",
+        "imageKey": "corrupted_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-01-28",
+                "level": "10-15",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "Бездна",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-01-28",
+                "level": "10-15",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "Бездна",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Порабощённый Пулемётчик",
+        "imageKey": "corrupted_heavy_gunner",
+        "locations": [
+            {
+                "last_verified": "2019-03-23",
+                "level": "10-15",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "Бездна",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-03-23",
+                "level": "10-15",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "Бездна",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-03-23",
+                "level": "30-35",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Ukko",
+                "planet": "Бездна",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Порабощённый Солдат Гринир",
+        "imageKey": "corrupted_lancer",
+        "locations": [
+            {
+                "last_verified": "2018-04-15",
+                "level": "10-15",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "Бездна",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-03-17",
+                "level": "30-35",
+                "faction": "Орокин",
+                "spawn_rate": "100%",
+                "mission": "Ukko",
+                "planet": "Бездна",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Порабощённый Нуллификатор",
+        "imageKey": "corrupted_nullifier",
+        "locations": [
+            {
+                "last_verified": "2019-08-14",
+                "level": "30-35",
+                "faction": "Орокин",
+                "spawn_rate": "78%",
+                "mission": "Oxomoco",
+                "planet": "Бездна",
+                "type": "Зачистка"
+            }
+        ]
+    },
+    {
+        "name": "Ползун",
+        "imageKey": "crawler",
+        "locations": [
+            {
+                "last_verified": "2018-04-06",
+                "level": "6-16",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "Земля",
+                "type": "Раскопки"
+            },
+            {
+                "last_verified": "2018-05-13",
+                "level": "6-11",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Apollodorus",
+                "planet": "Меркурий",
+                "type": "Выживание"
+            },
+            {
+                "last_verified": "2019-05-30",
+                "level": "18-20",
+                "faction": "Война Зачистка",
+                "spawn_rate": "100%",
+                "mission": "Armaros",
+                "planet": "Европа",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-03-07",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Эрида",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-03-07",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Brugia",
+                "planet": "Эрида",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2018-03-20",
+                "level": "25-35",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Руины Орокин: Убийство",
+                "planet": "Руины",
+                "type": "Убийство"
+            }
+        ]
+    },
+    {
+        "name": "Солдат Корпуса [Research]",
+        "imageKey": "crewman",
+        "locations": [
+            {
+                "last_verified": "2019-08-16",
+                "level": "25-30",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Copernicus",
+                "planet": "Луа",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Повелитель Драков",
+        "imageKey": "drahk_master",
+        "locations": [
+            {
+                "last_verified": "2019-01-31",
+                "level": "21-23",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Сатурн",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-31",
+                "level": "22-24",
+                "faction": "Гринир",
+                "spawn_rate": "90%",
+                "mission": "Anthe",
+                "planet": "Сатурн",
+                "type": "Спасение"
+            }
+        ]
+    },
+    {
+        "name": "Элитный солдат Корпуса",
+        "imageKey": "elite_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-09-28",
+                "level": "25-30",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Copernicus",
+                "planet": "Луа",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-09-28",
+                "level": "25-30",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Zeipel",
+                "planet": "Луа",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-08-16",
+                "level": "5-7",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Venera",
+                "planet": "Венера",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Потрошитель",
+        "imageKey": "eviscerator",
+        "locations": [
+            {
+                "last_verified": "2019-01-24",
+                "level": "10-12",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "Марс",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-15",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Лекс",
+                "planet": "Церера",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-15",
+                "level": "13-15",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "Церера",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-09-12",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Ker",
+                "planet": "Церера",
+                "type": "Диверсия"
+            }
+        ]
+    },
+    {
+        "name": "Гибридный МОА",
+        "imageKey": "fusion_moa",
+        "locations": [
+            {
+                "last_verified": "2019-01-29",
+                "level": "9-11",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Gradivus",
+                "planet": "Марс",
+                "type": "Диверсия"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "12-14",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Skyresh",
+                "planet": "Фобос",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "21-23",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Abaddon",
+                "planet": "Европа",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "30-34",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Hydra",
+                "planet": "Плутон",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Охранник [Research]",
+        "imageKey": "guardsman",
+        "locations": [
+            {
+                "last_verified": "2019-11-23",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Лекс",
+                "planet": "Церера",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-01",
+                "level": "13-15",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "Церера",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-02-01",
+                "level": "13-15",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Ludi",
+                "planet": "Церера",
+                "type": "Налёт"
+            }
+        ]
+    },
+    {
+        "name": "Пулемётчик",
+        "imageKey": "heavy_gunner",
+        "locations": [
+            {
+                "last_verified": "2019-08-13",
+                "level": "7-9",
+                "faction": "Гринир",
+                "spawn_rate": "77%",
+                "mission": "Elion",
+                "planet": "Меркурий",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "6-8",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Caloris",
+                "planet": "Меркурий",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Лекс",
+                "planet": "Церера",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "32-36",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Rusalka",
+                "planet": "Седна",
+                "type": "Диверсия"
+            }
+        ]
+    },
+    {
+        "name": "Изгнанник",
+        "imageKey": "hellion",
+        "locations": [
+            {
+                "last_verified": "2019-08-15",
+                "level": "10-12",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "Марс",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-03-30",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Лекс",
+                "planet": "Церера",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-03-30",
+                "level": "32-36",
+                "faction": "Гринир",
+                "spawn_rate": "90%",
+                "mission": "Rusalka",
+                "planet": "Седна",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Солдат Гринир [Research]",
+        "imageKey": "lancer",
+        "locations": [
+            {
+                "last_verified": "2019-02-14",
+                "level": "7-9",
+                "faction": "Гринир",
+                "spawn_rate": "81%",
+                "mission": "Elion",
+                "planet": "Меркурий",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "6-8",
+                "faction": "Гринир",
+                "spawn_rate": "80%",
+                "mission": "Caloris",
+                "planet": "Меркурий",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "6-8",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Pantheon",
+                "planet": "Меркурий",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-06-24",
+                "level": "21-23",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Сатурн",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "34-38",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Kappa",
+                "planet": "Седна",
+                "type": "Шпионаж"
+            }
+        ]
+    },
+    {
+        "name": "Прыгун",
+        "imageKey": "leaper",
+        "locations": [
+            {
+                "last_verified": "2019-01-13",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Эрида",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2018-09-23",
+                "level": "6-16",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "Земля",
+                "type": "Раскопки"
+            },
+            {
+                "last_verified": "2019-01-13",
+                "level": "8-10",
+                "faction": "Война Зачистка",
+                "spawn_rate": "92%",
+                "mission": "Terminus",
+                "planet": "Меркурий",
+                "type": "Диверсия"
+            },
+            {
+                "last_verified": "2018-09-23",
+                "level": "7-9",
+                "faction": "Война Зачистка",
+                "spawn_rate": "33%",
+                "mission": "M Prime",
+                "planet": "Меркурий",
+                "type": "Зачистка"
+            }
+        ]
+    },
+    {
+        "name": "МОА Шагоход",
+        "imageKey": "moa",
+        "locations": [
+            {
+                "last_verified": "2019-04-04",
+                "level": "5-7",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Venera",
+                "planet": "Венера",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-04-04",
+                "level": "5-7",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Linea",
+                "planet": "Венера",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-04-04",
+                "level": "3-5",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "E-Gate",
+                "planet": "Венера",
+                "type": "Зачистка"
+            }
+        ]
+    },
+    {
+        "name": "Огнемётчик",
+        "imageKey": "napalm",
+        "locations": [
+            {
+                "last_verified": "2019-01-21",
+                "level": "21-23",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Сатурн",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2018-08-04",
+                "level": "30-40",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Selkie (Не подтверждено)",
+                "planet": "Седна",
+                "type": "Выживание"
+            }
+        ]
+    },
+    {
+        "name": "Нуллификатор Корпуса",
+        "imageKey": "nullifier_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-06-27",
+                "level": "21-23",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Abaddon",
+                "planet": "Европа",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-04-06",
+                "level": "21-23",
+                "faction": "Корпус",
+                "spawn_rate": "100%",
+                "mission": "Orias (Не подтверждено)",
+                "planet": "Европа",
+                "type": "Спасение"
+            }
+        ]
+    },
+    {
+        "name": "Бегун [Research]",
+        "imageKey": "runner",
+        "locations": [
+            {
+                "last_verified": "2018-01-06",
+                "level": "34-38",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Saxis",
+                "planet": "Эрида",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2018-08-31",
+                "level": "34-38",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Руины Орокин: Зачистка",
+                "planet": "Руины",
+                "type": "Зачистка"
+            }
+        ]
+    },
+    {
+        "name": "Напалм",
+        "imageKey": "scorch",
+        "locations": [
+            {
+                "last_verified": "2019-08-13",
+                "level": "21-23",
+                "faction": "Гринир",
+                "spawn_rate": "95%",
+                "mission": "Cassini",
+                "planet": "Сатурн",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-16",
+                "level": "22-24",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "Сатурн",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-01-16",
+                "level": "22-24",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "ANTHE",
+                "planet": "Сатурн",
+                "type": "Спасение"
+            }
+        ]
+    },
+    {
+        "name": "Скорпион",
+        "imageKey": "scorpion",
+        "locations": [
+            {
+                "last_verified": "2019-02-02",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "58%",
+                "mission": "Лекс",
+                "planet": "Церера",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-03",
+                "level": "21-23",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Сатурн",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-03",
+                "level": "22-24",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "Сатурн",
+                "type": "Спасение"
+            }
+        ]
+    },
+    {
+        "name": "Искатель / Пограничный Искатель",
+        "imageKey": "seeker",
+        "locations": [
+            {
+                "last_verified": "2020-03-10",
+                "level": "1-3",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "E-Prime",
+                "planet": "Земля",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-11-28",
+                "level": "14-16",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Лекс",
+                "planet": "Церера",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-02-11",
+                "level": "13-15",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "Церера",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-08-09",
+                "level": "34-38",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Kappa",
+                "planet": "Седна",
+                "type": "Шпионаж"
+            }
+        ]
+    },
+    {
+        "name": "Щитоносец",
+        "imageKey": "shield_lancer",
+        "locations": [
+            {
+                "last_verified": "2019-01-30",
+                "level": "6-8",
+                "faction": "Гринир",
+                "spawn_rate": "75%",
+                "mission": "Pantheon",
+                "planet": "Меркурий",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-01-30",
+                "level": "6-8",
+                "faction": "Гринир",
+                "spawn_rate": "40%",
+                "mission": "Caloris",
+                "planet": "Меркурий",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-04-18",
+                "level": "7-9",
+                "faction": "Гринир",
+                "spawn_rate": "76%",
+                "mission": "Elion",
+                "planet": "Меркурий",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-10-21",
+                "level": "21-23",
+                "faction": "Гринир",
+                "spawn_rate": "88%",
+                "mission": "Cassini",
+                "planet": "Сатурн",
+                "type": "Захват"
+            }
+        ]
+    },
+    {
+        "name": "Роевик-Муталист МОА",
+        "imageKey": "swarm-mutalist_moa",
+        "locations": [
+            {
+                "last_verified": "2019-01-19",
+                "level": "18-20",
+                "faction": "Война Зачистка",
+                "spawn_rate": "100%",
+                "mission": "Armaros",
+                "planet": "Европа",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-01-19",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Эрида",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-19",
+                "level": "32-36",
+                "faction": "Заражённые",
+                "spawn_rate": "100%",
+                "mission": "Brugia",
+                "planet": "Эрида",
+                "type": "Спасение"
+            }
+        ]
+    },
+    {
+        "name": "Пехотинец",
+        "imageKey": "trooper",
+        "locations": [
+            {
+                "last_verified": "2019-01-22",
+                "level": "2-4",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "Земля",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "1-3",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "E Prime",
+                "planet": "Земля",
+                "type": "Зачистка"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "22-24",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "Сатурн",
+                "type": "Спасение"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "22-24",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Сатурн",
+                "type": "Захват"
+            },
+            {
+                "last_verified": "2018-09-14",
+                "level": "32-36",
+                "faction": "Гринир",
+                "spawn_rate": "100%",
+                "mission": "Adaro",
+                "planet": "Седна",
+                "type": "Зачистка"
+            }
+        ]
+    }
 ]

@@ -1,1262 +1,1262 @@
 [
-  {
-    "name": "远古干扰者",
-    "imageKey": "ancient_disruptor",
-    "locations": [
-      {
-        "last_verified": "2019-02-24",
-        "level": "6-16",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "地球",
-        "type": "挖掘"
-      },
-      {
-        "last_verified": "2019-02-24",
-        "level": "8-10",
-        "faction": "雙方交戰",
-        "spawn_rate": "100%",
-        "mission": "Terminus",
-        "planet": "水星",
-        "type": "破壞"
-      },
-      {
-        "last_verified": "2019-02-24",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "鬩神星",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "远古治愈者",
-    "imageKey": "ancient_healer",
-    "locations": [
-      {
-        "last_verified": "2018-08-22",
-        "level": "10-15",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Hepit (未确认)",
-        "planet": "虚空",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "逆进恐鸟 [Research]",
-    "imageKey": "anti_moa",
-    "locations": [
-      {
-        "last_verified": "2019-07-01",
-        "level": "34-38",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Acheron",
-        "planet": "冥王星",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2020-01-28",
-        "level": "21-23",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Baal",
-        "planet": "歐羅巴",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "0000-00-00",
-        "level": "18-33",
-        "faction": "Corpus",
-        "spawn_rate": "?%",
-        "mission": "Valefor",
-        "planet": "歐羅巴",
-        "type": "挖掘"
-      }
-    ]
-  },
-  {
-    "name": "沙漠开膛者 [Research]",
-    "imageKey": "arid_eviscerator",
-    "locations": [
-      {
-        "last_verified": "2018-04-16",
-        "level": "10-12",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "火星",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "弩炮",
-    "imageKey": "ballista",
-    "locations": [
-      {
-        "last_verified": "2019-02-15",
-        "level": "2-4",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "地球",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-15",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "雷克斯",
-        "planet": "穀神星",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "痈裂者",
-    "imageKey": "boiler",
-    "locations": [
-      {
-        "last_verified": "2019-01-23",
-        "level": "23-33",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Cholistan",
-        "planet": "歐羅巴",
-        "type": "挖掘"
-      },
-      {
-        "last_verified": "2019-01-23",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "鬩神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-23",
-        "level": "25-35",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Orokin Derelict Capture",
-        "planet": "Orokin 遺跡船",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "轰击者",
-    "imageKey": "bombard",
-    "locations": [
-      {
-        "last_verified": "2019-01-20",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ker",
-        "planet": "穀神星",
-        "type": "破壞"
-      },
-      {
-        "last_verified": "2019-01-08",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "雷克斯",
-        "planet": "穀神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-20",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "穀神星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-01-20",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Exta",
-        "planet": "穀神星",
-        "type": "刺殺"
-      }
-    ]
-  },
-  {
-    "name": "病变虫母",
-    "imageKey": "brood_mother",
-    "locations": [
-      {
-        "last_verified": "2019-04-16",
-        "level": "6-16",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "地球",
-        "type": "挖掘"
-      },
-      {
-        "last_verified": "2019-01-26",
-        "level": "15-25",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Gabii",
-        "planet": "穀神星",
-        "type": "生存"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "25-35",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Assur",
-        "planet": "天王星",
-        "type": "生存"
-      },
-      {
-        "last_verified": "2019-01-26",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "鬩神星",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "屠夫",
-    "imageKey": "butcher",
-    "locations": [
-      {
-        "last_verified": "2019-02-26",
-        "level": "2-4",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "地球",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2018-09-25",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "70%",
-        "mission": "Caloris",
-        "planet": "水星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-06-26",
-        "level": "7-9",
-        "faction": "Grineer",
-        "spawn_rate": "78%",
-        "mission": "Elion",
-        "planet": "水星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-26",
-        "level": "36-40",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Rusalka",
-        "planet": "賽德娜",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "疾冲者",
-    "imageKey": "charger",
-    "locations": [
-      {
-        "last_verified": "2019-06-27",
-        "level": "8-10",
-        "faction": "雙方交戰",
-        "spawn_rate": "100%",
-        "mission": "Terminus",
-        "planet": "水星",
-        "type": "破壞"
-      },
-      {
-        "last_verified": "2019-09-01",
-        "level": "7-9",
-        "faction": "雙方交戰",
-        "spawn_rate": "100%",
-        "mission": "M Prime",
-        "planet": "水星",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-06-27",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "鬩神星",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "指挥官",
-    "imageKey": "commander",
-    "locations": [
-      {
-        "last_verified": "2018-05-08",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Telesto",
-        "planet": "土星",
-        "type": "殲滅"
-      }
-    ]
-  },
-  {
-    "name": "远古堕落者 [Research]",
-    "imageKey": "corrupted_ancient",
-    "locations": [
-      {
-        "last_verified": "2019-02-05",
-        "level": "10-15",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "虚空",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-05",
-        "level": "20-25",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Stribog",
-        "planet": "虚空",
-        "type": "破壞"
-      },
-      {
-        "last_verified": "2019-02-05",
-        "level": "20-25",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Ani",
-        "planet": "虚空",
-        "type": "生存"
-      }
-    ]
-  },
-  {
-    "name": "堕落轰击者",
-    "imageKey": "corrupted_bombard",
-    "locations": [
-      {
-        "last_verified": "2019-06-05",
-        "level": "30-35",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Oxomoco",
-        "planet": "虚空",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-01-12",
-        "level": "40-45",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Marduk",
-        "planet": "虚空",
-        "type": "破壞"
-      }
-    ]
-  },
-  {
-    "name": "堕落屠夫",
-    "imageKey": "corrupted_butcher",
-    "locations": [
-      {
-        "last_verified": "2019-01-25",
-        "level": "10-15",
-        "faction": "奥罗金",
-        "spawn_rate": "94%",
-        "mission": "Hepit",
-        "planet": "虚空",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-25",
-        "level": "10-15",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "虚空",
-        "type": "殲滅"
-      }
-    ]
-  },
-  {
-    "name": "堕落船员",
-    "imageKey": "corrupted_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-01-28",
-        "level": "10-15",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "虚空",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-01-28",
-        "level": "10-15",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "虚空",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "堕落重型机枪手",
-    "imageKey": "corrupted_heavy_gunner",
-    "locations": [
-      {
-        "last_verified": "2019-03-23",
-        "level": "10-15",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "虚空",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-03-23",
-        "level": "10-15",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "虚空",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-03-23",
-        "level": "30-35",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Ukko",
-        "planet": "虚空",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "堕落枪兵",
-    "imageKey": "corrupted_lancer",
-    "locations": [
-      {
-        "last_verified": "2018-04-15",
-        "level": "10-15",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "虚空",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-03-17",
-        "level": "30-35",
-        "faction": "奥罗金",
-        "spawn_rate": "100%",
-        "mission": "Ukko",
-        "planet": "虚空",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "堕落虚能者",
-    "imageKey": "corrupted_nullifier",
-    "locations": [
-      {
-        "last_verified": "2019-08-14",
-        "level": "30-35",
-        "faction": "奥罗金",
-        "spawn_rate": "78%",
-        "mission": "Oxomoco",
-        "planet": "虚空",
-        "type": "殲滅"
-      }
-    ]
-  },
-  {
-    "name": "爬行者",
-    "imageKey": "crawler",
-    "locations": [
-      {
-        "last_verified": "2018-04-06",
-        "level": "6-16",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "地球",
-        "type": "挖掘"
-      },
-      {
-        "last_verified": "2018-05-13",
-        "level": "6-11",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Apollodorus",
-        "planet": "水星",
-        "type": "生存"
-      },
-      {
-        "last_verified": "2019-05-30",
-        "level": "18-20",
-        "faction": "雙方交戰",
-        "spawn_rate": "100%",
-        "mission": "Armaros",
-        "planet": "歐羅巴",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-03-07",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "鬩神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-03-07",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Brugia",
-        "planet": "鬩神星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2018-03-20",
-        "level": "25-35",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Orokin 遗迹 刺杀",
-        "planet": "Orokin 遺跡船",
-        "type": "刺殺"
-      }
-    ]
-  },
-  {
-    "name": "船员 [Research]",
-    "imageKey": "crewman",
-    "locations": [
-      {
-        "last_verified": "2019-08-16",
-        "level": "25-30",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Copernicus",
-        "planet": "月球",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "爪喀驯兽师",
-    "imageKey": "drahk_master",
-    "locations": [
-      {
-        "last_verified": "2019-01-31",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "土星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-31",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "90%",
-        "mission": "Anthe",
-        "planet": "土星",
-        "type": "救援"
-      }
-    ]
-  },
-  {
-    "name": "精英船员",
-    "imageKey": "elite_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-09-28",
-        "level": "25-30",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Copernicus",
-        "planet": "月球",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-09-28",
-        "level": "25-30",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Zeipel",
-        "planet": "月球",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-08-16",
-        "level": "5-7",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Venera",
-        "planet": "金星",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "开膛者",
-    "imageKey": "eviscerator",
-    "locations": [
-      {
-        "last_verified": "2019-01-24",
-        "level": "10-12",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "火星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-15",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "雷克斯",
-        "planet": "穀神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-15",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "穀神星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-09-12",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ker",
-        "planet": "穀神星",
-        "type": "破壞"
-      }
-    ]
-  },
-  {
-    "name": "熔岩恐鸟",
-    "imageKey": "fusion_moa",
-    "locations": [
-      {
-        "last_verified": "2019-01-29",
-        "level": "9-11",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Gradivus",
-        "planet": "火星",
-        "type": "破壞"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "12-14",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Skyresh",
-        "planet": "火衛一",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "21-23",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Abaddon",
-        "planet": "歐羅巴",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "30-34",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Hydra",
-        "planet": "冥王星",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "禁卫 [Research]",
-    "imageKey": "guardsman",
-    "locations": [
-      {
-        "last_verified": "2019-11-23",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "雷克斯",
-        "planet": "穀神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-01",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "穀神星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-02-01",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ludi",
-        "planet": "穀神星",
-        "type": "劫持"
-      }
-    ]
-  },
-  {
-    "name": "重型机枪手",
-    "imageKey": "heavy_gunner",
-    "locations": [
-      {
-        "last_verified": "2019-08-13",
-        "level": "7-9",
-        "faction": "Grineer",
-        "spawn_rate": "77%",
-        "mission": "Elion",
-        "planet": "水星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Caloris",
-        "planet": "水星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "雷克斯",
-        "planet": "穀神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "32-36",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Rusalka",
-        "planet": "賽德娜",
-        "type": "破壞"
-      }
-    ]
-  },
-  {
-    "name": "恶徒",
-    "imageKey": "hellion",
-    "locations": [
-      {
-        "last_verified": "2019-08-15",
-        "level": "10-12",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "火星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-03-30",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "雷克斯",
-        "planet": "穀神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-03-30",
-        "level": "32-36",
-        "faction": "Grineer",
-        "spawn_rate": "90%",
-        "mission": "Rusalka",
-        "planet": "賽德娜",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "枪兵 [Research]",
-    "imageKey": "lancer",
-    "locations": [
-      {
-        "last_verified": "2019-02-14",
-        "level": "7-9",
-        "faction": "Grineer",
-        "spawn_rate": "81%",
-        "mission": "Elion",
-        "planet": "水星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "80%",
-        "mission": "Caloris",
-        "planet": "水星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Pantheon",
-        "planet": "水星",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-06-24",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "土星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "34-38",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Kappa",
-        "planet": "賽德娜",
-        "type": "間諜"
-      }
-    ]
-  },
-  {
-    "name": "奔跳者",
-    "imageKey": "leaper",
-    "locations": [
-      {
-        "last_verified": "2019-01-13",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "鬩神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2018-09-23",
-        "level": "6-16",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "地球",
-        "type": "挖掘"
-      },
-      {
-        "last_verified": "2019-01-13",
-        "level": "8-10",
-        "faction": "雙方交戰",
-        "spawn_rate": "92%",
-        "mission": "Terminus",
-        "planet": "水星",
-        "type": "破壞"
-      },
-      {
-        "last_verified": "2018-09-23",
-        "level": "7-9",
-        "faction": "雙方交戰",
-        "spawn_rate": "33%",
-        "mission": "M Prime",
-        "planet": "水星",
-        "type": "殲滅"
-      }
-    ]
-  },
-  {
-    "name": "恐鸟",
-    "imageKey": "moa",
-    "locations": [
-      {
-        "last_verified": "2019-04-04",
-        "level": "5-7",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Venera",
-        "planet": "金星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-04-04",
-        "level": "5-7",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Linea",
-        "planet": "金星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-04-04",
-        "level": "3-5",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "E-Gate",
-        "planet": "金星",
-        "type": "殲滅"
-      }
-    ]
-  },
-  {
-    "name": "火焰轰击者",
-    "imageKey": "napalm",
-    "locations": [
-      {
-        "last_verified": "2019-01-21",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "土星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2018-08-04",
-        "level": "30-40",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Selkie (未确认)",
-        "planet": "賽德娜",
-        "type": "生存"
-      }
-    ]
-  },
-  {
-    "name": "虚能船员",
-    "imageKey": "nullifier_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-06-27",
-        "level": "21-23",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Abaddon",
-        "planet": "歐羅巴",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-04-06",
-        "level": "21-23",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Orias (未确认)",
-        "planet": "歐羅巴",
-        "type": "救援"
-      }
-    ]
-  },
-  {
-    "name": "狂奔者 [Research]",
-    "imageKey": "runner",
-    "locations": [
-      {
-        "last_verified": "2018-01-06",
-        "level": "34-38",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Saxis",
-        "planet": "鬩神星",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2018-08-31",
-        "level": "34-38",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Orokin 遗迹 歼灭",
-        "planet": "Orokin 遺跡船",
-        "type": "殲滅"
-      }
-    ]
-  },
-  {
-    "name": "Scorch",
-    "imageKey": "scorch",
-    "locations": [
-      {
-        "last_verified": "2019-08-13",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "95%",
-        "mission": "Cassini",
-        "planet": "土星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-16",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "土星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-01-16",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "ANTHE",
-        "planet": "土星",
-        "type": "救援"
-      }
-    ]
-  },
-  {
-    "name": "天蝎",
-    "imageKey": "scorpion",
-    "locations": [
-      {
-        "last_verified": "2019-02-02",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "58%",
-        "mission": "雷克斯",
-        "planet": "穀神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-03",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "土星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-03",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "土星",
-        "type": "救援"
-      }
-    ]
-  },
-  {
-    "name": "追踪者 / 前线追踪者",
-    "imageKey": "seeker",
-    "locations": [
-      {
-        "last_verified": "2020-03-10",
-        "level": "1-3",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "E-Prime",
-        "planet": "地球",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-11-28",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "雷克斯",
-        "planet": "穀神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-02-11",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "穀神星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-08-09",
-        "level": "34-38",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Kappa",
-        "planet": "賽德娜",
-        "type": "間諜"
-      }
-    ]
-  },
-  {
-    "name": "盾枪兵",
-    "imageKey": "shield_lancer",
-    "locations": [
-      {
-        "last_verified": "2019-01-30",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "75%",
-        "mission": "Pantheon",
-        "planet": "水星",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-01-30",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "40%",
-        "mission": "Caloris",
-        "planet": "水星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-04-18",
-        "level": "7-9",
-        "faction": "Grineer",
-        "spawn_rate": "76%",
-        "mission": "Elion",
-        "planet": "水星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-10-21",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "88%",
-        "mission": "Cassini",
-        "planet": "土星",
-        "type": "捕獲"
-      }
-    ]
-  },
-  {
-    "name": "异融胞群恐鸟",
-    "imageKey": "swarm-mutalist_moa",
-    "locations": [
-      {
-        "last_verified": "2019-01-19",
-        "level": "18-20",
-        "faction": "雙方交戰",
-        "spawn_rate": "100%",
-        "mission": "Armaros",
-        "planet": "歐羅巴",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-01-19",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "鬩神星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-19",
-        "level": "32-36",
-        "faction": "Infested",
-        "spawn_rate": "100%",
-        "mission": "Brugia",
-        "planet": "鬩神星",
-        "type": "救援"
-      }
-    ]
-  },
-  {
-    "name": "骑兵",
-    "imageKey": "trooper",
-    "locations": [
-      {
-        "last_verified": "2019-01-22",
-        "level": "2-4",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "地球",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "1-3",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "E Prime",
-        "planet": "地球",
-        "type": "殲滅"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "土星",
-        "type": "救援"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "土星",
-        "type": "捕獲"
-      },
-      {
-        "last_verified": "2018-09-14",
-        "level": "32-36",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Adaro",
-        "planet": "賽德娜",
-        "type": "殲滅"
-      }
-    ]
-  }
+    {
+        "name": "远古干扰者",
+        "imageKey": "ancient_disruptor",
+        "locations": [
+            {
+                "last_verified": "2019-02-24",
+                "level": "6-16",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "地球",
+                "type": "挖掘"
+            },
+            {
+                "last_verified": "2019-02-24",
+                "level": "8-10",
+                "faction": "雙方交戰",
+                "spawn_rate": "100%",
+                "mission": "Terminus",
+                "planet": "水星",
+                "type": "破壞"
+            },
+            {
+                "last_verified": "2019-02-24",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "鬩神星",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "远古治愈者",
+        "imageKey": "ancient_healer",
+        "locations": [
+            {
+                "last_verified": "2018-08-22",
+                "level": "10-15",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Hepit (未确认)",
+                "planet": "虚空",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "逆进恐鸟 [Research]",
+        "imageKey": "anti_moa",
+        "locations": [
+            {
+                "last_verified": "2019-07-01",
+                "level": "34-38",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Acheron",
+                "planet": "冥王星",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2020-01-28",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Baal",
+                "planet": "歐羅巴",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "0000-00-00",
+                "level": "18-33",
+                "faction": "Corpus",
+                "spawn_rate": "?%",
+                "mission": "Valefor",
+                "planet": "歐羅巴",
+                "type": "挖掘"
+            }
+        ]
+    },
+    {
+        "name": "沙漠开膛者 [Research]",
+        "imageKey": "arid_eviscerator",
+        "locations": [
+            {
+                "last_verified": "2018-04-16",
+                "level": "10-12",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "火星",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "弩炮",
+        "imageKey": "ballista",
+        "locations": [
+            {
+                "last_verified": "2019-02-15",
+                "level": "2-4",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "地球",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-15",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "雷克斯",
+                "planet": "穀神星",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "痈裂者",
+        "imageKey": "boiler",
+        "locations": [
+            {
+                "last_verified": "2019-01-23",
+                "level": "23-33",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Cholistan",
+                "planet": "歐羅巴",
+                "type": "挖掘"
+            },
+            {
+                "last_verified": "2019-01-23",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "鬩神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-23",
+                "level": "25-35",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Orokin Derelict Capture",
+                "planet": "Orokin 遺跡船",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "轰击者",
+        "imageKey": "bombard",
+        "locations": [
+            {
+                "last_verified": "2019-01-20",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ker",
+                "planet": "穀神星",
+                "type": "破壞"
+            },
+            {
+                "last_verified": "2019-01-08",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "雷克斯",
+                "planet": "穀神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-20",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "穀神星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-01-20",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Exta",
+                "planet": "穀神星",
+                "type": "刺殺"
+            }
+        ]
+    },
+    {
+        "name": "病变虫母",
+        "imageKey": "brood_mother",
+        "locations": [
+            {
+                "last_verified": "2019-04-16",
+                "level": "6-16",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "地球",
+                "type": "挖掘"
+            },
+            {
+                "last_verified": "2019-01-26",
+                "level": "15-25",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Gabii",
+                "planet": "穀神星",
+                "type": "生存"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "25-35",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Assur",
+                "planet": "天王星",
+                "type": "生存"
+            },
+            {
+                "last_verified": "2019-01-26",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "鬩神星",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "屠夫",
+        "imageKey": "butcher",
+        "locations": [
+            {
+                "last_verified": "2019-02-26",
+                "level": "2-4",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "地球",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2018-09-25",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "70%",
+                "mission": "Caloris",
+                "planet": "水星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-06-26",
+                "level": "7-9",
+                "faction": "Grineer",
+                "spawn_rate": "78%",
+                "mission": "Elion",
+                "planet": "水星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-26",
+                "level": "36-40",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Rusalka",
+                "planet": "賽德娜",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "疾冲者",
+        "imageKey": "charger",
+        "locations": [
+            {
+                "last_verified": "2019-06-27",
+                "level": "8-10",
+                "faction": "雙方交戰",
+                "spawn_rate": "100%",
+                "mission": "Terminus",
+                "planet": "水星",
+                "type": "破壞"
+            },
+            {
+                "last_verified": "2019-09-01",
+                "level": "7-9",
+                "faction": "雙方交戰",
+                "spawn_rate": "100%",
+                "mission": "M Prime",
+                "planet": "水星",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-06-27",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "鬩神星",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "指挥官",
+        "imageKey": "commander",
+        "locations": [
+            {
+                "last_verified": "2018-05-08",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Telesto",
+                "planet": "土星",
+                "type": "殲滅"
+            }
+        ]
+    },
+    {
+        "name": "远古堕落者 [Research]",
+        "imageKey": "corrupted_ancient",
+        "locations": [
+            {
+                "last_verified": "2019-02-05",
+                "level": "10-15",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "虚空",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-05",
+                "level": "20-25",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Stribog",
+                "planet": "虚空",
+                "type": "破壞"
+            },
+            {
+                "last_verified": "2019-02-05",
+                "level": "20-25",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Ani",
+                "planet": "虚空",
+                "type": "生存"
+            }
+        ]
+    },
+    {
+        "name": "堕落轰击者",
+        "imageKey": "corrupted_bombard",
+        "locations": [
+            {
+                "last_verified": "2019-06-05",
+                "level": "30-35",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Oxomoco",
+                "planet": "虚空",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-01-12",
+                "level": "40-45",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Marduk",
+                "planet": "虚空",
+                "type": "破壞"
+            }
+        ]
+    },
+    {
+        "name": "堕落屠夫",
+        "imageKey": "corrupted_butcher",
+        "locations": [
+            {
+                "last_verified": "2019-01-25",
+                "level": "10-15",
+                "faction": "奥罗金",
+                "spawn_rate": "94%",
+                "mission": "Hepit",
+                "planet": "虚空",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-25",
+                "level": "10-15",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "虚空",
+                "type": "殲滅"
+            }
+        ]
+    },
+    {
+        "name": "堕落船员",
+        "imageKey": "corrupted_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-01-28",
+                "level": "10-15",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "虚空",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-01-28",
+                "level": "10-15",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "虚空",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "堕落重型机枪手",
+        "imageKey": "corrupted_heavy_gunner",
+        "locations": [
+            {
+                "last_verified": "2019-03-23",
+                "level": "10-15",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "虚空",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-03-23",
+                "level": "10-15",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "虚空",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-03-23",
+                "level": "30-35",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Ukko",
+                "planet": "虚空",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "堕落枪兵",
+        "imageKey": "corrupted_lancer",
+        "locations": [
+            {
+                "last_verified": "2018-04-15",
+                "level": "10-15",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "虚空",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-03-17",
+                "level": "30-35",
+                "faction": "奥罗金",
+                "spawn_rate": "100%",
+                "mission": "Ukko",
+                "planet": "虚空",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "堕落虚能者",
+        "imageKey": "corrupted_nullifier",
+        "locations": [
+            {
+                "last_verified": "2019-08-14",
+                "level": "30-35",
+                "faction": "奥罗金",
+                "spawn_rate": "78%",
+                "mission": "Oxomoco",
+                "planet": "虚空",
+                "type": "殲滅"
+            }
+        ]
+    },
+    {
+        "name": "爬行者",
+        "imageKey": "crawler",
+        "locations": [
+            {
+                "last_verified": "2018-04-06",
+                "level": "6-16",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "地球",
+                "type": "挖掘"
+            },
+            {
+                "last_verified": "2018-05-13",
+                "level": "6-11",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Apollodorus",
+                "planet": "水星",
+                "type": "生存"
+            },
+            {
+                "last_verified": "2019-05-30",
+                "level": "18-20",
+                "faction": "雙方交戰",
+                "spawn_rate": "100%",
+                "mission": "Armaros",
+                "planet": "歐羅巴",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-03-07",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "鬩神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-03-07",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Brugia",
+                "planet": "鬩神星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2018-03-20",
+                "level": "25-35",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Orokin 遗迹 刺杀",
+                "planet": "Orokin 遺跡船",
+                "type": "刺殺"
+            }
+        ]
+    },
+    {
+        "name": "船员 [Research]",
+        "imageKey": "crewman",
+        "locations": [
+            {
+                "last_verified": "2019-08-16",
+                "level": "25-30",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Copernicus",
+                "planet": "月球",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "爪喀驯兽师",
+        "imageKey": "drahk_master",
+        "locations": [
+            {
+                "last_verified": "2019-01-31",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "土星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-31",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "90%",
+                "mission": "Anthe",
+                "planet": "土星",
+                "type": "救援"
+            }
+        ]
+    },
+    {
+        "name": "精英船员",
+        "imageKey": "elite_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-09-28",
+                "level": "25-30",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Copernicus",
+                "planet": "月球",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-09-28",
+                "level": "25-30",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Zeipel",
+                "planet": "月球",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-08-16",
+                "level": "5-7",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Venera",
+                "planet": "金星",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "开膛者",
+        "imageKey": "eviscerator",
+        "locations": [
+            {
+                "last_verified": "2019-01-24",
+                "level": "10-12",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "火星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-15",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "雷克斯",
+                "planet": "穀神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-15",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "穀神星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-09-12",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ker",
+                "planet": "穀神星",
+                "type": "破壞"
+            }
+        ]
+    },
+    {
+        "name": "熔岩恐鸟",
+        "imageKey": "fusion_moa",
+        "locations": [
+            {
+                "last_verified": "2019-01-29",
+                "level": "9-11",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Gradivus",
+                "planet": "火星",
+                "type": "破壞"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "12-14",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Skyresh",
+                "planet": "火衛一",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Abaddon",
+                "planet": "歐羅巴",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "30-34",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Hydra",
+                "planet": "冥王星",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "禁卫 [Research]",
+        "imageKey": "guardsman",
+        "locations": [
+            {
+                "last_verified": "2019-11-23",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "雷克斯",
+                "planet": "穀神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-01",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "穀神星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-02-01",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ludi",
+                "planet": "穀神星",
+                "type": "劫持"
+            }
+        ]
+    },
+    {
+        "name": "重型机枪手",
+        "imageKey": "heavy_gunner",
+        "locations": [
+            {
+                "last_verified": "2019-08-13",
+                "level": "7-9",
+                "faction": "Grineer",
+                "spawn_rate": "77%",
+                "mission": "Elion",
+                "planet": "水星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Caloris",
+                "planet": "水星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "雷克斯",
+                "planet": "穀神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "32-36",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Rusalka",
+                "planet": "賽德娜",
+                "type": "破壞"
+            }
+        ]
+    },
+    {
+        "name": "恶徒",
+        "imageKey": "hellion",
+        "locations": [
+            {
+                "last_verified": "2019-08-15",
+                "level": "10-12",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "火星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-03-30",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "雷克斯",
+                "planet": "穀神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-03-30",
+                "level": "32-36",
+                "faction": "Grineer",
+                "spawn_rate": "90%",
+                "mission": "Rusalka",
+                "planet": "賽德娜",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "枪兵 [Research]",
+        "imageKey": "lancer",
+        "locations": [
+            {
+                "last_verified": "2019-02-14",
+                "level": "7-9",
+                "faction": "Grineer",
+                "spawn_rate": "81%",
+                "mission": "Elion",
+                "planet": "水星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "80%",
+                "mission": "Caloris",
+                "planet": "水星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Pantheon",
+                "planet": "水星",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-06-24",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "土星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "34-38",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Kappa",
+                "planet": "賽德娜",
+                "type": "間諜"
+            }
+        ]
+    },
+    {
+        "name": "奔跳者",
+        "imageKey": "leaper",
+        "locations": [
+            {
+                "last_verified": "2019-01-13",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "鬩神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2018-09-23",
+                "level": "6-16",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "地球",
+                "type": "挖掘"
+            },
+            {
+                "last_verified": "2019-01-13",
+                "level": "8-10",
+                "faction": "雙方交戰",
+                "spawn_rate": "92%",
+                "mission": "Terminus",
+                "planet": "水星",
+                "type": "破壞"
+            },
+            {
+                "last_verified": "2018-09-23",
+                "level": "7-9",
+                "faction": "雙方交戰",
+                "spawn_rate": "33%",
+                "mission": "M Prime",
+                "planet": "水星",
+                "type": "殲滅"
+            }
+        ]
+    },
+    {
+        "name": "恐鸟",
+        "imageKey": "moa",
+        "locations": [
+            {
+                "last_verified": "2019-04-04",
+                "level": "5-7",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Venera",
+                "planet": "金星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-04-04",
+                "level": "5-7",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Linea",
+                "planet": "金星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-04-04",
+                "level": "3-5",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "E-Gate",
+                "planet": "金星",
+                "type": "殲滅"
+            }
+        ]
+    },
+    {
+        "name": "火焰轰击者",
+        "imageKey": "napalm",
+        "locations": [
+            {
+                "last_verified": "2019-01-21",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "土星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2018-08-04",
+                "level": "30-40",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Selkie (未确认)",
+                "planet": "賽德娜",
+                "type": "生存"
+            }
+        ]
+    },
+    {
+        "name": "虚能船员",
+        "imageKey": "nullifier_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-06-27",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Abaddon",
+                "planet": "歐羅巴",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-04-06",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Orias (未确认)",
+                "planet": "歐羅巴",
+                "type": "救援"
+            }
+        ]
+    },
+    {
+        "name": "狂奔者 [Research]",
+        "imageKey": "runner",
+        "locations": [
+            {
+                "last_verified": "2018-01-06",
+                "level": "34-38",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Saxis",
+                "planet": "鬩神星",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2018-08-31",
+                "level": "34-38",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Orokin 遗迹 歼灭",
+                "planet": "Orokin 遺跡船",
+                "type": "殲滅"
+            }
+        ]
+    },
+    {
+        "name": "Scorch",
+        "imageKey": "scorch",
+        "locations": [
+            {
+                "last_verified": "2019-08-13",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "95%",
+                "mission": "Cassini",
+                "planet": "土星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-16",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "土星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-01-16",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "ANTHE",
+                "planet": "土星",
+                "type": "救援"
+            }
+        ]
+    },
+    {
+        "name": "天蝎",
+        "imageKey": "scorpion",
+        "locations": [
+            {
+                "last_verified": "2019-02-02",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "58%",
+                "mission": "雷克斯",
+                "planet": "穀神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-03",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "土星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-03",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "土星",
+                "type": "救援"
+            }
+        ]
+    },
+    {
+        "name": "追踪者 / 前线追踪者",
+        "imageKey": "seeker",
+        "locations": [
+            {
+                "last_verified": "2020-03-10",
+                "level": "1-3",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "E-Prime",
+                "planet": "地球",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-11-28",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "雷克斯",
+                "planet": "穀神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-02-11",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "穀神星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-08-09",
+                "level": "34-38",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Kappa",
+                "planet": "賽德娜",
+                "type": "間諜"
+            }
+        ]
+    },
+    {
+        "name": "盾枪兵",
+        "imageKey": "shield_lancer",
+        "locations": [
+            {
+                "last_verified": "2019-01-30",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "75%",
+                "mission": "Pantheon",
+                "planet": "水星",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-01-30",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "40%",
+                "mission": "Caloris",
+                "planet": "水星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-04-18",
+                "level": "7-9",
+                "faction": "Grineer",
+                "spawn_rate": "76%",
+                "mission": "Elion",
+                "planet": "水星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-10-21",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "88%",
+                "mission": "Cassini",
+                "planet": "土星",
+                "type": "捕獲"
+            }
+        ]
+    },
+    {
+        "name": "异融胞群恐鸟",
+        "imageKey": "swarm-mutalist_moa",
+        "locations": [
+            {
+                "last_verified": "2019-01-19",
+                "level": "18-20",
+                "faction": "雙方交戰",
+                "spawn_rate": "100%",
+                "mission": "Armaros",
+                "planet": "歐羅巴",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-01-19",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "鬩神星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-19",
+                "level": "32-36",
+                "faction": "Infested",
+                "spawn_rate": "100%",
+                "mission": "Brugia",
+                "planet": "鬩神星",
+                "type": "救援"
+            }
+        ]
+    },
+    {
+        "name": "骑兵",
+        "imageKey": "trooper",
+        "locations": [
+            {
+                "last_verified": "2019-01-22",
+                "level": "2-4",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "地球",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "1-3",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "E Prime",
+                "planet": "地球",
+                "type": "殲滅"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "土星",
+                "type": "救援"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "土星",
+                "type": "捕獲"
+            },
+            {
+                "last_verified": "2018-09-14",
+                "level": "32-36",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Adaro",
+                "planet": "賽德娜",
+                "type": "殲滅"
+            }
+        ]
+    }
 ]
