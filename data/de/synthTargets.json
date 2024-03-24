@@ -1,1262 +1,1262 @@
 [
-  {
-    "name": "Uralter Unterbrecher",
-    "imageKey": "ancient_disruptor",
-    "locations": [
-      {
-        "last_verified": "2019-02-24",
-        "level": "6-16",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "Erde",
-        "type": "Ausgrabung"
-      },
-      {
-        "last_verified": "2019-02-24",
-        "level": "8-10",
-        "faction": "Kreuzfeuer",
-        "spawn_rate": "100%",
-        "mission": "Terminus",
-        "planet": "Merkur",
-        "type": "Sabotage"
-      },
-      {
-        "last_verified": "2019-02-24",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Eris",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Uralter Heiler",
-    "imageKey": "ancient_healer",
-    "locations": [
-      {
-        "last_verified": "2018-08-22",
-        "level": "10-15",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Hepit (Unbestätigt)",
-        "planet": "Void",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Anti MOA [Research]",
-    "imageKey": "anti_moa",
-    "locations": [
-      {
-        "last_verified": "2019-07-01",
-        "level": "34-38",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Acheron",
-        "planet": "Pluto",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2020-01-28",
-        "level": "21-23",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Baal",
-        "planet": "Europa",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "0000-00-00",
-        "level": "18-33",
-        "faction": "Corpus",
-        "spawn_rate": "?%",
-        "mission": "Valefor",
-        "planet": "Europa",
-        "type": "Ausgrabung"
-      }
-    ]
-  },
-  {
-    "name": "Wüsten-Ausweider [Research]",
-    "imageKey": "arid_eviscerator",
-    "locations": [
-      {
-        "last_verified": "2018-04-16",
-        "level": "10-12",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "Mars",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Ballista",
-    "imageKey": "ballista",
-    "locations": [
-      {
-        "last_verified": "2019-02-15",
-        "level": "2-4",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "Erde",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-15",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Lex",
-        "planet": "Ceres",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Boiler",
-    "imageKey": "boiler",
-    "locations": [
-      {
-        "last_verified": "2019-01-23",
-        "level": "2019-02-03",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Cholistan",
-        "planet": "Europa",
-        "type": "Ausgrabung"
-      },
-      {
-        "last_verified": "2019-01-23",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Eris",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-23",
-        "level": "25-35",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Orokin Derelict Capture",
-        "planet": "Wrack",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Bombardier",
-    "imageKey": "bombard",
-    "locations": [
-      {
-        "last_verified": "2019-01-20",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ker",
-        "planet": "Ceres",
-        "type": "Sabotage"
-      },
-      {
-        "last_verified": "2019-01-08",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Lex",
-        "planet": "Ceres",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-20",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "Ceres",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-01-20",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Exta",
-        "planet": "Ceres",
-        "type": "Attentat"
-      }
-    ]
-  },
-  {
-    "name": "Brutmutter",
-    "imageKey": "brood_mother",
-    "locations": [
-      {
-        "last_verified": "2019-04-16",
-        "level": "6-16",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "Erde",
-        "type": "Ausgrabung"
-      },
-      {
-        "last_verified": "2019-01-26",
-        "level": "15-25",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Gabii",
-        "planet": "Ceres",
-        "type": "Überleben"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "25-35",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Assur",
-        "planet": "Uranus",
-        "type": "Überleben"
-      },
-      {
-        "last_verified": "2019-01-26",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Eris",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Schlächter",
-    "imageKey": "butcher",
-    "locations": [
-      {
-        "last_verified": "2019-02-26",
-        "level": "2-4",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "Erde",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2018-09-25",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "70%",
-        "mission": "Caloris",
-        "planet": "Merkur",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-06-26",
-        "level": "7-9",
-        "faction": "Grineer",
-        "spawn_rate": "78%",
-        "mission": "Elion",
-        "planet": "Merkur",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-26",
-        "level": "36-40",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Rusalka",
-        "planet": "Sedna",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Stürmer",
-    "imageKey": "charger",
-    "locations": [
-      {
-        "last_verified": "2019-06-27",
-        "level": "8-10",
-        "faction": "Kreuzfeuer",
-        "spawn_rate": "100%",
-        "mission": "Terminus",
-        "planet": "Merkur",
-        "type": "Sabotage"
-      },
-      {
-        "last_verified": "2019-09-01",
-        "level": "7-9",
-        "faction": "Kreuzfeuer",
-        "spawn_rate": "100%",
-        "mission": "M Prime",
-        "planet": "Merkur",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-06-27",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Eris",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Kommandant",
-    "imageKey": "commander",
-    "locations": [
-      {
-        "last_verified": "2018-05-08",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Telesto",
-        "planet": "Saturn",
-        "type": "Auslöschung"
-      }
-    ]
-  },
-  {
-    "name": "Korrumpierter Uralter [Research]",
-    "imageKey": "corrupted_ancient",
-    "locations": [
-      {
-        "last_verified": "2019-02-05",
-        "level": "10-15",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "Void",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-05",
-        "level": "20-25",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Stribog",
-        "planet": "Void",
-        "type": "Sabotage"
-      },
-      {
-        "last_verified": "2019-02-05",
-        "level": "20-25",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Ani",
-        "planet": "Void",
-        "type": "Überleben"
-      }
-    ]
-  },
-  {
-    "name": "Korrumpierter Bombardier",
-    "imageKey": "corrupted_bombard",
-    "locations": [
-      {
-        "last_verified": "2019-06-05",
-        "level": "30-35",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Oxomoco",
-        "planet": "Void",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-01-12",
-        "level": "40-45",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Marduk",
-        "planet": "Void",
-        "type": "Sabotage"
-      }
-    ]
-  },
-  {
-    "name": "Korrumpierter Schlächter",
-    "imageKey": "corrupted_butcher",
-    "locations": [
-      {
-        "last_verified": "2019-01-25",
-        "level": "10-15",
-        "faction": "Orokin",
-        "spawn_rate": "94%",
-        "mission": "Hepit",
-        "planet": "Void",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-25",
-        "level": "10-15",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "Void",
-        "type": "Auslöschung"
-      }
-    ]
-  },
-  {
-    "name": "Korrumpiertes Besatzungsmitglied",
-    "imageKey": "corrupted_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-01-28",
-        "level": "10-15",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "Void",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-01-28",
-        "level": "10-15",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "Void",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Korrumpierter Kanonier",
-    "imageKey": "corrupted_heavy_gunner",
-    "locations": [
-      {
-        "last_verified": "2019-03-23",
-        "level": "10-15",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "Void",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-03-23",
-        "level": "10-15",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Teshub",
-        "planet": "Void",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-03-23",
-        "level": "30-35",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Ukko",
-        "planet": "Void",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Korrumpierter Sturmsoldat",
-    "imageKey": "corrupted_lancer",
-    "locations": [
-      {
-        "last_verified": "2018-04-15",
-        "level": "10-15",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Hepit",
-        "planet": "Void",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-03-17",
-        "level": "30-35",
-        "faction": "Orokin",
-        "spawn_rate": "100%",
-        "mission": "Ukko",
-        "planet": "Void",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Korrumpierte Nullfeld Besatzung",
-    "imageKey": "corrupted_nullifier",
-    "locations": [
-      {
-        "last_verified": "2019-08-14",
-        "level": "30-35",
-        "faction": "Orokin",
-        "spawn_rate": "78%",
-        "mission": "Oxomoco",
-        "planet": "Void",
-        "type": "Auslöschung"
-      }
-    ]
-  },
-  {
-    "name": "Kriecher",
-    "imageKey": "crawler",
-    "locations": [
-      {
-        "last_verified": "2018-04-06",
-        "level": "6-16",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "Erde",
-        "type": "Ausgrabung"
-      },
-      {
-        "last_verified": "2018-05-13",
-        "level": "6-11",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Apollodorus",
-        "planet": "Merkur",
-        "type": "Überleben"
-      },
-      {
-        "last_verified": "2019-05-30",
-        "level": "18-20",
-        "faction": "Kreuzfeuer",
-        "spawn_rate": "100%",
-        "mission": "Armaros",
-        "planet": "Europa",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-03-07",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Eris",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-03-07",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Brugia",
-        "planet": "Eris",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2018-03-20",
-        "level": "25-35",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Orokin Wrack Attentat",
-        "planet": "Wrack",
-        "type": "Attentat"
-      }
-    ]
-  },
-  {
-    "name": "Besatzungsmitglied [Research]",
-    "imageKey": "crewman",
-    "locations": [
-      {
-        "last_verified": "2019-08-16",
-        "level": "25-30",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Copernicus",
-        "planet": "Lua",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Drahk Meister",
-    "imageKey": "drahk_master",
-    "locations": [
-      {
-        "last_verified": "2019-01-31",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Saturn",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-31",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "90%",
-        "mission": "Anthe",
-        "planet": "Saturn",
-        "type": "Rettung"
-      }
-    ]
-  },
-  {
-    "name": "Elite Besatzungsmitglied",
-    "imageKey": "elite_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-09-28",
-        "level": "25-30",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Copernicus",
-        "planet": "Lua",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-09-28",
-        "level": "25-30",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Zeipel",
-        "planet": "Lua",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-08-16",
-        "level": "5-7",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Venera",
-        "planet": "Venus",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Ausweider",
-    "imageKey": "eviscerator",
-    "locations": [
-      {
-        "last_verified": "2019-01-24",
-        "level": "10-12",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "Mars",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-15",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Lex",
-        "planet": "Ceres",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-15",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "Ceres",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-09-12",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ker",
-        "planet": "Ceres",
-        "type": "Sabotage"
-      }
-    ]
-  },
-  {
-    "name": "Fusion MOA",
-    "imageKey": "fusion_moa",
-    "locations": [
-      {
-        "last_verified": "2019-01-29",
-        "level": "9-11",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Gradivus",
-        "planet": "Mars",
-        "type": "Sabotage"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "12-14",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Skyresh",
-        "planet": "Phobos",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "21-23",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Abaddon",
-        "planet": "Europa",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-29",
-        "level": "30-34",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Hydra",
-        "planet": "Pluto",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Gardist [Research]",
-    "imageKey": "guardsman",
-    "locations": [
-      {
-        "last_verified": "2019-11-23",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Lex",
-        "planet": "Ceres",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-01",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "Ceres",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-02-01",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ludi",
-        "planet": "Ceres",
-        "type": "Entführung"
-      }
-    ]
-  },
-  {
-    "name": "Kanonier",
-    "imageKey": "heavy_gunner",
-    "locations": [
-      {
-        "last_verified": "2019-08-13",
-        "level": "7-9",
-        "faction": "Grineer",
-        "spawn_rate": "77%",
-        "mission": "Elion",
-        "planet": "Merkur",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Caloris",
-        "planet": "Merkur",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Lex",
-        "planet": "Ceres",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-08-13",
-        "level": "32-36",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Rusalka",
-        "planet": "Sedna",
-        "type": "Sabotage"
-      }
-    ]
-  },
-  {
-    "name": "Hellion",
-    "imageKey": "hellion",
-    "locations": [
-      {
-        "last_verified": "2019-08-15",
-        "level": "10-12",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Ara",
-        "planet": "Mars",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-03-30",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Lex",
-        "planet": "Ceres",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-03-30",
-        "level": "32-36",
-        "faction": "Grineer",
-        "spawn_rate": "90%",
-        "mission": "Rusalka",
-        "planet": "Sedna",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Sturmsoldat [Research]",
-    "imageKey": "lancer",
-    "locations": [
-      {
-        "last_verified": "2019-02-14",
-        "level": "7-9",
-        "faction": "Grineer",
-        "spawn_rate": "81%",
-        "mission": "Elion",
-        "planet": "Merkur",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "80%",
-        "mission": "Caloris",
-        "planet": "Merkur",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Pantheon",
-        "planet": "Merkur",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-06-24",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Saturn",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-14",
-        "level": "34-38",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Kappa",
-        "planet": "Sedna",
-        "type": "Spionage"
-      }
-    ]
-  },
-  {
-    "name": "Springer",
-    "imageKey": "leaper",
-    "locations": [
-      {
-        "last_verified": "2019-01-13",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Eris",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2018-09-23",
-        "level": "6-16",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Tikal",
-        "planet": "Erde",
-        "type": "Ausgrabung"
-      },
-      {
-        "last_verified": "2019-01-13",
-        "level": "8-10",
-        "faction": "Kreuzfeuer",
-        "spawn_rate": "92%",
-        "mission": "Terminus",
-        "planet": "Merkur",
-        "type": "Sabotage"
-      },
-      {
-        "last_verified": "2018-09-23",
-        "level": "7-9",
-        "faction": "Kreuzfeuer",
-        "spawn_rate": "33%",
-        "mission": "M Prime",
-        "planet": "Merkur",
-        "type": "Auslöschung"
-      }
-    ]
-  },
-  {
-    "name": "MOA",
-    "imageKey": "moa",
-    "locations": [
-      {
-        "last_verified": "2019-04-04",
-        "level": "5-7",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Venera",
-        "planet": "Venus",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-04-04",
-        "level": "5-7",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Linea",
-        "planet": "Venus",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-04-04",
-        "level": "3-5",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "E-Gate",
-        "planet": "Venus",
-        "type": "Auslöschung"
-      }
-    ]
-  },
-  {
-    "name": "Napalm",
-    "imageKey": "napalm",
-    "locations": [
-      {
-        "last_verified": "2019-01-21",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Saturn",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2018-08-04",
-        "level": "30-40",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Selkie (Unbestätigt)",
-        "planet": "Sedna",
-        "type": "Überleben"
-      }
-    ]
-  },
-  {
-    "name": "Nullfeld Besatzungsmitglied",
-    "imageKey": "nullifier_crewman",
-    "locations": [
-      {
-        "last_verified": "2019-06-27",
-        "level": "21-23",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Abaddon",
-        "planet": "Europa",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-04-06",
-        "level": "21-23",
-        "faction": "Corpus",
-        "spawn_rate": "100%",
-        "mission": "Orias (Unbestätigt)",
-        "planet": "Europa",
-        "type": "Rettung"
-      }
-    ]
-  },
-  {
-    "name": "Läufer [Research]",
-    "imageKey": "runner",
-    "locations": [
-      {
-        "last_verified": "2018-01-06",
-        "level": "34-38",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Saxis",
-        "planet": "Eris",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2018-08-31",
-        "level": "34-38",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Orokin Derelict Extermination",
-        "planet": "Wrack",
-        "type": "Auslöschung"
-      }
-    ]
-  },
-  {
-    "name": "Scorch",
-    "imageKey": "scorch",
-    "locations": [
-      {
-        "last_verified": "2019-08-13",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "95%",
-        "mission": "Cassini",
-        "planet": "Saturn",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-16",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "Saturn",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-01-16",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "ANTHE",
-        "planet": "Saturn",
-        "type": "Rettung"
-      }
-    ]
-  },
-  {
-    "name": "Skorpion",
-    "imageKey": "scorpion",
-    "locations": [
-      {
-        "last_verified": "2019-02-02",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "58%",
-        "mission": "Lex",
-        "planet": "Ceres",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-03",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Saturn",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-03",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "Saturn",
-        "type": "Rettung"
-      }
-    ]
-  },
-  {
-    "name": "Jäger",
-    "imageKey": "seeker",
-    "locations": [
-      {
-        "last_verified": "2020-03-10",
-        "level": "1-3",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "E-Prime",
-        "planet": "Erde",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-11-28",
-        "level": "14-16",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Lex",
-        "planet": "Ceres",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-02-11",
-        "level": "13-15",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Nuovo",
-        "planet": "Ceres",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-08-09",
-        "level": "34-38",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Kappa",
-        "planet": "Sedna",
-        "type": "Spionage"
-      }
-    ]
-  },
-  {
-    "name": "Schildträger",
-    "imageKey": "shield_lancer",
-    "locations": [
-      {
-        "last_verified": "2019-01-30",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "75%",
-        "mission": "Pantheon",
-        "planet": "Merkur",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-01-30",
-        "level": "6-8",
-        "faction": "Grineer",
-        "spawn_rate": "40%",
-        "mission": "Caloris",
-        "planet": "Merkur",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-04-18",
-        "level": "7-9",
-        "faction": "Grineer",
-        "spawn_rate": "76%",
-        "mission": "Elion",
-        "planet": "Merkur",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-10-21",
-        "level": "21-23",
-        "faction": "Grineer",
-        "spawn_rate": "88%",
-        "mission": "Cassini",
-        "planet": "Saturn",
-        "type": "Gefangennahme"
-      }
-    ]
-  },
-  {
-    "name": "Schwarm-Mutalist MOA",
-    "imageKey": "swarm-mutalist_moa",
-    "locations": [
-      {
-        "last_verified": "2019-01-19",
-        "level": "18-20",
-        "faction": "Kreuzfeuer",
-        "spawn_rate": "100%",
-        "mission": "Armaros",
-        "planet": "Europa",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-01-19",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Isos",
-        "planet": "Eris",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-19",
-        "level": "32-36",
-        "faction": "Befallene",
-        "spawn_rate": "100%",
-        "mission": "Brugia",
-        "planet": "Eris",
-        "type": "Rettung"
-      }
-    ]
-  },
-  {
-    "name": "Soldat",
-    "imageKey": "trooper",
-    "locations": [
-      {
-        "last_verified": "2019-01-22",
-        "level": "2-4",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Mantle",
-        "planet": "Erde",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "1-3",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "E Prime",
-        "planet": "Erde",
-        "type": "Auslöschung"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Numa",
-        "planet": "Saturn",
-        "type": "Rettung"
-      },
-      {
-        "last_verified": "2019-01-22",
-        "level": "22-24",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Cassini",
-        "planet": "Saturn",
-        "type": "Gefangennahme"
-      },
-      {
-        "last_verified": "2018-09-14",
-        "level": "32-36",
-        "faction": "Grineer",
-        "spawn_rate": "100%",
-        "mission": "Adaro",
-        "planet": "Sedna",
-        "type": "Auslöschung"
-      }
-    ]
-  }
+    {
+        "name": "Uralter Unterbrecher",
+        "imageKey": "ancient_disruptor",
+        "locations": [
+            {
+                "last_verified": "2019-02-24",
+                "level": "6-16",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "Erde",
+                "type": "Ausgrabung"
+            },
+            {
+                "last_verified": "2019-02-24",
+                "level": "8-10",
+                "faction": "Kreuzfeuer",
+                "spawn_rate": "100%",
+                "mission": "Terminus",
+                "planet": "Merkur",
+                "type": "Sabotage"
+            },
+            {
+                "last_verified": "2019-02-24",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Eris",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Uralter Heiler",
+        "imageKey": "ancient_healer",
+        "locations": [
+            {
+                "last_verified": "2018-08-22",
+                "level": "10-15",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Hepit (Unbestätigt)",
+                "planet": "Void",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Anti MOA [Research]",
+        "imageKey": "anti_moa",
+        "locations": [
+            {
+                "last_verified": "2019-07-01",
+                "level": "34-38",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Acheron",
+                "planet": "Pluto",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2020-01-28",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Baal",
+                "planet": "Europa",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "0000-00-00",
+                "level": "18-33",
+                "faction": "Corpus",
+                "spawn_rate": "?%",
+                "mission": "Valefor",
+                "planet": "Europa",
+                "type": "Ausgrabung"
+            }
+        ]
+    },
+    {
+        "name": "Wüsten-Ausweider [Research]",
+        "imageKey": "arid_eviscerator",
+        "locations": [
+            {
+                "last_verified": "2018-04-16",
+                "level": "10-12",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "Mars",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Ballista",
+        "imageKey": "ballista",
+        "locations": [
+            {
+                "last_verified": "2019-02-15",
+                "level": "2-4",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "Erde",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-15",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Lex",
+                "planet": "Ceres",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Boiler",
+        "imageKey": "boiler",
+        "locations": [
+            {
+                "last_verified": "2019-01-23",
+                "level": "2019-02-03",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Cholistan",
+                "planet": "Europa",
+                "type": "Ausgrabung"
+            },
+            {
+                "last_verified": "2019-01-23",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Eris",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-23",
+                "level": "25-35",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Orokin Derelict Capture",
+                "planet": "Wrack",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Bombardier",
+        "imageKey": "bombard",
+        "locations": [
+            {
+                "last_verified": "2019-01-20",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ker",
+                "planet": "Ceres",
+                "type": "Sabotage"
+            },
+            {
+                "last_verified": "2019-01-08",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Lex",
+                "planet": "Ceres",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-20",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "Ceres",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-01-20",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Exta",
+                "planet": "Ceres",
+                "type": "Attentat"
+            }
+        ]
+    },
+    {
+        "name": "Brutmutter",
+        "imageKey": "brood_mother",
+        "locations": [
+            {
+                "last_verified": "2019-04-16",
+                "level": "6-16",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "Erde",
+                "type": "Ausgrabung"
+            },
+            {
+                "last_verified": "2019-01-26",
+                "level": "15-25",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Gabii",
+                "planet": "Ceres",
+                "type": "Überleben"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "25-35",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Assur",
+                "planet": "Uranus",
+                "type": "Überleben"
+            },
+            {
+                "last_verified": "2019-01-26",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Eris",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Schlächter",
+        "imageKey": "butcher",
+        "locations": [
+            {
+                "last_verified": "2019-02-26",
+                "level": "2-4",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "Erde",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2018-09-25",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "70%",
+                "mission": "Caloris",
+                "planet": "Merkur",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-06-26",
+                "level": "7-9",
+                "faction": "Grineer",
+                "spawn_rate": "78%",
+                "mission": "Elion",
+                "planet": "Merkur",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-26",
+                "level": "36-40",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Rusalka",
+                "planet": "Sedna",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Stürmer",
+        "imageKey": "charger",
+        "locations": [
+            {
+                "last_verified": "2019-06-27",
+                "level": "8-10",
+                "faction": "Kreuzfeuer",
+                "spawn_rate": "100%",
+                "mission": "Terminus",
+                "planet": "Merkur",
+                "type": "Sabotage"
+            },
+            {
+                "last_verified": "2019-09-01",
+                "level": "7-9",
+                "faction": "Kreuzfeuer",
+                "spawn_rate": "100%",
+                "mission": "M Prime",
+                "planet": "Merkur",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-06-27",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Eris",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Kommandant",
+        "imageKey": "commander",
+        "locations": [
+            {
+                "last_verified": "2018-05-08",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Telesto",
+                "planet": "Saturn",
+                "type": "Auslöschung"
+            }
+        ]
+    },
+    {
+        "name": "Korrumpierter Uralter [Research]",
+        "imageKey": "corrupted_ancient",
+        "locations": [
+            {
+                "last_verified": "2019-02-05",
+                "level": "10-15",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "Void",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-05",
+                "level": "20-25",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Stribog",
+                "planet": "Void",
+                "type": "Sabotage"
+            },
+            {
+                "last_verified": "2019-02-05",
+                "level": "20-25",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Ani",
+                "planet": "Void",
+                "type": "Überleben"
+            }
+        ]
+    },
+    {
+        "name": "Korrumpierter Bombardier",
+        "imageKey": "corrupted_bombard",
+        "locations": [
+            {
+                "last_verified": "2019-06-05",
+                "level": "30-35",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Oxomoco",
+                "planet": "Void",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-01-12",
+                "level": "40-45",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Marduk",
+                "planet": "Void",
+                "type": "Sabotage"
+            }
+        ]
+    },
+    {
+        "name": "Korrumpierter Schlächter",
+        "imageKey": "corrupted_butcher",
+        "locations": [
+            {
+                "last_verified": "2019-01-25",
+                "level": "10-15",
+                "faction": "Orokin",
+                "spawn_rate": "94%",
+                "mission": "Hepit",
+                "planet": "Void",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-25",
+                "level": "10-15",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "Void",
+                "type": "Auslöschung"
+            }
+        ]
+    },
+    {
+        "name": "Korrumpiertes Besatzungsmitglied",
+        "imageKey": "corrupted_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-01-28",
+                "level": "10-15",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "Void",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-01-28",
+                "level": "10-15",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "Void",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Korrumpierter Kanonier",
+        "imageKey": "corrupted_heavy_gunner",
+        "locations": [
+            {
+                "last_verified": "2019-03-23",
+                "level": "10-15",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "Void",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-03-23",
+                "level": "10-15",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Teshub",
+                "planet": "Void",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-03-23",
+                "level": "30-35",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Ukko",
+                "planet": "Void",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Korrumpierter Sturmsoldat",
+        "imageKey": "corrupted_lancer",
+        "locations": [
+            {
+                "last_verified": "2018-04-15",
+                "level": "10-15",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Hepit",
+                "planet": "Void",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-03-17",
+                "level": "30-35",
+                "faction": "Orokin",
+                "spawn_rate": "100%",
+                "mission": "Ukko",
+                "planet": "Void",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Korrumpierte Nullfeld Besatzung",
+        "imageKey": "corrupted_nullifier",
+        "locations": [
+            {
+                "last_verified": "2019-08-14",
+                "level": "30-35",
+                "faction": "Orokin",
+                "spawn_rate": "78%",
+                "mission": "Oxomoco",
+                "planet": "Void",
+                "type": "Auslöschung"
+            }
+        ]
+    },
+    {
+        "name": "Kriecher",
+        "imageKey": "crawler",
+        "locations": [
+            {
+                "last_verified": "2018-04-06",
+                "level": "6-16",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "Erde",
+                "type": "Ausgrabung"
+            },
+            {
+                "last_verified": "2018-05-13",
+                "level": "6-11",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Apollodorus",
+                "planet": "Merkur",
+                "type": "Überleben"
+            },
+            {
+                "last_verified": "2019-05-30",
+                "level": "18-20",
+                "faction": "Kreuzfeuer",
+                "spawn_rate": "100%",
+                "mission": "Armaros",
+                "planet": "Europa",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-03-07",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Eris",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-03-07",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Brugia",
+                "planet": "Eris",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2018-03-20",
+                "level": "25-35",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Orokin Wrack Attentat",
+                "planet": "Wrack",
+                "type": "Attentat"
+            }
+        ]
+    },
+    {
+        "name": "Besatzungsmitglied [Research]",
+        "imageKey": "crewman",
+        "locations": [
+            {
+                "last_verified": "2019-08-16",
+                "level": "25-30",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Copernicus",
+                "planet": "Lua",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Drahk Meister",
+        "imageKey": "drahk_master",
+        "locations": [
+            {
+                "last_verified": "2019-01-31",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Saturn",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-31",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "90%",
+                "mission": "Anthe",
+                "planet": "Saturn",
+                "type": "Rettung"
+            }
+        ]
+    },
+    {
+        "name": "Elite Besatzungsmitglied",
+        "imageKey": "elite_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-09-28",
+                "level": "25-30",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Copernicus",
+                "planet": "Lua",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-09-28",
+                "level": "25-30",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Zeipel",
+                "planet": "Lua",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-08-16",
+                "level": "5-7",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Venera",
+                "planet": "Venus",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Ausweider",
+        "imageKey": "eviscerator",
+        "locations": [
+            {
+                "last_verified": "2019-01-24",
+                "level": "10-12",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "Mars",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-15",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Lex",
+                "planet": "Ceres",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-15",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "Ceres",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-09-12",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ker",
+                "planet": "Ceres",
+                "type": "Sabotage"
+            }
+        ]
+    },
+    {
+        "name": "Fusion MOA",
+        "imageKey": "fusion_moa",
+        "locations": [
+            {
+                "last_verified": "2019-01-29",
+                "level": "9-11",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Gradivus",
+                "planet": "Mars",
+                "type": "Sabotage"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "12-14",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Skyresh",
+                "planet": "Phobos",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Abaddon",
+                "planet": "Europa",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-29",
+                "level": "30-34",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Hydra",
+                "planet": "Pluto",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Gardist [Research]",
+        "imageKey": "guardsman",
+        "locations": [
+            {
+                "last_verified": "2019-11-23",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Lex",
+                "planet": "Ceres",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-01",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "Ceres",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-02-01",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ludi",
+                "planet": "Ceres",
+                "type": "Entführung"
+            }
+        ]
+    },
+    {
+        "name": "Kanonier",
+        "imageKey": "heavy_gunner",
+        "locations": [
+            {
+                "last_verified": "2019-08-13",
+                "level": "7-9",
+                "faction": "Grineer",
+                "spawn_rate": "77%",
+                "mission": "Elion",
+                "planet": "Merkur",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Caloris",
+                "planet": "Merkur",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Lex",
+                "planet": "Ceres",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-08-13",
+                "level": "32-36",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Rusalka",
+                "planet": "Sedna",
+                "type": "Sabotage"
+            }
+        ]
+    },
+    {
+        "name": "Hellion",
+        "imageKey": "hellion",
+        "locations": [
+            {
+                "last_verified": "2019-08-15",
+                "level": "10-12",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Ara",
+                "planet": "Mars",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-03-30",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Lex",
+                "planet": "Ceres",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-03-30",
+                "level": "32-36",
+                "faction": "Grineer",
+                "spawn_rate": "90%",
+                "mission": "Rusalka",
+                "planet": "Sedna",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Sturmsoldat [Research]",
+        "imageKey": "lancer",
+        "locations": [
+            {
+                "last_verified": "2019-02-14",
+                "level": "7-9",
+                "faction": "Grineer",
+                "spawn_rate": "81%",
+                "mission": "Elion",
+                "planet": "Merkur",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "80%",
+                "mission": "Caloris",
+                "planet": "Merkur",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Pantheon",
+                "planet": "Merkur",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-06-24",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Saturn",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-14",
+                "level": "34-38",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Kappa",
+                "planet": "Sedna",
+                "type": "Spionage"
+            }
+        ]
+    },
+    {
+        "name": "Springer",
+        "imageKey": "leaper",
+        "locations": [
+            {
+                "last_verified": "2019-01-13",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Eris",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2018-09-23",
+                "level": "6-16",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Tikal",
+                "planet": "Erde",
+                "type": "Ausgrabung"
+            },
+            {
+                "last_verified": "2019-01-13",
+                "level": "8-10",
+                "faction": "Kreuzfeuer",
+                "spawn_rate": "92%",
+                "mission": "Terminus",
+                "planet": "Merkur",
+                "type": "Sabotage"
+            },
+            {
+                "last_verified": "2018-09-23",
+                "level": "7-9",
+                "faction": "Kreuzfeuer",
+                "spawn_rate": "33%",
+                "mission": "M Prime",
+                "planet": "Merkur",
+                "type": "Auslöschung"
+            }
+        ]
+    },
+    {
+        "name": "MOA",
+        "imageKey": "moa",
+        "locations": [
+            {
+                "last_verified": "2019-04-04",
+                "level": "5-7",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Venera",
+                "planet": "Venus",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-04-04",
+                "level": "5-7",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Linea",
+                "planet": "Venus",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-04-04",
+                "level": "3-5",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "E-Gate",
+                "planet": "Venus",
+                "type": "Auslöschung"
+            }
+        ]
+    },
+    {
+        "name": "Napalm",
+        "imageKey": "napalm",
+        "locations": [
+            {
+                "last_verified": "2019-01-21",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Saturn",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2018-08-04",
+                "level": "30-40",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Selkie (Unbestätigt)",
+                "planet": "Sedna",
+                "type": "Überleben"
+            }
+        ]
+    },
+    {
+        "name": "Nullfeld Besatzungsmitglied",
+        "imageKey": "nullifier_crewman",
+        "locations": [
+            {
+                "last_verified": "2019-06-27",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Abaddon",
+                "planet": "Europa",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-04-06",
+                "level": "21-23",
+                "faction": "Corpus",
+                "spawn_rate": "100%",
+                "mission": "Orias (Unbestätigt)",
+                "planet": "Europa",
+                "type": "Rettung"
+            }
+        ]
+    },
+    {
+        "name": "Läufer [Research]",
+        "imageKey": "runner",
+        "locations": [
+            {
+                "last_verified": "2018-01-06",
+                "level": "34-38",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Saxis",
+                "planet": "Eris",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2018-08-31",
+                "level": "34-38",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Orokin Derelict Extermination",
+                "planet": "Wrack",
+                "type": "Auslöschung"
+            }
+        ]
+    },
+    {
+        "name": "Scorch",
+        "imageKey": "scorch",
+        "locations": [
+            {
+                "last_verified": "2019-08-13",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "95%",
+                "mission": "Cassini",
+                "planet": "Saturn",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-16",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "Saturn",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-01-16",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "ANTHE",
+                "planet": "Saturn",
+                "type": "Rettung"
+            }
+        ]
+    },
+    {
+        "name": "Skorpion",
+        "imageKey": "scorpion",
+        "locations": [
+            {
+                "last_verified": "2019-02-02",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "58%",
+                "mission": "Lex",
+                "planet": "Ceres",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-03",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Saturn",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-03",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "Saturn",
+                "type": "Rettung"
+            }
+        ]
+    },
+    {
+        "name": "Jäger",
+        "imageKey": "seeker",
+        "locations": [
+            {
+                "last_verified": "2020-03-10",
+                "level": "1-3",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "E-Prime",
+                "planet": "Erde",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-11-28",
+                "level": "14-16",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Lex",
+                "planet": "Ceres",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-02-11",
+                "level": "13-15",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Nuovo",
+                "planet": "Ceres",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-08-09",
+                "level": "34-38",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Kappa",
+                "planet": "Sedna",
+                "type": "Spionage"
+            }
+        ]
+    },
+    {
+        "name": "Schildträger",
+        "imageKey": "shield_lancer",
+        "locations": [
+            {
+                "last_verified": "2019-01-30",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "75%",
+                "mission": "Pantheon",
+                "planet": "Merkur",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-01-30",
+                "level": "6-8",
+                "faction": "Grineer",
+                "spawn_rate": "40%",
+                "mission": "Caloris",
+                "planet": "Merkur",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-04-18",
+                "level": "7-9",
+                "faction": "Grineer",
+                "spawn_rate": "76%",
+                "mission": "Elion",
+                "planet": "Merkur",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-10-21",
+                "level": "21-23",
+                "faction": "Grineer",
+                "spawn_rate": "88%",
+                "mission": "Cassini",
+                "planet": "Saturn",
+                "type": "Gefangennahme"
+            }
+        ]
+    },
+    {
+        "name": "Schwarm-Mutalist MOA",
+        "imageKey": "swarm-mutalist_moa",
+        "locations": [
+            {
+                "last_verified": "2019-01-19",
+                "level": "18-20",
+                "faction": "Kreuzfeuer",
+                "spawn_rate": "100%",
+                "mission": "Armaros",
+                "planet": "Europa",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-01-19",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Isos",
+                "planet": "Eris",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-19",
+                "level": "32-36",
+                "faction": "Befallene",
+                "spawn_rate": "100%",
+                "mission": "Brugia",
+                "planet": "Eris",
+                "type": "Rettung"
+            }
+        ]
+    },
+    {
+        "name": "Soldat",
+        "imageKey": "trooper",
+        "locations": [
+            {
+                "last_verified": "2019-01-22",
+                "level": "2-4",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Mantle",
+                "planet": "Erde",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "1-3",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "E Prime",
+                "planet": "Erde",
+                "type": "Auslöschung"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Numa",
+                "planet": "Saturn",
+                "type": "Rettung"
+            },
+            {
+                "last_verified": "2019-01-22",
+                "level": "22-24",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Cassini",
+                "planet": "Saturn",
+                "type": "Gefangennahme"
+            },
+            {
+                "last_verified": "2018-09-14",
+                "level": "32-36",
+                "faction": "Grineer",
+                "spawn_rate": "100%",
+                "mission": "Adaro",
+                "planet": "Sedna",
+                "type": "Auslöschung"
+            }
+        ]
+    }
 ]

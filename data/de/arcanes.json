@@ -1,461 +1,461 @@
 [
-  {
-    "regex": "Beschleunigung",
-    "name": "Arcane Acceleration",
-    "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance \n15% / 30% / 45% / 60% Feuerrate für Gewehre\nfür 1.5 / 3 / 4.5 / 6 Sekunden zu bekommen",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0d/ArcaneAgility.png/revision/latest?cb=20180306222818&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Agilit%C3%A4t"
-  },
-  {
-    "regex": "Ägis",
-    "name": "Arkana: Ägis",
-    "effect": "Beim Erleiden von Schaden 1,5% / 3% / 4. % / 6% Chance\n15 / 30 / 45 / 60 Schildregeneration pro Sekunde\nfür 5 / 10 / 15 / 20 Sekunden zu geben",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/ArcaneAegis.png/revision/latest?cb=20180307005157&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_%C3%84gis"
-  },
-  {
-    "regex": "Agilität",
-    "name": "Arcane Agility",
-    "effect": "Beim Erleiden von Schaden 3% / 6% / 9% / 16% Chance \n10% / 20% / 30% / 40% Bewegungsgeschwindigkeit\nfür 2 / 4 / 6 / 8 Sekunden zu geben",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/78/Arcane_Agility_160.png/revision/latest/scale-to-width-down/75?cb=20150414195529",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Agilit%C3%A4t"
-  },
-  {
-    "regex": "Arkanas",
-    "name": "Arkana: Arachnid",
-    "effect": "Beim Festhalten an der Wand 15% / 30% / 45% / 60% Chance \nauf 100% Bonus Damage\nbeim nächsten Treffer",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/ArcaneArachne.png/revision/latest?cb=20180307093502&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Arachnid"
-  },
-  {
-    "regex": "Rächer",
-    "name": "Arcane Avenger",
-    "effect": "Beim Erleiden von Schaden 3.5% / 7% / 10.5% / 14% Chance \n7.5% / 15% / 22.5% / 30% zusätzlich kritische Trefferchance\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ab/ArcaneAvenger.png/revision/latest?cb=20180307102651&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_R%C3%A4cher"
-  },
-  {
-    "regex": "Erwachen",
-    "name": "Arkane Erwachen",
-    "effect": "Beim Nachladen 10% / 20% / 30% / 40% Chance\n25% / 50% / 75% / 100% zusätzlichen Schaden für Sekundärwaffen\nfür 4 / 8 / 12 / 16 Sekunden zu erhalten",
-    "rarity": "Gewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ae/ArcaneAwakening.png/revision/latest?cb=20180306223000&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Erwachen"
-  },
-  {
-    "regex": "Barriere",
-    "name": "Arcane Barrier",
-    "effect": "Beim Erleiden von Schaden 1% / 2% / 3% / 4% Chance Schilde wieder vollständig aufzuladen",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f1/ArcaneBarrier.png/revision/latest?cb=20180306223903&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Barriere"
-  },
-  {
-    "regex": "Konsequenz",
-    "name": "Arkana: Konsequenz",
-    "effect": "Bei Kopftreffer 25% / 50% / 75% / 100% Chance\n10% / 20% / 30% / 40% erhöhtes Zielgleiten/Wandhalten\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/76/ArcaneConsequence.png/revision/latest?cb=20180305010312&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Konsequenz"
-  },
-  {
-    "regex": "Deflektion",
-    "name": "Arcane Deflection",
-    "effect": "20% / 40% / 60% / 80% Chance dem Schnittstatuseffekt zu wiederstehen",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/ArcaneDeflection.png/revision/latest?cb=20180306223029&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Deflektion"
-  },
-  {
-    "regex": "Antrieb",
-    "name": "Arkana: Antrieb",
-    "effect": "Beim Aufsammeln von Energie 10% / 20% / 30% / 40% Chance\n25 / 50 / 75 / 100 Energie von Verbündeten\ninnerhalb von 5 / 10 / 15 / 20 Metern aufzufüllen",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/96/ArcaneEnergize.png/revision/latest?cb=20180306223752&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Antrieb"
-  },
-  {
-    "regex": "Eruption",
-    "name": "Arcane Eruption",
-    "effect": "Beim Aufsammeln von Energie 5% / 10% / 15% / 20% Chance\nGegner innerhalb von 5 / 10 / 15 / 20 Metern umzuwerfen",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/ArcaneEruption.png/revision/latest?cb=20180306223054&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Eruption"
-  },
-  {
-    "regex": "Furie",
-    "name": "Arkana: Furie",
-    "effect": "Bei kritischem Treffer 10% / 20% / 30% / 40% Chance\n30% / 60% / 90% / 120% erhöhten Nahkampfschaden\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/be/ArcaneFury.png/revision/latest?cb=20180307230818&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Furie"
-  },
-  {
-    "regex": "Anmut",
-    "name": "Arcane Grace",
-    "effect": "Beim Erleiden von Schaden 1.5% / 3% / 4.5% / 6% Chance\nauf 1% / 2% / 3% / 4% Lebensregeneration pro Sekunde für 1.5 / 3 / 4.5 / 6 Sekunden zu erhalten",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneGrace.png/revision/latest?cb=20180306223812&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Anmut"
-  },
-  {
-    "regex": "Beschützer",
-    "name": "Arcane Guardian",
-    "effect": "Beim Erleiden von Schaden 5% / 10% / 15% / 20% Chance\n150 / 300 / 450 / 600 Rüstung\nfür 5 / 10 / 15 / 20 Sekunden zu erhalten",
-    "rarity": "Gewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d7/ArcaneGuardian.png/revision/latest?cb=20180306223108&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Besch%C3%BCtzer"
-  },
-  {
-    "regex": "Heilung",
-    "name": "Arcane Healing",
-    "effect": "20% / 40% / 60% / 80% Chance Strahlungsschaden zu widerstehen",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://warframe.fandom.com/de/wiki/Arkana:_Heilung",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Heilung"
-  },
-  {
-    "regex": "Eis",
-    "name": "Arcane Ice",
-    "effect": "20% / 40% / 60% / 80% Chance Hitzeschaden zu widerstehen",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/17/ArcaneIce.png/revision/latest?cb=20180305010406&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Eis"
-  },
-  {
-    "regex": "Momentum",
-    "name": "Arkana: Momentum",
-    "effect": "Bei kritischem Treffer 10% / 20% / 30% / 40% Chance\n25% / 50% / 75% / 100% Feuerrate für Sniper\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Gewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneMomentum.png/revision/latest?cb=20180305010554&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Momentum"
-  },
-  {
-    "regex": "Nullfeld",
-    "name": "Arcane Nullifier",
-    "effect": "20% / 40% / 60% / 80% Chance Magnetismusschaden zu widerstehen",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c3/ArcaneNullifier.png/revision/latest?cb=20180305010623&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Nullfeld"
-  },
-  {
-    "regex": "Phantasma",
-    "name": "Arcane Phantasm",
-    "effect": "Beim Blocken 4% / 8% / 12% / 16% Chance\n5% / 10% / 15% / 20% erhöhte Bewegungsgeschwindigkeit\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/36/ArcanePhantasm.png/revision/latest?cb=20180306223149&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Phantasma"
-  },
-  {
-    "regex": "Präzision",
-    "name": "Arkana: Präzision",
-    "effect": "Bei Kopftreffer 20% / 40% / 60% / 80% Chance\n30% / 60% / 90% / 120% erhöhten Schaden für Sekundärwaffen\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcanePrecision.png/revision/latest?cb=20180307230901&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Pr%C3%A4zision"
-  },
-  {
-    "regex": "Puls",
-    "name": "Arcane Pulse",
-    "effect": "Beim Aufheben von Leben 5% / 10% / 15% / 20% Chance\n25 / 50 / 75 / 100 Leben von Verbündeten\ninnerhalb von 5 / 10 / 15 / 20 Metern zu heilen",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8a/ArcanePulse.png/revision/latest?cb=20180307230924&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Puls"
-  },
-  {
-    "regex": "Rage",
-    "name": "Arcane Rage",
-    "effect": "Bei Kopftreffer 2.5% / 5% / 7.5% / 10% Chance\n30% / 60% / 90% / 120% erhöhten Schaden für Primärwaffen\nfür 4 / 8 / 12 / 16 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneRage.png/revision/latest?cb=20180307231001&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Rage"
-  },
-  {
-    "regex": "Widerstand",
-    "name": "Arcane Resistance",
-    "effect": "20% / 40% / 60% / 80% Chance Elektrizitätsschaden zu widerstehen",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcaneResistance.png/revision/latest?cb=20180306223202&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Widerstand"
-  },
-  {
-    "regex": "Hieb",
-    "name": "Arcane Strike",
-    "effect": "Bei Treffer 2.5% / 5% / 7.5% / 10% Chance\n10% / 20% / 30% / 40% erhöhte Angriffsgeschwindigkeit für Nahkampfwaffen\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
-    "rarity": "Gewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/da/ArcaneStrike.png/revision/latest?cb=20180306223218&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Hieb"
-  },
-  {
-    "regex": "Tempo",
-    "name": "Arkana: Tempo",
-    "effect": "Bei kritischem Treffer 2.5% / 5% / 7.5% / 10% Chance\n15% / 30% / 45% / 60% erhöhte Feuerrate für Schrotflinten\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Gewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b7/ArcaneTempo.png/revision/latest?cb=20180305010704&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Tempo"
-  },
-  {
-    "regex": "Trickserei",
-    "name": "Arcane Trickery",
-    "effect": "Nach Finisher 2.5% / 5% / 7.5% / 10% Chance\nfür 5 / 10 / 15 / 20 Sekunden unsichtbar zu werden",
-    "rarity": "Gewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/ArcaneTrickery.png/revision/latest?cb=20180306223307&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Trickserei"
-  },
-  {
-    "regex": "Ultimatum",
-    "name": "Arkana: Ultimatum",
-    "effect": "Nach Finisher 25% / 50% / 75% / 100% Chance 150 / 300 / 450 / 600 Rüstung\nfür 10 / 20 / 30 / 40 Sekunden zu erhalten",
-    "rarity": "Gewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneUltimatum.png/revision/latest?cb=20181225172124",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Ultimatum"
-  },
-  {
-    "regex": "Geschwindigkeit",
-    "name": "Arkana: Geschwindigkeit",
-    "effect": "Bei kritischem Treffer 15% / 30% / 45% / 60% Chance\n20% / 40% / 60% / 80% erhöhte Feuerrate für Sekundärwaffen\nfür 1.5 / 3 / 4.5 / 6 Sekunden zu erhalten",
-    "rarity": "Gewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5f/ArcaneVelocity.png/revision/latest?cb=20180306223405&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Geschwindigkeit"
-  },
-  {
-    "regex": "Sieg",
-    "name": "Arcane Victory",
-    "effect": "Bei Kopftreffer 2% / 4% / 6% / 8% Chance\n0.5% / 1.0% / 1.5% / 2.0% Lebensregeneration pro Sekunde\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Selten",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9b/ArcaneVictory.png/revision/latest?cb=20180306004336&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_Sieg"
-  },
-  {
-    "regex": "Wärme",
-    "name": "Arcane Warmth",
-    "effect": "20% / 40% / 60% / 80% Chance Kälteschaden zu widerstehen",
-    "rarity": "Ungewöhnlich",
-    "location": "Ändere, überprüfe Droptabelle",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b9/ArcaneWarmth.png/revision/latest?cb=20180305010756&path-prefix=de",
-    "info": "https://warframe.fandom.com/de/wiki/Arkana:_W%C3%A4rme"
-  },
-  {
-    "regex": "vigor",
-    "name": "Magus: Vitalität",
-    "effect": "50 / 100 / 150 / 200 erhöhte Leben",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
-    "info": "http://warframe.wikia.com/wiki/Magus_Vigor"
-  },
-  {
-    "regex": "husk",
-    "name": "Magus: Hülle",
-    "effect": "25 / 50 / 75 / 100 erhöhte Rüstung",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/MagusHusk.png/revision/latest/scale-to-width-down/350?cb=20171129163018",
-    "info": "http://warframe.wikia.com/wiki/Magus_Husk"
-  },
-  {
-    "regex": "cloud",
-    "name": "Magus: Wolke",
-    "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance Immunität gegen Fallschaden für 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
-    "info": "http://warframe.wikia.com/wiki/Magus_Cloud"
-  },
-  {
-    "regex": "cadence",
-    "name": "Magus: Takt",
-    "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance 15% / 30% / 45% / 60% erhöhte Sprintgeschwindigkeit für 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/MagusCadence.png/revision/latest/scale-to-width-down/350?cb=20171129163011",
-    "info": "http://warframe.wikia.com/wiki/Magus_Cadence"
-  },
-  {
-    "regex": "replenish",
-    "name": "Magus: Erneuerung",
-    "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance 5% / 10% / 15% / 20% Gesundheit zu heilen",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/MagusReplenish.png/revision/latest/scale-to-width-down/350?cb=20171129163024",
-    "info": "http://warframe.wikia.com/wiki/Magus_Replenish"
-  },
-  {
-    "regex": "elevate",
-    "name": "Magus: Erheben",
-    "effect": "Bei Tranzferenz in Warframe 30% / 40% / 50% / 75% Chance Warframe um 50 / 100 / 150 / 200 Leben zu heilen",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/MagusElevate.png/revision/latest/scale-to-width-down/350?cb=20171129163015",
-    "info": "http://warframe.wikia.com/wiki/Magus_Elevate"
-  },
-  {
-    "regex": "nourish",
-    "name": "Magus: Pflegen",
-    "effect": "Während Transferenz (Operator-Modus) aktiv ist wird der Warframe um 10 / 15 / 20 / 25 Leben pro Sekunde geheilt",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/MagusNourish.png/revision/latest/scale-to-width-down/350?cb=20171129163020",
-    "info": "http://warframe.wikia.com/wiki/Magus_Nourish"
-  },
-  {
-    "regex": "Nullfeld",
-    "name": "Virtuos: Leere",
-    "effect": "Bei Kill 5% / 10% / 15% / 20% erhöhte Verstärker-Energieregeneration für 1 / 2 / 3 / 4 Sekunden",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/VirtuosNull.png/revision/latest?cb=20171129163035",
-    "info": "http://warframe.wikia.com/wiki/Virtuos_Null"
-  },
-  {
-    "regex": "Tempo",
-    "name": "Virtuos: Tempo",
-    "effect": "Bei Kill 15% / 30% / 45% / 60% Chance 15% / 30% / 45% / 60% erhöhte Feuerrrate für 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
-    "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
-  },
-  {
-    "regex": "Furie",
-    "name": "Virtuos: Wut",
-    "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 7.5% / 15% / 22.5% / 30% erhöhten Schaden für 1 / 2 / 3 / 4 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
-    "info": "http://warframe.wikia.com/wiki/Virtuos_Fury"
-  },
-  {
-    "regex": "Hieb",
-    "name": "Virtuos: Schlag",
-    "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance 15% / 30% / 45% / 60% erhöhten kritischen Schaden für 1 / 2 / 3 / 4 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/VirtuosStrike.png/revision/latest/scale-to-width-down/350?cb=20171129163040",
-    "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
-  },
-  {
-    "regex": "shadow",
-    "name": "Virtuos: Schatten",
-    "effect": "Bei Kopftreffer 10% / 20% / 30% / 40% Chance 15% / 30% / 45% / 60% zusätzliche kritische Chance für 3 / 6 / 9 / 12 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
-    "info": "http://warframe.wikia.com/wiki/Virtuos_Shadow"
-  },
-  {
-    "regex": "Geist",
-    "name": "Virtuos: Geist",
-    "effect": "Bei Kopftreffer 10% / 20% / 30% / 40% Chance 15% / 30% / 45% / 60% zusätzliche Statuschance für 3 / 6 / 9 / 12 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Quills",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d6/VirtuosGhost.png/revision/latest/scale-to-width-down/350?cb=20171129163032",
-    "info": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
-  },
-  {
-    "regex": "brave",
-    "name": "Exodia: Mut",
-    "effect": "Bei kanalisiertem Nahkampfkill 100% Chance 1.25 / 2.50 / 3.75 / 5.00 erhöhte Energieregeneration für 1 / 2 / 3 / 4 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Hok's Schmiede",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/ExodiaBrave.png/revision/latest?cb=20171129162951",
-    "info": "http://warframe.wikia.com/wiki/Exodia_Brave"
-  },
-  {
-    "regex": "Tapferkeit",
-    "name": "Exodia: Tapferkeit",
-    "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance 50% / 100% / 150% / 200% erhöhten Kanalisierungsschaden für 3 / 6 / 9 / 12 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Hok's Schmiede",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c4/ExodiaValor.png/revision/latest?cb=20171129163009",
-    "info": "http://warframe.wikia.com/wiki/Exodia_Valor"
-  },
-  {
-    "regex": "Macht",
-    "name": "Exodia: Macht",
-    "effect": "Bei Finisher 12.5% / 25% / 37.5% / 50% Chance 7.5% / 15% / 22.5% / 30% Lebensraub für 2 / 4 / 6 / 8 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Hok's Schmiede",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/12/ExodiaMight.png/revision/latest/scale-to-width-down/350?cb=20171129163004",
-    "info": "http://warframe.wikia.com/wiki/Exodia_Might"
-  },
-  {
-    "regex": "Triumph",
-    "name": "Exodia: Triumph",
-    "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 50% / 100% / 150% / 200% erhöhten Kanalisierungsschaden für 3 / 6 / 9 / 12 Sekunden zu erhalten",
-    "rarity": "Ungewöhnlich",
-    "location": "Hok's Schmiede",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/00/ExodiaTriumph.png/revision/latest/scale-to-width-down/350?cb=20171129163006",
-    "info": "http://warframe.wikia.com/wiki/Exodia_Triumph"
-  },
-  {
-    "regex": "Jagd",
-    "name": "Exodia: Jagd",
-    "effect": "Bei Schmetterangriff 20% / 30% / 40% / 50% Chance Gegner in einem 6m / 8m / 10m / 12m Radius heranzuziehen",
-    "rarity": "Ungewöhnlich",
-    "location": "Hok's Schmiede",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/ExodiaHunt.png/revision/latest/scale-to-width-down/350?cb=20171129163001",
-    "info": "https://warframe.fandom.com/de/wiki/Exodia:_Jagd"
-  },
-  {
-    "regex": "Kraft",
-    "name": "Exodia: Kraft",
-    "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 80% / 100% / 120% / 150% Waffenschaden in 5m / 6m / 7m / 8m Radius zu verursachen",
-    "rarity": "Ungewöhnlich",
-    "location": "Hok's Schmiede",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/62/ExodiaForce.png/revision/latest/scale-to-width-down/350?cb=20171129162958",
-    "info": "https://warframe.fandom.com/de/wiki/Exodia:_Kraft"
-  },
-  {
-    "regex": "Infektion",
-    "name": "Exodia: Infektion",
-    "effect": "Nach einem Doppel- oder Projektilsprung: Nahkampfangriffe während des Zielgleitens verschießen ein Projektil, nachdem 30m zurückgelegt wurden wird der Projektilschaden um 100% / 200% / 300% / 400% erhöht, Rechweite ist von Gravitation abhängig",
-    "rarity": "Ungewöhnlich",
-    "location": "Event-Syndikat (Plagenstern)",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/ExodiaContagion.png/revision/latest/scale-to-width-down/350?cb=20171129162953",
-    "info": "http://warframe.wikia.com/wiki/Exodia_Contagion"
-  },
-  {
-    "regex": "Epidemie",
-    "name": "Exodia: Epidemie",
-    "effect": "Nach einem Doppel- oder Projektilsprung: Stampfattacke sendet eine Schockwelle nach vorne aus, welche Gegner für 1s / 2s / 3s / 4s in die Luft befördert und Virusschaden bis zu 33m entfernt verursacht",
-    "rarity": "Ungewöhnlich",
-    "location": "Event-Syndikat (Plagenstern)",
-    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/ExodiaEpidemic.png/revision/latest/scale-to-width-down/350?cb=20171129162956",
-    "info": "https://warframe.fandom.com/de/wiki/Exodia:_Epidemie"
-  }
+    {
+        "regex": "Beschleunigung",
+        "name": "Arcane Acceleration",
+        "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance \n15% / 30% / 45% / 60% Feuerrate für Gewehre\nfür 1.5 / 3 / 4.5 / 6 Sekunden zu bekommen",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0d/ArcaneAgility.png/revision/latest?cb=20180306222818&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Agilit%C3%A4t"
+    },
+    {
+        "regex": "Ägis",
+        "name": "Arkana: Ägis",
+        "effect": "Beim Erleiden von Schaden 1,5% / 3% / 4. % / 6% Chance\n15 / 30 / 45 / 60 Schildregeneration pro Sekunde\nfür 5 / 10 / 15 / 20 Sekunden zu geben",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/ArcaneAegis.png/revision/latest?cb=20180307005157&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_%C3%84gis"
+    },
+    {
+        "regex": "Agilität",
+        "name": "Arcane Agility",
+        "effect": "Beim Erleiden von Schaden 3% / 6% / 9% / 16% Chance \n10% / 20% / 30% / 40% Bewegungsgeschwindigkeit\nfür 2 / 4 / 6 / 8 Sekunden zu geben",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/78/Arcane_Agility_160.png/revision/latest/scale-to-width-down/75?cb=20150414195529",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Agilit%C3%A4t"
+    },
+    {
+        "regex": "Arkanas",
+        "name": "Arkana: Arachnid",
+        "effect": "Beim Festhalten an der Wand 15% / 30% / 45% / 60% Chance \nauf 100% Bonus Damage\nbeim nächsten Treffer",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/ArcaneArachne.png/revision/latest?cb=20180307093502&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Arachnid"
+    },
+    {
+        "regex": "Rächer",
+        "name": "Arcane Avenger",
+        "effect": "Beim Erleiden von Schaden 3.5% / 7% / 10.5% / 14% Chance \n7.5% / 15% / 22.5% / 30% zusätzlich kritische Trefferchance\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ab/ArcaneAvenger.png/revision/latest?cb=20180307102651&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_R%C3%A4cher"
+    },
+    {
+        "regex": "Erwachen",
+        "name": "Arkane Erwachen",
+        "effect": "Beim Nachladen 10% / 20% / 30% / 40% Chance\n25% / 50% / 75% / 100% zusätzlichen Schaden für Sekundärwaffen\nfür 4 / 8 / 12 / 16 Sekunden zu erhalten",
+        "rarity": "Gewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ae/ArcaneAwakening.png/revision/latest?cb=20180306223000&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Erwachen"
+    },
+    {
+        "regex": "Barriere",
+        "name": "Arcane Barrier",
+        "effect": "Beim Erleiden von Schaden 1% / 2% / 3% / 4% Chance Schilde wieder vollständig aufzuladen",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f1/ArcaneBarrier.png/revision/latest?cb=20180306223903&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Barriere"
+    },
+    {
+        "regex": "Konsequenz",
+        "name": "Arkana: Konsequenz",
+        "effect": "Bei Kopftreffer 25% / 50% / 75% / 100% Chance\n10% / 20% / 30% / 40% erhöhtes Zielgleiten/Wandhalten\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/76/ArcaneConsequence.png/revision/latest?cb=20180305010312&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana%3A_Konsequenz"
+    },
+    {
+        "regex": "Deflektion",
+        "name": "Arcane Deflection",
+        "effect": "20% / 40% / 60% / 80% Chance dem Schnittstatuseffekt zu wiederstehen",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/ArcaneDeflection.png/revision/latest?cb=20180306223029&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Deflektion"
+    },
+    {
+        "regex": "Antrieb",
+        "name": "Arkana: Antrieb",
+        "effect": "Beim Aufsammeln von Energie 10% / 20% / 30% / 40% Chance\n25 / 50 / 75 / 100 Energie von Verbündeten\ninnerhalb von 5 / 10 / 15 / 20 Metern aufzufüllen",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/96/ArcaneEnergize.png/revision/latest?cb=20180306223752&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Antrieb"
+    },
+    {
+        "regex": "Eruption",
+        "name": "Arcane Eruption",
+        "effect": "Beim Aufsammeln von Energie 5% / 10% / 15% / 20% Chance\nGegner innerhalb von 5 / 10 / 15 / 20 Metern umzuwerfen",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/ArcaneEruption.png/revision/latest?cb=20180306223054&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Eruption"
+    },
+    {
+        "regex": "Furie",
+        "name": "Arkana: Furie",
+        "effect": "Bei kritischem Treffer 10% / 20% / 30% / 40% Chance\n30% / 60% / 90% / 120% erhöhten Nahkampfschaden\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/be/ArcaneFury.png/revision/latest?cb=20180307230818&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Furie"
+    },
+    {
+        "regex": "Anmut",
+        "name": "Arcane Grace",
+        "effect": "Beim Erleiden von Schaden 1.5% / 3% / 4.5% / 6% Chance\nauf 1% / 2% / 3% / 4% Lebensregeneration pro Sekunde für 1.5 / 3 / 4.5 / 6 Sekunden zu erhalten",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneGrace.png/revision/latest?cb=20180306223812&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Anmut"
+    },
+    {
+        "regex": "Beschützer",
+        "name": "Arcane Guardian",
+        "effect": "Beim Erleiden von Schaden 5% / 10% / 15% / 20% Chance\n150 / 300 / 450 / 600 Rüstung\nfür 5 / 10 / 15 / 20 Sekunden zu erhalten",
+        "rarity": "Gewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d7/ArcaneGuardian.png/revision/latest?cb=20180306223108&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Besch%C3%BCtzer"
+    },
+    {
+        "regex": "Heilung",
+        "name": "Arcane Healing",
+        "effect": "20% / 40% / 60% / 80% Chance Strahlungsschaden zu widerstehen",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://warframe.fandom.com/de/wiki/Arkana:_Heilung",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Heilung"
+    },
+    {
+        "regex": "Eis",
+        "name": "Arcane Ice",
+        "effect": "20% / 40% / 60% / 80% Chance Hitzeschaden zu widerstehen",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/17/ArcaneIce.png/revision/latest?cb=20180305010406&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Eis"
+    },
+    {
+        "regex": "Momentum",
+        "name": "Arkana: Momentum",
+        "effect": "Bei kritischem Treffer 10% / 20% / 30% / 40% Chance\n25% / 50% / 75% / 100% Feuerrate für Sniper\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Gewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneMomentum.png/revision/latest?cb=20180305010554&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Momentum"
+    },
+    {
+        "regex": "Nullfeld",
+        "name": "Arcane Nullifier",
+        "effect": "20% / 40% / 60% / 80% Chance Magnetismusschaden zu widerstehen",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c3/ArcaneNullifier.png/revision/latest?cb=20180305010623&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Nullfeld"
+    },
+    {
+        "regex": "Phantasma",
+        "name": "Arcane Phantasm",
+        "effect": "Beim Blocken 4% / 8% / 12% / 16% Chance\n5% / 10% / 15% / 20% erhöhte Bewegungsgeschwindigkeit\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/36/ArcanePhantasm.png/revision/latest?cb=20180306223149&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Phantasma"
+    },
+    {
+        "regex": "Präzision",
+        "name": "Arkana: Präzision",
+        "effect": "Bei Kopftreffer 20% / 40% / 60% / 80% Chance\n30% / 60% / 90% / 120% erhöhten Schaden für Sekundärwaffen\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcanePrecision.png/revision/latest?cb=20180307230901&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Pr%C3%A4zision"
+    },
+    {
+        "regex": "Puls",
+        "name": "Arcane Pulse",
+        "effect": "Beim Aufheben von Leben 5% / 10% / 15% / 20% Chance\n25 / 50 / 75 / 100 Leben von Verbündeten\ninnerhalb von 5 / 10 / 15 / 20 Metern zu heilen",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8a/ArcanePulse.png/revision/latest?cb=20180307230924&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Puls"
+    },
+    {
+        "regex": "Rage",
+        "name": "Arcane Rage",
+        "effect": "Bei Kopftreffer 2.5% / 5% / 7.5% / 10% Chance\n30% / 60% / 90% / 120% erhöhten Schaden für Primärwaffen\nfür 4 / 8 / 12 / 16 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/ArcaneRage.png/revision/latest?cb=20180307231001&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Rage"
+    },
+    {
+        "regex": "Widerstand",
+        "name": "Arcane Resistance",
+        "effect": "20% / 40% / 60% / 80% Chance Elektrizitätsschaden zu widerstehen",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3c/ArcaneResistance.png/revision/latest?cb=20180306223202&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Widerstand"
+    },
+    {
+        "regex": "Hieb",
+        "name": "Arcane Strike",
+        "effect": "Bei Treffer 2.5% / 5% / 7.5% / 10% Chance\n10% / 20% / 30% / 40% erhöhte Angriffsgeschwindigkeit für Nahkampfwaffen\nfür 3 / 6 / 9 / 12 Sekunden zu erhalten",
+        "rarity": "Gewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/da/ArcaneStrike.png/revision/latest?cb=20180306223218&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Hieb"
+    },
+    {
+        "regex": "Tempo",
+        "name": "Arkana: Tempo",
+        "effect": "Bei kritischem Treffer 2.5% / 5% / 7.5% / 10% Chance\n15% / 30% / 45% / 60% erhöhte Feuerrate für Schrotflinten\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Gewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b7/ArcaneTempo.png/revision/latest?cb=20180305010704&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Tempo"
+    },
+    {
+        "regex": "Trickserei",
+        "name": "Arcane Trickery",
+        "effect": "Nach Finisher 2.5% / 5% / 7.5% / 10% Chance\nfür 5 / 10 / 15 / 20 Sekunden unsichtbar zu werden",
+        "rarity": "Gewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/ArcaneTrickery.png/revision/latest?cb=20180306223307&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Trickserei"
+    },
+    {
+        "regex": "Ultimatum",
+        "name": "Arkana: Ultimatum",
+        "effect": "Nach Finisher 25% / 50% / 75% / 100% Chance 150 / 300 / 450 / 600 Rüstung\nfür 10 / 20 / 30 / 40 Sekunden zu erhalten",
+        "rarity": "Gewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/ArcaneUltimatum.png/revision/latest?cb=20181225172124",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Ultimatum"
+    },
+    {
+        "regex": "Geschwindigkeit",
+        "name": "Arkana: Geschwindigkeit",
+        "effect": "Bei kritischem Treffer 15% / 30% / 45% / 60% Chance\n20% / 40% / 60% / 80% erhöhte Feuerrate für Sekundärwaffen\nfür 1.5 / 3 / 4.5 / 6 Sekunden zu erhalten",
+        "rarity": "Gewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5f/ArcaneVelocity.png/revision/latest?cb=20180306223405&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Geschwindigkeit"
+    },
+    {
+        "regex": "Sieg",
+        "name": "Arcane Victory",
+        "effect": "Bei Kopftreffer 2% / 4% / 6% / 8% Chance\n0.5% / 1.0% / 1.5% / 2.0% Lebensregeneration pro Sekunde\nfür 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Selten",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9b/ArcaneVictory.png/revision/latest?cb=20180306004336&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_Sieg"
+    },
+    {
+        "regex": "Wärme",
+        "name": "Arcane Warmth",
+        "effect": "20% / 40% / 60% / 80% Chance Kälteschaden zu widerstehen",
+        "rarity": "Ungewöhnlich",
+        "location": "Ändere, überprüfe Droptabelle",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b9/ArcaneWarmth.png/revision/latest?cb=20180305010756&path-prefix=de",
+        "info": "https://warframe.fandom.com/de/wiki/Arkana:_W%C3%A4rme"
+    },
+    {
+        "regex": "vigor",
+        "name": "Magus: Vitalität",
+        "effect": "50 / 100 / 150 / 200 erhöhte Leben",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
+        "info": "http://warframe.wikia.com/wiki/Magus_Vigor"
+    },
+    {
+        "regex": "husk",
+        "name": "Magus: Hülle",
+        "effect": "25 / 50 / 75 / 100 erhöhte Rüstung",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/MagusHusk.png/revision/latest/scale-to-width-down/350?cb=20171129163018",
+        "info": "http://warframe.wikia.com/wiki/Magus_Husk"
+    },
+    {
+        "regex": "cloud",
+        "name": "Magus: Wolke",
+        "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance Immunität gegen Fallschaden für 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
+        "info": "http://warframe.wikia.com/wiki/Magus_Cloud"
+    },
+    {
+        "regex": "cadence",
+        "name": "Magus: Takt",
+        "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance 15% / 30% / 45% / 60% erhöhte Sprintgeschwindigkeit für 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/MagusCadence.png/revision/latest/scale-to-width-down/350?cb=20171129163011",
+        "info": "http://warframe.wikia.com/wiki/Magus_Cadence"
+    },
+    {
+        "regex": "replenish",
+        "name": "Magus: Erneuerung",
+        "effect": "Bei Void-Schub 25% / 50% / 75% / 100% Chance 5% / 10% / 15% / 20% Gesundheit zu heilen",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/MagusReplenish.png/revision/latest/scale-to-width-down/350?cb=20171129163024",
+        "info": "http://warframe.wikia.com/wiki/Magus_Replenish"
+    },
+    {
+        "regex": "elevate",
+        "name": "Magus: Erheben",
+        "effect": "Bei Tranzferenz in Warframe 30% / 40% / 50% / 75% Chance Warframe um 50 / 100 / 150 / 200 Leben zu heilen",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/MagusElevate.png/revision/latest/scale-to-width-down/350?cb=20171129163015",
+        "info": "http://warframe.wikia.com/wiki/Magus_Elevate"
+    },
+    {
+        "regex": "nourish",
+        "name": "Magus: Pflegen",
+        "effect": "Während Transferenz (Operator-Modus) aktiv ist wird der Warframe um 10 / 15 / 20 / 25 Leben pro Sekunde geheilt",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/MagusNourish.png/revision/latest/scale-to-width-down/350?cb=20171129163020",
+        "info": "http://warframe.wikia.com/wiki/Magus_Nourish"
+    },
+    {
+        "regex": "Nullfeld",
+        "name": "Virtuos: Leere",
+        "effect": "Bei Kill 5% / 10% / 15% / 20% erhöhte Verstärker-Energieregeneration für 1 / 2 / 3 / 4 Sekunden",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/VirtuosNull.png/revision/latest?cb=20171129163035",
+        "info": "http://warframe.wikia.com/wiki/Virtuos_Null"
+    },
+    {
+        "regex": "Tempo",
+        "name": "Virtuos: Tempo",
+        "effect": "Bei Kill 15% / 30% / 45% / 60% Chance 15% / 30% / 45% / 60% erhöhte Feuerrrate für 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
+        "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
+    },
+    {
+        "regex": "Furie",
+        "name": "Virtuos: Wut",
+        "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 7.5% / 15% / 22.5% / 30% erhöhten Schaden für 1 / 2 / 3 / 4 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
+        "info": "http://warframe.wikia.com/wiki/Virtuos_Fury"
+    },
+    {
+        "regex": "Hieb",
+        "name": "Virtuos: Schlag",
+        "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance 15% / 30% / 45% / 60% erhöhten kritischen Schaden für 1 / 2 / 3 / 4 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/VirtuosStrike.png/revision/latest/scale-to-width-down/350?cb=20171129163040",
+        "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
+    },
+    {
+        "regex": "shadow",
+        "name": "Virtuos: Schatten",
+        "effect": "Bei Kopftreffer 10% / 20% / 30% / 40% Chance 15% / 30% / 45% / 60% zusätzliche kritische Chance für 3 / 6 / 9 / 12 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
+        "info": "http://warframe.wikia.com/wiki/Virtuos_Shadow"
+    },
+    {
+        "regex": "Geist",
+        "name": "Virtuos: Geist",
+        "effect": "Bei Kopftreffer 10% / 20% / 30% / 40% Chance 15% / 30% / 45% / 60% zusätzliche Statuschance für 3 / 6 / 9 / 12 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Quills",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d6/VirtuosGhost.png/revision/latest/scale-to-width-down/350?cb=20171129163032",
+        "info": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
+    },
+    {
+        "regex": "brave",
+        "name": "Exodia: Mut",
+        "effect": "Bei kanalisiertem Nahkampfkill 100% Chance 1.25 / 2.50 / 3.75 / 5.00 erhöhte Energieregeneration für 1 / 2 / 3 / 4 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Hok's Schmiede",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/ExodiaBrave.png/revision/latest?cb=20171129162951",
+        "info": "http://warframe.wikia.com/wiki/Exodia_Brave"
+    },
+    {
+        "regex": "Tapferkeit",
+        "name": "Exodia: Tapferkeit",
+        "effect": "Bei kritischem Treffer 5% / 10% / 15% / 20% Chance 50% / 100% / 150% / 200% erhöhten Kanalisierungsschaden für 3 / 6 / 9 / 12 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Hok's Schmiede",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c4/ExodiaValor.png/revision/latest?cb=20171129163009",
+        "info": "http://warframe.wikia.com/wiki/Exodia_Valor"
+    },
+    {
+        "regex": "Macht",
+        "name": "Exodia: Macht",
+        "effect": "Bei Finisher 12.5% / 25% / 37.5% / 50% Chance 7.5% / 15% / 22.5% / 30% Lebensraub für 2 / 4 / 6 / 8 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Hok's Schmiede",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/12/ExodiaMight.png/revision/latest/scale-to-width-down/350?cb=20171129163004",
+        "info": "http://warframe.wikia.com/wiki/Exodia_Might"
+    },
+    {
+        "regex": "Triumph",
+        "name": "Exodia: Triumph",
+        "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 50% / 100% / 150% / 200% erhöhten Kanalisierungsschaden für 3 / 6 / 9 / 12 Sekunden zu erhalten",
+        "rarity": "Ungewöhnlich",
+        "location": "Hok's Schmiede",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/00/ExodiaTriumph.png/revision/latest/scale-to-width-down/350?cb=20171129163006",
+        "info": "http://warframe.wikia.com/wiki/Exodia_Triumph"
+    },
+    {
+        "regex": "Jagd",
+        "name": "Exodia: Jagd",
+        "effect": "Bei Schmetterangriff 20% / 30% / 40% / 50% Chance Gegner in einem 6m / 8m / 10m / 12m Radius heranzuziehen",
+        "rarity": "Ungewöhnlich",
+        "location": "Hok's Schmiede",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/ExodiaHunt.png/revision/latest/scale-to-width-down/350?cb=20171129163001",
+        "info": "https://warframe.fandom.com/de/wiki/Exodia:_Jagd"
+    },
+    {
+        "regex": "Kraft",
+        "name": "Exodia: Kraft",
+        "effect": "Bei Statuseffekt 5% / 10% / 15% / 20% Chance 80% / 100% / 120% / 150% Waffenschaden in 5m / 6m / 7m / 8m Radius zu verursachen",
+        "rarity": "Ungewöhnlich",
+        "location": "Hok's Schmiede",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/62/ExodiaForce.png/revision/latest/scale-to-width-down/350?cb=20171129162958",
+        "info": "https://warframe.fandom.com/de/wiki/Exodia:_Kraft"
+    },
+    {
+        "regex": "Infektion",
+        "name": "Exodia: Infektion",
+        "effect": "Nach einem Doppel- oder Projektilsprung: Nahkampfangriffe während des Zielgleitens verschießen ein Projektil, nachdem 30m zurückgelegt wurden wird der Projektilschaden um 100% / 200% / 300% / 400% erhöht, Rechweite ist von Gravitation abhängig",
+        "rarity": "Ungewöhnlich",
+        "location": "Event-Syndikat (Plagenstern)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/ExodiaContagion.png/revision/latest/scale-to-width-down/350?cb=20171129162953",
+        "info": "http://warframe.wikia.com/wiki/Exodia_Contagion"
+    },
+    {
+        "regex": "Epidemie",
+        "name": "Exodia: Epidemie",
+        "effect": "Nach einem Doppel- oder Projektilsprung: Stampfattacke sendet eine Schockwelle nach vorne aus, welche Gegner für 1s / 2s / 3s / 4s in die Luft befördert und Virusschaden bis zu 33m entfernt verursacht",
+        "rarity": "Ungewöhnlich",
+        "location": "Event-Syndikat (Plagenstern)",
+        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/ExodiaEpidemic.png/revision/latest/scale-to-width-down/350?cb=20171129162956",
+        "info": "https://warframe.fandom.com/de/wiki/Exodia:_Epidemie"
+    }
 ]
