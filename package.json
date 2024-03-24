@@ -48,10 +48,9 @@
   },
   "scripts": {
     "coverage": "npm test && c8 report --reporter=text-lcov | coveralls",
-    "postinstall": "npx install-peerdeps @wfcd/eslint-config@latest -S",
     "lint": "eslint --ignore-path .gitignore .",
     "lint:fix": "eslint --ignore-path .gitignore . --fix",
-    "prepare": "husky",
+    "prepare": "husky && npx install-peerdeps @wfcd/eslint-config@latest -S",
     "sort": "node tools/sort_languages.py",
     "test": "c8 mocha",
     "validate": "npm run lint:fix && npm run test && git add -u ."
