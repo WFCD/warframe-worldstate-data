@@ -2,46 +2,20 @@
   "name": "warframe-worldstate-data",
   "version": "1.0.5",
   "description": "Warframe data for use with warframe-worldstate-parser",
-  "main": "exports.js",
-  "type": "module",
-  "exports": {
-    ".": "./exports.js",
-    "./utilities": "./tools/utilities.js"
-  },
-  "directories": {
-    "test": "test"
-  },
-  "devDependencies": {
-    "@types/chai": "^4.3.11",
-    "@types/chai-json-schema": "^1.4.9",
-    "c8": "^9.1.0",
-    "chai": "^5.0.3",
-    "chai-json": "^1.0.0",
-    "chai-json-schema-ajv": "^5.2.4",
-    "coveralls": "^3.1.1",
-    "mocha": "^10.3.0",
-    "precommit-hook": "^3.0.0",
-    "sinon": "^17.0.1",
-    "sinon-chai": "^3.7.0"
-  },
-  "scripts": {
-    "lint": "eslint --ignore-path .gitignore .",
-    "lint:fix": "eslint --ignore-path .gitignore . --fix",
-    "test": "c8 mocha",
-    "coverage": "npm test && c8 report --reporter=text-lcov | coveralls",
-    "sort": "node tools/sort_languages.py",
-    "validate": "npm run lint:fix && npm run test && git add -u .",
-    "postinstall": "npx -p install-peerdeps@latest install-peerdeps @wfcd/eslint-config@^1.5.0 -S | npx -p install-peerdeps@2.0.3 install-peerdeps @wfcd/eslint-config@^1.5.0 -S"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wfcd/warframe-worldstate-data.git"
-  },
   "keywords": [
     "warframe-worldstate",
     "javascript",
     "warframe"
   ],
+  "homepage": "https://github.com/wfcd/warframe-worldstate-data#readme",
+  "bugs": {
+    "url": "https://github.com/wfcd/warframe-worldstate-data/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfcd/warframe-worldstate-data.git"
+  },
+  "license": "MIT",
   "author": "tobitenno",
   "contributors": [
     "tobitenno",
@@ -63,41 +37,74 @@
     "Hikoaki",
     "Tithen-Firion"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wfcd/warframe-worldstate-data/issues"
+  "type": "module",
+  "exports": {
+    ".": "./exports.js",
+    "./utilities": "./tools/utilities.js"
   },
-  "homepage": "https://github.com/wfcd/warframe-worldstate-data#readme",
-  "release": {
-    "branch": "master"
+  "main": "exports.js",
+  "directories": {
+    "test": "test"
   },
-  "engines": {
-    "node": ">=18.19.0"
+  "scripts": {
+    "coverage": "npm test && c8 report --reporter=text-lcov | coveralls",
+    "postinstall": "npx install-peerdeps @wfcd/eslint-config@latest -S",
+    "lint": "eslint --ignore-path .gitignore .",
+    "lint:fix": "eslint --ignore-path .gitignore . --fix",
+    "prepare": "husky",
+    "sort": "node tools/sort_languages.py",
+    "test": "c8 mocha",
+    "validate": "npm run lint:fix && npm run test && git add -u ."
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --cache --fix",
+      "npm test"
+    ],
+    "package*.json": [
+      "npx sort-package-json",
+      "npm dedupe"
+    ],
+    "*.{yml,json,yaml},!package*.json": [
+      "prettier --write"
+    ]
+  },
+  "babel": {
+    "plugins": [
+      "@babel/plugin-transform-class-properties",
+      "@babel/plugin-transform-private-methods"
+    ],
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "prettier": "@wfcd/eslint-config/prettier",
+  "eslintConfig": {
+    "parser": "@babel/eslint-parser",
+    "parserOptions": {
+      "ecmaFeatures": {
+        "modules": true
+      },
+      "ecmaVersion": 6,
+      "sourceType": "module"
+    },
+    "extends": "@wfcd/eslint-config/esm"
   },
   "eslintIgnore": [
     ".github/**",
     "docs/**",
     "data/**"
   ],
-  "eslintConfig": {
-    "extends": "@wfcd/eslint-config/esm",
-    "parser": "@babel/eslint-parser",
-    "parserOptions": {
-      "sourceType": "module",
-      "ecmaVersion": 6,
-      "ecmaFeatures": {
-        "modules": true
-      }
-    }
+  "release": {
+    "branch": "master"
   },
-  "babel": {
-    "presets": [
-      "@babel/preset-env"
-    ],
-    "plugins": [
-      "@babel/plugin-transform-class-properties",
-      "@babel/plugin-transform-private-methods"
-    ]
+  "mocha": {
+    "spec": "test/**/*.spec.js"
   },
   "c8": {
     "exclude": [
@@ -109,13 +116,26 @@
     ],
     "skip-full": true
   },
-  "mocha": {
-    "spec": "test/**/*.spec.js"
+  "devDependencies": {
+    "@commitlint/cli": "^19.2.1",
+    "@commitlint/config-conventional": "^19.1.0",
+    "@types/chai": "^4.3.11",
+    "@types/chai-json-schema": "^1.4.9",
+    "c8": "^9.1.0",
+    "chai": "^5.0.3",
+    "chai-json": "^1.0.0",
+    "chai-json-schema-ajv": "^5.2.4",
+    "coveralls": "^3.1.1",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "mocha": "^10.3.0",
+    "prettier": "^3.2.5",
+    "sinon": "^17.0.1",
+    "sinon-chai": "^3.7.0"
   },
-  "prettier": "@wfcd/eslint-config/prettier",
-  "pre-commit": [
-    "validate"
-  ],
+  "engines": {
+    "node": ">=18.19.0"
+  },
   "overrides": {
     "sinon-chai": {
       "chai": "^5.0.3"

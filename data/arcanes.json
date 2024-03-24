@@ -1,4 +1,5 @@
-[{
+[
+  {
     "regex": "acceleration",
     "name": "Arcane Acceleration",
     "effect": "On critical hit, 5% / 10% / 15% / 20% chance\nto give 15% / 30% / 45% / 60% Fire Rate to Rifles\nfor 1.5 / 3 / 4.5 / 6 Seconds",
@@ -267,7 +268,8 @@
     "location": "Changing, check droptable",
     "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/2a/Arcane_Warmth_160.png/revision/latest/scale-to-width-down/75?cb=20150403122843",
     "info": "http://warframe.wikia.com/wiki/Arcane_Warmth"
-  }, {
+  },
+  {
     "regex": "vigor",
     "name": "Magus Vigor",
     "effect": "50 / 100 / 150 / 200 Increased Health",
