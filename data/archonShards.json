@@ -1,0 +1,126 @@
+{
+    "ACC_BLUE": {
+        "value": "Azure",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax": {
+                "value": "+150% Health"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMax": {
+                "value": "+150 Sheild Capacity"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMax": {
+                "value": "+50 Energy Max"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMax": {
+                "value": "+150 Armor"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegen": {
+                "value": "+5 Health/s Regenerated"
+            }
+        }
+    },
+    "ACC_RED": {
+        "value": "Crimson",
+        "upgrades": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrength": {
+                "value": "10% Ability Strength"
+            }
+        }
+    },
+    "ACC_YELLOW": {
+        "value": "Amber",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergy": {
+                "value": "+30% Maximum Energy is filled on spawn"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealth": {
+                "value": "+100% Effectiveness on Health Orbs"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergy": {
+                "value": "+50% Effectiveness on Enery Orbs"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeed": {
+                "value": "+25% Casting Speed"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocity": {
+                "value": "+15% Parkour Velocity"
+            }
+        }
+    },
+    "ACC_ORANGE": {
+        "value": "Topaz"
+    },
+    "ACC_PURPLE": {
+        "value": "Violet",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibrium": {
+                "value": "Health pickups give +20% Energy. Energy pickups give +20% Health."
+            }
+        }
+    },
+    "ACC_GREEN": {
+        "value": "Emerald"
+    },
+    "ACC_BLUE_MYTHIC": {
+        "value": "Tauforged Azure",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMaxMythic": {
+                "value": "+225% Health"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMaxMythic": {
+                "value": "+225 Sheild Capacity"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMaxMythic": {
+                "value": "+75 Energy Max"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMaxMythic": {
+                "value": "+225 Armor"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegenMythic": {
+                "value": "+7.5 Health/s Regenerated"
+            }
+        }
+    },
+    "ACC_RED_MYTHIC": {
+        "value": "Tauforged Crimson",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrengthMythic": {
+                "value": "15% Ability Strength"
+            }
+        }
+    },
+    "ACC_YELLOW_MYTHIC": {
+        "value": "Tauforged Amber",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergy": {
+                "value": "+45% Maximum Energy is filled on spawn"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealth": {
+                "value": "+150% Effectiveness on Health Orbs"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergy": {
+                "value": "+75% Effectiveness on Enery Orbs"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeed": {
+                "value": "+37.5% Casting Speed"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocity": {
+                "value": "+22.5% Parkour Velocity"
+            }
+        }
+    },
+    "ACC_ORANGE_MYTHIC": {
+        "value": "Tauforged Topaz"
+    },
+    "ACC_PURPLE_MYTHIC": {
+        "value": "Tauforged Violet",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibriumMythic": {
+                "value": "Health pickups give +30% Energy. Energy pickups give +30% Health."
+            }
+        }
+    },
+    "ACC_GREEN_MYTHIC": {
+        "value": "Tauforged Emerald"
+    }
+}
