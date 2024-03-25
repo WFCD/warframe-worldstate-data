@@ -28,6 +28,24 @@ const keyInData = (key, dataOverride) => (key in i18n(dataOverride) ? i18n(dataO
 
 /**
  *
+ * @param {string} color - The internal color name
+ * @param {string} dataOverride locale for use with translation
+ * @returns {string}
+ */
+export const archonShardColor = (color, dataOverride = 'en') => keyInData(color, dataOverride)?.value ?? color;
+
+/**
+ *
+ * @param {string} color - The internal color name
+ * @param {string} upgradeType - The upgrade type
+ * @param {string} dataOverride locale for use with translation
+ * @returns {string}
+ */
+export const archonShardUpgradeType = (color, upgradeType, dataOverride = 'en') =>
+  keyInData(color, dataOverride)?.upgradeTypes[upgradeType]?.value ?? lastResourceName(upgradeType);
+
+/**
+ *
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction name
@@ -281,23 +299,6 @@ const polarityMap = {
  * @returns {string} The translated polarity
  */
 export const translatePolarity = (pol = '') => valMapping(pol, polarityMap);
-
-const archonShardMap = {
-  ACC_BLUE: 'Azure',
-  ACC_RED: 'Crimson',
-  ACC_YELLOW: 'Amber',
-  ACC_ORANGE: 'Topaz',
-  ACC_PURPLE: 'Violet',
-  ACC_GREEN: 'Emerald',
-  ACC_BLUE_MYTHIC: 'Tauforged Azure',
-  ACC_RED_MYTHIC: 'Tauforged Crimson',
-  ACC_YELLOW_MYTHIC: 'Tauforged Amber',
-  ACC_ORANGE_MYTHIC: 'Tauforged Topaz',
-  ACC_PURPLE_MYTHIC: 'Tauforged Violet',
-  ACC_GREEN_MYTHIC: 'Tauforged Emerald',
-};
-
-export const translateArchonColor = (color = '' ) => valMapping(color, archonShardMap);
 
 /**
  * An object containing functions to convert in-game names to their localizations
