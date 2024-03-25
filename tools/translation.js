@@ -282,6 +282,23 @@ const polarityMap = {
  */
 export const translatePolarity = (pol = '') => valMapping(pol, polarityMap);
 
+const archonShardMap = {
+  ACC_BLUE: 'Azure',
+  ACC_RED: 'Crimson',
+  ACC_YELLOW: 'Amber',
+  ACC_ORANGE: 'Topaz',
+  ACC_PURPLE: 'Violet',
+  ACC_GREEN: 'Emerald',
+  ACC_BLUE_MYTHIC: 'Tauforged Azure',
+  ACC_RED_MYTHIC: 'Tauforged Crimson',
+  ACC_YELLOW_MYTHIC: 'Tauforged Amber',
+  ACC_ORANGE_MYTHIC: 'Tauforged Topaz',
+  ACC_PURPLE_MYTHIC: 'Tauforged Violet',
+  ACC_GREEN_MYTHIC: 'Tauforged Emerald',
+};
+
+export const translateArchonColor = (color = '' ) => valMapping(color, archonShardMap);
+
 /**
  * An object containing functions to convert in-game names to their localizations
  * @typedef {Record<string, function>} Translator
