@@ -28,6 +28,24 @@ const keyInData = (key, dataOverride) => (key in i18n(dataOverride) ? i18n(dataO
 
 /**
  *
+ * @param {string} color - The internal color name
+ * @param {string} dataOverride locale for use with translation
+ * @returns {string}
+ */
+export const archonShardColor = (color, dataOverride = 'en') => keyInData(color, dataOverride)?.value ?? color;
+
+/**
+ *
+ * @param {string} color - The internal color name
+ * @param {string} upgradeType - The upgrade type
+ * @param {string} dataOverride locale for use with translation
+ * @returns {string}
+ */
+export const archonShardUpgradeType = (color, upgradeType, dataOverride = 'en') =>
+  keyInData(color, dataOverride)?.upgradeTypes[upgradeType]?.value ?? lastResourceName(upgradeType);
+
+/**
+ *
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction name
