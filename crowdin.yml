@@ -1,5 +1,6 @@
+append_commit_message: false
+commit_message: 'fix(%two_letters_code%): new translations in %original_file_name%'
+
 files:
   - source: /data/*.json
     translation: /data/%two_letters_code%/%original_file_name%
-append_commit_message: false
-commit_message: 'fix(%two_letters_code%): new translations in %original_file_name%'
