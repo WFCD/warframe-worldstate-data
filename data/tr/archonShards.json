@@ -1,0 +1,224 @@
+{
+    "ACC_BLUE": {
+        "value": "Azure",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax": {
+                "value": "+150% Health"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMax": {
+                "value": "+150 Sheild Capacity"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMax": {
+                "value": "+50 Energy Max"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMax": {
+                "value": "+150 Armor"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegen": {
+                "value": "+5 Health/s Regenerated"
+            }
+        }
+    },
+    "ACC_RED": {
+        "value": "Crimson",
+        "upgrades": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamage": {
+                "value": "+25% Melee Critical Damage"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChance": {
+                "value": "+25% Primary Status Chance"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChance": {
+                "value": "+25% Secondary Critical Chance"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDuration": {
+                "value": "+10% Ability Duration"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrength": {
+                "value": "10% Ability Strength"
+            }
+        }
+    },
+    "ACC_YELLOW": {
+        "value": "Amber",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergy": {
+                "value": "+30% Maximum Energy is filled on spawn"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealth": {
+                "value": "+100% Effectiveness on Health Orbs"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergy": {
+                "value": "+50% Effectiveness on Enery Orbs"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeed": {
+                "value": "+25% Casting Speed"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocity": {
+                "value": "+15% Parkour Velocity"
+            }
+        }
+    },
+    "ACC_ORANGE": {
+        "value": "Topaz",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpact": {
+                "value": "Gain 2 Health per enemy killed with Blast Damage. Max 450 Health."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProc": {
+                "value": "Regenerate +5 Shields when you kill an enemy with Blast Damage. "
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
+                "value": "Increase Secondary Critical Chance by 1% every time you kill an enemy affected by Heat Status. Max 50%."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoost": {
+                "value": "Gain +10% Ability Damage on enemies affected by Radiation Status."
+            }
+        }
+    },
+    "ACC_PURPLE": {
+        "value": "Violet",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoost": {
+                "value": "Gain +10% Ability Damage on enemies affected by Electricity Status."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamage": {
+                "value": "Gain +30% Primary Electricity Damage. Gain an additional +10% per Crimson, Azure, or Violet Archon Shard equipped."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoost": {
+                "value": "Gain +25% Melee Critical Damage. When max Energy is over 500, the damage boost doubles."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibrium": {
+                "value": "Health pickups give +20% Energy. Energy pickups give +20% Health."
+            }
+        }
+    },
+    "ACC_GREEN": {
+        "value": "Emerald",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamage": {
+                "value": "Toxin Status Effects deal +30% more damage. "
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHeal": {
+                "value": "Recover +2 Health each time enemies are damaged by a Toxin Status Effect."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoost": {
+                "value": "Gain +10% Ability Damage on enemies affected by Corrosion Status."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStack": {
+                "value": "Increase max stacks of DmgCorrosiveSmall64 Corrosion Status by +2."
+            }
+        }
+    },
+    "ACC_BLUE_MYTHIC": {
+        "value": "Tauforged Azure",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMaxMythic": {
+                "value": "+225% Health"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMaxMythic": {
+                "value": "+225 Sheild Capacity"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMaxMythic": {
+                "value": "+75 Energy Max"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMaxMythic": {
+                "value": "+225 Armor"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegenMythic": {
+                "value": "+7.5 Health/s Regenerated"
+            }
+        }
+    },
+    "ACC_RED_MYTHIC": {
+        "value": "Tauforged Crimson",
+        "upgrades": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamageMythic": {
+                "value": "+37.5% Melee Critical Damage"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChanceMythic": {
+                "value": "+37.5% Primary Status Chance"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChanceMythic": {
+                "value": "+37.5% Secondary Critical Chance"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDurationMythic": {
+                "value": "+15% Ability Duration"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrengthMythic": {
+                "value": "15% Ability Strength"
+            }
+        }
+    },
+    "ACC_YELLOW_MYTHIC": {
+        "value": "Tauforged Amber",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergyMythic": {
+                "value": "+45% Maximum Energy is filled on spawn"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealthMythic": {
+                "value": "+150% Effectiveness on Health Orbs"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergyMythic": {
+                "value": "+75% Effectiveness on Enery Orbs"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeedMythic": {
+                "value": "+37.5% Casting Speed"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocityMythic": {
+                "value": "+22.5% Parkour Velocity"
+            }
+        }
+    },
+    "ACC_ORANGE_MYTHIC": {
+        "value": "Tauforged Topaz",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpactMythic": {
+                "value": "Gain +2 Health per enemy killed with Blast Damage (Max 450 Health)"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProcMythic": {
+                "value": "Regenerate +7.5 Shields when you kill an enemy with Blast Damage"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeatMythic": {
+                "value": "Increase Secondary Critical Chance by 1.5% every time you kill an enemy affected by Heat Status. Max 75%"
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoostMythic": {
+                "value": "Gain +15% Ability Damage on enemies affected by Radiation Status. "
+            }
+        }
+    },
+    "ACC_PURPLE_MYTHIC": {
+        "value": "Tauforged Violet",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoostMythic": {
+                "value": "Gain +15% Ability Damage on enemies affected by Electricity Status. "
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageMythic": {
+                "value": "Gain +45% Primary Electricity Damage. Gain an additional +15% per Crimson, Azure, or Violet Archon Shard equipped."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoostMythic": {
+                "value": "Gain +37.5% Melee Critical Damage. When max Energy is over 500, the damage boost doubles."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibriumMythic": {
+                "value": "Health pickups give +30% Energy. Energy pickups give +30% Health."
+            }
+        }
+    },
+    "ACC_GREEN_MYTHIC": {
+        "value": "Tauforged Emerald",
+        "upgradeTypes": {
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamageMythic": {
+                "value": "Toxin Status Effects deal +45% more damage. "
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHealMythic": {
+                "value": "Recover +3 Health each time enemies are damaged by a Toxin Status Effect."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoostMythic": {
+                "value": "Gain +15% Ability Damage on enemies affected by Corrosion Status."
+            },
+            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStackMythic": {
+                "value": "Increase max stacks of DmgCorrosiveSmall64 Corrosion Status by +3."
+            }
+        }
+    }
+}
