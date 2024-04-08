@@ -1,30 +1,32 @@
 import { expect, should } from 'chai';
 
 import {
-  translateFocus,
-  translatePolarity,
-  conclaveChallenge,
-  toTitleCase,
-  faction,
-  node,
-  nodeMissionType,
-  nodeEnemy,
-  languageString,
-  languageDesc,
-  missionType,
-  conclaveMode,
+  archonShardColor,
+  archonShardUpgradeType,
   conclaveCategory,
+  conclaveChallenge,
+  conclaveMode,
+  faction,
   fissureModifier,
   fissureTier,
-  upgrade,
+  languageDesc,
+  languageString,
+  missionType,
+  node,
+  nodeEnemy,
+  nodeMissionType,
   operation,
   operationSymbol,
+  region,
   sortieBoss,
   sortieFaction,
-  sortieModifier,
   sortieModDesc,
+  sortieModifier,
   syndicate,
-  region,
+  toTitleCase,
+  translateFocus,
+  translatePolarity,
+  upgrade,
 } from '../../tools/translation.js';
 
 should();
@@ -259,6 +261,25 @@ describe('translation', () => {
         region('notfound').should.equal('notfound');
       });
     });
+    describe('archonShardColor()', () => {
+      it("should return a translation of the key if it's found in the data", () => {
+        archonShardColor('ACC_BLUE').should.equal('Azure');
+      });
+      it("should return the key if it's not found in the data", () => {
+        archonShardColor('notfound').should.equal('notfound');
+      });
+    });
+    describe('archonShardUpgradeType()', () => {
+      it("should return a translation of the key if it's found in the data", () => {
+        archonShardUpgradeType(
+          'ACC_BLUE',
+          '/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax'
+        ).should.equal('+150% Health');
+      });
+      it("should return the key if it's not found in the data", () => {
+        archonShardUpgradeType('notfound', 'notfound').should.equal('notfound');
+      });
+    });
   });
 
   describe('supports overriding locale', () => {
@@ -491,6 +512,25 @@ describe('translation', () => {
       it('should translate polarities', () => {
         translatePolarity('AP_').should.equal('None');
         translatePolarity('AP_ATTACK').should.equal('Madurai');
+      });
+    });
+    describe('archonShardColor()', () => {
+      it("should return a translation of the key if it's found in the data", () => {
+        archonShardColor('ACC_BLUE', 'en').should.equal('Azure');
+      });
+      it("should return the key if it's not found in the data", () => {
+        archonShardColor('notfound').should.equal('notfound');
+      });
+    });
+    describe('archonShardUpgradeType()', () => {
+      it("should return a translation of the key if it's found in the data", () => {
+        archonShardUpgradeType(
+          'ACC_BLUE',
+          '/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax'
+        ).should.equal('+150% Health');
+      });
+      it("should return the key if it's not found in the data", () => {
+        archonShardUpgradeType('notfound', 'notfound').should.equal('notfound');
       });
     });
   });
