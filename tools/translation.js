@@ -280,7 +280,7 @@ const valMapping = (key, map) => {
 
 const focusMap = {
   'Focus/Attack': 'Madurai',
-  'Focus/Defense': 'Varazin',
+  'Focus/Defense': 'Vazarin',
   'Focus/Tactic': 'Naramon',
   'Focus/Power': 'Zenurik',
   'Focus/Ward': 'Unairu',
@@ -294,7 +294,7 @@ export const translateFocus = (focus = '') => valMapping(focus, focusMap);
 
 const polarityMap = {
   AP_ATTACK: 'Madurai',
-  AP_DEFENSE: 'Varazin',
+  AP_DEFENSE: 'Vazarin',
   AP_TACTIC: 'Naramon',
   AP_POWER: 'Zenurik',
   AP_WARD: 'Unairu',
