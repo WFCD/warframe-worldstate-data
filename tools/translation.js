@@ -299,6 +299,7 @@ const polarityMap = {
   AP_POWER: 'Zenurik',
   AP_WARD: 'Unairu',
   AP_UMBRA: 'Umbra',
+  AP_ANY: 'Aura',
 };
 
 /**
