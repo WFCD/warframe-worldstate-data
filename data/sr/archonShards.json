@@ -21,7 +21,7 @@
     },
     "ACC_RED": {
         "value": "Crimson",
-        "upgrades": {
+        "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamage": {
                 "value": "+25% Melee Critical Damage"
             },
@@ -132,7 +132,7 @@
     },
     "ACC_RED_MYTHIC": {
         "value": "Tauforged Crimson",
-        "upgrades": {
+        "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamageMythic": {
                 "value": "+37.5% Melee Critical Damage"
             },
