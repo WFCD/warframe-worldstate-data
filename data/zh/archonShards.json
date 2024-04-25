@@ -66,7 +66,7 @@
                 "value": "Gain 2 Health per enemy killed with Blast Damage. Max 450 Health."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProc": {
-                "value": "Regenerate +5 Shields when you kill an enemy with Blast Damage."
+                "value": "使用爆炸伤害击杀一个敌人恢复 5 护盾值"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
                 "value": "Increase Secondary Critical Chance by 1% every time you kill an enemy affected by Heat Status. Max 50%."
@@ -183,7 +183,7 @@
                 "value": "Increase Secondary Critical Chance by 1.5% every time you kill an enemy affected by Heat Status. Max 75%"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoostMythic": {
-                "value": "Gain +15% Ability Damage on enemies affected by Radiation Status."
+                "value": "处于辐射异常的敌人增加 15% 技能伤害"
             }
         }
     },
