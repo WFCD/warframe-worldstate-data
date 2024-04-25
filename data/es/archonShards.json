@@ -1,46 +1,46 @@
 {
     "ACC_BLUE": {
-        "value": "Azure",
+        "value": "Celeste",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax": {
-                "value": "+150% Health"
+                "value": "+150% Salud"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMax": {
-                "value": "+150 Sheild Capacity"
+                "value": "+150 Capacidad de Escudos"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMax": {
-                "value": "+50 Energy Max"
+                "value": "+50 de Energía Máxima"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMax": {
-                "value": "+150 Armor"
+                "value": "+150 de Armadura"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegen": {
-                "value": "+5 Health/s Regenerated"
+                "value": "+5 de Salud Regenerada"
             }
         }
     },
     "ACC_RED": {
-        "value": "Crimson",
+        "value": "Carmesí",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamage": {
-                "value": "+25% Melee Critical Damage"
+                "value": "+25% de Daño Crítico cuerpo a cuerpo"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChance": {
-                "value": "+25% Primary Status Chance"
+                "value": "+25% de Probabilidad de estado de arma primaria"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChance": {
-                "value": "+25% Secondary Critical Chance"
+                "value": "+25% de Probabilidad Crítica de arma secundaria"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDuration": {
-                "value": "+10% Ability Duration"
+                "value": "+10% de Duración de Habilidad"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrength": {
-                "value": "10% Ability Strength"
+                "value": "+10% de Fuerza de Habilidad"
             }
         }
     },
     "ACC_YELLOW": {
-        "value": "Amber",
+        "value": "Ámbar",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergy": {
                 "value": "+30% Maximum Energy is filled on spawn"
