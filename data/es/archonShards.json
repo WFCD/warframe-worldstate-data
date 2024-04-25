@@ -69,10 +69,10 @@
                 "value": "Regenera +5 de Escudos por cada enemigo asesinado con Daño Explosivo. "
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
-                "value": "Increase Secondary Critical Chance by 1% every time you kill an enemy affected by Heat Status. Max 50%."
+                "value": "Aumenta la probabilidad de Daño Crítico en armas Secundarias en un 1% cada vez que matas a un enemigo afectado por el Estado de Calor. Máximo 50%."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoost": {
-                "value": "Gain +10% Ability Damage on enemies affected by Radiation Status."
+                "value": "Obtienes +10% de Daño de Habilidad en enemigos afectados por el Estado de Radiación."
             }
         }
     },
@@ -80,16 +80,16 @@
         "value": "Violeta",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoost": {
-                "value": "Gain +10% Ability Damage on enemies affected by Electricity Status."
+                "value": "Obtienes +10% de Daño de Habilidad en enemigos afectados por el Estado de Electricidad."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamage": {
-                "value": "Gain +30% Primary Electricity Damage. Gain an additional +10% per Crimson, Azure, or Violet Archon Shard equipped."
+                "value": "Obtienes +30% de Daño Eléctrico en armas Primarias. Obtienes un 10% adicional por Fragmento Arconte Carmesí, Celeste o Violeta equipado."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoost": {
-                "value": "Gain +25% Melee Critical Damage. When max Energy is over 500, the damage boost doubles."
+                "value": "Obtienes 25% de Daño Crítico cuerpo a cuerpo. Cuando la Energía máxima supera los 500, el aumento de daño se duplica."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibrium": {
-                "value": "Health pickups give +20% Energy. Energy pickups give +20% Health."
+                "value": "Las recolecciones de Salud otorgan +20% de Energía. Las recolecciones de Energía otorgan 20% de Salud."
             }
         }
     },
@@ -97,21 +97,21 @@
         "value": "Esmeralda",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamage": {
-                "value": "Toxin Status Effects deal +30% more damage. "
+                "value": "Los Efectos del Estado Toxina causan 30% más daño. "
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHeal": {
-                "value": "Recover +2 Health each time enemies are damaged by a Toxin Status Effect."
+                "value": "Recupera +2 de Salud cada vez que los enemigos son dañados por un Efecto de Estado Toxina."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoost": {
-                "value": "Gain +10% Ability Damage on enemies affected by Corrosion Status."
+                "value": "Obtienes 10% de Daño de Habilidad en enemigos afectados por el Estado Corrosivo."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStack": {
-                "value": "Increase max stacks of DmgCorrosiveSmall64 Corrosion Status by +2."
+                "value": "Aumenta las acumulaciones máximas del Estado Corrosivo en +2."
             }
         }
     },
     "ACC_BLUE_MYTHIC": {
-        "value": "Tauforged Azure",
+        "value": "Celeste Tauforjado",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMaxMythic": {
                 "value": "+225% de Salud"
@@ -171,7 +171,7 @@
         }
     },
     "ACC_ORANGE_MYTHIC": {
-        "value": "Tauforged Topaz",
+        "value": "Topacio Tauforjado",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpactMythic": {
                 "value": "Gain +2 Health per enemy killed with Blast Damage (Max 450 Health)"
