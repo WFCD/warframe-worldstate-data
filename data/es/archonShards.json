@@ -66,7 +66,7 @@
                 "value": "Recupera 2 de Salud por cada enemigo asesinado con Daño Explosivo. Máximo 450 de Salud."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProc": {
-                "value": "Regenera +5 de Escudos por cada enemigo asesinado con Daño Explosivo. "
+                "value": "Regenerate +5 Shields when you kill an enemy with Blast Damage."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
                 "value": "Aumenta la probabilidad de Daño Crítico en armas Secundarias en un 1% cada vez que matas a un enemigo afectado por el Estado de Calor. Máximo 50%."
@@ -183,7 +183,7 @@
                 "value": "Increase Secondary Critical Chance by 1.5% every time you kill an enemy affected by Heat Status. Max 75%"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoostMythic": {
-                "value": "Gain +15% Ability Damage on enemies affected by Radiation Status. "
+                "value": "Gain +15% Ability Damage on enemies affected by Radiation Status."
             }
         }
     },
