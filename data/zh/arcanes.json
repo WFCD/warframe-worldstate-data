@@ -11,7 +11,7 @@
     {
         "regex": "神盾",
         "name": "神盾 赋能",
-        "effect": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
+        "effect": "受到伤害时，有 1.5% / 3% / 4.5% /6% 的概率 持续 5 / 10 / 15 / 20 秒恢复每秒 15 / 30 / 45 /60 护盾值",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/ArcaneAegis.png/revision/latest?cb=20180307005157",
