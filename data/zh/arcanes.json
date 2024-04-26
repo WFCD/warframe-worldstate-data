@@ -29,7 +29,7 @@
     {
         "regex": "蜘蛛",
         "name": "蜘蛛 赋能",
-        "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
+        "effect": "在墙上停留时，下次攻击有 15% / 30% / 45% / 60% 的几率伤害增加 100%",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/ArcaneArachne.png/revision/latest?cb=20180307093502",
@@ -38,7 +38,7 @@
     {
         "regex": "复仇者",
         "name": "复仇者 赋能",
-        "effect": "When DAMAGED 3.5% / 7% / 10.5% / 14% chance\nfor 7.5% / 15% / 22.5% / 30% Additive Critical Chance\nfor 2 / 4 / 6 / 8 Seconds",
+        "effect": "受到伤害时，有 3.5% / 7% / 10.5% / 14% 的概率增加 7.5% / 15% / 22.5% / 30% 暴击几率，持续 2 / 4 / 6 / 8 秒",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ab/ArcaneAvenger.png/revision/latest?cb=20180307102651",
@@ -47,7 +47,7 @@
     {
         "regex": "觉醒",
         "name": "觉醒 赋能",
-        "effect": "On RELOAD 10% / 20% / 30% / 40% chance\nto add 25% / 50% / 75% / 100% Damage to Secondaries\n for 4 / 8 / 12 / 16 Seconds",
+        "effect": "装填后，有10% / 20% / 30% / 40% 的几率增加 25% / 50% / 75% / 100% 副武器伤害，持续 4 / 8 / 12 / 16 秒",
         "rarity": "常见",
         "location": "更改，请查看掉落表",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ae/ArcaneAwakening.png/revision/latest?cb=20180306223000",
@@ -65,7 +65,7 @@
     {
         "regex": "结果",
         "name": "结果 赋能",
-        "effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
+        "effect": "爆头时，有 25% / 50% / 75% / 100% 的几率增加 10% / 20% / 30% / 40% 滞空瞄准或蹬墙瞄准，持续 3 / 6 / 9 / 12 秒",
         "rarity": "罕见",
         "location": "更改，请查看掉落表",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/76/ArcaneConsequence.png/revision/latest?cb=20180305010312",
@@ -74,7 +74,7 @@
     {
         "regex": "偏折",
         "name": "偏折 赋能",
-        "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
+        "effect": "20% / 40% / 60% / 80% 的几率抵抗切割伤害",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
         "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/ArcaneDeflection.png/revision/latest?cb=20180306223029",
@@ -128,11 +128,11 @@
     {
         "regex": "复原",
         "name": "复原 赋能",
-        "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
+        "effect": "有 20% / 40% / 60% / 80% / 80%的概率抵抗辐射异常",
         "rarity": "稀有",
         "location": "更改，请查看掉落表",
-        "thumbnail": "http://warframe.wikia.com/wiki/Arcane_Healing",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
+        "thumbnail": "https://warframe.fandom.com/wiki/Arcane_Healing",
+        "info": "https://warframe.fandom.com/wiki/Arcane_Healing"
     },
     {
         "regex": "冰冷",
