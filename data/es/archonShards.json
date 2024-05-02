@@ -66,7 +66,7 @@
                 "value": "Recupera 2 de Salud por cada enemigo asesinado con Daño Explosivo. Máximo 450 de Salud."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProc": {
-                "value": "Regenerate +5 Shields when you kill an enemy with Blast Damage."
+                "value": "Regenera +5 de Escudos por cada enemigo asesinado con Daño Explosivo."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
                 "value": "Aumenta la probabilidad de Daño Crítico en armas Secundarias en un 1% cada vez que matas a un enemigo afectado por el Estado de Calor. Máximo 50%."
@@ -174,50 +174,50 @@
         "value": "Topacio Tauforjado",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpactMythic": {
-                "value": "Gain +2 Health per enemy killed with Blast Damage (Max 450 Health)"
+                "value": "Recupera +2 de Salud por cada enemigo asesinado con Daño Explosivo. (Máximo 450 de Salud)"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProcMythic": {
-                "value": "Regenerate +7.5 Shields when you kill an enemy with Blast Damage"
+                "value": "Regenera +7.5 de Escudos por cada enemigo asesinado con Daño Explosivo"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeatMythic": {
-                "value": "Increase Secondary Critical Chance by 1.5% every time you kill an enemy affected by Heat Status. Max 75%"
+                "value": "Aumenta la probabilidad de Daño Crítico en armas Secundarias en un 1.5% cada vez que matas a un enemigo afectado por el Estado de Calor. Máximo 75%"
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoostMythic": {
-                "value": "Gain +15% Ability Damage on enemies affected by Radiation Status."
+                "value": "Obtienes +15% de Daño de Habilidad en enemigos afectados por el Estado de Radiación."
             }
         }
     },
     "ACC_PURPLE_MYTHIC": {
-        "value": "Tauforged Violet",
+        "value": "Violeta Tauforjado",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoostMythic": {
-                "value": "Gain +15% Ability Damage on enemies affected by Electricity Status. "
+                "value": "Obtienes +15% de Daño de Habilidad en enemigos afectados por el Estado de Electricidad. "
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageMythic": {
-                "value": "Gain +45% Primary Electricity Damage. Gain an additional +15% per Crimson, Azure, or Violet Archon Shard equipped."
+                "value": "Obtienes +45% de Daño Eléctrico en armas Primarias. Obtienes un 15% adicional por Fragmento Arconte Carmesí, Celeste o Violeta equipado."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoostMythic": {
-                "value": "Gain +37.5% Melee Critical Damage. When max Energy is over 500, the damage boost doubles."
+                "value": "Obtienes +37.5% de Daño Crítico cuerpo a cuerpo. Cuando la Energía máxima supera los 500, el aumento de daño se duplica."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibriumMythic": {
-                "value": "Health pickups give +30% Energy. Energy pickups give +30% Health."
+                "value": "Las recolecciones de Salud otorgan +30% de Energía. Las recolecciones de Energía otorgan 30% de Salud."
             }
         }
     },
     "ACC_GREEN_MYTHIC": {
-        "value": "Tauforged Emerald",
+        "value": "Esmeralda Tauforjado",
         "upgradeTypes": {
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamageMythic": {
-                "value": "Toxin Status Effects deal +45% more damage. "
+                "value": "Los Efectos del Estado Toxina causan +45% más daño. "
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHealMythic": {
-                "value": "Recover +3 Health each time enemies are damaged by a Toxin Status Effect."
+                "value": "Recupera +3 de Salud cada vez que los enemigos son dañados por un Efecto de Estado Toxina."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoostMythic": {
-                "value": "Gain +15% Ability Damage on enemies affected by Corrosion Status."
+                "value": "Obtienes +15% de Daño de Habilidad en enemigos afectados por el Estado Corrosivo."
             },
             "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStackMythic": {
-                "value": "Increase max stacks of DmgCorrosiveSmall64 Corrosion Status by +3."
+                "value": "Aumenta las acumulaciones máximas del Estado Corrosivo en +3."
             }
         }
     }
