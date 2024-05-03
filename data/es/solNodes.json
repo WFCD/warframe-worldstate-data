@@ -140,7 +140,7 @@
     "type": "Exterminio"
   },
   "SolNode28": {
-    "value": "Terminus (Mercury)",
+    "value": "Terminus (Mercurio)",
     "enemy": "Fuego cruzado",
     "type": "Sabotaje"
   },
@@ -515,7 +515,7 @@
     "type": "Espionaje"
   },
   "SolNode103": {
-    "value": "M Prime (Mercury)",
+    "value": "M Prime (Mercurio)",
     "enemy": "Fuego cruzado",
     "type": "Exterminio"
   },
@@ -1135,52 +1135,52 @@
     "type": "Recorrido libre"
   },
   "SolNode229": {
-    "value": "Cambion Drift (Deimos)",
+    "value": "Deriva Cambion (Deimos)",
     "enemy": "Infestados",
     "type": "Recorrido libre"
   },
   "SolNode230": {
-    "value": "Everview Arc (Zariman)",
+    "value": "Arco Panorámico (Zariman)",
     "enemy": "Fuego cruzado",
-    "type": "Void Flood"
+    "type": "Inundación del Vacío"
   },
   "SolNode231": {
-    "value": "Halako Perimeter (Zariman)",
+    "value": "Perímetro Halako (Zariman)",
     "enemy": "Fuego cruzado",
     "type": "Exterminio"
   },
   "SolNode232": {
-    "value": "Tuvul Commons (Zariman)",
+    "value": "Comunas Tuvul (Zariman)",
     "enemy": "Fuego cruzado",
-    "type": "Void Cascade"
+    "type": "Cascada del Vacío"
   },
   "SolNode233": {
-    "value": "Oro Works (Zariman)",
+    "value": "Talleres de Oro (Zariman)",
     "enemy": "Fuego cruzado",
-    "type": "Void Armageddon"
+    "type": "Armagedón del Vacío"
   },
   "SolNode234": {
-    "value": "Dormizone (Zariman)",
+    "value": "Dormizona (Zariman)",
     "enemy": "Tenno",
     "type": "Repetidor"
   },
   "SolNode235": {
-    "value": "The Greenway (Zariman)",
+    "value": "La Vía Verde (Zariman)",
     "enemy": "Fuego cruzado",
     "type": "Defensa móvil"
   },
   "SolNode236": {
-    "value": "The Duviri Experience (Duviri)",
+    "value": "La Experiencia Duviri (Duviri)",
     "enemy": "Duviri",
     "type": "Recorrido libre"
   },
   "SolNode237": {
-    "value": "The Lone Story (Duviri)",
+    "value": "Solo Historia (Duviri)",
     "enemy": "Duviri",
     "type": "Recorrido libre"
   },
   "SolNode238": {
-    "value": "The Circuit (Duviri)",
+    "value": "El Circuito (Duviri)",
     "enemy": "Duviri",
     "type": "Recorrido libre"
   },
@@ -1262,7 +1262,7 @@
   "SolNode450": {
     "value": "Tyana Pass (Zariman)",
     "enemy": "Fuego cruzado",
-    "type": "Mirror Defense"
+    "type": "Defensa Reflectante"
   },
   "SolNode706": {
     "value": "Horend (Deimos)",
@@ -1275,7 +1275,7 @@
     "type": "Defensa"
   },
   "SolNode708": {
-    "value": "Phlegyas (Deimos)",
+    "value": "Flegias (Deimos)",
     "enemy": "Infestados",
     "type": "Exterminio"
   },
@@ -1295,7 +1295,7 @@
     "type": "Supervivencia"
   },
   "SolNode712": {
-    "value": "Magnacidium (Deimos)",
+    "value": "Magnacidio (Deimos)",
     "enemy": "Infestados",
     "type": "Asesinato"
   },
@@ -1311,33 +1311,33 @@
   },
   "SolNode715": {
     "value": "Effervo (Deimos)",
-    "enemy": "The Murmur",
+    "enemy": "El Murmullo",
     "type": "Asesinato"
   },
   "SolNode716": {
     "value": "Nex (Deimos)",
-    "enemy": "The Murmur",
+    "enemy": "El Murmullo",
     "type": "Exterminio"
   },
   "SolNode717": {
     "value": "Persto (Deimos)",
-    "enemy": "The Murmur",
+    "enemy": "El Murmullo",
     "type": "Supervivencia"
   },
   "SolNode718": {
     "value": "Cambire (Deimos)",
-    "enemy": "The Murmur",
-    "type": "Alchemy"
+    "enemy": "El Murmullo",
+    "type": "Alquimia"
   },
   "SolNode719": {
     "value": "Munio (Deimos)",
-    "enemy": "The Murmur",
-    "type": "Mirror Defense"
+    "enemy": "El Murmullo",
+    "type": "Defensa Reflectante"
   },
   "SolNode720": {
     "value": "Testudo (Deimos)",
-    "enemy": "The Murmur",
-    "type": "Netracells"
+    "enemy": "El Murmullo",
+    "type": "Netraceldas"
   },
   "SolNode740": {
     "value": "El Ropaloulista (Júpiter)",
@@ -1392,7 +1392,7 @@
   "SolNode902": {
     "value": "Montes (Venus)",
     "enemy": "Corpus",
-    "type": "Extermination (Archwing)"
+    "type": "Exterminio (Archwing)"
   },
   "SolNode903": {
     "value": "Erpo (Tierra)",
@@ -1402,7 +1402,7 @@
   "SolNode904": {
     "value": "Syrtis (Marte)",
     "enemy": "Grineer",
-    "type": "Extermination (Archwing)"
+    "type": "Exterminio (Archwing)"
   },
   "SolNode905": {
     "value": "Galilea (Júpiter)",
@@ -2010,22 +2010,22 @@
     "type": "Asesinato"
   },
   "CrewBattleNode501": {
-    "value": "Mordo Cluster (Saturn)",
+    "value": "Cúmulo Mordo (Saturno)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode502": {
-    "value": "Sover Strait (Earth)",
+    "value": "Estrecho de Sover (Tierra)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode503": {
-    "value": "Bifrost Echo (Venus)",
+    "value": "Eco de Bifrost (Venus)",
     "enemy": "Corpus",
     "type": "Exterminio"
   },
   "CrewBattleNode504": {
-    "value": "Arva Vector (Neptune)",
+    "value": "Vector Arva (Neptuno)",
     "enemy": "Corpus",
     "type": "Defensa"
   },
@@ -2035,7 +2035,7 @@
     "type": "Escaramuza"
   },
   "CrewBattleNode509": {
-    "value": "Iota Temple (Earth)",
+    "value": "Templo de Iota (Tierra)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
@@ -2045,9 +2045,9 @@
     "type": "Escaramuza"
   },
   "CrewBattleNode511": {
-    "value": "Beacon Shield Ring (Venus)",
+    "value": "Anillo de Escudo de Balizas (Venus)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "Volátil"
   },
   "CrewBattleNode512": {
     "value": "Orvin-Haarc (Venus)",
@@ -2055,54 +2055,54 @@
     "type": "Espionaje"
   },
   "CrewBattleNode513": {
-    "value": "Vesper Strait (Venus)",
+    "value": "Estrecho de Vesper (Venus)",
     "enemy": "Corpus",
     "type": "Orphix"
   },
   "CrewBattleNode514": {
-    "value": "Falling Glory (Venus)",
+    "value": "Gloria Decandente (Venus)",
     "enemy": "Corpus",
     "type": "Defensa"
   },
   "CrewBattleNode515": {
-    "value": "Luckless Expanse (Venus)",
+    "value": "Expansión Desafortunada (Venus)",
     "enemy": "Corpus",
     "type": "Supervivencia"
   },
   "CrewBattleNode516": {
-    "value": "Nu-gua Mines (Neptune)",
+    "value": "Minas de Nu-gua (Neptuno)",
     "enemy": "Corpus",
     "type": "Exterminio"
   },
   "CrewBattleNode518": {
-    "value": "Ogal Cluster (Earth)",
+    "value": "Agrupación de Ogal (Tierra)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode519": {
-    "value": "Korm's Belt (Earth)",
+    "value": "Cinturón de Korm (Tierra)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode521": {
-    "value": "Enkidu Ice Drifts (Neptune)",
+    "value": "Deriva Glaciar Enkidu (Neptuno)",
     "enemy": "Corpus",
     "type": "Supervivencia"
   },
   "CrewBattleNode522": {
-    "value": "Bendar Cluster (Earth)",
+    "value": "Cúmulo Bendar (Tierra)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode523": {
-    "value": "Mammon's Prospect (Neptune)",
+    "value": "Perspectiva de Mammón (Neptuno)",
     "enemy": "Corpus",
     "type": "Orphix"
   },
   "CrewBattleNode524": {
-    "value": "Sovereign Grasp (Neptune)",
+    "value": "Agarre Soberano (Neptuno)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "Volátil"
   },
   "CrewBattleNode525": {
     "value": "Brom Cluster (Neptune)",
@@ -2110,67 +2110,67 @@
     "type": "Espionaje"
   },
   "CrewBattleNode526": {
-    "value": "Khufu Envoy (Pluto)",
+    "value": "Emisario Keops (Plutón)",
     "enemy": "Corpus",
     "type": "Orphix"
   },
   "CrewBattleNode527": {
-    "value": "Seven Sirens (Pluto)",
+    "value": "Siete Sirenas (Plutón)",
     "enemy": "Corpus",
     "type": "Exterminio"
   },
   "CrewBattleNode528": {
-    "value": "Obol Crossing (Pluto)",
+    "value": "Cruce de Obol (Plutón)",
     "enemy": "Corpus",
     "type": "Defensa"
   },
   "CrewBattleNode529": {
-    "value": "Profit Margin (Pluto)",
+    "value": "Margen de Beneficio (Plutón)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "Volátil"
   },
   "CrewBattleNode530": {
-    "value": "Kasio's Rest (Saturn)",
+    "value": "Descanso de Kasio (Saturno)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode531": {
-    "value": "Fenton's Field (Pluto)",
+    "value": "Campo de Fenton (Plutón)",
     "enemy": "Corpus",
     "type": "Supervivencia"
   },
   "CrewBattleNode533": {
-    "value": "Nodo Gap (Saturn)",
+    "value": "Brecha de Nodo (Saturno)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode534": {
-    "value": "Lupal Pass (Saturn)",
+    "value": "Paso de Lupal (Saturno)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode535": {
-    "value": "Vand Cluster (Saturn)",
+    "value": "Cúmulo Vand (Saturno)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode536": {
-    "value": "Peregrine Axis (Pluto)",
+    "value": "Eje Peregrino (Plutón)",
     "enemy": "Corpus",
     "type": "Orphix"
   },
   "CrewBattleNode538": {
-    "value": "Calabash (Veil)",
+    "value": "Calabaza (Velo)",
     "enemy": "Corpus",
     "type": "Exterminio"
   },
   "CrewBattleNode539": {
-    "value": "Numina (Veil)",
+    "value": "Numina (Velo)",
     "enemy": "Corpus",
-    "type": "Volatile"
+    "type": "Volátil"
   },
   "CrewBattleNode540": {
-    "value": "Arc Silver (Veil)",
+    "value": "Aco Plateado (Velo)",
     "enemy": "Corpus",
     "type": "Defensa"
   },
@@ -2190,7 +2190,7 @@
     "type": "Espionaje"
   },
   "CrewBattleNode550": {
-    "value": "Nsu Grid (Veil)",
+    "value": "Red Nsu (Velo)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
@@ -2205,17 +2205,17 @@
     "type": "Escaramuza"
   },
   "CrewBattleNode553": {
-    "value": "Flexa (Veil)",
+    "value": "Flexa (Velo)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode554": {
-    "value": "H-2 Cloud (Veil)",
+    "value": "Nube H-2 (Velo)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode555": {
-    "value": "R-9 Cloud (Veil)",
+    "value": "Nube R-9 (Velo)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   }
