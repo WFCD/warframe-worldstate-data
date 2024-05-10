@@ -59,9 +59,9 @@
     "SORTIE_MODIFIER_SECONDARY_ONLY": "Solo se pueden usar armas secundarias en esta misión, cualquier otro tipo de arma no está permitido, y se eliminará automáticamente si está equipado.",
     "SORTIE_MODIFIER_SHOTGUN_ONLY": "Solo se pueden utilizar escopetas en esta misión, cualquier otro tipo de arma no está permitido, y se eliminará automáticamente si está equipado.",
     "SORTIE_MODIFIER_SNIPER_ONLY": "Solo armas tipo francotiradores pueden ser usados en esta misión, cualquier otro tipo de arma no está permitido, y se eliminará automáticamente si está equipado.",
-    "SORTIE_MODIFIER_RIFLE_ONLY": "Only assault rifles may be used in this mission. Surprisingly, launchers work too. Other weapon types will be removed automatically if equipped.",
-    "SORTIE_MODIFIER_MELEE_ONLY": "Only melee weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
-    "SORTIE_MODIFIER_BOW_ONLY": "Only bows may be used in this mission, crossbows however work too! Other weapon types will be removed automatically if equipped."
+    "SORTIE_MODIFIER_RIFLE_ONLY": "Solo se pueden utilizar armas tipo rifles de asalto en esta misión. Sorprendentemente, las armas tipo cañón también funcionan. Otros tipos de armas se eliminarán automáticamente si están equipados.",
+    "SORTIE_MODIFIER_MELEE_ONLY": "Solo se pueden usar armas tipo cuerpo a cuerpo en esta misión, cualquier otro tipo de arma no está permitido, y se eliminará automáticamente si está equipado.",
+    "SORTIE_MODIFIER_BOW_ONLY": "Solo se pueden usar armas tipo arcos en esta misión, ¡Armas tipo ballestas también funcionan! Otros tipos de armas se eliminarán automáticamente si están equipados."
   },
   "bosses": {
     "SORTIE_BOSS_HYENA": {
@@ -129,19 +129,19 @@
       "faction": "Corruptos"
     },
     "SORTIE_BOSS_BOREAL": {
-      "name": "Archon Boreal",
+      "name": "Arconte Boreal",
       "faction": "Narmer"
     },
     "SORTIE_BOSS_AMAR": {
-      "name": "Archon Amar",
+      "name": "Arconte Amar",
       "faction": "Narmer"
     },
     "SORTIE_BOSS_NIRA": {
-      "name": "Archon Nira",
+      "name": "Arconte Nira",
       "faction": "Narmer"
     },
     "SORTIE_BOSS_PAAZUL": {
-      "name": "Archon Paazul",
+      "name": "Arconte Paazul",
       "faction": "Narmer"
     }
   },
