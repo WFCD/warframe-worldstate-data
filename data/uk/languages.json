@@ -18747,5 +18747,17 @@
   },
   "/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert": {
     "value": "Праймоване переспрямування"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsEventName": {
+    "value": "Operation: Belly of the Beast"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsShortEventDesc": {
+    "value": "Stop Parvos Granum! Collect Volatile Motes from Operation Ascension missions on Brutus (Uranus) and special Operation Alerts.\nVisit Ordis on Larunda Relay (Mercury) to claim rewards."
+  },
+  "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
+    "value": "Volatile Motes"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsEventScore": {
+    "value": "Volatile Motes Collection Progress"
   }
 }
