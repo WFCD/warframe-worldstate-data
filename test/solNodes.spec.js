@@ -32,6 +32,7 @@ const solNodesSchema = {
         'Alchemy',
         'Ancient Retribution',
         'Arena',
+        'Ascension',
         'Assassination',
         'Assault',
         'Capture',
