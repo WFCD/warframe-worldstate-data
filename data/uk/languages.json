@@ -12924,7 +12924,7 @@
     "value": "Антиквар"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardterminated": {
-    "desc": "Знищте 3 некрамехи, що оберігають сховище.",
+    "desc": "Знищте 3 некрамехів, що оберігають сховище.",
     "value": "Знищення"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthepriceoffreedom": {
@@ -12948,7 +12948,7 @@
     "value": "Мисливець на архонтів"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
-    "desc": "Успішно протримайтеся щонайменше 3 хвилі в Дзеркальній обороні.",
+    "desc": "Тричі захистіть обидва об’єкти за одне завдання «Дзеркальна оборона».",
     "value": "Кристалічна чистота"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardvitalarbiter": {
@@ -18746,6 +18746,18 @@
     "value": "Rapier Tributaker Skin"
   },
   "/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert": {
-    "value": "Primed Redirection"
+    "value": "Праймоване переспрямування"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsEventName": {
+    "value": "Операція «У лігві звіра»"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsShortEventDesc": {
+    "value": "Зупиніть Парва Ґранума! Зберіть леткі порошинки на завданнях «Сходження» операції на Бруті (Уран) та спеціальних тривогах операції.\nВідвідайте Ордіса на реле Ларунда (Меркурій) для отримання нагород."
+  },
+  "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
+    "value": "Леткі порошинки"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsEventScore": {
+    "value": "Поступ збору летких порошинок"
   }
 }
