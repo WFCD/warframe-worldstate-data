@@ -833,7 +833,7 @@
   "SolNode167": {
     "value": "Oestrus (Eris)",
     "enemy": "Infestados",
-    "type": "Infested Salvage"
+    "type": "Salvamento Infestado"
   },
   "SolNode168": {
     "value": "Phalan (Eris)",
@@ -1245,7 +1245,7 @@
     "type": "Defensa móvil"
   },
   "SolNode411": {
-    "value": "Marduk (Void)",
+    "value": "Marduk (Vacío)",
     "enemy": "Orokin",
     "type": "Sabotaje"
   },
@@ -1260,7 +1260,7 @@
     "type": "Retribución antigua"
   },
   "SolNode450": {
-    "value": "Tyana Pass (Mars)",
+    "value": "Paso de Tyana (Marte)",
     "enemy": "Fuego cruzado",
     "type": "Defensa Reflectante"
   },
@@ -1615,7 +1615,7 @@
     "type": "Repetidor"
   },
   "TradeHUB1": {
-    "value": "Maroo's Bazaar (Mars)",
+    "value": "Bazar de Maroo (Marte)",
     "enemy": "Corpus",
     "type": "Repetidor"
   },
@@ -1640,7 +1640,7 @@
     "type": "Retribución antigua"
   },
   "EventNode4": {
-    "value": "Proxy Rebellion",
+    "value": "Rebelión Proxy",
     "enemy": "Corpus",
     "type": "Supervivencia"
   },
@@ -1655,7 +1655,7 @@
     "type": "Retribución antigua"
   },
   "EventNode7": {
-    "value": "Proxy Rebellion",
+    "value": "Rebelión Proxy",
     "enemy": "Corpus",
     "type": "Interceptación"
   },
@@ -1705,12 +1705,12 @@
     "type": "Retribución antigua"
   },
   "EventNode17": {
-    "value": "Proxy Rebellion",
+    "value": "Rebelión Proxy",
     "enemy": "Corpus",
     "type": "Defensa"
   },
   "EventNode18": {
-    "value": "Proxy Rebellion",
+    "value": "Rebelión Proxy",
     "enemy": "Corpus",
     "type": "Defensa"
   },
@@ -1745,7 +1745,7 @@
     "type": "Exterminio"
   },
   "EventNode27": {
-    "value": "Void",
+    "value": "Vacío",
     "enemy": "Corruptos",
     "type": "Supervivencia"
   },
@@ -1932,7 +1932,7 @@
   "ClanNode10": {
     "value": "Menfis (Fobos)",
     "enemy": "Infestados",
-    "type": "Dark Sector Defection"
+    "type": "Sector Oscuro Deserción"
   },
   "ClanNode11": {
     "value": "Zeugma (Fobos)",
@@ -1942,7 +1942,7 @@
   "ClanNode12": {
     "value": "Caracol (Saturno)",
     "enemy": "Infestados",
-    "type": "Dark Sector Defection"
+    "type": "Sector Oscuro Deserción"
   },
   "ClanNode13": {
     "value": "Piscinas (Saturno)",
@@ -1982,7 +1982,7 @@
   "ClanNode20": {
     "value": "Yursa (Neptuno)",
     "enemy": "Infestados",
-    "type": "Dark Sector Defection"
+    "type": "Sector Oscuro Deserción"
   },
   "ClanNode21": {
     "value": "Kelashin (Neptuno)",
@@ -2035,7 +2035,7 @@
     "type": "Defensa"
   },
   "CrewBattleNode505": {
-    "value": "Ruse War Field (Veil)",
+    "value": "Campo de guerra Ruse (Velo)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
@@ -2045,7 +2045,7 @@
     "type": "Escaramuza"
   },
   "CrewBattleNode510": {
-    "value": "Gian Point (Veil)",
+    "value": "Punto de Gian (Velo)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
@@ -2110,7 +2110,7 @@
     "type": "Volátil"
   },
   "CrewBattleNode525": {
-    "value": "Brom Cluster (Neptune)",
+    "value": "Agrupación Brom (Neptuno)",
     "enemy": "Corpus",
     "type": "Espionaje"
   },
@@ -2180,17 +2180,17 @@
     "type": "Defensa"
   },
   "CrewBattleNode541": {
-    "value": "Erato (Veil)",
+    "value": "Erato (Velo)",
     "enemy": "Corpus",
     "type": "Orphix"
   },
   "CrewBattleNode542": {
-    "value": "Lu-yan (Veil)",
+    "value": "Lu-Yan (Velo)",
     "enemy": "Corpus",
     "type": "Supervivencia"
   },
   "CrewBattleNode543": {
-    "value": "Sambir Cloud (Veil)",
+    "value": "Nube Sabmir (Velo)",
     "enemy": "Corpus",
     "type": "Espionaje"
   },
@@ -2200,12 +2200,12 @@
     "type": "Escaramuza"
   },
   "CrewBattleNode551": {
-    "value": "Ganalen's Grave (Veil)",
+    "value": "Tumba de Ganalen (Velo)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
   "CrewBattleNode552": {
-    "value": "Rya (Veil)",
+    "value": "Rya (Velo)",
     "enemy": "Grineer",
     "type": "Escaramuza"
   },
@@ -2225,7 +2225,7 @@
     "type": "Escaramuza"
   },
   "SolNode723": {
-    "value": "Brutus (Uranus)",
+    "value": "Brutus (Urano)",
     "enemy": "Corpus",
     "type": "Ascensión"
   }
