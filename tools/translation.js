@@ -85,7 +85,7 @@ export const nodeMissionType = (key, dataOverride = 'en') => solNode(key, 'type'
  * @returns {string} faction that controls the node
  */
 export const nodeEnemy = (key, dataOverride = 'en') => {
-  return key in i18n(dataOverride).solNodes ? i18n(dataOverride).solNodes[key].enemy : lastResourceName(key) ?? key;
+  return key in i18n(dataOverride).solNodes ? i18n(dataOverride).solNodes[key].enemy : (lastResourceName(key) ?? key);
 };
 
 /**
