@@ -133,7 +133,7 @@
     "mocha": "^10.3.0",
     "prettier": "^3.2.5",
     "sinon": "^18.0.0",
-    "sinon-chai": "^3.7.0"
+    "sinon-chai": "^4.0.0"
   },
   "engines": {
     "node": ">=18.19.0"
