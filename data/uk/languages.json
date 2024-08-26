@@ -3927,6 +3927,9 @@
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationh": {
     "value": "Орнамент: вез люксум"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroPlanter": {
+    "value": "Clatharc Planter"
+  },
   "/lotus/storeitems/types/items/shipdecos/conclaveoroornament": {
     "value": "Oro Ornament"
   },
@@ -3959,6 +3962,9 @@
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
     "value": "Плакат «Ґарв і Латрокс»"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/GrendelOrokinDishSet": {
+    "value": "Karishh's Dinnerware"
   },
   "/lotus/storeitems/types/items/shipdecos/grineerexcavationbossbobblehead": {
     "value": "Noggle Statue - Boril"
@@ -4049,6 +4055,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/sarynbobblehead": {
     "value": "Noggle Statue - Saryn"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster": {
+    "value": "Dog Days Protea Display"
   },
   "/lotus/storeitems/types/items/shipdecos/tarotcardtennoconc": {
     "value": "Прекс деймоського велоципода"
@@ -5760,6 +5769,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageitemfrostprime": {
     "value": "Loki Profile Icon"
   },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageIvaraAction": {
+    "value": "Ivara In Action Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimagelowpolykavat": {
     "value": "Гліф «Призмовий кават»"
   },
@@ -7255,7 +7267,7 @@
     "value": "Праймоване вирізання Корпусу"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagecorruptedexpert": {
-    "value": "Праймоване вирізання орокінів"
+    "value": "Primed Smite Orokin"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagegrineerexpert": {
     "value": "Праймоване вирізання ґрінерів"
@@ -7537,7 +7549,7 @@
     "value": "Праймований відстріл Корпусу"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorruptedexpert": {
-    "value": "Праймований відстріл орокінів"
+    "value": "Primed Expel Orokin"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagegrineerexpert": {
     "value": "Праймований відстріл ґрінерів"
@@ -7942,7 +7954,7 @@
     "value": "Праймована погибель Корпусу"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/primedweaponfactiondamagecorrupted": {
-    "value": "Праймована погибель орокінів"
+    "value": "Primed Bane of Orokin"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/primedweaponfactiondamagegrineer": {
     "value": "Праймована погибель ґрінерів"
@@ -8374,7 +8386,7 @@
     "value": "Праймована зачистка Корпусу"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorruptedexpert": {
-    "value": "Праймована зачистка орокінів"
+    "value": "Primed Cleanse Orokin"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagegrineerexpert": {
     "value": "Праймована зачистка ґрінерів"
