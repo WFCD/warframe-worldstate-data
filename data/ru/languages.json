@@ -3927,6 +3927,9 @@
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationh": {
     "value": "Орнамент: Вез Люксум"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroPlanter": {
+    "value": "Clatharc Planter"
+  },
   "/lotus/storeitems/types/items/shipdecos/conclaveoroornament": {
     "value": "Орнамент Оро"
   },
@@ -3959,6 +3962,9 @@
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
     "value": "Garv & Latrox Poster"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/GrendelOrokinDishSet": {
+    "value": "Karishh's Dinnerware"
   },
   "/lotus/storeitems/types/items/shipdecos/grineerexcavationbossbobblehead": {
     "value": "Фигурка - Борил"
@@ -4049,6 +4055,9 @@
   },
   "/lotus/storeitems/types/items/shipdecos/sarynbobblehead": {
     "value": "Фигурка - Сарина"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster": {
+    "value": "Dog Days Protea Display"
   },
   "/lotus/storeitems/types/items/shipdecos/tarotcardtennoconc": {
     "value": "Deimos Veolicpod Prex"
@@ -5760,6 +5769,9 @@
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageitemfrostprime": {
     "value": "Глиф Локи"
   },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageIvaraAction": {
+    "value": "Ivara In Action Glyph"
+  },
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimagelowpolykavat": {
     "value": "Глиф: Кават Призма"
   },
@@ -7255,7 +7267,7 @@
     "value": "Крушитель Прайм: Корпус"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagecorruptedexpert": {
-    "value": "Крушитель Прайм: Порабощенные"
+    "value": "Primed Smite Orokin"
   },
   "/lotus/storeitems/upgrades/mods/melee/expert/weaponmeleefactiondamagegrineerexpert": {
     "value": "Крушитель Прайм: Гринир"
@@ -7537,7 +7549,7 @@
     "value": "Primed Expel Corpus"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorruptedexpert": {
-    "value": "Изгнание Прайм: Порабощённые"
+    "value": "Primed Expel Orokin"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagegrineerexpert": {
     "value": "Изгнание Прайм: Гринир"
@@ -7942,7 +7954,7 @@
     "value": "Погибель Прайм: Корпус"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/primedweaponfactiondamagecorrupted": {
-    "value": "Погибель Прайм: Порабощённые"
+    "value": "Primed Bane of Orokin"
   },
   "/lotus/storeitems/upgrades/mods/rifle/expert/primedweaponfactiondamagegrineer": {
     "value": "Погибель Прайм: Гринир"
@@ -8374,7 +8386,7 @@
     "value": "Зачистка Прайм: Корпус"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorruptedexpert": {
-    "value": "Зачистка Прайм: Порабощённые"
+    "value": "Primed Cleanse Orokin"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagegrineerexpert": {
     "value": "Зачистка Прайм: Гринир"
