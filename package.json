@@ -121,7 +121,7 @@
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
-    "@types/chai": "^4.3.11",
+    "@types/chai": "^5.0.0",
     "@types/chai-json-schema": "^1.4.9",
     "c8": "^10.1.2",
     "chai": "^5.0.3",
