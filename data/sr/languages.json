@@ -18777,54 +18777,54 @@
   },
   "OperatorLockout": {
     "value": "Transference Distortion",
-    "description": "Transference into Operator and Drifter is blocked."
+    "desc": "Transference into Operator and Drifter is blocked."
   },
   "AbilityLockout": {
     "value": "Powerless",
-    "description": "All Abilities are disabled until the squad kills 50 enemies."
+    "desc": "All Abilities are disabled until the squad kills 50 enemies."
   },
   "TimeDilation": {
     "value": "Abbreviated Abilities",
-    "description": "Ability durations reduced by 50%."
+    "desc": "Ability durations reduced by 50%."
   },
   "Framecurse": {
     "value": "Framecurse syndrome",
-    "description": "Activating an Ability inflicts 50 damage upon you."
+    "desc": "Activating an Ability inflicts 50 damage upon you."
   },
   "FragileNodes": {
     "value": "Unified Purpose",
-    "description": "Enemies can target and destry Conduits."
+    "desc": "Enemies can target and destry Conduits."
   },
   "LostInTranslation": {
     "value": "Glyph Inflation",
-    "description": "The security system requires twice as many Vosphene Glyphs to activate."
+    "desc": "The security system requires twice as many Vosphene Glyphs to activate."
   },
   "InfiniteTide": {
     "value": "Relentless Tide",
-    "description": "The Fragmented Tide never stops attacking."
+    "desc": "The Fragmented Tide never stops attacking."
   },
   "AntiMaterialWeapons": {
     "value": "Commanding Culverins",
-    "description": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
+    "desc": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
   },
   "AcceleratedEnemies": {
     "value": "Bold Venture",
-    "description": "Enemies deal -15% Damage and take +15% Damage but gain +15% Movement Speed, Attack Speed, and Fire Rate."
+    "desc": "Enemies deal -15% Damage and take +15% Damage but gain +15% Movement Speed, Attack Speed, and Fire Rate."
   },
   "Deflectors": {
     "value": "Fortified Foes",
-    "description": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
+    "desc": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
   },
   "PointBlank": {
     "value": "Myopic Munitions",
-    "description": "Enemies will only take damage if a player is within 15m of them."
+    "desc": "Enemies will only take damage if a player is within 15m of them."
   },
   "ShieldedFoes": {
     "value": "Bolstered Belligerents",
-    "description": "All enemies have Overguard equal to 50% of their max health."
+    "desc": "All enemies have Overguard equal to 50% of their max health."
   },
   "Voidburst": {
     "value": "Postmortal Surges",
-    "description": "Slain enemies burts with Void enerhy."
+    "desc": "Slain enemies burts with Void enerhy."
   }
 }
