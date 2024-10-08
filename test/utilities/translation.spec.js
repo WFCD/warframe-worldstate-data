@@ -6,6 +6,8 @@ import {
   conclaveCategory,
   conclaveChallenge,
   conclaveMode,
+  deepArchimedeaCondition,
+  deepArchimedeaPersonalModifier,
   faction,
   fissureModifier,
   fissureTier,
@@ -278,6 +280,27 @@ describe('translation', () => {
       });
       it("should return the key if it's not found in the data", () => {
         archonShardUpgradeType('notfound', 'notfound').should.equal('notfound');
+      });
+    });
+    describe('deepArchimedeaPersonModifier()', () => {
+      it("should return a translation of the key if it's found in the data", () => {
+        const modifier = deepArchimedeaPersonalModifier('OperatorLockout');
+
+        modifier.name.should.equal('Transference Distortion');
+      });
+      it("should return the key if it's not found in the data", () => {
+        deepArchimedeaPersonalModifier('notfound').should.equal('notfound');
+      });
+    });
+
+    describe('deepArchimedeaCondition()', () => {
+      it("should return a translation of the key if it's found in the data", () => {
+        const condition = deepArchimedeaCondition('FragileNodes');
+
+        condition.name.should.equal('Unified Purpose');
+      });
+      it("should return the key if it's not found in the data", () => {
+        deepArchimedeaPersonalModifier('notfound').should.equal('notfound');
       });
     });
   });

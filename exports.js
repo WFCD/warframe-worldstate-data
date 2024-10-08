@@ -96,6 +96,7 @@ const makeBundle = async () => {
     upgradeTypes: await safeImport('./data/upgradeTypes.json'),
     synthTargets: await safeImport('./data/synthTargets.json'),
     steelPath: await safeImport('./data/steelPath.json'),
+    deepArchimedea: await safeImport('./data/deepArchimedea.json'),
   };
   /* eslint-enable global-require */
 
@@ -134,6 +135,7 @@ const makeBundle = async () => {
       upgradeTypes: await safeImport(`./data/${locale}/upgradeTypes.json`, enUS.upgradeTypes),
       synthTargets: await safeImport(`./data/${locale}/synthTargets.json`, enUS.synthTargets),
       steelPath: await safeImport(`./data/${locale}/steelPath.json`, enUS.steelPath),
+      deepArchimedea: await safeImport(`./data/${locale}/deepArchimedea.json`, enUS.deepArchimedea),
     };
   }
 

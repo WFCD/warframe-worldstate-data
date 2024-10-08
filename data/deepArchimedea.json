@@ -1,0 +1,58 @@
+{
+    "personalModifiers": {
+        "OperatorLockout": {
+            "name": "Transference Distortion",
+            "description": "Transference into Operator and Drifter is blocked."
+        },
+        "AbilityLockout": {
+            "name": "Powerless",
+            "description": "All Abilities are disabled until the squad kills 50 enemies."
+        },
+        "TimeDilation": {
+            "name": "Abbreviated Abilities",
+            "description": "Ability durations reduced by 50%."
+        },
+        "Framecurse": {
+            "name": "Framecurse syndrome",
+            "description": "Activating an Ability inflicts 50 damage upon you."
+        }
+    },
+    "conditions": {
+        "FragileNodes": {
+            "name": "Unified Purpose",
+            "description": "Enemies can target and destry Conduits."
+        },
+        "LostInTranslation": {
+            "name": "Glyph Inflation",
+            "description": "The security system requires twice as many Vosphene Glyphs to activate."
+        },
+        "InfiniteTide": {
+            "name": "Relentless Tide",
+            "description": "The Fragmented Tide never stops attacking."
+        },
+        "AntiMaterialWeapons": {
+            "name": "Commanding Culverins",
+            "description": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
+        },
+        "AcceleratedEnemies": {
+            "name": "Bold Venture",
+            "description": "Enemies deal -15% Damage and take +15% Damage but gain +15% Movement Speed, Attack Speed, and Fire Rate."
+        },
+        "Deflectors": {
+            "name": "Fortified Foes",
+            "description": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
+        },
+        "PointBlank": {
+            "name": "Myopic Munitions",
+            "description": "Enemies will only take damage if a player is within 15m of them."
+        },
+        "ShieldedFoes": {
+            "name": "Bolstered Belligerents",
+            "description": "All enemies have Overguard equal to 50% of their max health."
+        },
+        "Voidburst": {
+            "name": "Postmortal Surges",
+            "description": "Slain enemies burts with Void enerhy."
+        }
+    }
+}
