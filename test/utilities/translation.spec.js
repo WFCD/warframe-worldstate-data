@@ -516,7 +516,7 @@ describe('translation', () => {
     });
     describe('archonShardColor()', () => {
       it("should return a translation of the key if it's found in the data", () => {
-        archonShardColor('ACC_BLUE', 'en').should.equal('Azure');
+        archonShardColor('ACC_BLUE', 'es').should.equal('Azure');
       });
       it("should return the key if it's not found in the data", () => {
         archonShardColor('notfound').should.equal('notfound');
@@ -526,7 +526,8 @@ describe('translation', () => {
       it("should return a translation of the key if it's found in the data", () => {
         archonShardUpgradeType(
           'ACC_BLUE',
-          '/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax'
+          '/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax',
+          'es'
         ).should.equal('+150% Health');
       });
       it("should return the key if it's not found in the data", () => {

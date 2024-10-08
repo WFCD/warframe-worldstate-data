@@ -335,6 +335,9 @@ export const translatePolarity = (pol = '') => valMapping(pol, polarityMap);
  * @property {function} toTitleCase      - Format provided string as titlecase
  * @property {function} translateFocus   - Translate focus schools
  * @property {function} translatePolarity - Translate polarities
+ * @property {function} archonShard      - Converts archon shard names
+ * @property {function} archonShardColor - Converts archon shard names to in-game color values
+ * @property {function} archonShardUpgradeType - Convert archon shard upgrade type
  */
 export default {
   faction,
@@ -362,4 +365,7 @@ export default {
   toTitleCase,
   translateFocus,
   translatePolarity,
+  archonShard,
+  archonShardColor,
+  archonShardUpgradeType,
 };
