@@ -362,4 +362,7 @@ export default {
   toTitleCase,
   translateFocus,
   translatePolarity,
+  archonShard,
+  archonShardColor,
+  archonShardUpgradeType,
 };
