@@ -309,20 +309,6 @@ const polarityMap = {
  */
 export const translatePolarity = (pol = '') => valMapping(pol, polarityMap);
 
-const deepArchimedeaData = (dataOverride = 'en') => keyInData('deepArchimedea', dataOverride);
-
-/**
- * Translate Deep Archimedea personal modifier
- * @param {string} key Modifier name
- * @param {string} dataOverride locale override
- * @returns {Object | undefined}
- */
-export const deepArchimedeaPersonalModifier = (key, dataOverride = 'en') =>
-  deepArchimedeaData(dataOverride).personalModifiers[key] ?? key;
-
-export const deepArchimedeaCondition = (key, dataOverride = 'en') =>
-  deepArchimedeaData(dataOverride).conditions[key] ?? key;
-
 /**
  * An object containing functions to convert in-game names to their localizations
  * @typedef {Record<string, function>} Translator
@@ -382,6 +368,4 @@ export default {
   archonShard,
   archonShardColor,
   archonShardUpgradeType,
-  deepArchimedeaPersonalModifier,
-  deepArchimedeaCondition,
 };
