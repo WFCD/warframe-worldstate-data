@@ -18825,6 +18825,14 @@
   },
   "Voidburst": {
     "value": "Postmortal Surges",
-    "desc": "Slain enemies burts with Void enerhy."
+    "desc": "Slain enemies burts with Void energy."
+  },
+  "ShieldDelay": {
+    "value": "Lethargic Shields",
+    "desc": "Shield recharge delay increased 500%."
+  },
+  "Knifestep": {
+    "value": "Knifestep Syndrome",
+    "desc": "Lose 2 Health when moving. Jumping pauses the effect."
   }
 }
