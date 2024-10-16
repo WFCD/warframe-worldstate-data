@@ -18837,5 +18837,13 @@
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC": {
     "value": "Conquera Kuaka Floof"
+  },
+  "GrowingIncursion": {
+    "value": "Fissure Cascade",
+    "desc": "Fissures rip into the mission, causing the Enemy Level to go up by 1 every 10s. Destroy them to stop the level from increasing further."
+  },
+  "RegeneratingEnemies": {
+    "value": "Hostile Regeneration",
+    "desc": "Enemy health slowly regenerates."
   }
 }
