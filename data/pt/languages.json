@@ -18845,5 +18845,14 @@
   "RegeneratingEnemies": {
     "value": "Hostile Regeneration",
     "desc": "Enemy health slowly regenerates."
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBorealMythic": {
+    "value": "Tauforged Azure Archon Shard"
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalNiraMythic": {
+    "value": "Tauforged Amber Archon Shard"
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic": {
+    "value": "Tauforged Crimson Archon Shard"
   }
 }
