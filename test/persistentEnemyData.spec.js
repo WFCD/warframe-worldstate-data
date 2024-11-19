@@ -2,7 +2,7 @@ import * as chai from 'chai';
 import chaiJson from 'chai-json';
 import chaiJsonSchema from 'chai-json-schema-ajv';
 
-import persistentEnemyData from '../data/persistentEnemyData.json' assert { type: 'json' };
+import persistentEnemyData from '../data/persistentEnemyData.json' with { type: 'json' };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);

@@ -2,7 +2,7 @@ import * as chai from 'chai';
 import chaiJson from 'chai-json';
 import chaiJsonSchema from 'chai-json-schema-ajv';
 
-import upgradeTypes from '../data/upgradeTypes.json' assert { type: 'json' };
+import upgradeTypes from '../data/upgradeTypes.json' with { type: 'json' };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);
