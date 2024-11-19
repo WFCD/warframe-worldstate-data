@@ -2,7 +2,7 @@ import * as chai from 'chai';
 import chaiJson from 'chai-json';
 import chaiJsonSchema from 'chai-json-schema-ajv';
 
-import solNodes from '../data/solNodes.json' assert { type: 'json' };
+import solNodes from '../data/solNodes.json' with { type: 'json' };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);

@@ -2,7 +2,7 @@ import * as chai from 'chai';
 import chaiJson from 'chai-json';
 import chaiJsonSchema from 'chai-json-schema-ajv';
 
-import fissureModifiers from '../data/fissureModifiers.json' assert { type: 'json' };
+import fissureModifiers from '../data/fissureModifiers.json' with { type: 'json' };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);

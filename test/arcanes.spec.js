@@ -2,7 +2,7 @@ import * as chai from 'chai';
 import chaiJson from 'chai-json';
 import chaiJsonSchema from 'chai-json-schema-ajv';
 
-import arcanes from '../data/arcanes.json' assert { type: 'json' };
+import arcanes from '../data/arcanes.json' with { type: 'json' };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);

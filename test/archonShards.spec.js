@@ -2,7 +2,7 @@ import * as chai from 'chai';
 import chaiJson from 'chai-json';
 import chaiJsonSchema from 'chai-json-schema-ajv';
 
-import archonShards from '../data/archonShards.json' assert { type: 'json' };
+import archonShards from '../data/archonShards.json' with { type: 'json' };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);

@@ -2,7 +2,7 @@ import * as chai from 'chai';
 import chaiJson from 'chai-json';
 import chaiJsonSchema from 'chai-json-schema-ajv';
 
-import eventsData from '../data/eventsData.json' assert { type: 'json' };
+import eventsData from '../data/eventsData.json' with { type: 'json' };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);

@@ -2,7 +2,7 @@ import * as chai from 'chai';
 import chaiJson from 'chai-json';
 import chaiJsonSchema from 'chai-json-schema-ajv';
 
-import languages from '../data/languages.json' assert { type: 'json' };
+import languages from '../data/languages.json' with { type: 'json' };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);
@@ -10,7 +10,7 @@ chai.use(chaiJsonSchema);
 chai.should();
 const { expect } = chai;
 
-const syndicates = Object.keys(await import('../data/syndicatesData.json', { assert: { type: 'json' } }));
+const syndicates = Object.keys(await import('../data/syndicatesData.json', { with: { type: 'json' } }));
 
 const languagesSchema = {
   definitions: {

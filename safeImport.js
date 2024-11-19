@@ -6,7 +6,7 @@
  */
 const safeImport = async (path, fallback = {}) => {
   try {
-    const mod = await import(path, path.includes('.json') ? { assert: { type: 'json' } } : {});
+    const mod = await import(path, path.includes('.json') ? { with: { type: 'json' } } : {});
     if (mod?.default) return mod.default;
     return mod;
   } catch (error) {
