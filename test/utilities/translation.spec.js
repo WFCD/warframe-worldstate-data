@@ -24,8 +24,10 @@ import {
   sortieModifier,
   syndicate,
   toTitleCase,
+  translateCalendarEvent,
   translateFocus,
   translatePolarity,
+  translateSeason,
   upgrade,
 } from '../../tools/translation.js';
 
@@ -278,6 +280,20 @@ describe('translation', () => {
       });
       it("should return the key if it's not found in the data", () => {
         archonShardUpgradeType('notfound', 'notfound').should.equal('notfound');
+      });
+    });
+    describe('translateCalendarEvent()', () => {
+      it('should return a translation of the key', () => {
+        translateCalendarEvent('CET_CHALLENGE').should.equal('To Do');
+      });
+      it("should return the key if it's not found in the data", () => {
+        translateCalendarEvent('None').should.equal('None');
+      });
+    });
+    describe('translateSeason()', () => {
+      it('should return a readable version of a season string', () => {
+        translateSeason('CST_WINTER').should.equal('Winter');
+        translateSeason('None').should.equal('None');
       });
     });
   });
