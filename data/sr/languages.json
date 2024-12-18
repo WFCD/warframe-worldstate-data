@@ -18854,5 +18854,89 @@
   },
   "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic": {
     "value": "Tauforged Crimson Archon Shard"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
+    "value": "EX-EXIMUS",
+    "desc": "Kill 10 Eximus"
+  },
+  "/Lotus/Upgrades/Calendar/MagazineCapacity": {
+    "value": "Heavy Mags",
+    "desc": "Increase magazine capacity by 25%"
+  },
+  "/Lotus/Upgrades/Calendar/Armor": {
+    "value": "Thick Skin",
+    "desc": "Gain +250 Armor."
+  },
+  "/Lotus/Upgrades/Calendar/EnergyRestoration": {
+    "value": "Espresso Shots",
+    "desc": "Increase energy restoration by 2/s."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
+    "value": "Punish Scaldra",
+    "desc": "Kill 250 Scaldra Troops"
+  },
+  "/Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack": {
+    "value": "Arcane Enhancements: Double Pack"
+  },
+  "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
+    "value": "Emerald Archon Shard"
+  },
+  "/Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint": {
+    "value": "Exilus Weapon Adapter Blueprint"
+  },
+  "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
+    "value": "2000 x Kuva"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
+    "value": "Demonstration of power",
+    "desc": "Kill 300 Enemies with Abilities"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
+    "value": "Make it personal",
+    "desc": "Kill 300 Scaldra Troops with Melee Weapons"
+  },
+  "/Lotus/Upgrades/Calendar/CompanionsBuffNearbyPlayer": {
+    "value": "More the Merrier",
+    "desc": "Non-Tenno Allies within 20m all gain +5% Melee Attack Speed and +20% Fire Rate for each one in range."
+  },
+  "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
+    "value": "Targeted Medicine",
+    "desc": "Shoot Health Orbs to pick them up. Health orbs now have 25% chance to duplicate when picked up."
+  },
+  "/Lotus/Upgrades/Calendar/FinisherChancePerComboMultiplier": {
+    "value": "Combo Killer",
+    "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
+  },
+  "/Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack": {
+    "value": "Arcane Enhancements"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
+    "value": "Purge the infection",
+    "desc": "Kill 1,000 Techrot"
+  },
+  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
+    "value": "Secondary Arcane Adapter"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/CircuitSilverSteelPathFusionBundle": {
+    "value": "6,000 Endo"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
+    "value": "Starve the beast",
+    "desc": "Destroy 150 Containers"
+  },
+  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker": {
+    "value": "Exilus Weapon Adapter"
+  },
+  "/Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange": {
+    "value": "Broadened Horizons",
+    "desc": "On Energy Pickup increase ability range by 10% for 10s."
+  },
+  "/Lotus/Upgrades/Calendar/MeleeAttackSpeed": {
+    "value": "No Quarter",
+    "desc": "+25% Melee Attack Speed."
+  },
+  "/Lotus/Upgrades/Calendar/CompanionDamage": {
+    "value": "Got Your Back",
+    "desc": "Specters and companions gain +250% damage."
   }
 }
