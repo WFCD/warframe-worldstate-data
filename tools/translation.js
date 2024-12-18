@@ -309,6 +309,27 @@ const polarityMap = {
  */
 export const translatePolarity = (pol = '') => valMapping(pol, polarityMap);
 
+const eventTypeMap = {
+  CET_CHALLENGE: 'To Do',
+  CET_UPGRADE: 'Override',
+  CET_REWARD: 'Big Prize!',
+  CET_PLOT: 'Birthday',
+};
+
+/**
+ * Translate the given event key
+ * @param {string} key Unique event type
+ * @returns {string}
+ */
+export const translateCalendarEvent = (key) => valMapping(key, eventTypeMap);
+
+/**
+ * Translate the given season name to a non-unique string
+ * @param {string} season Unique season name
+ * @returns {string}
+ */
+export const translateSeason = (season) => toTitleCase(season.replace('CST_', ''));
+
 /**
  * An object containing functions to convert in-game names to their localizations
  * @typedef {Record<string, function>} Translator
@@ -338,6 +359,8 @@ export const translatePolarity = (pol = '') => valMapping(pol, polarityMap);
  * @property {function} archonShard      - Converts archon shard names
  * @property {function} archonShardColor - Converts archon shard names to in-game color values
  * @property {function} archonShardUpgradeType - Convert archon shard upgrade type
+ * @property {function} translateCalendarEvent - Translate the given event key
+ * @property {function} translateSeason - Translate the given season name to a non-unique string
  */
 export default {
   faction,
@@ -368,4 +391,6 @@ export default {
   archonShard,
   archonShardColor,
   archonShardUpgradeType,
+  translateCalendarEvent,
+  translateSeason,
 };
