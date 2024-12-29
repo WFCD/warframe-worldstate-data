@@ -18777,83 +18777,83 @@
   },
   "OperatorLockout": {
     "value": "Заблоковані канали",
-    "desc": "Transference into Operator and Drifter is blocked."
+    "desc": "Перенесення в оператора та мандрівника заблоковані."
   },
   "AbilityLockout": {
     "value": "Безсилля",
-    "desc": "All Abilities are disabled until the squad kills 50 enemies."
+    "desc": "Усі здібності заблоковано допоки загін не вб’є 50 ворогів."
   },
   "TimeDilation": {
     "value": "Скорочені здібності",
-    "desc": "Ability durations reduced by 50%."
+    "desc": "Тривалість дії здібностей скорочено 50 %."
   },
   "Framecurse": {
-    "value": "Framecurse syndrome",
-    "desc": "Activating an Ability inflicts 50 damage upon you."
+    "value": "Проклятий синдром",
+    "desc": "Застосування здібності завдає вам 50 шкоди."
   },
   "FragileNodes": {
-    "value": "Unified Purpose",
-    "desc": "Enemies can target and destry Conduits."
+    "value": "Спільна мета",
+    "desc": "Усі ворoги атакуватимуть джерела."
   },
   "LostInTranslation": {
     "value": "Гліфова дорожнеча",
-    "desc": "The security system requires twice as many Vosphene Glyphs to activate."
+    "desc": "Вмикання системи безпеки потребує вдвічі більше возфінових гліфів."
   },
   "InfiniteTide": {
-    "value": "Relentless Tide",
-    "desc": "The Fragmented Tide never stops attacking."
+    "value": "Невблаганна хвиля",
+    "desc": "Хвтля розламаних не зупиняється й не припиняє нападати."
   },
   "AntiMaterialWeapons": {
-    "value": "Commanding Culverins",
-    "desc": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
+    "value": "Переконливі «Кульверини»",
+    "desc": "Дикі «Кульверини» споряджають зброю, що завдає збільшеної в п’ять разів шкоди надзахисту та некрамехам."
   },
   "AcceleratedEnemies": {
-    "value": "Bold Venture",
-    "desc": "Enemies deal -15% Damage and take +15% Damage but gain +15% Movement Speed, Attack Speed, and Fire Rate."
+    "value": "Нахабна сміливість",
+    "desc": "Вороги завдаватимуть на 15 % шкоди менше й отримуватимуть на 15 % шкоди більше, але мають +15 % до швидкострільності й швидкості руху та атаки."
   },
   "Deflectors": {
-    "value": "Fortified Foes",
-    "desc": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
+    "value": "Укріплені вороги",
+    "desc": "Можуть з’являтися захисники-ексіми (включно з некрамехами захисниками-ексімами)."
   },
   "PointBlank": {
-    "value": "Myopic Munitions",
-    "desc": "Enemies will only take damage if a player is within 15m of them."
+    "value": "Сліпі боєприпаси",
+    "desc": "Вороги отримуватимуть шкоду лише за перебування гравця в межах 15 м від них."
   },
   "ShieldedFoes": {
-    "value": "Bolstered Belligerents",
-    "desc": "All enemies have Overguard equal to 50% of their max health."
+    "value": "Підкріплення ворогам",
+    "desc": "Усі вороги мають надзахист в значенні 50 % від їхнього максимального здоров’я."
   },
   "Voidburst": {
-    "value": "Postmortal Surges",
-    "desc": "Slain enemies burts with Void energy."
+    "value": "Посмертні вибухи",
+    "desc": "Вороги вибухають при смерті і завдають шкоду Порожнечею."
   },
   "ShieldDelay": {
-    "value": "Lethargic Shields",
-    "desc": "Shield recharge delay increased 500%."
+    "value": "Сонні щити",
+    "desc": "Затримка відновлення щитів збільшена на 500 %"
   },
   "Knifestep": {
-    "value": "Knifestep Syndrome",
-    "desc": "Lose 2 Health when moving. Jumping pauses the effect."
+    "value": "Ноголамний синдром",
+    "desc": "Ви втрачаєте 2 здоров’я під час руху. Стрибки призупиняють дію ефекту."
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC": {
     "value": "Conquera Kuaka Floof"
   },
   "GrowingIncursion": {
-    "value": "Fissure Cascade",
-    "desc": "Fissures rip into the mission, causing the Enemy Level to go up by 1 every 10s. Destroy them to stop the level from increasing further."
+    "value": "Каскадні розломи",
+    "desc": "На завданні з'являються розломи, підвищуючи рівень ворогів на 1 кожні 10 секунд. Знищіть їх, щоби зупинити приріст рівнів ворогів."
   },
   "RegeneratingEnemies": {
-    "value": "Hostile Regeneration",
-    "desc": "Enemy health slowly regenerates."
+    "value": "Вороже відновлення",
+    "desc": "Здоров’я ворогів поступово відновлюється."
   },
   "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBorealMythic": {
-    "value": "Tauforged Azure Archon Shard"
+    "value": "Таурований блакитний архонтовий уламок"
   },
   "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalNiraMythic": {
-    "value": "Tauforged Amber Archon Shard"
+    "value": "Таурований бурштиновий архонтовий уламок"
   },
   "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic": {
-    "value": "Tauforged Crimson Archon Shard"
+    "value": "Таурований багряний архонтовий уламок"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
     "value": "EX-EXIMUS",
@@ -18868,64 +18868,64 @@
     "desc": "Gain +250 Armor."
   },
   "/Lotus/Upgrades/Calendar/EnergyRestoration": {
-    "value": "Espresso Shots",
-    "desc": "Increase energy restoration by 2/s."
+    "value": "Подвійне еспресо",
+    "desc": "Відновлення енергії збільшене на 2/с."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
-    "value": "Punish Scaldra",
-    "desc": "Kill 250 Scaldra Troops"
+    "value": "Покарання для «Скальдри»",
+    "desc": "Убийте 250 бійців «Скальдри»."
   },
   "/Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack": {
-    "value": "Arcane Enhancements: Double Pack"
+    "value": "Містичні поліпшення: подвійний набір"
   },
   "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
-    "value": "Emerald Archon Shard"
+    "value": "Смарагдовий архонтовий уламок"
   },
   "/Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint": {
     "value": "Ексилотримач для зброї (креслення)"
   },
   "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
-    "value": "2000 x Kuva"
+    "value": "2 000 куви"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
-    "value": "Demonstration of power",
-    "desc": "Kill 300 Enemies with Abilities"
+    "value": "Демонстрація сили",
+    "desc": "Убийте 300 ворогів за допомогою здібностей."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
     "value": "Make it personal",
-    "desc": "Kill 300 Scaldra Troops with Melee Weapons"
+    "desc": "Убийте 300 бійців «Скальдри» холодною зброєю."
   },
   "/Lotus/Upgrades/Calendar/CompanionsBuffNearbyPlayer": {
     "value": "More the Merrier",
     "desc": "Non-Tenno Allies within 20m all gain +5% Melee Attack Speed and +20% Fire Rate for each one in range."
   },
   "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
-    "value": "Targeted Medicine",
-    "desc": "Shoot Health Orbs to pick them up. Health orbs now have 25% chance to duplicate when picked up."
+    "value": "Цільове призначення",
+    "desc": "Стрiляйте в згустки здоров’я, щоби пiдняти їх. Згустки здоров'я мають 25 % iмовiрностi створення копiї пiд час пiдбору."
   },
   "/Lotus/Upgrades/Calendar/FinisherChancePerComboMultiplier": {
     "value": "Combo Killer",
     "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
   },
   "/Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack": {
-    "value": "Arcane Enhancements"
+    "value": "Містичні поліпшення"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
     "value": "Purge the infection",
-    "desc": "Kill 1,000 Techrot"
+    "desc": "Убийте 100 техногнилих ворогів."
   },
   "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
     "value": "Тримач містифікаторів для допоміжної зброї"
   },
   "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/CircuitSilverSteelPathFusionBundle": {
-    "value": "6,000 Endo"
+    "value": "6 000 ендо"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
     "value": "Starve the beast",
     "desc": "Destroy 150 Containers"
   },
   "/Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker": {
-    "value": "Exilus Weapon Adapter"
+    "value": "Ексилотримач для зброї"
   },
   "/Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange": {
     "value": "Broadened Horizons",
