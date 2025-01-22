@@ -7813,22 +7813,22 @@
     "value": "Covert Recon"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusmeleerandommodrare": {
-    "value": "Melee Riven Mod"
+    "value": "Модифікатор розколу для холодної зброї"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusmodularmeleerandommodrare": {
-    "value": "Zaw Riven Mod"
+    "value": "Модифікатор розколу для зо"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusmodularpistolrandommodrare": {
-    "value": "Kitgun Riven Mod"
+    "value": "Модифікатор розколу для складострілів"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotuspistolrandommodrare": {
-    "value": "Pistol Riven Mod"
+    "value": "Модифікатор розколу для пістолетів"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusriflerandommodrare": {
-    "value": "Rifle Riven Mod"
+    "value": "Модифікатор розколу для гвинтівок"
   },
   "/lotus/storeitems/upgrades/mods/randomized/lotusshotgunrandommodrare": {
-    "value": "Shotgun Riven Mod"
+    "value": "Модифікатор розколу для рушниць"
   },
   "/lotus/storeitems/upgrades/mods/randomized/playermeleeweaponrandommodrare": {
     "value": "Veiled Melee Riven Mod"
@@ -12364,7 +12364,7 @@
     "value": "Детрон-мара"
   },
   "/lotus/types/boosterpacks/randomprojection": {
-    "value": "Relic Pack"
+    "value": "Набір реліквій"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
     "desc": "Убийте 15 ворогів під час прицілювання в повітрі.",
@@ -18857,7 +18857,7 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
     "value": "EX-EXIMUS",
-    "desc": "Kill 10 Eximus"
+    "desc": "Убийте 10 ексімів."
   },
   "/Lotus/Upgrades/Calendar/MagazineCapacity": {
     "value": "Heavy Mags",
@@ -18938,5 +18938,20 @@
   "/Lotus/Upgrades/Calendar/CompanionDamage": {
     "value": "Прикрита спина",
     "desc": "Тіні та супутники отримують +250 % до шкоди."
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade": {
+    "value": "Вастилок"
+  },
+  "/Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama": {
+    "value": "Empyrean Vignette"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Leverian/IvaraLeverianPovisRecordsDecoration": {
+    "value": "Secret History Replica"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle": {
+    "value": "Baruuk Doan Silhouette Glyph"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA": {
+    "value": "Гліф «Щедра змія»"
   }
 }
