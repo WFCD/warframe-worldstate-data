@@ -1,0 +1,19 @@
+parser: '@babel/eslint-parser'
+parserOptions:
+  ecmaFeatures:
+    modules: true
+  ecmaVersion: 6
+  sourceType: module
+extends: '@wfcd/eslint-config/esm'
+overrides:
+  - files:
+     - tools/*.js
+    rules:
+      no-console: 'off'
+      import/no-extraneous-dependencies:
+        - error
+        - devDependencies:
+           - '**/*.test.{js,cjs,mjs}'
+           - '**/*.spec.{js,cjs,mjs}'
+           - 'build/**/*.{js,cjs,mjs}'
+           - 'tools/**/*.{js,cjs,mjs}'

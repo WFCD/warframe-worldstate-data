@@ -1,0 +1,12 @@
+'*.js,!tools/*':
+  - eslint --cache --fix
+  - npm test
+'tools/*.js':
+  - eslint --cache --fix
+package*.json:
+  - npx sort-package-json
+  - npm dedupe
+'*.{yml,json,yaml},!package*.json':
+  - prettier --write
+'data/languages.json':
+  - node tools/sortLanguages.js -c

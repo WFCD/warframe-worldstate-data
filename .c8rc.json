@@ -1,0 +1,5 @@
+{
+  "exclude": ["test/**"],
+  "reporter": ["lcov", "text"],
+  "skip-full": true
+}
