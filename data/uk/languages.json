@@ -1,4 +1,385 @@
 {
+  "/Lotus/Language/Events/ValentinesFortunaName": {
+    "value": "Star Days"
+  },
+  "/Lotus/Language/G1Quests/HeatFissuresEventScore": {
+    "value": "Thermia Fractures Sealed"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsEventName": {
+    "value": "Операція «У лігві звіра»"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsEventScore": {
+    "value": "Поступ збору летких порошинок"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsShortEventDesc": {
+    "value": "Зупиніть Парва Ґранума! Зберіть леткі порошинки на завданнях «Сходження» операції на Бруті (Уран) та спеціальних тривогах операції.\nВідвідайте Ордіса на реле Ларунда (Меркурій) для отримання нагород."
+  },
+  "/Lotus/Powersuits/Odalisk/Odalisk": {
+    "value": "Протея"
+  },
+  "/Lotus/StoreItems/Powersuits/Trapper/TrapperPrime": {
+    "value": "Вобан-прайм"
+  },
+  "/Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack": {
+    "value": "Містичні поліпшення"
+  },
+  "/Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack": {
+    "value": "Містичні поліпшення: подвійний набір"
+  },
+  "/Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama": {
+    "value": "Empyrean Vignette"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
+    "value": "Реліквія Аксі A2 (неушкоджена)"
+  },
+  "/Lotus/StoreItems/Types/Game/QuartersWallpapers/LavosAlchemistWallpaper": {
+    "value": "Javi's Scrawling"
+  },
+  "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
+    "value": "Смарагдовий архонтовий уламок"
+  },
+  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
+    "value": "Тримач містифікаторів для допоміжної зброї"
+  },
+  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker": {
+    "value": "Ексилотримач для зброї"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB": {
+    "value": "Орнамент: ака люксум"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroPlanter": {
+    "value": "Clatharc Planter"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BekranZaftBucketBroom": {
+    "value": "Bekran Zaft's Equipment"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/DomsFinalDrink": {
+    "value": "Витримане вино де Наз"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
+    "value": "Плакат «Ґарв і Латрокс»"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/GrendelOrokinDishSet": {
+    "value": "Karishh's Dinnerware"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Leverian/IvaraLeverianPovisRecordsDecoration": {
+    "value": "Secret History Replica"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
+    "value": "Flak Fighter Decoration"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
+    "value": "Плакат «Паразон»"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC": {
+    "value": "Conquera Kuaka Floof"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster": {
+    "value": "Dog Days Protea Display"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF": {
+    "value": "Deimos Jugulus Prex"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConG": {
+    "value": "Deimos Saxum Prex"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConI": {
+    "value": "Xaku Prex"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/UmbraPedestal": {
+    "value": "Umbra Pedestal"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem": {
+    "value": "Archwing Articula"
+  },
+  "/Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint": {
+    "value": "Ексилотримач для зброї (креслення)"
+  },
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
+    "value": "Сигнал для Сталкера"
+  },
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitB": {
+    "value": "Сигнал для Зануки-Мисливиці"
+  },
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC": {
+    "value": "Сигнал для Трьох із Ґрастраґу"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle": {
+    "value": "Baruuk Doan Silhouette Glyph"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageIvaraAction": {
+    "value": "Гліф «Івара в дії»"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageTeshinVed": {
+    "value": "Teshin Glyph"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer": {
+    "value": "Гліф «Баро Кі’Тір»"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA": {
+    "value": "Гліф «Щедра змія»"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert": {
+    "value": "Праймований рубедовий ствол"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/CircuitSilverSteelPathFusionBundle": {
+    "value": "6 000 ендо"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
+    "value": "Серійна лють"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod": {
+    "value": "Струс"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod": {
+    "value": "Праймована конвульсія"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert": {
+    "value": "Праймований відстріл Корпусу"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod": {
+    "value": "Праймований ватажок зграї"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert": {
+    "value": "Праймована мутація в набої рушниці"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert": {
+    "value": "Праймоване переспрямування"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourA": {
+    "value": "Наплічник «Кі’Тір»"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourC": {
+    "value": "Нагрудник «Кі’Тір»"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourL": {
+    "value": "Наголінник «Кі’Тір»"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeA": {
+    "value": "Ki'Teer Greth Shoulder Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeC": {
+    "value": "Ki'Teer Greth Chest Plate"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeL": {
+    "value": "Ki'Teer Greth Leg Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorA": {
+    "value": "Tannukai Shoulder Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorC": {
+    "value": "Tannukai Chest Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorL": {
+    "value": "Tannukai Leg Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA": {
+    "value": "Обладунки «Кі’Тір» для кавата"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
+    "value": "Ефемера «Шлях фей»"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm": {
+    "value": "Вигляд «Культ „Решантур“» для списа"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader": {
+    "value": "Liset Prisma Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
+    "value": "Діадема «Кі’Тір „Ріг“»"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitNovaEngineer": {
+    "value": "Masker's Theodolite Crewsuit"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodDuviriOperator": {
+    "value": "The Stranger's Hood (Operator)"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodNovaEngineer": {
+    "value": "Masker's Theodolite Crewsuit Hood"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsNovaEngineer": {
+    "value": "Masker's Theodolite Crewsuit Leggings"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesNovaEngineer": {
+    "value": "Masker's Theodolite Crewsuit Sleeves"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf": {
+    "value": "Ki'teer Razza Synadana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/SolsticeBaroCape": {
+    "value": "Wintercress Syandana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GaussSentinelMask": {
+    "value": "Altra Sentinel Mask"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas": {
+    "value": "Вигляд «Спека» для парних Ґракат"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/AshLeverianLiosPistol": {
+    "value": "De Nas Pistol Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/ElixisNikana": {
+    "value": "Nikana Elixis Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Weapons/Rapier/CrpRapierSkin": {
+    "value": "Rapier Tributaker Skin"
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
+    "value": "Мачете-примара"
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon": {
+    "value": "Галікар-примара"
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade": {
+    "value": "Вастилок"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
+    "value": "Парні Декуріони-призма"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
+    "value": "Starve the beast",
+    "desc": "Destroy 150 Containers"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
+    "value": "Демонстрація сили",
+    "desc": "Убийте 300 ворогів за допомогою здібностей."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
+    "value": "EX-EXIMUS",
+    "desc": "Убийте 10 ексімів."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
+    "value": "Покарання для «Скальдри»",
+    "desc": "Убийте 250 бійців «Скальдри»."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
+    "value": "Особисте",
+    "desc": "Убийте 300 бійців «Скальдри» холодною зброєю."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
+    "value": "Purge the infection",
+    "desc": "Убийте 100 техногнилих ворогів."
+  },
+  "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
+    "value": "Леткі порошинки"
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic": {
+    "value": "Таурований багряний архонтовий уламок"
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBorealMythic": {
+    "value": "Таурований блакитний архонтовий уламок"
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalNiraMythic": {
+    "value": "Таурований бурштиновий архонтовий уламок"
+  },
+  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetAItem": {
+    "value": "Системи «Ґіромаґ»"
+  },
+  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem": {
+    "value": "Системи «Атмо»"
+  },
+  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetCItem": {
+    "value": "Системи «Відбивач»"
+  },
+  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackA": {
+    "value": "Emergence Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackB": {
+    "value": "Chrysalith Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
+    "value": "2 000 куви"
+  },
+  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/ProteaDeluxeSkinBundle": {
+    "value": "Proteus Caladrius Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/TitaniaDeluxeIISkinBundle": {
+    "value": "Titania Donann Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/FormaPack": {
+    "value": "Комплект з 3-х форм"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackA": {
+    "value": "3 Королівські Ая"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackB": {
+    "value": "7 Королівські Ая"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackC": {
+    "value": "15 Королівські Ая"
+  },
+  "/Lotus/Types/StoreItems/Packages/StyanaxBundle": {
+    "value": "Styanax Gallantry Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/StyanaxVoidshellSkinBundle": {
+    "value": "Styanax Voidshell Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerCommunityPack": {
+    "value": "Styanax Gallantry Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerSupporterPack": {
+    "value": "Veilbreaker Warrior Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerVoidshellBundle": {
+    "value": "Void Adornment Bundle II"
+  },
+  "/Lotus/Upgrades/Calendar/Armor": {
+    "value": "Thick Skin",
+    "desc": "Gain +250 Armor."
+  },
+  "/Lotus/Upgrades/Calendar/CompanionDamage": {
+    "value": "Прикрита спина",
+    "desc": "Тіні та супутники отримують +250 % до шкоди."
+  },
+  "/Lotus/Upgrades/Calendar/CompanionsBuffNearbyPlayer": {
+    "value": "More the Merrier",
+    "desc": "Non-Tenno Allies within 20m all gain +5% Melee Attack Speed and +20% Fire Rate for each one in range."
+  },
+  "/Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange": {
+    "value": "Розширені обрії",
+    "desc": "У разі підбирання згустків енергії збільшує досяжність здібності на 10 %, тривалість — 10 с."
+  },
+  "/Lotus/Upgrades/Calendar/EnergyRestoration": {
+    "value": "Подвійне еспресо",
+    "desc": "Відновлення енергії збільшене на 2/с."
+  },
+  "/Lotus/Upgrades/Calendar/FinisherChancePerComboMultiplier": {
+    "value": "Combo Killer",
+    "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
+  },
+  "/Lotus/Upgrades/Calendar/MagazineCapacity": {
+    "value": "Heavy Mags",
+    "desc": "Increase magazine capacity by 25%"
+  },
+  "/Lotus/Upgrades/Calendar/MeleeAttackSpeed": {
+    "value": "Швидкі удари",
+    "desc": "+25 % до швидкості атак холодною зброєю."
+  },
+  "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
+    "value": "Цільове призначення",
+    "desc": "Стрiляйте в згустки здоров’я, щоби пiдняти їх. Згустки здоров'я мають 25 % iмовiрностi створення копiї пiд час пiдбору."
+  },
+  "/Lotus/Upgrades/Skins/Armor/SWPiercingEyeShoulderArmor/SWPiercingEyeShoulderArmor": {
+    "value": "Piercing Eye Shoulder Armor"
+  },
+  "/Lotus/Upgrades/Skins/Effects/NarmerEvolvingEphemeraA": {
+    "value": "Fog of War Ephemera"
+  },
+  "/Lotus/Upgrades/Skins/Odalisk/ProteaDeluxeSkin": {
+    "value": "Protea Caladrius Skin"
+  },
+  "/Lotus/Upgrades/Skins/Weapons/LongGuns/CorpusSpearGunSkin": {
+    "value": "Monitivus Thrown Weapon Skin"
+  },
+  "/Lotus/Weapons/Grineer/Melee/GrnSharbola/GrnSharbolaWeapon": {
+    "value": "Слейтра"
+  },
+  "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb": {
+    "value": "Еґріт"
+  },
+  "/Lotus/Weapons/Tenno/LongGuns/TnHopliteSpear/TnHopliteSpearGunWeapon": {
+    "value": "Ефентис"
+  },
   "/ee/types/engine/mover": {
     "value": "Mover"
   },
@@ -758,9 +1139,6 @@
   "/lotus/language/g1quests/heatfissureseventname": {
     "value": "Thermia Fractures"
   },
-  "/Lotus/Language/G1Quests/HeatFissuresEventScore": {
-    "value": "Thermia Fractures Sealed"
-  },
   "/lotus/language/g1quests/kelaeventbonustitle": {
     "value": "Нескінченний Ратум"
   },
@@ -1109,9 +1487,6 @@
   },
   "/lotus/powersuits/ninja/ninja": {
     "value": "Еш"
-  },
-  "/Lotus/Powersuits/Odalisk/Odalisk": {
-    "value": "Протея"
   },
   "/lotus/powersuits/pacifist/pacifist": {
     "value": "Баруук"
@@ -3462,9 +3837,6 @@
   "/lotus/storeitems/types/game/projections/t4voidprojectionosilver": {
     "value": "Axi C1 Relic (Exceptional)"
   },
-  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
-    "value": "Реліквія Аксі A2 (неушкоджена)"
-  },
   "/lotus/storeitems/types/game/projections/t4voidprojectionpgold": {
     "value": "Реліквія Аксі A2 (бездоганна)"
   },
@@ -3906,9 +4278,6 @@
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationa": {
     "value": "Mahd Luxxum Ornament"
   },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB": {
-    "value": "Орнамент: ака люксум"
-  },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationc": {
     "value": "Орнамент: заґ люксум"
   },
@@ -3926,9 +4295,6 @@
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationh": {
     "value": "Орнамент: вез люксум"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroPlanter": {
-    "value": "Clatharc Planter"
   },
   "/lotus/storeitems/types/items/shipdecos/conclaveoroornament": {
     "value": "Oro Ornament"
@@ -3959,12 +4325,6 @@
   },
   "/lotus/storeitems/types/items/shipdecos/frostbobblehead": {
     "value": "Noggle Statue - Frost"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
-    "value": "Плакат «Ґарв і Латрокс»"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/GrendelOrokinDishSet": {
-    "value": "Karishh's Dinnerware"
   },
   "/lotus/storeitems/types/items/shipdecos/grineerexcavationbossbobblehead": {
     "value": "Noggle Statue - Boril"
@@ -4005,9 +4365,6 @@
   "/lotus/storeitems/types/items/shipdecos/lisetpropcleaningdronebaro": {
     "value": "Дрон-прибиральник «Кі’Тір»"
   },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
-    "value": "Flak Fighter Decoration"
-  },
   "/lotus/storeitems/types/items/shipdecos/lisetpropostrugbaro": {
     "value": "Килим «Рід тенно»"
   },
@@ -4035,9 +4392,6 @@
   "/lotus/storeitems/types/items/shipdecos/orbiterpictureframebaro": {
     "value": "Дисплей «Арґайл»"
   },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
-    "value": "Плакат «Паразон»"
-  },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Постамент-прайм"
   },
@@ -4056,17 +4410,8 @@
   "/lotus/storeitems/types/items/shipdecos/sarynbobblehead": {
     "value": "Noggle Statue - Saryn"
   },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster": {
-    "value": "Dog Days Protea Display"
-  },
   "/lotus/storeitems/types/items/shipdecos/tarotcardtennoconc": {
     "value": "Прекс деймоського велоципода"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF": {
-    "value": "Deimos Jugulus Prex"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConG": {
-    "value": "Deimos Saxum Prex"
   },
   "/lotus/storeitems/types/items/shipdecos/trinitybobblehead": {
     "value": "Noggle Statue - Trinity"
@@ -4076,9 +4421,6 @@
   },
   "/lotus/storeitems/types/items/shipdecos/vaubanbobblehead": {
     "value": "Noggle Statue - Vauban"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem": {
-    "value": "Archwing Articula"
   },
   "/lotus/storeitems/types/items/shipdecos/voltbobblehead": {
     "value": "Noggle Statue - Volt"
@@ -5433,15 +5775,6 @@
   "/lotus/storeitems/types/restoratives/consumable/ancienthealerball": {
     "value": "Ancient Healer Specter"
   },
-  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
-    "value": "Сигнал для Сталкера"
-  },
-  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitB": {
-    "value": "Сигнал для Зануки-Мисливиці"
-  },
-  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC": {
-    "value": "Сигнал для Трьох із Ґрастраґу"
-  },
   "/lotus/storeitems/types/restoratives/consumable/barofireworkscrate": {
     "value": "Феєрверки Кі’Тіра x 10"
   },
@@ -5769,9 +6102,6 @@
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageitemfrostprime": {
     "value": "Loki Profile Icon"
   },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageIvaraAction": {
-    "value": "Гліф «Івара в дії»"
-  },
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimagelowpolykavat": {
     "value": "Гліф «Призмовий кават»"
   },
@@ -5828,9 +6158,6 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagebansheereverbdark": {
     "value": "Banshee Reverb Profile Icon"
-  },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer": {
-    "value": "Гліф «Баро Кі’Тір»"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagechromaamarubright": {
     "value": "Chroma Amaru Profile Icon"
@@ -6735,9 +7062,6 @@
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingweapontoxindamagemod": {
     "value": "Отруйна обойма"
   },
-  "/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert": {
-    "value": "Праймований рубедовий ствол"
-  },
   "/lotus/storeitems/upgrades/mods/archwing/suit/archwingsuitabilitydurationmod": {
     "value": "Efficient Transferral"
   },
@@ -7479,9 +7803,6 @@
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corruptedmaxclipreloadspeedpistol": {
     "value": "Tainted Clip"
   },
-  "/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod": {
-    "value": "Струс"
-  },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/fireeventpistolmod": {
     "value": "Спалення"
   },
@@ -7500,11 +7821,11 @@
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/stunningspeedmod": {
     "value": "Stunning Speed"
   },
-  "/lotus/storeitems/upgrades/mods/pistol/expert/primedweaponcritdamagemod": {
-    "value": "Праймований цілелам"
-  },
   "/lotus/storeitems/upgrades/mods/pistol/event/ambulasevent/expert/secondaryexplosionradiusmodexpert": {
     "value": "Prime Fulmination"
+  },
+  "/lotus/storeitems/upgrades/mods/pistol/expert/primedweaponcritdamagemod": {
+    "value": "Праймований цілелам"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponammomaxmodexpert": {
     "value": "Trick Mag"
@@ -7544,9 +7865,6 @@
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolconvertammomodexpert": {
     "value": "Праймована мутація в набої пістолета"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert": {
-    "value": "Праймований відстріл Корпусу"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorruptedexpert": {
     "value": "Праймований відстріл орокінів"
@@ -8178,9 +8496,6 @@
   "/lotus/storeitems/upgrades/mods/rifle/weaponzoomfovmod": {
     "value": "Eagle Eye"
   },
-  "/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod": {
-    "value": "Праймований ватажок зграї"
-  },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowclonedfinishermod": {
     "value": "Savagery"
   },
@@ -8378,9 +8693,6 @@
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponreloadspeedmodexpert": {
     "value": "Праймований тактичний подавач"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert": {
-    "value": "Праймована мутація в набої рушниці"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorpusexpert": {
     "value": "Праймована зачистка Корпусу"
@@ -9039,24 +9351,6 @@
   "/lotus/storeitems/upgrades/skins/antimatter/unlockantimatternoble": {
     "value": "Nova Noble Animation Set"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourA": {
-    "value": "Наплічник «Кі’Тір»"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourC": {
-    "value": "Нагрудник «Кі’Тір»"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourL": {
-    "value": "Наголінник «Кі’Тір»"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeA": {
-    "value": "Ki'Teer Greth Shoulder Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeC": {
-    "value": "Ki'Teer Greth Chest Plate"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeL": {
-    "value": "Ki'Teer Greth Leg Plates"
-  },
   "/lotus/storeitems/upgrades/skins/armor/baroarmourtwo/baroarmourtwoa": {
     "value": "Наплічник «Кі’Тір-форос»"
   },
@@ -9446,9 +9740,6 @@
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorhalloweena": {
     "value": "Обладунки «Визар» зі спорядженим виглядом «День мертвих» для кавата"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA": {
-    "value": "Обладунки «Кі’Тір» для кавата"
   },
   "/lotus/storeitems/upgrades/skins/clan/aggressioneventcorpusbadgeitem": {
     "value": "Gradivus: Sacrifice Emblem"
@@ -10197,9 +10488,6 @@
   "/lotus/storeitems/upgrades/skins/liset/lisetskinkotora": {
     "value": "Liset Kotara Skin"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader": {
-    "value": "Liset Prisma Skin"
-  },
   "/lotus/storeitems/upgrades/skins/loki/lokiagileanims": {
     "value": "Loki Agile Animation Set"
   },
@@ -10419,9 +10707,6 @@
   "/lotus/storeitems/upgrades/skins/nvidia/nvidiabratonskin": {
     "value": "Nvidia Braton"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
-    "value": "Діадема «Кі’Тір „Ріг“»"
-  },
   "/lotus/storeitems/upgrades/skins/operator/accessories/baromouthpiecea": {
     "value": "Маска «Кі’Тір „Атмосфера“»"
   },
@@ -10583,9 +10868,6 @@
   },
   "/lotus/storeitems/upgrades/skins/scarves/barocape": {
     "value": "Сяндана «Кі’Тір»"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf": {
-    "value": "Ki'teer Razza Synadana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/brassandgoldscarf": {
     "value": "Ormolu Kyroptera Syandana"
@@ -11283,9 +11565,6 @@
   "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticegorgon": {
     "value": "Вигляд «Спека» для Горгони"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas": {
-    "value": "Вигляд «Спека» для парних Ґракат"
-  },
   "/lotus/storeitems/upgrades/skins/tengu/tenguagileanims": {
     "value": "Zephyr Agile Animation Set"
   },
@@ -11657,9 +11936,6 @@
   },
   "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/prismadualcleavers": {
     "value": "Парні Сікачі-призма"
-  },
-  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
-    "value": "Мачете-примара"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineertylaxeandboar/regoraxeshield": {
     "value": "[Placeholder]"
@@ -12366,9 +12642,21 @@
   "/lotus/types/boosterpacks/randomprojection": {
     "value": "Набір реліквій"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailyafirmshake": {
+    "desc": "Потисніть руку дружнім тенно, використовуючи жест «Рукостискання».",
+    "value": "Приязне вітання"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
     "desc": "Убийте 15 ворогів під час прицілювання в повітрі.",
     "value": "Пір’їна"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyaugmentation": {
+    "desc": "Установіть модифікатор-розширення здібності у комірку модифікаторів ворфрейма.",
+    "value": "Розширення"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailybuilderstouch": {
+    "desc": "Заберіть предмет із кузні.",
+    "value": "Доторк творця"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
     "desc": "Здійсніть 150 гвинтових стрибків.",
@@ -12402,6 +12690,10 @@
     "desc": "Завершіть завдання лише зі спорядженою допоміжною зброєю.",
     "value": "Вестерн"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailydeathfromabove": {
+    "desc": "Убийте 10 ворогів ударами по землі.",
+    "value": "Смерть із неба"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "desc": "Викличте підтримку з повітря на завданні.",
     "value": "Провітримо"
@@ -12417,6 +12709,18 @@
   "/lotus/types/challenges/seasons/daily/seasondailydonateleverian": {
     "desc": "Зробіть пожертву Леверію.",
     "value": "Меценат"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyfeedmemore": {
+    "desc": "Нагодуйте златопаща в Дувірі.",
+    "value": "Годуйте мене більше"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyhelpinghand": {
+    "desc": "Урятуйте тварину в Дувірі.",
+    "value": "Допомога ближньому"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyhijackcrewship": {
+    "desc": "Викрадіть ворожий зореліт.",
+    "value": "Конфіскація"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "desc": "Попестіть свого куброу чи кавата.",
@@ -12502,6 +12806,14 @@
     "desc": "Звільніть вузол від впливу кувового ліча або сестри Парва",
     "value": "Окупант"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailyliquidation": {
+    "desc": "Продайте будь-яку свою річ за кредити.",
+    "value": "Ліквідація залишків"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailymedic": {
+    "desc": "Зціліть дружніх тенно чи супутника.",
+    "value": "Медик"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
     "desc": "Добийте ворога паразоном.",
     "value": "Криваве милосердя"
@@ -12546,6 +12858,10 @@
     "desc": "Активуйте Обеліск Реквієму на Деймосі.",
     "value": "Прадавній обеліск"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailysalutations": {
+    "desc": "Відвідайте Акрітіс у Дувірі.",
+    "value": "Привітання"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "desc": "Убийте 10 ворогів під час ковзання.",
     "value": "Блискавка"
@@ -12554,49 +12870,13 @@
     "desc": "Зламайте 8 консолей.",
     "value": "Гакер"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailystayontop": {
+    "desc": "Убийте 20 ворогів некрамехом під час ширяння в повітрі.",
+    "value": "Завжди вгорі"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
     "desc": "Підійміть 5 чи більше ворогів у повітря потужним ударом по землі.",
     "value": "Потужний удар"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
-    "desc": "Виконайте перетворення модифікаторів.",
-    "value": "Усе нове — це добре забуте старе"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
-    "desc": "Відвідайте обране додзьо.",
-    "value": "Лиш на хвильку"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyafirmshake": {
-    "desc": "Потисніть руку дружнім тенно, використовуючи жест «Рукостискання».",
-    "value": "Приязне вітання"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailytwoforone": {
-    "desc": "Убийте 2 чи більше ворогів одним пострілом із лука.",
-    "value": "Два за ціною одного"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailybuilderstouch": {
-    "desc": "Заберіть предмет із кузні.",
-    "value": "Доторк творця"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailydeathfromabove": {
-    "desc": "Убийте 10 ворогів ударами по землі.",
-    "value": "Смерть із неба"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyaugmentation": {
-    "desc": "Установіть модифікатор-розширення здібності у комірку модифікаторів ворфрейма.",
-    "value": "Розширення"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailytoppingoffthetank": {
-    "desc": "Успішно захистіть видобувач, постійно підживлюючи його.",
-    "value": "Повний бак"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyliquidation": {
-    "desc": "Продайте будь-яку свою річ за кредити.",
-    "value": "Ліквідація залишків"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailymedic": {
-    "desc": "Зціліть дружніх тенно чи супутника.",
-    "value": "Медик"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyswatter": {
     "desc": "Убийте 3 дрони холодною зброєю.",
@@ -12606,25 +12886,25 @@
     "desc": "Розмістіть 1 оздоблення на палубі орбітра.",
     "value": "Особистий доторк"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailystayontop": {
-    "desc": "Убийте 20 ворогів некрамехом під час ширяння в повітрі.",
-    "value": "Завжди вгорі"
+  "/lotus/types/challenges/seasons/daily/seasondailytoppingoffthetank": {
+    "desc": "Успішно захистіть видобувач, постійно підживлюючи його.",
+    "value": "Повний бак"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailyhijackcrewship": {
-    "desc": "Викрадіть ворожий зореліт.",
-    "value": "Конфіскація"
+  "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
+    "desc": "Виконайте перетворення модифікаторів.",
+    "value": "Усе нове — це добре забуте старе"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailyfeedmemore": {
-    "desc": "Нагодуйте златопаща в Дувірі.",
-    "value": "Годуйте мене більше"
+  "/lotus/types/challenges/seasons/daily/seasondailytwoforone": {
+    "desc": "Убийте 2 чи більше ворогів одним пострілом із лука.",
+    "value": "Два за ціною одного"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailyhelpinghand": {
-    "desc": "Урятуйте тварину в Дувірі.",
-    "value": "Допомога ближньому"
+  "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
+    "desc": "Відвідайте обране додзьо.",
+    "value": "Лиш на хвильку"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailysalutations": {
-    "desc": "Відвідайте Акрітіс у Дувірі.",
-    "value": "Привітання"
+  "/lotus/types/challenges/seasons/weekly/seasonweeklybloodthirsty": {
+    "desc": "Убийте 20 ворогів за 5 секунд.",
+    "value": "Жага крові"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
@@ -12706,6 +12986,10 @@
     "desc": "Знищте ворожий транспортник із носової гармати зорельота.",
     "value": "Дивитися в майбутнє"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyeternalguardian": {
+    "desc": "Завершіть 2 завдання «Армагеддон Порожнечі».",
+    "value": "Вічний вартовий"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyfeedhelminth": {
     "desc": "Нагодуйте гельмінта будь-якою сировиною.",
     "value": "Пожива для почвари"
@@ -12713,6 +12997,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "desc": "Gild 1 Modular Items",
     "value": "Gilded"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyhighground": {
+    "desc": "Завершіть 3 завдання «Повінь Порожнечі».",
+    "value": "Над землею"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyhijackcrewship": {
     "desc": "Викрадіть ворожий зореліт.",
@@ -12742,6 +13030,14 @@
     "desc": "Убийте землетруса «Бивнів» на Рівнинах Ейдолонів.",
     "value": "Тупотіння «Бивнів»"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
+    "desc": "Здобудьте 5 000 очок репутації в синдикатах.",
+    "value": "Відданість"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklymadlab": {
+    "desc": "Зруйнуйте одну з таємних лабораторій Алада В на Юпітері.",
+    "value": "Лабораторія божевільного"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
     "desc": "Видобудьте 3 рідкісних самоцвіти чи руди на Рівнинах Ейдолонів.",
     "value": "Рудокоп Землі"
@@ -12750,9 +13046,373 @@
     "desc": "Видобудьте 3 рідкісних самоцвіти чи руди у Долині Куль.",
     "value": "Рудокоп Венери"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
+    "desc": "Зберіть 10 рештків Вом чи Фасса в Кембіонській течії.",
+    "value": "Ніч і день"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
     "desc": "Здійсніть 3 різних бездоганних захоплень тварин у Долині Куль.",
     "value": "Борець з охорони природи"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions10": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання X виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions11": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XI виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions12": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions13": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XIII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions14": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XIV виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions15": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XV виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions16": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XVI виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions17": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XVII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions18": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XVIII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions19": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XIX виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions2": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання II виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions20": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XX виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions21": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXI виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions22": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions23": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXIII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions24": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXIV виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions25": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXV виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions26": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXVI виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions27": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXVII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions28": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXVIII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions29": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXIX виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions3": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання III виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions30": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання XXX виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions4": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання IV виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions5": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання V виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions6": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання VI виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions7": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання VII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions8": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання VIII виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions9": {
+    "desc": "Завершіть 15 завдань.",
+    "value": "Завдання IX виконано"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies10": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли X"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies11": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies12": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies13": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies14": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies15": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies16": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies17": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies18": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies19": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies2": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли II"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies20": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies21": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies22": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies23": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies24": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies25": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies26": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies27": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies28": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies29": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies3": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли III"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies30": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли XXX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies4": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли IV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies5": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли V"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies6": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли VI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies7": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли VII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies8": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли VIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies9": {
+    "desc": "Убийте 500 ворогів.",
+    "value": "Зовсім не попереджувальні постріли IX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus10": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів X"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus11": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus12": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus13": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus14": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus15": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus16": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus17": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus18": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus19": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus2": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів II"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus20": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus21": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus22": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus23": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus24": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus25": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus26": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus27": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus28": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus29": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus3": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів III"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus30": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів XXX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus4": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів IV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus5": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів V"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus6": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів VI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus7": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів VII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus8": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів VIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus9": {
+    "desc": "Убийте 30 ексімів.",
+    "value": "Винищувач ексімів IX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
     "desc": "Підберіть 8 рідкісних модифікаторів.",
@@ -12761,6 +13421,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
     "desc": "Виконайте 3 різних контракти на Рівнинах Ейдолонів.",
     "value": "Головоріз Землі"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackhijackdestroythree": {
+    "desc": "На викраденому зорельоті знищте 3 ворожих винищувачі.",
+    "value": "Вогонь по своїх"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
     "desc": "Завершіть 3 завдання на рейкоджеку.",
@@ -12778,6 +13442,14 @@
     "desc": "Здійсніть 3 зчитувань для цефалона Симаріса.",
     "value": "Дослідник Заповідника"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysolveciphers": {
+    "desc": "Зламайте 10 консолей.",
+    "value": "Гакер"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklytheoldways": {
+    "desc": "Виконайте завдання лише зі спорядженими пістолетом і глефою.",
+    "value": "Старомодний спосіб"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
     "desc": "Відімкніть 4 орокінські сховища на Деймосі за допомогою ключів дракона.",
     "value": "Розкрадач сховища"
@@ -12794,49 +13466,21 @@
     "desc": "Виконайте 3 різних контракти в Долині Куль.",
     "value": "Головоріз Венери"
   },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
-    "desc": "Зберіть 10 рештків Вом чи Фасса в Кембіонській течії.",
-    "value": "Ніч і день"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
-    "desc": "Здобудьте 5 000 очок репутації в синдикатах.",
-    "value": "Відданість"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklymadlab": {
-    "desc": "Зруйнуйте одну з таємних лабораторій Алада В на Юпітері.",
-    "value": "Лабораторія божевільного"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklybloodthirsty": {
-    "desc": "Убийте 20 ворогів за 5 секунд.",
-    "value": "Жага крові"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklytheoldways": {
-    "desc": "Виконайте завдання лише зі спорядженими пістолетом і глефою.",
-    "value": "Старомодний спосіб"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyeternalguardian": {
-    "desc": "Завершіть 2 завдання «Армагеддон Порожнечі».",
-    "value": "Вічний вартовий"
-  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyzarimanbountyhunter": {
     "desc": "Виконайте 4 різні контракти на «Заримені».",
     "value": "Виконавець «Заримена»"
   },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyhighground": {
-    "desc": "Завершіть 3 завдання «Повінь Порожнечі».",
-    "value": "Над землею"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackhijackdestroythree": {
-    "desc": "На викраденому зорельоті знищте 3 ворожих винищувачі.",
-    "value": "Вогонь по своїх"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklysolveciphers": {
-    "desc": "Зламайте 10 консолей.",
-    "value": "Гакер"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardantiquarian": {
+    "desc": "Розкрийте по одній реліквії з кожної ери: літ, мезо, нео, аксі.",
+    "value": "Антиквар"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Зберіть 20 різних типів ресурсів.",
     "value": "Збирач ресурсів"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletearchonhunt": {
+    "desc": "Успішно завершіть архонтові лови",
+    "value": "Мисливець на архонтів"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
     "desc": "Завершіть 5 завдань складності «Жахіття».",
@@ -12858,6 +13502,10 @@
     "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected",
     "value": "Silent Eliminator"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfallenangel": {
+    "desc": "Убийте 5 янголів Порожнечі на «Заримені».",
+    "value": "Занепалий янгол"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
     "desc": "Завершіть завдання із захоплення менше ніж за 90 секунд.",
     "value": "Швидкісник"
@@ -12869,6 +13517,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
     "desc": "Завершіть завдання з оборони після 20-ї хвилі.",
     "value": "Оборона"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
+    "desc": "Тричі захистіть обидва об’єкти за одне завдання «Дзеркальна оборона».",
+    "value": "Кристалічна чистота"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
     "desc": "Убийте Привласнювачку.",
@@ -12926,409 +13578,33 @@
     "desc": "Завершіть 8 завдань на рейкоджеку.",
     "value": "Кваліфікований дослідник"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardriseofthemachine": {
+    "desc": "Убийте 300 ворогів некрамехом і не дайте знищити його.",
+    "value": "Повстання машин"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
     "desc": "Complete a Spy mission with 3 manual console hacks and no alarms",
     "value": "Machine Interference"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
-    "desc": "Розкрийте 10 реліквій.",
-    "value": "Відкриття реліквій"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardantiquarian": {
-    "desc": "Розкрийте по одній реліквії з кожної ери: літ, мезо, нео, аксі.",
-    "value": "Антиквар"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardterminated": {
     "desc": "Знищте 3 некрамехів, що оберігають сховище.",
     "value": "Знищення"
   },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthepriceoffreedom": {
-    "desc": "Звільніть 1 солярійського заручника за допомогою крони Ґранума.",
-    "value": "Ціна свободи"
-  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthemanymadewhole": {
     "desc": "Обміняйте 10 уламків розколу на модифікатор розколу.",
     "value": "Частинки формують ціле"
   },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardriseofthemachine": {
-    "desc": "Убийте 300 ворогів некрамехом і не дайте знищити його.",
-    "value": "Повстання машин"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthepriceoffreedom": {
+    "desc": "Звільніть 1 солярійського заручника за допомогою крони Ґранума.",
+    "value": "Ціна свободи"
   },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfallenangel": {
-    "desc": "Убийте 5 янголів Порожнечі на «Заримені».",
-    "value": "Занепалий янгол"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletearchonhunt": {
-    "desc": "Успішно завершіть архонтові лови",
-    "value": "Мисливець на архонтів"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
-    "desc": "Тричі захистіть обидва об’єкти за одне завдання «Дзеркальна оборона».",
-    "value": "Кристалічна чистота"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
+    "desc": "Розкрийте 10 реліквій.",
+    "value": "Відкриття реліквій"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardvitalarbiter": {
     "desc": "Завершіть завдання арбітражу.",
     "value": "Важливий арбітр"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions2": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання II виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus2": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів II"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies2": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли II"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions3": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання III виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus3": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів III"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies3": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли III"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions4": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання IV виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus4": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів IV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies4": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли IV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions5": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання V виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus5": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів V"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies5": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли V"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions6": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання VI виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus6": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів VI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies6": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли VI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions7": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання VII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus7": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів VII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies7": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли VII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions8": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання VIII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus8": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів VIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies8": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли VIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions9": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання IX виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus9": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів IX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies9": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли IX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions10": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання X виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus10": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів X"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies10": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли X"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions11": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XI виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus11": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies11": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions12": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus12": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies12": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions13": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XIII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus13": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies13": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions14": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XIV виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus14": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies14": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions15": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XV виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus15": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies15": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions16": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XVI виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus16": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies16": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions17": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XVII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus17": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies17": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions18": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XVIII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus18": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies18": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions19": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XIX виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus19": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies19": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions20": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XX виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus20": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies20": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions21": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXI виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus21": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies21": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions22": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus22": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies22": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions23": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXIII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus23": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies23": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions24": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXIV виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus24": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies24": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions25": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXV виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus25": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies25": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions26": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXVI виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus26": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies26": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions27": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXVII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus27": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies27": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions28": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXVIII виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus28": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies28": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions29": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXIX виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus29": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies29": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions30": {
-    "desc": "Завершіть 15 завдань.",
-    "value": "Завдання XXX виконано"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus30": {
-    "desc": "Убийте 30 ексімів.",
-    "value": "Винищувач ексімів XXX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies30": {
-    "desc": "Убийте 500 ворогів.",
-    "value": "Зовсім не попереджувальні постріли XXX"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
@@ -14461,11 +14737,11 @@
   "/lotus/types/gameplay/infestedmicroplanet/resources/necraloids/necraloidstandingcommonitem": {
     "value": "Orokin Orientation Matrix"
   },
-  "/lotus/types/gameplay/infestedmicroplanet/resources/necraloids/necraloidstandinguncommonitem": {
-    "value": "Orokin Ballistics Matrix"
-  },
   "/lotus/types/gameplay/infestedmicroplanet/resources/necraloids/necraloidstandingrareitem": {
     "value": "Orokin Animus Matrix"
+  },
+  "/lotus/types/gameplay/infestedmicroplanet/resources/necraloids/necraloidstandinguncommonitem": {
+    "value": "Orokin Ballistics Matrix"
   },
   "/lotus/types/gameplay/venus/jobs/narmer/narmervenusculljobassassinate": {
     "value": "Master's Voice (Narmer)"
@@ -16063,14 +16339,14 @@
   "/lotus/types/storeitems/packages/crpindextwoitempack": {
     "value": "Quaro Collection"
   },
+  "/lotus/types/storeitems/packages/defenseeventpack": {
+    "value": "Weekend Event Dethcube Deal"
+  },
   "/lotus/types/storeitems/packages/deimositemsbundle": {
     "value": "Deimos Infested Bundle"
   },
   "/lotus/types/storeitems/packages/deimossupporterpack3storeitem": {
     "value": "Deimos Swarm Supporter Pack"
-  },
-  "/lotus/types/storeitems/packages/defenseeventpack": {
-    "value": "Weekend Event Dethcube Deal"
   },
   "/lotus/types/storeitems/packages/deluxebundles/zephyrdeluxeskinbundle": {
     "value": "Zephyr Harrier Collection"
@@ -16081,14 +16357,14 @@
   "/lotus/types/storeitems/packages/demolitionarchwingbundle": {
     "value": "Elytron Ultimatum Bundle"
   },
+  "/lotus/types/storeitems/packages/discordprimeaccesstier3storeitem": {
+    "value": "Discord Prime Access Complete Bundle"
+  },
   "/lotus/types/storeitems/packages/djinndeluxearmorpack": {
     "value": "Gazal Armor Pack"
   },
   "/lotus/types/storeitems/packages/djinndeluxecompletebundle": {
     "value": "Gazal Complete Collection"
-  },
-  "/lotus/types/storeitems/packages/discordprimeaccesstier3storeitem": {
-    "value": "Discord Prime Access Complete Bundle"
   },
   "/lotus/types/storeitems/packages/domestikdronesbundle": {
     "value": "Domestik Drones Bundle"
@@ -18532,74 +18808,92 @@
   "/lotus/weapons/voidtrader/vtdetron": {
     "value": "Детрон-мара"
   },
-  "primevaulttrader": {
-    "value": "Varzia Dax"
+  "AbilityLockout": {
+    "value": "Безсилля",
+    "desc": "Усі здібності заблоковано допоки загін не вб’є 50 ворогів."
   },
-  "projectindex": {
-    "value": "Index Points"
+  "AcceleratedEnemies": {
+    "value": "Нахабна сміливість",
+    "desc": "Вороги завдаватимуть на 15 % шкоди менше й отримуватимуть на 15 % шкоди більше, але мають +15 % до швидкострільності й швидкості руху та атаки."
+  },
+  "AntiMaterialWeapons": {
+    "value": "Переконливі «Кульверини»",
+    "desc": "Дикі «Кульверини» споряджають зброю, що завдає збільшеної в п’ять разів шкоди надзахисту та некрамехам."
   },
   "ArbitersSyndicate": {
     "value": "Арбітри Гексису"
   },
+  "AssassinsSyndicate": {
+    "value": "Убивці"
+  },
   "CephalonSudaSyndicate": {
     "value": "Цефалонка Суда"
-  },
-  "NewLokaSyndicate": {
-    "value": "Нова Лока"
-  },
-  "PerrinSyndicate": {
-    "value": "Послідовність Перрена"
-  },
-  "SteelMeridianSyndicate": {
-    "value": "Сталевий Меридіан"
-  },
-  "RedVeilSyndicate": {
-    "value": "Багряна Вуаль"
   },
   "CetusSyndicate": {
     "value": "Остронці"
   },
-  "QuillsSyndicate": {
-    "value": "Писарі"
-  },
-  "AssassinsSyndicate": {
-    "value": "Убивці"
-  },
-  "EventSyndicate": {
-    "value": "Оперативне постачання"
-  },
-  "SolarisSyndicate": {
-    "value": "Солярійська Єдність"
-  },
-  "VoxSyndicate": {
-    "value": "Глас солярійців"
-  },
-  "VentKidsSyndicate": {
-    "value": "Вентижевжики"
+  "Deflectors": {
+    "value": "Укріплені вороги",
+    "desc": "Можуть з’являтися захисники-ексіми (включно з некрамехами захисниками-ексімами)."
   },
   "EntratiSyndicate": {
     "value": "Ентраті"
   },
-  "NecraloidSyndicate": {
-    "value": "Некралойд"
+  "EventSyndicate": {
+    "value": "Оперативне постачання"
+  },
+  "FragileNodes": {
+    "value": "Спільна мета",
+    "desc": "Усі ворoги атакуватимуть джерела."
+  },
+  "Framecurse": {
+    "value": "Проклятий синдром",
+    "desc": "Застосування здібності завдає вам 50 шкоди."
+  },
+  "GrowingIncursion": {
+    "value": "Каскадні розломи",
+    "desc": "На завданні з'являються розломи, підвищуючи рівень ворогів на 1 кожні 10 секунд. Знищіть їх, щоби зупинити приріст рівнів ворогів."
+  },
+  "InfiniteTide": {
+    "value": "Невблаганна хвиля",
+    "desc": "Хвтля розламаних не зупиняється й не припиняє нападати."
   },
   "KahlSyndicate": {
     "value": "Kahl's Garrison"
   },
-  "ZarimanSyndicate": {
-    "value": "The Holdfasts"
+  "Knifestep": {
+    "value": "Ноголамний синдром",
+    "desc": "Ви втрачаєте 2 здоров’я під час руху. Стрибки призупиняють дію ефекту."
   },
-  "RadioLegionSyndicate": {
-    "value": "The Wolf of Saturn Six"
+  "LostInTranslation": {
+    "value": "Гліфова дорожнеча",
+    "desc": "Вмикання системи безпеки потребує вдвічі більше возфінових гліфів."
+  },
+  "NecraloidSyndicate": {
+    "value": "Некралойд"
+  },
+  "NewLokaSyndicate": {
+    "value": "Нова Лока"
+  },
+  "OperatorLockout": {
+    "value": "Заблоковані канали",
+    "desc": "Перенесення в оператора та мандрівника заблоковані."
+  },
+  "PerrinSyndicate": {
+    "value": "Послідовність Перрена"
+  },
+  "PointBlank": {
+    "value": "Сліпі боєприпаси",
+    "desc": "Вороги отримуватимуть шкоду лише за перебування гравця в межах 15 м від них."
+  },
+  "QuillsSyndicate": {
+    "value": "Писарі"
   },
   "RadioLegion2Syndicate": {
     "value": "The Emissary"
   },
   "RadioLegion3Syndicate": {
     "value": "Glassmaker"
-  },
-  "RadioLegionIntermissionSyndicate": {
-    "value": "Антракт"
   },
   "RadioLegionIntermission2Syndicate": {
     "value": "Intermission II"
@@ -18616,345 +18910,54 @@
   "RadioLegionIntermission6Syndicate": {
     "value": "Nora's Mix Volume 2"
   },
-  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/TitaniaDeluxeIISkinBundle": {
-    "value": "Titania Donann Collection"
+  "RadioLegionIntermissionSyndicate": {
+    "value": "Антракт"
   },
-  "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb": {
-    "value": "Еґріт"
+  "RadioLegionSyndicate": {
+    "value": "The Wolf of Saturn Six"
   },
-  "/Lotus/Types/StoreItems/Packages/VeilbreakerVoidshellBundle": {
-    "value": "Void Adornment Bundle II"
-  },
-  "/Lotus/Upgrades/Skins/Armor/SWPiercingEyeShoulderArmor/SWPiercingEyeShoulderArmor": {
-    "value": "Piercing Eye Shoulder Armor"
-  },
-  "/Lotus/Upgrades/Skins/Odalisk/ProteaDeluxeSkin": {
-    "value": "Protea Caladrius Skin"
-  },
-  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/ProteaDeluxeSkinBundle": {
-    "value": "Proteus Caladrius Collection"
-  },
-  "/Lotus/Upgrades/Skins/Effects/NarmerEvolvingEphemeraA": {
-    "value": "Fog of War Ephemera"
-  },
-  "/Lotus/Types/StoreItems/Packages/StyanaxVoidshellSkinBundle": {
-    "value": "Styanax Voidshell Collection"
-  },
-  "/Lotus/Upgrades/Skins/Weapons/LongGuns/CorpusSpearGunSkin": {
-    "value": "Monitivus Thrown Weapon Skin"
-  },
-  "/Lotus/Types/StoreItems/Packages/FormaPack": {
-    "value": "Комплект з 3-х форм"
-  },
-  "/Lotus/Weapons/Tenno/LongGuns/TnHopliteSpear/TnHopliteSpearGunWeapon": {
-    "value": "Ефентис"
-  },
-  "/Lotus/Types/StoreItems/Packages/VeilbreakerCommunityPack": {
-    "value": "Styanax Gallantry Collection"
-  },
-  "/Lotus/Types/StoreItems/Packages/StyanaxBundle": {
-    "value": "Styanax Gallantry Collection"
-  },
-  "/Lotus/Types/StoreItems/Packages/VeilbreakerSupporterPack": {
-    "value": "Veilbreaker Warrior Pack"
-  },
-  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackB": {
-    "value": "Chrysalith Pack"
-  },
-  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackA": {
-    "value": "Emergence Pack"
-  },
-  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackC": {
-    "value": "15 Королівські Ая"
-  },
-  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackB": {
-    "value": "7 Королівські Ая"
-  },
-  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackA": {
-    "value": "3 Королівські Ая"
-  },
-  "/Lotus/Weapons/Grineer/Melee/GrnSharbola/GrnSharbolaWeapon": {
-    "value": "Слейтра"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
-    "value": "Ефемера «Шлях фей»"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm": {
-    "value": "Вигляд «Культ „Решантур“» для списа"
-  },
-  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon": {
-    "value": "Галікар-примара"
-  },
-  "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
-    "value": "Парні Декуріони-призма"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/DomsFinalDrink": {
-    "value": "Витримане вино де Наз"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GaussSentinelMask": {
-    "value": "Altra Sentinel Mask"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod": {
-    "value": "Праймована конвульсія"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
-    "value": "Серійна лють"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/UmbraPedestal": {
-    "value": "Umbra Pedestal"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorA": {
-    "value": "Tannukai Shoulder Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorC": {
-    "value": "Tannukai Chest Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorL": {
-    "value": "Tannukai Leg Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/AshLeverianLiosPistol": {
-    "value": "De Nas Pistol Skin"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodDuviriOperator": {
-    "value": "The Stranger's Hood (Operator)"
-  },
-  "/Lotus/StoreItems/Types/Game/QuartersWallpapers/LavosAlchemistWallpaper": {
-    "value": "Javi's Scrawling"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Scarves/SolsticeBaroCape": {
-    "value": "Wintercress Syandana"
-  },
-  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetAItem": {
-    "value": "Системи «Ґіромаґ»"
-  },
-  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem": {
-    "value": "Системи «Атмо»"
-  },
-  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetCItem": {
-    "value": "Системи «Відбивач»"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConI": {
-    "value": "Xaku Prex"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/BekranZaftBucketBroom": {
-    "value": "Bekran Zaft's Equipment"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitNovaEngineer": {
-    "value": "Masker's Theodolite Crewsuit"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodNovaEngineer": {
-    "value": "Masker's Theodolite Crewsuit Hood"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesNovaEngineer": {
-    "value": "Masker's Theodolite Crewsuit Sleeves"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsNovaEngineer": {
-    "value": "Masker's Theodolite Crewsuit Leggings"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/ElixisNikana": {
-    "value": "Nikana Elixis Skin"
-  },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageTeshinVed": {
-    "value": "Teshin Glyph"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Weapons/Rapier/CrpRapierSkin": {
-    "value": "Rapier Tributaker Skin"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert": {
-    "value": "Праймоване переспрямування"
-  },
-  "/Lotus/Language/JadeShadows/JadeShadowsEventName": {
-    "value": "Операція «У лігві звіра»"
-  },
-  "/Lotus/Language/JadeShadows/JadeShadowsShortEventDesc": {
-    "value": "Зупиніть Парва Ґранума! Зберіть леткі порошинки на завданнях «Сходження» операції на Бруті (Уран) та спеціальних тривогах операції.\nВідвідайте Ордіса на реле Ларунда (Меркурій) для отримання нагород."
-  },
-  "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
-    "value": "Леткі порошинки"
-  },
-  "/Lotus/Language/JadeShadows/JadeShadowsEventScore": {
-    "value": "Поступ збору летких порошинок"
-  },
-  "OperatorLockout": {
-    "value": "Заблоковані канали",
-    "desc": "Перенесення в оператора та мандрівника заблоковані."
-  },
-  "AbilityLockout": {
-    "value": "Безсилля",
-    "desc": "Усі здібності заблоковано допоки загін не вб’є 50 ворогів."
-  },
-  "TimeDilation": {
-    "value": "Скорочені здібності",
-    "desc": "Тривалість дії здібностей скорочено 50 %."
-  },
-  "Framecurse": {
-    "value": "Проклятий синдром",
-    "desc": "Застосування здібності завдає вам 50 шкоди."
-  },
-  "FragileNodes": {
-    "value": "Спільна мета",
-    "desc": "Усі ворoги атакуватимуть джерела."
-  },
-  "LostInTranslation": {
-    "value": "Гліфова дорожнеча",
-    "desc": "Вмикання системи безпеки потребує вдвічі більше возфінових гліфів."
-  },
-  "InfiniteTide": {
-    "value": "Невблаганна хвиля",
-    "desc": "Хвтля розламаних не зупиняється й не припиняє нападати."
-  },
-  "AntiMaterialWeapons": {
-    "value": "Переконливі «Кульверини»",
-    "desc": "Дикі «Кульверини» споряджають зброю, що завдає збільшеної в п’ять разів шкоди надзахисту та некрамехам."
-  },
-  "AcceleratedEnemies": {
-    "value": "Нахабна сміливість",
-    "desc": "Вороги завдаватимуть на 15 % шкоди менше й отримуватимуть на 15 % шкоди більше, але мають +15 % до швидкострільності й швидкості руху та атаки."
-  },
-  "Deflectors": {
-    "value": "Укріплені вороги",
-    "desc": "Можуть з’являтися захисники-ексіми (включно з некрамехами захисниками-ексімами)."
-  },
-  "PointBlank": {
-    "value": "Сліпі боєприпаси",
-    "desc": "Вороги отримуватимуть шкоду лише за перебування гравця в межах 15 м від них."
-  },
-  "ShieldedFoes": {
-    "value": "Підкріплення ворогам",
-    "desc": "Усі вороги мають надзахист в значенні 50 % від їхнього максимального здоров’я."
-  },
-  "Voidburst": {
-    "value": "Посмертні вибухи",
-    "desc": "Вороги вибухають при смерті і завдають шкоду Порожнечею."
-  },
-  "ShieldDelay": {
-    "value": "Сонні щити",
-    "desc": "Затримка відновлення щитів збільшена на 500 %"
-  },
-  "Knifestep": {
-    "value": "Ноголамний синдром",
-    "desc": "Ви втрачаєте 2 здоров’я під час руху. Стрибки призупиняють дію ефекту."
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC": {
-    "value": "Conquera Kuaka Floof"
-  },
-  "GrowingIncursion": {
-    "value": "Каскадні розломи",
-    "desc": "На завданні з'являються розломи, підвищуючи рівень ворогів на 1 кожні 10 секунд. Знищіть їх, щоби зупинити приріст рівнів ворогів."
+  "RedVeilSyndicate": {
+    "value": "Багряна Вуаль"
   },
   "RegeneratingEnemies": {
     "value": "Вороже відновлення",
     "desc": "Здоров’я ворогів поступово відновлюється."
   },
-  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBorealMythic": {
-    "value": "Таурований блакитний архонтовий уламок"
+  "ShieldDelay": {
+    "value": "Сонні щити",
+    "desc": "Затримка відновлення щитів збільшена на 500 %"
   },
-  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalNiraMythic": {
-    "value": "Таурований бурштиновий архонтовий уламок"
+  "ShieldedFoes": {
+    "value": "Підкріплення ворогам",
+    "desc": "Усі вороги мають надзахист в значенні 50 % від їхнього максимального здоров’я."
   },
-  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic": {
-    "value": "Таурований багряний архонтовий уламок"
+  "SolarisSyndicate": {
+    "value": "Солярійська Єдність"
   },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
-    "value": "EX-EXIMUS",
-    "desc": "Убийте 10 ексімів."
+  "SteelMeridianSyndicate": {
+    "value": "Сталевий Меридіан"
   },
-  "/Lotus/Upgrades/Calendar/MagazineCapacity": {
-    "value": "Heavy Mags",
-    "desc": "Increase magazine capacity by 25%"
+  "TimeDilation": {
+    "value": "Скорочені здібності",
+    "desc": "Тривалість дії здібностей скорочено 50 %."
   },
-  "/Lotus/Upgrades/Calendar/Armor": {
-    "value": "Thick Skin",
-    "desc": "Gain +250 Armor."
+  "VentKidsSyndicate": {
+    "value": "Вентижевжики"
   },
-  "/Lotus/Upgrades/Calendar/EnergyRestoration": {
-    "value": "Подвійне еспресо",
-    "desc": "Відновлення енергії збільшене на 2/с."
+  "Voidburst": {
+    "value": "Посмертні вибухи",
+    "desc": "Вороги вибухають при смерті і завдають шкоду Порожнечею."
   },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
-    "value": "Покарання для «Скальдри»",
-    "desc": "Убийте 250 бійців «Скальдри»."
+  "VoxSyndicate": {
+    "value": "Глас солярійців"
   },
-  "/Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack": {
-    "value": "Містичні поліпшення: подвійний набір"
+  "ZarimanSyndicate": {
+    "value": "The Holdfasts"
   },
-  "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
-    "value": "Смарагдовий архонтовий уламок"
+  "primevaulttrader": {
+    "value": "Varzia Dax"
   },
-  "/Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint": {
-    "value": "Ексилотримач для зброї (креслення)"
-  },
-  "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
-    "value": "2 000 куви"
-  },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
-    "value": "Демонстрація сили",
-    "desc": "Убийте 300 ворогів за допомогою здібностей."
-  },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
-    "value": "Особисте",
-    "desc": "Убийте 300 бійців «Скальдри» холодною зброєю."
-  },
-  "/Lotus/Upgrades/Calendar/CompanionsBuffNearbyPlayer": {
-    "value": "More the Merrier",
-    "desc": "Non-Tenno Allies within 20m all gain +5% Melee Attack Speed and +20% Fire Rate for each one in range."
-  },
-  "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
-    "value": "Цільове призначення",
-    "desc": "Стрiляйте в згустки здоров’я, щоби пiдняти їх. Згустки здоров'я мають 25 % iмовiрностi створення копiї пiд час пiдбору."
-  },
-  "/Lotus/Upgrades/Calendar/FinisherChancePerComboMultiplier": {
-    "value": "Combo Killer",
-    "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
-  },
-  "/Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack": {
-    "value": "Містичні поліпшення"
-  },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
-    "value": "Purge the infection",
-    "desc": "Убийте 100 техногнилих ворогів."
-  },
-  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
-    "value": "Тримач містифікаторів для допоміжної зброї"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/CircuitSilverSteelPathFusionBundle": {
-    "value": "6 000 ендо"
-  },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
-    "value": "Starve the beast",
-    "desc": "Destroy 150 Containers"
-  },
-  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker": {
-    "value": "Ексилотримач для зброї"
-  },
-  "/Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange": {
-    "value": "Розширені обрії",
-    "desc": "У разі підбирання згустків енергії збільшує досяжність здібності на 10 %, тривалість — 10 с."
-  },
-  "/Lotus/Upgrades/Calendar/MeleeAttackSpeed": {
-    "value": "Швидкі удари",
-    "desc": "+25 % до швидкості атак холодною зброєю."
-  },
-  "/Lotus/Upgrades/Calendar/CompanionDamage": {
-    "value": "Прикрита спина",
-    "desc": "Тіні та супутники отримують +250 % до шкоди."
-  },
-  "/Lotus/StoreItems/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade": {
-    "value": "Вастилок"
-  },
-  "/Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama": {
-    "value": "Empyrean Vignette"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/Leverian/IvaraLeverianPovisRecordsDecoration": {
-    "value": "Secret History Replica"
-  },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle": {
-    "value": "Baruuk Doan Silhouette Glyph"
-  },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA": {
-    "value": "Гліф «Щедра змія»"
-  },
-  "/Lotus/StoreItems/Powersuits/Trapper/TrapperPrime": {
-    "value": "Вобан-прайм"
+  "projectindex": {
+    "value": "Index Points"
   }
 }
