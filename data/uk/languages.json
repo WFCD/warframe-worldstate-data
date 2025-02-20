@@ -237,15 +237,15 @@
     "value": "Парні Декуріони-призма"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
-    "value": "Starve the beast",
-    "desc": "Destroy 150 Containers"
+    "value": "Голодні ігри",
+    "desc": "Знищте 150 контейнерів"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
     "value": "Демонстрація сили",
     "desc": "Убийте 300 ворогів за допомогою здібностей."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
-    "value": "EX-EXIMUS",
+    "value": "Винищення ексімів",
     "desc": "Убийте 10 ексімів."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
@@ -257,7 +257,7 @@
     "desc": "Убийте 300 бійців «Скальдри» холодною зброєю."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
-    "value": "Purge the infection",
+    "value": "Очищення інфекції",
     "desc": "Убийте 100 техногнилих ворогів."
   },
   "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
@@ -325,7 +325,7 @@
   },
   "/Lotus/Upgrades/Calendar/Armor": {
     "value": "Thick Skin",
-    "desc": "Gain +250 Armor."
+    "desc": "+250 до захисту."
   },
   "/Lotus/Upgrades/Calendar/CompanionDamage": {
     "value": "Прикрита спина",
@@ -348,8 +348,8 @@
     "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
   },
   "/Lotus/Upgrades/Calendar/MagazineCapacity": {
-    "value": "Heavy Mags",
-    "desc": "Increase magazine capacity by 25%"
+    "value": "Великі магазини",
+    "desc": "Місткість магазинів збільшена на 25 %"
   },
   "/Lotus/Upgrades/Calendar/MeleeAttackSpeed": {
     "value": "Швидкі удари",
