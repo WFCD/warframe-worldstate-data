@@ -1,4 +1,436 @@
 {
+  "/Lotus/Language/Events/ValentinesFortunaName": {
+    "value": "Star Days"
+  },
+  "/Lotus/Language/G1Quests/HeatFissuresEventScore": {
+    "value": "Thermia Fractures Sealed"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsEventName": {
+    "value": "Operation: Belly of the Beast"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsEventScore": {
+    "value": "Volatile Motes Collection Progress"
+  },
+  "/Lotus/Language/JadeShadows/JadeShadowsShortEventDesc": {
+    "value": "Stop Parvos Granum! Collect Volatile Motes from Operation Ascension missions on Brutus (Uranus) and special Operation Alerts.\nVisit Ordis on Larunda Relay (Mercury) to claim rewards."
+  },
+  "/Lotus/Powersuits/Odalisk/Odalisk": {
+    "value": "Protea"
+  },
+  "/Lotus/StoreItems/Powersuits/Trapper/TrapperPrime": {
+    "value": "Vauban Prime"
+  },
+  "/Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack": {
+    "value": "Arcane Enhancements"
+  },
+  "/Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack": {
+    "value": "Arcane Enhancements: Double Pack"
+  },
+  "/Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama": {
+    "value": "Empyrean Vignette"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze": {
+    "value": "Axi M5 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
+    "value": "Axi A2 Relic (Intact)"
+  },
+  "/Lotus/StoreItems/Types/Game/QuartersWallpapers/LavosAlchemistWallpaper": {
+    "value": "Javi's Scrawling"
+  },
+  "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
+    "value": "Emerald Archon Shard"
+  },
+  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
+    "value": "Secondary Arcane Adapter"
+  },
+  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker": {
+    "value": "Exilus Weapon Adapter"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB": {
+    "value": "Akka Luxxum Ornament"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroPlanter": {
+    "value": "Clatharc Planter"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/BekranZaftBucketBroom": {
+    "value": "Bekran Zaft's Equipment"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/DomsFinalDrink": {
+    "value": "Aged Claret of Denas"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
+    "value": "Garv & Latrox Poster"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/GrendelOrokinDishSet": {
+    "value": "Karishh's Dinnerware"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Leverian/IvaraLeverianPovisRecordsDecoration": {
+    "value": "Secret History Replica"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCleaningDroneDuviri": {
+    "value": "Domestik Dais Drone"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCorpusBasilisk": {
+    "value": "Basilisk Fighter Decoration"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
+    "value": "Flak Fighter Decoration"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
+    "value": "Parazon Poster"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC": {
+    "value": "Conquera Kuaka Floof"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster": {
+    "value": "Dog Days Protea Display"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF": {
+    "value": "Deimos Jugulus Prex"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConG": {
+    "value": "Deimos Saxum Prex"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConI": {
+    "value": "Xaku Prex"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConJ": {
+    "value": "Deimos Kymaeros Prex"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/UmbraPedestal": {
+    "value": "Umbra Pedestal"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem": {
+    "value": "Archwing Articula"
+  },
+  "/Lotus/StoreItems/Types/Items/SongItems/LotusEatersSongItem": {
+    "value": "The Lotus Eaters Login Music"
+  },
+  "/Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint": {
+    "value": "Exilus Weapon Adapter Blueprint"
+  },
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
+    "value": "Stalker Beacon"
+  },
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitB": {
+    "value": "Zanuka Hunter Beacon"
+  },
+  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC": {
+    "value": "Grustrag Three Beacon"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle": {
+    "value": "Baruuk Doan Silhouette Glyph"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageIvaraAction": {
+    "value": "Ivara In Action Glyph"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageTeshinVed": {
+    "value": "Teshin Glyph"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer": {
+    "value": "Baro Ki'teer Glyph"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA": {
+    "value": "Giving Snake Glyph"
+  },
+  "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Peculiars/EvilSpiritMod": {
+    "value": "Peculiar Audience"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert": {
+    "value": "Primed Rubedo-Lined Barrel"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/CircuitSilverSteelPathFusionBundle": {
+    "value": "6,000 Endo"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
+    "value": "Combo Fury"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod": {
+    "value": "Jolt"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod": {
+    "value": "Primed Convulsion"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert": {
+    "value": "Primed Expel Corpus"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod": {
+    "value": "Primed Pack Leader"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert": {
+    "value": "Primed Shotgun Ammo Mutation"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert": {
+    "value": "Primed Redirection"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourA": {
+    "value": "Ki'teer Shoulder Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourC": {
+    "value": "Ki'teer Chest Plate"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourL": {
+    "value": "Ki'teer Leg Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeA": {
+    "value": "Ki'Teer Greth Shoulder Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeC": {
+    "value": "Ki'Teer Greth Chest Plate"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeL": {
+    "value": "Ki'Teer Greth Leg Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorA": {
+    "value": "Tannukai Shoulder Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorC": {
+    "value": "Tannukai Chest Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorL": {
+    "value": "Tannukai Leg Plates"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA": {
+    "value": "Ki'teer Kavat Armor"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/CNY2022EmblemItem": {
+    "value": "Lunar Renewal Tiger Emblem"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/CNY2023EmblemItem": {
+    "value": "Lunar Renewal Rabbit Emblem"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/CNY2025SnakeEmblem": {
+    "value": "Lunar Renewal Snake Emblem"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/Dragon2024BadgeItem": {
+    "value": "Lunar Renewal Dragon Emblem"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
+    "value": "Fae Path Ephemera"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Infestation/NidusAlternateSkin": {
+    "value": "Nidus Immortal Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm": {
+    "value": "Reshantur Cult Spear Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader": {
+    "value": "Liset Prisma Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
+    "value": "Ki'teer Cornu Diadem"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitNovaEngineer": {
+    "value": "Masker's Theodolite Crewsuit"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodDuviriOperator": {
+    "value": "The Stranger's Hood (Operator)"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodNovaEngineer": {
+    "value": "Masker's Theodolite Crewsuit Hood"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsNovaEngineer": {
+    "value": "Masker's Theodolite Crewsuit Leggings"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesNovaEngineer": {
+    "value": "Masker's Theodolite Crewsuit Sleeves"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf": {
+    "value": "Ki'teer Razza Synadana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/NezhaLeverianCape": {
+    "value": "Reshantur Cult Syandana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/SolsticeBaroCape": {
+    "value": "Wintercress Syandana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GaussSentinelMask": {
+    "value": "Altra Sentinel Mask"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/GaussSentinelTail": {
+    "value": "Altra Sentinel Tail"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sigils/1999DrippySigil": {
+    "value": "Drippy Sigil"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearFreeTigerSigil": {
+    "value": "Lunar Renewal Tiger Sigil"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearOxSigil": {
+    "value": "Lunar Renewal Ox Sigil"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas": {
+    "value": "Twin Grakatas Towsun Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/AshLeverianLiosPistol": {
+    "value": "De Nas Pistol Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/ElixisNikana": {
+    "value": "Nikana Elixis Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Weapons/Rapier/CrpRapierSkin": {
+    "value": "Rapier Tributaker Skin"
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
+    "value": "Machete Wraith"
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon": {
+    "value": "Halikar Wraith"
+  },
+  "/Lotus/StoreItems/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade": {
+    "value": "Vastilok"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
+    "value": "Prisma Dual Decurions"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
+    "value": "Starve the beast",
+    "desc": "Destroy 150 Containers"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
+    "value": "Demonstration of power",
+    "desc": "Kill 300 Enemies with Abilities"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
+    "value": "EX-EXIMUS",
+    "desc": "Kill 10 Eximus"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
+    "value": "Punish Scaldra",
+    "desc": "Kill 250 Scaldra Troops"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
+    "value": "Make it personal",
+    "desc": "Kill 300 Scaldra Troops with Melee Weapons"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
+    "value": "Purge the infection",
+    "desc": "Kill 1,000 Techrot"
+  },
+  "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
+    "value": "Volatile Motes"
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic": {
+    "value": "Tauforged Crimson Archon Shard"
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBorealMythic": {
+    "value": "Tauforged Azure Archon Shard"
+  },
+  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalNiraMythic": {
+    "value": "Tauforged Amber Archon Shard"
+  },
+  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetAItem": {
+    "value": "Gyromag Systems"
+  },
+  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem": {
+    "value": "Atmo Systems"
+  },
+  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetCItem": {
+    "value": "Repeller Systems"
+  },
+  "/Lotus/Types/Items/SyndicateDogTags/UniversalSyndicateDogTag": {
+    "value": "Universal Medallion"
+  },
+  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackA": {
+    "value": "Emergence Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackB": {
+    "value": "Chrysalith Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
+    "value": "2000 x Kuva"
+  },
+  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/ProteaDeluxeSkinBundle": {
+    "value": "Proteus Caladrius Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/TitaniaDeluxeIISkinBundle": {
+    "value": "Titania Donann Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/FormaPack": {
+    "value": "Forma 3-Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackA": {
+    "value": "3 Regal Aya"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackB": {
+    "value": "7 Regal Aya"
+  },
+  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackC": {
+    "value": "15 Regal Aya"
+  },
+  "/Lotus/Types/StoreItems/Packages/StyanaxBundle": {
+    "value": "Styanax Gallantry Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/StyanaxVoidshellSkinBundle": {
+    "value": "Styanax Voidshell Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerCommunityPack": {
+    "value": "Styanax Gallantry Collection"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerSupporterPack": {
+    "value": "Veilbreaker Warrior Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/VeilbreakerVoidshellBundle": {
+    "value": "Void Adornment Bundle II"
+  },
+  "/Lotus/Upgrades/Calendar/Armor": {
+    "value": "Thick Skin",
+    "desc": "Gain +250 Armor."
+  },
+  "/Lotus/Upgrades/Calendar/CompanionDamage": {
+    "value": "Got Your Back",
+    "desc": "Specters and companions gain +250% damage."
+  },
+  "/Lotus/Upgrades/Calendar/CompanionsBuffNearbyPlayer": {
+    "value": "More the Merrier",
+    "desc": "Non-Tenno Allies within 20m all gain +5% Melee Attack Speed and +20% Fire Rate for each one in range."
+  },
+  "/Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange": {
+    "value": "Broadened Horizons",
+    "desc": "On Energy Pickup increase ability range by 10% for 10s."
+  },
+  "/Lotus/Upgrades/Calendar/EnergyRestoration": {
+    "value": "Espresso Shots",
+    "desc": "Increase energy restoration by 2/s."
+  },
+  "/Lotus/Upgrades/Calendar/FinisherChancePerComboMultiplier": {
+    "value": "Combo Killer",
+    "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
+  },
+  "/Lotus/Upgrades/Calendar/MagazineCapacity": {
+    "value": "Heavy Mags",
+    "desc": "Increase magazine capacity by 25%"
+  },
+  "/Lotus/Upgrades/Calendar/MeleeAttackSpeed": {
+    "value": "No Quarter",
+    "desc": "+25% Melee Attack Speed."
+  },
+  "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
+    "value": "Targeted Medicine",
+    "desc": "Shoot Health Orbs to pick them up. Health orbs now have 25% chance to duplicate when picked up."
+  },
+  "/Lotus/Upgrades/Skins/Armor/SWPiercingEyeShoulderArmor/SWPiercingEyeShoulderArmor": {
+    "value": "Piercing Eye Shoulder Armor"
+  },
+  "/Lotus/Upgrades/Skins/Effects/NarmerEvolvingEphemeraA": {
+    "value": "Fog of War Ephemera"
+  },
+  "/Lotus/Upgrades/Skins/Odalisk/ProteaDeluxeSkin": {
+    "value": "Protea Caladrius Skin"
+  },
+  "/Lotus/Upgrades/Skins/Weapons/LongGuns/CorpusSpearGunSkin": {
+    "value": "Monitivus Thrown Weapon Skin"
+  },
+  "/Lotus/Weapons/Grineer/Melee/GrnSharbola/GrnSharbolaWeapon": {
+    "value": "Slaytra"
+  },
+  "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb": {
+    "value": "Aegrit"
+  },
+  "/Lotus/Weapons/Tenno/LongGuns/TnHopliteSpear/TnHopliteSpearGunWeapon": {
+    "value": "Afentis"
+  },
   "/ee/types/engine/mover": {
     "value": "Mover"
   },
@@ -758,9 +1190,6 @@
   "/lotus/language/g1quests/heatfissureseventname": {
     "value": "Thermia Fractures"
   },
-  "/Lotus/Language/G1Quests/HeatFissuresEventScore": {
-    "value": "Thermia Fractures Sealed"
-  },
   "/lotus/language/g1quests/kelaeventbonustitle": {
     "value": "Endless Rathuum"
   },
@@ -1109,9 +1538,6 @@
   },
   "/lotus/powersuits/ninja/ninja": {
     "value": "Ash"
-  },
-  "/Lotus/Powersuits/Odalisk/Odalisk": {
-    "value": "Protea"
   },
   "/lotus/powersuits/pacifist/pacifist": {
     "value": "Baruuk"
@@ -3462,9 +3888,6 @@
   "/lotus/storeitems/types/game/projections/t4voidprojectionosilver": {
     "value": "Axi C1 Relic (Exceptional)"
   },
-  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
-    "value": "Axi A2 Relic (Intact)"
-  },
   "/lotus/storeitems/types/game/projections/t4voidprojectionpgold": {
     "value": "Axi A2 Relic (Flawless)"
   },
@@ -3906,9 +4329,6 @@
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationa": {
     "value": "Mahd Luxxum Ornament"
   },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB": {
-    "value": "Akka Luxxum Ornament"
-  },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationc": {
     "value": "Zag Luxxum Ornament"
   },
@@ -3926,9 +4346,6 @@
   },
   "/lotus/storeitems/types/items/shipdecos/barokiteerdecorationh": {
     "value": "Vez Luxxum Ornament"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/BaroPlanter": {
-    "value": "Clatharc Planter"
   },
   "/lotus/storeitems/types/items/shipdecos/conclaveoroornament": {
     "value": "Oro Ornament"
@@ -3959,12 +4376,6 @@
   },
   "/lotus/storeitems/types/items/shipdecos/frostbobblehead": {
     "value": "Noggle Statue - Frost"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
-    "value": "Garv & Latrox Poster"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/GrendelOrokinDishSet": {
-    "value": "Karishh's Dinnerware"
   },
   "/lotus/storeitems/types/items/shipdecos/grineerexcavationbossbobblehead": {
     "value": "Noggle Statue - Boril"
@@ -4005,9 +4416,6 @@
   "/lotus/storeitems/types/items/shipdecos/lisetpropcleaningdronebaro": {
     "value": "Ki'teer Domestik Drone"
   },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
-    "value": "Flak Fighter Decoration"
-  },
   "/lotus/storeitems/types/items/shipdecos/lisetpropostrugbaro": {
     "value": "Tenno Kindred Rug"
   },
@@ -4035,9 +4443,6 @@
   "/lotus/storeitems/types/items/shipdecos/orbiterpictureframebaro": {
     "value": "Display - Argyle"
   },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
-    "value": "Parazon Poster"
-  },
   "/lotus/storeitems/types/items/shipdecos/pedistalprime": {
     "value": "Pedestal Prime"
   },
@@ -4056,17 +4461,8 @@
   "/lotus/storeitems/types/items/shipdecos/sarynbobblehead": {
     "value": "Noggle Statue - Saryn"
   },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster": {
-    "value": "Dog Days Protea Display"
-  },
   "/lotus/storeitems/types/items/shipdecos/tarotcardtennoconc": {
     "value": "Deimos Veolicpod Prex"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF": {
-    "value": "Deimos Jugulus Prex"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConG": {
-    "value": "Deimos Saxum Prex"
   },
   "/lotus/storeitems/types/items/shipdecos/trinitybobblehead": {
     "value": "Noggle Statue - Trinity"
@@ -4076,9 +4472,6 @@
   },
   "/lotus/storeitems/types/items/shipdecos/vaubanbobblehead": {
     "value": "Noggle Statue - Vauban"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem": {
-    "value": "Archwing Articula"
   },
   "/lotus/storeitems/types/items/shipdecos/voltbobblehead": {
     "value": "Noggle Statue - Volt"
@@ -5433,15 +5826,6 @@
   "/lotus/storeitems/types/restoratives/consumable/ancienthealerball": {
     "value": "Ancient Healer Specter"
   },
-  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
-    "value": "Stalker Beacon"
-  },
-  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitB": {
-    "value": "Zanuka Hunter Beacon"
-  },
-  "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC": {
-    "value": "Grustrag Three Beacon"
-  },
   "/lotus/storeitems/types/restoratives/consumable/barofireworkscrate": {
     "value": "10x Ki'teer Fireworks"
   },
@@ -5769,9 +6153,6 @@
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimageitemfrostprime": {
     "value": "Loki Profile Icon"
   },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageIvaraAction": {
-    "value": "Ivara In Action Glyph"
-  },
   "/lotus/storeitems/types/storeitems/avatarimages/avatarimagelowpolykavat": {
     "value": "Prisma Kavat Glyph"
   },
@@ -5828,9 +6209,6 @@
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagebansheereverbdark": {
     "value": "Banshee Reverb Profile Icon"
-  },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer": {
-    "value": "Baro Ki'teer Glyph"
   },
   "/lotus/storeitems/types/storeitems/avatarimages/imagechromaamarubright": {
     "value": "Chroma Amaru Profile Icon"
@@ -6735,9 +7113,6 @@
   "/lotus/storeitems/upgrades/mods/archwing/rifle/archwingweapontoxindamagemod": {
     "value": "Venomous Clip"
   },
-  "/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert": {
-    "value": "Primed Rubedo-Lined Barrel"
-  },
   "/lotus/storeitems/upgrades/mods/archwing/suit/archwingsuitabilitydurationmod": {
     "value": "Efficient Transferral"
   },
@@ -7479,9 +7854,6 @@
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/corruptedmaxclipreloadspeedpistol": {
     "value": "Tainted Clip"
   },
-  "/Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod": {
-    "value": "Jolt"
-  },
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/fireeventpistolmod": {
     "value": "Scorch"
   },
@@ -7500,11 +7872,11 @@
   "/lotus/storeitems/upgrades/mods/pistol/dualstat/stunningspeedmod": {
     "value": "Stunning Speed"
   },
-  "/lotus/storeitems/upgrades/mods/pistol/expert/primedweaponcritdamagemod": {
-    "value": "Primed Target Cracker"
-  },
   "/lotus/storeitems/upgrades/mods/pistol/event/ambulasevent/expert/secondaryexplosionradiusmodexpert": {
     "value": "Prime Fulmination"
+  },
+  "/lotus/storeitems/upgrades/mods/pistol/expert/primedweaponcritdamagemod": {
+    "value": "Primed Target Cracker"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponammomaxmodexpert": {
     "value": "Trick Mag"
@@ -7544,9 +7916,6 @@
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolconvertammomodexpert": {
     "value": "Primed Pistol Ammo Mutation"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert": {
-    "value": "Primed Expel Corpus"
   },
   "/lotus/storeitems/upgrades/mods/pistol/expert/weaponpistolfactiondamagecorruptedexpert": {
     "value": "Primed Expel Orokin"
@@ -8178,9 +8547,6 @@
   "/lotus/storeitems/upgrades/mods/rifle/weaponzoomfovmod": {
     "value": "Eagle Eye"
   },
-  "/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod": {
-    "value": "Primed Pack Leader"
-  },
   "/lotus/storeitems/upgrades/mods/sentinel/kubrow/kubrowclonedfinishermod": {
     "value": "Savagery"
   },
@@ -8378,9 +8744,6 @@
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponreloadspeedmodexpert": {
     "value": "Primed Tactical Pump"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert": {
-    "value": "Primed Shotgun Ammo Mutation"
   },
   "/lotus/storeitems/upgrades/mods/shotgun/expert/weaponshotgunfactiondamagecorpusexpert": {
     "value": "Primed Cleanse Corpus"
@@ -9039,24 +9402,6 @@
   "/lotus/storeitems/upgrades/skins/antimatter/unlockantimatternoble": {
     "value": "Nova Noble Animation Set"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourA": {
-    "value": "Ki'teer Shoulder Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourC": {
-    "value": "Ki'teer Chest Plate"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourL": {
-    "value": "Ki'teer Leg Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeA": {
-    "value": "Ki'Teer Greth Shoulder Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeC": {
-    "value": "Ki'Teer Greth Chest Plate"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeL": {
-    "value": "Ki'Teer Greth Leg Plates"
-  },
   "/lotus/storeitems/upgrades/skins/armor/baroarmourtwo/baroarmourtwoa": {
     "value": "Ki'teer Foros Shoulder Plates"
   },
@@ -9446,9 +9791,6 @@
   },
   "/lotus/storeitems/upgrades/skins/catbrows/armor/catbrowarmorhalloweena": {
     "value": "Wysar Day Of The Dead Kavat Armor"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA": {
-    "value": "Ki'teer Kavat Armor"
   },
   "/lotus/storeitems/upgrades/skins/clan/aggressioneventcorpusbadgeitem": {
     "value": "Gradivus: Sacrifice Emblem"
@@ -10197,9 +10539,6 @@
   "/lotus/storeitems/upgrades/skins/liset/lisetskinkotora": {
     "value": "Liset Kotara Skin"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader": {
-    "value": "Liset Prisma Skin"
-  },
   "/lotus/storeitems/upgrades/skins/loki/lokiagileanims": {
     "value": "Loki Agile Animation Set"
   },
@@ -10419,9 +10758,6 @@
   "/lotus/storeitems/upgrades/skins/nvidia/nvidiabratonskin": {
     "value": "Nvidia Braton"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
-    "value": "Ki'teer Cornu Diadem"
-  },
   "/lotus/storeitems/upgrades/skins/operator/accessories/baromouthpiecea": {
     "value": "Ki'teer Atmos Mask"
   },
@@ -10583,9 +10919,6 @@
   },
   "/lotus/storeitems/upgrades/skins/scarves/barocape": {
     "value": "Ki'teer Syandana"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf": {
-    "value": "Ki'teer Razza Synadana"
   },
   "/lotus/storeitems/upgrades/skins/scarves/brassandgoldscarf": {
     "value": "Ormolu Kyroptera Syandana"
@@ -11283,9 +11616,6 @@
   "/lotus/storeitems/upgrades/skins/summersolstice/summersolsticegorgon": {
     "value": "Gorgon Towsun Skin"
   },
-  "/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas": {
-    "value": "Twin Grakatas Towsun Skin"
-  },
   "/lotus/storeitems/upgrades/skins/tengu/tenguagileanims": {
     "value": "Zephyr Agile Animation Set"
   },
@@ -11657,9 +11987,6 @@
   },
   "/lotus/storeitems/weapons/grineer/melee/grineermachetteandcleaver/prismadualcleavers": {
     "value": "Prisma Dual Cleavers"
-  },
-  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
-    "value": "Machete Wraith"
   },
   "/lotus/storeitems/weapons/grineer/melee/grineertylaxeandboar/regoraxeshield": {
     "value": "[Placeholder]"
@@ -12366,9 +12693,21 @@
   "/lotus/types/boosterpacks/randomprojection": {
     "value": "Relic Pack"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailyafirmshake": {
+    "desc": "Shake the hand of a fellow Tenno using the Handshake Emote",
+    "value": "A Firm Handshake"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
     "desc": "Kill 15 Enemies while Aim Gliding",
     "value": "Glider"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyaugmentation": {
+    "desc": "Install an Augment Mod on your Warframe",
+    "value": "Augmentation"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailybuilderstouch": {
+    "desc": "Claim an item from your Foundry",
+    "value": "Builder's Touch"
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
     "desc": "Bullet Jump 150 times",
@@ -12402,6 +12741,10 @@
     "desc": "Complete a Mission with only a Secondary Weapon equipped",
     "value": "Sidearm"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailydeathfromabove": {
+    "desc": "Kill 10 enemies with ground slams",
+    "value": "Death from Above"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "desc": "Deploy an Air Support Charge in a Mission",
     "value": "Air It Out"
@@ -12417,6 +12760,18 @@
   "/lotus/types/challenges/seasons/daily/seasondailydonateleverian": {
     "desc": "Donate to the Leverian",
     "value": "Patron"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyfeedmemore": {
+    "desc": "Feed the Maw in Duviri",
+    "value": "Feed Me More"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyhelpinghand": {
+    "desc": "Rescue an animal in Duviri",
+    "value": "Helping Hand"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailyhijackcrewship": {
+    "desc": "Hijack a Crewship from the enemy",
+    "value": "Confiscated"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "desc": "Interact with your Kubrow or Kavat",
@@ -12502,6 +12857,14 @@
     "desc": "Clear a node influenced by a Kuva Lich or a Sister of Parvos",
     "value": "Reclaimed"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailyliquidation": {
+    "desc": "Sell any item in your Inventory for Credits",
+    "value": "Liquidation"
+  },
+  "/lotus/types/challenges/seasons/daily/seasondailymedic": {
+    "desc": "Revive a fellow Tenno or a Companion",
+    "value": "Medic"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
     "desc": "Mercy Kill an Enemy",
     "value": "No Mercy"
@@ -12546,6 +12909,10 @@
     "desc": "Activate a Requiem Obelisk on Deimos.",
     "value": "Ancient Obelisk"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailysalutations": {
+    "desc": "Visit Acrithis in Duviri",
+    "value": "Salutations"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "desc": "Kill 10 Enemies while Sliding",
     "value": "Accelerator"
@@ -12554,49 +12921,13 @@
     "desc": "Hack 8 Consoles",
     "value": "Hacker"
   },
+  "/lotus/types/challenges/seasons/daily/seasondailystayontop": {
+    "desc": "Kill 20 enemies using a Necramech while hovering",
+    "value": "Stay on Top"
+  },
   "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
     "desc": "Suspend 5 or more enemies in the air at once with a Heavy Slam Melee Attack",
     "value": "Deep Impact"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
-    "desc": "Complete 1 Mod Transmutations",
-    "value": "Everything Old is New Again"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
-    "desc": "Visit a Featured Dojo",
-    "value": "Just Visiting"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyafirmshake": {
-    "desc": "Shake the hand of a fellow Tenno using the Handshake Emote",
-    "value": "A Firm Handshake"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailytwoforone": {
-    "desc": "Pierce and kill 2 or more enemies in a single Bow shot",
-    "value": "Two For One"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailybuilderstouch": {
-    "desc": "Claim an item from your Foundry",
-    "value": "Builder's Touch"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailydeathfromabove": {
-    "desc": "Kill 10 enemies with ground slams",
-    "value": "Death from Above"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyaugmentation": {
-    "desc": "Install an Augment Mod on your Warframe",
-    "value": "Augmentation"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailytoppingoffthetank": {
-    "desc": "Successfully defend an Excavator without allowing it to run out of power",
-    "value": "Topping Off the Tank"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailyliquidation": {
-    "desc": "Sell any item in your Inventory for Credits",
-    "value": "Liquidation"
-  },
-  "/lotus/types/challenges/seasons/daily/seasondailymedic": {
-    "desc": "Revive a fellow Tenno or a Companion",
-    "value": "Medic"
   },
   "/lotus/types/challenges/seasons/daily/seasondailyswatter": {
     "desc": "Kill 3 Drones or Ospreys with your Melee Weapon",
@@ -12606,25 +12937,25 @@
     "desc": "Place 1 decoration in your Orbiter",
     "value": "The Personal Touch"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailystayontop": {
-    "desc": "Kill 20 enemies using a Necramech while hovering",
-    "value": "Stay on Top"
+  "/lotus/types/challenges/seasons/daily/seasondailytoppingoffthetank": {
+    "desc": "Successfully defend an Excavator without allowing it to run out of power",
+    "value": "Topping Off the Tank"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailyhijackcrewship": {
-    "desc": "Hijack a Crewship from the enemy",
-    "value": "Confiscated"
+  "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
+    "desc": "Complete 1 Mod Transmutations",
+    "value": "Everything Old is New Again"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailyfeedmemore": {
-    "desc": "Feed the Maw in Duviri",
-    "value": "Feed Me More"
+  "/lotus/types/challenges/seasons/daily/seasondailytwoforone": {
+    "desc": "Pierce and kill 2 or more enemies in a single Bow shot",
+    "value": "Two For One"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailyhelpinghand": {
-    "desc": "Rescue an animal in Duviri",
-    "value": "Helping Hand"
+  "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
+    "desc": "Visit a Featured Dojo",
+    "value": "Just Visiting"
   },
-  "/lotus/types/challenges/seasons/daily/seasondailysalutations": {
-    "desc": "Visit Acrithis in Duviri",
-    "value": "Salutations"
+  "/lotus/types/challenges/seasons/weekly/seasonweeklybloodthirsty": {
+    "desc": "Kill 20 enemies in 5 seconds",
+    "value": "Bloodthirsty"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
@@ -12706,6 +13037,10 @@
     "desc": "Destroy a Crewship with Forward Artillery",
     "value": "Forward Thinking"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyeternalguardian": {
+    "desc": "Complete 3 Void Armageddon missions",
+    "value": "Eternal Guardian"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyfeedhelminth": {
     "desc": "Feed the Helminth any resource",
     "value": "Feed The Beast"
@@ -12713,6 +13048,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "desc": "Gild 1 Modular Items",
     "value": "Gilded"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyhighground": {
+    "desc": "Complete 3 Void Flood missions",
+    "value": "High Ground"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyhijackcrewship": {
     "desc": "Hijack a Crewship from the enemy",
@@ -12742,6 +13081,14 @@
     "desc": "Kill a Tusk Thumper in the Plains of Eidolon",
     "value": "Tusk Thumpin"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
+    "desc": "Gain a total of 5,000 Standing across all Syndicate factions",
+    "value": "Loyalty"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklymadlab": {
+    "desc": "Plunder one of Alad V's secret laboratories on Jupiter",
+    "value": "Mad Lab"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
     "desc": "Mine 3 Rare Gems in the Plains of Eidolon",
     "value": "Earth Miner"
@@ -12750,9 +13097,373 @@
     "desc": "Mine 3 Rare Gems in the Orb Vallis",
     "value": "Venus Miner"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
+    "desc": "Collect 10 Vome or Fass Residue in the Cambion Drift",
+    "value": "Night and Day"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
     "desc": "Complete 3 different Perfect Animal Captures in Orb Vallis",
     "value": "Conservationist"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions10": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete X"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions11": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions12": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions13": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions14": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions15": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions16": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions17": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions18": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions19": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions2": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete II"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions20": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions21": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions22": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions23": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions24": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions25": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions26": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions27": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions28": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions29": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions3": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete III"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions30": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete XXX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions4": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete IV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions5": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete V"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions6": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete VI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions7": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete VII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions8": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete VIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions9": {
+    "desc": "Complete any 15 missions",
+    "value": "Mission Complete IX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies10": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot X"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies11": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies12": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies13": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies14": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies15": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies16": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies17": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies18": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies19": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies2": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot II"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies20": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies21": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies22": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies23": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies24": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies25": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies26": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies27": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies28": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies29": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies3": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot III"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies30": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot XXX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies4": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot IV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies5": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot V"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies6": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot VI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies7": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot VII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies8": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot VIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies9": {
+    "desc": "Kill 500 Enemies",
+    "value": "Not a Warning Shot IX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus10": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator X"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus11": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus12": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus13": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus14": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus15": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus16": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus17": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus18": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus19": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus2": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator II"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus20": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus21": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus22": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus23": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus24": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXIV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus25": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus26": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXVI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus27": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXVII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus28": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXVIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus29": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXIX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus3": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator III"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus30": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator XXX"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus4": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator IV"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus5": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator V"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus6": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator VI"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus7": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator VII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus8": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator VIII"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus9": {
+    "desc": "Kill 30 Eximus",
+    "value": "Eximus Eliminator IX"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
     "desc": "Pick up 8 Rare Mods",
@@ -12761,6 +13472,10 @@
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
     "desc": "Complete 3 different Bounties in the Plains of Eidolon",
     "value": "Earth Bounty Hunter"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackhijackdestroythree": {
+    "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters",
+    "value": "Friendly Fire"
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
     "desc": "Complete 3 Railjack Missions",
@@ -12778,6 +13493,14 @@
     "desc": "Complete 3 Scans for Cephalon Simaris",
     "value": "Sanctuary Researcher"
   },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklysolveciphers": {
+    "desc": "Hack 10 Consoles",
+    "value": "Hacker"
+  },
+  "/lotus/types/challenges/seasons/weekly/seasonweeklytheoldways": {
+    "desc": "Complete 1 mission with only a single pistol and a glaive equipped",
+    "value": "The Old Ways"
+  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
     "desc": "Unlock 4 Orokin Vaults",
     "value": "Vault Looter"
@@ -12794,49 +13517,21 @@
     "desc": "Complete 3 different bounties in the Orb Vallis",
     "value": "Venus Bounty Hunter"
   },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklynightandday": {
-    "desc": "Collect 10 Vome or Fass Residue in the Cambion Drift",
-    "value": "Night and Day"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyloyalty": {
-    "desc": "Gain a total of 5,000 Standing across all Syndicate factions",
-    "value": "Loyalty"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklymadlab": {
-    "desc": "Plunder one of Alad V's secret laboratories on Jupiter",
-    "value": "Mad Lab"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklybloodthirsty": {
-    "desc": "Kill 20 enemies in 5 seconds",
-    "value": "Bloodthirsty"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklytheoldways": {
-    "desc": "Complete 1 mission with only a single pistol and a glaive equipped",
-    "value": "The Old Ways"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyeternalguardian": {
-    "desc": "Complete 3 Void Armageddon missions",
-    "value": "Eternal Guardian"
-  },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyzarimanbountyhunter": {
     "desc": "Complete 4 different Bounties in the Zariman",
     "value": "Zariman Bounty Hunter"
   },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyhighground": {
-    "desc": "Complete 3 Void Flood missions",
-    "value": "High Ground"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackhijackdestroythree": {
-    "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters",
-    "value": "Friendly Fire"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklysolveciphers": {
-    "desc": "Hack 10 Consoles",
-    "value": "Hacker"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardantiquarian": {
+    "desc": "Open one of each era/tier of Relic (Lith, Meso, Neo, Axi)",
+    "value": "Antiquarian"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcollectuniqueresources": {
     "desc": "Collect 20 different types of resources.",
     "value": "Resource Scavenger"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletearchonhunt": {
+    "desc": "Complete an Archon Hunt",
+    "value": "Archon Hunter"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
     "desc": "Complete 5 Nightmare missions of any type",
@@ -12858,6 +13553,10 @@
     "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected",
     "value": "Silent Eliminator"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfallenangel": {
+    "desc": "Defeat 5 Void Angels in the Zariman",
+    "value": "Fallen Angel"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
     "desc": "Finish a Capture mission in less than 90 seconds",
     "value": "Speedster"
@@ -12869,6 +13568,10 @@
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
     "desc": "Complete a Defense mission reaching at least Wave 20",
     "value": "Defense"
+  },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
+    "desc": "Complete 3 waves of Mirror Defense",
+    "value": "Crystal Clear"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
     "desc": "Kill Profit-Taker",
@@ -12926,409 +13629,33 @@
     "desc": "Complete 8 Railjack Missions",
     "value": "Elite Explorer"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardriseofthemachine": {
+    "desc": "Kill 300 enemies using a Necramech without getting destroyed",
+    "value": "Rise of the Machine"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
     "desc": "Complete a Spy mission with 3 manual console hacks and no alarms",
     "value": "Machine Interference"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
-    "desc": "Unlock 10 Relics",
-    "value": "Unlock Relics"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardantiquarian": {
-    "desc": "Open one of each era/tier of Relic (Lith, Meso, Neo, Axi)",
-    "value": "Antiquarian"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardterminated": {
     "desc": "Destroy 3 Necramech vault guardians",
     "value": "Terminated"
   },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthepriceoffreedom": {
-    "desc": "Free one Captured Solaris using a Granum Crown",
-    "value": "The Price of Freedom"
-  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthemanymadewhole": {
     "desc": "Convert 10 Riven Slivers into a Riven Mod",
     "value": "The Many Made Whole"
   },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardriseofthemachine": {
-    "desc": "Kill 300 enemies using a Necramech without getting destroyed",
-    "value": "Rise of the Machine"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardthepriceoffreedom": {
+    "desc": "Free one Captured Solaris using a Granum Crown",
+    "value": "The Price of Freedom"
   },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfallenangel": {
-    "desc": "Defeat 5 Void Angels in the Zariman",
-    "value": "Fallen Angel"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletearchonhunt": {
-    "desc": "Complete an Archon Hunt",
-    "value": "Archon Hunter"
-  },
-  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsmirrordefense": {
-    "desc": "Complete 3 waves of Mirror Defense",
-    "value": "Crystal Clear"
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
+    "desc": "Unlock 10 Relics",
+    "value": "Unlock Relics"
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardvitalarbiter": {
     "desc": "Complete an Arbitration Mission",
     "value": "Vital Arbiter"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions2": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete II"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus2": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator II"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies2": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot II"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions3": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete III"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus3": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator III"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies3": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot III"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions4": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete IV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus4": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator IV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies4": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot IV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions5": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete V"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus5": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator V"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies5": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot V"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions6": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete VI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus6": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator VI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies6": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot VI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions7": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete VII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus7": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator VII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies7": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot VII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions8": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete VIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus8": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator VIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies8": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot VIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions9": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete IX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus9": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator IX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies9": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot IX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions10": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete X"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus10": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator X"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies10": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot X"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions11": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus11": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies11": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions12": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus12": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies12": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions13": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus13": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies13": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions14": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus14": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies14": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions15": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus15": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies15": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions16": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus16": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies16": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions17": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus17": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies17": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions18": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus18": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies18": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions19": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus19": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies19": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions20": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus20": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies20": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions21": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus21": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies21": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions22": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus22": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies22": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions23": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus23": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies23": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions24": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus24": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies24": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXIV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions25": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus25": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies25": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXV"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions26": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus26": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies26": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXVI"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions27": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus27": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies27": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXVII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions28": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus28": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies28": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXVIII"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions29": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus29": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies29": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXIX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentcompletemissions30": {
-    "desc": "Complete any 15 missions",
-    "value": "Mission Complete XXX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkilleximus30": {
-    "desc": "Kill 30 Eximus",
-    "value": "Eximus Eliminator XXX"
-  },
-  "/lotus/types/challenges/seasons/weekly/seasonweeklypermanentkillenemies30": {
-    "desc": "Kill 500 Enemies",
-    "value": "Not a Warning Shot XXX"
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
@@ -14461,11 +14788,11 @@
   "/lotus/types/gameplay/infestedmicroplanet/resources/necraloids/necraloidstandingcommonitem": {
     "value": "Orokin Orientation Matrix"
   },
-  "/lotus/types/gameplay/infestedmicroplanet/resources/necraloids/necraloidstandinguncommonitem": {
-    "value": "Orokin Ballistics Matrix"
-  },
   "/lotus/types/gameplay/infestedmicroplanet/resources/necraloids/necraloidstandingrareitem": {
     "value": "Orokin Animus Matrix"
+  },
+  "/lotus/types/gameplay/infestedmicroplanet/resources/necraloids/necraloidstandinguncommonitem": {
+    "value": "Orokin Ballistics Matrix"
   },
   "/lotus/types/gameplay/venus/jobs/narmer/narmervenusculljobassassinate": {
     "value": "Master's Voice (Narmer)"
@@ -16063,14 +16390,14 @@
   "/lotus/types/storeitems/packages/crpindextwoitempack": {
     "value": "Quaro Collection"
   },
+  "/lotus/types/storeitems/packages/defenseeventpack": {
+    "value": "Weekend Event Dethcube Deal"
+  },
   "/lotus/types/storeitems/packages/deimositemsbundle": {
     "value": "Deimos Infested Bundle"
   },
   "/lotus/types/storeitems/packages/deimossupporterpack3storeitem": {
     "value": "Deimos Swarm Supporter Pack"
-  },
-  "/lotus/types/storeitems/packages/defenseeventpack": {
-    "value": "Weekend Event Dethcube Deal"
   },
   "/lotus/types/storeitems/packages/deluxebundles/zephyrdeluxeskinbundle": {
     "value": "Zephyr Harrier Collection"
@@ -16081,14 +16408,14 @@
   "/lotus/types/storeitems/packages/demolitionarchwingbundle": {
     "value": "Elytron Ultimatum Bundle"
   },
+  "/lotus/types/storeitems/packages/discordprimeaccesstier3storeitem": {
+    "value": "Discord Prime Access Complete Bundle"
+  },
   "/lotus/types/storeitems/packages/djinndeluxearmorpack": {
     "value": "Gazal Armor Pack"
   },
   "/lotus/types/storeitems/packages/djinndeluxecompletebundle": {
     "value": "Gazal Complete Collection"
-  },
-  "/lotus/types/storeitems/packages/discordprimeaccesstier3storeitem": {
-    "value": "Discord Prime Access Complete Bundle"
   },
   "/lotus/types/storeitems/packages/domestikdronesbundle": {
     "value": "Domestik Drones Bundle"
@@ -18532,74 +18859,92 @@
   "/lotus/weapons/voidtrader/vtdetron": {
     "value": "Mara Detron"
   },
-  "primevaulttrader": {
-    "value": "Varzia Dax"
+  "AbilityLockout": {
+    "value": "Powerless",
+    "desc": "All Abilities are disabled until the squad kills 50 enemies."
   },
-  "projectindex": {
-    "value": "Index Points"
+  "AcceleratedEnemies": {
+    "value": "Bold Venture",
+    "desc": "Enemies deal -15% Damage and take +15% Damage but gain +15% Movement Speed, Attack Speed, and Fire Rate."
+  },
+  "AntiMaterialWeapons": {
+    "value": "Commanding Culverins",
+    "desc": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
   },
   "ArbitersSyndicate": {
     "value": "Arbiters of Hexis"
   },
+  "AssassinsSyndicate": {
+    "value": "Assassins"
+  },
   "CephalonSudaSyndicate": {
     "value": "Cephalon Suda"
-  },
-  "NewLokaSyndicate": {
-    "value": "New Loka"
-  },
-  "PerrinSyndicate": {
-    "value": "Perrin Sequence"
-  },
-  "SteelMeridianSyndicate": {
-    "value": "Steel Meridian"
-  },
-  "RedVeilSyndicate": {
-    "value": "Red Veil"
   },
   "CetusSyndicate": {
     "value": "Ostrons"
   },
-  "QuillsSyndicate": {
-    "value": "Quills"
-  },
-  "AssassinsSyndicate": {
-    "value": "Assassins"
-  },
-  "EventSyndicate": {
-    "value": "Operations Syndicate"
-  },
-  "SolarisSyndicate": {
-    "value": "Solaris United"
-  },
-  "VoxSyndicate": {
-    "value": "Vox Solaris"
-  },
-  "VentKidsSyndicate": {
-    "value": "Vent Kids"
+  "Deflectors": {
+    "value": "Fortified Foes",
+    "desc": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
   },
   "EntratiSyndicate": {
     "value": "Entrati"
   },
-  "NecraloidSyndicate": {
-    "value": "Necraloid"
+  "EventSyndicate": {
+    "value": "Operations Syndicate"
+  },
+  "FragileNodes": {
+    "value": "Unified Purpose",
+    "desc": "Enemies can target and destry Conduits."
+  },
+  "Framecurse": {
+    "value": "Framecurse syndrome",
+    "desc": "Activating an Ability inflicts 50 damage upon you."
+  },
+  "GrowingIncursion": {
+    "value": "Fissure Cascade",
+    "desc": "Fissures rip into the mission, causing the Enemy Level to go up by 1 every 10s. Destroy them to stop the level from increasing further."
+  },
+  "InfiniteTide": {
+    "value": "Relentless Tide",
+    "desc": "The Fragmented Tide never stops attacking."
   },
   "KahlSyndicate": {
     "value": "Kahl's Garrison"
   },
-  "ZarimanSyndicate": {
-    "value": "The Holdfasts"
+  "Knifestep": {
+    "value": "Knifestep Syndrome",
+    "desc": "Lose 2 Health when moving. Jumping pauses the effect."
   },
-  "RadioLegionSyndicate": {
-    "value": "The Wolf of Saturn Six"
+  "LostInTranslation": {
+    "value": "Glyph Inflation",
+    "desc": "The security system requires twice as many Vosphene Glyphs to activate."
+  },
+  "NecraloidSyndicate": {
+    "value": "Necraloid"
+  },
+  "NewLokaSyndicate": {
+    "value": "New Loka"
+  },
+  "OperatorLockout": {
+    "value": "Transference Distortion",
+    "desc": "Transference into Operator and Drifter is blocked."
+  },
+  "PerrinSyndicate": {
+    "value": "Perrin Sequence"
+  },
+  "PointBlank": {
+    "value": "Myopic Munitions",
+    "desc": "Enemies will only take damage if a player is within 15m of them."
+  },
+  "QuillsSyndicate": {
+    "value": "Quills"
   },
   "RadioLegion2Syndicate": {
     "value": "The Emissary"
   },
   "RadioLegion3Syndicate": {
     "value": "Glassmaker"
-  },
-  "RadioLegionIntermissionSyndicate": {
-    "value": "Intermission"
   },
   "RadioLegionIntermission2Syndicate": {
     "value": "Intermission II"
@@ -18616,345 +18961,54 @@
   "RadioLegionIntermission6Syndicate": {
     "value": "Nora's Mix Volume 2"
   },
-  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/TitaniaDeluxeIISkinBundle": {
-    "value": "Titania Donann Collection"
+  "RadioLegionIntermissionSyndicate": {
+    "value": "Intermission"
   },
-  "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb": {
-    "value": "Aegrit"
+  "RadioLegionSyndicate": {
+    "value": "The Wolf of Saturn Six"
   },
-  "/Lotus/Types/StoreItems/Packages/VeilbreakerVoidshellBundle": {
-    "value": "Void Adornment Bundle II"
-  },
-  "/Lotus/Upgrades/Skins/Armor/SWPiercingEyeShoulderArmor/SWPiercingEyeShoulderArmor": {
-    "value": "Piercing Eye Shoulder Armor"
-  },
-  "/Lotus/Upgrades/Skins/Odalisk/ProteaDeluxeSkin": {
-    "value": "Protea Caladrius Skin"
-  },
-  "/Lotus/Types/StoreItems/Packages/DeluxeBundles/ProteaDeluxeSkinBundle": {
-    "value": "Proteus Caladrius Collection"
-  },
-  "/Lotus/Upgrades/Skins/Effects/NarmerEvolvingEphemeraA": {
-    "value": "Fog of War Ephemera"
-  },
-  "/Lotus/Types/StoreItems/Packages/StyanaxVoidshellSkinBundle": {
-    "value": "Styanax Voidshell Collection"
-  },
-  "/Lotus/Upgrades/Skins/Weapons/LongGuns/CorpusSpearGunSkin": {
-    "value": "Monitivus Thrown Weapon Skin"
-  },
-  "/Lotus/Types/StoreItems/Packages/FormaPack": {
-    "value": "Forma 3-Pack"
-  },
-  "/Lotus/Weapons/Tenno/LongGuns/TnHopliteSpear/TnHopliteSpearGunWeapon": {
-    "value": "Afentis"
-  },
-  "/Lotus/Types/StoreItems/Packages/VeilbreakerCommunityPack": {
-    "value": "Styanax Gallantry Collection"
-  },
-  "/Lotus/Types/StoreItems/Packages/StyanaxBundle": {
-    "value": "Styanax Gallantry Collection"
-  },
-  "/Lotus/Types/StoreItems/Packages/VeilbreakerSupporterPack": {
-    "value": "Veilbreaker Warrior Pack"
-  },
-  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackB": {
-    "value": "Chrysalith Pack"
-  },
-  "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackA": {
-    "value": "Emergence Pack"
-  },
-  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackC": {
-    "value": "15 Regal Aya"
-  },
-  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackB": {
-    "value": "7 Regal Aya"
-  },
-  "/Lotus/Types/StoreItems/Packages/PrimeTokenPackA": {
-    "value": "3 Regal Aya"
-  },
-  "/Lotus/Weapons/Grineer/Melee/GrnSharbola/GrnSharbolaWeapon": {
-    "value": "Slaytra"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
-    "value": "Fae Path Ephemera"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm": {
-    "value": "Reshantur Cult Spear Skin"
-  },
-  "/Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon": {
-    "value": "Halikar Wraith"
-  },
-  "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
-    "value": "Prisma Dual Decurions"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/DomsFinalDrink": {
-    "value": "Aged Claret of Denas"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GaussSentinelMask": {
-    "value": "Altra Sentinel Mask"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod": {
-    "value": "Primed Convulsion"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
-    "value": "Combo Fury"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/UmbraPedestal": {
-    "value": "Umbra Pedestal"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorA": {
-    "value": "Tannukai Shoulder Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorC": {
-    "value": "Tannukai Chest Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorL": {
-    "value": "Tannukai Leg Plates"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/AshLeverianLiosPistol": {
-    "value": "De Nas Pistol Skin"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodDuviriOperator": {
-    "value": "The Stranger's Hood (Operator)"
-  },
-  "/Lotus/StoreItems/Types/Game/QuartersWallpapers/LavosAlchemistWallpaper": {
-    "value": "Javi's Scrawling"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Scarves/SolsticeBaroCape": {
-    "value": "Wintercress Syandana"
-  },
-  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetAItem": {
-    "value": "Gyromag Systems"
-  },
-  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem": {
-    "value": "Atmo Systems"
-  },
-  "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetCItem": {
-    "value": "Repeller Systems"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConI": {
-    "value": "Xaku Prex"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/BekranZaftBucketBroom": {
-    "value": "Bekran Zaft's Equipment"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitNovaEngineer": {
-    "value": "Masker's Theodolite Crewsuit"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodNovaEngineer": {
-    "value": "Masker's Theodolite Crewsuit Hood"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesNovaEngineer": {
-    "value": "Masker's Theodolite Crewsuit Sleeves"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsNovaEngineer": {
-    "value": "Masker's Theodolite Crewsuit Leggings"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/ElixisNikana": {
-    "value": "Nikana Elixis Skin"
-  },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageTeshinVed": {
-    "value": "Teshin Glyph"
-  },
-  "/Lotus/StoreItems/Upgrades/Skins/Weapons/Rapier/CrpRapierSkin": {
-    "value": "Rapier Tributaker Skin"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert": {
-    "value": "Primed Redirection"
-  },
-  "/Lotus/Language/JadeShadows/JadeShadowsEventName": {
-    "value": "Operation: Belly of the Beast"
-  },
-  "/Lotus/Language/JadeShadows/JadeShadowsShortEventDesc": {
-    "value": "Stop Parvos Granum! Collect Volatile Motes from Operation Ascension missions on Brutus (Uranus) and special Operation Alerts.\nVisit Ordis on Larunda Relay (Mercury) to claim rewards."
-  },
-  "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
-    "value": "Volatile Motes"
-  },
-  "/Lotus/Language/JadeShadows/JadeShadowsEventScore": {
-    "value": "Volatile Motes Collection Progress"
-  },
-  "OperatorLockout": {
-    "value": "Transference Distortion",
-    "desc": "Transference into Operator and Drifter is blocked."
-  },
-  "AbilityLockout": {
-    "value": "Powerless",
-    "desc": "All Abilities are disabled until the squad kills 50 enemies."
-  },
-  "TimeDilation": {
-    "value": "Abbreviated Abilities",
-    "desc": "Ability durations reduced by 50%."
-  },
-  "Framecurse": {
-    "value": "Framecurse syndrome",
-    "desc": "Activating an Ability inflicts 50 damage upon you."
-  },
-  "FragileNodes": {
-    "value": "Unified Purpose",
-    "desc": "Enemies can target and destry Conduits."
-  },
-  "LostInTranslation": {
-    "value": "Glyph Inflation",
-    "desc": "The security system requires twice as many Vosphene Glyphs to activate."
-  },
-  "InfiniteTide": {
-    "value": "Relentless Tide",
-    "desc": "The Fragmented Tide never stops attacking."
-  },
-  "AntiMaterialWeapons": {
-    "value": "Commanding Culverins",
-    "desc": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
-  },
-  "AcceleratedEnemies": {
-    "value": "Bold Venture",
-    "desc": "Enemies deal -15% Damage and take +15% Damage but gain +15% Movement Speed, Attack Speed, and Fire Rate."
-  },
-  "Deflectors": {
-    "value": "Fortified Foes",
-    "desc": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
-  },
-  "PointBlank": {
-    "value": "Myopic Munitions",
-    "desc": "Enemies will only take damage if a player is within 15m of them."
-  },
-  "ShieldedFoes": {
-    "value": "Bolstered Belligerents",
-    "desc": "All enemies have Overguard equal to 50% of their max health."
-  },
-  "Voidburst": {
-    "value": "Postmortal Surges",
-    "desc": "Slain enemies burts with Void energy."
-  },
-  "ShieldDelay": {
-    "value": "Lethargic Shields",
-    "desc": "Shield recharge delay increased 500%."
-  },
-  "Knifestep": {
-    "value": "Knifestep Syndrome",
-    "desc": "Lose 2 Health when moving. Jumping pauses the effect."
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC": {
-    "value": "Conquera Kuaka Floof"
-  },
-  "GrowingIncursion": {
-    "value": "Fissure Cascade",
-    "desc": "Fissures rip into the mission, causing the Enemy Level to go up by 1 every 10s. Destroy them to stop the level from increasing further."
+  "RedVeilSyndicate": {
+    "value": "Red Veil"
   },
   "RegeneratingEnemies": {
     "value": "Hostile Regeneration",
     "desc": "Enemy health slowly regenerates."
   },
-  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBorealMythic": {
-    "value": "Tauforged Azure Archon Shard"
+  "ShieldDelay": {
+    "value": "Lethargic Shields",
+    "desc": "Shield recharge delay increased 500%."
   },
-  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalNiraMythic": {
-    "value": "Tauforged Amber Archon Shard"
+  "ShieldedFoes": {
+    "value": "Bolstered Belligerents",
+    "desc": "All enemies have Overguard equal to 50% of their max health."
   },
-  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic": {
-    "value": "Tauforged Crimson Archon Shard"
+  "SolarisSyndicate": {
+    "value": "Solaris United"
   },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
-    "value": "EX-EXIMUS",
-    "desc": "Kill 10 Eximus"
+  "SteelMeridianSyndicate": {
+    "value": "Steel Meridian"
   },
-  "/Lotus/Upgrades/Calendar/MagazineCapacity": {
-    "value": "Heavy Mags",
-    "desc": "Increase magazine capacity by 25%"
+  "TimeDilation": {
+    "value": "Abbreviated Abilities",
+    "desc": "Ability durations reduced by 50%."
   },
-  "/Lotus/Upgrades/Calendar/Armor": {
-    "value": "Thick Skin",
-    "desc": "Gain +250 Armor."
+  "VentKidsSyndicate": {
+    "value": "Vent Kids"
   },
-  "/Lotus/Upgrades/Calendar/EnergyRestoration": {
-    "value": "Espresso Shots",
-    "desc": "Increase energy restoration by 2/s."
+  "Voidburst": {
+    "value": "Postmortal Surges",
+    "desc": "Slain enemies burts with Void energy."
   },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
-    "value": "Punish Scaldra",
-    "desc": "Kill 250 Scaldra Troops"
+  "VoxSyndicate": {
+    "value": "Vox Solaris"
   },
-  "/Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack": {
-    "value": "Arcane Enhancements: Double Pack"
+  "ZarimanSyndicate": {
+    "value": "The Holdfasts"
   },
-  "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
-    "value": "Emerald Archon Shard"
+  "primevaulttrader": {
+    "value": "Varzia Dax"
   },
-  "/Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint": {
-    "value": "Exilus Weapon Adapter Blueprint"
-  },
-  "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
-    "value": "2000 x Kuva"
-  },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
-    "value": "Demonstration of power",
-    "desc": "Kill 300 Enemies with Abilities"
-  },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
-    "value": "Make it personal",
-    "desc": "Kill 300 Scaldra Troops with Melee Weapons"
-  },
-  "/Lotus/Upgrades/Calendar/CompanionsBuffNearbyPlayer": {
-    "value": "More the Merrier",
-    "desc": "Non-Tenno Allies within 20m all gain +5% Melee Attack Speed and +20% Fire Rate for each one in range."
-  },
-  "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
-    "value": "Targeted Medicine",
-    "desc": "Shoot Health Orbs to pick them up. Health orbs now have 25% chance to duplicate when picked up."
-  },
-  "/Lotus/Upgrades/Calendar/FinisherChancePerComboMultiplier": {
-    "value": "Combo Killer",
-    "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
-  },
-  "/Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack": {
-    "value": "Arcane Enhancements"
-  },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
-    "value": "Purge the infection",
-    "desc": "Kill 1,000 Techrot"
-  },
-  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
-    "value": "Secondary Arcane Adapter"
-  },
-  "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/CircuitSilverSteelPathFusionBundle": {
-    "value": "6,000 Endo"
-  },
-  "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
-    "value": "Starve the beast",
-    "desc": "Destroy 150 Containers"
-  },
-  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker": {
-    "value": "Exilus Weapon Adapter"
-  },
-  "/Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange": {
-    "value": "Broadened Horizons",
-    "desc": "On Energy Pickup increase ability range by 10% for 10s."
-  },
-  "/Lotus/Upgrades/Calendar/MeleeAttackSpeed": {
-    "value": "No Quarter",
-    "desc": "+25% Melee Attack Speed."
-  },
-  "/Lotus/Upgrades/Calendar/CompanionDamage": {
-    "value": "Got Your Back",
-    "desc": "Specters and companions gain +250% damage."
-  },
-  "/Lotus/StoreItems/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade": {
-    "value": "Vastilok"
-  },
-  "/Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama": {
-    "value": "Empyrean Vignette"
-  },
-  "/Lotus/StoreItems/Types/Items/ShipDecos/Leverian/IvaraLeverianPovisRecordsDecoration": {
-    "value": "Secret History Replica"
-  },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle": {
-    "value": "Baruuk Doan Silhouette Glyph"
-  },
-  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA": {
-    "value": "Giving Snake Glyph"
-  },
-  "/Lotus/StoreItems/Powersuits/Trapper/TrapperPrime": {
-    "value": "Vauban Prime"
+  "projectindex": {
+    "value": "Index Points"
   }
 }
