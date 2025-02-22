@@ -29,6 +29,9 @@
   "/Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama": {
     "value": "Empyrean Vignette"
   },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze": {
+    "value": "Axi M5 Relic"
+  },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
     "value": "Axi A2 Relic (Intact)"
   },
@@ -65,6 +68,12 @@
   "/Lotus/StoreItems/Types/Items/ShipDecos/Leverian/IvaraLeverianPovisRecordsDecoration": {
     "value": "Secret History Replica"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCleaningDroneDuviri": {
+    "value": "Domestik Dais Drone"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCorpusBasilisk": {
+    "value": "Basilisk Fighter Decoration"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
     "value": "Flak Fighter Decoration"
   },
@@ -86,11 +95,17 @@
   "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConI": {
     "value": "Xaku Prex 卡牌"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConJ": {
+    "value": "Deimos Kymaeros Prex"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/UmbraPedestal": {
     "value": "Umbra Pedestal"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem": {
     "value": "曲翼可动式模型"
+  },
+  "/Lotus/StoreItems/Types/Items/SongItems/LotusEatersSongItem": {
+    "value": "The Lotus Eaters Login Music"
   },
   "/Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint": {
     "value": "Exilus Weapon Adapter Blueprint"
@@ -118,6 +133,9 @@
   },
   "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA": {
     "value": "Giving Snake Glyph"
+  },
+  "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Peculiars/EvilSpiritMod": {
+    "value": "Peculiar Audience"
   },
   "/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert": {
     "value": "Primed Rubedo-Lined Barrel"
@@ -176,8 +194,23 @@
   "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA": {
     "value": "Ki'teer Kavat Armor"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/CNY2022EmblemItem": {
+    "value": "Lunar Renewal Tiger Emblem"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/CNY2023EmblemItem": {
+    "value": "Lunar Renewal Rabbit Emblem"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/CNY2025SnakeEmblem": {
+    "value": "Lunar Renewal Snake Emblem"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/Dragon2024BadgeItem": {
+    "value": "Lunar Renewal Dragon Emblem"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
     "value": "仙子之径幻纹"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Infestation/NidusAlternateSkin": {
+    "value": "Nidus Immortal Skin"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm": {
     "value": "Reshantur Cult Spear Skin"
@@ -206,11 +239,26 @@
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf": {
     "value": "Ki'teer 类种披饰"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/NezhaLeverianCape": {
+    "value": "Reshantur Cult Syandana"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/SolsticeBaroCape": {
     "value": "Wintercress Syandana"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GaussSentinelMask": {
     "value": "Altra Sentinel Mask"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/GaussSentinelTail": {
+    "value": "Altra Sentinel Tail"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sigils/1999DrippySigil": {
+    "value": "Drippy Sigil"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearFreeTigerSigil": {
+    "value": "Lunar Renewal Tiger Sigil"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearOxSigil": {
+    "value": "Lunar Renewal Ox Sigil"
   },
   "/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas": {
     "value": "Twin Grakatas Towsun Skin"
@@ -280,6 +328,9 @@
   },
   "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetCItem": {
     "value": "斥极系统"
+  },
+  "/Lotus/Types/Items/SyndicateDogTags/UniversalSyndicateDogTag": {
+    "value": "Universal Medallion"
   },
   "/Lotus/Types/StoreItems/Packages/AOTZSupporterPackA": {
     "value": "Emergence Pack"
