@@ -296,7 +296,7 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesHard": {
     "value": "Demonstration of power",
-    "description": "Kill 500 Enemies with Abilities"
+    "desc": "Kill 500 Enemies with Abilities"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
     "value": "Demonstration of power",
@@ -308,7 +308,7 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusHard": {
     "value": "EX-EXIMUS",
-    "description": "Kill 30 Eximus"
+    "desc": "Kill 30 Eximus"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
     "value": "Punish Scaldra",
@@ -316,11 +316,11 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesMedium": {
     "value": "Punish Scaldra",
-    "description": "Kill 350 Scaldra Troops"
+    "desc": "Kill 350 Scaldra Troops"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesEasy": {
     "value": "Shock and Awe",
-    "description": "Kill 75 Scaldra Troops with Abilities"
+    "desc": "Kill 75 Scaldra Troops with Abilities"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
     "value": "Make it personal",
@@ -328,7 +328,7 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesEasy": {
     "value": "Purge the infection",
-    "description": "Kill 250 Techrot"
+    "desc": "Kill 250 Techrot"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
     "value": "Purge the infection",
@@ -336,7 +336,7 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeMedium": {
     "value": "Electronic waste Disposal",
-    "description": "Kill 200 Techrot with Melee Weapons"
+    "desc": "Kill 200 Techrot with Melee Weapons"
   },
   "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
     "value": "Volatile Motes"
@@ -409,7 +409,7 @@
   },
   "/Lotus/Upgrades/Calendar/AbilityStrength": {
     "value": "Power Gains",
-    "description": "Increase Ability Strength +25%.\n+25% Ability Strength"
+    "desc": "Increase Ability Strength +25%.\n+25% Ability Strength"
   },
   "/Lotus/Upgrades/Calendar/Armor": {
     "value": "Thick Skin",
@@ -437,11 +437,11 @@
   },
   "/Lotus/Upgrades/Calendar/GasChanceToPrimaryAndSecondary": {
     "value": "Toxic Shot",
-    "description": "Add 25% Gas Status Chance to Primary and Secondary weapons."
+    "desc": "Add 25% Gas Status Chance to Primary and Secondary weapons."
   },
   "/Lotus/Upgrades/Calendar/HealingEffects": {
     "value": "Emergency Medicine",
-    "description": "All restoration effects provided by Orb pickups increased by 25%."
+    "desc": "All restoration effects provided by Orb pickups increased by 25%."
   },
   "/Lotus/Upgrades/Calendar/MagazineCapacity": {
     "value": "Heavy Mags",
@@ -453,7 +453,7 @@
   },
   "/Lotus/Upgrades/Calendar/MeleeCritChance": {
     "value": "Practiced Precision",
-    "description": "+20% Melee Critical Chance (x2 for Heavy Attacks)."
+    "desc": "+20% Melee Critical Chance (x2 for Heavy Attacks)."
   },
   "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
     "value": "Targeted Medicine",
@@ -461,7 +461,7 @@
   },
   "/Lotus/Upgrades/Calendar/RefundBulletOnStatusProc": {
     "value": "Free Shot",
-    "description": "Triggering a status proc has a 10% chance to reload the triggering bullet into the clip."
+    "desc": "Triggering a status proc has a 10% chance to reload the triggering bullet into the clip."
   },
   "/Lotus/Upgrades/Skins/Armor/SWPiercingEyeShoulderArmor/SWPiercingEyeShoulderArmor": {
     "value": "Piercing Eye Shoulder Armor"
