@@ -47,6 +47,9 @@
   "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
     "value": "Emerald Archon Shard"
   },
+  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponMeleeArcaneUnlocker": {
+    "value": "Melee Arcane Adapter"
+  },
   "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
     "value": "Adaptateur D'Arcane Secondaire"
   },
@@ -294,6 +297,9 @@
     "value": "Starve the beast",
     "desc": "Destroy 150 Containers"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium": {
+    "value": "Kill 500 Enemies"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesHard": {
     "value": "Demonstration of power",
     "desc": "Kill 500 Enemies with Abilities"
@@ -322,6 +328,13 @@
     "value": "Shock and Awe",
     "desc": "Kill 75 Scaldra Troops with Abilities"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesHard": {
+    "value": "Shock and Awe",
+    "desc": "Kill 250 Scaldra Troops with Abilities"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeEasy": {
+    "value": "Kill 75 Scaldra Troops with Melee Weapons"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
     "value": "Make it personal",
     "desc": "Kill 300 Scaldra Troops with Melee Weapons"
@@ -333,6 +346,13 @@
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
     "value": "Purge the infection",
     "desc": "Kill 1,000 Techrot"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesMedium": {
+    "value": "Purge the infection",
+    "desc": "Kill 500 Techrot"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesMedium": {
+    "value": "Kill 200 Techrot with Abilities"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeMedium": {
     "value": "Electronic waste Disposal",
@@ -373,6 +393,9 @@
   },
   "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
     "value": "2000 x Kuva"
+  },
+  "/Lotus/Types/StoreItems/Packages/Calendar/CalendarVosforPack": {
+    "value": "Vosfor Cache"
   },
   "/Lotus/Types/StoreItems/Packages/DeluxeBundles/ProteaDeluxeSkinBundle": {
     "value": "Proteus Caladrius Collection"
@@ -431,6 +454,10 @@
     "value": "Espresso Shots",
     "desc": "Increase energy restoration by 2/s."
   },
+  "/Lotus/Upgrades/Calendar/EnergyWavesOnCombo": {
+    "value": "Combo Wave",
+    "desc": "Upon gaining 7x combo multiplier all melee attacks fire off waves of energy."
+  },
   "/Lotus/Upgrades/Calendar/FinisherChancePerComboMultiplier": {
     "value": "Combo Killer",
     "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
@@ -438,6 +465,10 @@
   "/Lotus/Upgrades/Calendar/GasChanceToPrimaryAndSecondary": {
     "value": "Toxic Shot",
     "desc": "Add 25% Gas Status Chance to Primary and Secondary weapons."
+  },
+  "/Lotus/Upgrades/Calendar/GuidingMissilesChance": {
+    "value": "Tickshots",
+    "desc": "Shots gain a 10% chance to fire a seeking projectile for each successful hit. Firing weapons reduces the chance by 5%."
   },
   "/Lotus/Upgrades/Calendar/HealingEffects": {
     "value": "Emergency Medicine",
@@ -458,6 +489,14 @@
   "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
     "value": "Targeted Medicine",
     "desc": "Shoot Health Orbs to pick them up. Health orbs now have 25% chance to duplicate when picked up."
+  },
+  "/Lotus/Upgrades/Calendar/PowerStrengthAndEfficiencyPerEnergySpent": {
+    "value": "Overpower",
+    "desc": "Casting abilities increases ability strength by 2% and efficiency by -1% per unit of energy used by ability, for 5s."
+  },
+  "/Lotus/Upgrades/Calendar/RadiationProcOnTakeDamage": {
+    "value": "Psionic Feedback",
+    "desc": "On Damaged 10% chance to set off a 250 damage, 5m radius blast of radiation on taking damage."
   },
   "/Lotus/Upgrades/Calendar/RefundBulletOnStatusProc": {
     "value": "Free Shot",

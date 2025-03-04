@@ -1,18 +1,18 @@
 {
   "/Lotus/Language/Events/ValentinesFortunaName": {
-    "value": "Star Days"
+    "value": "星日"
   },
   "/Lotus/Language/G1Quests/HeatFissuresEventScore": {
-    "value": "Thermia Fractures Sealed"
+    "value": "已封印热美亚裂缝"
   },
   "/Lotus/Language/JadeShadows/JadeShadowsEventName": {
-    "value": "Operation: Belly of the Beast"
+    "value": "行动代号：兽之腹"
   },
   "/Lotus/Language/JadeShadows/JadeShadowsEventScore": {
-    "value": "Volatile Motes Collection Progress"
+    "value": "不稳定微粒收集进度"
   },
   "/Lotus/Language/JadeShadows/JadeShadowsShortEventDesc": {
-    "value": "Stop Parvos Granum! Collect Volatile Motes from Operation Ascension missions on Brutus (Uranus) and special Operation Alerts.\nVisit Ordis on Larunda Relay (Mercury) to claim rewards."
+    "value": "阻止帕尔沃斯•格拉努！从位于（布鲁图斯）天王星上的的扬升任务和特殊战术警报中收集不稳定微粒。造访Larunda中继站（水星）的Ordis来领取奖励。"
   },
   "/Lotus/Powersuits/Odalisk/Odalisk": {
     "value": "Protea"
@@ -21,37 +21,40 @@
     "value": "Vauban Prime"
   },
   "/Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack": {
-    "value": "Arcane Enhancements"
+    "value": "赋能强化"
   },
   "/Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack": {
-    "value": "Arcane Enhancements: Double Pack"
+    "value": "赋能强化：双重组合包"
   },
   "/Lotus/StoreItems/Types/BoosterPacks/CalendarRivenPack": {
-    "value": "Riven"
+    "value": "裂罅"
   },
   "/Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama": {
     "value": "Empyrean Vignette"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze": {
-    "value": "Axi M5 Relic"
+    "value": "后纪 M5 遗物"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
-    "value": "Axi A2 Relic (Intact)"
+    "value": "后纪 A2 遗物 (完整)"
   },
   "/Lotus/StoreItems/Types/Game/QuartersWallpapers/LavosAlchemistWallpaper": {
     "value": "Javi's Scrawling"
   },
   "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalAmar": {
-    "value": "Crimson Archon Shard"
+    "value": "执刑官源力石"
   },
   "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
-    "value": "Emerald Archon Shard"
+    "value": "翡翠执刑官源力石"
+  },
+  "/Lotus/StoreItems/Types/Items/MiscItems/WeaponMeleeArcaneUnlocker": {
+    "value": "近战赋能连接器"
   },
   "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
     "value": "次要武器赋能槽连接器"
   },
   "/Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker": {
-    "value": "Exilus Weapon Adapter"
+    "value": "武器特殊功能槽连接器"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB": {
     "value": "Akka Luxxum Ornament"
@@ -294,6 +297,9 @@
     "value": "Starve the beast",
     "desc": "Destroy 150 Containers"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium": {
+    "value": "击杀500名敌人"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesHard": {
     "value": "Demonstration of power",
     "desc": "Kill 500 Enemies with Abilities"
@@ -322,6 +328,13 @@
     "value": "Shock and Awe",
     "desc": "Kill 75 Scaldra Troops with Abilities"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesHard": {
+    "value": "Shock and Awe",
+    "desc": "Kill 250 Scaldra Troops with Abilities"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeEasy": {
+    "value": "Kill 75 Scaldra Troops with Melee Weapons"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
     "value": "Make it personal",
     "desc": "Kill 300 Scaldra Troops with Melee Weapons"
@@ -333,6 +346,13 @@
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
     "value": "Purge the infection",
     "desc": "Kill 1,000 Techrot"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesMedium": {
+    "value": "Purge the infection",
+    "desc": "Kill 500 Techrot"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesMedium": {
+    "value": "Kill 200 Techrot with Abilities"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeMedium": {
     "value": "Electronic waste Disposal",
@@ -373,6 +393,9 @@
   },
   "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
     "value": "2000 x Kuva"
+  },
+  "/Lotus/Types/StoreItems/Packages/Calendar/CalendarVosforPack": {
+    "value": "Vosfor Cache"
   },
   "/Lotus/Types/StoreItems/Packages/DeluxeBundles/ProteaDeluxeSkinBundle": {
     "value": "Proteus Caladrius Collection"
@@ -431,6 +454,10 @@
     "value": "Espresso Shots",
     "desc": "Increase energy restoration by 2/s."
   },
+  "/Lotus/Upgrades/Calendar/EnergyWavesOnCombo": {
+    "value": "Combo Wave",
+    "desc": "Upon gaining 7x combo multiplier all melee attacks fire off waves of energy."
+  },
   "/Lotus/Upgrades/Calendar/FinisherChancePerComboMultiplier": {
     "value": "Combo Killer",
     "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
@@ -438,6 +465,10 @@
   "/Lotus/Upgrades/Calendar/GasChanceToPrimaryAndSecondary": {
     "value": "Toxic Shot",
     "desc": "Add 25% Gas Status Chance to Primary and Secondary weapons."
+  },
+  "/Lotus/Upgrades/Calendar/GuidingMissilesChance": {
+    "value": "Tickshots",
+    "desc": "Shots gain a 10% chance to fire a seeking projectile for each successful hit. Firing weapons reduces the chance by 5%."
   },
   "/Lotus/Upgrades/Calendar/HealingEffects": {
     "value": "Emergency Medicine",
@@ -458,6 +489,14 @@
   "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
     "value": "Targeted Medicine",
     "desc": "Shoot Health Orbs to pick them up. Health orbs now have 25% chance to duplicate when picked up."
+  },
+  "/Lotus/Upgrades/Calendar/PowerStrengthAndEfficiencyPerEnergySpent": {
+    "value": "Overpower",
+    "desc": "Casting abilities increases ability strength by 2% and efficiency by -1% per unit of energy used by ability, for 5s."
+  },
+  "/Lotus/Upgrades/Calendar/RadiationProcOnTakeDamage": {
+    "value": "Psionic Feedback",
+    "desc": "On Damaged 10% chance to set off a 250 damage, 5m radius blast of radiation on taking damage."
   },
   "/Lotus/Upgrades/Calendar/RefundBulletOnStatusProc": {
     "value": "Free Shot",
