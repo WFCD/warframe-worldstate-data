@@ -68,6 +68,9 @@
   "/Lotus/StoreItems/Types/Items/ShipDecos/DomsFinalDrink": {
     "value": "Витримане вино де Наз"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/ErraBobbleHead": {
+    "value": "Noggle Statue - Erra"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
     "value": "Плакат «Ґарв і Латрокс»"
   },
@@ -83,6 +86,9 @@
   "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCorpusBasilisk": {
     "value": "Basilisk Fighter Decoration"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerCutter": {
+    "value": "Cutter Fighter Decoration"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
     "value": "Flak Fighter Decoration"
   },
@@ -94,6 +100,9 @@
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster": {
     "value": "Dog Days Protea Display"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConA": {
+    "value": "Deimos Fass Prex"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF": {
     "value": "Deimos Jugulus Prex"
@@ -142,6 +151,9 @@
   },
   "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA": {
     "value": "Гліф «Щедра змія»"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/TwinSnakesGlyph": {
+    "value": "Vome-Fass Glyph"
   },
   "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Peculiars/EvilSpiritMod": {
     "value": "Peculiar Audience"
@@ -215,6 +227,9 @@
   "/Lotus/StoreItems/Upgrades/Skins/Clan/Dragon2024BadgeItem": {
     "value": "Lunar Renewal Dragon Emblem"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Effects/BaroEphemeraB": {
+    "value": "Ki'Teer Reverence Ephemera"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
     "value": "Ефемера «Шлях фей»"
   },
@@ -226,6 +241,12 @@
   },
   "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader": {
     "value": "Liset Prisma Skin"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/MoonWarfanSugatraMeleeDangle": {
+    "value": "Renayla Sugatra"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/AshLevarianTiara": {
+    "value": "Scoria Diadem"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
     "value": "Діадема «Кі’Тір „Ріг“»"
@@ -281,6 +302,9 @@
   "/Lotus/StoreItems/Upgrades/Skins/Weapons/Rapier/CrpRapierSkin": {
     "value": "Rapier Tributaker Skin"
   },
+  "/Lotus/StoreItems/Weapons/Corpus/Melee/CrpTonfa/CrpPrismaTonfa": {
+    "value": "Prisma Ohma"
+  },
   "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
     "value": "Мачете-примара"
   },
@@ -293,12 +317,17 @@
   "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
     "value": "Парні Декуріони-призма"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsEasy": {
+    "value": "Голодні ігри",
+    "desc": "Destroy 75 Containers"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
     "value": "Голодні ігри",
     "desc": "Знищте 150 контейнерів"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium": {
-    "value": "Убийте 500 ворогів."
+    "value": "Even the odds",
+    "desc": "Убийте 500 ворогів."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesHard": {
     "value": "Демонстрація сили",
@@ -320,6 +349,10 @@
     "value": "Покарання для «Скальдри»",
     "desc": "Убийте 250 бійців «Скальдри»."
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesHard": {
+    "value": "Покарання для «Скальдри»",
+    "desc": "Kill 500 Scaldra Troops"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesMedium": {
     "value": "Покарання для «Скальдри»",
     "desc": "Kill 350 Scaldra Troops"
@@ -332,12 +365,21 @@
     "value": "Shock and Awe",
     "desc": "Kill 250 Scaldra Troops with Abilities"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesMedium": {
+    "value": "Shock and Awe",
+    "desc": "Kill 150 Scaldra Troops with Abilities"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeEasy": {
-    "value": "Kill 75 Scaldra Troops with Melee Weapons"
+    "value": "Особисте",
+    "desc": "Kill 75 Scaldra Troops with Melee Weapons"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
     "value": "Особисте",
     "desc": "Убийте 300 бійців «Скальдри» холодною зброєю."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTankHard": {
+    "value": "Tankless Work",
+    "desc": "Destroy 1 Tanks"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesEasy": {
     "value": "Очищення інфекції",
@@ -352,7 +394,8 @@
     "desc": "Kill 500 Techrot"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesMedium": {
-    "value": "Kill 200 Techrot with Abilities"
+    "value": "Null and Void",
+    "desc": "Kill 200 Techrot with Abilities"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeMedium": {
     "value": "Electronic waste Disposal",
@@ -438,6 +481,10 @@
     "value": "Thick Skin",
     "desc": "+250 до захисту."
   },
+  "/Lotus/Upgrades/Calendar/AttackAndMovementSpeedOnCritMelee": {
+    "value": "Hit'N'Split",
+    "desc": "Critical melee hits have a chance to increase attack and movement speed by 5% for 10sec."
+  },
   "/Lotus/Upgrades/Calendar/CompanionDamage": {
     "value": "Прикрита спина",
     "desc": "Тіні та супутники отримують +250 % до шкоди."
@@ -445,6 +492,10 @@
   "/Lotus/Upgrades/Calendar/CompanionsBuffNearbyPlayer": {
     "value": "More the Merrier",
     "desc": "Non-Tenno Allies within 20m all gain +5% Melee Attack Speed and +20% Fire Rate for each one in range."
+  },
+  "/Lotus/Upgrades/Calendar/ElectricStatusDamageAndChance": {
+    "value": "Bottled Lightning",
+    "desc": "Add 25% Status Damage and Electricity Status Chance to all weapons."
   },
   "/Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange": {
     "value": "Розширені обрії",
@@ -490,9 +541,17 @@
     "value": "Цільове призначення",
     "desc": "Стрiляйте в згустки здоров’я, щоби пiдняти їх. Згустки здоров'я мають 25 % iмовiрностi створення копiї пiд час пiдбору."
   },
+  "/Lotus/Upgrades/Calendar/OvershieldCap": {
+    "value": "Harden Up",
+    "desc": "Increases Overshield cap by 50%. Kills grant 50 shields."
+  },
   "/Lotus/Upgrades/Calendar/PowerStrengthAndEfficiencyPerEnergySpent": {
     "value": "Overpower",
     "desc": "Casting abilities increases ability strength by 2% and efficiency by -1% per unit of energy used by ability, for 5s."
+  },
+  "/Lotus/Upgrades/Calendar/PunchToPrimary": {
+    "value": "Punchcard",
+    "desc": "Add +1.5m punch through to primary weapons."
   },
   "/Lotus/Upgrades/Calendar/RadiationProcOnTakeDamage": {
     "value": "Psionic Feedback",
