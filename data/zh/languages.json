@@ -47,6 +47,9 @@
   "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen": {
     "value": "翡翠执刑官源力石"
   },
+  "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalNira": {
+    "value": "Amber Archon Shard"
+  },
   "/Lotus/StoreItems/Types/Items/MiscItems/WeaponMeleeArcaneUnlocker": {
     "value": "近战赋能连接器"
   },
@@ -485,6 +488,10 @@
     "value": "Hit'N'Split",
     "desc": "Critical melee hits have a chance to increase attack and movement speed by 5% for 10sec."
   },
+  "/Lotus/Upgrades/Calendar/BlastEveryXShots": {
+    "value": "Have A Blast",
+    "desc": "Every 10th shot adds 10 Blast stacks on hit."
+  },
   "/Lotus/Upgrades/Calendar/CompanionDamage": {
     "value": "Got Your Back",
     "desc": "Specters and companions gain +250% damage."
@@ -492,6 +499,10 @@
   "/Lotus/Upgrades/Calendar/CompanionsBuffNearbyPlayer": {
     "value": "More the Merrier",
     "desc": "Non-Tenno Allies within 20m all gain +5% Melee Attack Speed and +20% Fire Rate for each one in range."
+  },
+  "/Lotus/Upgrades/Calendar/CompanionsRadiationChance": {
+    "value": "Friendly Fallout",
+    "desc": "Attacks from Specters or Companions have a 25% chance to cause Radiation Status."
   },
   "/Lotus/Upgrades/Calendar/ElectricStatusDamageAndChance": {
     "value": "Bottled Lightning",
@@ -528,6 +539,10 @@
   "/Lotus/Upgrades/Calendar/MagazineCapacity": {
     "value": "Heavy Mags",
     "desc": "Increase magazine capacity by 25%"
+  },
+  "/Lotus/Upgrades/Calendar/MagnitizeWithinRangeEveryXCasts": {
+    "value": "Magnetic Menace",
+    "desc": "Every 5th ability cast applies a Magnetic Status Effect to an enemy in front of you within 50m."
   },
   "/Lotus/Upgrades/Calendar/MeleeAttackSpeed": {
     "value": "No Quarter",
