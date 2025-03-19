@@ -19040,6 +19040,10 @@
   "ArbitersSyndicate": {
     "value": "Арбітри Гексису"
   },
+  "Armorless": {
+    "value": "Fractured Armor",
+    "desc": "Casting an ability reduces armor by 10% for 10s."
+  },
   "AssassinsSyndicate": {
     "value": "Убивці"
   },
@@ -19049,9 +19053,17 @@
   "CetusSyndicate": {
     "value": "Остронці"
   },
+  "ContactDamage": {
+    "value": "Secondary Wounds",
+    "desc": "Gain 1 Puncture Status Effect every time you take damage."
+  },
   "Deflectors": {
     "value": "Укріплені вороги",
     "desc": "Можуть з’являтися захисники-ексіми (включно з некрамехами захисниками-ексімами)."
+  },
+  "EMPBlackHole": {
+    "value": "Alluring Arcocanids",
+    "desc": "As Rogue Arcocanids charge attacks, they pull Warframes towards them."
   },
   "EntratiSyndicate": {
     "value": "Ентраті"
@@ -19059,13 +19071,21 @@
   "EventSyndicate": {
     "value": "Оперативне постачання"
   },
+  "ExplosiveCrawlers": {
+    "value": "Explosive Potential",
+    "desc": "Rupturing Fragments replace Shuffling Fragments."
+  },
   "FragileNodes": {
     "value": "Спільна мета",
-    "desc": "Усі ворoги атакуватимуть джерела."
+    "desc": "Enemies can target and destroy Conduits."
   },
   "Framecurse": {
     "value": "Проклятий синдром",
     "desc": "Застосування здібності завдає вам 50 шкоди."
+  },
+  "Gearless": {
+    "value": "Gear Embargo",
+    "desc": "Gear cannot be used."
   },
   "GrowingIncursion": {
     "value": "Каскадні розломи",
