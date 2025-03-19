@@ -19040,6 +19040,10 @@
   "ArbitersSyndicate": {
     "value": "아비터즈 오브 헥시스"
   },
+  "Armorless": {
+    "value": "Fractured Armor",
+    "desc": "Casting an ability reduces armor by 10% for 10s."
+  },
   "AssassinsSyndicate": {
     "value": "암살자"
   },
@@ -19049,9 +19053,17 @@
   "CetusSyndicate": {
     "value": "오스트론"
   },
+  "ContactDamage": {
+    "value": "Secondary Wounds",
+    "desc": "Gain 1 Puncture Status Effect every time you take damage."
+  },
   "Deflectors": {
     "value": "Fortified Foes",
     "desc": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
+  },
+  "EMPBlackHole": {
+    "value": "Alluring Arcocanids",
+    "desc": "As Rogue Arcocanids charge attacks, they pull Warframes towards them."
   },
   "EntratiSyndicate": {
     "value": "Entrati"
@@ -19059,13 +19071,21 @@
   "EventSyndicate": {
     "value": "오퍼레이션 신디케이트"
   },
+  "ExplosiveCrawlers": {
+    "value": "Explosive Potential",
+    "desc": "Rupturing Fragments replace Shuffling Fragments."
+  },
   "FragileNodes": {
     "value": "Unified Purpose",
-    "desc": "Enemies can target and destry Conduits."
+    "desc": "Enemies can target and destroy Conduits."
   },
   "Framecurse": {
     "value": "Framecurse syndrome",
     "desc": "Activating an Ability inflicts 50 damage upon you."
+  },
+  "Gearless": {
+    "value": "Gear Embargo",
+    "desc": "Gear cannot be used."
   },
   "GrowingIncursion": {
     "value": "Fissure Cascade",
