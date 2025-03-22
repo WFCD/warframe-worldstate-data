@@ -19040,6 +19040,10 @@
   "ArbitersSyndicate": {
     "value": "均衡仲裁者"
   },
+  "ArcadeAutomata": {
+    "value": "Arcade Automate",
+    "desc": "Enemy guns launch large, slow moving orbs instead of their usual ordnance."
+  },
   "Armorless": {
     "value": "Fractured Armor",
     "desc": "Casting an ability reduces armor by 10% for 10s."
@@ -19053,6 +19057,10 @@
   "CetusSyndicate": {
     "value": "Ostrons"
   },
+  "ChemicalNoise": {
+    "value": "Noise Suppression",
+    "desc": "Drones fly above Flare, spraying them with Efervon gas."
+  },
   "ContactDamage": {
     "value": "Secondary Wounds",
     "desc": "Gain 1 Puncture Status Effect every time you take damage."
@@ -19061,12 +19069,20 @@
     "value": "Fortified Foes",
     "desc": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
   },
+  "DullBlades": {
+    "value": "Dull Blades",
+    "desc": "-50% melee combo chance"
+  },
   "EMPBlackHole": {
     "value": "Alluring Arcocanids",
     "desc": "As Rogue Arcocanids charge attacks, they pull Warframes towards them."
   },
   "EntratiSyndicate": {
     "value": "英择谛"
+  },
+  "EscalateImmediately": {
+    "value": "Cache Crash",
+    "desc": "Consequences of opening a Supply Cache are active from the start and will intensify once it is opened. Failure to open a Supply Cache doubles the kill count required to finish the mission."
   },
   "EventSyndicate": {
     "value": "集團"
@@ -19091,9 +19107,21 @@
     "value": "Fissure Cascade",
     "desc": "Fissures rip into the mission, causing the Enemy Level to go up by 1 every 10s. Destroy them to stop the level from increasing further."
   },
+  "HeavyWarfare": {
+    "value": "Heavy Warfare",
+    "desc": "Enemies take 95% less damage from non-heavy weapons. Enemies will drop heavy ammo packs and heavy weapon recall time reduced to 5s."
+  },
+  "HostileOvergrowth": {
+    "value": "It's Alive",
+    "desc": "Within the underground, hostile overgrowths will attack if players stops moving."
+  },
   "InfiniteTide": {
     "value": "Relentless Tide",
     "desc": "The Fragmented Tide never stops attacking."
+  },
+  "JadeSpring": {
+    "value": "Jade Spirits",
+    "desc": "Jade Wisps haunt the region. If approached, they chase down the player responsible and transform into Jade Light beams."
   },
   "KahlSyndicate": {
     "value": "卡尔驻军"
@@ -19106,6 +19134,10 @@
     "value": "Glyph Inflation",
     "desc": "The security system requires twice as many Vosphene Glyphs to activate."
   },
+  "MiasmiteHive": {
+    "value": "Miasmite Swarm",
+    "desc": "Techrot Miasmites swarm out of the shadows throught the mission."
+  },
   "NecraloidSyndicate": {
     "value": "殁世械灵"
   },
@@ -19115,6 +19147,10 @@
   "OperatorLockout": {
     "value": "Transference Distortion",
     "desc": "Transference into Operator and Drifter is blocked."
+  },
+  "OverSensitive": {
+    "value": "Hypersensitive",
+    "desc": "Duration of negative Status Effects is tripled"
   },
   "PerrinSyndicate": {
     "value": "佩蘭數列"
@@ -19173,6 +19209,10 @@
   },
   "SteelMeridianSyndicate": {
     "value": "鋼鐵防線"
+  },
+  "TechrotConjunction": {
+    "value": "Pile-On",
+    "desc": "Techrot enemies attempt to melee attack Hell-Scrubbers, bursting on contact and increasing scrubber contamination by 33%."
   },
   "TimeDilation": {
     "value": "Abbreviated Abilities",
