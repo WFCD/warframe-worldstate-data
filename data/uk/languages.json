@@ -51,7 +51,7 @@
     "value": "Amber Archon Shard"
   },
   "/Lotus/StoreItems/Types/Items/MiscItems/WeaponMeleeArcaneUnlocker": {
-    "value": "Melee Arcane Adapter"
+    "value": "Тримач містифікаторів для холодної зброї"
   },
   "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker": {
     "value": "Тримач містифікаторів для допоміжної зброї"
@@ -72,7 +72,7 @@
     "value": "Витримане вино де Наз"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/ErraBobbleHead": {
-    "value": "Noggle Statue - Erra"
+    "value": "Ноґл «Ерра»"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster": {
     "value": "Плакат «Ґарв і Латрокс»"
@@ -90,7 +90,7 @@
     "value": "Оздоблення: винищувач «Василіск»"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerCutter": {
-    "value": "Cutter Fighter Decoration"
+    "value": "Оздоблення: винищувач «Різак»"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
     "value": "Flak Fighter Decoration"
@@ -105,7 +105,7 @@
     "value": "Dog Days Protea Display"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConA": {
-    "value": "Deimos Fass Prex"
+    "value": "Прекс деймоського Фасса"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF": {
     "value": "Deimos Jugulus Prex"
@@ -156,7 +156,7 @@
     "value": "Гліф «Щедра змія»"
   },
   "/Lotus/StoreItems/Types/StoreItems/AvatarImages/TwinSnakesGlyph": {
-    "value": "Vome-Fass Glyph"
+    "value": "Гліф «Вом і Фасс»"
   },
   "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Peculiars/EvilSpiritMod": {
     "value": "Особливий прийом"
@@ -231,7 +231,7 @@
     "value": "Відзнака «Місячний Новий рік дракона»"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Effects/BaroEphemeraB": {
-    "value": "Ki'Teer Reverence Ephemera"
+    "value": "Ефемера «Вельмишановний Кі’Тір»"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
     "value": "Ефемера «Шлях фей»"
@@ -246,10 +246,10 @@
     "value": "Liset Prisma Skin"
   },
   "/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/MoonWarfanSugatraMeleeDangle": {
-    "value": "Renayla Sugatra"
+    "value": "Суґатра «Ренайла»"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/AshLevarianTiara": {
-    "value": "Scoria Diadem"
+    "value": "Діадема «Скорія»"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
     "value": "Діадема «Кі’Тір „Ріг“»"
@@ -306,7 +306,7 @@
     "value": "Rapier Tributaker Skin"
   },
   "/Lotus/StoreItems/Weapons/Corpus/Melee/CrpTonfa/CrpPrismaTonfa": {
-    "value": "Prisma Ohma"
+    "value": "Оми-призма"
   },
   "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
     "value": "Мачете-примара"
@@ -322,14 +322,14 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsEasy": {
     "value": "Голодні ігри",
-    "desc": "Destroy 75 Containers"
+    "desc": "Знищте 75 контейнерів."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
     "value": "Голодні ігри",
-    "desc": "Знищте 150 контейнерів"
+    "desc": "Знищіть 150 контейнерів"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium": {
-    "value": "Even the odds",
+    "value": "Рівні шанси",
     "desc": "Убийте 500 ворогів."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesHard": {
@@ -354,7 +354,7 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesHard": {
     "value": "Покарання для «Скальдри»",
-    "desc": "Kill 500 Scaldra Troops"
+    "desc": "Убийте 500 бійців «Скальдри»."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesMedium": {
     "value": "Покарання для «Скальдри»",
@@ -366,15 +366,15 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesHard": {
     "value": "Шок і шана",
-    "desc": "Kill 250 Scaldra Troops with Abilities"
+    "desc": "Убийте 250 бійців «Скальдри» за допомогою здібностей."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesMedium": {
     "value": "Шок і шана",
-    "desc": "Kill 150 Scaldra Troops with Abilities"
+    "desc": "Убийте 150 бійців «Скальдри» за допомогою здібностей."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeEasy": {
     "value": "Особисте",
-    "desc": "Kill 75 Scaldra Troops with Melee Weapons"
+    "desc": "Убийте 75 бійців «Скальдри» холодною зброєю."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
     "value": "Особисте",
@@ -382,7 +382,7 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTankHard": {
     "value": "Tankless Work",
-    "desc": "Destroy 1 Tanks"
+    "desc": "Знищте 1 танк."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesEasy": {
     "value": "Очищення інфекції",
@@ -394,11 +394,11 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesMedium": {
     "value": "Очищення інфекції",
-    "desc": "Kill 500 Techrot"
+    "desc": "Убийте 500 техногнилих ворогів."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesMedium": {
     "value": "Null and Void",
-    "desc": "Kill 200 Techrot with Abilities"
+    "desc": "Убийте 200 техногнилих ворогів за допомогою здібностей."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeMedium": {
     "value": "Перероблення електронного мотлоху",
@@ -441,7 +441,7 @@
     "value": "2 000 куви"
   },
   "/Lotus/Types/StoreItems/Packages/Calendar/CalendarVosforPack": {
-    "value": "Vosfor Cache"
+    "value": "Восфор"
   },
   "/Lotus/Types/StoreItems/Packages/DeluxeBundles/ProteaDeluxeSkinBundle": {
     "value": "Proteus Caladrius Collection"
@@ -478,7 +478,7 @@
   },
   "/Lotus/Upgrades/Calendar/AbilityStrength": {
     "value": "Power Gains",
-    "desc": "Increase Ability Strength +25%.\n+25% Ability Strength"
+    "desc": "+25 % до потужності здібності."
   },
   "/Lotus/Upgrades/Calendar/Armor": {
     "value": "Thick Skin",
@@ -505,8 +505,8 @@
     "desc": "Attacks from Specters or Companions have a 25% chance to cause Radiation Status."
   },
   "/Lotus/Upgrades/Calendar/ElectricStatusDamageAndChance": {
-    "value": "Bottled Lightning",
-    "desc": "Add 25% Status Damage and Electricity Status Chance to all weapons."
+    "value": "Бутельована блискавиця",
+    "desc": "Додає 25 % до шкоди від ефекту стану та накладання електричного ефекту стану для всієї зброї."
   },
   "/Lotus/Upgrades/Calendar/EnergyOrbToAbilityRange": {
     "value": "Розширені обрії",
@@ -525,8 +525,8 @@
     "desc": "Combo Multiplier increases the chance of enemies being susceptible to finishers after a melee hit. 5% per Multiplier Max 65% with Venka Prime."
   },
   "/Lotus/Upgrades/Calendar/GasChanceToPrimaryAndSecondary": {
-    "value": "Toxic Shot",
-    "desc": "Add 25% Gas Status Chance to Primary and Secondary weapons."
+    "value": "Токсичний постріл",
+    "desc": "Додає 25 % імовірності накладання газового ефекту стану для основної та допоміжної зброї."
   },
   "/Lotus/Upgrades/Calendar/GuidingMissilesChance": {
     "value": "Tickshots",
@@ -550,15 +550,15 @@
   },
   "/Lotus/Upgrades/Calendar/MeleeCritChance": {
     "value": "Practiced Precision",
-    "desc": "+20% Melee Critical Chance (x2 for Heavy Attacks)."
+    "desc": "+20 % до ймовірності критичної шкоди для холодної зброї (x2 для потужних ударів)."
   },
   "/Lotus/Upgrades/Calendar/OrbsDuplicateOnPickup": {
     "value": "Цільове призначення",
     "desc": "Стрiляйте в згустки здоров’я, щоби пiдняти їх. Згустки здоров'я мають 25 % iмовiрностi створення копiї пiд час пiдбору."
   },
   "/Lotus/Upgrades/Calendar/OvershieldCap": {
-    "value": "Harden Up",
-    "desc": "Increases Overshield cap by 50%. Kills grant 50 shields."
+    "value": "Гартування",
+    "desc": "Максимальна величина надщитів збільшена на 50 %. Убивства дають 50 щитів."
   },
   "/Lotus/Upgrades/Calendar/PowerStrengthAndEfficiencyPerEnergySpent": {
     "value": "Overpower",
@@ -569,12 +569,12 @@
     "desc": "Add +1.5m punch through to primary weapons."
   },
   "/Lotus/Upgrades/Calendar/RadiationProcOnTakeDamage": {
-    "value": "Psionic Feedback",
-    "desc": "On Damaged 10% chance to set off a 250 damage, 5m radius blast of radiation on taking damage."
+    "value": "Псіонічний відгук",
+    "desc": "У разі отримання шкоди має 10 % імовірності завдати 250 шкоди від вибуху радіації в межах 5 м."
   },
   "/Lotus/Upgrades/Calendar/RefundBulletOnStatusProc": {
-    "value": "Free Shot",
-    "desc": "Triggering a status proc has a 10% chance to reload the triggering bullet into the clip."
+    "value": "Вільний постріл",
+    "desc": "Спрацьовування ефекту стану має 10 % імовірності перезарядити 1 постріл в обоймy."
   },
   "/Lotus/Upgrades/Skins/Armor/SWPiercingEyeShoulderArmor/SWPiercingEyeShoulderArmor": {
     "value": "Piercing Eye Shoulder Armor"
@@ -19041,12 +19041,12 @@
     "value": "Арбітри Гексису"
   },
   "ArcadeAutomata": {
-    "value": "Arcade Automate",
-    "desc": "Enemy guns launch large, slow moving orbs instead of their usual ordnance."
+    "value": "Аркадні автомати",
+    "desc": "Ворожа зброя випускає великі повільні сфери замість звичних боєприпасів."
   },
   "Armorless": {
-    "value": "Fractured Armor",
-    "desc": "Casting an ability reduces armor by 10% for 10s."
+    "value": "Зламаний захист",
+    "desc": "Застосування здібностей зменшує захист на 10% упродовж 10 с."
   },
   "AssassinsSyndicate": {
     "value": "Убивці"
@@ -19058,8 +19058,8 @@
     "value": "Остронці"
   },
   "ChemicalNoise": {
-    "value": "Noise Suppression",
-    "desc": "Drones fly above Flare, spraying them with Efervon gas."
+    "value": "Приглушення",
+    "desc": "Над Флер літають дрони й обприскують все ефервонським газом."
   },
   "ContactDamage": {
     "value": "Secondary Wounds",
@@ -19070,58 +19070,58 @@
     "desc": "Можуть з’являтися захисники-ексіми (включно з некрамехами захисниками-ексімами)."
   },
   "DullBlades": {
-    "value": "Dull Blades",
-    "desc": "-50% melee combo chance"
+    "value": "Затуплені клинки",
+    "desc": "-50% до ймовірності серії ударів холодною зброєю."
   },
   "EMPBlackHole": {
-    "value": "Alluring Arcocanids",
-    "desc": "As Rogue Arcocanids charge attacks, they pull Warframes towards them."
+    "value": "Звабливі «Аркоканіди»",
+    "desc": "Коли дикі \"Аркоканіди\" нападають, то підтягують ворфреймів до себе."
   },
   "EntratiSyndicate": {
     "value": "Ентраті"
   },
   "EscalateImmediately": {
-    "value": "Cache Crash",
-    "desc": "Consequences of opening a Supply Cache are active from the start and will intensify once it is opened. Failure to open a Supply Cache doubles the kill count required to finish the mission."
+    "value": "Сховколам",
+    "desc": "Наслідки розкриття схову з припасами ввімкнено одразу й вони посилюються після безпосереднього розкриття. Невдача відкривання призведе до подвоєння кількості вбивств, необхідних для завершення завдання."
   },
   "EventSyndicate": {
     "value": "Оперативне постачання"
   },
   "ExplosiveCrawlers": {
-    "value": "Explosive Potential",
-    "desc": "Rupturing Fragments replace Shuffling Fragments."
+    "value": "Вибуховий потенціал",
+    "desc": "Розривні розламані заміняють перемішаних розламаних."
   },
   "FragileNodes": {
     "value": "Спільна мета",
-    "desc": "Enemies can target and destroy Conduits."
+    "desc": "Усі ворoги атакуватимуть джерела."
   },
   "Framecurse": {
     "value": "Проклятий синдром",
     "desc": "Застосування здібності завдає вам 50 шкоди."
   },
   "Gearless": {
-    "value": "Gear Embargo",
-    "desc": "Gear cannot be used."
+    "value": "Заборона спорядження",
+    "desc": "Не можна використовувати спорядження."
   },
   "GrowingIncursion": {
     "value": "Каскадні розломи",
     "desc": "На завданні з'являються розломи, підвищуючи рівень ворогів на 1 кожні 10 секунд. Знищіть їх, щоби зупинити приріст рівнів ворогів."
   },
   "HeavyWarfare": {
-    "value": "Heavy Warfare",
-    "desc": "Enemies take 95% less damage from non-heavy weapons. Enemies will drop heavy ammo packs and heavy weapon recall time reduced to 5s."
+    "value": "Посилений захист",
+    "desc": "Вороги отримують на 95% менше шкоди від влучань у не слабкі місця."
   },
   "HostileOvergrowth": {
-    "value": "It's Alive",
-    "desc": "Within the underground, hostile overgrowths will attack if players stops moving."
+    "value": "Воно живе",
+    "desc": "Якщо гравці зупинятимуться у підземних міцинах, то їх атакуватимуть ворожі нарости."
   },
   "InfiniteTide": {
     "value": "Невблаганна хвиля",
     "desc": "Хвтля розламаних не зупиняється й не припиняє нападати."
   },
   "JadeSpring": {
-    "value": "Jade Spirits",
-    "desc": "Jade Wisps haunt the region. If approached, they chase down the player responsible and transform into Jade Light beams."
+    "value": "Нефритові вогні",
+    "desc": "Місцевість заповнена нефритовими вогниками. За наближення вони переслідуватимуть тепно, перетворившись на промені нефритового світла."
   },
   "KahlSyndicate": {
     "value": "Kahl's Garrison"
@@ -19135,8 +19135,8 @@
     "desc": "Вмикання системи безпеки потребує вдвічі більше возфінових гліфів."
   },
   "MiasmiteHive": {
-    "value": "Miasmite Swarm",
-    "desc": "Techrot Miasmites swarm out of the shadows throught the mission."
+    "value": "Міазмовий рій",
+    "desc": "Під час завдань техногнилі міазми роями нападають із тіней."
   },
   "NecraloidSyndicate": {
     "value": "Некралойд"
@@ -19149,8 +19149,8 @@
     "desc": "Перенесення в оператора та мандрівника заблоковані."
   },
   "OverSensitive": {
-    "value": "Hypersensitive",
-    "desc": "Duration of negative Status Effects is tripled"
+    "value": "Гіперчутливість",
+    "desc": "Потроєна тривалість негативних ефектів стану."
   },
   "PerrinSyndicate": {
     "value": "Послідовність Перрена"
@@ -19211,8 +19211,8 @@
     "value": "Сталевий Меридіан"
   },
   "TechrotConjunction": {
-    "value": "Pile-On",
-    "desc": "Techrot enemies attempt to melee attack Hell-Scrubbers, bursting on contact and increasing scrubber contamination by 33%."
+    "value": "Купка невеличка",
+    "desc": "Техногнилі вороги намагатимуться атакувати пеклоочисники впритул, вибухаючи під час контакту й збільшуючи забруднення на 33 %."
   },
   "TimeDilation": {
     "value": "Скорочені здібності",
