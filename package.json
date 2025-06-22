@@ -39,10 +39,10 @@
   ],
   "type": "module",
   "exports": {
-    ".": "./exports.js",
-    "./utilities": "./tools/utilities.js"
+    ".": "./exports.ts",
+    "./utilities": "./tools/utilities.ts"
   },
-  "main": "exports.js",
+  "main": "exports.ts",
   "directories": {
     "test": "test"
   },
@@ -56,11 +56,24 @@
     "validate": "npm run lint:fix && npm run test && git add -u ."
   },
   "prettier": "@wfcd/eslint-config/prettier",
+  "overrides": {
+    "sinon-chai": {
+      "chai": "^5.0.3"
+    }
+  },
+  "dependencies": {
+    "@types/yargs": "^17.0.33"
+  },
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
     "@types/chai": "^5.0.0",
     "@types/chai-json-schema": "^1.4.9",
+    "@types/mocha": "^10.0.10",
+    "@types/sinon": "^17.0.4",
+    "@types/sinon-chai": "^4.0.0",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
     "c8": "^10.1.2",
     "chai": "^5.0.3",
     "chai-json": "^1.0.0",
@@ -72,14 +85,10 @@
     "prettier": "^3.2.5",
     "sinon": "^21.0.0",
     "sinon-chai": "^4.0.0",
-    "yargs": "^18.0.0"
+    "tsx": "^4.20.3",
+    "yargs": "^17.7.2"
   },
   "engines": {
     "node": ">=18.19.0"
-  },
-  "overrides": {
-    "sinon-chai": {
-      "chai": "^5.0.3"
-    }
   }
 }

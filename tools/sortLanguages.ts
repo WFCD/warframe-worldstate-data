@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+/* eslint-disable import/no-extraneous-dependencies */
+
 import { readFile, writeFile } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -8,13 +10,13 @@ import yargs from 'yargs/yargs';
 
 const options = yargs(process.argv)
   .usage('Usage -c')
-  .option('c', { alias: 'check', describe: `Check only, don't write file`, type: 'boolean', demandOption: false })
+  .option('c', { alias: 'check', describe: "Check only, don't write file", type: 'boolean', demandOption: false })
   .parse();
 
-const checkOnly = await options.c;
+const checkOnly = (await options).c;
 
-const dirName = dirname(fileURLToPath(import.meta.url));
-const sort = (obj) => {
+const dirName: string = dirname(fileURLToPath(import.meta.url));
+const sort = (obj: object) => {
   return Object.keys(obj)
     .sort()
     .reduce(function (result, key) {

@@ -1,19 +1,14 @@
-parser: '@babel/eslint-parser'
+extends: "@wfcd/eslint-config/typescript"
+parser: "@typescript-eslint/parser"
 parserOptions:
-  ecmaFeatures:
-    modules: true
-  ecmaVersion: 6
-  sourceType: module
-extends: '@wfcd/eslint-config/esm'
-overrides:
-  - files:
-     - tools/*.js
-    rules:
-      no-console: 'off'
-      import/no-extraneous-dependencies:
-        - error
-        - devDependencies:
-           - '**/*.test.{js,cjs,mjs}'
-           - '**/*.spec.{js,cjs,mjs}'
-           - 'build/**/*.{js,cjs,mjs}'
-           - 'tools/**/*.{js,cjs,mjs}'
+  project: "./tsconfig.json"
+  babelOptions:
+    plugins:
+      - "@typescript-eslint/eslint-plugin"
+      - "@babel/plugin-transform-class-properties"
+      - "@babel/plugin-transform-private-methods"
+rules:
+  # conflicts w/ prettier, should probably upstream this
+  '@typescript-eslint/comma-dangle': 'off'
+  'import/extensions': off
+  '@typescript-eslint/no-explicit-any': off
