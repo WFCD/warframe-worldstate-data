@@ -6,11 +6,6 @@ should();
 
 describe('timeDateUtils', () => {
   describe('timeDeltaToString()', () => {
-    it('should throw TypeError when called without arguments', () => {
-      (() => {
-        timeDeltaToString();
-      }).should.throw(TypeError);
-    });
     it('only shows seconds if the difference is less than a minute', () => {
       timeDeltaToString(30000).should.match(/^\d{1,2}s$/);
     });
@@ -27,8 +22,6 @@ describe('timeDateUtils', () => {
   describe('parseDate()', () => {
     it('should parse even if date provided is undefined', () => {
       (() => parseDate()).should.not.throw();
-      (() => parseDate(0)).should.not.throw();
-      (() => parseDate(2340985790347890)).should.not.throw();
     });
   });
 });

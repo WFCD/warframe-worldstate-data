@@ -1,12 +1,11 @@
 import * as chai from 'chai';
 import chaiJson from 'chai-json';
-import chaiJsonSchema from 'chai-json-schema-ajv';
+import Ajv from 'ajv';
+import addFormats from 'ajv-formats';
 
 import tutorials from '../data/tutorials.json' with { type: 'json' };
 
 chai.use(chaiJson);
-chai.use(chaiJsonSchema);
-
 chai.should();
 
 const tutorialsSchema = {
@@ -31,6 +30,10 @@ describe('tutorials.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    tutorials.should.be.jsonSchema(tutorialsSchema);
+    const ajv = new Ajv();
+    addFormats(ajv, ['uri']);
+
+    const validate = ajv.compile(tutorialsSchema);
+    validate(tutorials).should.be.true;
   });
 });
