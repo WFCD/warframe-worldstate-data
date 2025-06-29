@@ -1,13 +1,11 @@
-import * as chai from 'chai';
+import {use} from 'chai';
 import chaiJson from 'chai-json';
-import chaiJsonSchema from 'chai-json-schema-ajv';
+import Ajv from 'ajv';
+import addFormats from 'ajv-formats';
 
 import arcanes from '../data/arcanes.json' with { type: 'json' };
 
-chai.use(chaiJson);
-chai.use(chaiJsonSchema);
-
-chai.should();
+use(chaiJson);
 
 const arcanesSchema = {
   definitions: {
@@ -25,7 +23,7 @@ const arcanesSchema = {
       effect: { type: 'string' },
       rarity: { $ref: '#/definitions/rarity' },
       location: { type: 'string' },
-      thumbnail: { type: 'string', foramt: 'uri' },
+      thumbnail: { type: 'string', format: 'uri' },
       info: { type: 'string', format: 'uri' },
     },
     required: ['regex', 'name', 'effect', 'rarity', 'location', 'thumbnail', 'info'],
@@ -38,6 +36,10 @@ describe('arcanes.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    arcanes.should.be.jsonSchema(arcanesSchema);
+    const ajv = new Ajv();
+    addFormats(ajv, ['uri']);
+
+    const validate = ajv.compile(arcanesSchema);
+    validate(arcanes).should.be.true;
   });
 });

@@ -1,12 +1,11 @@
 import * as chai from 'chai';
 import chaiJson from 'chai-json';
-import chaiJsonSchema from 'chai-json-schema-ajv';
+import Ajv from 'ajv';
+import addFormats from 'ajv-formats';
 
 import synthTargets from '../data/synthTargets.json' with { type: 'json' };
 
 chai.use(chaiJson);
-chai.use(chaiJsonSchema);
-
 chai.should();
 
 const synthTargetsSchema = {
@@ -124,6 +123,10 @@ describe('synthTargets.json', () => {
   });
 
   it('should adhere to the schema', () => {
-    synthTargets.should.be.jsonSchema(synthTargetsSchema);
+    const ajv = new Ajv({ allErrors: true, strict: 'log' });
+    addFormats(ajv, ['date']);
+
+    const validate = ajv.compile(synthTargetsSchema);
+    validate(synthTargets).should.be.true;
   });
 });

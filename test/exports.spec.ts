@@ -1,22 +1,24 @@
+// biome-ignore-all lint/suspicious/noConsole: calls to the console are only used for test
 import * as chai from 'chai';
 import sinonChai from 'sinon-chai';
 import sinon from 'sinon';
 
-import safeImport from '../safeImport.js';
-import wsData from '../exports.js';
+import safeImport from '../safeImport';
+import wsData from '../exports';
 
 chai.should();
 chai.use(sinonChai);
 
 const { expect } = chai;
 
+let spy: sinon.SinonSpy;
 describe('safeImport', () => {
   beforeEach(() => {
-    sinon.spy(console, 'debug');
+    spy = sinon.spy(console, 'debug');
   });
 
   afterEach(() => {
-    console.debug.restore();
+   spy.restore();
     delete process.env.LOG_LEVEL;
   });
 
