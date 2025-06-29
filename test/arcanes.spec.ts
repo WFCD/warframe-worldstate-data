@@ -1,12 +1,11 @@
-import * as chai from 'chai';
+import {use} from 'chai';
 import chaiJson from 'chai-json';
 import Ajv from 'ajv';
 import addFormats from 'ajv-formats';
 
 import arcanes from '../data/arcanes.json' with { type: 'json' };
 
-chai.use(chaiJson);
-chai.should();
+use(chaiJson);
 
 const arcanesSchema = {
   definitions: {

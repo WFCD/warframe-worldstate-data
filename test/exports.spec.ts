@@ -1,9 +1,10 @@
+// biome-ignore-all lint/suspicious/noConsole: calls to the console are only used for test
 import * as chai from 'chai';
 import sinonChai from 'sinon-chai';
 import sinon from 'sinon';
 
 import safeImport from '../safeImport';
-import wsData from '../exports.js';
+import wsData from '../exports';
 
 chai.should();
 chai.use(sinonChai);

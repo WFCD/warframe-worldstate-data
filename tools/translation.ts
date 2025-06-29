@@ -101,7 +101,6 @@ export const nodeEnemy = (key: string, dataOverride: Locale = 'en'): string => {
  * @returns {string} localization for language string
  */
 export const languageString = (key: string, dataOverride: Locale = 'en'): string => {
-  const lang = keyInData('languages', dataOverride);
   const lowerKey: string = String(key).toLowerCase();
   return (
     i18n(dataOverride).languages[lowerKey]?.value ??
