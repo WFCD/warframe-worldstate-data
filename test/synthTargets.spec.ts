@@ -1,6 +1,6 @@
 import * as chai from 'chai';
 import chaiJson from 'chai-json';
-import Ajv, { DefinedError } from 'ajv';
+import Ajv from 'ajv';
 import addFormats from 'ajv-formats';
 
 import synthTargets from '../data/synthTargets.json' with { type: 'json' };
