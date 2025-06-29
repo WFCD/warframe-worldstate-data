@@ -16,13 +16,16 @@ const options = yargs(process.argv)
 const checkOnly = (await options).c;
 
 const dirName: string = dirname(fileURLToPath(import.meta.url));
-const sort = (obj: object) => {
+const sort = (obj: Record<string, { value: string; desc?: string }>) => {
   return Object.keys(obj)
     .sort()
-    .reduce(function (result, key) {
-      result[key] = obj[key];
-      return result;
-    }, {});
+    .reduce(
+      function (result, key: string) {
+        result[key] = obj[key];
+        return result;
+      },
+      {} as Record<string, { value: string; desc?: string }>
+    );
 };
 
 const dataDir = join(dirName, '..', 'data');

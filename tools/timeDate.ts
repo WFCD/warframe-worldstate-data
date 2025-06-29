@@ -61,7 +61,7 @@ export const toNow = (d: Date, now: () => number = Date.now): number => {
   return now() - d.getTime();
 };
 
-interface WorldStateDate {
+export interface WorldStateDate {
   $date: { $numberLong: number } | undefined;
   sec: number;
 }

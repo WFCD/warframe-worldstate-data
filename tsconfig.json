@@ -3,14 +3,11 @@
     "node_modules"
   ],
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "NodeNext",
-    "moduleResolution": "NodeNext",
-    "allowImportingTsExtensions": true,
-    "noEmit": true,
-    "resolvePackageJsonExports": true,
-    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "target": "es2024", // set to the *lowest* target you support
     "strict": true,
-    "resolveJsonModule": true
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "isolatedModules": true,
   }
 }

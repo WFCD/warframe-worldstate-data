@@ -1,6 +1,6 @@
 import { should } from 'chai';
 
-import * as utilities from '../../tools/utilities.js';
+import * as utilities from '../../tools/utilities';
 import { fromNow, parseDate, timeDeltaToString, toNow } from '../../tools/utilities.js';
 
 should();

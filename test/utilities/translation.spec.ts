@@ -1,4 +1,4 @@
-import { expect, should } from 'chai';
+import { expect } from 'chai';
 
 import {
   archonShardColor,
@@ -29,9 +29,7 @@ import {
   translatePolarity,
   translateSeason,
   upgrade,
-} from '../../tools/translation.js';
-
-should();
+} from '../../tools/translation';
 
 describe('translation', () => {
   describe('toTitleCase()', () => {

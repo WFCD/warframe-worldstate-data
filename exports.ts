@@ -1,12 +1,12 @@
-import safeImport from './safeImport.ts';
-import { Arcane, ArchonShard, Conclave, Events, SolNode, SortieData, SteelPath, SynthesisTarget } from './types.ts';
+import safeImport from './safeImport';
+import { Arcane, ArchonShard, Conclave, Events, SolNode, SortieData, SteelPath, SynthesisTarget } from './types';
 
-const locales = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr', 'uk'];
+export type Locale = 'de' | 'en' | 'es' | 'fr' | 'it' | 'ko' | 'pl' | 'pt' | 'ru' | 'zh' | 'cs' | 'sr' | 'uk';
 
 /**
  * Bundles all the data for a particular language
  */
-interface WorldstateLangBundle {
+export interface WorldstateLangBundle {
   /**
    * Deprecated: Array of arcane data
    */
@@ -60,7 +60,7 @@ interface WorldstateLangBundle {
   /**
    * Steel Path mission type translations
    */
-  steelPath: SteelPath[];
+  steelPath: SteelPath;
   /**
    * Syndicate data
    */
@@ -107,13 +107,16 @@ const makeBundle = async () => {
   };
   /* eslint-enable global-require */
 
-  const bundle: Record<string, any> = {
-    en_US: enUS,
-    en: enUS,
-    ...enUS,
-    locales,
+  type WorldstateData = WorldstateLangBundle & {
+    [K in Locale]?: WorldstateLangBundle;
   };
 
+  const bundle: WorldstateData = {
+    en: enUS,
+    ...enUS,
+  };
+
+  const locales: Locale[] = ['de', 'en', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr', 'uk'];
   // eslint-disable-next-line no-restricted-syntax
   for await (const locale of locales) {
     /**
@@ -141,7 +144,6 @@ const makeBundle = async () => {
     };
   }
 
-  locales.push('en');
   return bundle;
 };
 
