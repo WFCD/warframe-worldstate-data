@@ -39,11 +39,11 @@
   ],
   "type": "module",
   "exports": {
-    ".": "./dist/exports.ts",
-    "./utilities": "./dist/tools/utilities.ts",
-    "./types": "./dist/types.ts"
+    ".": "./dist/exports.js",
+    "./utilities": "./dist/tools/utilities.js",
+    "./types": "./dist/types.js"
   },
-  "main": "./dist/exports.ts",
+  "main": "./dist/exports.js",
   "directories": {
     "test": "test"
   },
