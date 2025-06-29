@@ -32,7 +32,6 @@ const data = JSON.parse(await readFile(join(dataDir, 'languages.json'), 'utf8'))
 const sortedData = sort(data);
 
 if (JSON.stringify(sortedData, undefined, 2) !== JSON.stringify(data, undefined, 2)) {
-  // biome-ignore lint/suspicious/noConsole: part of the script
   console.error('Data not sorted');
   if (checkOnly) { process.exit(1); }
 }
@@ -42,5 +41,4 @@ if (checkOnly) { process.exit(0); }
 await writeFile(join(dataDir, 'languages.json.bak'), JSON.stringify(data, undefined, 2));
 await writeFile(join(dataDir, 'languages.json'), JSON.stringify(sortedData, undefined, 2));
 
-// biome-ignore lint/suspicious/noConsole: part of the script
 console.log('language.json has been sorted!');
