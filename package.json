@@ -57,6 +57,7 @@
     "test": "c8 mocha",
     "validate": "npm run lint:fix && npm run test && git add -u ."
   },
+  "prettier": "@wfcd/eslint-config/prettier",
   "overrides": {
     "sinon-chai": {
       "chai": "^5.0.3"
@@ -82,6 +83,7 @@
     "husky": "^9.0.11",
     "lint-staged": "^16.0.0",
     "mocha": "^11.7.1",
+    "prettier": "^3.6.2",
     "sinon": "^21.0.0",
     "sinon-chai": "^4.0.0",
     "tsdown": "^0.12.9",
