@@ -3,10 +3,11 @@
  * @param thing to encourage to have data
  * @param args arguments to ensure
  */
-export const insist = (thing: Record<string, unknown>, args: string[]) => {
+export const insist = (thing: Record<string, unknown>, ...args: string[]) => {
   if (!thing || !Object.keys(thing).length) {
     throw new TypeError('The provided data does not have the required properties.');
   }
+
   args.forEach((arg) => {
     if (!thing[arg]) {
       throw new TypeError('The provided data does not have the required properties.');
