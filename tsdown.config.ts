@@ -1,5 +1,6 @@
-import { defineConfig } from 'tsdown'
+import { defineConfig } from 'tsdown';
 
 export default defineConfig({
-  entry: ['./tools'],
-})
+  entry: ['exports.ts', 'safeImport.ts', './tools'],
+  copy: ['./data']
+});
