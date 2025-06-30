@@ -53,6 +53,7 @@
     "lint": "biome lint",
     "lint:fix": "biome lint --write",
     "prepare": "husky && npx install-peerdeps @wfcd/eslint-config@latest -S",
+    "prepublishOnly": "npm run build",
     "sort": "tsx ./tools/sortLanguages.ts",
     "test": "c8 mocha",
     "validate": "npm run lint:fix && npm run test && git add -u ."
