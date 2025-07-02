@@ -3,6 +3,8 @@ import { Arcane, ArchonShard, Conclave, Events, SolNode, SortieData, SteelPath, 
 
 export type Locale = 'de' | 'en' | 'es' | 'fr' | 'it' | 'ko' | 'pl' | 'pt' | 'ru' | 'zh' | 'cs' | 'sr' | 'uk';
 
+const locales: Locale[] = ['de', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr', 'uk'];
+
 /**
  * Bundles all the data for a particular language
  */
@@ -109,14 +111,14 @@ const makeBundle = async () => {
 
   type WorldstateData = WorldstateLangBundle & {
     [K in Locale]?: WorldstateLangBundle;
-  };
+  } & { locales: Locale[] };
 
   const bundle: WorldstateData = {
     en: enUS,
     ...enUS,
+    locales
   };
 
-  const locales: Locale[] = ['de', 'en', 'es', 'fr', 'it', 'ko', 'pl', 'pt', 'ru', 'zh', 'cs', 'sr', 'uk'];
   // eslint-disable-next-line no-restricted-syntax
   for await (const locale of locales) {
     /**
@@ -144,6 +146,7 @@ const makeBundle = async () => {
     };
   }
 
+  locales.push('en');
   return bundle;
 };
 
