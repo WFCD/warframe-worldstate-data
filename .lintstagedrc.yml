@@ -1,12 +1,12 @@
-'*.js,!tools/*':
-  - eslint --cache --fix
+'*.ts,!tools/*':
+  - biome lint --write
   - npm test
-'tools/*.js':
-  - eslint --cache --fix
+'tools/*.ts':
+  - biome lint --write
 package*.json:
   - npx sort-package-json
   - npm dedupe
 '*.{yml,json,yaml},!package*.json':
   - prettier --write
 'data/languages.json':
-  - node tools/sortLanguages.js -c
+  - npm run sort -- -c
