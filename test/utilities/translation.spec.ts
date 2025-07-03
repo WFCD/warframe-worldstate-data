@@ -518,7 +518,7 @@ describe('translation', () => {
     });
     describe('archonShardColor()', () => {
       it("should return a translation of the key if it's found in the data", () => {
-        archonShardColor('ACC_BLUE', 'es').should.equal('Azure');
+        archonShardColor('ACC_BLUE', 'es').should.equal('Celeste');
       });
       it("should return the key if it's not found in the data", () => {
         archonShardColor('notfound').should.equal('notfound');
