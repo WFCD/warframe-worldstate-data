@@ -1,4 +1,4 @@
-const epochZero = {
+const epochZero: WorldStateDate = {
   $date: {
     $numberLong: 0,
   },
@@ -62,8 +62,7 @@ export const toNow = (d: Date, now: () => number = Date.now): number => {
 };
 
 export interface WorldStateDate {
-  $date: { $numberLong: number } | undefined;
-  sec: number;
+  $date?: { $numberLong: number };
 }
 
 /**
@@ -74,7 +73,7 @@ export interface WorldStateDate {
 export const parseDate = (d?: WorldStateDate): Date => {
   const safeD = d || epochZero;
   const dt = safeD.$date || epochZero.$date;
-  return new Date(safeD.$date ? Number(dt.$numberLong) : 1000 * (d as any)?.sec);
+  return new Date(safeD.$date ? Number(dt!.$numberLong) : 1000 * (d as {sec: number}).sec);
 };
 
 /**
