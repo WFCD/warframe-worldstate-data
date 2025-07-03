@@ -1,7 +1,7 @@
-extension: ["ts"]
-spec: "test/**/*.spec.ts"
+extension: ['ts']
+spec: 'test/**/*.spec.ts'
 require:
- - "chai/register-should.js"
- - "./test/setup.ts"
+  - 'chai/register-should.js'
+  - './test/setup.ts'
 node-option:
-  - "import=tsx"
+  - 'import=tsx'
