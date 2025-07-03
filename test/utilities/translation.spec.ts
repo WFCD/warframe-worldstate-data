@@ -530,7 +530,7 @@ describe('translation', () => {
           'ACC_BLUE',
           '/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax',
           'es'
-        ).should.equal('+150% Health');
+        ).should.equal('+150% Salud');
       });
       it("should return the key if it's not found in the data", () => {
         archonShardUpgradeType('notfound', 'notfound').should.equal('notfound');

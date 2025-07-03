@@ -127,7 +127,7 @@ const makeBundle = async () => {
      */
     bundle[locale] = {
       arcanes: await safeImport(`./data/${locale}/arcanes.json`, enUS.arcanes),
-      archonShards: await safeImport('./data/archonShards.json', enUS.archonShards),
+      archonShards: await safeImport(`./data/${locale}/archonShards.json`, enUS.archonShards),
       conclave: await safeImport(`./data/${locale}/conclaveData.json`, enUS.conclave),
       events: await safeImport(`./data/${locale}/eventsData.json`, enUS.events),
       factions: await safeImport(`./data/${locale}/factionsData.json`, enUS.factions),
