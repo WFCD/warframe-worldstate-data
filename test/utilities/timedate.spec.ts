@@ -1,6 +1,6 @@
 import { should } from 'chai';
 
-import { timeDeltaToString, parseDate } from '../../tools/timeDate.js';
+import { timeDeltaToString, parseDate, WorldStateDate } from '../../tools/timeDate';
 
 should();
 
@@ -8,7 +8,7 @@ describe('timeDateUtils', () => {
   describe('timeDeltaToString()', () => {
     it('should throw TypeError when called without arguments', () => {
       (() => {
-        timeDeltaToString();
+        timeDeltaToString(undefined as unknown as number);
       }).should.throw(TypeError);
     });
     it('only shows seconds if the difference is less than a minute', () => {
@@ -26,9 +26,9 @@ describe('timeDateUtils', () => {
   });
   describe('parseDate()', () => {
     it('should parse even if date provided is undefined', () => {
-      (() => parseDate()).should.not.throw();
-      (() => parseDate(0)).should.not.throw();
-      (() => parseDate(2340985790347890)).should.not.throw();
+      (() => parseDate(undefined as unknown as WorldStateDate)).should.not.throw();
+      (() => parseDate(0 as unknown as WorldStateDate)).should.not.throw();
+      (() => parseDate(2340985790347890 as unknown as WorldStateDate)).should.not.throw();
     });
   });
 });

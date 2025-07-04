@@ -1,10 +1,10 @@
-const epochZero = {
+const epochZero: WorldStateDate = {
   $date: {
     $numberLong: 0,
   },
 };
 
-const pieceIsSmoller = (seconds, ceiling, label, timePieces) => {
+const pieceIsSmoller = (seconds: number, ceiling: number, label: string, timePieces: string[]) => {
   if (seconds >= ceiling) {
     timePieces.push(`${Math.floor(seconds / ceiling)}${label}`);
     seconds = Math.floor(seconds) % ceiling;
@@ -16,12 +16,12 @@ const pieceIsSmoller = (seconds, ceiling, label, timePieces) => {
  * @param   {number} millis The number of milliseconds in the time delta
  * @returns {string} formatted time delta
  */
-export const timeDeltaToString = (millis) => {
+export const timeDeltaToString = (millis: number): string => {
   if (typeof millis !== 'number') {
     throw new TypeError('millis should be a number');
   }
 
-  let timePieces = [];
+  let timePieces: string[] = [];
   const prefix = millis < 0 ? '-' : '';
   let seconds = Math.abs(millis / 1000);
 
@@ -47,7 +47,7 @@ export const timeDeltaToString = (millis) => {
  * @param   {function} [now] A function that returns the current UNIX time in milliseconds
  * @returns {number}       The number of milliseconds after the given date to now
  */
-export const fromNow = (d, now = Date.now) => {
+export const fromNow = (d: Date, now: () => number = Date.now): number => {
   return d.getTime() - now();
 };
 
@@ -57,19 +57,23 @@ export const fromNow = (d, now = Date.now) => {
  * @param   {function} [now] A function that returns the current UNIX time in milliseconds
  * @returns {number}        The number of milliseconds after now to the given date
  */
-export const toNow = (d, now = Date.now) => {
+export const toNow = (d: Date, now: () => number = Date.now): number => {
   return now() - d.getTime();
 };
+
+export interface WorldStateDate {
+  $date?: { $numberLong: number };
+}
 
 /**
  * Returns a new Date constructed from a worldState date object
  * @param {Object} d The worldState date object
  * @returns {Date} parsed date from DE date format
  */
-export const parseDate = (d) => {
+export const parseDate = (d?: WorldStateDate): Date => {
   const safeD = d || epochZero;
   const dt = safeD.$date || epochZero.$date;
-  return new Date(safeD.$date ? Number(dt.$numberLong) : 1000 * d.sec);
+  return new Date(safeD.$date ? Number(dt!.$numberLong) : 1000 * (d as {sec: number}).sec);
 };
 
 /**

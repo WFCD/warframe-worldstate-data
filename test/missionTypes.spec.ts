@@ -16,7 +16,7 @@ const missionTypesSchema = {
       properties: {
         value: { type: 'string' },
       },
-      require: ['value'],
+      required: ['value'],
     },
   },
   type: 'object',

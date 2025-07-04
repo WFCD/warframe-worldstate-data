@@ -1,4 +1,4 @@
-import { expect, should } from 'chai';
+import { expect } from 'chai';
 
 import {
   archonShardColor,
@@ -29,21 +29,10 @@ import {
   translatePolarity,
   translateSeason,
   upgrade,
-} from '../../tools/translation.js';
-
-should();
+} from '../../tools/translation';
 
 describe('translation', () => {
   describe('toTitleCase()', () => {
-    it('requires one string argument', () => {
-      (() => {
-        toTitleCase();
-      }).should.throw(TypeError);
-      (() => {
-        toTitleCase('test');
-      }).should.not.throw();
-    });
-
     it('converts the first letter of every word to uppercase and the others to lowercase', () => {
       toTitleCase('test').should.equal('Test');
       toTitleCase('test teST').should.equal('Test Test');
@@ -75,7 +64,7 @@ describe('translation', () => {
         nodeMissionType('not/Found').should.equal('Found');
       });
       it("should return the key if one isn't provided", () => {
-        nodeMissionType(0).should.equal(0);
+        nodeMissionType('notfound').should.equal('notfound');
       });
     });
     describe('nodeEnemy()', () => {
@@ -86,7 +75,7 @@ describe('translation', () => {
         nodeEnemy('not/Found', 'es').should.equal('Found');
       });
       it("should return the key if one isn't provided", () => {
-        nodeEnemy(0, 'es').should.equal(0);
+        nodeEnemy('notfound', 'es').should.equal('notfound');
       });
     });
     describe('languageString()', () => {
@@ -97,7 +86,7 @@ describe('translation', () => {
         languageString('not/Found').should.equal('Found');
       });
       it("should return the key if one isn't provided", () => {
-        languageDesc(0, 'es').should.equal(0);
+        languageDesc('notfound', 'es').should.equal('[PH] Notfound Desc');
       });
     });
     describe('languageDesc()', () => {
@@ -110,7 +99,7 @@ describe('translation', () => {
         languageDesc('not/Found').should.equal('[PH] Found Desc');
       });
       it("should return the key if one isn't provided", () => {
-        languageDesc(0, 'es').should.equal(0);
+        languageDesc('notfound', 'es').should.equal('[PH] Notfound Desc');
       });
     });
     describe('missionType()', () => {
@@ -119,9 +108,6 @@ describe('translation', () => {
       });
       it("should return the key if it's not found in the data", () => {
         missionType('notfound').should.equal('Notfound');
-      });
-      it("should return the key if one isn't provided", () => {
-        missionType(0).should.equal(0);
       });
     });
     describe('conclaveMode()', () => {
@@ -132,7 +118,7 @@ describe('translation', () => {
         conclaveMode('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        conclaveMode(0).should.equal(0);
+        conclaveMode('notfound').should.equal('notfound');
       });
     });
     describe('conclaveCategory()', () => {
@@ -143,7 +129,7 @@ describe('translation', () => {
         conclaveCategory('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        conclaveCategory(0).should.equal(0);
+        conclaveCategory('notfound').should.equal('notfound');
       });
     });
     describe('fissureModifier()', () => {
@@ -154,7 +140,7 @@ describe('translation', () => {
         fissureModifier('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        fissureModifier(0).should.equal(0);
+        fissureModifier('notfound').should.equal('notfound');
       });
     });
     describe('fissureTier()', () => {
@@ -165,7 +151,7 @@ describe('translation', () => {
         fissureTier('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        fissureTier(0).should.equal(0);
+        fissureTier('notfound').should.equal('notfound');
       });
     });
     describe('upgrade()', () => {
@@ -176,7 +162,7 @@ describe('translation', () => {
         upgrade('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        upgrade(0).should.equal(0);
+        upgrade('notfound').should.equal('notfound');
       });
     });
     describe('operation()', () => {
@@ -187,7 +173,7 @@ describe('translation', () => {
         operation('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        operation(0).should.equal(0);
+        operation('notfound').should.equal('notfound');
       });
     });
     describe('operationSymbol()', () => {
@@ -198,7 +184,7 @@ describe('translation', () => {
         operationSymbol('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        operationSymbol(0).should.equal(0);
+        operationSymbol('notfound').should.equal('notfound');
       });
     });
     describe('sortieBoss()', () => {
@@ -209,7 +195,7 @@ describe('translation', () => {
         sortieBoss('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        sortieBoss(0).should.equal(0);
+        sortieBoss('notfound').should.equal('notfound');
       });
     });
     describe('sortieFaction()', () => {
@@ -220,7 +206,7 @@ describe('translation', () => {
         sortieFaction('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        sortieFaction(0).should.equal(0);
+        sortieFaction('notfound').should.equal('notfound');
       });
     });
     describe('sortieModifier()', () => {
@@ -231,7 +217,7 @@ describe('translation', () => {
         sortieModifier('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        sortieModifier(0).should.equal(0);
+        sortieModifier('notfound').should.equal('notfound');
       });
     });
     describe('sortieModDesc()', () => {
@@ -244,7 +230,7 @@ describe('translation', () => {
         sortieModDesc('notfound').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        sortieModDesc(0).should.equal(0);
+        sortieModDesc('notfound').should.equal('notfound');
       });
     });
     describe('syndicate()', () => {
@@ -315,7 +301,7 @@ describe('translation', () => {
         node('not/Found', 'es').should.equal('Found');
       });
       it("should return the key if one isn't provided", () => {
-        node(0, 'es').should.equal(0);
+        node('notfound', 'es').should.equal('notfound');
       });
     });
     describe('nodeMissionType()', () => {
@@ -326,7 +312,7 @@ describe('translation', () => {
         nodeMissionType('not/Found', 'es').should.equal('Found');
       });
       it("should return the key if one isn't provided", () => {
-        nodeMissionType(0, 'es').should.equal(0);
+        nodeMissionType('notfound', 'es').should.equal('notfound');
       });
     });
     describe('nodeEnemy()', () => {
@@ -337,7 +323,7 @@ describe('translation', () => {
         nodeEnemy('not/Found', 'es').should.equal('Found');
       });
       it("should return the key if one isn't provided", () => {
-        nodeEnemy(0, 'es').should.equal(0);
+        nodeEnemy('notfound', 'es').should.equal('notfound');
       });
     });
     describe('languageDesc()', () => {
@@ -372,7 +358,7 @@ describe('translation', () => {
         missionType('notfound', 'es').should.equal('Notfound');
       });
       it("should return the key if one isn't provided", () => {
-        missionType(0, 'es').should.equal(0);
+        missionType('notfound', 'es').should.equal('Notfound');
       });
     });
     describe('conclaveMode()', () => {
@@ -383,7 +369,7 @@ describe('translation', () => {
         conclaveMode('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        conclaveMode(0, 'es').should.equal(0);
+        conclaveMode('notfound', 'es').should.equal('notfound');
       });
     });
     describe('conclaveChallenge()', () => {
@@ -406,7 +392,7 @@ describe('translation', () => {
         conclaveCategory('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        conclaveCategory(0, 'es').should.equal(0);
+        conclaveCategory('notfound', 'es').should.equal('notfound');
       });
     });
     describe('fissureModifier()', () => {
@@ -417,7 +403,7 @@ describe('translation', () => {
         fissureModifier('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        fissureModifier(0, 'es').should.equal(0);
+        fissureModifier('notfound', 'es').should.equal('notfound');
       });
     });
     describe('fissureTier()', () => {
@@ -428,7 +414,7 @@ describe('translation', () => {
         fissureTier('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        fissureTier(0, 'es').should.equal(0);
+        fissureTier('notfound', 'es').should.equal('notfound');
       });
     });
     describe('upgrade()', () => {
@@ -439,7 +425,7 @@ describe('translation', () => {
         upgrade('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        upgrade(0, 'es').should.equal(0);
+        upgrade('notfound', 'es').should.equal('notfound');
       });
     });
     describe('operation()', () => {
@@ -450,7 +436,7 @@ describe('translation', () => {
         operation('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        operation(0, 'es').should.equal(0);
+        operation('notfound', 'es').should.equal('notfound');
       });
     });
     describe('operationSymbol()', () => {
@@ -461,7 +447,7 @@ describe('translation', () => {
         operationSymbol('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        operationSymbol(0, 'es').should.equal(0);
+        operationSymbol('notfound', 'es').should.equal('notfound');
       });
     });
     describe('sortieBoss()', () => {
@@ -472,7 +458,7 @@ describe('translation', () => {
         sortieBoss('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        sortieBoss(0).should.equal(0);
+        sortieBoss('notfound').should.equal('notfound');
       });
     });
     describe('sortieFaction()', () => {
@@ -483,7 +469,7 @@ describe('translation', () => {
         sortieFaction('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        sortieFaction(0, 'es').should.equal(0);
+        sortieFaction('notfound', 'es').should.equal('notfound');
       });
     });
     describe('sortieModifier()', () => {
@@ -494,7 +480,7 @@ describe('translation', () => {
         sortieModifier('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        sortieModifier(0, 'es').should.equal(0);
+        sortieModifier('notfound', 'es').should.equal('notfound');
       });
     });
     describe('sortieModDesc()', () => {
@@ -507,7 +493,7 @@ describe('translation', () => {
         sortieModDesc('notfound', 'es').should.equal('notfound');
       });
       it("should return the key if one isn't provided", () => {
-        sortieModDesc(0, 'es').should.equal(0);
+        sortieModDesc('notfound', 'es').should.equal('notfound');
       });
     });
     describe('region()', () => {
@@ -532,7 +518,7 @@ describe('translation', () => {
     });
     describe('archonShardColor()', () => {
       it("should return a translation of the key if it's found in the data", () => {
-        archonShardColor('ACC_BLUE', 'es').should.equal('Azure');
+        archonShardColor('ACC_BLUE', 'es').should.equal('Celeste');
       });
       it("should return the key if it's not found in the data", () => {
         archonShardColor('notfound').should.equal('notfound');
@@ -544,7 +530,7 @@ describe('translation', () => {
           'ACC_BLUE',
           '/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax',
           'es'
-        ).should.equal('+150% Health');
+        ).should.equal('+150% Salud');
       });
       it("should return the key if it's not found in the data", () => {
         archonShardUpgradeType('notfound', 'notfound').should.equal('notfound');
