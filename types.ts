@@ -32,7 +32,7 @@ export interface SteelPath {
 
 export interface SteelPathOffering {
   name: string;
-  cost: string;
+  cost: number;
 }
 
 export interface SynthesisTarget {
