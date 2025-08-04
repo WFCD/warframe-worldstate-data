@@ -29,9 +29,10 @@ export interface SteelPath {
   rotation: SteelPathOffering[];
   evergreen: SteelPathOffering[];
 }
-interface SteelPathOffering {
+
+export interface SteelPathOffering {
   name: string;
-  cost: string;
+  cost: number;
 }
 
 export interface SynthesisTarget {
