@@ -79,28 +79,35 @@ export const parseDate = (d?: ContentTimestamp): Date => {
 /**
  * Get a weekly reset timestamp
  */
-export const weeklyReset = (): Date => {
+export const weeklyReset = (): { activation: Date; expiry: Date } => {
   const now = new Date();
   const currentDay = now.getUTCDay();
   const daysUntilNextMonday = currentDay === 0 ? 1 : 8 - currentDay;
 
-  const nextWeekStart = new Date(now.getTime());
-  nextWeekStart.setUTCDate(now.getUTCDate() + daysUntilNextMonday);
-  nextWeekStart.setUTCHours(0, 0, 0, 0);
+  const expiry = new Date(now.getTime());
+  expiry.setUTCDate(now.getUTCDate() + daysUntilNextMonday);
+  expiry.setUTCHours(0, 0, 0, 0);
 
-  return nextWeekStart;
+  const activation = new Date(expiry.getTime());
+  activation.setUTCDate(expiry.getUTCDate() - 7);
+
+  return { activation, expiry };
 };
 
 /**
  * Get a daily reset timestamp
  */
-export const dailyReset = (): Date => {
+export const dailyReset = (): { activation: Date; expiry: Date } => {
   const now = new Date();
-  const nextDayStart = new Date(now.getTime());
-  nextDayStart.setUTCDate(now.getUTCDate() + 1);
-  nextDayStart.setUTCHours(0, 0, 0, 0);
 
-  return nextDayStart;
+  const activation = new Date(now.getTime());
+  activation.setUTCHours(0, 0, 0, 0);
+
+  const expiry = new Date(now.getTime());
+  expiry.setUTCDate(now.getUTCDate() + 1);
+  expiry.setUTCHours(0, 0, 0, 0);
+
+  return {activation, expiry};
 };
 
 /**
