@@ -1,6 +1,6 @@
 import { should } from 'chai';
 
-import { timeDeltaToString, parseDate, WorldStateDate } from '../../tools/timeDate';
+import { timeDeltaToString, parseDate, ContentTimestamp } from '../../tools/timeDate';
 
 should();
 
@@ -26,9 +26,9 @@ describe('timeDateUtils', () => {
   });
   describe('parseDate()', () => {
     it('should parse even if date provided is undefined', () => {
-      (() => parseDate(undefined as unknown as WorldStateDate)).should.not.throw();
-      (() => parseDate(0 as unknown as WorldStateDate)).should.not.throw();
-      (() => parseDate(2340985790347890 as unknown as WorldStateDate)).should.not.throw();
+      (() => parseDate(undefined as unknown as ContentTimestamp)).should.not.throw();
+      (() => parseDate(0 as unknown as ContentTimestamp)).should.not.throw();
+      (() => parseDate(2340985790347890 as unknown as ContentTimestamp)).should.not.throw();
     });
   });
 });

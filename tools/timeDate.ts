@@ -1,4 +1,4 @@
-const epochZero: WorldStateDate = {
+const epochZero: ContentTimestamp = {
   $date: {
     $numberLong: 0,
   },
@@ -61,7 +61,7 @@ export const toNow = (d: Date, now: () => number = Date.now): number => {
   return now() - d.getTime();
 };
 
-export interface WorldStateDate {
+export interface ContentTimestamp {
   $date?: { $numberLong: number };
 }
 
@@ -70,10 +70,44 @@ export interface WorldStateDate {
  * @param {Object} d The worldState date object
  * @returns {Date} parsed date from DE date format
  */
-export const parseDate = (d?: WorldStateDate): Date => {
+export const parseDate = (d?: ContentTimestamp): Date => {
   const safeD = d || epochZero;
   const dt = safeD.$date || epochZero.$date;
-  return new Date(safeD.$date ? Number(dt!.$numberLong) : 1000 * (d as {sec: number}).sec);
+  return new Date(safeD.$date ? Number(dt!.$numberLong) : 1000 * (d as { sec: number }).sec);
+};
+
+/**
+ * Get a weekly reset timestamp
+ */
+export const weeklyReset = (): { activation: Date; expiry: Date } => {
+  const now = new Date();
+  const currentDay = now.getUTCDay();
+  const daysUntilNextMonday = currentDay === 0 ? 1 : 8 - currentDay;
+
+  const expiry = new Date(now.getTime());
+  expiry.setUTCDate(now.getUTCDate() + daysUntilNextMonday);
+  expiry.setUTCHours(0, 0, 0, 0);
+
+  const activation = new Date(expiry.getTime());
+  activation.setUTCDate(expiry.getUTCDate() - 7);
+
+  return { activation, expiry };
+};
+
+/**
+ * Get a daily reset timestamp
+ */
+export const dailyReset = (): { activation: Date; expiry: Date } => {
+  const now = new Date();
+
+  const activation = new Date(now.getTime());
+  activation.setUTCHours(0, 0, 0, 0);
+
+  const expiry = new Date(now.getTime());
+  expiry.setUTCDate(now.getUTCDate() + 1);
+  expiry.setUTCHours(0, 0, 0, 0);
+
+  return {activation, expiry};
 };
 
 /**
@@ -90,4 +124,6 @@ export default {
   fromNow,
   toNow,
   parseDate,
+  dailyReset,
+  weeklyReset,
 };
