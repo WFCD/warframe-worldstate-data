@@ -1,7 +1,7 @@
 name: Actions
 
 on:
-  pull_request:
+  pull_request_target:
     branches:
       - master
 
@@ -40,3 +40,4 @@ jobs:
       - run: npm run test:cov
         env:
           CI: true
+          COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_REPO_TOKEN }}
