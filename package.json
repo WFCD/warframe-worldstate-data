@@ -49,13 +49,13 @@
   },
   "scripts": {
     "build": "tsdown",
-    "coverage": "npm test && c8 report --reporter=text-lcov | coveralls",
     "lint": "biome lint",
     "lint:fix": "biome lint --write",
     "prepare": "husky && npx install-peerdeps @wfcd/eslint-config@latest -S",
     "prepublishOnly": "npm run build",
     "sort": "tsx ./tools/sortLanguages.ts",
     "test": "c8 mocha",
+    "test:cov": "npm test && c8 report --reporter=text-lcov | npx coveralls",
     "validate": "npm run lint:fix && npm run test && git add -u ."
   },
   "prettier": "@wfcd/eslint-config/prettier",
@@ -80,7 +80,6 @@
     "chai": "^5.2.0",
     "chai-json": "^1.0.0",
     "chai-json-schema-ajv": "^5.2.4",
-    "coveralls": "^3.1.1",
     "husky": "^9.0.11",
     "lint-staged": "^16.0.0",
     "mocha": "^11.7.1",
