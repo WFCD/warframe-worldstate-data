@@ -29,7 +29,7 @@ jobs:
     needs: lint
     strategy:
       matrix:
-        node-version: ['lts/hydrogen', 'lts/iron', 'lts/*']
+        node-version: ['lts/jod', 'lts/*']
     steps:
       - uses: actions/checkout@v5
       - name: Use Node.js ${{ matrix.node-version }}
