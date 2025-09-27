@@ -67,7 +67,7 @@
   "devDependencies": {
     "@biomejs/biome": "2.2.4",
     "@commitlint/cli": "^19.2.1",
-    "@commitlint/config-conventional": "^19.1.0",
+    "@commitlint/config-conventional": "^20.0.0",
     "@types/chai": "^5.0.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "^24.0.7",
