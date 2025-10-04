@@ -41,14 +41,35 @@
   "/Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama": {
     "value": "Empyrean Vignette"
   },
+  "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionMagNovaVaultABronze": {
+    "value": "Lith M2 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionMagNovaVaultABronze": {
+    "value": "Meso B3 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionMagNovaVaultABronze": {
+    "value": "Neo N9 Relic"
+  },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze": {
     "value": "Axi M5 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionMagNovaVaultABronze": {
+    "value": "Axi S4 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionMagNovaVaultBBronze": {
+    "value": "Axi A5 Relic"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
     "value": "Axi A2 Relic (Intact)"
   },
   "/Lotus/StoreItems/Types/Game/QuartersWallpapers/LavosAlchemistWallpaper": {
     "value": "Javi's Scrawling"
+  },
+  "/Lotus/StoreItems/Types/Game/ShipScenes/CorpusShipScene": {
+    "value": "Corpus Interior Decorations"
+  },
+  "/Lotus/StoreItems/Types/Game/ShipScenes/PrimeLisetFiligreeScene": {
+    "value": "Filigree Prime Decoration"
   },
   "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalAmar": {
     "value": "Crimson Archon Shard"
@@ -104,11 +125,23 @@
   "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
     "value": "Flak Fighter Decoration"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/MagPrimeBobbleHead": {
+    "value": "Noggle Statue - Mag Prime"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/NovaPrimeBobbleHead": {
+    "value": "Noggle Statue - Nova Prime"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
     "value": "Parazon Poster"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC": {
     "value": "Conquera Kuaka Floof"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2022QTCC": {
+    "value": "Conquera Sawgaw Floof"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyVirminkQTCC": {
+    "value": "Conquera Virmink Floof"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster": {
     "value": "Dog Days Protea Display"
@@ -251,6 +284,9 @@
   "/Lotus/StoreItems/Upgrades/Skins/Clan/Dragon2024BadgeItem": {
     "value": "Lunar Renewal Dragon Emblem"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Clan/TwitchNecraloidBadgeItem": {
+    "value": "Necraseal Emblem"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Effects/BaroEphemeraB": {
     "value": "Ki'Teer Reverence Ephemera"
   },
@@ -263,11 +299,17 @@
   "/Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm": {
     "value": "Reshantur Cult Spear Skin"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinTwitchPrime": {
+    "value": "Spektaka Liset Skin"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader": {
     "value": "Liset Prisma Skin"
   },
   "/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/MoonWarfanSugatraMeleeDangle": {
     "value": "Renayla Sugatra"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/TwitchPrimeMeleeDangle": {
+    "value": "Spektaka Prime Sugatra"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/AshLevarianTiara": {
     "value": "Scoria Diadem"
@@ -290,14 +332,26 @@
   "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesNovaEngineer": {
     "value": "Masker's Theodolite Crewsuit Sleeves"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/AmazonOniSyandana": {
+    "value": "Stezia Sumbha Syandana"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf": {
     "value": "Ki'teer Razza Synadana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/InfMembraneCape": {
+    "value": "Apis Syandana"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/NezhaLeverianCape": {
     "value": "Reshantur Cult Syandana"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeTwitchScarf": {
+    "value": "Vistapa Prime Syandana"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/SolsticeBaroCape": {
     "value": "Wintercress Syandana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/TwitchPrimeScarf": {
+    "value": "Spektaka Prime Syandana"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GaussSentinelMask": {
     "value": "Altra Sentinel Mask"
@@ -307,6 +361,9 @@
   },
   "/Lotus/StoreItems/Upgrades/Skins/Sigils/1999DrippySigil": {
     "value": "Drippy Sigil"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Sigils/TwitchPrimeSigil": {
+    "value": "Static Reactor Prime Sigil"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearFreeTigerSigil": {
     "value": "Lunar Renewal Tiger Sigil"
@@ -475,6 +532,24 @@
   },
   "/Lotus/Types/StoreItems/Packages/FormaPack": {
     "value": "Forma 3-Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVDistillingExtractorPrimeSet": {
+    "value": "디스틸링 프라임 추출기"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEdoPrimeArmorSet": {
+    "value": "Edo Prime Armor Set"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMagNovaPrimeDualPack": {
+    "value": "Mag & Nova Prime Dual Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMagPrimeSinglePack": {
+    "value": "Mag Prime Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNecraloidBundle": {
+    "value": "Necraloid Bundle"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVTargisPrimeArmorSet": {
+    "value": "Targis Prime Armor Set"
   },
   "/Lotus/Types/StoreItems/Packages/PrimeTokenPackA": {
     "value": "3 Regal Aya"
