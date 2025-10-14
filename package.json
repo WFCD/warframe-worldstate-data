@@ -11,10 +11,7 @@
   "bugs": {
     "url": "https://github.com/wfcd/warframe-worldstate-data/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wfcd/warframe-worldstate-data.git"
-  },
+  "repository": "https://github.com/WFCD/warframe-worldstate-data",
   "license": "MIT",
   "author": "tobitenno",
   "contributors": [
@@ -93,5 +90,6 @@
   },
   "engines": {
     "node": ">=22"
-  }
+  },
+  "publishConfig": { "provenance": true }
 }
