@@ -26,6 +26,12 @@
   "/Lotus/Powersuits/Odalisk/Odalisk": {
     "value": "Protea"
   },
+  "/Lotus/StoreItems/Powersuits/Bard/OctaviaPrime": {
+    "value": "Octavia Prime"
+  },
+  "/Lotus/StoreItems/Powersuits/Nezha/NezhaPrime": {
+    "value": "Nezha Prime"
+  },
   "/Lotus/StoreItems/Powersuits/Trapper/TrapperPrime": {
     "value": "Vauban Prime"
   },
@@ -44,11 +50,26 @@
   "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionMagNovaVaultABronze": {
     "value": "Lith M2 Relic"
   },
+  "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultABronze": {
+    "value": "Lith O3 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultBBronze": {
+    "value": "Lith G7 Relic"
+  },
   "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionMagNovaVaultABronze": {
     "value": "Meso B3 Relic"
   },
+  "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultABronze": {
+    "value": "Meso N15 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultBBronze": {
+    "value": "Meso Z5 Relic"
+  },
   "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionMagNovaVaultABronze": {
     "value": "Neo N9 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionNezhaOctaviaVaultABronze": {
+    "value": "Neo T8 Relic"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze": {
     "value": "Axi M5 Relic"
@@ -58,6 +79,9 @@
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionMagNovaVaultBBronze": {
     "value": "Axi A5 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionNezhaOctaviaVaultABronze": {
+    "value": "Axi P5 Relic"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
     "value": "Axi A2 Relic (Intact)"
@@ -125,11 +149,20 @@
   "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
     "value": "Flak Fighter Decoration"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropShawzinPrime": {
+    "value": "Aristei Prime Shawzin"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/MagPrimeBobbleHead": {
     "value": "Noggle Statue - Mag Prime"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/NezhaPrimeBobbleHead": {
+    "value": "Noggle Statue - Nezha Prime"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/NovaPrimeBobbleHead": {
     "value": "Noggle Statue - Nova Prime"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/OctaviaPrimeBobbleHead": {
+    "value": "Noggle Statue - Octavia Prime"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
     "value": "Parazon Poster"
@@ -290,6 +323,9 @@
   "/Lotus/StoreItems/Upgrades/Skins/Effects/BaroEphemeraB": {
     "value": "Ki'Teer Reverence Ephemera"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Effects/EphemeraNezhaPrime": {
+    "value": "Baurahn Prime Ephemera"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
     "value": "Fae Path Ephemera"
   },
@@ -343,6 +379,9 @@
   },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/NezhaLeverianCape": {
     "value": "Reshantur Cult Syandana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeOctaviaSyandana": {
+    "value": "Serenidine Prime Syandana"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeTwitchScarf": {
     "value": "Vistapa Prime Syandana"
@@ -398,6 +437,18 @@
   "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
     "value": "Prisma Dual Decurions"
   },
+  "/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeTenora/TenoraPrimeWeapon": {
+    "value": "Tenora Prime"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon": {
+    "value": "Guandao Prime"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon": {
+    "value": "Pandero Prime"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol": {
+    "value": "Zakti Prime"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsEasy": {
     "value": "Starve the beast",
     "desc": "Destroy 75 Containers"
@@ -405,6 +456,10 @@
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
     "value": "Starve the beast",
     "desc": "Destroy 150 Containers"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesEasy": {
+    "value": "Even the odds",
+    "desc": "Kill 250 Enemies"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium": {
     "value": "Even the odds",
@@ -539,6 +594,9 @@
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEdoPrimeArmorSet": {
     "value": "Edo Prime Armor Set"
   },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVGlissandaPrimeArmorSet": {
+    "value": "Glissanda Prime Armor Set"
+  },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMagNovaPrimeDualPack": {
     "value": "Mag & Nova Prime Dual Pack"
   },
@@ -547,6 +605,18 @@
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNecraloidBundle": {
     "value": "Necraloid Bundle"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNezhaOctaviaPrimeDualPack": {
+    "value": "Nezha & Octavia Prime Dual Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNezhaPrimeSinglePack": {
+    "value": "Nezha Prime Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVOctaviaPrimeSinglePack": {
+    "value": "Octavia Prime"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVRanshaPrimeArmorSet": {
+    "value": "Ransha Prime Armor Set"
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVTargisPrimeArmorSet": {
     "value": "Targis Prime Armor Set"
@@ -626,6 +696,10 @@
   "/Lotus/Upgrades/Calendar/GasChanceToPrimaryAndSecondary": {
     "value": "Toxic Shot",
     "desc": "Add 25% Gas Status Chance to Primary and Secondary weapons."
+  },
+  "/Lotus/Upgrades/Calendar/GenerateOmniOrbsOnWeakKill": {
+    "value": "Involuntary Transfusion",
+    "desc": "Weakpoint kills have a 25% chance to generate an Universal Orb."
   },
   "/Lotus/Upgrades/Calendar/GuidingMissilesChance": {
     "value": "Tickshots",
@@ -19150,6 +19224,10 @@
   "AssassinsSyndicate": {
     "value": "암살자"
   },
+  "BalloonFest": {
+    "value": "Ballonfest",
+    "desc": "Scaldra Harbingers are more numerous and attack and move more quickly."
+  },
   "CephalonSudaSyndicate": {
     "value": "세팔론 수다"
   },
@@ -19164,9 +19242,17 @@
     "value": "Secondary Wounds",
     "desc": "Gain 1 Puncture Status Effect every time you take damage."
   },
+  "DecayingFlesh": {
+    "value": "Permanent Injury",
+    "desc": "Max health reduced each time health damage is taken"
+  },
   "Deflectors": {
     "value": "Fortified Foes",
     "desc": "Guardian Eximus units may be encountered, including Guardian Eximus Necramechs."
+  },
+  "DisruptiveSounds": {
+    "value": "Vampire Rock",
+    "desc": "Flare creates a field that disrupts player abilities while draining energy to boost Flare's health. Flare slowly loses health when no players are in range."
   },
   "DullBlades": {
     "value": "Dull Blades",
@@ -19175,6 +19261,10 @@
   "EMPBlackHole": {
     "value": "Alluring Arcocanids",
     "desc": "As Rogue Arcocanids charge attacks, they pull Warframes towards them."
+  },
+  "EfervonFog": {
+    "value": "Dense Fog",
+    "desc": "Efervon gas blankets the level. Enemies may drop filters that can provide a temporary reprieve."
   },
   "EntratiSyndicate": {
     "value": "Entrati"
@@ -19189,6 +19279,14 @@
   "ExplosiveCrawlers": {
     "value": "Explosive Potential",
     "desc": "Rupturing Fragments replace Shuffling Fragments."
+  },
+  "FactionSwarm_Scaldra": {
+    "value": "Scaldra Speed Run",
+    "desc": "All enemies are replaced with Scaldra and move much faster."
+  },
+  "FortifiedFoes": {
+    "value": "Sealed Armor",
+    "desc": "Enemies take 90% less damage from non-weak point hits."
   },
   "FragileNodes": {
     "value": "Unified Purpose",
@@ -19205,6 +19303,10 @@
   "GrowingIncursion": {
     "value": "Fissure Cascade",
     "desc": "Fissures rip into the mission, causing the Enemy Level to go up by 1 every 10s. Destroy them to stop the level from increasing further."
+  },
+  "HarshWords": {
+    "value": "Barbed Glyphs",
+    "desc": "Each Glyph inflicts a small amount of damage when collected."
   },
   "HeavyWarfare": {
     "value": "Heavy Warfare",
@@ -19258,6 +19360,10 @@
     "value": "Myopic Munitions",
     "desc": "Enemies will only take damage if a player is within 15m of them."
   },
+  "Quicksand": {
+    "value": "Entanglement",
+    "desc": "Allies within 4m of slain enemies endure reduced Movement Speed and Parkour Velocity."
+  },
   "QuillsSyndicate": {
     "value": "퀼"
   },
@@ -19295,6 +19401,10 @@
     "value": "Hostile Regeneration",
     "desc": "Enemy health slowly regenerates."
   },
+  "Reinforcements": {
+    "value": "Coordinated Front",
+    "desc": "Eximus units support The Fragmented Tide and its final form."
+  },
   "ShieldDelay": {
     "value": "Lethargic Shields",
     "desc": "Shield recharge delay increased 500%."
@@ -19305,6 +19415,10 @@
   },
   "SolarisSyndicate": {
     "value": "Solaris United"
+  },
+  "Starvation": {
+    "value": "Ammo Deficit",
+    "desc": "Ammo restored by drops and gear is reduced 75%."
   },
   "SteelMeridianSyndicate": {
     "value": "스틸 메리디안"
@@ -19317,8 +19431,16 @@
     "value": "Abbreviated Abilities",
     "desc": "Ability durations reduced by 50%."
   },
+  "Undersupplied": {
+    "value": "Undersupplied",
+    "desc": "Max ammo on all weapons reduced by 75%"
+  },
   "VentKidsSyndicate": {
     "value": "Vent Kids"
+  },
+  "VoidAberration": {
+    "value": "Vampyric Liminus",
+    "desc": "Slow moving, immortal, Duviri Liminus drain health and energy from allies who get too close."
   },
   "Voidburst": {
     "value": "Postmortal Surges",

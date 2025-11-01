@@ -26,6 +26,12 @@
   "/Lotus/Powersuits/Odalisk/Odalisk": {
     "value": "Протея"
   },
+  "/Lotus/StoreItems/Powersuits/Bard/OctaviaPrime": {
+    "value": "Octavia Prime"
+  },
+  "/Lotus/StoreItems/Powersuits/Nezha/NezhaPrime": {
+    "value": "Nezha Prime"
+  },
   "/Lotus/StoreItems/Powersuits/Trapper/TrapperPrime": {
     "value": "Вобан-прайм"
   },
@@ -44,11 +50,26 @@
   "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionMagNovaVaultABronze": {
     "value": "Lith M2 Relic"
   },
+  "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultABronze": {
+    "value": "Lith O3 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultBBronze": {
+    "value": "Lith G7 Relic"
+  },
   "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionMagNovaVaultABronze": {
     "value": "Meso B3 Relic"
   },
+  "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultABronze": {
+    "value": "Meso N15 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultBBronze": {
+    "value": "Meso Z5 Relic"
+  },
   "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionMagNovaVaultABronze": {
     "value": "Neo N9 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionNezhaOctaviaVaultABronze": {
+    "value": "Neo T8 Relic"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze": {
     "value": "Реліквія Аксі M5"
@@ -58,6 +79,9 @@
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionMagNovaVaultBBronze": {
     "value": "Axi A5 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionNezhaOctaviaVaultABronze": {
+    "value": "Axi P5 Relic"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
     "value": "Реліквія Аксі A2 (неушкоджена)"
@@ -125,11 +149,20 @@
   "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak": {
     "value": "Flak Fighter Decoration"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropShawzinPrime": {
+    "value": "Aristei Prime Shawzin"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/MagPrimeBobbleHead": {
     "value": "Noggle Statue - Mag Prime"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/NezhaPrimeBobbleHead": {
+    "value": "Noggle Statue - Nezha Prime"
+  },
   "/Lotus/StoreItems/Types/Items/ShipDecos/NovaPrimeBobbleHead": {
     "value": "Noggle Statue - Nova Prime"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/OctaviaPrimeBobbleHead": {
+    "value": "Noggle Statue - Octavia Prime"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster": {
     "value": "Плакат «Паразон»"
@@ -290,6 +323,9 @@
   "/Lotus/StoreItems/Upgrades/Skins/Effects/BaroEphemeraB": {
     "value": "Ефемера «Вельмишановний Кі’Тір»"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Effects/EphemeraNezhaPrime": {
+    "value": "Baurahn Prime Ephemera"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple": {
     "value": "Ефемера «Шлях фей»"
   },
@@ -343,6 +379,9 @@
   },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/NezhaLeverianCape": {
     "value": "Сяндана «Культ „Решантур“»"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeOctaviaSyandana": {
+    "value": "Serenidine Prime Syandana"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeTwitchScarf": {
     "value": "Vistapa Prime Syandana"
@@ -398,6 +437,18 @@
   "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
     "value": "Парні Декуріони-призма"
   },
+  "/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeTenora/TenoraPrimeWeapon": {
+    "value": "Tenora Prime"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon": {
+    "value": "Guandao Prime"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon": {
+    "value": "Pandero Prime"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol": {
+    "value": "Zakti Prime"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsEasy": {
     "value": "Голодні ігри",
     "desc": "Знищте 75 контейнерів."
@@ -405,6 +456,10 @@
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
     "value": "Голодні ігри",
     "desc": "Знищіть 150 контейнерів"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesEasy": {
+    "value": "Рівні шанси",
+    "desc": "Kill 250 Enemies"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium": {
     "value": "Рівні шанси",
@@ -539,6 +594,9 @@
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVEdoPrimeArmorSet": {
     "value": "Edo Prime Armor Set"
   },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVGlissandaPrimeArmorSet": {
+    "value": "Glissanda Prime Armor Set"
+  },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMagNovaPrimeDualPack": {
     "value": "Mag & Nova Prime Dual Pack"
   },
@@ -547,6 +605,18 @@
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNecraloidBundle": {
     "value": "Necraloid Bundle"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNezhaOctaviaPrimeDualPack": {
+    "value": "Nezha & Octavia Prime Dual Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNezhaPrimeSinglePack": {
+    "value": "Nezha Prime Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVOctaviaPrimeSinglePack": {
+    "value": "Octavia Prime"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVRanshaPrimeArmorSet": {
+    "value": "Ransha Prime Armor Set"
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVTargisPrimeArmorSet": {
     "value": "Targis Prime Armor Set"
@@ -626,6 +696,10 @@
   "/Lotus/Upgrades/Calendar/GasChanceToPrimaryAndSecondary": {
     "value": "Токсичний постріл",
     "desc": "Додає 25 % імовірності накладання газового ефекту стану для основної та допоміжної зброї."
+  },
+  "/Lotus/Upgrades/Calendar/GenerateOmniOrbsOnWeakKill": {
+    "value": "Involuntary Transfusion",
+    "desc": "Weakpoint kills have a 25% chance to generate an Universal Orb."
   },
   "/Lotus/Upgrades/Calendar/GuidingMissilesChance": {
     "value": "Tickshots",
@@ -19150,6 +19224,10 @@
   "AssassinsSyndicate": {
     "value": "Убивці"
   },
+  "BalloonFest": {
+    "value": "Ballonfest",
+    "desc": "Scaldra Harbingers are more numerous and attack and move more quickly."
+  },
   "CephalonSudaSyndicate": {
     "value": "Цефалонка Суда"
   },
@@ -19164,9 +19242,17 @@
     "value": "Secondary Wounds",
     "desc": "Gain 1 Puncture Status Effect every time you take damage."
   },
+  "DecayingFlesh": {
+    "value": "Permanent Injury",
+    "desc": "Max health reduced each time health damage is taken"
+  },
   "Deflectors": {
     "value": "Укріплені вороги",
     "desc": "Можуть з’являтися захисники-ексіми (включно з некрамехами захисниками-ексімами)."
+  },
+  "DisruptiveSounds": {
+    "value": "Vampire Rock",
+    "desc": "Flare creates a field that disrupts player abilities while draining energy to boost Flare's health. Flare slowly loses health when no players are in range."
   },
   "DullBlades": {
     "value": "Затуплені клинки",
@@ -19175,6 +19261,10 @@
   "EMPBlackHole": {
     "value": "Звабливі «Аркоканіди»",
     "desc": "Коли дикі \"Аркоканіди\" нападають, то підтягують ворфреймів до себе."
+  },
+  "EfervonFog": {
+    "value": "Dense Fog",
+    "desc": "Efervon gas blankets the level. Enemies may drop filters that can provide a temporary reprieve."
   },
   "EntratiSyndicate": {
     "value": "Ентраті"
@@ -19189,6 +19279,14 @@
   "ExplosiveCrawlers": {
     "value": "Вибуховий потенціал",
     "desc": "Розривні розламані заміняють перемішаних розламаних."
+  },
+  "FactionSwarm_Scaldra": {
+    "value": "Scaldra Speed Run",
+    "desc": "All enemies are replaced with Scaldra and move much faster."
+  },
+  "FortifiedFoes": {
+    "value": "Sealed Armor",
+    "desc": "Enemies take 90% less damage from non-weak point hits."
   },
   "FragileNodes": {
     "value": "Спільна мета",
@@ -19205,6 +19303,10 @@
   "GrowingIncursion": {
     "value": "Каскадні розломи",
     "desc": "На завданні з'являються розломи, підвищуючи рівень ворогів на 1 кожні 10 секунд. Знищіть їх, щоби зупинити приріст рівнів ворогів."
+  },
+  "HarshWords": {
+    "value": "Barbed Glyphs",
+    "desc": "Each Glyph inflicts a small amount of damage when collected."
   },
   "HeavyWarfare": {
     "value": "Посилений захист",
@@ -19258,6 +19360,10 @@
     "value": "Сліпі боєприпаси",
     "desc": "Вороги отримуватимуть шкоду лише за перебування гравця в межах 15 м від них."
   },
+  "Quicksand": {
+    "value": "Entanglement",
+    "desc": "Allies within 4m of slain enemies endure reduced Movement Speed and Parkour Velocity."
+  },
   "QuillsSyndicate": {
     "value": "Писарі"
   },
@@ -19295,6 +19401,10 @@
     "value": "Вороже відновлення",
     "desc": "Здоров’я ворогів поступово відновлюється."
   },
+  "Reinforcements": {
+    "value": "Coordinated Front",
+    "desc": "Eximus units support The Fragmented Tide and its final form."
+  },
   "ShieldDelay": {
     "value": "Сонні щити",
     "desc": "Затримка відновлення щитів збільшена на 500 %"
@@ -19305,6 +19415,10 @@
   },
   "SolarisSyndicate": {
     "value": "Солярійська Єдність"
+  },
+  "Starvation": {
+    "value": "Ammo Deficit",
+    "desc": "Ammo restored by drops and gear is reduced 75%."
   },
   "SteelMeridianSyndicate": {
     "value": "Сталевий Меридіан"
@@ -19317,8 +19431,16 @@
     "value": "Скорочені здібності",
     "desc": "Тривалість дії здібностей скорочено 50 %."
   },
+  "Undersupplied": {
+    "value": "Undersupplied",
+    "desc": "Max ammo on all weapons reduced by 75%"
+  },
   "VentKidsSyndicate": {
     "value": "Вентижевжики"
+  },
+  "VoidAberration": {
+    "value": "Vampyric Liminus",
+    "desc": "Slow moving, immortal, Duviri Liminus drain health and energy from allies who get too close."
   },
   "Voidburst": {
     "value": "Посмертні вибухи",
