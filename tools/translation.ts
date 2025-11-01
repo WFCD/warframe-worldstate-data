@@ -357,6 +357,13 @@ export const translateCalendarEvent = (key: string): string => valMapping(key, e
  */
 export const translateSeason = (season: string): string => toTitleCase(season.replace('CST_', ''));
 
+const archimedeaTypes = {
+  CT_LAB: "Deep Archimedea",
+  CT_HEX: "Temporal Archimedea"
+}
+
+export const translateArchimedeaType = (type: string) => valMapping(type, archimedeaTypes);
+
 /**
  * An object containing functions to convert in-game names to their localizations
  * @typedef {Record<string, function>} Translator
