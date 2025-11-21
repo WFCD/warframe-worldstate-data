@@ -29,11 +29,17 @@
   "/Lotus/StoreItems/Powersuits/Bard/OctaviaPrime": {
     "value": "Octavia Prime"
   },
+  "/Lotus/StoreItems/Powersuits/IronFrame/IronFramePrime": {
+    "value": "Hildryn Prime"
+  },
   "/Lotus/StoreItems/Powersuits/Nezha/NezhaPrime": {
     "value": "Nezha Prime"
   },
   "/Lotus/StoreItems/Powersuits/Trapper/TrapperPrime": {
     "value": "Vauban Prime"
+  },
+  "/Lotus/StoreItems/Powersuits/Wisp/WispPrime": {
+    "value": "Wisp Prime"
   },
   "/Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack": {
     "value": "Arcane Enhancements"
@@ -56,6 +62,12 @@
   "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultBBronze": {
     "value": "Lith G7 Relic"
   },
+  "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionWispHildrynVaultABronze": {
+    "value": "Lith L6 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionWispHildrynVaultBBronze": {
+    "value": "Lith F3 Relic"
+  },
   "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionMagNovaVaultABronze": {
     "value": "Meso B3 Relic"
   },
@@ -65,11 +77,17 @@
   "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultBBronze": {
     "value": "Meso Z5 Relic"
   },
+  "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionWispHildrynVaultABronze": {
+    "value": "Meso G10 Relic"
+  },
   "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionMagNovaVaultABronze": {
     "value": "Neo N9 Relic"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionNezhaOctaviaVaultABronze": {
     "value": "Neo T8 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionWispHildrynVaultABronze": {
+    "value": "Neo H4 Relic"
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze": {
     "value": "Axi M5 Relic"
@@ -85,6 +103,12 @@
   },
   "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
     "value": "Axi A2 Relic (Intact)"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionWispHildrynVaultABronze": {
+    "value": "Axi W4 Relic"
+  },
+  "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionWispHildrynVaultBBronze": {
+    "value": "Axi S19 Relic"
   },
   "/Lotus/StoreItems/Types/Game/QuartersWallpapers/LavosAlchemistWallpaper": {
     "value": "Javi's Scrawling"
@@ -133,6 +157,9 @@
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/GrendelOrokinDishSet": {
     "value": "Karishh's Dinnerware"
+  },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/HildrynPrimeBobbleHead": {
+    "value": "Noggle Statue - Hildryn Prime"
   },
   "/Lotus/StoreItems/Types/Items/ShipDecos/Leverian/IvaraLeverianPovisRecordsDecoration": {
     "value": "Secret History Replica"
@@ -200,6 +227,9 @@
   "/Lotus/StoreItems/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem": {
     "value": "Archwing Articula"
   },
+  "/Lotus/StoreItems/Types/Items/ShipDecos/WispPrimeBobbleHead": {
+    "value": "Noggle Statue - Wisp Prime"
+  },
   "/Lotus/StoreItems/Types/Items/SongItems/LotusEatersSongItem": {
     "value": "The Lotus Eaters Login Music"
   },
@@ -214,6 +244,9 @@
   },
   "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC": {
     "value": "Grustrag Three Beacon"
+  },
+  "/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/PrimeShadePowerSuit": {
+    "value": "Shade Prime"
   },
   "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle": {
     "value": "Baruuk Doan Silhouette Glyph"
@@ -383,8 +416,14 @@
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeOctaviaSyandana": {
     "value": "Serenidine Prime Syandana"
   },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeSuratorSyandana": {
+    "value": "Surator Prime Syandana"
+  },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeTwitchScarf": {
     "value": "Vistapa Prime Syandana"
+  },
+  "/Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeWispSyandana": {
+    "value": "Entheor Prime Syandana"
   },
   "/Lotus/StoreItems/Upgrades/Skins/Scarves/SolsticeBaroCape": {
     "value": "Wintercress Syandana"
@@ -437,11 +476,17 @@
   "/Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols": {
     "value": "Prisma Dual Decurions"
   },
+  "/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeFulmin/PrimeFulmin": {
+    "value": "Fulmin Prime"
+  },
   "/Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeTenora/TenoraPrimeWeapon": {
     "value": "Tenora Prime"
   },
   "/Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon": {
     "value": "Guandao Prime"
+  },
+  "/Lotus/StoreItems/Weapons/Tenno/Melee/Warfan/PrimeGunsen/PrimeGunsenWeapon": {
+    "value": "Gunsen Prime"
   },
   "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon": {
     "value": "Pandero Prime"
@@ -452,6 +497,10 @@
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsEasy": {
     "value": "Starve the beast",
     "desc": "Destroy 75 Containers"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsHard": {
+    "value": "Starve the beast",
+    "desc": "Destroy 300 Containers"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium": {
     "value": "Starve the beast",
@@ -472,6 +521,10 @@
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium": {
     "value": "Demonstration of power",
     "desc": "Kill 300 Enemies with Abilities"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeEasy": {
+    "value": "By The Blade",
+    "desc": "Kill 150 Enemies with Melee Weapons"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
     "value": "EX-EXIMUS",
@@ -561,6 +614,9 @@
   "/Lotus/Types/Items/MiscItems/WaterFightBucks": {
     "value": "Nakak Pearls"
   },
+  "/Lotus/Types/Items/MiscItems/WeaponUtilityUnlocker": {
+    "value": "Exilus Weapon Adapter"
+  },
   "/Lotus/Types/Items/SyndicateDogTags/UniversalSyndicateDogTag": {
     "value": "Universal Medallion"
   },
@@ -588,6 +644,9 @@
   "/Lotus/Types/StoreItems/Packages/FormaPack": {
     "value": "Forma 3-Pack"
   },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVClearvoyPrimeSuit": {
+    "value": "Clearvoy Prime Collection"
+  },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVDistillingExtractorPrimeSet": {
     "value": "Distilling Extractor Prime"
   },
@@ -596,6 +655,15 @@
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVGlissandaPrimeArmorSet": {
     "value": "Glissanda Prime Armor Set"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVHeimtPrimeSentAccessories": {
+    "value": "Heimt Prime Sentinel Accessories"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVHildrynPrimeSinglePack": {
+    "value": "Hildryn Prime Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVLarkspurGravimag": {
+    "value": "Larkspur Prime"
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVMagNovaPrimeDualPack": {
     "value": "Mag & Nova Prime Dual Pack"
@@ -613,13 +681,19 @@
     "value": "Nezha Prime Pack"
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVOctaviaPrimeSinglePack": {
-    "value": "Octavia Prime"
+    "value": "Octavia Prime Pack"
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVRanshaPrimeArmorSet": {
     "value": "Ransha Prime Armor Set"
   },
   "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVTargisPrimeArmorSet": {
     "value": "Targis Prime Armor Set"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVWispHildrynPrimeDualPack": {
+    "value": "Wisp & Hildryn Prime Dual Pack"
+  },
+  "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVWispPrimeSinglePack": {
+    "value": "Wisp Prime Pack"
   },
   "/Lotus/Types/StoreItems/Packages/PrimeTokenPackA": {
     "value": "3 Regal Aya"
@@ -712,6 +786,10 @@
   "/Lotus/Upgrades/Calendar/MagazineCapacity": {
     "value": "Heavy Mags",
     "desc": "Increase magazine capacity by 25%"
+  },
+  "/Lotus/Upgrades/Calendar/MagnetStatusPull": {
+    "value": "Force Of Attraction",
+    "desc": "Magnetic Status Effects also pull in enemies within 1m per stack."
   },
   "/Lotus/Upgrades/Calendar/MagnitizeWithinRangeEveryXCasts": {
     "value": "Magnetic Menace",
@@ -15356,7 +15434,7 @@
     "value": "Tellure"
   },
   "/lotus/types/items/miscitems/utilityunlocker": {
-    "value": "Adaptateur Exilus"
+    "value": "Exilus Warframe Adapter"
   },
   "/lotus/types/items/miscitems/vayhekcoordinatefragmenta": {
     "value": "Delta Beacon"
@@ -19221,6 +19299,10 @@
     "value": "Fractured Armor",
     "desc": "Casting an ability reduces armor by 10% for 10s."
   },
+  "ArtilleryBeacons": {
+    "value": "Artillery Beacons",
+    "desc": "When killed, Scaldra troops drop artillery beacons that summon bombardments."
+  },
   "AssassinsSyndicate": {
     "value": "Assassins"
   },
@@ -19238,6 +19320,10 @@
     "value": "Noise Suppression",
     "desc": "Drones fly above Flare, spraying them with Efervon gas."
   },
+  "CompetitionSpillover": {
+    "value": "Competitive Streak",
+    "desc": "Random negative penalties from Amir and Aoi's \"Faceoff\" mode will be applied throughout the mission."
+  },
   "ContactDamage": {
     "value": "Secondary Wounds",
     "desc": "Gain 1 Puncture Status Effect every time you take damage."
@@ -19253,6 +19339,10 @@
   "DisruptiveSounds": {
     "value": "Vampire Rock",
     "desc": "Flare creates a field that disrupts player abilities while draining energy to boost Flare's health. Flare slowly loses health when no players are in range."
+  },
+  "DrainingResiduals": {
+    "value": "Devil's Bargain",
+    "desc": "Allies within 4m of slain enemies gain 25% Fire Rate at the cost of -50% Ammo Efficiency."
   },
   "DullBlades": {
     "value": "Dull Blades",
@@ -19280,9 +19370,17 @@
     "value": "Explosive Potential",
     "desc": "Rupturing Fragments replace Shuffling Fragments."
   },
+  "ExplosiveEnergy": {
+    "value": "Miasmite Mash",
+    "desc": "Enemies drop Miasmites upon death that immediately rush Flare."
+  },
   "FactionSwarm_Scaldra": {
     "value": "Scaldra Speed Run",
     "desc": "All enemies are replaced with Scaldra and move much faster."
+  },
+  "FallFog": {
+    "value": "Foggy Fall",
+    "desc": "A fog limits vision across the mission zone."
   },
   "FortifiedFoes": {
     "value": "Sealed Armor",
@@ -19300,6 +19398,10 @@
     "value": "Gear Embargo",
     "desc": "Gear cannot be used."
   },
+  "GestatingTumors": {
+    "value": "Sporogenesis",
+    "desc": "Techrot Tumors appear near Hell-Scrubbers, increasing the rate of life support decay with each active tumor."
+  },
   "GrowingIncursion": {
     "value": "Fissure Cascade",
     "desc": "Fissures rip into the mission, causing the Enemy Level to go up by 1 every 10s. Destroy them to stop the level from increasing further."
@@ -19312,9 +19414,17 @@
     "value": "Heavy Warfare",
     "desc": "Enemies take 95% less damage from non-heavy weapons. Enemies will drop heavy ammo packs and heavy weapon recall time reduced to 5s."
   },
+  "HighScalingLegacyte": {
+    "value": "Growth Hormones",
+    "desc": "Legacytes are more powerful with each generation but take longer to escape."
+  },
   "HostileOvergrowth": {
     "value": "It's Alive",
     "desc": "Within the underground, hostile overgrowths will attack if players stops moving."
+  },
+  "HostileSecurity": {
+    "value": "Eroding Senses",
+    "desc": "The Auricle and Vitreum take damage over time, collecting the required Vosphene Glyphs will halt the degradation and partially heal them."
   },
   "InfiniteTide": {
     "value": "Relentless Tide",
@@ -19339,8 +19449,16 @@
     "value": "Miasmite Swarm",
     "desc": "Techrot Miasmites swarm out of the shadows throught the mission."
   },
+  "MutatedEnemies": {
+    "value": "Parallel Evolution",
+    "desc": "As the Legacyte evolves other enemies present also gain new abilities."
+  },
   "NecraloidSyndicate": {
     "value": "Necraloïde"
+  },
+  "NecramechActivation": {
+    "value": "Necramech Influx",
+    "desc": "Necramechs appear with greater frequency."
   },
   "NewLokaSyndicate": {
     "value": "Le Nouveau Loka"
@@ -19423,6 +19541,14 @@
   "SteelMeridianSyndicate": {
     "value": "Le Méridien d'Acier"
   },
+  "StickyFingers": {
+    "value": "Engorged Gruzzlings",
+    "desc": "All gruzzlings are Eximus."
+  },
+  "TankStrongArmor": {
+    "value": "Thermian Plating",
+    "desc": "Only Thermian RPGs can damage the tank. Reinforcements that carry Thermian RPGs will arrive during the fight"
+  },
   "TechrotConjunction": {
     "value": "Pile-On",
     "desc": "Techrot enemies attempt to melee attack Hell-Scrubbers, bursting on contact and increasing scrubber contamination by 33%."
@@ -19448,6 +19574,14 @@
   },
   "VoxSyndicate": {
     "value": "Vox Solaris"
+  },
+  "WinterFrost": {
+    "value": "Thick Ice",
+    "desc": "Arctic Eximus globes have 30x their normal durability."
+  },
+  "Withering": {
+    "value": "Untreatable",
+    "desc": "Pickups do not heal, and Health Orbs cannot be picked up."
   },
   "ZarimanSyndicate": {
     "value": "The Holdfasts"
