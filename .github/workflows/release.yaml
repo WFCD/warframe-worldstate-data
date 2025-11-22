@@ -10,7 +10,7 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
       - name: Use Node.js
@@ -31,7 +31,7 @@ jobs:
       matrix:
         node-version: ['lts/hydrogen', 'lts/iron', 'lts/*']
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v6
         with:
@@ -52,7 +52,7 @@ jobs:
       issues: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - uses: actions/setup-node@v6
         with:
           node-version-file: '.nvmrc'
