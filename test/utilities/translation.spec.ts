@@ -36,6 +36,9 @@ describe('translation', () => {
     it('converts the first letter of every word to uppercase and the others to lowercase', () => {
       toTitleCase('test').should.equal('Test');
       toTitleCase('test teST').should.equal('Test Test');
+      toTitleCase('testtest').should.equal('Testtest');
+      toTitleCase('TESTTEST').should.equal('Testtest');
+      toTitleCase('tEStTEST tEST').should.equal('Testtest Test');
     });
   });
 
@@ -69,13 +72,13 @@ describe('translation', () => {
     });
     describe('nodeEnemy()', () => {
       it("should return a translation of the key if it's found in the data", () => {
-        nodeEnemy('SolNode1', 'es').should.equal('Corpus');
+        nodeEnemy('SolNode1').should.equal('Corpus');
       });
       it("should return the last part of the key if it's not found in the data", () => {
-        nodeEnemy('not/Found', 'es').should.equal('Found');
+        nodeEnemy('not/Found').should.equal('Found');
       });
       it("should return the key if one isn't provided", () => {
-        nodeEnemy('notfound', 'es').should.equal('notfound');
+        nodeEnemy('notfound').should.equal('notfound');
       });
     });
     describe('languageString()', () => {
@@ -246,7 +249,7 @@ describe('translation', () => {
         region(3).should.equal('Mars');
       });
       it("should return the key if it's not found in the data", () => {
-        region('notfound').should.equal('notfound');
+        region('notfound' as unknown as number).should.equal('notfound');
       });
     });
     describe('archonShardColor()', () => {
@@ -347,7 +350,7 @@ describe('translation', () => {
         languageString('/lotus/language/alerts/capturedesc1', 'uk').should.equal('Fugitive Located');
       });
       it('returns Undefined if key is undefined', () => {
-        expect(languageString(undefined, 'es')).to.be.undefined;
+        expect(languageString(undefined as unknown as string, 'es')).to.be.undefined;
       });
     });
     describe('missionType()', () => {
@@ -501,7 +504,7 @@ describe('translation', () => {
         region(3, 'es').should.equal('Marte');
       });
       it("should return the key if it's not found in the data", () => {
-        region('notfound', 'es').should.equal('notfound');
+        region('notfound' as unknown as number, 'es').should.equal('notfound');
       });
     });
     describe('translateFocus()', () => {

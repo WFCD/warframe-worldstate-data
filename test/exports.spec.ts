@@ -3,7 +3,7 @@ import * as chai from 'chai';
 import sinonChai from 'sinon-chai';
 import sinon from 'sinon';
 
-import safeImport from '../safeImport';
+import { safeImport } from '../safeImport';
 import wsData from '../exports';
 
 chai.should();
@@ -40,6 +40,12 @@ describe('safeImport', () => {
     await safeImport('poop.js');
     // check that console.debug was called
     console.debug.should.not.have.been.called;
+  });
+
+  it('should return the fallback if file does not exist', async () => {
+    const fallback = { test: 'test' };
+    const result = await safeImport('poop.js', fallback);
+    expect(result).to.equal(fallback);
   });
 });
 

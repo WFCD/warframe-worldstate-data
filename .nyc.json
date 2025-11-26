@@ -1,5 +1,5 @@
 {
   "exclude": ["test/**"],
-  "reporter": ["lcov", "text"],
+  "reporter": ["lcov", "text", "html"],
   "skip-full": true
 }
