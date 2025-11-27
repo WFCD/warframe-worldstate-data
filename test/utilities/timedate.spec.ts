@@ -93,5 +93,5 @@ describe('timeDateUtils', () => {
       }
       timePieces.should.deep.equal(['1d', '1h', '1m', '1s']);
     });
-  })
+  });
 });
