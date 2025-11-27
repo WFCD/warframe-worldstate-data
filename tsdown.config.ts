@@ -10,5 +10,6 @@ export default defineConfig({
     './tools/utilities.ts',
   ],
   copy: ['./data'],
-  dts: true
+  dts: true,
+  format: 'esm',
 });

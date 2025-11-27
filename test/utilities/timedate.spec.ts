@@ -31,7 +31,7 @@ describe('timeDateUtils', () => {
     });
     it('should handle negative time deltas', () => {
       timeDeltaToString(-120000).should.equal('-2m 0s');
-    })
+    });
   });
   describe('parseDate()', () => {
     it('should parse even if date provided is undefined', () => {
