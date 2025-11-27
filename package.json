@@ -40,7 +40,7 @@
     "./utilities": "./dist/tools/utilities.mjs",
     "./types": "./dist/types.mjs"
   },
-  "main": "./dist/exports.js",
+  "main": "./dist/exports.mjs",
   "directories": {
     "test": "test"
   },

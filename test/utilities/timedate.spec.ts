@@ -23,12 +23,12 @@ describe('timeDateUtils', () => {
     it('shows seconds, minutes, hours and days if the difference is more than a day', () => {
       timeDeltaToString(120000000).should.match(/^\d+d \d{1,2}h \d{1,2}m \d{1,2}s$/);
     });
-    it('should should return seconds for timestamps under a minute', () => {
+    it('should return seconds for timestamps under a minute', () => {
       timeDeltaToString(16).should.equal('0s');
     });
     it('should test non-number inputs', () => {
       (() => timeDeltaToString('poop' as unknown as number)).should.throw(TypeError);
-    })
+    });
     it('should handle negative time deltas', () => {
       timeDeltaToString(-120000).should.equal('-2m 0s');
     })
