@@ -36,7 +36,7 @@
   ],
   "type": "module",
   "exports": {
-    ".": "./dist/exports.js",
+    ".": "./dist/exports.mjs",
     "./utilities": "./dist/tools/utilities.mjs",
     "./types": "./dist/types.mjs"
   },
