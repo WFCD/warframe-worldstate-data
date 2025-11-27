@@ -45,6 +45,7 @@ crowdin.yml
 .mergify.yml
 .eslintrc
 data/
+!dist/data/
 .nycrc.json
 .husky/
 .commitlintrc.mjs
