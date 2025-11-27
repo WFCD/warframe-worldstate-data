@@ -18,6 +18,7 @@ describe('integrity', () => {
   });
   it('should throw when object is null or undefined', () => {
     (() => insist(null as unknown as Record<string, unknown>, 'a')).should.throw();
+    (() => insist(undefined as unknown as Record<string, unknown>, 'a')).should.throw();
   });
   it('should not throw when no properties are required', () => {
     (() => insist({ a: 0 })).should.not.throw();

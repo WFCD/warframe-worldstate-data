@@ -1,7 +1,7 @@
 /**
  * @description Insist that the provided data has the required properties.
- * @param thing to encourage to have data
- * @param args arguments to ensure
+ * @param {Record<string, unknown>} thing to encourage to have data
+ * @param {...string} args arguments to ensure
  */
 export const insist = (thing: Record<string, unknown>, ...args: string[]) => {
   if (!thing || !Object.keys(thing).length) {
