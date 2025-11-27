@@ -5,11 +5,11 @@ export default defineConfig({
     'exports.ts',
     'safeImport.ts',
     'types.ts',
-    './tools/integrity.ts',
     './tools/timeDate.ts',
     './tools/translation.ts',
     './tools/utilities.ts',
   ],
   copy: ['./data'],
-  dts: true
+  dts: true,
+  format: 'esm',
 });

@@ -1,4 +1,4 @@
-import safeImport from './safeImport';
+import { safeImport } from './safeImport';
 import { Arcane, ArchonShard, Conclave, Events, SolNode, SortieData, SteelPath, SynthesisTarget } from './types';
 
 export type Locale = 'de' | 'en' | 'es' | 'fr' | 'it' | 'ko' | 'pl' | 'pt' | 'ru' | 'zh' | 'cs' | 'sr' | 'uk';

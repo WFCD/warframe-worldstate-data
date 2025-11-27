@@ -4,7 +4,7 @@ const epochZero: ContentTimestamp = {
   },
 };
 
-const pieceIsSmoller = (seconds: number, ceiling: number, label: string, timePieces: string[]) => {
+export const pieceIsSmoller = (seconds: number, ceiling: number, label: string, timePieces: string[]) => {
   if (seconds >= ceiling) {
     timePieces.push(`${Math.floor(seconds / ceiling)}${label}`);
     seconds = Math.floor(seconds) % ceiling;
@@ -79,8 +79,8 @@ export const parseDate = (d?: ContentTimestamp): Date => {
 /**
  * Get a weekly reset timestamp
  */
-export const weeklyReset = (): { activation: Date; expiry: Date } => {
-  const now = new Date();
+export const weeklyReset = (nowFunc = () => new Date()): { activation: Date; expiry: Date } => {
+  const now = nowFunc();
   const currentDay = now.getUTCDay();
   const daysUntilNextMonday = currentDay === 0 ? 1 : 8 - currentDay;
 
@@ -97,8 +97,8 @@ export const weeklyReset = (): { activation: Date; expiry: Date } => {
 /**
  * Get a daily reset timestamp
  */
-export const dailyReset = (): { activation: Date; expiry: Date } => {
-  const now = new Date();
+export const dailyReset = (nowFunc = () => new Date()): { activation: Date; expiry: Date } => {
+  const now = nowFunc();
 
   const activation = new Date(now.getTime());
   activation.setUTCHours(0, 0, 0, 0);
