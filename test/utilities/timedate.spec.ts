@@ -1,6 +1,6 @@
 import { should } from 'chai';
 
-import { timeDeltaToString, parseDate, ContentTimestamp, fromNow, toNow, weeklyReset, dailyReset } from '../../tools/timeDate';
+import { timeDeltaToString, parseDate, ContentTimestamp, fromNow, toNow, weeklyReset, dailyReset, pieceIsSmoller } from '../../tools/timeDate';
 
 should();
 
@@ -69,4 +69,29 @@ describe('timeDateUtils', () => {
       reset.expiry.toISOString().should.equal('2021-09-16T00:00:00.000Z'); // Following day
     });
   });
+  describe('pieceIsSmoller()', () => {
+    // Test cases for pieceIsSmoller function
+    it('should correctly extract time pieces', () => {
+      let seconds = 90061; // 1 day, 1 hour, 1 minute, 1 second
+      let timePieces: string[] = [];
+
+      ({ seconds, timePieces } = pieceIsSmoller(seconds, 86400, 'd', timePieces));
+      seconds.should.equal(3661);
+      timePieces.should.deep.equal(['1d']);
+
+      ({ seconds, timePieces } = pieceIsSmoller(seconds, 3600, 'h', timePieces));
+      seconds.should.equal(61);
+      timePieces.should.deep.equal(['1d', '1h']);
+
+      ({ seconds, timePieces } = pieceIsSmoller(seconds, 60, 'm', timePieces));
+      seconds.should.equal(1);
+      timePieces.should.deep.equal(['1d', '1h', '1m']);
+
+      // Final seconds
+      if (seconds >= 0) {
+        timePieces.push(`${Math.floor(seconds)}s`);
+      }
+      timePieces.should.deep.equal(['1d', '1h', '1m', '1s']);
+    });
+  })
 });

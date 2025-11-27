@@ -4,7 +4,7 @@ const epochZero: ContentTimestamp = {
   },
 };
 
-const pieceIsSmoller = (seconds: number, ceiling: number, label: string, timePieces: string[]) => {
+export const pieceIsSmoller = (seconds: number, ceiling: number, label: string, timePieces: string[]) => {
   if (seconds >= ceiling) {
     timePieces.push(`${Math.floor(seconds / ceiling)}${label}`);
     seconds = Math.floor(seconds) % ceiling;
