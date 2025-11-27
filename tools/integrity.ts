@@ -9,8 +9,8 @@ export const insist = (thing: Record<string, unknown>, ...args: string[]) => {
   }
 
   args.forEach((arg) => {
-    if (!thing[arg]) {
-      throw new TypeError('The provided data does not have the required properties.');
+    if (!(arg in thing)) {
+      throw new TypeError(`Missing required property: '${arg}'.`);
     }
   });
 };
