@@ -7,12 +7,12 @@
  * @param  {Object} fallback fallback response if error or no module
  * @returns {Promise<any>}         module or the default object
  */
-export const safeImport = async <T>(path: string, fallback: T = {} as T): Promise<T> => {
+export const safeImport = async <T extends object>(path: string, fallback: T = {} as T): Promise<T> => {
   try {
     const mod: T | { default: T } = path.includes('.json')
       ? await import(path, { with: { type: 'json' } })
       : await import(path);
-    return (mod as { default: T }).default || (mod as T);
+    return 'default' in mod ? (mod as { default: T }).default : (mod as T);
   } catch (error) {
     if ((process.env.LOG_LEVEL || 'ERROR').toUpperCase() === 'DEBUG') {
       console.debug(`Failed to load module at ${path} ... returning fallback`);
