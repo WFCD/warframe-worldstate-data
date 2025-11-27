@@ -44,5 +44,17 @@ data/languages_sorted.json
 crowdin.yml
 .mergify.yml
 .eslintrc
+data/
+.nycrc.json
+.husky/
+.commitlintrc.mjs
+.lintstagedrc.yml
+.nvmrc
+.mocharc.yml
+babel.config.json
+biome.json
+*.ts
+tsconfig.json
+tools/*.ts
 
 warframe-worldstate-data*.tgz
