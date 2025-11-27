@@ -5,7 +5,7 @@
  */
 export const insist = (thing: Record<string, unknown>, ...args: string[]) => {
   if (!thing || !Object.keys(thing).length) {
-    throw new TypeError('The provided data does not have the required properties.');
+    throw new TypeError('No data provided.');
   }
 
   args.forEach((arg) => {

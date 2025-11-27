@@ -1,4 +1,7 @@
+import { should } from 'chai';
 import { insist } from '../../tools/integrity';
+
+should();
 
 describe('integrity', () => {
   it('should insist', () => {
