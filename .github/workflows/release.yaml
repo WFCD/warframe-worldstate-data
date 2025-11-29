@@ -55,10 +55,6 @@ jobs:
           node-version-file: '.nvmrc'
       - run: npm ci
       - name: Semantic Release
-        uses: cycjimmy/semantic-release-action@v6.0.0
+        run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        with:
-          branches: |
-            ['master', 'main']
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
