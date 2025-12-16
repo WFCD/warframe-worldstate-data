@@ -57,12 +57,12 @@
   "SolNode11": {
     "value": "Tharsis (Mars)",
     "enemy": "Corpus",
-    "type": "Kaçırma"
+    "type": "Mobil Savunma"
   },
   "SolNode12": {
     "value": "Elion (Merkür)",
     "enemy": "Grineer",
-    "type": "Mobil Savunma"
+    "type": "Ele Geçirme"
   },
   "SolNode13": {
     "value": "Bianca (Uranüs)",
@@ -167,7 +167,7 @@
   "SolNode33": {
     "value": "Ariel (Uranus)",
     "enemy": "Grineer",
-    "type": "Sabotaj"
+    "type": "Ele Geçirme"
   },
   "SolNode34": {
     "value": "Sycorax (Uranus)",
@@ -422,7 +422,7 @@
   "SolNode84": {
     "value": "Nereid (Neptün)",
     "enemy": "Corpus",
-    "type": "Kaçırma"
+    "type": "Casus"
   },
   "SolNode85": {
     "value": "Gaia (Dünya)",
@@ -442,7 +442,7 @@
   "SolNode88": {
     "value": "Adrastea (Jüpiter)",
     "enemy": "Corpus",
-    "type": "Casus"
+    "type": "Sabotaj"
   },
   "SolNode89": {
     "value": "Mariana (Dünya)",
@@ -492,7 +492,7 @@
   "SolNode98": {
     "value": "Desdemona (Uranus)",
     "enemy": "Grineer",
-    "type": "Ele Geçirme"
+    "type": "Sabotage (Archwing)"
   },
   "SolNode99": {
     "value": "War (Mars)",
@@ -918,7 +918,7 @@
   "SolNode184": {
     "value": "Rusalka (Sedna)",
     "enemy": "Grineer",
-    "type": "Ele Geçirme"
+    "type": "Sabotaj"
   },
   "SolNode185": {
     "value": "Berehynia (Sedna)",
@@ -1109,7 +1109,7 @@
   "SolNode223": {
     "value": "Boethius (Merkür)",
     "enemy": "Grineer",
-    "type": "Yok Etme"
+    "type": "Mobil Savunma"
   },
   "SolNode224": {
     "value": "Odin (Merkür)",
@@ -1349,6 +1349,11 @@
     "enemy": "The Murmur",
     "type": "Kargaşa"
   },
+  "SolNode251": {
+    "value": "Dark Refactory (Deimos)",
+    "enemy": "Anarch",
+    "type": "The Perita Rebellion"
+  },
   "SolNode740": {
     "value": "The Ropalolyst (Jüpiter)",
     "enemy": "Sentient",
@@ -1362,7 +1367,7 @@
   "SolNode742": {
     "value": "Nabuk (Kuva Kalesi)",
     "enemy": "Grineer",
-    "type": "Ele Geçirme"
+    "type": "Savunma"
   },
   "SolNode743": {
     "value": "Rotuma (Kuva Kalesi)",
@@ -1452,7 +1457,7 @@
   "SolNode304": {
     "value": "Copernicus (Lua)",
     "enemy": "Corpus",
-    "type": "Mobil Savunma"
+    "type": "Ele Geçirme"
   },
   "SolNode305": {
     "value": "Stöfler (Lua)",
@@ -2167,7 +2172,7 @@
   "CrewBattleNode536": {
     "value": "Peregrine Axis (Pluto)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "Casus"
   },
   "CrewBattleNode538": {
     "value": "Calabash (Veil)",
