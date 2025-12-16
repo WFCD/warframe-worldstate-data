@@ -57,12 +57,12 @@
   "SolNode11": {
     "value": "Tharsis (Marte)",
     "enemy": "Corpus",
-    "type": "Secuestro"
+    "type": "Defensa móvil"
   },
   "SolNode12": {
     "value": "Elion (Mercurio)",
     "enemy": "Grineer",
-    "type": "Defensa móvil"
+    "type": "Captura"
   },
   "SolNode13": {
     "value": "Bianca (Uranus)",
@@ -167,7 +167,7 @@
   "SolNode33": {
     "value": "Ariel (Urano)",
     "enemy": "Grineer",
-    "type": "Sabotaje"
+    "type": "Captura"
   },
   "SolNode34": {
     "value": "Sicorax (Urano)",
@@ -422,7 +422,7 @@
   "SolNode84": {
     "value": "Nereida (Neptuno)",
     "enemy": "Corpus",
-    "type": "Secuestro"
+    "type": "Espionaje"
   },
   "SolNode85": {
     "value": "Gaia (Tierra)",
@@ -442,7 +442,7 @@
   "SolNode88": {
     "value": "Adrastea (Júpiter)",
     "enemy": "Corpus",
-    "type": "Espionaje"
+    "type": "Sabotaje"
   },
   "SolNode89": {
     "value": "Mariana (Tierra)",
@@ -492,7 +492,7 @@
   "SolNode98": {
     "value": "Desdémona (Urano)",
     "enemy": "Grineer",
-    "type": "Captura"
+    "type": "Sabotaje (Archwing)"
   },
   "SolNode99": {
     "value": "War (Marte)",
@@ -918,7 +918,7 @@
   "SolNode184": {
     "value": "Rusalka (Sedna)",
     "enemy": "Grineer",
-    "type": "Captura"
+    "type": "Sabotaje"
   },
   "SolNode185": {
     "value": "Bereginia (Sedna)",
@@ -1109,7 +1109,7 @@
   "SolNode223": {
     "value": "Boecio (Mercurio)",
     "enemy": "Grineer",
-    "type": "Exterminio"
+    "type": "Defensa móvil"
   },
   "SolNode224": {
     "value": "Odín (Mercurio)",
@@ -1349,6 +1349,11 @@
     "enemy": "El Murmullo",
     "type": "Interrupción"
   },
+  "SolNode251": {
+    "value": "Dark Refactory (Deimos)",
+    "enemy": "Anarch",
+    "type": "The Perita Rebellion"
+  },
   "SolNode740": {
     "value": "El Ropaloulista (Júpiter)",
     "enemy": "Consciente",
@@ -1362,7 +1367,7 @@
   "SolNode742": {
     "value": "Nabuk (Fortaleza kuva)",
     "enemy": "Grineer",
-    "type": "Captura"
+    "type": "Defensa"
   },
   "SolNode743": {
     "value": "Rotuma (Fortaleza kuva)",
@@ -1452,7 +1457,7 @@
   "SolNode304": {
     "value": "Copérnico (Lua)",
     "enemy": "Corpus",
-    "type": "Defensa móvil"
+    "type": "Captura"
   },
   "SolNode305": {
     "value": "Stöfler (Lua)",
@@ -2167,7 +2172,7 @@
   "CrewBattleNode536": {
     "value": "Eje Peregrino (Plutón)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "Espionaje"
   },
   "CrewBattleNode538": {
     "value": "Calabaza (Velo)",
