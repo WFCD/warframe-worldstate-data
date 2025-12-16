@@ -57,12 +57,12 @@
   "SolNode11": {
     "value": "Tharsis (Mars)",
     "enemy": "Corpus",
-    "type": "Hijack"
+    "type": "Mobilna obrona"
   },
   "SolNode12": {
     "value": "Elion (Merkury)",
     "enemy": "Grineer",
-    "type": "Mobilna obrona"
+    "type": "Pojmanie"
   },
   "SolNode13": {
     "value": "Bianca (Uran)",
@@ -167,7 +167,7 @@
   "SolNode33": {
     "value": "Ariel (Uranus)",
     "enemy": "Grineer",
-    "type": "Sabotaż"
+    "type": "Pojmanie"
   },
   "SolNode34": {
     "value": "Sycorax (Uranus)",
@@ -422,7 +422,7 @@
   "SolNode84": {
     "value": "Nereid (Neptune)",
     "enemy": "Corpus",
-    "type": "Hijack"
+    "type": "Infiltracja"
   },
   "SolNode85": {
     "value": "Gaia (Earth)",
@@ -442,7 +442,7 @@
   "SolNode88": {
     "value": "Adrastea (Jupiter)",
     "enemy": "Corpus",
-    "type": "Infiltracja"
+    "type": "Sabotaż"
   },
   "SolNode89": {
     "value": "Mariana (Earth)",
@@ -492,7 +492,7 @@
   "SolNode98": {
     "value": "Desdemona (Uranus)",
     "enemy": "Grineer",
-    "type": "Pojmanie"
+    "type": "Sabotage (Archwing)"
   },
   "SolNode99": {
     "value": "War (Mars)",
@@ -918,7 +918,7 @@
   "SolNode184": {
     "value": "Rusalka (Sedna)",
     "enemy": "Grineer",
-    "type": "Pojmanie"
+    "type": "Sabotaż"
   },
   "SolNode185": {
     "value": "Berehynia (Sedna)",
@@ -1109,7 +1109,7 @@
   "SolNode223": {
     "value": "Boethius (Mercury)",
     "enemy": "Grineer",
-    "type": "Extermination"
+    "type": "Mobilna obrona"
   },
   "SolNode224": {
     "value": "Odin (Mercury)",
@@ -1349,6 +1349,11 @@
     "enemy": "The Murmur",
     "type": "Disruption"
   },
+  "SolNode251": {
+    "value": "Dark Refactory (Deimos)",
+    "enemy": "Anarch",
+    "type": "The Perita Rebellion"
+  },
   "SolNode740": {
     "value": "The Ropalolyst (Jupiter)",
     "enemy": "Świadomi",
@@ -1362,7 +1367,7 @@
   "SolNode742": {
     "value": "Nabuk (Kuva Fortress)",
     "enemy": "Grineer",
-    "type": "Pojmanie"
+    "type": "Obrona"
   },
   "SolNode743": {
     "value": "Rotuma (Kuva Fortress)",
@@ -1452,7 +1457,7 @@
   "SolNode304": {
     "value": "Copernicus (Lua)",
     "enemy": "Corpus",
-    "type": "Mobilna obrona"
+    "type": "Pojmanie"
   },
   "SolNode305": {
     "value": "Stöfler (Lua)",
@@ -2167,7 +2172,7 @@
   "CrewBattleNode536": {
     "value": "Peregrine Axis (Pluto)",
     "enemy": "Corpus",
-    "type": "Orphix"
+    "type": "Infiltracja"
   },
   "CrewBattleNode538": {
     "value": "Calabash (Veil)",
