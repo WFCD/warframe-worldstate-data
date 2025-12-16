@@ -57,12 +57,12 @@
   "SolNode11": {
     "value": "Tharsis (Марс)",
     "enemy": "Корпус",
-    "type": "Налёт"
+    "type": "Мобильная Оборона"
   },
   "SolNode12": {
     "value": "Elion (Меркурий)",
     "enemy": "Гринир",
-    "type": "М. Оборона"
+    "type": "Захват"
   },
   "SolNode13": {
     "value": "Bianca (Уран)",
@@ -167,7 +167,7 @@
   "SolNode33": {
     "value": "Ariel (Уран)",
     "enemy": "Гринир",
-    "type": "Диверсия"
+    "type": "Захват"
   },
   "SolNode34": {
     "value": "Sycorax (Уран)",
@@ -422,7 +422,7 @@
   "SolNode84": {
     "value": "Nereid (Нептун)",
     "enemy": "Корпус",
-    "type": "Налёт"
+    "type": "Шпионаж"
   },
   "SolNode85": {
     "value": "Gaia (Земля)",
@@ -442,7 +442,7 @@
   "SolNode88": {
     "value": "Adrastea (Юпитер)",
     "enemy": "Корпус",
-    "type": "Шпионаж"
+    "type": "Диверсия"
   },
   "SolNode89": {
     "value": "Mariana (Земля)",
@@ -492,7 +492,7 @@
   "SolNode98": {
     "value": "Desdemona (Уран)",
     "enemy": "Гринир",
-    "type": "Захват"
+    "type": "Диверсия (Арчвинг)"
   },
   "SolNode99": {
     "value": "War (Марс)",
@@ -918,7 +918,7 @@
   "SolNode184": {
     "value": "Rusalka (Седна)",
     "enemy": "Гринир",
-    "type": "Захват"
+    "type": "Диверсия"
   },
   "SolNode185": {
     "value": "Berehynia (Седна)",
@@ -1109,7 +1109,7 @@
   "SolNode223": {
     "value": "Boethius (Меркурий)",
     "enemy": "Гринир",
-    "type": "Зачистка"
+    "type": "Мобильная Оборона"
   },
   "SolNode224": {
     "value": "Odin (Меркурий)",
@@ -1349,6 +1349,11 @@
     "enemy": "The Murmur",
     "type": "Сбой"
   },
+  "SolNode251": {
+    "value": "Dark Refactory (Deimos)",
+    "enemy": "Anarch",
+    "type": "The Perita Rebellion"
+  },
   "SolNode740": {
     "value": "Ропалолист (Юпитер)",
     "enemy": "Владеющие Разумом",
@@ -1362,7 +1367,7 @@
   "SolNode742": {
     "value": "Nabuk (Крепость Кувы)",
     "enemy": "Гринир",
-    "type": "Захват"
+    "type": "Оборона"
   },
   "SolNode743": {
     "value": "Rotuma (Крепость Кувы)",
@@ -1452,7 +1457,7 @@
   "SolNode304": {
     "value": "Copernicus (Луа)",
     "enemy": "Корпус",
-    "type": "М. Оборона"
+    "type": "Захват"
   },
   "SolNode305": {
     "value": "Stöfler (Луа)",
@@ -2167,7 +2172,7 @@
   "CrewBattleNode536": {
     "value": "Ось Сапсана (Плутон)",
     "enemy": "Корпус",
-    "type": "Орфикс"
+    "type": "Шпионаж"
   },
   "CrewBattleNode538": {
     "value": "Калабаш (Вуаль)",
