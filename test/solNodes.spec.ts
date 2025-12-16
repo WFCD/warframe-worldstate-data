@@ -14,6 +14,7 @@ const solNodesSchema = {
     solNodeEnemy: {
       type: 'string',
       enum: [
+        'Anarch',
         'Corpus',
         'Corrupted',
         'Crossfire',
@@ -70,6 +71,7 @@ const solNodesSchema = {
         'Skirmish',
         'Spy',
         'Survival',
+        'The Perita Rebellion',
         'Void Armageddon',
         'Void Cascade',
         'Void Flood',
