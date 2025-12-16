@@ -57,12 +57,12 @@
   "SolNode11": {
     "value": "Tharsis (화성)",
     "enemy": "코퍼스",
-    "type": "탈취"
+    "type": "모바일 방어"
   },
   "SolNode12": {
     "value": "Elion (수성)",
     "enemy": "그리니어",
-    "type": "모바일 방어"
+    "type": "생포"
   },
   "SolNode13": {
     "value": "Bianca (천왕성)",
@@ -167,7 +167,7 @@
   "SolNode33": {
     "value": "Ariel (천왕성)",
     "enemy": "그리니어",
-    "type": "파괴공작"
+    "type": "생포"
   },
   "SolNode34": {
     "value": "Sycorax (천왕성)",
@@ -422,7 +422,7 @@
   "SolNode84": {
     "value": "Nereid (해왕성)",
     "enemy": "코퍼스",
-    "type": "탈취"
+    "type": "첩보활동"
   },
   "SolNode85": {
     "value": "Gaia (지구)",
@@ -442,7 +442,7 @@
   "SolNode88": {
     "value": "Adrastea (목성)",
     "enemy": "코퍼스",
-    "type": "첩보활동"
+    "type": "파괴공작"
   },
   "SolNode89": {
     "value": "Mariana (지구)",
@@ -492,7 +492,7 @@
   "SolNode98": {
     "value": "Desdemona (천왕성)",
     "enemy": "그리니어",
-    "type": "생포"
+    "type": "파괴공작 (아크윙)"
   },
   "SolNode99": {
     "value": "War (화성)",
@@ -918,7 +918,7 @@
   "SolNode184": {
     "value": "Rusalka (세드나)",
     "enemy": "그리니어",
-    "type": "생포"
+    "type": "파괴공작"
   },
   "SolNode185": {
     "value": "Berehynia (세드나)",
@@ -1109,7 +1109,7 @@
   "SolNode223": {
     "value": "Boethius (수성)",
     "enemy": "그리니어",
-    "type": "섬멸"
+    "type": "모바일 방어"
   },
   "SolNode224": {
     "value": "Odin (수성)",
@@ -1349,6 +1349,11 @@
     "enemy": "The Murmur",
     "type": "Disruption"
   },
+  "SolNode251": {
+    "value": "Dark Refactory (Deimos)",
+    "enemy": "Anarch",
+    "type": "The Perita Rebellion"
+  },
   "SolNode740": {
     "value": "The Ropalolyst (Jupiter)",
     "enemy": "센티언트",
@@ -1362,7 +1367,7 @@
   "SolNode742": {
     "value": "Nabuk (쿠바 요새)",
     "enemy": "그리니어",
-    "type": "생포"
+    "type": "방어"
   },
   "SolNode743": {
     "value": "Rotuma (쿠바 요새)",
@@ -1452,7 +1457,7 @@
   "SolNode304": {
     "value": "Copernicus (루아)",
     "enemy": "코퍼스",
-    "type": "모바일 방어"
+    "type": "생포"
   },
   "SolNode305": {
     "value": "Stöfler (루아)",
@@ -2167,7 +2172,7 @@
   "CrewBattleNode536": {
     "value": "Peregrine Axis (Pluto)",
     "enemy": "코퍼스",
-    "type": "Orphix"
+    "type": "첩보활동"
   },
   "CrewBattleNode538": {
     "value": "Calabash (Veil)",
