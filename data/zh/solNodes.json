@@ -57,12 +57,12 @@
   "SolNode11": {
     "value": "Tharsis (火星)",
     "enemy": "Corpus",
-    "type": "劫持"
+    "type": "移動防禦"
   },
   "SolNode12": {
     "value": "Elion (水星)",
     "enemy": "Grineer",
-    "type": "移動防禦"
+    "type": "捕獲"
   },
   "SolNode13": {
     "value": "Bianca (天王星)",
@@ -167,7 +167,7 @@
   "SolNode33": {
     "value": "Ariel (天王星)",
     "enemy": "Grineer",
-    "type": "破壞"
+    "type": "捕獲"
   },
   "SolNode34": {
     "value": "Sycorax (天王星)",
@@ -422,7 +422,7 @@
   "SolNode84": {
     "value": "Nereid (海王星)",
     "enemy": "Corpus",
-    "type": "劫持"
+    "type": "間諜"
   },
   "SolNode85": {
     "value": "Gaia (地球)",
@@ -442,7 +442,7 @@
   "SolNode88": {
     "value": "Adrastea (木星)",
     "enemy": "Corpus",
-    "type": "間諜"
+    "type": "破壞"
   },
   "SolNode89": {
     "value": "Mariana (地球)",
@@ -492,7 +492,7 @@
   "SolNode98": {
     "value": "Desdemona (天王星)",
     "enemy": "Grineer",
-    "type": "捕獲"
+    "type": "破壞 (Archwing)"
   },
   "SolNode99": {
     "value": "War (火星)",
@@ -918,7 +918,7 @@
   "SolNode184": {
     "value": "Rusalka (賽德娜)",
     "enemy": "Grineer",
-    "type": "捕獲"
+    "type": "破壞"
   },
   "SolNode185": {
     "value": "Berehynia (賽德娜)",
@@ -1109,7 +1109,7 @@
   "SolNode223": {
     "value": "Boethius (水星)",
     "enemy": "Grineer",
-    "type": "殲滅"
+    "type": "移動防禦"
   },
   "SolNode224": {
     "value": "Odin (水星)",
@@ -1349,6 +1349,11 @@
     "enemy": "低语者",
     "type": "中断"
   },
+  "SolNode251": {
+    "value": "Dark Refactory (Deimos)",
+    "enemy": "Anarch",
+    "type": "The Perita Rebellion"
+  },
   "SolNode740": {
     "value": "蝠力使 (木星)",
     "enemy": "Sentient",
@@ -1362,7 +1367,7 @@
   "SolNode742": {
     "value": "Nabuk (Kuva 要塞)",
     "enemy": "Grineer",
-    "type": "捕獲"
+    "type": "防禦"
   },
   "SolNode743": {
     "value": "Rotuma (Kuva 要塞)",
@@ -1452,7 +1457,7 @@
   "SolNode304": {
     "value": "Copernicus (月球)",
     "enemy": "Corpus",
-    "type": "移動防禦"
+    "type": "捕獲"
   },
   "SolNode305": {
     "value": "Stöfler (月球)",
@@ -2167,7 +2172,7 @@
   "CrewBattleNode536": {
     "value": "外域星轴 (冥王星比邻星域)",
     "enemy": "Corpus",
-    "type": "奧菲斯"
+    "type": "間諜"
   },
   "CrewBattleNode538": {
     "value": "蒲芦 (面纱)",
