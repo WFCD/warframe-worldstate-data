@@ -62,7 +62,7 @@
     }
   },
   "devDependencies": {
-    "@biomejs/biome": "2.3.8",
+    "@biomejs/biome": "2.3.10",
     "@commitlint/cli": "^20.0.0",
     "@commitlint/config-conventional": "^20.0.0",
     "@istanbuljs/nyc-config-typescript": "^1.0.2",
