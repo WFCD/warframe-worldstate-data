@@ -1,224 +1,224 @@
 {
-    "ACC_BLUE": {
-        "value": "Блакитний",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax": {
-                "value": "+150 до запасу здоров’я."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMax": {
-                "value": "+150 до місткості щитів."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMax": {
-                "value": "+50 до запасу енергії."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMax": {
-                "value": "+150 до захисту."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegen": {
-                "value": "+5 ОЗ/с до відновлення здоров’я."
-            }
-        }
-    },
-    "ACC_RED": {
-        "value": "Багряний",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamage": {
-                "value": "+25% до ймовірності критичного влучання від холодної зброї."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChance": {
-                "value": "+25% до ймовірності накладання ефекту стану від основної зброї."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChance": {
-                "value": "+25% до ймовірності критичного влучання від допоміжної зброї."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDuration": {
-                "value": "+10% до тривалості здібностей."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrength": {
-                "value": "+10% до потужності здібностей."
-            }
-        }
-    },
-    "ACC_YELLOW": {
-        "value": "Бурштиновий",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergy": {
-                "value": "+30% до максимальної енергії під час відродження."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealth": {
-                "value": "+100% до ефективності згустків здоров’я."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergy": {
-                "value": "+50% до ефективності згустків енергії."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeed": {
-                "value": "+25% до швидкості застосування здібностей."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocity": {
-                "value": "+15% до швидкості паркуру."
-            }
-        }
-    },
-    "ACC_ORANGE": {
-        "value": "Топазовий",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpact": {
-                "value": "Отримайте 2 здоров’я за ворога, убитого вибуховою шкодою. Максимально — 450 здоров’я."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProc": {
-                "value": "Відновлює +5 щитів, коли ви накладаєте на ворогів ефект стану від вибухової шкоди."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
-                "value": "Збільшує ймовірність критичної шкоди від допоміжної зброї на 1%, щоразу як ви вбиваєте ворога під впливом термічної шкоди. Максимально — 50%."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoost": {
-                "value": "Дає +10% до шкоди від здібностей ворогам, під впливом радіаційної шкоди."
-            }
-        }
-    },
-    "ACC_PURPLE": {
-        "value": "Фіолетовий",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoost": {
-                "value": "Дає +10% до шкоди від здібностей ворогам, під впливом електричної шкоди."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamage": {
-                "value": "Дає +30% до електричної шкоди від основної зброї. Додатково дає +10% за кожен споряджений багряний, блакитний або фіолетовий архонтовий уламок."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoost": {
-                "value": "Дає +25% до критичної шкоди від холодної зброї. Коли максимальна енергія перевищує 500, то збільшення шкоди подвоюється."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibrium": {
-                "value": "Згустки здоров’я дають +20% енергії, а згустки енергії дають +20% здоров’я."
-            }
-        }
-    },
-    "ACC_GREEN": {
-        "value": "Смарагдовий",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamage": {
-                "value": "Ефекти стану від токсичної шкоди завдаватимуть на +30% більше шкоди."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHeal": {
-                "value": "Відновлює +2 здоров’я, щоразу як вороги отримують шкоду від ефектів стану від токсичної шкоди."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoost": {
-                "value": "Дає +10% до шкоди від здібностей ворогам, під впливом корозійної шкоди."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStack": {
-                "value": "Збільшує максимальну кількість накопичень ефектів стану від корозійної шкоди на +2."
-            }
-        }
-    },
-    "ACC_BLUE_MYTHIC": {
-        "value": "Таурований блакитний",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMaxMythic": {
-                "value": "+225 до запасу здоров’я."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMaxMythic": {
-                "value": "+225 до місткості щитів."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMaxMythic": {
-                "value": "+75 до запасу енергії."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMaxMythic": {
-                "value": "+225 до захисту."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegenMythic": {
-                "value": "+7.5 ОЗ/с до відновлення здоров’я."
-            }
-        }
-    },
-    "ACC_RED_MYTHIC": {
-        "value": "Таурований багряний",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamageMythic": {
-                "value": "+37.5% до ймовірності критичного влучання від холодної зброї."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChanceMythic": {
-                "value": "+37.5% до ймовірності накладання ефекту стану від основної зброї."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChanceMythic": {
-                "value": "+37.5% до ймовірності критичного влучання від допоміжної зброї."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDurationMythic": {
-                "value": "+15% до тривалості здібностей."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrengthMythic": {
-                "value": "+15% до потужності здібностей."
-            }
-        }
-    },
-    "ACC_YELLOW_MYTHIC": {
-        "value": "Таурований бурштиновий",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergyMythic": {
-                "value": "+45% до максимальної енергії під час відродження."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealthMythic": {
-                "value": "+150% до ефективності згустків здоров’я."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergyMythic": {
-                "value": "+75% до ефективності згустків енергії."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeedMythic": {
-                "value": "+37.5% до швидкості застосування здібностей."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocityMythic": {
-                "value": "+22.5% до швидкості паркуру."
-            }
-        }
-    },
-    "ACC_ORANGE_MYTHIC": {
-        "value": "Таурований топазовий",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpactMythic": {
-                "value": "Отримайте 2 здоров’я за ворога, убитого вибуховою шкодою. Максимально — 450 здоров’я."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProcMythic": {
-                "value": "Відновлює +7.5 щитів, коли ви накладаєте на ворогів ефект стану від вибухової шкоди"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeatMythic": {
-                "value": "Збільшує ймовірність критичної шкоди від допоміжної зброї на 1.5%, щоразу як ви вбиваєте ворога під впливом термічної шкоди. Максимально — 75%"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoostMythic": {
-                "value": "Дає +15% до шкоди від здібностей ворогам, під впливом радіаційної шкоди."
-            }
-        }
-    },
-    "ACC_PURPLE_MYTHIC": {
-        "value": "Таурований фіолетовий",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoostMythic": {
-                "value": "Дає +15% до шкоди від здібностей ворогам, під впливом електричної шкоди. "
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageMythic": {
-                "value": "Дає +45% до електричної шкоди від основної зброї. Додатково дає +15% за кожен споряджений багряний, блакитний або фіолетовий архонтовий уламок."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoostMythic": {
-                "value": "Дає +37.5% до критичної шкоди від холодної зброї. Коли максимальна енергія перевищує 500, то збільшення шкоди подвоюється."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibriumMythic": {
-                "value": "Згустки здоров’я дають +30% енергії, а згустки енергії дають +30% здоров’я."
-            }
-        }
-    },
-    "ACC_GREEN_MYTHIC": {
-        "value": "Таурований cмарагдовий",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamageMythic": {
-                "value": "Ефекти стану від токсичної шкоди завдаватимуть на +45% більше шкоди."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHealMythic": {
-                "value": "Відновлює +3 здоров’я, щоразу як вороги отримують шкоду від ефектів стану від токсичної шкоди."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoostMythic": {
-                "value": "Дає +15% до шкоди від здібностей ворогам, під впливом корозійної шкоди."
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStackMythic": {
-                "value": "Збільшує максимальну кількість накопичень ефектів стану від корозійної шкоди на +3."
-            }
-        }
+  "ACC_BLUE": {
+    "value": "Блакитний",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax": {
+        "value": "+150 до запасу здоров’я."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMax": {
+        "value": "+150 до місткості щитів."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMax": {
+        "value": "+50 до запасу енергії."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMax": {
+        "value": "+150 до захисту."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegen": {
+        "value": "+5 ОЗ/с до відновлення здоров’я."
+      }
     }
+  },
+  "ACC_RED": {
+    "value": "Багряний",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamage": {
+        "value": "+25% до ймовірності критичного влучання від холодної зброї."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChance": {
+        "value": "+25% до ймовірності накладання ефекту стану від основної зброї."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChance": {
+        "value": "+25% до ймовірності критичного влучання від допоміжної зброї."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDuration": {
+        "value": "+10% до тривалості здібностей."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrength": {
+        "value": "+10% до потужності здібностей."
+      }
+    }
+  },
+  "ACC_YELLOW": {
+    "value": "Бурштиновий",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergy": {
+        "value": "+30% до максимальної енергії під час відродження."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealth": {
+        "value": "+100% до ефективності згустків здоров’я."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergy": {
+        "value": "+50% до ефективності згустків енергії."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeed": {
+        "value": "+25% до швидкості застосування здібностей."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocity": {
+        "value": "+15% до швидкості паркуру."
+      }
+    }
+  },
+  "ACC_ORANGE": {
+    "value": "Топазовий",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpact": {
+        "value": "Отримайте 2 здоров’я за ворога, убитого вибуховою шкодою. Максимально — 450 здоров’я."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProc": {
+        "value": "Відновлює +5 щитів, коли ви накладаєте на ворогів ефект стану від вибухової шкоди."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
+        "value": "Збільшує ймовірність критичної шкоди від допоміжної зброї на 1%, щоразу як ви вбиваєте ворога під впливом термічної шкоди. Максимально — 50%."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoost": {
+        "value": "Дає +10% до шкоди від здібностей ворогам, під впливом радіаційної шкоди."
+      }
+    }
+  },
+  "ACC_PURPLE": {
+    "value": "Фіолетовий",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoost": {
+        "value": "Дає +10% до шкоди від здібностей ворогам, під впливом електричної шкоди."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamage": {
+        "value": "Дає +30% до електричної шкоди від основної зброї. Додатково дає +10% за кожен споряджений багряний, блакитний або фіолетовий архонтовий уламок."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoost": {
+        "value": "Дає +25% до критичної шкоди від холодної зброї. Коли максимальна енергія перевищує 500, то збільшення шкоди подвоюється."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibrium": {
+        "value": "Згустки здоров’я дають +20% енергії, а згустки енергії дають +20% здоров’я."
+      }
+    }
+  },
+  "ACC_GREEN": {
+    "value": "Смарагдовий",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamage": {
+        "value": "Ефекти стану від токсичної шкоди завдаватимуть на +30% більше шкоди."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHeal": {
+        "value": "Відновлює +2 здоров’я, щоразу як вороги отримують шкоду від ефектів стану від токсичної шкоди."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoost": {
+        "value": "Дає +10% до шкоди від здібностей ворогам, під впливом корозійної шкоди."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStack": {
+        "value": "Збільшує максимальну кількість накопичень ефектів стану від корозійної шкоди на +2."
+      }
+    }
+  },
+  "ACC_BLUE_MYTHIC": {
+    "value": "Таурований блакитний",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMaxMythic": {
+        "value": "+225 до запасу здоров’я."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMaxMythic": {
+        "value": "+225 до місткості щитів."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMaxMythic": {
+        "value": "+75 до запасу енергії."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMaxMythic": {
+        "value": "+225 до захисту."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegenMythic": {
+        "value": "+7.5 ОЗ/с до відновлення здоров’я."
+      }
+    }
+  },
+  "ACC_RED_MYTHIC": {
+    "value": "Таурований багряний",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamageMythic": {
+        "value": "+37.5% до ймовірності критичного влучання від холодної зброї."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChanceMythic": {
+        "value": "+37.5% до ймовірності накладання ефекту стану від основної зброї."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChanceMythic": {
+        "value": "+37.5% до ймовірності критичного влучання від допоміжної зброї."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDurationMythic": {
+        "value": "+15% до тривалості здібностей."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrengthMythic": {
+        "value": "+15% до потужності здібностей."
+      }
+    }
+  },
+  "ACC_YELLOW_MYTHIC": {
+    "value": "Таурований бурштиновий",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergyMythic": {
+        "value": "+45% до максимальної енергії під час відродження."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealthMythic": {
+        "value": "+150% до ефективності згустків здоров’я."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergyMythic": {
+        "value": "+75% до ефективності згустків енергії."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeedMythic": {
+        "value": "+37.5% до швидкості застосування здібностей."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocityMythic": {
+        "value": "+22.5% до швидкості паркуру."
+      }
+    }
+  },
+  "ACC_ORANGE_MYTHIC": {
+    "value": "Таурований топазовий",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpactMythic": {
+        "value": "Отримайте 2 здоров’я за ворога, убитого вибуховою шкодою. Максимально — 450 здоров’я."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProcMythic": {
+        "value": "Відновлює +7.5 щитів, коли ви накладаєте на ворогів ефект стану від вибухової шкоди"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeatMythic": {
+        "value": "Збільшує ймовірність критичної шкоди від допоміжної зброї на 1.5%, щоразу як ви вбиваєте ворога під впливом термічної шкоди. Максимально — 75%"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoostMythic": {
+        "value": "Дає +15% до шкоди від здібностей ворогам, під впливом радіаційної шкоди."
+      }
+    }
+  },
+  "ACC_PURPLE_MYTHIC": {
+    "value": "Таурований фіолетовий",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoostMythic": {
+        "value": "Дає +15% до шкоди від здібностей ворогам, під впливом електричної шкоди. "
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageMythic": {
+        "value": "Дає +45% до електричної шкоди від основної зброї. Додатково дає +15% за кожен споряджений багряний, блакитний або фіолетовий архонтовий уламок."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoostMythic": {
+        "value": "Дає +37.5% до критичної шкоди від холодної зброї. Коли максимальна енергія перевищує 500, то збільшення шкоди подвоюється."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibriumMythic": {
+        "value": "Згустки здоров’я дають +30% енергії, а згустки енергії дають +30% здоров’я."
+      }
+    }
+  },
+  "ACC_GREEN_MYTHIC": {
+    "value": "Таурований cмарагдовий",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamageMythic": {
+        "value": "Ефекти стану від токсичної шкоди завдаватимуть на +45% більше шкоди."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHealMythic": {
+        "value": "Відновлює +3 здоров’я, щоразу як вороги отримують шкоду від ефектів стану від токсичної шкоди."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoostMythic": {
+        "value": "Дає +15% до шкоди від здібностей ворогам, під впливом корозійної шкоди."
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStackMythic": {
+        "value": "Збільшує максимальну кількість накопичень ефектів стану від корозійної шкоди на +3."
+      }
+    }
+  }
 }

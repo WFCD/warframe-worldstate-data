@@ -1,8 +1,8 @@
-import * as chai from 'chai';
-import chaiJson from 'chai-json';
-import chaiJsonSchema from 'chai-json-schema-ajv';
+import * as chai from "chai";
+import chaiJson from "chai-json";
+import chaiJsonSchema from "chai-json-schema-ajv";
 
-import languages from '../data/languages.json' with { type: 'json' };
+import languages from "../data/languages.json" with { type: "json" };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);
@@ -10,33 +10,37 @@ chai.use(chaiJsonSchema);
 chai.should();
 const { expect } = chai;
 
-const syndicates = Object.keys(await import('../data/syndicatesData.json', { with: { type: 'json' } }));
+const syndicates = Object.keys(
+  await import("../data/syndicatesData.json", { with: { type: "json" } }),
+);
 
 const languagesSchema = {
   definitions: {
     language: {
-      type: 'object',
+      type: "object",
       properties: {
-        value: { type: 'string' },
-        desc: { type: 'string' },
+        value: { type: "string" },
+        desc: { type: "string" },
       },
-      required: ['value'],
+      required: ["value"],
     },
   },
-  type: 'object',
+  type: "object",
   patternProperties: {},
 };
-languagesSchema.patternProperties[`^/ee|^/lotus|^/Lotus|${syndicates.join('|')}|^[0-9a-z]+$`] = {
-  $ref: '#/definitions/language',
+languagesSchema.patternProperties[
+  `^/ee|^/lotus|^/Lotus|${syndicates.join("|")}|^[0-9a-z]+$`
+] = {
+  $ref: "#/definitions/language",
 };
 
-describe('languages.json', () => {
-  it('should be a valid JSON file', () => {
-    expect('./data/languages.json').to.be.a.jsonFile();
+describe("languages.json", () => {
+  it("should be a valid JSON file", () => {
+    expect("./data/languages.json").to.be.a.jsonFile();
   });
 
-  it('should adhere to the schema', () => {
+  it("should adhere to the schema", () => {
     expect(languages).to.be.jsonSchema(languagesSchema);
-    expect(languages['/ee/types/engine/mover']).to.eql({ value: 'Mover' });
+    expect(languages["/ee/types/engine/mover"]).to.eql({ value: "Mover" });
   });
 });

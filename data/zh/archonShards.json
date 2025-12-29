@@ -1,224 +1,224 @@
 {
-    "ACC_BLUE": {
-        "value": "蔚蓝",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax": {
-                "value": "+ 150% 生命"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMax": {
-                "value": "+ 150 护盾"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMax": {
-                "value": "+50 最大能量"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMax": {
-                "value": "+150 护甲"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegen": {
-                "value": "+5 每秒生命回复"
-            }
-        }
-    },
-    "ACC_RED": {
-        "value": "深红",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamage": {
-                "value": "+25% 近战武器暴击伤害"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChance": {
-                "value": "+25% 主要武器触发几率"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChance": {
-                "value": "+25% 主要武器暴击几率"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDuration": {
-                "value": "+10% 技能持续时间"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrength": {
-                "value": "+10% 技能强度"
-            }
-        }
-    },
-    "ACC_YELLOW": {
-        "value": "琥珀",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergy": {
-                "value": "+30% 任务开始时能量上限"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealth": {
-                "value": "+100% 生命球效果"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergy": {
-                "value": "+50% 生命球效果"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeed": {
-                "value": "+25% 技能施放速度"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocity": {
-                "value": "+15% 跑酷速度"
-            }
-        }
-    },
-    "ACC_ORANGE": {
-        "value": "黄玉",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpact": {
-                "value": "使用爆炸伤害击杀的每个敌人可增加 2 生命值，最多增加 450 最大生命值"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProc": {
-                "value": "使用爆炸伤害击杀一个敌人恢复 5 护盾值"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
-                "value": "每击杀一个受到火焰异常状态影响的敌人，次要武器的暴击几率增加 1% ，最高可达50%"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoost": {
-                "value": "受到辐射异常状态的敌人受到的技能伤害增加+10%"
-            }
-        }
-    },
-    "ACC_PURPLE": {
-        "value": "紫晶",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoost": {
-                "value": "受到电击异常状态的敌人造成 +10% 技能伤害"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamage": {
-                "value": "主要武器获得 +30% 电击伤害，每装备一颗深红，蔚蓝或者紫晶源力石，额外获得+10% 电击伤害"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoost": {
-                "value": "近战武器获得 +25% 暴击伤害，当最大能量超过500时，伤害翻倍"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibrium": {
-                "value": "拾取生命球时获得 +20% 能量，拾取能量球时获得 +20% 生命"
-            }
-        }
-    },
-    "ACC_GREEN": {
-        "value": "翡翠",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamage": {
-                "value": "毒素异常状态造成 +30% 伤害 "
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHeal": {
-                "value": "每当敌人受到毒素异常伤害时，回复 +2 生命"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoost": {
-                "value": "受到腐蚀异常影响的敌人提供+10%技能伤害"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStack": {
-                "value": "腐蚀异常状态可以增加腐蚀伤害的最高堆叠层数 +2"
-            }
-        }
-    },
-    "ACC_BLUE_MYTHIC": {
-        "value": "Tau融造的蔚蓝",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMaxMythic": {
-                "value": "+ 225% 生命"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMaxMythic": {
-                "value": "+ 225 护盾"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMaxMythic": {
-                "value": "+75 最大能量"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMaxMythic": {
-                "value": "+225 护甲"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegenMythic": {
-                "value": "+7.5 每秒生命回复"
-            }
-        }
-    },
-    "ACC_RED_MYTHIC": {
-        "value": "Tau融造的深红",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamageMythic": {
-                "value": "+37.5% 近战武器暴击伤害"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChanceMythic": {
-                "value": "+37.5% 主要武器触发几率"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChanceMythic": {
-                "value": "+37.5% 主要武器暴击几率"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDurationMythic": {
-                "value": "+15% 技能持续时间"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrengthMythic": {
-                "value": "+15% 技能强度"
-            }
-        }
-    },
-    "ACC_YELLOW_MYTHIC": {
-        "value": "Tau融造的琥珀",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergyMythic": {
-                "value": "+45% 任务开始时能量上限"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealthMythic": {
-                "value": "+150% 生命球效果"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergyMythic": {
-                "value": "+75% 生命球效果"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeedMythic": {
-                "value": "+37.5% 技能施放速度"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocityMythic": {
-                "value": "+22.5% 跑酷速度"
-            }
-        }
-    },
-    "ACC_ORANGE_MYTHIC": {
-        "value": "Tau融造的黄玉",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpactMythic": {
-                "value": "被爆破伤害击杀的每个敌人可以提供 +2 生命 (最大 450 生命值)"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProcMythic": {
-                "value": "使用爆炸伤害击杀一个敌人恢复 7.5 护盾值"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeatMythic": {
-                "value": "每击杀一个受到火焰异常状态影响的敌人，次要武器的暴击几率增加 1.5% ，最高可达75%"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoostMythic": {
-                "value": "处于辐射异常的敌人增加 15% 技能伤害"
-            }
-        }
-    },
-    "ACC_PURPLE_MYTHIC": {
-        "value": "Tau融造的紫晶",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoostMythic": {
-                "value": "受到电击异常状态的敌人造成 +15% 技能伤害 "
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageMythic": {
-                "value": "主要武器获得 +45% 电击伤害，每装备一颗深红，蔚蓝或者紫晶源力石，额外获得+15% 电击伤害"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoostMythic": {
-                "value": "近战武器获得 +37.5% 暴击伤害，当最大能量超过500时，伤害翻倍"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibriumMythic": {
-                "value": "拾取生命球时获得 +30% 能量，拾取能量球时获得 +30% 生命"
-            }
-        }
-    },
-    "ACC_GREEN_MYTHIC": {
-        "value": "Tau融造的翡翠",
-        "upgradeTypes": {
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamageMythic": {
-                "value": "毒素异常状态造成 +45% 伤害 "
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHealMythic": {
-                "value": "每当敌人受到毒素异常伤害时，回复 +3 生命"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoostMythic": {
-                "value": "受到腐蚀异常影响的敌人提供+15%技能伤害"
-            },
-            "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStackMythic": {
-                "value": "腐蚀异常状态可以增加腐蚀伤害的最高堆叠层数 +3"
-            }
-        }
+  "ACC_BLUE": {
+    "value": "蔚蓝",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMax": {
+        "value": "+ 150% 生命"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMax": {
+        "value": "+ 150 护盾"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMax": {
+        "value": "+50 最大能量"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMax": {
+        "value": "+150 护甲"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegen": {
+        "value": "+5 每秒生命回复"
+      }
     }
+  },
+  "ACC_RED": {
+    "value": "深红",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamage": {
+        "value": "+25% 近战武器暴击伤害"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChance": {
+        "value": "+25% 主要武器触发几率"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChance": {
+        "value": "+25% 主要武器暴击几率"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDuration": {
+        "value": "+10% 技能持续时间"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrength": {
+        "value": "+10% 技能强度"
+      }
+    }
+  },
+  "ACC_YELLOW": {
+    "value": "琥珀",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergy": {
+        "value": "+30% 任务开始时能量上限"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealth": {
+        "value": "+100% 生命球效果"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergy": {
+        "value": "+50% 生命球效果"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeed": {
+        "value": "+25% 技能施放速度"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocity": {
+        "value": "+15% 跑酷速度"
+      }
+    }
+  },
+  "ACC_ORANGE": {
+    "value": "黄玉",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpact": {
+        "value": "使用爆炸伤害击杀的每个敌人可增加 2 生命值，最多增加 450 最大生命值"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProc": {
+        "value": "使用爆炸伤害击杀一个敌人恢复 5 护盾值"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeat": {
+        "value": "每击杀一个受到火焰异常状态影响的敌人，次要武器的暴击几率增加 1% ，最高可达50%"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoost": {
+        "value": "受到辐射异常状态的敌人受到的技能伤害增加+10%"
+      }
+    }
+  },
+  "ACC_PURPLE": {
+    "value": "紫晶",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoost": {
+        "value": "受到电击异常状态的敌人造成 +10% 技能伤害"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamage": {
+        "value": "主要武器获得 +30% 电击伤害，每装备一颗深红，蔚蓝或者紫晶源力石，额外获得+10% 电击伤害"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoost": {
+        "value": "近战武器获得 +25% 暴击伤害，当最大能量超过500时，伤害翻倍"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibrium": {
+        "value": "拾取生命球时获得 +20% 能量，拾取能量球时获得 +20% 生命"
+      }
+    }
+  },
+  "ACC_GREEN": {
+    "value": "翡翠",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamage": {
+        "value": "毒素异常状态造成 +30% 伤害 "
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHeal": {
+        "value": "每当敌人受到毒素异常伤害时，回复 +2 生命"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoost": {
+        "value": "受到腐蚀异常影响的敌人提供+10%技能伤害"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStack": {
+        "value": "腐蚀异常状态可以增加腐蚀伤害的最高堆叠层数 +2"
+      }
+    }
+  },
+  "ACC_BLUE_MYTHIC": {
+    "value": "Tau融造的蔚蓝",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHealthMaxMythic": {
+        "value": "+ 225% 生命"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeShieldMaxMythic": {
+        "value": "+ 225 护盾"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeEnergyMaxMythic": {
+        "value": "+75 最大能量"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeArmourMaxMythic": {
+        "value": "+225 护甲"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRegenMythic": {
+        "value": "+7.5 每秒生命回复"
+      }
+    }
+  },
+  "ACC_RED_MYTHIC": {
+    "value": "Tau融造的深红",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeMeleeCritDamageMythic": {
+        "value": "+37.5% 近战武器暴击伤害"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradePrimaryStatusChanceMythic": {
+        "value": "+37.5% 主要武器触发几率"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeSecondaryCritChanceMythic": {
+        "value": "+37.5% 主要武器暴击几率"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityDurationMythic": {
+        "value": "+15% 技能持续时间"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeAbilityStrengthMythic": {
+        "value": "+15% 技能强度"
+      }
+    }
+  },
+  "ACC_YELLOW_MYTHIC": {
+    "value": "Tau融造的琥珀",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeStartingEnergyMythic": {
+        "value": "+45% 任务开始时能量上限"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectHealthMythic": {
+        "value": "+150% 生命球效果"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeGlobeEffectEnergyMythic": {
+        "value": "+75% 生命球效果"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCastingSpeedMythic": {
+        "value": "+37.5% 技能施放速度"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeParkourVelocityMythic": {
+        "value": "+22.5% 跑酷速度"
+      }
+    }
+  },
+  "ACC_ORANGE_MYTHIC": {
+    "value": "Tau融造的黄玉",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeHPBoostFromImpactMythic": {
+        "value": "被爆破伤害击杀的每个敌人可以提供 +2 生命 (最大 450 生命值)"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeBlastProcMythic": {
+        "value": "使用爆炸伤害击杀一个敌人恢复 7.5 护盾值"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWeaponCritBoostFromHeatMythic": {
+        "value": "每击杀一个受到火焰异常状态影响的敌人，次要武器的暴击几率增加 1.5% ，最高可达75%"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeRadiationDamageBoostMythic": {
+        "value": "处于辐射异常的敌人增加 15% 技能伤害"
+      }
+    }
+  },
+  "ACC_PURPLE_MYTHIC": {
+    "value": "Tau融造的紫晶",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageBoostMythic": {
+        "value": "受到电击异常状态的敌人造成 +15% 技能伤害 "
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeElectricDamageMythic": {
+        "value": "主要武器获得 +45% 电击伤害，每装备一颗深红，蔚蓝或者紫晶源力石，额外获得+15% 电击伤害"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCritDamageBoostMythic": {
+        "value": "近战武器获得 +37.5% 暴击伤害，当最大能量超过500时，伤害翻倍"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeEquilibriumMythic": {
+        "value": "拾取生命球时获得 +30% 能量，拾取能量球时获得 +30% 生命"
+      }
+    }
+  },
+  "ACC_GREEN_MYTHIC": {
+    "value": "Tau融造的翡翠",
+    "upgradeTypes": {
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinDamageMythic": {
+        "value": "毒素异常状态造成 +45% 伤害 "
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeToxinHealMythic": {
+        "value": "每当敌人受到毒素异常伤害时，回复 +3 生命"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoostMythic": {
+        "value": "受到腐蚀异常影响的敌人提供+15%技能伤害"
+      },
+      "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStackMythic": {
+        "value": "腐蚀异常状态可以增加腐蚀伤害的最高堆叠层数 +3"
+      }
+    }
+  }
 }

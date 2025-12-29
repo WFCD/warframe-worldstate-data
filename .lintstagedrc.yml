@@ -1,12 +1,12 @@
 '*.ts,!tools/*':
-  - biome lint --write
+  - biome check --write
   - npm test
 'tools/*.ts':
-  - biome lint --write
+  - biome check --write
 package*.json:
   - npx sort-package-json
   - npm dedupe
 '*.{yml,json,yaml},!package*.json':
-  - prettier --write
+  - biome check --write
 'data/languages.json':
   - npm run sort -- -c
