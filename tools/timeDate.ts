@@ -62,7 +62,10 @@ export const toNow = (d: Date, now: () => number = Date.now): number => {
 };
 
 export interface ContentTimestamp {
-  $date?: { $numberLong: number };
+  $date?: { $numberLong: number | string };
+}
+export interface LegacyTimestamp {
+  sec: number | string;
 }
 
 /**
@@ -70,10 +73,26 @@ export interface ContentTimestamp {
  * @param {Object} d The worldState date object
  * @returns {Date} parsed date from DE date format
  */
-export const parseDate = (d?: ContentTimestamp): Date => {
+export const parseDate = (d?: ContentTimestamp | LegacyTimestamp | number): Date => {
   const safeD = d || epochZero;
-  const dt = safeD.$date || epochZero.$date;
-  return new Date(safeD.$date ? Number(dt!.$numberLong) : 1000 * (d as { sec: number }).sec);
+  const contentD = safeD as ContentTimestamp;
+  if (typeof contentD.$date?.$numberLong === 'string') {
+    return new Date(Number.parseInt(contentD.$date.$numberLong, 10));
+  }
+  if (typeof contentD.$date?.$numberLong === 'number') {
+    return new Date(contentD.$date.$numberLong);
+  }
+  const legacyD = d as unknown as LegacyTimestamp;
+  if (typeof legacyD.sec === 'string') {
+    return new Date(1000 * Number.parseInt(legacyD.sec, 10));
+  }
+  if (typeof legacyD.sec !== 'undefined') {
+    return new Date(1000 * legacyD.sec as number);
+  }
+  if (typeof d === 'number') {
+    return new Date(d);
+  }
+  throw new Error(`Invalid date format ${d}`);
 };
 
 /**
