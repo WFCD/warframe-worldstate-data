@@ -1,8 +1,8 @@
-import * as chai from 'chai';
-import chaiJson from 'chai-json';
-import chaiJsonSchema from 'chai-json-schema-ajv';
+import * as chai from "chai";
+import chaiJson from "chai-json";
+import chaiJsonSchema from "chai-json-schema-ajv";
 
-import conclaveData from '../data/conclaveData.json' with { type: 'json' };
+import conclaveData from "../data/conclaveData.json" with { type: "json" };
 
 chai.use(chaiJson);
 chai.use(chaiJsonSchema);
@@ -12,70 +12,70 @@ chai.should();
 const conclaveDataSchema = {
   definitions: {
     mode: {
-      type: 'object',
+      type: "object",
       properties: {
-        value: { type: 'string' },
+        value: { type: "string" },
       },
     },
     category: {
-      type: 'object',
+      type: "object",
       properties: {
-        value: { type: 'string' },
-        description: { type: 'string' },
+        value: { type: "string" },
+        description: { type: "string" },
       },
     },
     challenges: {
-      type: 'object',
+      type: "object",
       properties: {
-        title: { type: 'string' },
-        description: { type: 'string' },
-        standing: { type: 'number' },
+        title: { type: "string" },
+        description: { type: "string" },
+        standing: { type: "number" },
       },
     },
     affectors: {
-      type: 'object',
+      type: "object",
       properties: {
-        title: { type: 'string' },
-        description: { type: 'string' },
+        title: { type: "string" },
+        description: { type: "string" },
       },
     },
   },
-  type: 'object',
+  type: "object",
   properties: {
     modes: {
-      type: 'object',
+      type: "object",
       patternProperties: {
-        '^PVPMODE_': { $ref: '#/definitions/mode' },
+        "^PVPMODE_": { $ref: "#/definitions/mode" },
       },
     },
     categories: {
-      type: 'object',
+      type: "object",
       patternProperties: {
-        '^PVPChallengeTypeCategory_': { $ref: '#/definitions/category' },
+        "^PVPChallengeTypeCategory_": { $ref: "#/definitions/category" },
       },
     },
     challenges: {
-      type: 'object',
+      type: "object",
       patternProperties: {
-        '^PVPTimedChallenge': { $ref: '#/definitions/challenges' },
+        "^PVPTimedChallenge": { $ref: "#/definitions/challenges" },
       },
     },
     affectors: {
-      type: 'object',
+      type: "object",
       patternProperties: {
-        '^PVPTimedAffector': { $ref: '#/definitions/affectors' },
+        "^PVPTimedAffector": { $ref: "#/definitions/affectors" },
       },
     },
   },
-  required: ['modes', 'categories', 'challenges'],
+  required: ["modes", "categories", "challenges"],
 };
 
-describe('conclaveData.json', () => {
-  it('should be a valid JSON file', () => {
-    './data/conclaveData.json'.should.be.a.jsonFile();
+describe("conclaveData.json", () => {
+  it("should be a valid JSON file", () => {
+    "./data/conclaveData.json".should.be.a.jsonFile();
   });
 
-  it('should adhere to the schema', () => {
+  it("should adhere to the schema", () => {
     conclaveData.should.be.jsonSchema(conclaveDataSchema);
   });
 });

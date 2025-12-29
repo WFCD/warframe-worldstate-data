@@ -1,5 +1,5 @@
-import data, { WorldstateLangBundle, type Locale } from '../exports';
-import { ArchonShard, SolNode, Conclave, SteelPath } from '../types';
+import data, { type Locale, WorldstateLangBundle } from "../exports";
+import { ArchonShard, Conclave, SolNode, SteelPath } from "../types";
 
 /**
  * Rough Titlecase!
@@ -7,7 +7,10 @@ import { ArchonShard, SolNode, Conclave, SteelPath } from '../types';
  * @returns {string} titlecased string
  */
 export const toTitleCase = (str: string): string => {
-  return str.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substring(1).toLowerCase());
+  return str.replace(
+    /\w\S*/g,
+    (txt) => txt.charAt(0).toUpperCase() + txt.substring(1).toLowerCase(),
+  );
 };
 
 /**
@@ -19,13 +22,17 @@ export const splitResourceName = (str: string): string =>
   str
     .split(/([A-Z]?[^A-Z]*)/g)
     .filter(Boolean)
-    .join(' ');
+    .join(" ");
 
-export const lastResourceName = (str: string | undefined) => (str ? str.split?.('/').reverse()[0] : str);
+export const lastResourceName = (str: string | undefined) =>
+  str ? str.split?.("/").reverse()[0] : str;
 
-const i18n = (locale: Locale = 'en') => data[locale] || data;
+const i18n = (locale: Locale = "en") => data[locale] || data;
 
-const keyInData = <T>(key: keyof WorldstateLangBundle, dataOverride?: Locale): T =>
+const keyInData = <T>(
+  key: keyof WorldstateLangBundle,
+  dataOverride?: Locale,
+): T =>
   key in i18n(dataOverride) ? (i18n(dataOverride)[key] as T) : (key as T);
 
 /**
@@ -34,8 +41,10 @@ const keyInData = <T>(key: keyof WorldstateLangBundle, dataOverride?: Locale): T
  * @param {string} dataOverride locale for use with translation
  * @returns {Object | undefined}
  */
-export const archonShard = (color: string, dataOverride: Locale = 'en') => {
-  return keyInData<Record<string, ArchonShard>>('archonShards', dataOverride)[color] as ArchonShard;
+export const archonShard = (color: string, dataOverride: Locale = "en") => {
+  return keyInData<Record<string, ArchonShard>>("archonShards", dataOverride)[
+    color
+  ] as ArchonShard;
 };
 
 /**
@@ -44,8 +53,10 @@ export const archonShard = (color: string, dataOverride: Locale = 'en') => {
  * @param {string} dataOverride locale for use with translation
  * @returns {string}
  */
-export const archonShardColor = (color: string, dataOverride: Locale = 'en'): string =>
-  archonShard(color, dataOverride)?.value ?? color;
+export const archonShardColor = (
+  color: string,
+  dataOverride: Locale = "en",
+): string => archonShard(color, dataOverride)?.value ?? color;
 
 /**
  *
@@ -54,8 +65,13 @@ export const archonShardColor = (color: string, dataOverride: Locale = 'en'): st
  * @param {string} dataOverride locale for use with translation
  * @returns {string}
  */
-export const archonShardUpgradeType = (color: string, upgradeType: string, dataOverride: Locale = 'en'): string =>
-  archonShard(color, dataOverride)?.upgradeTypes[upgradeType]?.value ?? lastResourceName(upgradeType);
+export const archonShardUpgradeType = (
+  color: string,
+  upgradeType: string,
+  dataOverride: Locale = "en",
+): string =>
+  archonShard(color, dataOverride)?.upgradeTypes[upgradeType]?.value ??
+  lastResourceName(upgradeType);
 
 /**
  *
@@ -63,11 +79,20 @@ export const archonShardUpgradeType = (color: string, upgradeType: string, dataO
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction name
  */
-export const faction = (key: string, dataOverride: Locale = 'en'): string =>
-  keyInData<Record<string, { value: string }>>('factions', dataOverride)[key]?.value ?? key;
+export const faction = (key: string, dataOverride: Locale = "en"): string =>
+  keyInData<Record<string, { value: string }>>("factions", dataOverride)[key]
+    ?.value ?? key;
 
-const solNode = (key: string, thing: keyof SolNode, dataOverride: Locale = 'en') =>
-  keyInData<Record<string, SolNode>>('solNodes', dataOverride)?.[key]?.[thing] ?? lastResourceName(key) ?? key;
+const solNode = (
+  key: string,
+  thing: keyof SolNode,
+  dataOverride: Locale = "en",
+) =>
+  keyInData<Record<string, SolNode>>("solNodes", dataOverride)?.[key]?.[
+    thing
+  ] ??
+  lastResourceName(key) ??
+  key;
 
 /**
  *
@@ -75,7 +100,8 @@ const solNode = (key: string, thing: keyof SolNode, dataOverride: Locale = 'en')
  * @param {string} dataOverride locale for use with translation
  * @returns {string} node name
  */
-export const node = (key: string, dataOverride: Locale = 'en'): string => solNode(key, 'value', dataOverride);
+export const node = (key: string, dataOverride: Locale = "en"): string =>
+  solNode(key, "value", dataOverride);
 
 /**
  *
@@ -83,15 +109,20 @@ export const node = (key: string, dataOverride: Locale = 'en'): string => solNod
  * @param {string} dataOverride locale for use with translation
  * @returns {string} mission type of the node
  */
-export const nodeMissionType = (key: string, dataOverride: Locale = 'en'): string => solNode(key, 'type', dataOverride);
+export const nodeMissionType = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => solNode(key, "type", dataOverride);
 /**
  *
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction that controls the node
  */
-export const nodeEnemy = (key: string, dataOverride: Locale = 'en'): string => {
-  return key in i18n(dataOverride).solNodes ? i18n(dataOverride).solNodes[key].enemy : (lastResourceName(key) ?? key);
+export const nodeEnemy = (key: string, dataOverride: Locale = "en"): string => {
+  return key in i18n(dataOverride).solNodes
+    ? i18n(dataOverride).solNodes[key].enemy
+    : (lastResourceName(key) ?? key);
 };
 
 /**
@@ -100,12 +131,17 @@ export const nodeEnemy = (key: string, dataOverride: Locale = 'en'): string => {
  * @param {string} dataOverride locale for use with translation
  * @returns {string} localization for language string
  */
-export const languageString = (key: string, dataOverride: Locale = 'en'): string => {
+export const languageString = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => {
   const lowerKey: string = String(key).toLowerCase();
   return (
     i18n(dataOverride).languages[lowerKey]?.value ??
     i18n(dataOverride).languages[key]?.value ??
-    (key ? toTitleCase(splitResourceName(lastResourceName(String(key)) ?? '')) : key)
+    (key
+      ? toTitleCase(splitResourceName(lastResourceName(String(key)) ?? ""))
+      : key)
   );
 };
 
@@ -115,12 +151,17 @@ export const languageString = (key: string, dataOverride: Locale = 'en'): string
  * @param {string} dataOverride locale for use with translation
  * @returns {string} localization for language description
  */
-export const languageDesc = (key: string, dataOverride: Locale = 'en'): string => {
+export const languageDesc = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => {
   const lowerKey = String(key).toLowerCase();
   return (
     i18n(dataOverride).languages[lowerKey]?.desc ??
     i18n(dataOverride).languages[key]?.desc ??
-    (key ? `[PH] ${toTitleCase(splitResourceName(lastResourceName(String(key)) ?? ''))} Desc` : key)
+    (key
+      ? `[PH] ${toTitleCase(splitResourceName(lastResourceName(String(key)) ?? ""))} Desc`
+      : key)
   );
 };
 
@@ -130,13 +171,24 @@ export const languageDesc = (key: string, dataOverride: Locale = 'en'): string =
  * @param {string} dataOverride locale for use with translation
  * @returns {string} translation for mission type
  */
-export const missionType = (key: string, dataOverride: Locale = 'en'): string => {
-  const keyBased = key && typeof key === 'string' && toTitleCase((key ?? '').replace(/^MT_/, ''));
-  return key in i18n(dataOverride).missionTypes ? i18n(dataOverride).missionTypes[key].value : (keyBased as string);
+export const missionType = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => {
+  const keyBased =
+    key &&
+    typeof key === "string" &&
+    toTitleCase((key ?? "").replace(/^MT_/, ""));
+  return key in i18n(dataOverride).missionTypes
+    ? i18n(dataOverride).missionTypes[key].value
+    : (keyBased as string);
 };
 
-const conclave = (key: string, thing: keyof Conclave, dataOverride: Locale = 'en') =>
-  keyInData<Conclave>('conclave', dataOverride)?.[thing]?.[key];
+const conclave = (
+  key: string,
+  thing: keyof Conclave,
+  dataOverride: Locale = "en",
+) => keyInData<Conclave>("conclave", dataOverride)?.[thing]?.[key];
 
 /**
  *
@@ -144,8 +196,11 @@ const conclave = (key: string, thing: keyof Conclave, dataOverride: Locale = 'en
  * @param {string} dataOverride locale for use with translation
  * @returns {string} conclave mode
  */
-export const conclaveMode = (key: string, dataOverride: Locale = 'en'): string =>
-  (conclave(key, 'modes', dataOverride) as { value: string })?.value ?? key;
+export const conclaveMode = (
+  key: string,
+  dataOverride: Locale = "en",
+): string =>
+  (conclave(key, "modes", dataOverride) as { value: string })?.value ?? key;
 
 /**
  *
@@ -153,11 +208,22 @@ export const conclaveMode = (key: string, dataOverride: Locale = 'en'): string =
  * @param {string} dataOverride locale for use with translation
  * @returns {{ value: string; description: string }} conclave category
  */
-export const conclaveCategory = (key: string, dataOverride: Locale = 'en'): string =>
-  (conclave(key, 'categories', dataOverride) as { value: string; description: string })?.value ?? key;
+export const conclaveCategory = (
+  key: string,
+  dataOverride: Locale = "en",
+): string =>
+  (
+    conclave(key, "categories", dataOverride) as {
+      value: string;
+      description: string;
+    }
+  )?.value ?? key;
 
-const fissure = (key: string, dataOverride: Locale = 'en') =>
-  keyInData<Record<string, { value: string; num: number }>>('fissureModifiers', dataOverride)?.[key] ?? key;
+const fissure = (key: string, dataOverride: Locale = "en") =>
+  keyInData<Record<string, { value: string; num: number }>>(
+    "fissureModifiers",
+    dataOverride,
+  )?.[key] ?? key;
 
 /**
  *
@@ -165,8 +231,10 @@ const fissure = (key: string, dataOverride: Locale = 'en') =>
  * @param {string} dataOverride locale for use with translation
  * @returns {string} fissure modifier data
  */
-export const fissureModifier = (key: string, dataOverride: Locale = 'en'): string =>
-  fissure(key, dataOverride)?.value ?? key;
+export const fissureModifier = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => fissure(key, dataOverride)?.value ?? key;
 
 /**
  *
@@ -174,8 +242,10 @@ export const fissureModifier = (key: string, dataOverride: Locale = 'en'): strin
  * @param {string} dataOverride locale for use with translation
  * @returns {number | string} fissure tier
  */
-export const fissureTier = (key: string, dataOverride: Locale = 'en'): number | string =>
-  fissure(key, dataOverride).num ?? key;
+export const fissureTier = (
+  key: string,
+  dataOverride: Locale = "en",
+): number | string => fissure(key, dataOverride).num ?? key;
 
 /**
  *
@@ -183,7 +253,7 @@ export const fissureTier = (key: string, dataOverride: Locale = 'en'): number | 
  * @param {string} dataOverride locale for use with translation
  * @returns {string} syndicate name
  */
-export const syndicate = (key: string, dataOverride: Locale = 'en'): string =>
+export const syndicate = (key: string, dataOverride: Locale = "en"): string =>
   i18n(dataOverride).syndicates[key]?.name ?? key;
 
 /**
@@ -192,10 +262,11 @@ export const syndicate = (key: string, dataOverride: Locale = 'en'): string =>
  * @param {string} dataOverride locale for use with translation
  * @returns {string} upgrade type
  */
-export const upgrade = (key: string, dataOverride: Locale = 'en'): string =>
+export const upgrade = (key: string, dataOverride: Locale = "en"): string =>
   i18n(dataOverride).upgradeTypes[key]?.value ?? key;
 
-const oppo = (key: string, dataOverride: Locale = 'en') => i18n(dataOverride).operationTypes[key];
+const oppo = (key: string, dataOverride: Locale = "en") =>
+  i18n(dataOverride).operationTypes[key];
 
 /**
  *
@@ -203,7 +274,8 @@ const oppo = (key: string, dataOverride: Locale = 'en') => i18n(dataOverride).op
  * @param {string} dataOverride locale for use with translation
  * @returns {string} mathematical operation value
  */
-export const operation = (key: string, dataOverride: Locale = 'en'): string => oppo(key, dataOverride)?.value ?? key;
+export const operation = (key: string, dataOverride: Locale = "en"): string =>
+  oppo(key, dataOverride)?.value ?? key;
 
 /**
  *
@@ -211,25 +283,31 @@ export const operation = (key: string, dataOverride: Locale = 'en'): string => o
  * @param {string} dataOverride locale for use with translation
  * @returns {string} symbol of mathematical operation
  */
-export const operationSymbol = (key: string, dataOverride: Locale = 'en'): string =>
-  oppo(key, dataOverride)?.symbol ?? key;
+export const operationSymbol = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => oppo(key, dataOverride)?.symbol ?? key;
 
-const sortie = (key: string, dataOverride: Locale = 'en') => i18n(dataOverride).sortie.bosses[key];
+const sortie = (key: string, dataOverride: Locale = "en") =>
+  i18n(dataOverride).sortie.bosses[key];
 
 /**
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} sortie boss name
  */
-export const sortieBoss = (key: string, dataOverride: Locale = 'en'): string => sortie(key, dataOverride)?.name ?? key;
+export const sortieBoss = (key: string, dataOverride: Locale = "en"): string =>
+  sortie(key, dataOverride)?.name ?? key;
 
 /**
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} faction for a sortie based on the boss
  */
-export const sortieFaction = (key: string, dataOverride: Locale = 'en'): string =>
-  sortie(key, dataOverride)?.faction ?? key;
+export const sortieFaction = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => sortie(key, dataOverride)?.faction ?? key;
 
 /**
  *
@@ -237,16 +315,20 @@ export const sortieFaction = (key: string, dataOverride: Locale = 'en'): string 
  * @param {string} dataOverride locale for use with translation
  * @returns {string} sortie modifier data
  */
-export const sortieModifier = (key: string, dataOverride: Locale = 'en'): string =>
-  i18n(dataOverride).sortie.modifierTypes?.[key] ?? key;
+export const sortieModifier = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => i18n(dataOverride).sortie.modifierTypes?.[key] ?? key;
 
 /**
  * @param {string} key - The data key
  * @param {string} dataOverride locale for use with translation
  * @returns {string} sortie modifier description
  */
-export const sortieModDesc = (key: string, dataOverride: Locale = 'en'): string =>
-  i18n(dataOverride).sortie.modifierDescriptions?.[key] ?? key;
+export const sortieModDesc = (
+  key: string,
+  dataOverride: Locale = "en",
+): string => i18n(dataOverride).sortie.modifierDescriptions?.[key] ?? key;
 
 /**
  * Retrieve the localized region for a given key
@@ -254,7 +336,10 @@ export const sortieModDesc = (key: string, dataOverride: Locale = 'en'): string 
  * @param {string} dataOverride - The locale to use for translations
  * @returns {string} localized region name
  */
-export const region = (key: number, dataOverride: Locale = 'en'): string | number =>
+export const region = (
+  key: number,
+  dataOverride: Locale = "en",
+): string | number =>
   (key && i18n(dataOverride).persistentEnemy?.regions[key]) ?? key;
 
 /**
@@ -269,7 +354,7 @@ export const region = (key: number, dataOverride: Locale = 'en'): string | numbe
  */
 export const conclaveChallenge = (
   key: string,
-  dataOverride: Locale = 'en'
+  dataOverride: Locale = "en",
 ): {
   title: string;
   description: string;
@@ -277,7 +362,10 @@ export const conclaveChallenge = (
 } => {
   const splitKey = lastResourceName(String(key))!;
 
-  if (splitKey !== undefined && i18n(dataOverride).conclave?.challenges?.[splitKey]) {
+  if (
+    splitKey !== undefined &&
+    i18n(dataOverride).conclave?.challenges?.[splitKey]
+  ) {
     return i18n(dataOverride).conclave.challenges[splitKey];
   }
   return {
@@ -292,11 +380,11 @@ export const conclaveChallenge = (
  * @param {string} dataOverride - The locale to use for translations
  * @returns {string} - The steel path data for the given key
  */
-export const steelPath = (dataOverride: Locale = 'en'): SteelPath =>
+export const steelPath = (dataOverride: Locale = "en"): SteelPath =>
   (i18n(dataOverride) || /* istanbul ignore next */ data).steelPath;
 
 const valMapping = (key: string, map: Record<string, string>) => {
-  let val = 'None';
+  let val = "None";
   Object.keys(map).forEach((k) => {
     if (key.includes(k)) {
       val = map[k];
@@ -306,27 +394,28 @@ const valMapping = (key: string, map: Record<string, string>) => {
 };
 
 const focusMap = {
-  'Focus/Attack': 'Madurai',
-  'Focus/Defense': 'Vazarin',
-  'Focus/Tactic': 'Naramon',
-  'Focus/Power': 'Zenurik',
-  'Focus/Ward': 'Unairu',
+  "Focus/Attack": "Madurai",
+  "Focus/Defense": "Vazarin",
+  "Focus/Tactic": "Naramon",
+  "Focus/Power": "Zenurik",
+  "Focus/Ward": "Unairu",
 };
 /**
  * Translate the given focus school
  * @param {string} focus The focus school to translate
  * @returns {string} The translated focus school
  */
-export const translateFocus = (focus: string = ''): string => valMapping(focus, focusMap);
+export const translateFocus = (focus: string = ""): string =>
+  valMapping(focus, focusMap);
 
 const polarityMap = {
-  AP_ATTACK: 'Madurai',
-  AP_DEFENSE: 'Vazarin',
-  AP_TACTIC: 'Naramon',
-  AP_POWER: 'Zenurik',
-  AP_WARD: 'Unairu',
-  AP_UMBRA: 'Umbra',
-  AP_ANY: 'Aura',
+  AP_ATTACK: "Madurai",
+  AP_DEFENSE: "Vazarin",
+  AP_TACTIC: "Naramon",
+  AP_POWER: "Zenurik",
+  AP_WARD: "Unairu",
+  AP_UMBRA: "Umbra",
+  AP_ANY: "Aura",
 };
 
 /**
@@ -334,13 +423,14 @@ const polarityMap = {
  * @param {string?} pol The polarity to translate
  * @returns {string} The translated polarity
  */
-export const translatePolarity = (pol: string = ''): string => valMapping(pol, polarityMap);
+export const translatePolarity = (pol: string = ""): string =>
+  valMapping(pol, polarityMap);
 
 const eventTypeMap = {
-  CET_CHALLENGE: 'To Do',
-  CET_UPGRADE: 'Override',
-  CET_REWARD: 'Big Prize!',
-  CET_PLOT: 'Birthday',
+  CET_CHALLENGE: "To Do",
+  CET_UPGRADE: "Override",
+  CET_REWARD: "Big Prize!",
+  CET_PLOT: "Birthday",
 };
 
 /**
@@ -348,21 +438,24 @@ const eventTypeMap = {
  * @param {string} key Unique event type
  * @returns {string}
  */
-export const translateCalendarEvent = (key: string): string => valMapping(key, eventTypeMap);
+export const translateCalendarEvent = (key: string): string =>
+  valMapping(key, eventTypeMap);
 
 /**
  * Translate the given season name to a non-unique string
  * @param {string} season Unique season name
  * @returns {string}
  */
-export const translateSeason = (season: string): string => toTitleCase(season.replace('CST_', ''));
+export const translateSeason = (season: string): string =>
+  toTitleCase(season.replace("CST_", ""));
 
 const archimedeaTypes = {
   CT_LAB: "Deep Archimedea",
-  CT_HEX: "Temporal Archimedea"
-}
+  CT_HEX: "Temporal Archimedea",
+};
 
-export const translateArchimedeaType = (type: string) => valMapping(type, archimedeaTypes);
+export const translateArchimedeaType = (type: string) =>
+  valMapping(type, archimedeaTypes);
 
 /**
  * An object containing functions to convert in-game names to their localizations

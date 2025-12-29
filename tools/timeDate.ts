@@ -4,7 +4,12 @@ const epochZero: ContentTimestamp = {
   },
 };
 
-export const pieceIsSmoller = (seconds: number, ceiling: number, label: string, timePieces: string[]) => {
+export const pieceIsSmoller = (
+  seconds: number,
+  ceiling: number,
+  label: string,
+  timePieces: string[],
+) => {
   if (seconds >= ceiling) {
     timePieces.push(`${Math.floor(seconds / ceiling)}${label}`);
     seconds = Math.floor(seconds) % ceiling;
@@ -17,28 +22,28 @@ export const pieceIsSmoller = (seconds: number, ceiling: number, label: string, 
  * @returns {string} formatted time delta
  */
 export const timeDeltaToString = (millis: number): string => {
-  if (typeof millis !== 'number') {
-    throw new TypeError('millis should be a number');
+  if (typeof millis !== "number") {
+    throw new TypeError("millis should be a number");
   }
 
   let timePieces: string[] = [];
-  const prefix = millis < 0 ? '-' : '';
+  const prefix = millis < 0 ? "-" : "";
   let seconds = Math.abs(millis / 1000);
 
   // Seconds in a day
-  ({ seconds, timePieces } = pieceIsSmoller(seconds, 86400, 'd', timePieces));
+  ({ seconds, timePieces } = pieceIsSmoller(seconds, 86400, "d", timePieces));
 
   // Seconds in an hour
-  ({ seconds, timePieces } = pieceIsSmoller(seconds, 3600, 'h', timePieces));
+  ({ seconds, timePieces } = pieceIsSmoller(seconds, 3600, "h", timePieces));
 
   // Seconds in a minute
-  ({ seconds, timePieces } = pieceIsSmoller(seconds, 60, 'm', timePieces));
+  ({ seconds, timePieces } = pieceIsSmoller(seconds, 60, "m", timePieces));
 
   /* istanbul ignore else */
   if (seconds >= 0) {
     timePieces.push(`${Math.floor(seconds)}s`);
   }
-  return `${prefix}${timePieces.join(' ')}`;
+  return `${prefix}${timePieces.join(" ")}`;
 };
 
 /**
@@ -73,23 +78,25 @@ export interface LegacyTimestamp {
  * @param {Object} d The worldState date object
  * @returns {Date} parsed date from DE date format
  */
-export const parseDate = (d?: ContentTimestamp | LegacyTimestamp | number): Date => {
+export const parseDate = (
+  d?: ContentTimestamp | LegacyTimestamp | number,
+): Date => {
   const safeD = d || epochZero;
   const contentD = safeD as ContentTimestamp;
-  if (typeof contentD.$date?.$numberLong === 'string') {
+  if (typeof contentD.$date?.$numberLong === "string") {
     return new Date(Number.parseInt(contentD.$date.$numberLong, 10));
   }
-  if (typeof contentD.$date?.$numberLong === 'number') {
+  if (typeof contentD.$date?.$numberLong === "number") {
     return new Date(contentD.$date.$numberLong);
   }
   const legacyD = d as unknown as LegacyTimestamp;
-  if (typeof legacyD.sec === 'string') {
+  if (typeof legacyD.sec === "string") {
     return new Date(1000 * Number.parseInt(legacyD.sec, 10));
   }
-  if (typeof legacyD.sec !== 'undefined') {
-    return new Date(1000 * legacyD.sec as number);
+  if (typeof legacyD.sec !== "undefined") {
+    return new Date((1000 * legacyD.sec) as number);
   }
-  if (typeof d === 'number') {
+  if (typeof d === "number") {
     return new Date(d);
   }
   throw new Error(`Invalid date format ${d}`);
@@ -98,7 +105,9 @@ export const parseDate = (d?: ContentTimestamp | LegacyTimestamp | number): Date
 /**
  * Get a weekly reset timestamp
  */
-export const weeklyReset = (nowFunc = () => new Date()): { activation: Date; expiry: Date } => {
+export const weeklyReset = (
+  nowFunc = () => new Date(),
+): { activation: Date; expiry: Date } => {
   const now = nowFunc();
   const currentDay = now.getUTCDay();
   const daysUntilNextMonday = currentDay === 0 ? 1 : 8 - currentDay;
@@ -116,7 +125,9 @@ export const weeklyReset = (nowFunc = () => new Date()): { activation: Date; exp
 /**
  * Get a daily reset timestamp
  */
-export const dailyReset = (nowFunc = () => new Date()): { activation: Date; expiry: Date } => {
+export const dailyReset = (
+  nowFunc = () => new Date(),
+): { activation: Date; expiry: Date } => {
   const now = nowFunc();
 
   const activation = new Date(now.getTime());
@@ -126,7 +137,7 @@ export const dailyReset = (nowFunc = () => new Date()): { activation: Date; expi
   expiry.setUTCDate(now.getUTCDate() + 1);
   expiry.setUTCHours(0, 0, 0, 0);
 
-  return {activation, expiry};
+  return { activation, expiry };
 };
 
 /**
