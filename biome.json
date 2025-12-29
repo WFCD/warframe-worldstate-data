@@ -1,51 +1,70 @@
 {
-    "$schema": "https://biomejs.dev/schemas/2.3.6/schema.json",
-    "vcs": {
-        "enabled": false,
-        "clientKind": "git",
-        "useIgnoreFile": false
+  "$schema": "https://biomejs.dev/schemas/2.3.7/schema.json",
+  "vcs": {
+    "enabled": false,
+    "clientKind": "git",
+    "useIgnoreFile": false
+  },
+  "files": {
+    "includes": ["test/**/*.ts", "tools/*.ts", "data/**/*.json"],
+    "ignoreUnknown": true
+  },
+  "formatter": {
+    "enabled": true,
+    "formatWithErrors": false,
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineEnding": "lf",
+    "lineWidth": 80,
+    "attributePosition": "auto",
+    "bracketSameLine": false,
+    "bracketSpacing": true,
+    "expand": "auto",
+    "useEditorconfig": true
+  },
+  "linter": {
+    "enabled": true,
+    "domains": {
+      "test": "recommended"
     },
-    "files": {
-        "includes": [
-            "test/**/*.ts",
-            "tools/*.ts"
-        ],
-        "ignoreUnknown": true
+    "rules": {
+      "recommended": true,
+      "complexity": {
+        "useArrowFunction": "off"
+      },
+      "style": {
+        "useImportType": "off",
+        "noNonNullAssertion": "off"
+      },
+      "suspicious": {
+        "noExplicitAny": "warn"
+      }
     },
-    "formatter": {
-        "enabled": false
-    },
-    "linter": {
-        "enabled": true,
-        "domains": {
-            "test": "recommended"
-        },
-        "rules": {
-            "recommended": true,
-            "complexity": {
-                "useArrowFunction": "off"
-            },
-            "style": {
-                "useImportType": "off",
-                "noNonNullAssertion": "off"
-            },
-            "suspicious": {
-                "noExplicitAny": "warn"
-            }
-        },
-        "includes": [
-            "**",
-            "!.github/**",
-            "!docs/**",
-            "!data/**"
-        ]
-    },
-    "assist": {
-        "enabled": true,
-        "actions": {
-            "source": {
-                "organizeImports": "on"
-            }
+    "includes": ["**", "!.github/**", "!docs/**", "!data/**"]
+  },
+  "assist": {
+    "enabled": true,
+    "actions": {
+      "source": {
+        "organizeImports": {
+          "level": "on",
+          "options": {
+            "identifierOrder": "natural",
+            "groups": [
+              ":URL:",
+              ":BLANK_LINE:",
+              [":NODE:", ":BUN:"],
+              ":BLANK_LINE:",
+              [":PACKAGE_WITH_PROTOCOL:", ":PACKAGE:"],
+              ":BLANK_LINE:",
+              ["@models", "@models/**", "@supporting", "@supporting/**"],
+              ["@data/**"],
+              ":BLANK_LINE:",
+              ":RELATIVE:"
+            ]
+          }
         }
+      }
     }
+  }
 }
