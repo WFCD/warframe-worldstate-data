@@ -1,5 +1,6 @@
 append_commit_message: false
-commit_message: 'fix(%two_letters_code%): new translations in %original_file_name%'
+commit_message: 'fix(%language%): new translations in %original_file_name%'
+pull_request_title: 'fix(l10n): new translations'
 
 files:
   - source: /data/*.json
