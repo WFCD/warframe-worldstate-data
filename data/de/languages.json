@@ -19299,6 +19299,10 @@
     "value": "Bold Venture",
     "desc": "Enemies deal -15% Damage and take +15% Damage but gain +15% Movement Speed, Attack Speed, and Fire Rate."
   },
+  "AlchemicalShields": {
+    "value": "Alchemical Invulnerability",
+    "desc": "10% of enemies are equipped with an impervious Elemental Barrier that can only be destroyed by an Amphor of the corresponding element."
+  },
   "AntiMaterialWeapons": {
     "value": "Commanding Culverins",
     "desc": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
@@ -19355,6 +19359,10 @@
     "value": "Vampire Rock",
     "desc": "Flare creates a field that disrupts player abilities while draining energy to boost Flare's health. Flare slowly loses health when no players are in range."
   },
+  "DoubleTrouble": {
+    "value": "Double Trouble",
+    "desc": "Two Necramech Demolishers will attack any Conduit, but their health is reduced."
+  },
   "DrainingResiduals": {
     "value": "Devil's Bargain",
     "desc": "Allies within 4m of slain enemies gain 25% Fire Rate at the cost of -50% Ammo Efficiency."
@@ -19371,12 +19379,16 @@
     "value": "Dense Fog",
     "desc": "Efervon gas blankets the level. Enemies may drop filters that can provide a temporary reprieve."
   },
+  "EnergyStarved": {
+    "value": "Energy Exhaustion",
+    "desc": "Lose 2 Energy per second for each enemy within 10 meters of you."
+  },
   "EntratiSyndicate": {
     "value": "Entrati"
   },
   "EscalateImmediately": {
     "value": "Cache Crash",
-    "desc": "Consequences of opening a Supply Cache are active from the start and will intensify once it is opened. Failure to open a Supply Cache doubles the kill count required to finish the mission."
+    "desc": "Consequences of opening a Supply Cache are active from the start and will intensify if the Supply Cache is opened. Failure to open a Supply Cache doubles the kill count required to finish the mission."
   },
   "EventSyndicate": {
     "value": "Operations Syndikat"
@@ -19393,13 +19405,17 @@
     "value": "Scaldra Speed Run",
     "desc": "All enemies are replaced with Scaldra and move much faster."
   },
+  "FactionSwarm_Techrot": {
+    "value": "Techrot Speed Run",
+    "desc": "All enemies are replaced with Techrot and move much faster."
+  },
   "FallFog": {
     "value": "Foggy Fall",
     "desc": "A fog limits vision across the mission zone."
   },
   "FortifiedFoes": {
     "value": "Sealed Armor",
-    "desc": "Enemies take 90% less damage from non-weak point hits."
+    "desc": "Enemies take 90% less damage from non-Weak Point hits."
   },
   "FragileNodes": {
     "value": "Unified Purpose",
@@ -19440,6 +19456,10 @@
   "HostileSecurity": {
     "value": "Eroding Senses",
     "desc": "The Auricle and Vitreum take damage over time, collecting the required Vosphene Glyphs will halt the degradation and partially heal them."
+  },
+  "InfectedTechrot": {
+    "value": "Corrupted Flesh",
+    "desc": "Techrot enemies are infused with Efervon and take damage over time. They explode when killed and leave behind deadly Efervon in their wake."
   },
   "InfiniteTide": {
     "value": "Relentless Tide",
@@ -19564,9 +19584,13 @@
     "value": "Thermian Plating",
     "desc": "Only Thermian RPGs can damage the tank. Reinforcements that carry Thermian RPGs will arrive during the fight"
   },
+  "TankSuperToxic": {
+    "value": "Toxic Tank",
+    "desc": "The tank has a Toxin aura, leaves Toxin trails, and its attacks all deal Toxin damage."
+  },
   "TechrotConjunction": {
     "value": "Pile-On",
-    "desc": "Techrot enemies attempt to melee attack Hell-Scrubbers, bursting on contact and increasing scrubber contamination by 33%."
+    "desc": "Techrot enemies attempt to melee attack Hell-Scrubbers, bursting on contact and increasing scrubber contamination by 25%."
   },
   "TimeDilation": {
     "value": "Abbreviated Abilities",
@@ -19575,6 +19599,10 @@
   "Undersupplied": {
     "value": "Undersupplied",
     "desc": "Max ammo on all weapons reduced by 75%"
+  },
+  "UnpoweredCapsules": {
+    "value": "Parasitic Towers",
+    "desc": "Life Support Towers only activate after 20 enemies have been killed within a 15m radius of them."
   },
   "VentKidsSyndicate": {
     "value": "Schacht-Kinder"
