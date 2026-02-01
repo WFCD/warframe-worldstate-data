@@ -19392,7 +19392,7 @@
   },
   "EscalateImmediately": {
     "value": "Cache Crash",
-    "desc": "Consequences of opening a Supply Cache are active from the start and will intensify once it is opened. Failure to open a Supply Cache doubles the kill count required to finish the mission."
+    "desc": "Consequences of opening a Supply Cache are active from the start and will intensify if the Supply Cache is opened. Failure to open a Supply Cache doubles the kill count required to finish the mission."
   },
   "EventSyndicate": {
     "value": "Operations Syndicate"
@@ -19419,7 +19419,7 @@
   },
   "FortifiedFoes": {
     "value": "Sealed Armor",
-    "desc": "Enemies take 90% less damage from non-weak point hits."
+    "desc": "Enemies take 90% less damage from non-Weak Point hits."
   },
   "FragileNodes": {
     "value": "Unified Purpose",
@@ -19605,8 +19605,8 @@
     "desc": "Max ammo on all weapons reduced by 75%"
   },
   "UnpoweredCapsules": {
-    "value": "Unpowered Capsules",
-    "desc": "[TODO: Add actual description]"
+    "value": "Parasitic Towers",
+    "desc": "Life Support Towers only activate after 20 enemies have been killed within a 15m radius of them."
   },
   "VentKidsSyndicate": {
     "value": "Vent Kids"
