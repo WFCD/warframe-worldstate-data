@@ -242,11 +242,17 @@
   "/Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint": {
     "value": "Exilus Waffen Adapter Blaupause"
   },
+  "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/DagathBlueprint": {
+    "value": "Dagath Blueprint"
+  },
   "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/DagathChassisComponent": {
     "value": "Dagath Chassis"
   },
   "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/DagathHelmetComponent": {
     "value": "Dagath Neuroptics"
+  },
+  "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/DagathSystemsComponent": {
+    "value": "Dagath Systems"
   },
   "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
     "value": "Stalker Beacon"
@@ -19347,6 +19353,10 @@
     "value": "Secondary Wounds",
     "desc": "Gain 1 Puncture Status Effect every time you take damage."
   },
+  "ContaminationZone": {
+    "value": "Hold Your Breath",
+    "desc": "The entire region deals Toxin damage over time, increasing the longer players remain."
+  },
   "DecayingFlesh": {
     "value": "Permanent Injury",
     "desc": "Max health reduced each time health damage is taken"
@@ -19484,6 +19494,10 @@
     "value": "Miasmite Swarm",
     "desc": "Techrot Miasmites swarm out of the shadows throught the mission."
   },
+  "MurmurIncursion": {
+    "value": "Beyond The Wall",
+    "desc": "Murmur enemies join Scaldra and Techrot forces."
+  },
   "MutatedEnemies": {
     "value": "Parallel Evolution",
     "desc": "As the Legacyte evolves other enemies present also gain new abilities."
@@ -19610,6 +19624,10 @@
   "VoidAberration": {
     "value": "Vampyric Liminus",
     "desc": "Slow moving, immortal, Duviri Liminus drain health and energy from allies who get too close."
+  },
+  "VoidEnergyOverload": {
+    "value": "Ability Overload",
+    "desc": "Using an Ability opens a Void Rift on top of you."
   },
   "Voidburst": {
     "value": "Postmortal Surges",
