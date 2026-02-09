@@ -19403,6 +19403,14 @@
   "EventSyndicate": {
     "value": "Operations Syndikat"
   },
+  "Exhaustion": {
+    "value": "Energy Exhaustion",
+    "desc": "Lose 2 Energy per second for each enemy within 10 meters of you."
+  },
+  "EximusGrenadiers": {
+    "value": "Eximus Amphors",
+    "desc": "Eximus units always drop Amphors."
+  },
   "ExplosiveCrawlers": {
     "value": "Explosive Potential",
     "desc": "Rupturing Fragments replace Shuffling Fragments."
