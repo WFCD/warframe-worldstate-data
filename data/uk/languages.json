@@ -528,9 +528,17 @@
     "value": "Рівні шанси",
     "desc": "Kill 250 Enemies"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesHard": {
+    "value": "Рівні шанси",
+    "desc": "Kill 1,000 Enemies"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium": {
     "value": "Рівні шанси",
     "desc": "Убийте 500 ворогів."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesEasy": {
+    "value": "Демонстрація сили",
+    "desc": "Убийте 150 ворогів за допомогою здібностей."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesHard": {
     "value": "Демонстрація сили",
@@ -544,17 +552,29 @@
     "value": "By The Blade",
     "desc": "Kill 150 Enemies with Melee Weapons"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeHard": {
+    "value": "By The Blade",
+    "desc": "Kill 500 Enemies with Melee Weapons"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeMedium": {
+    "value": "By The Blade",
+    "desc": "Kill 300 Enemies with Melee Weapons"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
-    "value": "Винищення ексімів",
+    "value": "Ex-Eximus",
     "desc": "Убийте 10 ексімів."
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusHard": {
-    "value": "Винищення ексімів",
+    "value": "Ex-Eximus",
     "desc": "Убийте 30 ексімів."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusMedium": {
+    "value": "Ex-Eximus",
+    "desc": "Kill 20 Eximus"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
     "value": "Покарання для «Скальдри»",
-    "desc": "Убийте 250 бійців «Скальдри»."
+    "desc": "Kill 150 Scaldra Troops"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesHard": {
     "value": "Покарання для «Скальдри»",
@@ -580,9 +600,13 @@
     "value": "Особисте",
     "desc": "Убийте 75 бійців «Скальдри» холодною зброєю."
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeHard": {
+    "value": "Особисте",
+    "desc": "Kill 250 Scaldra Troops with Melee Weapons"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
     "value": "Особисте",
-    "desc": "Убийте 300 бійців «Скальдри» холодною зброєю."
+    "desc": "Kill 150 Scaldra Troops with Melee Weapons"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTankHard": {
     "value": "Tankless Work",
@@ -594,15 +618,31 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
     "value": "Очищення інфекції",
-    "desc": "Убийте 100 техногнилих ворогів."
+    "desc": "Kill 750 Techrot"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesMedium": {
     "value": "Очищення інфекції",
     "desc": "Убийте 500 техногнилих ворогів."
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesEasy": {
+    "value": "Null and Void",
+    "desc": "Kill 100 Techrot with Abilities"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesHard": {
+    "value": "Null and Void",
+    "desc": "Kill 300 Techrot with Abilities"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesMedium": {
     "value": "Null and Void",
     "desc": "Убийте 200 техногнилих ворогів за допомогою здібностей."
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeEasy": {
+    "value": "Перероблення електронного мотлоху",
+    "desc": "Kill 100 Techrot with Melee Weapons"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeHard": {
+    "value": "Перероблення електронного мотлоху",
+    "desc": "Kill 300 Techrot with Melee Weapons"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeMedium": {
     "value": "Перероблення електронного мотлоху",
