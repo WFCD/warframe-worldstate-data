@@ -528,9 +528,17 @@
     "value": "Even the odds",
     "desc": "Kill 250 Enemies"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesHard": {
+    "value": "Even the odds",
+    "desc": "Kill 1,000 Enemies"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium": {
     "value": "Even the odds",
     "desc": "击杀500名敌人"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesEasy": {
+    "value": "Demonstration of power",
+    "desc": "使用技能擊殺150名敵人"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesHard": {
     "value": "Demonstration of power",
@@ -544,17 +552,29 @@
     "value": "By The Blade",
     "desc": "Kill 150 Enemies with Melee Weapons"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeHard": {
+    "value": "By The Blade",
+    "desc": "Kill 500 Enemies with Melee Weapons"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeMedium": {
+    "value": "By The Blade",
+    "desc": "Kill 300 Enemies with Melee Weapons"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy": {
-    "value": "EX-EXIMUS",
+    "value": "Ex-Eximus",
     "desc": "Kill 10 Eximus"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusHard": {
-    "value": "EX-EXIMUS",
+    "value": "Ex-Eximus",
     "desc": "击杀30名卓越者"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillEximusMedium": {
+    "value": "Ex-Eximus",
+    "desc": "Kill 20 Eximus"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy": {
     "value": "Punish Scaldra",
-    "desc": "Kill 250 Scaldra Troops"
+    "desc": "Kill 150 Scaldra Troops"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesHard": {
     "value": "Punish Scaldra",
@@ -580,9 +600,13 @@
     "value": "Make it personal",
     "desc": "Kill 75 Scaldra Troops with Melee Weapons"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeHard": {
+    "value": "Make it personal",
+    "desc": "Kill 250 Scaldra Troops with Melee Weapons"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium": {
     "value": "Make it personal",
-    "desc": "Kill 300 Scaldra Troops with Melee Weapons"
+    "desc": "Kill 150 Scaldra Troops with Melee Weapons"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTankHard": {
     "value": "Tankless Work",
@@ -594,15 +618,31 @@
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard": {
     "value": "Purge the infection",
-    "desc": "Kill 1,000 Techrot"
+    "desc": "Kill 750 Techrot"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesMedium": {
     "value": "Purge the infection",
     "desc": "Kill 500 Techrot"
   },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesEasy": {
+    "value": "Null and Void",
+    "desc": "Kill 100 Techrot with Abilities"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesHard": {
+    "value": "Null and Void",
+    "desc": "Kill 300 Techrot with Abilities"
+  },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesMedium": {
     "value": "Null and Void",
     "desc": "Kill 200 Techrot with Abilities"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeEasy": {
+    "value": "Electronic waste Disposal",
+    "desc": "Kill 100 Techrot with Melee Weapons"
+  },
+  "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeHard": {
+    "value": "Electronic waste Disposal",
+    "desc": "Kill 300 Techrot with Melee Weapons"
   },
   "/Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithMeleeMedium": {
     "value": "Electronic waste Disposal",
