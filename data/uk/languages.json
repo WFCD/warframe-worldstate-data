@@ -19349,6 +19349,10 @@
     "value": "Alchemical Invulnerability",
     "desc": "10% of enemies are equipped with an impervious Elemental Barrier that can only be destroyed by an Amphor of the corresponding element."
   },
+  "AntiGuard": {
+    "value": "Dropped Guard",
+    "desc": "Warframe and ally Overguard gain reduced by 75%."
+  },
   "AntiMaterialWeapons": {
     "value": "Переконливі «Кульверини»",
     "desc": "Дикі «Кульверини» споряджають зброю, що завдає збільшеної в п’ять разів шкоди надзахисту та некрамехам."
@@ -19372,7 +19376,7 @@
     "value": "Убивці"
   },
   "BalloonFest": {
-    "value": "Ballonfest",
+    "value": "Balloonfest",
     "desc": "Scaldra Harbingers are more numerous and attack and move more quickly."
   },
   "CephalonSudaSyndicate": {
@@ -19680,6 +19684,10 @@
   "Voidburst": {
     "value": "Посмертні вибухи",
     "desc": "Вороги вибухають при смерті і завдають шкоду Порожнечею."
+  },
+  "VolatileGrenades": {
+    "value": "Hazardous Goods",
+    "desc": "Amphors deal elemental damage while carried."
   },
   "VoxSyndicate": {
     "value": "Глас солярійців"
