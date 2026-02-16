@@ -19349,6 +19349,10 @@
     "value": "Alchemical Invulnerability",
     "desc": "10% of enemies are equipped with an impervious Elemental Barrier that can only be destroyed by an Amphor of the corresponding element."
   },
+  "AntiGuard": {
+    "value": "Dropped Guard",
+    "desc": "Warframe and ally Overguard gain reduced by 75%."
+  },
   "AntiMaterialWeapons": {
     "value": "Commanding Culverins",
     "desc": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
@@ -19372,7 +19376,7 @@
     "value": "Assassins"
   },
   "BalloonFest": {
-    "value": "Ballonfest",
+    "value": "Balloonfest",
     "desc": "Scaldra Harbingers are more numerous and attack and move more quickly."
   },
   "CephalonSudaSyndicate": {
@@ -19680,6 +19684,10 @@
   "Voidburst": {
     "value": "Postmortal Surges",
     "desc": "Slain enemies burts with Void energy."
+  },
+  "VolatileGrenades": {
+    "value": "Hazardous Goods",
+    "desc": "Amphors deal elemental damage while carried."
   },
   "VoxSyndicate": {
     "value": "Vox Solaris"
