@@ -14095,6 +14095,10 @@
     "desc": "Kill a Silver Grove Specter",
     "value": "Grove Guardian"
   },
+  "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilltank": {
+    "desc": "Defeat an H-09 Efervon Tank",
+    "value": "Tanked"
+  },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillthumper": {
     "desc": "Kill a Tusk Thumper Doma in the Plains of Eidolon",
     "value": "Walk Without Rhythm"
@@ -19421,6 +19425,10 @@
     "value": "Double Trouble",
     "desc": "Two Necramech Demolishers will attack any Conduit, but their health is reduced."
   },
+  "DoubleTroubleLegacyte": {
+    "value": "Mitosis",
+    "desc": "Two Legacytes spawn each round and twice as many captures are needed for success."
+  },
   "DrainingResiduals": {
     "value": "Devil's Bargain",
     "desc": "Allies within 4m of slain enemies gain 25% Fire Rate at the cost of -50% Ammo Efficiency."
@@ -19649,6 +19657,10 @@
   "StickyFingers": {
     "value": "Engorged Gruzzlings",
     "desc": "All gruzzlings are Eximus."
+  },
+  "TankReinforcements": {
+    "value": "Reinforcements",
+    "desc": "Reinforcements will arrive during the fight."
   },
   "TankStrongArmor": {
     "value": "Thermian Plating",
