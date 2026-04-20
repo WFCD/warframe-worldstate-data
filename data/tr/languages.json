@@ -656,6 +656,10 @@
     "value": "Uyarı Atışı Değil",
     "desc": "Kill 100 enemies with headshots"
   },
+  "/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCeremonialEvolution": {
+    "value": "Ceremonial Evolution",
+    "desc": "Evolve any Incarnon weapon in-mission 5 times"
+  },
   "/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCompleteConquest": {
     "value": "Voluntary Specimen",
     "desc": "Complete a run of Deep Archimedea or Temporal Archimedea"
@@ -19506,6 +19510,10 @@
   "ExplosiveEnergy": {
     "value": "Miasmite Mash",
     "desc": "Enemies drop Miasmites upon death that immediately rush Flare."
+  },
+  "ExplosiveSummer": {
+    "value": "Excessive Explosives",
+    "desc": "All supply crates are replaced with explosive barrels."
   },
   "FactionSwarm_Scaldra": {
     "value": "Scaldra Speed Run",
