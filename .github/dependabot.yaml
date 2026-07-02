@@ -15,6 +15,10 @@ updates:
     pull-request-branch-name:
       separator: '-'
     rebase-strategy: 'auto'
+    groups:
+      'Dependencies':
+        patterns:
+          - '*'
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
@@ -30,3 +34,7 @@ updates:
     pull-request-branch-name:
       separator: '-'
     rebase-strategy: 'auto'
+    groups:
+      'Actions':
+        patterns:
+          - '*'
