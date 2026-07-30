@@ -1,461 +1,461 @@
 [
-    {
-        "regex": "ускорение",
-        "name": "Мистическое Ускорение",
-        "effect": "При критическом попадании, 5% / 10% / 15% / 20% шанс\nполучить 15% / 30% / 45% / 60% Скорострельность Винтовок\nв течение 1.5 / 3 / 4.5 / 6 Секунд",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/9/96/Arcane_Acceleration_160.png/revision/latest/scale-to-width-down/75?cb=20150407090527",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Acceleration"
-    },
-    {
-        "regex": "aegis",
-        "name": "Arcane Aegis",
-        "effect": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/b/b6/Arcane_Aegis_160.png/revision/latest/scale-to-width-down/75?cb=20151102021019",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Aegis"
-    },
-    {
-        "regex": "agility",
-        "name": "Мистическая Ловкость",
-        "effect": "When DAMAGED 3% / 6% / 9% / 16% chance \nto give 10% / 20% / 30% / 40% Movement Speed\nfor2 / 4 / 6 / 8 Seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/78/Arcane_Agility_160.png/revision/latest/scale-to-width-down/75?cb=20150414195529",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Agility"
-    },
-    {
-        "regex": "arachne",
-        "name": "Arcane Arachne",
-        "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/c/c1/Arcane_Arachne_160.png/revision/latest/scale-to-width-down/75?cb=20151101102048",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Arachne"
-    },
-    {
-        "regex": "avenger",
-        "name": "Мистический Мститель",
-        "effect": "When DAMAGED 3.5% / 7% / 10.5% / 14% chance\nfor 7.5% / 15% / 22.5% / 30% Additive Critical Chance\nfor 2 / 4 / 6 / 8 Seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/8/88/Arcane_Avenger_160.png/revision/latest/scale-to-width-down/75?cb=20150508155706",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Avenger"
-    },
-    {
-        "regex": "awakening",
-        "name": "Мистическое Пробуждение",
-        "effect": "On RELOAD 10% / 20% / 30% / 40% chance\nto add 25% / 50% / 75% / 100% Damage to Secondaries\n for 4 / 8 / 12 / 16 Seconds",
-        "rarity": "Common",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/f/fa/Arcane_Awakening_160.png/revision/latest/scale-to-width-down/75?cb=20151031165006",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Awakening"
-    },
-    {
-        "regex": "barrier",
-        "name": "Мистический Барьер",
-        "effect": "When DAMAGED, 1% / 2% / 3% / 4% chance to Full Shield Recovery",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/c/c7/Arcane_Barrier_LQ.png/revision/latest/scale-to-width-down/75?cb=20151031165652",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Barrier"
-    },
-    {
-        "regex": "consequence",
-        "name": "Arcane Consequence",
-        "effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/8/82/Arcane_Consequence_160.png/revision/latest/scale-to-width-down/75?cb=20151031215624",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Consequence"
-    },
-    {
-        "regex": "deflection",
-        "name": "Мистическое Преломление",
-        "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/b/b1/Arcane_Deflection_160.png/revision/latest/scale-to-width-down/75?cb=20150414010409",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Deflection"
-    },
-    {
-        "regex": "energize",
-        "name": "Arcane Energize",
-        "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e3/Arcane_Energize_160.png/revision/latest/scale-to-width-down/75?cb=20151102150026",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Energize"
-    },
-    {
-        "regex": "eruption",
-        "name": "Мистический Взрыв",
-        "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/2/2d/Arcane_Eruption_160.png/revision/latest/scale-to-width-down/75?cb=20150404083642",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Eruption"
-    },
-    {
-        "regex": "fury",
-        "name": "Мистическая Ярость",
-        "effect": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/8/8d/Arcane_Fury_160.png/revision/latest/scale-to-width-down/75?cb=20151102161322",
-        "info": "https://warframe.fandom.com/ru/wiki/Мистическая_Ярость"
-    },
-    {
-        "regex": "grace",
-        "name": "Мистическая Благодать",
-        "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/44/Arcane_Grace_Icon.png/revision/latest/scale-to-width-down/75?cb=20150420152648",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Grace"
-    },
-    {
-        "regex": "guardian",
-        "name": "Мистический Страж",
-        "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
-        "rarity": "Common",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/8/80/Arcane_Guardian_160.png/revision/latest/scale-to-width-down/75?cb=20150413184813",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Guardian"
-    },
-    {
-        "regex": "healing",
-        "name": "Мистическое Заживление",
-        "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "http://warframe.wikia.com/wiki/Arcane_Healing",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
-    },
-    {
-        "regex": "холод",
-        "name": "Мистический Лёд",
-        "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/c/ca/Arcane_Ice_160.png/revision/latest/scale-to-width-down/75?cb=20150407090538",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Ice"
-    },
-    {
-        "regex": "momentum",
-        "name": "Arcane Momentum",
-        "effect": "On critical hit, 10% / 20% / 30% / 40% chance\nto give 25% / 50% / 75% / 100% Fire Rate on Snipers\nfor 2 / 4 / 6 / 8 seconds",
-        "rarity": "Common",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/3/39/Arcane_Momentum_160.png/revision/latest/scale-to-width-down/75?cb=20151101104354",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Momentum"
-    },
-    {
-        "regex": "nullifier",
-        "name": "Мистическое Обнуление",
-        "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/6/6a/Arcane_Nullifier_160.png/revision/latest/scale-to-width-down/75?cb=20150413134726",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Nullifier"
-    },
-    {
-        "regex": "phantasm",
-        "name": "Мистический Призрак",
-        "effect": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/e/ed/Arcane_Phantasm_160.png/revision/latest/scale-to-width-down/75?cb=20150415041516",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Phantasm"
-    },
-    {
-        "regex": "precision",
-        "name": "Arcane Precision",
-        "effect": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a9/Arcane_Precision_160.png/revision/latest/scale-to-width-down/75?cb=20151031073431",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Precision"
-    },
-    {
-        "regex": "pulse",
-        "name": "Мистический Импульс",
-        "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/e/e7/Arcane_Pulse_160.png/revision/latest/scale-to-width-down/75?cb=20150414010427",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Pulse"
-    },
-    {
-        "regex": "rage",
-        "name": "Мистический Гнев",
-        "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 30% / 60% / 90% / 120% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/3/3b/Arcane_Rage_160.png/revision/latest/scale-to-width-down/75?cb=20150407090655",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Rage"
-    },
-    {
-        "regex": "resistance",
-        "name": "Мистическое Сопротивление",
-        "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e4/Arcane_Resistance_160.png/revision/latest/scale-to-width-down/75?cb=20150414071159",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Resistance"
-    },
-    {
-        "regex": "strike",
-        "name": "Мистический Удар",
-        "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
-        "rarity": "Common",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a0/Arcane_Strike_160.png/revision/latest/scale-to-width-down/75?cb=20150413191053",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Strike"
-    },
-    {
-        "regex": "tempo",
-        "name": "Arcane Tempo",
-        "effect": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
-        "rarity": "Common",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/a/aa/Arcane_Tempo_160.png/revision/latest/scale-to-width-down/75?cb=20151102162933",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Tempo"
-    },
-    {
-        "regex": "trickery",
-        "name": "Мистический Обман",
-        "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
-        "rarity": "Common",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/75/Arcane_Trickery_160.png/revision/latest/scale-to-width-down/75?cb=20150413185559",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Trickery"
-    },
-    {
-        "regex": "ultimatum",
-        "name": "Arcane Ultimatum",
-        "effect": "On finisher, 25% / 50% / 75% / 100% chance\to give 150 / 300 / 450 / 600 Armor\nfor 10 / 20 / 30 / 40 seconds",
-        "rarity": "Common",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/48/Arcane_Ultimatum_160.png/revision/latest/scale-to-width-down/75?cb=20151101031844",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Ultimatum"
-    },
-    {
-        "regex": "velocity",
-        "name": "Arcane Velocity",
-        "effect": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
-        "rarity": "Common",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e2/Arcane_Velocity_160.png/revision/latest/scale-to-width-down/75?cb=20151031164830",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Velocity"
-    },
-    {
-        "regex": "victory",
-        "name": "Мистическая Победа",
-        "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/25/Arcane_Victory_160.png/revision/latest/scale-to-width-down/75?cb=20150414195605",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Victory"
-    },
-    {
-        "regex": "warmth",
-        "name": "Мистическое Тепло",
-        "effect": "20% / 40% / 60% / 80% chance to resist Cold proc",
-        "rarity": "Редкий",
-        "location": "Changing, check droptable",
-        "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/2a/Arcane_Warmth_160.png/revision/latest/scale-to-width-down/75?cb=20150403122843",
-        "info": "http://warframe.wikia.com/wiki/Arcane_Warmth"
-    },
-    {
-        "regex": "vigor",
-        "name": "Magus Vigor",
-        "effect": "50 / 100 / 150 / 200 Increased Health",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
-        "info": "http://warframe.wikia.com/wiki/Magus_Vigor"
-    },
-    {
-        "regex": "husk",
-        "name": "Magus Husk",
-        "effect": "25 / 50 / 75 / 100 Increased Armor",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/MagusHusk.png/revision/latest/scale-to-width-down/350?cb=20171129163018",
-        "info": "http://warframe.wikia.com/wiki/Magus_Husk"
-    },
-    {
-        "regex": "cloud",
-        "name": "Magus Cloud",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
-        "info": "http://warframe.wikia.com/wiki/Magus_Cloud"
-    },
-    {
-        "regex": "cadence",
-        "name": "Magus Cadence",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for 15% / 30% / 45% / 60% Increased sprint speed for 2 / 4 / 6 / 8 Seconds",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/MagusCadence.png/revision/latest/scale-to-width-down/350?cb=20171129163011",
-        "info": "http://warframe.wikia.com/wiki/Magus_Cadence"
-    },
-    {
-        "regex": "replenish",
-        "name": "Magus Replenish",
-        "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/MagusReplenish.png/revision/latest/scale-to-width-down/350?cb=20171129163024",
-        "info": "http://warframe.wikia.com/wiki/Magus_Replenish"
-    },
-    {
-        "regex": "elevate",
-        "name": "Magus Elevate",
-        "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/MagusElevate.png/revision/latest/scale-to-width-down/350?cb=20171129163015",
-        "info": "http://warframe.wikia.com/wiki/Magus_Elevate"
-    },
-    {
-        "regex": "nourish",
-        "name": "Magus Nourish",
-        "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/MagusNourish.png/revision/latest/scale-to-width-down/350?cb=20171129163020",
-        "info": "http://warframe.wikia.com/wiki/Magus_Nourish"
-    },
-    {
-        "regex": "null",
-        "name": "Virtuos Null",
-        "effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/VirtuosNull.png/revision/latest?cb=20171129163035",
-        "info": "http://warframe.wikia.com/wiki/Virtuos_Null"
-    },
-    {
-        "regex": "tempo",
-        "name": "Virtuos Tempo",
-        "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
-        "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
-    },
-    {
-        "regex": "fury",
-        "name": "Virtuos Fury",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
-        "info": "http://warframe.wikia.com/wiki/Virtuos_Fury"
-    },
-    {
-        "regex": "strike",
-        "name": "Virtuos Strike",
-        "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/VirtuosStrike.png/revision/latest/scale-to-width-down/350?cb=20171129163040",
-        "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
-    },
-    {
-        "regex": "shadow",
-        "name": "Virtuos Shadow",
-        "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Multiplicative critical chance for 3 / 6 / 9 / 12 seconds",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
-        "info": "http://warframe.wikia.com/wiki/Virtuos_Shadow"
-    },
-    {
-        "regex": "ghost",
-        "name": "Virtuos Ghost",
-        "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Increased status chance for 3 / 6 / 9 / 12 seconds",
-        "rarity": "Редкий",
-        "location": "Перья",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d6/VirtuosGhost.png/revision/latest/scale-to-width-down/350?cb=20171129163032",
-        "info": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
-    },
-    {
-        "regex": "brave",
-        "name": "Exodia Brave",
-        "effect": "On melee channel kill, 100% chance for 1.25 / 2.50 / 3.75 / 5.00 Increased energy regen for 1 / 2 / 3 / 4 seconds",
-        "rarity": "Редкий",
-        "location": "Hok's Anvil",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/ExodiaBrave.png/revision/latest?cb=20171129162951",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Brave"
-    },
-    {
-        "regex": "valor",
-        "name": "Exodia Valor",
-        "effect": "On critical hit, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased channeling damage for 3 / 6 / 9 / 12 Seconds",
-        "rarity": "Редкий",
-        "location": "Hok's Anvil",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c4/ExodiaValor.png/revision/latest?cb=20171129163009",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Valor"
-    },
-    {
-        "regex": "might",
-        "name": "Exodia Might",
-        "effect": "On finishers, 12.5% / 25% / 37.5% / 50% chance for 7.5% / 15% / 22.5% / 30% Lifesteal for 2 / 4 / 6 / 8 seconds",
-        "rarity": "Редкий",
-        "location": "Hok's Anvil",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/12/ExodiaMight.png/revision/latest/scale-to-width-down/350?cb=20171129163004",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Might"
-    },
-    {
-        "regex": "triumph",
-        "name": "Exodia Triumph",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased Channeling damage 3 / 6 / 9 / 12 seconds",
-        "rarity": "Редкий",
-        "location": "Hok's Anvil",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/00/ExodiaTriumph.png/revision/latest/scale-to-width-down/350?cb=20171129163006",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Triumph"
-    },
-    {
-        "regex": "hunt",
-        "name": "Exodia Hunt",
-        "effect": "On slam attack, 20% / 30% / 40% / 50% chance to pull in nearby enemies within 6m / 8m / 10m / 12m",
-        "rarity": "Редкий",
-        "location": "Hok's Anvil",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/ExodiaHunt.png/revision/latest/scale-to-width-down/350?cb=20171129163001",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Hunt"
-    },
-    {
-        "regex": "force",
-        "name": "Exodia Force",
-        "effect": "On status effect, 5% / 10% / 15% / 20% chance Burst for 80% / 100% / 120% / 150% weapon damage in 5m / 6m / 7m / 8m.",
-        "rarity": "Редкий",
-        "location": "Hok's Anvil",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/62/ExodiaForce.png/revision/latest/scale-to-width-down/350?cb=20171129162958",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Force"
-    },
-    {
-        "regex": "contagion",
-        "name": "Exodia Contation",
-        "effect": "After a double jump or bullet jump, on air attack, 100% / 200% / 300% / 400% projectile damage after 30m, range determined by gravity",
-        "rarity": "Редкий",
-        "location": "Event Syndicate (Plague Star)",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/ExodiaContagion.png/revision/latest/scale-to-width-down/350?cb=20171129162953",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Contagion"
-    },
-    {
-        "regex": "epidemic",
-        "name": "Exodia Epidemic",
-        "effect": "After a double jump or bullet jump, on slam attack, Projects damaging wave that suspends enemies in the air, dealing Viral damage up to 33m away for 1s / 2s / 3s / 4s",
-        "rarity": "Редкий",
-        "location": "Event Syndicate (Plague Star)",
-        "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/ExodiaEpidemic.png/revision/latest/scale-to-width-down/350?cb=20171129162956",
-        "info": "http://warframe.wikia.com/wiki/Exodia_Epidemic"
-    }
+  {
+    "regex": "ускорение",
+    "name": "Мистическое Ускорение",
+    "effect": "При критическом попадании, 5% / 10% / 15% / 20% шанс\nполучить 15% / 30% / 45% / 60% Скорострельность Винтовок\nв течение 1.5 / 3 / 4.5 / 6 Секунд",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/9/96/Arcane_Acceleration_160.png/revision/latest/scale-to-width-down/75?cb=20150407090527",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Acceleration"
+  },
+  {
+    "regex": "aegis",
+    "name": "Arcane Aegis",
+    "effect": "When DAMAGED 1.5% / 3% / 4.5% / 6% chance\nto give 15 / 30 / 45 / 60 Shield Regen per sec\nfor 5 / 10 / 15 / 20 Seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/b/b6/Arcane_Aegis_160.png/revision/latest/scale-to-width-down/75?cb=20151102021019",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Aegis"
+  },
+  {
+    "regex": "agility",
+    "name": "Мистическая Ловкость",
+    "effect": "When DAMAGED 3% / 6% / 9% / 16% chance \nto give 10% / 20% / 30% / 40% Movement Speed\nfor2 / 4 / 6 / 8 Seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/78/Arcane_Agility_160.png/revision/latest/scale-to-width-down/75?cb=20150414195529",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Agility"
+  },
+  {
+    "regex": "arachne",
+    "name": "Arcane Arachne",
+    "effect": "On WALL LATCH, 15% / 30% / 45% / 60% chance \nfor 100% Bonus Damage\n onNext Hit",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/c/c1/Arcane_Arachne_160.png/revision/latest/scale-to-width-down/75?cb=20151101102048",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Arachne"
+  },
+  {
+    "regex": "avenger",
+    "name": "Мистический Мститель",
+    "effect": "When DAMAGED 3.5% / 7% / 10.5% / 14% chance\nfor 7.5% / 15% / 22.5% / 30% Additive Critical Chance\nfor 2 / 4 / 6 / 8 Seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/8/88/Arcane_Avenger_160.png/revision/latest/scale-to-width-down/75?cb=20150508155706",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Avenger"
+  },
+  {
+    "regex": "awakening",
+    "name": "Мистическое Пробуждение",
+    "effect": "On RELOAD 10% / 20% / 30% / 40% chance\nto add 25% / 50% / 75% / 100% Damage to Secondaries\n for 4 / 8 / 12 / 16 Seconds",
+    "rarity": "Common",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/f/fa/Arcane_Awakening_160.png/revision/latest/scale-to-width-down/75?cb=20151031165006",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Awakening"
+  },
+  {
+    "regex": "barrier",
+    "name": "Мистический Барьер",
+    "effect": "When DAMAGED, 1% / 2% / 3% / 4% chance to Full Shield Recovery",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/c/c7/Arcane_Barrier_LQ.png/revision/latest/scale-to-width-down/75?cb=20151031165652",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Barrier"
+  },
+  {
+    "regex": "consequence",
+    "name": "Arcane Consequence",
+    "effect": "On headshot, 25% / 50% / 75% / 100% chance\nto give 10% / 20% / 30% / 40% increased Aim Glide/Wall Latch\n for 3 / 6 / 9 / 12 Seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/8/82/Arcane_Consequence_160.png/revision/latest/scale-to-width-down/75?cb=20151031215624",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Consequence"
+  },
+  {
+    "regex": "deflection",
+    "name": "Мистическое Преломление",
+    "effect": "20% / 40% / 60% / 80% chance to Resist Slash proc",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/b/b1/Arcane_Deflection_160.png/revision/latest/scale-to-width-down/75?cb=20150414010409",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Deflection"
+  },
+  {
+    "regex": "energize",
+    "name": "Arcane Energize",
+    "effect": "On energy pickup, 10% / 20% / 30% / 40% chance\nto replenish  25 / 50 / 75 / 100 energy to nearby allies\nwithin 5 / 10 / 15 / 20 Meters",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e3/Arcane_Energize_160.png/revision/latest/scale-to-width-down/75?cb=20151102150026",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Energize"
+  },
+  {
+    "regex": "eruption",
+    "name": "Мистический Взрыв",
+    "effect": "On energy pickup, 5% / 10% / 15% / 20% chance\nto Knockdown nearby Enemies\nwithin 5 / 10 / 15 / 20 Meters",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/2/2d/Arcane_Eruption_160.png/revision/latest/scale-to-width-down/75?cb=20150404083642",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Eruption"
+  },
+  {
+    "regex": "fury",
+    "name": "Мистическая Ярость",
+    "effect": "On critical hit, 10% / 20% / 30% / 40% chance\n to give 30% / 60% / 90% / 120% increased Damage on Melee\n for 3 / 6 / 9 / 12 seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/8/8d/Arcane_Fury_160.png/revision/latest/scale-to-width-down/75?cb=20151102161322",
+    "info": "https://warframe.fandom.com/ru/wiki/Мистическая_Ярость"
+  },
+  {
+    "regex": "grace",
+    "name": "Мистическая Благодать",
+    "effect": "When damaged, 1.5% / 3% / 4.5% / 6% chance\nfor 1% / 2% / 3% / 4% Health Regen/sec for 1.5 / 3 / 4.5 / 6 seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/44/Arcane_Grace_Icon.png/revision/latest/scale-to-width-down/75?cb=20150420152648",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Grace"
+  },
+  {
+    "regex": "guardian",
+    "name": "Мистический Страж",
+    "effect": "When damaged, 5% / 10% / 15% / 20% chance\nto give 150 / 300 / 450 / 600 Armor\n for 5 / 10 / 15 / 20 seconds",
+    "rarity": "Common",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/8/80/Arcane_Guardian_160.png/revision/latest/scale-to-width-down/75?cb=20150413184813",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Guardian"
+  },
+  {
+    "regex": "healing",
+    "name": "Мистическое Заживление",
+    "effect": "20% / 40% / 60% / 80% chance to resist Radiation proc",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "http://warframe.wikia.com/wiki/Arcane_Healing",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Healing"
+  },
+  {
+    "regex": "холод",
+    "name": "Мистический Лёд",
+    "effect": "20% / 40% / 60% / 80% chance to resist Heat proc",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/c/ca/Arcane_Ice_160.png/revision/latest/scale-to-width-down/75?cb=20150407090538",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Ice"
+  },
+  {
+    "regex": "momentum",
+    "name": "Arcane Momentum",
+    "effect": "On critical hit, 10% / 20% / 30% / 40% chance\nto give 25% / 50% / 75% / 100% Fire Rate on Snipers\nfor 2 / 4 / 6 / 8 seconds",
+    "rarity": "Common",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/3/39/Arcane_Momentum_160.png/revision/latest/scale-to-width-down/75?cb=20151101104354",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Momentum"
+  },
+  {
+    "regex": "nullifier",
+    "name": "Мистическое Обнуление",
+    "effect": "20% / 40% / 60% / 80% chance to resist Magnetic proc",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/6/6a/Arcane_Nullifier_160.png/revision/latest/scale-to-width-down/75?cb=20150413134726",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Nullifier"
+  },
+  {
+    "regex": "phantasm",
+    "name": "Мистический Призрак",
+    "effect": "On PARRY 4% / 8% / 12% / 16% chance\nto give 5% / 10% / 15% / 20 increased Movement Speed\nfor 3 / 6 / 9 / 12 seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/e/ed/Arcane_Phantasm_160.png/revision/latest/scale-to-width-down/75?cb=20150415041516",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Phantasm"
+  },
+  {
+    "regex": "precision",
+    "name": "Arcane Precision",
+    "effect": "On headshot, 20% / 40% / 60% / 80% chance\nto give 30% / 60% / 90% / 120% increased damage on secondaries\n for 2 / 4 / 6 / 8 seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a9/Arcane_Precision_160.png/revision/latest/scale-to-width-down/75?cb=20151031073431",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Precision"
+  },
+  {
+    "regex": "pulse",
+    "name": "Мистический Импульс",
+    "effect": "On health pickup, 5% / 10% / 15% / 20% chance\nto heals 25 / 50 / 75 / 100 to nearby Allies\n within 5 / 10 / 15 / 20 meters",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/e/e7/Arcane_Pulse_160.png/revision/latest/scale-to-width-down/75?cb=20150414010427",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Pulse"
+  },
+  {
+    "regex": "rage",
+    "name": "Мистический Гнев",
+    "effect": "On headshot, 2.5% / 5% / 7.5% / 10% chance\n to give 30% / 60% / 90% / 120% increased Damage on Primaries\nfor 4 / 8 / 12 / 16 seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/3/3b/Arcane_Rage_160.png/revision/latest/scale-to-width-down/75?cb=20150407090655",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Rage"
+  },
+  {
+    "regex": "resistance",
+    "name": "Мистическое Сопротивление",
+    "effect": "20% / 40% / 60% / 80% chance to resist Electricity proc",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e4/Arcane_Resistance_160.png/revision/latest/scale-to-width-down/75?cb=20150414071159",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Resistance"
+  },
+  {
+    "regex": "strike",
+    "name": "Мистический Удар",
+    "effect": "On HIT 2.5% / 5% / 7.5% / 10% chance\nto give 10% / 20% / 30% / 40% Attack Speed on Melee\nfor3 / 6 / 9 / 12 seconds",
+    "rarity": "Common",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette1.wikia.nocookie.net/warframe/images/a/a0/Arcane_Strike_160.png/revision/latest/scale-to-width-down/75?cb=20150413191053",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Strike"
+  },
+  {
+    "regex": "tempo",
+    "name": "Arcane Tempo",
+    "effect": "On critical hit, 2.5% / 5% / 7.5% / 10% chance\nto give 15% / 30% / 45% / 60% increased Fire Rate on Shotguns\nfor 2 / 4 / 6 / 8 Seconds",
+    "rarity": "Common",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette4.wikia.nocookie.net/warframe/images/a/aa/Arcane_Tempo_160.png/revision/latest/scale-to-width-down/75?cb=20151102162933",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Tempo"
+  },
+  {
+    "regex": "trickery",
+    "name": "Мистический Обман",
+    "effect": "On finisher, 2.5% / 5% / 7.5% / 10% chance\nto go invisible\nfor 5 / 10 / 15 / 20 seconds",
+    "rarity": "Common",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/7/75/Arcane_Trickery_160.png/revision/latest/scale-to-width-down/75?cb=20150413185559",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Trickery"
+  },
+  {
+    "regex": "ultimatum",
+    "name": "Arcane Ultimatum",
+    "effect": "On finisher, 25% / 50% / 75% / 100% chance\to give 150 / 300 / 450 / 600 Armor\nfor 10 / 20 / 30 / 40 seconds",
+    "rarity": "Common",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/4/48/Arcane_Ultimatum_160.png/revision/latest/scale-to-width-down/75?cb=20151101031844",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Ultimatum"
+  },
+  {
+    "regex": "velocity",
+    "name": "Arcane Velocity",
+    "effect": "On critical hit, 15% / 30% / 45% / 60% chance\nto give 20% / 40% / 60% / 80% increased fire rate on Secondaries\nfor 1.5 / 3 / 4.5 / 6 seconds",
+    "rarity": "Common",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette3.wikia.nocookie.net/warframe/images/e/e2/Arcane_Velocity_160.png/revision/latest/scale-to-width-down/75?cb=20151031164830",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Velocity"
+  },
+  {
+    "regex": "victory",
+    "name": "Мистическая Победа",
+    "effect": "On headshot, 2% / 4% / 6% / 8% chance\nto give 0.5% / 1.0% / 1.5% / 2.0% Health Regen/sec\nfor 2 / 4 / 6 / 8 seconds",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/25/Arcane_Victory_160.png/revision/latest/scale-to-width-down/75?cb=20150414195605",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Victory"
+  },
+  {
+    "regex": "warmth",
+    "name": "Мистическое Тепло",
+    "effect": "20% / 40% / 60% / 80% chance to resist Cold proc",
+    "rarity": "Редкий",
+    "location": "Changing, check droptable",
+    "thumbnail": "https://vignette2.wikia.nocookie.net/warframe/images/2/2a/Arcane_Warmth_160.png/revision/latest/scale-to-width-down/75?cb=20150403122843",
+    "info": "http://warframe.wikia.com/wiki/Arcane_Warmth"
+  },
+  {
+    "regex": "vigor",
+    "name": "Magus Vigor",
+    "effect": "50 / 100 / 150 / 200 Increased Health",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
+    "info": "http://warframe.wikia.com/wiki/Magus_Vigor"
+  },
+  {
+    "regex": "husk",
+    "name": "Magus Husk",
+    "effect": "25 / 50 / 75 / 100 Increased Armor",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/94/MagusHusk.png/revision/latest/scale-to-width-down/350?cb=20171129163018",
+    "info": "http://warframe.wikia.com/wiki/Magus_Husk"
+  },
+  {
+    "regex": "cloud",
+    "name": "Magus Cloud",
+    "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for Immunity to fall damage for 2 / 4 / 6 / 8 seconds",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f3/MagusVigor.png/revision/latest/scale-to-width-down/350?cb=20171129163026",
+    "info": "http://warframe.wikia.com/wiki/Magus_Cloud"
+  },
+  {
+    "regex": "cadence",
+    "name": "Magus Cadence",
+    "effect": "On VOID DASH 25% / 50% / 75% / 100% chance for 15% / 30% / 45% / 60% Increased sprint speed for 2 / 4 / 6 / 8 Seconds",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/48/MagusCadence.png/revision/latest/scale-to-width-down/350?cb=20171129163011",
+    "info": "http://warframe.wikia.com/wiki/Magus_Cadence"
+  },
+  {
+    "regex": "replenish",
+    "name": "Magus Replenish",
+    "effect": "On VOID DASH 25% / 50% / 75% / 100% chance to heal 5% / 10% / 15% / 20%",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/MagusReplenish.png/revision/latest/scale-to-width-down/350?cb=20171129163024",
+    "info": "http://warframe.wikia.com/wiki/Magus_Replenish"
+  },
+  {
+    "regex": "elevate",
+    "name": "Magus Elevate",
+    "effect": "Upon entering Warframe, 30% / 40% / 50% / 75% chance to heal Warframe for 50 / 100 / 150 / 200",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/MagusElevate.png/revision/latest/scale-to-width-down/350?cb=20171129163015",
+    "info": "http://warframe.wikia.com/wiki/Magus_Elevate"
+  },
+  {
+    "regex": "nourish",
+    "name": "Magus Nourish",
+    "effect": "Upon exiting Warframe, heal Warframe by 10 / 15 / 20 / 25 per second While Transference (Operator Mode) is active.",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/MagusNourish.png/revision/latest/scale-to-width-down/350?cb=20171129163020",
+    "info": "http://warframe.wikia.com/wiki/Magus_Nourish"
+  },
+  {
+    "regex": "null",
+    "name": "Virtuos Null",
+    "effect": "On kill, 5% / 10% / 15% / 20% Increased Amp energy regen 1 / 2 / 3 / 4 seconds",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/73/VirtuosNull.png/revision/latest?cb=20171129163035",
+    "info": "http://warframe.wikia.com/wiki/Virtuos_Null"
+  },
+  {
+    "regex": "tempo",
+    "name": "Virtuos Tempo",
+    "effect": "On kill, 15% / 30% / 45% / 60% chance for 15% / 30% / 45% / 60% Increased fire rate for 2 / 4 / 6 / 8 seconds",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
+    "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
+  },
+  {
+    "regex": "fury",
+    "name": "Virtuos Fury",
+    "effect": "On status effect, 5% / 10% / 15% / 20% chance for 7.5% / 15% / 22.5% / 30% Increased Damage for 1 / 2 / 3 / 4 seconds",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/VirtuosFury.png/revision/latest?cb=20171129163029",
+    "info": "http://warframe.wikia.com/wiki/Virtuos_Fury"
+  },
+  {
+    "regex": "strike",
+    "name": "Virtuos Strike",
+    "effect": "On critical, 5% / 10% / 15% / 20% chance for 15% / 30% / 45% / 60% Increased critical damage for 1 / 2 / 3 / 4 seconds",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/46/VirtuosStrike.png/revision/latest/scale-to-width-down/350?cb=20171129163040",
+    "info": "http://warframe.wikia.com/wiki/Virtuos_Tempo"
+  },
+  {
+    "regex": "shadow",
+    "name": "Virtuos Shadow",
+    "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Multiplicative critical chance for 3 / 6 / 9 / 12 seconds",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/56/VirtuosTempo.png/revision/latest/scale-to-width-down/350?cb=20171129163042",
+    "info": "http://warframe.wikia.com/wiki/Virtuos_Shadow"
+  },
+  {
+    "regex": "ghost",
+    "name": "Virtuos Ghost",
+    "effect": "On headshot, 10% / 20% / 30% / 40% chance for 15% / 30% / 45% / 60% Increased status chance for 3 / 6 / 9 / 12 seconds",
+    "rarity": "Редкий",
+    "location": "Перья",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d6/VirtuosGhost.png/revision/latest/scale-to-width-down/350?cb=20171129163032",
+    "info": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
+  },
+  {
+    "regex": "brave",
+    "name": "Exodia Brave",
+    "effect": "On melee channel kill, 100% chance for 1.25 / 2.50 / 3.75 / 5.00 Increased energy regen for 1 / 2 / 3 / 4 seconds",
+    "rarity": "Редкий",
+    "location": "Hok's Anvil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/ExodiaBrave.png/revision/latest?cb=20171129162951",
+    "info": "http://warframe.wikia.com/wiki/Exodia_Brave"
+  },
+  {
+    "regex": "valor",
+    "name": "Exodia Valor",
+    "effect": "On critical hit, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased channeling damage for 3 / 6 / 9 / 12 Seconds",
+    "rarity": "Редкий",
+    "location": "Hok's Anvil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c4/ExodiaValor.png/revision/latest?cb=20171129163009",
+    "info": "http://warframe.wikia.com/wiki/Exodia_Valor"
+  },
+  {
+    "regex": "might",
+    "name": "Exodia Might",
+    "effect": "On finishers, 12.5% / 25% / 37.5% / 50% chance for 7.5% / 15% / 22.5% / 30% Lifesteal for 2 / 4 / 6 / 8 seconds",
+    "rarity": "Редкий",
+    "location": "Hok's Anvil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/12/ExodiaMight.png/revision/latest/scale-to-width-down/350?cb=20171129163004",
+    "info": "http://warframe.wikia.com/wiki/Exodia_Might"
+  },
+  {
+    "regex": "triumph",
+    "name": "Exodia Triumph",
+    "effect": "On status effect, 5% / 10% / 15% / 20% chance for 50% / 100% / 150% / 200% Increased Channeling damage 3 / 6 / 9 / 12 seconds",
+    "rarity": "Редкий",
+    "location": "Hok's Anvil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/00/ExodiaTriumph.png/revision/latest/scale-to-width-down/350?cb=20171129163006",
+    "info": "http://warframe.wikia.com/wiki/Exodia_Triumph"
+  },
+  {
+    "regex": "hunt",
+    "name": "Exodia Hunt",
+    "effect": "On slam attack, 20% / 30% / 40% / 50% chance to pull in nearby enemies within 6m / 8m / 10m / 12m",
+    "rarity": "Редкий",
+    "location": "Hok's Anvil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/ExodiaHunt.png/revision/latest/scale-to-width-down/350?cb=20171129163001",
+    "info": "http://warframe.wikia.com/wiki/Exodia_Hunt"
+  },
+  {
+    "regex": "force",
+    "name": "Exodia Force",
+    "effect": "On status effect, 5% / 10% / 15% / 20% chance Burst for 80% / 100% / 120% / 150% weapon damage in 5m / 6m / 7m / 8m.",
+    "rarity": "Редкий",
+    "location": "Hok's Anvil",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/62/ExodiaForce.png/revision/latest/scale-to-width-down/350?cb=20171129162958",
+    "info": "http://warframe.wikia.com/wiki/Exodia_Force"
+  },
+  {
+    "regex": "contagion",
+    "name": "Exodia Contation",
+    "effect": "After a double jump or bullet jump, on air attack, 100% / 200% / 300% / 400% projectile damage after 30m, range determined by gravity",
+    "rarity": "Редкий",
+    "location": "Event Syndicate (Plague Star)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/22/ExodiaContagion.png/revision/latest/scale-to-width-down/350?cb=20171129162953",
+    "info": "http://warframe.wikia.com/wiki/Exodia_Contagion"
+  },
+  {
+    "regex": "epidemic",
+    "name": "Exodia Epidemic",
+    "effect": "After a double jump or bullet jump, on slam attack, Projects damaging wave that suspends enemies in the air, dealing Viral damage up to 33m away for 1s / 2s / 3s / 4s",
+    "rarity": "Редкий",
+    "location": "Event Syndicate (Plague Star)",
+    "thumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1d/ExodiaEpidemic.png/revision/latest/scale-to-width-down/350?cb=20171129162956",
+    "info": "http://warframe.wikia.com/wiki/Exodia_Epidemic"
+  }
 ]
