@@ -19433,6 +19433,10 @@
   "CetusSyndicate": {
     "value": "Острон"
   },
+  "ChannelDrain": {
+    "value": "Channeled Greed",
+    "desc": "While a Channeled Ability is active, maximum shields and overshields are reduced each second. 10s cooldown to fully recover."
+  },
   "ChemicalNoise": {
     "value": "Noise Suppression",
     "desc": "Drones fly above Flare, spraying them with Efervon gas."
