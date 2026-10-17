@@ -29,6 +29,18 @@
   "/Lotus/Language/TauPrequel/TauPrequelFinal/TauPrequelEventName": {
     "value": "Operation: Blood of Perita"
   },
+  "/Lotus/Language/TauPrologue/EventAlertTitle": {
+    "value": "Moonflesh Locus Detected"
+  },
+  "/Lotus/Language/TauPrologue/RoadToTauEventName": {
+    "value": "Epoch Operation: Taubound"
+  },
+  "/Lotus/Language/TauPrologue/RoadToTauEventScore": {
+    "value": "Global Harvesting Progress"
+  },
+  "/Lotus/Language/TauPrologue/RoadToTauShortEventDesc": {
+    "value": "Defeat infested on any infested node surrounding Eris to harvest Moonflesh!"
+  },
   "/Lotus/Powersuits/Odalisk/Odalisk": {
     "value": "Протея"
   },
@@ -667,6 +679,12 @@
   "/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCompleteConquest": {
     "value": "Voluntary Specimen",
     "desc": "Complete a run of Deep Archimedea or Temporal Archimedea"
+  },
+  "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventPickup": {
+    "value": "Moonflesh"
+  },
+  "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource": {
+    "value": "Moonflesh"
   },
   "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem": {
     "value": "Леткі порошинки"
