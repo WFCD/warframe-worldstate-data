@@ -922,6 +922,10 @@
     "value": "Punchcard",
     "desc": "Add +1.5m punch through to primary weapons."
   },
+  "/Lotus/Upgrades/Calendar/RadialJavelinOnHeavy": {
+    "value": "Heavy Javelin",
+    "desc": "Heavy melee attacks trigger Radial Javelin with 3m range and 1000 damage scaling both with combo multiplier."
+  },
   "/Lotus/Upgrades/Calendar/RadiationProcOnTakeDamage": {
     "value": "Psionic Feedback",
     "desc": "On Damaged 10% chance to set off a 250 damage, 5m radius blast of radiation on taking damage."
