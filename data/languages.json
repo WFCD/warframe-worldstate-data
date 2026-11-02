@@ -664,6 +664,14 @@
     "value": "Artist",
     "desc": "Customize a piece of equipment's colours"
   },
+  "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyWholeArsenal": {
+    "value": "Whole Arsenal",
+    "desc": "Get a kill with your Primary, Secondary and Melee weapons within 10 seconds."
+  },
+  "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyCollectHundredResources": {
+    "value": "Gatherer",
+    "desc": "Collect 4,000 Resources"
+  },
   "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyCompleteRace": {
     "value": "Ollie Oop!",
     "desc": "Play Ollie's Crash Course and complete a race."
