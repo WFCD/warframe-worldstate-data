@@ -684,6 +684,10 @@
     "value": "Kleptomaniac",
     "desc": "Open 30 Lockers"
   },
+  "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyToAshes": {
+    "value": "To Ashes",
+    "desc": "Dissolve an Arcane for Vosfor."
+  },
   "/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCeremonialEvolution": {
     "value": "Ceremonial Evolution",
     "desc": "Evolve any Incarnon weapon in-mission 5 times"
@@ -19620,6 +19624,10 @@
   "InfectedTechrot": {
     "value": "Corrupted Flesh",
     "desc": "Techrot enemies are infused with Efervon and take damage over time. They explode when killed and leave behind deadly Efervon in their wake."
+  },
+  "InfectedWounds": {
+    "value": "Infected Wounds",
+    "desc": "Gain a Toxin Status Effect every time you take damage."
   },
   "InfiniteTide": {
     "value": "Relentless Tide",
