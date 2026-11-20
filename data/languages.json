@@ -19447,6 +19447,10 @@
     "value": "Commanding Culverins",
     "desc": "Rogue Culverins equip weapons that deal 5x Damage to Overguard and Necramechs."
   },
+  "AoeDebuff": {
+    "value": "Low Yield",
+    "desc": "Blast radius of weapons with radial attacks set to 3m."
+  },
   "ArbitersSyndicate": {
     "value": "Arbiters of Hexis"
   },
@@ -19718,6 +19722,10 @@
   },
   "RadioLegionSyndicate": {
     "value": "The Wolf of Saturn Six"
+  },
+  "RangeDebuff": {
+    "value": "Shortened Reach",
+    "desc": "Ability range reduced by 50%."
   },
   "RedVeilSyndicate": {
     "value": "Red Veil"
